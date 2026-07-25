@@ -1,0 +1,537 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Electrification and technology upheaval reshape auto industry",
+      "description": "The automotive industry, including commercial vehicles, is undergoing a profound transformation driven by electrification, software-centric vehicle architectures, and advanced technologies like AI. This structural shift necessitates new capabilities, extensive R&D investments, and strategic partnerships, fundamentally altering design, production processes, and market dynamics for CV manufacturers globally.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-26"
+    },
+    {
+      "index": 2,
+      "title": "Partnerships scale EV assets and supply chain",
+      "description": "OEMs are leveraging joint ventures and strategic alliances to scale electrification assets, secure essential components like batteries, and build critical EV infrastructure such as charging networks. This collaborative approach allows commercial vehicle manufacturers to share the risk of multibillion-dollar investments, stabilize access to vital EV components, and expand into new regions, accelerating the transition to electric commercial vehicles.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-26"
+    },
+    {
+      "index": 3,
+      "title": "Electric buses achieve TCO parity in intracity operations",
+      "description": "Electric buses have achieved Total Cost of Ownership (TCO) parity with Diesel and CNG alternatives for public intracity transport, outperforming them at daily runs of 150 kilometers or more. With falling battery costs and rising fuel prices, this breakeven threshold is projected to drop further, significantly expanding the economic viability and accelerating the adoption of electric buses across a wider range of urban routes.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 4,
+      "title": "Low localization of critical e-bus components",
+      "description": "The electric bus supply chain suffers from low localization of key components such as battery packs, power electronics, and traction motors. This heavy reliance on imports, particularly from China, exposes OEMs to geopolitical risks, cost volatility, and operational uncertainty. Addressing this vulnerability requires significant government intervention and strategic initiatives to strengthen domestic manufacturing capabilities.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 5,
+      "title": "Strategic partnerships crucial for scale and efficiency",
+      "description": "Commercial vehicle OEMs are increasingly forming partnerships, including joint ventures and technology alliances, to address industry constraints like software complexity, capital intensity, and the need for scale. These collaborations enable platform sharing, co-development of critical technologies, and efficient capital deployment, helping manufacturers lower unit costs, accelerate time to market, and extend capabilities without unsustainable cost or complexity.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-26"
+    },
+    {
+      "index": 6,
+      "title": "Government mandates drive e-bus adoption, policy support",
+      "description": "India's government-led initiatives, including FAME I, FAME II, PM-eBus Sewa, and PM E-DRIVE, are significantly accelerating electric bus adoption. These programs offer policy-driven procurement cycles, subsidies, centralized tendering, and support for ecosystem readiness like charging networks, creating a robust framework that makes e-bus procurement commercially viable for State Transport Undertakings (STUs) and aligns with decarbonization goals.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 7,
+      "title": "Innovative financing models boost e-bus adoption",
+      "description": "New business models like Battery-as-a-Service (BaaS) and operating leases are emerging to address the high upfront costs and technology risks associated with electric buses. These models decouple battery ownership from the vehicle and shift residual value risk from operators, significantly easing capital burden and accelerating fleet electrification, especially for fragmented private operators who traditionally face financing constraints.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 8,
+      "title": "Holistic ecosystem approach for e-bus transition",
+      "description": "India's e-bus transition requires a comprehensive ecosystem approach that includes physical infrastructure (depots, fast-charging stations, grid upgrades), affordable financing (viability gap funding, green bonds), and social infrastructure (workforce skilling). Targeted incentives for private fleets and battery reuse/recycling initiatives are also vital, creating a scalable, sustainable framework that fosters investment, innovation, and inclusive growth for electric commercial vehicles.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 9,
+      "title": "Industry overcapacity and electrification challenges temper CEO confidence",
+      "description": "Despite overall optimism for the automotive sector's growth, CEOs of commercial vehicle manufacturers express caution regarding their own organizations' ability to execute transformation. This stems from challenges posed by industry overcapacity, coupled with the complexities of electrification and digitalization. These factors contribute to a tempered confidence, signaling the significant hurdles in achieving required speed and scale for successful adaptation and competitive positioning.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 10,
+      "title": "State mandates for 100% electric CV fleets",
+      "description": "Specific state-level commitments, such as Madhya Pradesh's goal for 100% electric commercial and logistics fleets and buses by 2028, represent powerful tailwinds for the commercial vehicle sector. These mandates drive rapid and complete electrification within regional markets, compelling manufacturers and operators to accelerate their transition to electric models and associated infrastructure.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 11,
+      "title": "Volatile trade policies fracturing global supply chains",
+      "description": "Global trade and policy uncertainties, including fluctuating tariff programs and shifting industrial policies, are increasingly fracturing supply chains and complicating long-term capital planning for automotive OEMs. This environment directly impacts commercial vehicle manufacturers by increasing operational risks, hindering strategic investments, and necessitating adaptive strategies to localise exposure and preserve strategic flexibility in sourcing and production.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-26"
+    },
+    {
+      "index": 12,
+      "title": "Partnerships mitigate capital intensity and investment risk",
+      "description": "The high capital intensity and evolving market dynamics in the automotive sector, particularly for commercial vehicles, drive OEMs towards partnerships for risk sharing. Collaborations allow manufacturers to stabilize access to critical assets, recover invested capital (e.g., from battery plants), and redeploy resources towards vehicle portfolio expansion, fostering agility and preserving strategic flexibility in an uncertain environment.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-26"
+    },
+    {
+      "index": 13,
+      "title": "Supply chain, charging infrastructure hinder e-bus deployment",
+      "description": "Despite aggressive tendering, the deployment of electric buses faces persistent structural and operational challenges. Key bottlenecks include global supply chain dependencies for critical components like batteries and motors, manufacturing capacity constraints, and inadequate depot and charging infrastructure, particularly in Tier-2 cities. These issues significantly delay the fulfillment of awarded tenders and slow broader market penetration of electric commercial vehicles.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 14,
+      "title": "Government strengthens domestic manufacturing for EVs",
+      "description": "To mitigate supply chain risks and reduce import dependence, the Indian government is implementing bold measures such as PLI schemes, Phased Manufacturing Program (PMP) localization mandates, and strategic initiatives like the India Semiconductor Mission and National Critical Mineral Mission. These interventions aim to build a resilient domestic supply chain for electric commercial vehicle components, fostering self-reliance and stability.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 15,
+      "title": "BEV margins trailing ICE, financial challenge for transition",
+      "description": "Battery Electric Vehicle (BEV) margins are projected to remain below those of Internal Combustion Engine (ICE) vehicles through 2035, posing a significant financial risk for commercial vehicle OEMs. Exiting ICE production prematurely to accelerate BEV investment could deplete the very profits needed to fund the costly transition, highlighting the critical importance of strategic portfolio management and timing to sustain profitability during this shift.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-20"
+    },
+    {
+      "index": 16,
+      "title": "Aggressive government EV targets for CVs and buses",
+      "description": "India has set ambitious targets for electric vehicle adoption, aiming for 70% EV penetration in commercial vehicles and 40% in buses by 2030. These aggressive goals, coupled with significant policy support like the PM E-DRIVE scheme, create a strong tailwind for the electric commercial vehicle segment, driving demand, investment, and innovation across the industry.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 17,
+      "title": "Expanded financing options for commercial vehicles",
+      "description": "Partnerships between major automotive OEMs (e.g., Tata Motors, Maruti Suzuki) and financial institutions are significantly expanding financing options for commercial vehicles. These collaborations offer competitive interest rates, flexible loan structures, and digitally-enabled processing, improving the accessibility and affordability of CV purchases for customers, thereby boosting sales and market penetration across various segments.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 18,
+      "title": "Varying pace of electrification influencing strategies",
+      "description": "The automotive industry faces uncertainty regarding the pace of electrification, specifically the trajectories of Battery Electric Vehicles (BEVs) versus Hybrid Electric Vehicles (HEVs). This variability impacts commercial vehicle OEMs' investment strategies, as premature exit from ICE vehicles could forfeit margins funding the transition. OEMs must carefully navigate these powertrain choices to align with evolving market and regulatory dynamics, ensuring value creation.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-20"
+    },
+    {
+      "index": 19,
+      "title": "Global supply chain disruptions and geopolitical tensions",
+      "description": "Commercial vehicle manufacturers face significant headwinds from global supply chain disruptions, intensified by territorial conflicts, trade changes, and rising energy costs. This necessitates widespread restructuring, including strategies like near-shoring and 'China + 1', to hedge against tariff threats and ensure operational continuity. The increased cost of raw materials like steel, aluminum, and copper further compounds the challenges, impacting production and profitability.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 20,
+      "title": "NITI Aayog proposes 100% electric buses and freight",
+      "description": "NITI Aayog's proposal for a national EV policy targeting 100% electrification of buses and freight vehicles, with a focus on mandates rather than subsidies, could be a transformative structural change for the commercial vehicle industry. If implemented, this would necessitate a complete overhaul of current fleets, driving unprecedented demand and investment in electric trucks and buses, reshaping the entire segment.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 21,
+      "title": "800,000 diesel buses to electrify by 2030",
+      "description": "A major government scheme aims to transition 800,000 diesel buses to environmentally friendly alternatives by 2030, including 200,000 for STUs, 550,000 for private operators, and 50,000 for school/employee transport. This represents a monumental structural shift for the bus segment of commercial vehicles, creating immense demand for electric bus manufacturing and related infrastructure, drastically altering fleet composition.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Aggressive e-bus tendering reflects commitment, but execution depends on ecosystem",
+      "description": "India plans to tender an additional 40,000 e-buses by FY30 through both central and state initiatives, underscoring its significant commitment to sustainable mobility. The Payment Security Mechanism will de-risk many of these deployments. However, the successful transition of these tenders into operational fleets critically depends on synchronized efforts in infrastructure readiness, OEM capacity expansion, supply chain localization, and robust financial mechanisms.",
+      "stance": "cautious_positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-05-01",
+      "source_doc_id": "8a9d3479-5d4f-53bf-850a-c074b05e9fac"
+    },
+    {
+      "index": 2,
+      "title": "India sets aggressive EV targets for commercial vehicles and buses by 2030",
+      "description": "India aims for a transformative shift towards electric mobility, targeting 70% EV penetration in commercial vehicles and 40% in buses by 2030, contributing to 80 million EVs on roads. This ambitious objective is underpinned by substantial government support, including the US$1.30 billion PM E-DRIVE scheme, designed to boost EV adoption, enhance charging infrastructure, and promote domestic manufacturing across the entire EV ecosystem.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "source_doc_id": "1a66985e-0a9e-5b3f-8810-0ae95a28c5c2"
+    },
+    {
+      "index": 3,
+      "title": "Indian bus market poised for strong growth driven by electrification",
+      "description": "The Indian bus market is set for significant expansion, recovering robustly from the pandemic, propelled by fleet modernization and infrastructure upgrades. Electrification is a key transformation, essential for decarbonization and energy efficiency. Public sector e-bus adoption has achieved TCO parity for intracity operations, and the private sector presents the next growth frontier by 2030. This signals a robust, long-term growth trajectory for the e-bus segment.",
+      "stance": "positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-05-01",
+      "source_doc_id": "8a9d3479-5d4f-53bf-850a-c074b05e9fac"
+    },
+    {
+      "index": 4,
+      "title": "OEMs need precise electrification strategies: segment, powertrain, and timing are key",
+      "description": "The automotive industry faces intense competition and market fragmentation. OEMs must move beyond broad growth forecasts and develop precise strategies for electrification, considering specific segment dynamics, powertrain choices (BEV vs. Hybrid), and market entry timing. Value creation is not guaranteed by growth alone, but by strategic execution in areas where competitive saturation is lower or where existing capabilities can be leveraged for superior per-unit economics.",
+      "stance": "neutral",
+      "source_firm": "bcg_global",
+      "source_date": "2026-04-20",
+      "source_doc_id": "dc48e3d1-79c4-5d1e-879c-35e86f1b11e0"
+    },
+    {
+      "index": 5,
+      "title": "India's e-bus market entering high-growth phase, but supply chain vulnerabilities remain",
+      "description": "India's electric bus market is experiencing rapid growth, with OEMs expanding production amidst increasing demand and new players competing. However, significant vulnerabilities exist in the supply chain due to low localization of critical components, leading to import dependence and geopolitical risks. Government measures and a holistic ecosystem approach are crucial to strengthen domestic manufacturing, infrastructure, and financing to sustain this high-growth phase.",
+      "stance": "cautious_positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-05-01",
+      "source_doc_id": "8a9d3479-5d4f-53bf-850a-c074b05e9fac"
+    },
+    {
+      "index": 6,
+      "title": "Automotive CEOs optimistic about growth but cautious on internal transformation execution",
+      "description": "Automotive sector CEOs express high confidence in the global industry's growth prospects but are more reserved regarding their individual companies' capacity to rapidly execute the necessary transformations. This cautious stance stems from the heightened complexity of the CEO role, demanding strategic agility, resilience, and the orchestration of innovation through partnerships, especially in areas like electrification, digitalization, and AI integration amidst geopolitical uncertainties.",
+      "stance": "cautious_positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-04-01",
+      "source_doc_id": "2755d417-6c68-5be8-81a0-50090b0f78b9"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 2.05,
+      "tam_unit": "MT",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Supportive Government Policies",
+          "description": "Policies fuel EV adoption across various vehicle segments."
+        },
+        {
+          "driver": "CO2 Emission Reduction Goals",
+          "description": "The country's climate goals drive the transition to electric vehicles."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total electric vehicle sales in India.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Ambitious Government EV Penetration Targets",
+          "description": "Government policy mandates and targets for EV adoption in commercial vehicles and buses create a significant and defined future demand for electric CVs."
+        },
+        {
+          "driver": "PM E-DRIVE Scheme",
+          "description": "Government scheme with a substantial budget to boost EV adoption, charging infrastructure, and manufacturing will directly contribute to market growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Aggressive government targets create a massive underpenetrated market for electric trucks and buses, offering significant growth opportunities.",
+          "opportunity": "Electric Commercial Vehicles and Buses"
+        }
+      ],
+      "methodology": "Government policy targets for electric vehicle penetration. India aims for 70% EV penetration in commercial vehicles and 40% in buses by 2030.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 300.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong Policy Support",
+          "description": "Government initiatives and regulations are fostering overall industry growth."
+        },
+        {
+          "driver": "Domestic Demand and Exports",
+          "description": "Growth is fueled by robust internal consumption and increasing export opportunities."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projection for the total Indian automotive industry size. Commercial Vehicles are a segment of this larger market.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 754067.0,
+      "tam_unit": "MW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong Economic Recovery",
+          "description": "Post-pandemic rebound and infrastructure upgrades are fueling demand."
+        },
+        {
+          "driver": "Fleet Modernization",
+          "description": "Ongoing replacement cycle of aging fleets contributes to sales."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Domestic commercial vehicle sales in India for April-December 2025.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": 5165.0,
+      "tam_unit": "MW",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "FAME II Scheme",
+          "description": "Government subsidy and support scheme directly facilitating the adoption and deployment of electric buses."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Number of electric buses supported/deployed under the FAME II scheme.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": 5000.0,
+      "tam_unit": "MW",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government Tendering and Schemes",
+          "description": "Public sector procurement and government initiatives like PM-eBus Sewa drive e-bus dispatches."
+        },
+        {
+          "driver": "Decarbonization Goals",
+          "description": "The strategic imperative to reduce emissions through public transport electrification."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Number of electric buses dispatched in India during 2025.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 7,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Central Government Initiatives (PM E-DRIVE, PM-eBus Sewa)",
+          "description": "Large-scale procurement targets and funding for e-bus deployment in mega and smaller cities."
+        },
+        {
+          "driver": "State Government Procurement Plans",
+          "description": "Complementary initiatives from states to induct thousands of e-buses into their fleets."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Aggressive government tendering creates significant demand for electric bus manufacturers and operators.",
+          "opportunity": "Public E-bus Fleet Expansion"
+        }
+      ],
+      "methodology": "Planned deployment of electric buses under central and state initiatives.",
+      "source_firm": "kpmg",
+      "source_date": "2026-05-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 8,
+      "tam_value": 18.32,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2029,
+      "forecast_cagr": 28.52,
+      "forecast_cagr_period": "CY24-CY29",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government Policies",
+          "description": "Continued policy support from schemes like PM E-DRIVE and FAME contribute to EV market expansion."
+        },
+        {
+          "driver": "Increasing Investment",
+          "description": "Rising investments by domestic and international players in EV manufacturing and infrastructure."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecasted growth for the Indian EV market. Commercial vehicles are a segment within this market.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 9,
+      "tam_value": 16.0,
+      "tam_unit": "USD_bn",
+      "sam_value": 5.0,
+      "as_of_year": 2030,
+      "forecast_cagr": 6.0,
+      "forecast_cagr_period": "Present-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Expanding Vehicle Parc",
+          "description": "The total number of operational vehicles on Indian roads is increasing, leading to higher demand for aftermarket parts."
+        },
+        {
+          "driver": "Increasing Vehicle Age",
+          "description": "As vehicles age, they require more frequent maintenance and replacement of components, boosting aftermarket sales."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecasted growth for the domestic aftermarket auto-component market. The CV segment's share is explicitly stated.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 10,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government Diesel Bus Transition Scheme",
+          "description": "Large-scale government initiative to replace 800,000 diesel buses with electric vehicles across various operational segments."
+        },
+        {
+          "driver": "Environmental Mandates",
+          "description": "Policy push towards environmentally friendly alternatives to reduce emissions from the bus fleet."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Creates enormous demand for new electric buses and related components/infrastructure across public, private, school, and employee transport sectors.",
+          "opportunity": "Electric Bus Manufacturing and Supply"
+        }
+      ],
+      "methodology": "Government scheme for transitioning diesel buses to electric alternatives, specifying targets for public, private, and school/employee transport segments.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "kpmg",
+    "ibef",
+    "bcg_global"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Surging demand for AI and digital transformation consulting services",
+      "description": "The widespread adoption of AI, particularly Generative AI, across diverse industries (e.g., CPG, Telco, Government) is creating significant demand for management consulting services. Companies seek expert guidance to integrate AI into core functions, reimagine operating models, achieve efficiency gains, and unlock new revenue streams, making AI transformation a major growth area for consultants.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2025-11-04"
+    },
+    {
+      "index": 2,
+      "title": "Public sector digital transformation initiatives boost consulting demand",
+      "description": "Government commitment to building digitally empowered ecosystems, including designing digital strategies, deploying advanced technologies (AI, ML, blockchain, drones), and enabling public-private partnerships, creates a substantial tailwind for management consulting firms. These firms play a catalytic role in translating visionary policy into practical, on-ground execution, especially in areas like governance and regional development, driving demand for their advisory services.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2025-11-01"
+    },
+    {
+      "index": 3,
+      "title": "Strategic AI implementation for competitive advantage drives consulting engagements",
+      "description": "CEOs are increasingly focused on leveraging AI to navigate major market shifts and secure competitive advantage, especially as traditional efficiency levers become exhausted. This trend acts as a strong upside driver for management consulting, as organizations across sectors like telecommunications require expert guidance to transform operations end-to-end with AI, achieve hyperpersonalization, build autonomous networks, and create new sources of value, moving AI to a foundational business capability.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-25"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "AI transformation drives significant demand for consulting across CPG value chains",
+      "description": "Bain's analysis indicates AI is a 'Game Changer' fundamentally transforming Consumer Products (CPG) value chains, from innovation to sales, marketing, and supply chain. Numerous GenAI use cases, such as personalized targeting, automated content, predictive R&D, and procurement optimization, yield substantial efficiency gains and cost savings. This widespread AI integration necessitates strategic guidance and implementation support from consulting firms, signaling a strong positive outlook for related consulting services.",
+      "stance": "positive",
+      "source_firm": "Bain",
+      "source_date": "2025-11-04",
+      "source_doc_id": "8580e7f7-9071-5b8f-85c1-cf49ddca7770"
+    },
+    {
+      "index": 2,
+      "title": "Consulting firms are catalytic in government digital transformation across India",
+      "description": "KPMG views consulting firms, like its Digital Government Advisory (DGA), as playing a catalytic role in advancing public sector transformation in India. These firms bridge the gap between policy intent and practical execution by designing digital strategies, deploying advanced technologies like AI/ML/blockchain/drones, enabling PPP models, and establishing robust monitoring frameworks. This expertise is crucial for transforming ambitious government projects into measurable impacts, particularly in regions like India's Northeast.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2025-11-01",
+      "source_doc_id": "a948ae4f-b09d-5a2c-8b78-60a819517f25"
+    },
+    {
+      "index": 3,
+      "title": "AI presents new levers for telco transformation, boosting consulting engagements",
+      "description": "BCG observes that AI is a top priority for CEOs in 2026, driving organizational transformation and competitive advantage as traditional efficiency levers are exhausted. Working with over 2,000 clients, BCG highlights that agentic AI offers new strategic avenues for telcos to reimagine operations through hyperpersonalization, autonomous networks, and step-change productivity. This transition elevates AI from a support function to a foundational capability, indicating sustained demand for consulting expertise in AI-led transformation.",
+      "stance": "positive",
+      "source_firm": "BCG",
+      "source_date": "2026-02-25",
+      "source_doc_id": "811b0b45-c701-521e-a5cb-370041d4f432"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI-led organizational transformation",
+          "description": "Companies in sectors like telecommunications are seeking to leverage AI (agentic, predictive, generative) to fully transform operations, achieve hyperpersonalization, autonomous networks, step-change productivity, and create new growth engines, driving demand for strategic AI consulting services."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Consulting firms can guide organizations in moving AI from a support role to a foundational capability, helping CEOs navigate major shifts and build sustainable competitive advantage through end-to-end AI deployment and transformation strategies.",
+          "opportunity": "Strategic AI consulting for competitive advantage"
+        }
+      ],
+      "methodology": "Observation of CEOs' focus on AI for organizational transformation and competitive advantage across sectors, particularly in telecommunications, indicating a need for external AI expertise and strategic consulting.",
+      "source_firm": "BCG",
+      "source_date": "2026-02-25",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI/Generative AI adoption",
+          "description": "Widespread integration of AI transforming core business functions like customer service, marketing, product R&D, distribution, procurement, operations, and HR across the CPG value chain, necessitating external expertise for strategy and implementation."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Consulting firms can offer solutions for auto-categorizing spend data, automated spend cubes, procurement control towers, and AI-negotiation co-pilots, leading to significant efficiency gains (+40%) and incremental savings (+$40M) for clients.",
+          "opportunity": "AI-driven procurement consulting"
+        },
+        {
+          "description": "Opportunities in guiding clients through 'zero-touch' innovation, auto-refreshing brand narratives, autonomous pricing engines, commerce orchestration platforms, and lights-out factories, as AI reshapes every aspect of CPG operations.",
+          "opportunity": "AI transformation across CPG value chain"
+        }
+      ],
+      "methodology": "Analysis of Generative AI use cases and value chain transformation in the Consumer Products sector, with quantitative benefits (e.g., 40% efficiency, $40M savings from procurement AI) indicating high demand for related consulting services.",
+      "source_firm": "Bain",
+      "source_date": "2025-11-04",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government digital transformation initiatives",
+          "description": "Indian government's commitment to building a digitally empowered ecosystem, specifically in areas like designing digital strategies, deploying AI/ML/blockchain/drones, enabling tech parks, PPP models, and establishing monitoring frameworks for accountability, drives demand for consulting services."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Consulting firms can anchor large-scale digital transformation in the public sector, assisting with strategy design, advanced technology deployment, private investment attraction (PPP models), and robust monitoring for government initiatives, translating policy into measurable impacts.",
+          "opportunity": "Digital Government Advisory services"
+        }
+      ],
+      "methodology": "Analysis of government commitment to digital empowerment and the explicitly stated role of consulting firms in translating policy into practical outcomes for public sector transformation in India.",
+      "source_firm": "KPMG",
+      "source_date": "2025-11-01",
+      "data_confidence": "medium"
+    }
+  ],
+  "sources": [
+    "Bain",
+    "KPMG",
+    "BCG"
+  ]
+}

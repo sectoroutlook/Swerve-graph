@@ -1,0 +1,47 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Soaring Gold and Silver Imports Indicate Robust Demand and Elevated Prices",
+      "description": "The combined value of gold and silver imports reached a record USD 47.6 billion in the first seven months of FY26, driven by substantially higher import volumes and elevated market prices. This trend signals robust demand for silver, encompassing both its significant industrial applications (such as in solar panels, electronics, and EVs) and its traditional monetary role. The surge in imports highlights a strong and growing market for silver in India.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2025-12-16"
+    }
+  ],
+  "viewpoints": [],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 47.6,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Higher Import Volumes",
+          "description": "Increased physical quantity of silver (and gold) being imported into India, indicating strong underlying demand from both industrial and monetary sectors."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Elevated Prices",
+          "description": "Higher global and domestic market prices for silver (and gold) contribute to the overall value of imports, enhancing revenue for sellers and increasing cost for buyers."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "The value represents the combined imports of gold and silver for the first seven months of FY26 (April-October 2025), reflecting actual import figures. The increase is driven by higher physical import volumes and elevated market prices.",
+      "source_firm": "CareEdge",
+      "source_date": "2025-12-16",
+      "data_confidence": "medium"
+    }
+  ],
+  "sources": [
+    "CareEdge"
+  ]
+}

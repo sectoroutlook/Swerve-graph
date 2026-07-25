@@ -1,0 +1,341 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Robust Broad-Based Credit Growth Sustains Banking Sector Momentum",
+      "description": "Non-food bank credit continued its strong growth at 15.8% YoY in April 2026, driven by retail demand, MSME lending, services, and large corporates. This broad-based expansion, particularly in personal and infrastructure loans, indicates healthy economic activity and increased funding requirements. The growth is partly attributed to a shift from market borrowings to bank financing, reflecting banks' improved competitiveness and sustained credit demand across diverse segments.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-08"
+    },
+    {
+      "index": 2,
+      "title": "Fintech Resurgence Intensifies Competition for Traditional Banking Revenues",
+      "description": "The global fintech sector's rapid resurgence, with revenues growing four times faster than incumbents, poses a significant competitive threat to traditional banks. Fintechs are expanding beyond niche disruptions into broader financial ecosystems, leveraging technology and AI to gain market share in areas like payments, trading, investments, and deposits. Banks must accelerate their digital transformation and innovation to defend against these agile, tech-driven rivals, who are increasingly building fuller financial platforms and offering superior customer experiences.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 3,
+      "title": "Banking Sector Embraces Technological Innovation for Efficiency and Digital Capabilities",
+      "description": "The Indian banking sector is rapidly advancing through technological innovations, including AI, cloud, cybersecurity, and digital solutions. Initiatives like HDFC Bank's Tech & Digital Factories and the EASE 8.0 Programme in public sector banks are deploying generative AI for credit appraisal, underwriting, and risk management. This focus on technology transformation is enhancing operational efficiency, improving asset quality management, and expanding digital innovation capabilities, fundamentally reshaping banking processes and service delivery.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 4,
+      "title": "Shifting Funding Dynamics Drive Corporates and NBFCs to Bank Credit",
+      "description": "Elevated corporate bond yields and subdued market-based funding (contracting CP issuance, declining corporate bond issuances) have reduced the attractiveness of alternative financing. This has prompted NBFCs and large corporates to increasingly rely on bank financing for incremental funding and refinancing, boosting bank credit growth. This shift reflects a structural change in funding preferences, where banks are gaining market share from capital markets, impacting their loan portfolios and risk exposure.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-08"
+    },
+    {
+      "index": 5,
+      "title": "Continued Strong Growth in Gold Loans Amid Elevated Gold Prices",
+      "description": "Gold loans exhibited robust triple-digit YoY growth of 121.2% in April 2026, remaining the fastest-growing retail segment. This is supported by sustained demand, favorable gold price dynamics, and reclassification of certain agricultural gold loans. This trend provides a significant boost to banks' retail loan books, offering attractive risk-adjusted returns for lenders and contributing to overall credit expansion, although a slight sequential moderation indicates potential normalization.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-08"
+    },
+    {
+      "index": 6,
+      "title": "Widening Credit-Deposit Gap Puts Pressure on Bank Funding",
+      "description": "Bank credit growth consistently outpaced deposit accretion, with the gap widening to ~400 bps in May 2026. The Loan-to-Deposit Ratio (LDR) increased to 82.5%, indicating a tighter funding environment. Deposits declined sequentially, faster than credit, primarily driven by time deposits. This trend could strain banks' liquidity, increase funding costs, and necessitate more aggressive deposit mobilization strategies if not balanced by other funding sources or moderated credit growth.",
+      "type": "cyclical_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 7,
+      "title": "AI Integration Reshaping Financial Services Operations and Talent",
+      "description": "AI is becoming central to financial services, fundamentally altering how work is done within banks. It is delivering value in areas like underwriting, fraud detection, AML, KYC, document extraction, customer support, and software development by compressing cycle times and reducing unit costs. This requires organizational transformation, with middle managers shifting from people management to workflow redesign. Banks must adapt their talent strategies and operating models to harness AI and remain competitive against AI-native fintechs.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-04"
+    },
+    {
+      "index": 8,
+      "title": "Digital Payments and Public Infrastructure Boost Financial Inclusion and Bank Reach",
+      "description": "India's burgeoning digital payments infrastructure, especially UPI, drives significant growth in transaction volumes (20.39 billion in Feb 2026) and financial inclusion. Initiatives like the Unified Lending Interface (ULI) democratize credit access for MSMEs, and Digital Banking Units expand banking services in rural areas. This increases the reach of formal banking, streamlines processes like Kisan Credit Card loans, and supports the overall growth and penetration of banking services across India's diverse population.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 9,
+      "title": "Geopolitical Tensions and Supply Chain Disruptions Pose Credit Risk",
+      "description": "Elevated geopolitical tensions in West Asia, coupled with high crude oil prices and persistent global supply chain disruptions, pose risks to export-oriented MSMEs and overall credit demand. These factors could lead to higher input costs, pressure on working capital, and potential asset quality stress for banks in Q2FY27/H2FY27. Banks are already responding with higher prudential provisions and contingency buffers, and a prolonged conflict could tighten financial conditions and lead to more conservative underwriting standards.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-08"
+    },
+    {
+      "index": 10,
+      "title": "Escalating Cyber-Enabled Fraud Poses Significant Threat to BFSI Sector",
+      "description": "Fraud has evolved into a digitally enabled ecosystem, with cyber-enabled financial crimes scaling across sectors. The BFSI sector is a primary target, facing threats like digital bank heists, real-time payment fraud, and sophisticated impersonation schemes. RBI data indicates digital and card scams account for two-thirds of bank fraud incidents. This necessitates robust 'next-generation forensic' capabilities, increased investment in fraud prevention, and rapid response mechanisms to mitigate substantial financial losses and reputational damage.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 11,
+      "title": "AI-Driven Solutions Enhance Bank Fraud Detection and Operational Efficiency",
+      "description": "The deployment of AI/ML-driven solutions like RBI's MuleHunter.AI across banks demonstrates the potential for AI to proactively identify mule accounts used in fraud. This system is detecting approximately 20,000 mule accounts per month with high precision, strengthening the resilience of the financial ecosystem. AI is also being integrated into credit appraisal, underwriting, and risk management processes, improving operational efficiency and faster decision-making for banks, turning a key risk into an opportunity for advanced defense.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 12,
+      "title": "Government Support and Policy Frameworks Enhance Banking Sector Stability",
+      "description": "Robust policy frameworks, banking reforms, and financial inclusion schemes like Jan Dhan Yojana strengthen the stability and reach of the Indian banking sector. The government's emphasis on transparency, easier access to financial assets, and initiatives like the Unified Lending Interface (ULI) improve credit access and service delivery. Additionally, RBI's regulatory directives on KYC standards ensure improved risk management and foster sustained confidence in the banking system.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Healthy Credit Demand Sustains Robust Bank Credit Growth Amid Funding Shifts",
+      "description": "Non-food bank credit growth remained strong at 15.8% YoY in April 2026, driven by healthy demand across key segments including services, MSMEs, and personal loans. A portion of this acceleration is attributed to shifts from market borrowings to bank financing due to elevated corporate bond yields, rather than solely organic demand. The report notes strong lending to NBFCs and infrastructure. While positive, sustainability depends on future funding conditions and investment activity.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge",
+      "source_date": "2026-06-08",
+      "source_doc_id": "d3ddc6aa-1a10-513b-9336-a44f895deb63"
+    },
+    {
+      "index": 2,
+      "title": "Robust Bank Credit Growth with Widening Gap Against Slower Deposit Accretion",
+      "description": "Bank credit continued to outpace deposit accretion, leading to an increased Loan-to-Deposit Ratio (LDR) of 82.5% as of May 15, 2026. Credit growth remained robust at 16.2% YoY, fueled by retail, MSME, NBFC, and corporate lending. However, deposits grew slower at 12.2% YoY and declined sequentially, indicating potential funding challenges for banks if this trend persists, despite strong credit demand.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge",
+      "source_date": "2026-06-01",
+      "source_doc_id": "e6744722-4b7c-5dfa-93a0-86abb7d522e8"
+    },
+    {
+      "index": 3,
+      "title": "BFSI Sector Vulnerable to Evolving Cyber-Enabled Fraud and Technology Exploitation",
+      "description": "The BFSI sector remains a primary target for cyber-enabled fraud due to high-value credentials, real-time payment rails, and large transaction volumes. Fraud patterns are diverging, with digital and card scams forming two-thirds of incidents but a smaller share of losses, while high-value loan/credit frauds drive a third of losses. The report highlights the sector's exposure to evolving techniques like AI-enabled crime, deepfakes, and organised cybercrime ecosystems, necessitating advanced forensic readiness.",
+      "stance": "cautious_negative",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "source_doc_id": "ccc44e9c-af6b-534b-b14a-f19981b6af9d"
+    },
+    {
+      "index": 4,
+      "title": "Fintech Resurgence Increases Competitive Pressure on Incumbent Financial Services",
+      "description": "The global fintech sector experienced a strong resurgence in 2025, with revenues growing 22% YoY, four times faster than incumbents, and surpassing half a trillion dollars. This growth, driven by operating performance and selective investor funding, indicates a maturing sector. While fintechs are expanding their offerings and leveraging AI, their continued rapid expansion, particularly in payments, poses increasing competitive pressure on traditional banks in various financial services segments.",
+      "stance": "cautious_negative",
+      "source_firm": "BCG Global",
+      "source_date": "2026-06-01",
+      "source_doc_id": "75d658d7-be2e-58ef-a924-4c43af5010af"
+    },
+    {
+      "index": 5,
+      "title": "Indian Financial Services Sector Poised for Growth Driven by Innovation and Digitalisation",
+      "description": "India's financial services sector is set for growth through innovation and digital transformation, with the 2026 Budget expected to boost fintech, credit access, and financial inclusion. Strong bank health, ample liquidity, and steady credit growth are expanding funds across the economy. Rising income, HNWI participation, and policy support further drive demand, positioning India as a competitive, technology-driven financial hub and supporting wider access to formal finance.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "e40fa7ac-c724-5a09-99f5-7614bab03a16"
+    },
+    {
+      "index": 6,
+      "title": "Indian Banking Sector Demonstrates Robust Growth, Resiliency, and Digital Transformation",
+      "description": "India's banking sector exhibits robust growth and enhanced resilience, supported by rapid economic growth and strong policy frameworks. Credit demand remains strong, reflected in 10% loan growth in August 2025 and total bank credit reaching US$ 2,295.3 billion by Feb 2026. Technological innovations like HDFC Bank's Tech & Digital Factories and the Unified Lending Interface (ULI) are boosting efficiency, while financial inclusion initiatives like Jan Dhan Yojana and digital agri-finance continue to expand reach.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "301843e9-d278-5926-8b87-6b594ba3fe6a"
+    },
+    {
+      "index": 7,
+      "title": "Digital Payments and Financial Inclusion Drive Banking Sector Growth and Access",
+      "description": "India’s digital payments have surged, with UPI reinforcing its dominance in real-time transactions, handling 20.39 billion transactions worth US$ 295.7 billion in February 2026. This, alongside the expansion of Digital Banking Units and the digitalization of Kisan Credit Card loans, underscores a significant push towards financial inclusion and increased access to banking services, particularly in rural and semi-urban areas, fostering greater economic participation.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "301843e9-d278-5926-8b87-6b594ba3fe6a"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 211.9,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Retail demand",
+          "description": "Continued healthy demand for personal loans, particularly gold and vehicle loans."
+        },
+        {
+          "driver": "MSME credit",
+          "description": "Steady demand to support business expansion and working capital requirements."
+        },
+        {
+          "driver": "NBFC lending",
+          "description": "NBFCs increasingly relying on bank borrowing due to subdued market-based funding."
+        },
+        {
+          "driver": "Corporate borrowing",
+          "description": "Large corporates shifting to bank financing amid elevated corporate bond yields."
+        },
+        {
+          "driver": "Infrastructure projects",
+          "description": "Improving project execution and funding requirements across key sectors like power."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total bank credit outstanding as of May 15, 2026. Data covers 41 banks accounting for approximately 95% of SCBs' non-food credit, based on Section 42 returns.",
+      "source_firm": "CareEdge",
+      "source_date": "2026-06-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 256.9,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Time deposits",
+          "description": "Increased customer preference towards term deposits, accounting for 87.7% of total deposits."
+        },
+        {
+          "driver": "Household savings",
+          "description": "General improvement in savings mobilisation and sustained confidence in the banking system."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total bank deposits outstanding as of May 15, 2026. Growth primarily driven by time deposits.",
+      "source_firm": "CareEdge",
+      "source_date": "2026-06-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 2295.3,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Credit demand",
+          "description": "Sustained credit demand across the banking sector, including non-food industries."
+        },
+        {
+          "driver": "Economic growth",
+          "description": "Overall economic expansion contributing to demand for credit."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total bank credit outstanding as of February 28, 2026. Reflects continued strength in credit demand and sustained lending momentum.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 2832.5,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Household savings",
+          "description": "Higher household savings and sustained confidence in India's banking system."
+        },
+        {
+          "driver": "Financial inclusion",
+          "description": "Expanding financial inclusion initiatives bringing more individuals into the banking system."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total bank deposits as of February 28, 2026. Reflects continuous improvement in savings mobilisation, stronger household deposits, and sustained confidence.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": 2005.59,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total assets for public sector banks in 2025. This figure represents the scale of public sector banking assets within India's financial system.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": 1355.15,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total assets for private banking sector in 2025. This figure represents the scale of private sector banking assets within India's financial system.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "CareEdge",
+    "KPMG",
+    "BCG Global",
+    "IBEF"
+  ]
+}

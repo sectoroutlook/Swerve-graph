@@ -1,0 +1,338 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Gen Z Consumption and PLI Supporting QSR/Café Growth",
+      "description": "Consumer and retail deals saw a 158% increase, with QSRs and cafes leading this growth. This strong momentum is attributed to the increasing consumption frequency among Gen Z consumers and supportive policy tailwinds like the Production-Linked Incentive (PLI) schemes. This indicates a favorable environment for growth and investment in the restaurant and cafe segments.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-14"
+    },
+    {
+      "index": 2,
+      "title": "Declining Food Inflation Eases Input Cost Pressures for Restaurants",
+      "description": "Food inflation experienced a steady decline throughout 2025, entering deflationary territory since June. This significant easing of price pressures, particularly from vegetables, pulses, and cereals, represents a tailwind for restaurant operators. Lower and more stable food input costs can improve profit margins, reduce operational uncertainties, and potentially allow for more competitive pricing strategies.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-22"
+    },
+    {
+      "index": 3,
+      "title": "Fast Casual Dining Losing Customers Faster Than QSR",
+      "description": "Within the Limited Service Restaurant (LSR) category, fast casual dining is experiencing a sharper decline in customer numbers compared to quick-serve (fast food) restaurants. This indicates a cyclical shift in consumer preference within the broader restaurant market, with value-conscious consumers potentially opting for more affordable QSR options. This poses a challenge for fast casual operators who must adapt to changing demand dynamics.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-02-10"
+    },
+    {
+      "index": 4,
+      "title": "Resilient Offline Dining Spending Through POS Transactions",
+      "description": "POS transactions, which include dining, grew by 8.8% year-on-year in April 2026, demonstrating healthy offline spending. This resilience provides a stable demand base for restaurants and QSRs, despite a sequential moderation in overall credit card transactions, indicating continued consumer preference for in-person dining experiences.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-29"
+    },
+    {
+      "index": 5,
+      "title": "Growing Overall Food Consumption Driven by Urbanization and Changing Patterns",
+      "description": "India's total food consumption is projected to reach US$ 1.2 trillion by CY26, driven by rapid urbanization and evolving consumption patterns. This broad increase in food expenditure, combined with shifts in consumer preferences towards convenience and prepared meals, serves as a significant underlying tailwind for the Restaurants, QSR & Food Delivery Operators sector, increasing the overall market potential for dining out and food services.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 6,
+      "title": "Enhanced Cold Chain Infrastructure Supporting Food Sector Efficiency",
+      "description": "Significant investment in cold chain infrastructure, with 404 integrated projects undertaken and a large capacity for cold storage and reefer vehicles, is improving the overall food supply chain. This enhancement reduces food wastage, improves logistics efficiency, and ensures better quality and availability of raw materials, structurally benefiting restaurant operators by stabilizing input costs and supply.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 7,
+      "title": "Regulatory Flexibility for Cross-Sector Partnerships and Monetization",
+      "description": "The TV industry is seeking greater regulatory flexibility to form cross-platform super bundles and partnerships across sectors like retail, F&B, travel, hotels, pubs, and restaurants. This would enable enhanced engagement through rewards and unlock commercial monetization opportunities, especially for genres like sports and music. Such flexibility would create new revenue streams and marketing avenues for restaurant and pub operators.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-24"
+    },
+    {
+      "index": 8,
+      "title": "Consumer Shift Towards Value as Decisive Factor in Restaurant Choice",
+      "description": "For the first time in six years, 'getting your money's worth' has become the paramount factor for consumers when choosing where to eat out, surpassing even satisfying a craving. This represents a structural shift in consumer priorities, particularly for everyday dining occasions. Restaurant operators must fundamentally re-evaluate their value proposition, encompassing quality, portions, service, and menu variety, beyond just price, to remain competitive.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-02-10"
+    },
+    {
+      "index": 9,
+      "title": "Strategic Management of Diverse Sales Channels for Profitability and Reach",
+      "description": "Restaurant operators must strategically manage their sales channels, including owned websites, applications, and third-party marketplaces, to balance reach with profitability. This involves aligning pricing, promotions, and menu availability across channels to nudge demand towards the most profitable avenues while ensuring frictionless ordering and fulfillment. This represents a structural evolution in how restaurants operate and distribute their offerings in a multi-channel environment.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-02-10"
+    },
+    {
+      "index": 10,
+      "title": "Significant PE-VC Investment in Consumer & Retail Driven by F&B & QSRs",
+      "description": "India's PE-VC investments in the consumer and retail sector surged 2.6x year-over-year in 2025, specifically driven by scaled Food & Beverage transactions and quick-service restaurants (QSRs) as consumption normalized. This robust investment activity reflects strong investor confidence and provides substantial capital for growth and expansion within the restaurant and QSR segments.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-14"
+    },
+    {
+      "index": 11,
+      "title": "Restaurant Chain Expansion into High-Footfall Transit Hubs",
+      "description": "Tim Hortons India's expansion by opening new outlets at Navi Mumbai International Airport in January 2026 exemplifies a trend of restaurant and coffee shop chains strategically increasing their footprint in high-footfall transit locations. This expansion strategy leverages captive audiences and increased consumer mobility, driving growth for operators in the IN040302 sector.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 12,
+      "title": "Increased Scrutiny and Regulations on Unhealthy Food Advertising",
+      "description": "There is growing concern and regulatory focus on advertising unhealthy food and beverages, particularly due to its impact on children's desire to consume such foods and eat out more frequently. With targets to halt obesity and guidelines warning against Ultra-Processed Foods (UPFs) and High-Fat, Sugar, and Salt (HFSS) products, future regulations or stricter enforcement against misleading advertisements could pose a headwind for QSRs heavily reliant on such marketing, potentially impacting sales and marketing strategies.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-22"
+    },
+    {
+      "index": 13,
+      "title": "Widespread Consumer Pullback Driven by High Restaurant Prices",
+      "description": "Restaurant prices have surged by nearly 40% since 2019, causing a significant consumer pullback, with roughly one-third of diners cutting back on spending. This trend is exacerbated by restaurant prices outpacing grocery costs, leading to widespread reconsideration of eating out. The cutbacks are particularly pronounced among price-sensitive lower-income and Gen Z demographics, posing a major challenge to restaurant traffic and revenue.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-10"
+    },
+    {
+      "index": 14,
+      "title": "Leveraging AI and Digital Technology for Operational Enhancement and Customer Value",
+      "description": "Restaurants have an opportunity to drive growth by accelerating digital and technology implementation, including evaluating AI and Generative AI use cases. These technologies can support headquarters and field operations, enhancing customer value through improved efficiency, personalized offerings, and optimized digital touchpoints. Adopting such innovations can lead to better conversion rates, streamlined processes, and a more compelling customer experience.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-10"
+    },
+    {
+      "index": 15,
+      "title": "Premiumization Trends in Select Food and Beverage Categories",
+      "description": "Despite general deflationary trends in some FMCG segments, select food and beverage categories, such as juice and chocolate, are maintaining momentum toward premiumization. This indicates a consumer willingness to pay more for higher-quality or specialized F&B products. This trend presents an opportunity and tailwind for premium restaurants and QSRs to offer differentiated products and experiences that cater to consumer demand for premiumization.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2025-12-09"
+    },
+    {
+      "index": 16,
+      "title": "Reduced On-Premise Alcohol Consumption Impacts Dining Venues",
+      "description": "A late 2025 BCG survey indicates that consumers are drinking less frequently in bars and restaurants, preferring to consume alcohol more at home or during casual activities. This shift in drinking occasions away from on-premise venues negatively impacts the revenue streams of restaurants and bars that rely on alcohol sales, contributing to reduced footfall and spending.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-28"
+    },
+    {
+      "index": 17,
+      "title": "Organized QSR Chains and Digital Platforms to Drive Deal Activity",
+      "description": "The consumer and retail outlook anticipates strong deal momentum in QSRs, driven by rising income, increased consumer expenditure, and growing interest in organized QSR chains. The throughput and leverage of delivery aggregators and digital ordering platforms are also expected to enhance growth, making QSRs a key area for investment and expansion.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-14"
+    },
+    {
+      "index": 18,
+      "title": "Strong and Sustained Bank Lending Growth for Hotels and Restaurants",
+      "description": "Bank credit to the services sector, specifically including hotels and restaurants, showed robust and sustained growth, accelerating to 16.3% y-o-y in February 2026 and maintaining momentum through October-November 2025. This consistent access to financing represents a significant tailwind, empowering restaurant operators to fund expansion, manage working capital, and invest in modernization, thereby fostering overall sector growth.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-06"
+    },
+    {
+      "index": 19,
+      "title": "Robust Growth in Private Final Consumption Expenditure",
+      "description": "India's Private Final Consumption Expenditure (PFCE) is estimated to grow by 8.2% to US$ 2485.30 billion in FY26, accounting for 61.5% of GDP. This robust growth in overall consumer spending, supported by low inflation and stable employment, directly translates into increased purchasing power for consumers, benefiting the Restaurants, QSR & Food Delivery Operators sector through higher spending on dining out and food services.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 20,
+      "title": "Gig Economy Characterization in Food Service Sector",
+      "description": "The food service industry is characterized by low-skill, high-turnover gig jobs, impacting its workforce structure. While gig workers offer flexibility, this classification indicates challenges related to stable employment, skill development, and social protections within the sector. Policy efforts to improve gig worker mobility and stability could structurally change the labor landscape for restaurant and QSR operators, affecting labor costs and retention.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-22"
+    },
+    {
+      "index": 21,
+      "title": "Slowdown in Food Delivery Revenue Growth for Restaurants",
+      "description": "Revenue growth from food deliveries for the restaurant industry slowed to 1-2% across the industry in the latter half of 2025. While food delivery platforms are categorized elsewhere, this slowdown directly impacts the revenue streams of restaurant operators (IN040302) that rely on delivery services for growth. This indicates that delivery is no longer providing the strong tailwind it once did, requiring operators to find new growth drivers.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-02-10"
+    },
+    {
+      "index": 22,
+      "title": "Gen Z Cutting Back on Food Delivery and Opting for Cheaper Items",
+      "description": "Gen Z diners, a key demographic, are actively economizing by ordering fewer or cheaper items from restaurants and significantly cutting back on food delivery. This behavior, alongside lower-income households, directly impacts restaurant operators, especially those catering to younger audiences or heavily reliant on delivery channels, leading to reduced revenue and order volumes from this price-sensitive segment.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-10"
+    },
+    {
+      "index": 23,
+      "title": "Partnership Opportunities with Cinemas for In-Venue F&B Services",
+      "description": "Cinemas are exploring adding facilities like bars and restaurants to enhance the theatrical experience and attract more filmgoers. This trend presents an upside driver for Restaurants, QSR & Food Delivery Operators to partner with or operate F&B outlets within cinema premises, leveraging captive audiences and diversifying revenue streams. Such collaborations can capitalize on the demand for integrated entertainment and dining experiences.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2025-12-09"
+    },
+    {
+      "index": 24,
+      "title": "Fundamental Operational Excellence Critical for Perceived Value",
+      "description": "Consumers equate value not just with price but also with basic operational requirements such as cleanliness, accurate orders, and high-quality food served at the correct temperature. Neglecting these 'table stakes' can drastically reduce customer satisfaction with value, even if prices are competitive. This imposes a structural imperative for restaurant operators to maintain high standards in core operations to underpin any value proposition and drive growth.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-02-10"
+    },
+    {
+      "index": 25,
+      "title": "Freshly Brewed Coffee Chains Gaining Share from Packaged Beverages",
+      "description": "The downturn in the packaged beverage sector is partly attributed to intense competitive pressure from freshly brewed coffee chains and other beverage newcomers like tea-based drinks. This indicates that consumers are shifting preferences towards fresh, prepared beverages. This trend represents a tailwind for coffee shops and casual dining operators within IN040302, as they capture a growing share of consumer 'share of throat' from pre-packaged alternatives.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2025-12-09"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Moderate Food Inflation Expected to Benefit Restaurant Input Costs",
+      "description": "KPMG's Economic Survey projects moderate food inflation in the upcoming months of FY26, attributing it to good kharif harvests, healthy rabi sowing, and improved foodgrain stock positions. This sustained moderation in food prices is a positive development for Restaurants, QSR & Food Delivery Operators, as it helps stabilize or reduce input costs, thereby supporting profit margins and operational predictability.",
+      "stance": "positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-03-22",
+      "source_doc_id": "90c4f0e9-ff1e-5133-b921-b1cd58eddafb"
+    },
+    {
+      "index": 2,
+      "title": "Strong Growth and Investor Interest in Consumer & Retail, Driven by F&B",
+      "description": "Bain & Company reports that the consumer and retail sector experienced a significant 2.6x increase in PE-VC investment in 2025. This growth was primarily fueled by recovering discretionary consumption, premiumization trends, and large-scale Food & Beverage transactions, highlighting F&B's crucial role in attracting capital and driving sectoral expansion.",
+      "stance": "positive",
+      "source_firm": "bain",
+      "source_date": "2026-05-14",
+      "source_doc_id": "121241a1-25e0-542f-bedf-44d24a69cbee"
+    },
+    {
+      "index": 3,
+      "title": "Retail Sector, Driven by QSRs, Gains Significant Share in PE Investments",
+      "description": "Bain & Company reports that the retail sector, particularly quick-service restaurants (QSRs), significantly increased its share in private equity deal value in 2025. This rebound, fueled by stabilizing retail foot traffic and earnings post-pandemic, has made the sector attractive for larger, control-oriented transactions. Government policies boosting domestic consumption further enhance investor confidence in QSRs and the broader retail food service market.",
+      "stance": "positive",
+      "source_firm": "bain",
+      "source_date": "2026-03-24",
+      "source_doc_id": "89a56186-0e61-5165-8cca-d359c4edf8d2"
+    },
+    {
+      "index": 4,
+      "title": "Restaurant Industry Faces Growth Headwinds from High Prices and Slowing Delivery",
+      "description": "BCG's report indicates that the restaurant industry is experiencing significant challenges, with a 40% jump in prices since 2019 leading consumers to eat out less and spend less. Restaurant spending has flattened while other consumer categories grew. Furthermore, the growth from aggressive price increases and food delivery expansion, which previously drove the industry, is now stabilizing, reducing previous tailwinds and necessitating a new growth strategy for operators.",
+      "stance": "negative",
+      "source_firm": "bcg_global",
+      "source_date": "2026-02-10",
+      "source_doc_id": "ac231649-c894-544f-a147-a9f5016b5df0"
+    },
+    {
+      "index": 5,
+      "title": "Organized QSR Chains and Digital Platforms to Drive Future Deal Activity",
+      "description": "Bain & Company predicts that organized QSR chains will be a key driver of deal activity in the consumer and retail sector. This growth is fueled by rising disposable income, increased consumer expenditure, and the growing throughput and leverage of delivery aggregators and digital ordering platforms. This suggests a positive outlook for established and expanding restaurant operators.",
+      "stance": "positive",
+      "source_firm": "bain",
+      "source_date": "2026-05-14",
+      "source_doc_id": "121241a1-25e0-542f-bedf-44d24a69cbee"
+    },
+    {
+      "index": 6,
+      "title": "Offline Dining Spending Remains Resilient Amidst Overall Credit Card Moderation",
+      "description": "CareEdge Ratings notes that while overall credit card spending moderated sequentially in April 2026, POS transactions, including dining, showed resilience with 8.8% y-o-y growth. This indicates healthy offline spending, supporting the restaurant sector. The overall credit card industry outlook remains stable, with digital adoption and retail consumption as key drivers.",
+      "stance": "cautious_positive",
+      "source_firm": "careedge",
+      "source_date": "2026-05-29",
+      "source_doc_id": "fc029f1c-b3ef-5937-abfe-256642fd85a1"
+    },
+    {
+      "index": 7,
+      "title": "Restaurants Must Enhance Value Proposition to Win Back Price-Sensitive Diners",
+      "description": "BCG emphasizes that the restaurant industry can no longer rely on previous growth drivers and must instead focus on delivering superior value to diners. With consumers cutting back due to higher prices and increased price sensitivity among lower-income and Gen Z segments, restaurants need to integrate a comprehensive value strategy across marketing, menus, loyalty programs, and digital experiences to attract and retain customers, going beyond just price adjustments.",
+      "stance": "cautious_negative",
+      "source_firm": "bcg_global",
+      "source_date": "2026-02-10",
+      "source_doc_id": "ac231649-c894-544f-a147-a9f5016b5df0"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rapid Population Growth",
+          "description": "India will remain among the youngest populations globally until 2030, providing a large and continuously growing consumer base for food services."
+        },
+        {
+          "driver": "Rising Disposable Incomes",
+          "description": "Increased disposable incomes translate into higher consumer spending on food, including dining out, quick-service meals, and other prepared food services."
+        },
+        {
+          "driver": "Urbanization",
+          "description": "Growing urbanization leads to lifestyle changes that increase demand for convenience food, QSRs, and casual dining experiences."
+        },
+        {
+          "driver": "Shifting Food Habits",
+          "description": "Evolving consumer preferences, such as a greater demand for variety, convenience, and eating out, drive overall growth in the restaurant and food services sector."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Analysis of demand-side drivers for the broader food consumption ecosystem, with implied benefits for the restaurant industry based on consumer behavior trends.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "kpmg",
+    "bain",
+    "bcg_global",
+    "careedge",
+    "ibef"
+  ]
+}

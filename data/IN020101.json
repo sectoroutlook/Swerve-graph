@@ -1,0 +1,567 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Geopolitical Instability Drives Input Cost and Logistics Volatility",
+      "description": "Ongoing geopolitical conflicts, such as the US-Israel-Iran situation, introduce significant volatility to energy-linked input costs and global logistics. While temporary ceasefires may offer short-term relief in crude oil prices and freight rates, the underlying uncertainty persists. This exposes specialty chemical manufacturers to potential renewed disruptions and margin sensitivity, particularly for those with limited backward integration or high reliance on imported intermediates, necessitating careful cost management and supply chain resilience.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-21"
+    },
+    {
+      "index": 2,
+      "title": "Stable Input Costs Lead to Heightened Market Competition",
+      "description": "The stabilization of key raw material prices at lower levels, following previous corrections, has improved cost visibility and operational efficiency for chemical manufacturers. However, this stability also intensifies market competition, especially for commoditized specialty chemical products where differentiation is limited. Companies are now compelled to focus more on volume-driven growth, cost optimization, and product mix improvement to maintain profitability in a highly competitive pricing environment, shifting the industry focus from price-led to volume-led growth.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-21"
+    },
+    {
+      "index": 3,
+      "title": "Global Supply Chain De-risking Creates Indian Chemical Growth",
+      "description": "Global companies are actively seeking to diversify their supply chains away from a heavy dependence on China. This strategic de-risking presents a significant growth opportunity for the Indian chemical sector, including specialty chemicals. India is emerging as a preferred manufacturing and export hub due to its competitive advantages and geopolitical positioning. This shift enables Indian specialty chemical companies to expand capacities, gain new customers, and capture increased market share in the global chemical value chain.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 4,
+      "title": "Increasing End-User Demand Drives Specialty Chemical Market Expansion",
+      "description": "Robust demand from critical end-user industries such as food processing, personal care, and home care is a primary driver for the growth of India's specialty chemicals market. This rising consumption is directly linked to an expanding middle-class, increasing disposable incomes, and rapid urbanization. Additionally, sectors like construction are experiencing accelerated demand for advanced waterproofing, sealants, and performance coatings, all of which are key specialty chemical applications, ensuring sustained domestic market expansion.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 5,
+      "title": "Government Policies and Investments Catalyze Chemical Sector Growth",
+      "description": "Strong policy support, including 100% FDI under the automatic route (excluding hazardous chemicals) and the establishment of Petroleum, Chemicals and Petrochemical Investment Regions (PCPIRs), is fostering significant investments in the chemical sector. PLI schemes also promote bulk drug parks which can have fine chemical linkages. These supportive regulatory and investment environments provide a robust tailwind for the expansion and modernization of specialty chemical manufacturing capabilities in India.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 6,
+      "title": "Industry Pivot to High-Value Specialty and Sustainable Chemicals",
+      "description": "The chemicals sector is undergoing a structural shift, with value creation moving towards advanced polymers, specialty, next-generation, sustainable, and green chemicals. These \"New Age\" segments, including battery chemicals and low-carbon hydrogen, are projected to outpace traditional chemical markets. This trend redefines industry strategies, compelling companies to focus on differentiated, higher-margin offerings rather than pure volume plays, fundamentally reshaping portfolio strategies and driving innovation in application-specific chemical solutions globally.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-20"
+    },
+    {
+      "index": 7,
+      "title": "AI and Digitalization Transform Chemical Value Chains and Competitiveness",
+      "description": "Artificial intelligence and advanced analytics are becoming central to competitiveness across the chemical industry. These technologies accelerate innovation cycles in R&D, optimize manufacturing processes through predictive maintenance, and enhance supply chain efficiency via demand forecasting. This digital transformation improves operational visibility, resilience, and customer-centric innovation, which are crucial amidst global demand shifts. For specialty chemicals, this means faster product development, more efficient production, and improved market responsiveness, driving significant EBITDA improvements.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-20"
+    },
+    {
+      "index": 8,
+      "title": "Sustainability Mandates Accelerate Green Chemical and Bio-Based Solutions",
+      "description": "Decarbonization and circularity are strategic imperatives transforming the chemical industry, moving beyond mere compliance. Companies are adopting greener feedstocks, circularity practices, and bio-based chemicals, fundamentally altering portfolio strategies. This trend represents a significant structural change, creating opportunities for specialty chemical manufacturers to innovate in sustainable products and processes. India is uniquely positioned to integrate these sustainability elements into new assets, enabling it to leapfrog legacy models and become a leader in green chemistry.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-20"
+    },
+    {
+      "index": 9,
+      "title": "Commoditization Threatens Pure Product Sales and Compresses Margins",
+      "description": "The business model centered on pure product sales, particularly for generic or less differentiated specialty chemicals, is increasingly facing relentless commoditization. This trend is driven by aggressive global competition and a focus on cost leadership, which inevitably leads to tighter margins. This structural headwind necessitates a strategic shift for Indian chemical companies to move beyond basic product offerings and embrace performance-led solutions or highly specialized niches to maintain profitability and competitiveness in the evolving market landscape.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-01-15"
+    },
+    {
+      "index": 10,
+      "title": "Reducing Import Dependency by Rewiring Chemical Value Chains",
+      "description": "India's significant chemical import bill, coupled with deep import gaps in high-value functional polymers and foundational intermediates, highlights a critical opportunity for domestic producers. The current momentum of domestic consumption reaching scale and the availability of capital/technology make it opportune to \"rewire\" India’s chemical value chains. This involves scaling investments to achieve self-sufficiency in key specialty segments, converting import dependence into export opportunities, and strengthening the overall competitiveness and resilience of the Indian specialty chemical industry.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-15"
+    },
+    {
+      "index": 11,
+      "title": "India's Growing Strategic Importance in Global Chemical Sector",
+      "description": "India's chemical market is set to become the third largest globally by 2030, transforming its perception from a minor player to a strategic pillar in the global chemical order. This enhanced status, combined with the worldwide need for supply chain resilience, positions India as a natural and compelling option for global chemical operations. This creates significant opportunities for Indian specialty chemical companies to form win-win partnerships, attract investments, and expand their global footprint, leveraging domestic strengths with international reach.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-15"
+    },
+    {
+      "index": 12,
+      "title": "Reliance on Chemical Imports Impedes Export Competitiveness",
+      "description": "India's substantial dependence on importing chemical and intermediate input goods leads to extended lead times and increased pricing challenges. This structural issue directly impacts the competitiveness of Indian chemical exports, including specialty chemicals, making them less attractive in global markets. To mitigate this, there's a critical need to develop robust domestic supply chains for essential intermediates and specialty chemicals, thereby reducing import reliance and enhancing the overall cost-effectiveness and efficiency of indigenous manufacturing.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2025-05-01"
+    },
+    {
+      "index": 13,
+      "title": "MSME Support Boosts Domestic Chemical Value Chain Development",
+      "description": "Enhancing government support for the MSME sector through more affordable credit, lower interest rates, and eased collateral norms can significantly strengthen India's domestic chemical manufacturing ecosystem. Given the capital-intensive nature of the industry, these measures will empower MSMEs to contribute more effectively to developing robust domestic supply chains for critical input materials, including specialty chemicals. This, in turn, will reduce import dependency, foster innovation, and increase the overall competitiveness and resilience of the Indian chemical sector.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2025-05-01"
+    },
+    {
+      "index": 14,
+      "title": "Capex Super Cycle in Sunrise Sectors Fuels Specialty Chemical Demand",
+      "description": "India is entering an unprecedented capex super cycle across key \"sunrise\" industries like semiconductors, batteries, solar, and data centers, with billions in investments planned over the next few decades. Specialty chemicals and advanced materials are identified as crucial \"picks and shovels\" supporting these transitions. This massive investment creates substantial new demand and growth opportunities for Indian specialty chemical manufacturers, allowing early movers to establish foundational supplier roles and gain significant competitive advantages by integrating into these emerging value chains.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-15"
+    },
+    {
+      "index": 15,
+      "title": "Strategic Acquisitions of Global SMEs for IP and Market Access",
+      "description": "European and Japanese small-to-medium enterprises (SMEs) in the chemical sector, often family-owned and technically proficient, are facing succession and strategic realignment challenges. This provides a unique window for Indian chemical champions to acquire select companies. Such inorganic plays can unlock access to innovation, brands, high-value specialty segments, experienced talent, and established customer relationships in global markets. This strategy allows Indian ChemCos to leverage mature market expertise with their own agility and cost strength for global expansion.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-01-15"
+    },
+    {
+      "index": 16,
+      "title": "US Tariffs and Realignment Reshape Global Chemical Trade Dynamics",
+      "description": "The imposition of US tariffs and broader global supply chain realignments are creating a complex and disruptive, yet opportunity-rich, environment for the chemical industry. While these disruptions necessitate adjustments, India benefits from a comparatively lower tariff exposure, giving its chemical exports, including specialty chemicals, a competitive edge over Asian counterparts. This structural shift allows India to gain market share, diversify its export base beyond the US, and capitalize on evolving global trade dynamics, prompting a strategic redraw of its trade map.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2025-05-01"
+    },
+    {
+      "index": 17,
+      "title": "Underinvestment in R&D Limits India's Chemical Sector Competitiveness",
+      "description": "Compared to leading global chemical manufacturers like the US and China, India's chemical sector, particularly larger specialty chemical companies, allocates less than 3% of revenue to R&D. This underinvestment hinders technological upgradation and innovation, making it challenging to compete on scale and sophistication. To boost global competitiveness, increased R&D spending is essential, requiring both private sector initiative and government support for specialized industrial zones that foster tech integration and innovation within specialty chemical manufacturing.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2025-05-01"
+    },
+    {
+      "index": 18,
+      "title": "Accelerated Development of Industrial Zones for Chemical Innovation",
+      "description": "Accelerating the development of specialized industrial zones, like the Petroleum, Chemicals and Petrochemical Investment Regions (PCPIRs), is crucial for boosting R&D and technology integration within the chemical sector. These zones provide an ecosystem for concentrated manufacturing, enabling shared infrastructure and fostering collaboration. By expanding such facilities, the government can facilitate advanced research, process optimization, and scale-up for specialty chemical production, directly enhancing India's global competitiveness and capacity for innovation, thereby addressing current shortcomings.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2025-05-01"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Indian Specialty Chemicals Market Poised for Strong Growth",
+      "description": "The Indian specialty chemicals market is set for robust expansion, with projections indicating growth from US$64.5 billion in 2024 to US$92.6 billion by 2033, at a CAGR of 3.80%. This positive outlook is underpinned by strong demand from key end-user sectors including agriculture, construction, and automotive. Additionally, increasing industrialization, rapid urbanization, and continuous product innovation are acting as significant drivers, solidifying India's position as a promising hub for high-value chemical manufacturing.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "f25d22d3-25f1-5f9d-a0a6-75249c058291"
+    },
+    {
+      "index": 2,
+      "title": "India Leads Global Dye Manufacturing with Significant Export Share",
+      "description": "India consistently holds its position as a global leader in dye manufacturing, contributing 16-18% of worldwide dyestuff exports. This strong performance is supported by exports to over 90 countries, underscoring the sector's diversified market reach and competitive advantage. The continued leadership in such a high-value, application-specific segment highlights the robustness and strategic importance of dye production within India's performance chemicals industry.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "f25d22d3-25f1-5f9d-a0a6-75249c058291"
+    },
+    {
+      "index": 3,
+      "title": "India Positioned to Lead in Sustainable Chemical Manufacturing",
+      "description": "India possesses a distinct advantage to leapfrog conventional chemical manufacturing paradigms by embedding sustainability principles into its emerging assets and ecosystems from the outset. This strategic opportunity, fueled by global sustainability imperatives and a focus on decarbonization and circularity, allows India to become a pivotal hub for green chemicals and bio-based products. By proactively embracing these trends, India can establish a competitive edge and shape the future of its specialty and performance chemicals sector.",
+      "stance": "positive",
+      "source_firm": "EY",
+      "source_date": "2026-01-20",
+      "source_doc_id": "7ca0839d-8f84-5840-a529-a4898e4b4383"
+    },
+    {
+      "index": 4,
+      "title": "Performance-Led Models Crucial for Specialty Chemicals Margin Growth",
+      "description": "The chemical industry faces increasing commoditization of pure product sales, leading to margin erosion. For specialty chemicals, the future dictates a pivot to performance-led models, where the focus shifts from merely supplying products to delivering solutions and solving customer challenges. This strategic move enables companies to command higher premiums, foster long-term customer relationships through complex development cycles, and build more resilient portfolios. This approach ties R&D directly to end-use performance, driving innovation and value creation.",
+      "stance": "positive",
+      "source_firm": "BCG India",
+      "source_date": "2026-01-15",
+      "source_doc_id": "a65b73aa-917d-536d-a1e7-088e8832009f"
+    },
+    {
+      "index": 5,
+      "title": "Strategic Global-Indian Partnerships Driving Chemical Sector Growth",
+      "description": "India is increasingly recognized as a pillar in the global chemicals order, with its market projected to be the third largest by 2030 and its role in global supply resilience expanding. This creates a unique opportunity for strategic partnerships between global and Indian chemical companies. These collaborations, leveraging the distinct strengths of each party, are vital for Indian ChemCos to achieve global scale and for international players to effectively enter and grow within the Indian ecosystem, fostering mutual value creation and market penetration.",
+      "stance": "positive",
+      "source_firm": "BCG India",
+      "source_date": "2026-01-15",
+      "source_doc_id": "a65b73aa-917d-536d-a1e7-088e8832009f"
+    },
+    {
+      "index": 6,
+      "title": "Specialty and Sustainable Chemicals Emerge as Dominant Growth Drivers",
+      "description": "The chemicals industry is experiencing a profound shift, with value creation increasingly concentrated in high-growth segments such as specialty, advanced, sustainable, and green chemicals. These \"New Age\" chemical categories, including those vital for energy transition, are projected to significantly outperform traditional chemical segments. This indicates a structural transformation, offering a global market opportunity nearing US$1 trillion by 2030, and positioning these application-specific chemicals at the forefront of future industry expansion.",
+      "stance": "positive",
+      "source_firm": "EY",
+      "source_date": "2026-01-20",
+      "source_doc_id": "7ca0839d-8f84-5840-a529-a4898e4b4383"
+    },
+    {
+      "index": 7,
+      "title": "Indian Chemical Companies Ready for Global Scaling and Enhanced Returns",
+      "description": "Indian Chemical Companies (ChemCos) have established a strong track record, adeptly managing complex chemistries and operating reliable plants, leading to superior shareholder returns. This solid foundation positions them for an ambitious growth phase, with a strategic focus on achieving global scale. The expectation is for companies to target $1+ billion in revenue by 2030, signifying a significant leap beyond incremental growth, driven by proven competitive effectiveness and access to capital.",
+      "stance": "positive",
+      "source_firm": "BCG India",
+      "source_date": "2026-01-15",
+      "source_doc_id": "a65b73aa-917d-536d-a1e7-088e8832009f"
+    },
+    {
+      "index": 8,
+      "title": "Significant Import Substitution Potential in Indian Chemical Sector",
+      "description": "India's chemical sector faces a substantial import deficit, with annual imports totaling US$71 billion and growing faster than exports and GDP. This widening gap, alongside a critical mass of domestic consumption, offers immense opportunities for Indian chemical companies. There is a strong rationale to invest in local production to substitute imports, particularly in high-value functional polymers and foundational intermediates crucial for deep specialties. Such investments can lead to world-scale capacity and enhance global competitiveness for Indian players.",
+      "stance": "positive",
+      "source_firm": "BCG India",
+      "source_date": "2026-01-15",
+      "source_doc_id": "a65b73aa-917d-536d-a1e7-088e8832009f"
+    },
+    {
+      "index": 9,
+      "title": "India's Lower Tariff Exposure Creates Chemical Export Advantage",
+      "description": "Global supply chain realignments and the imposition of US tariffs present a dynamic landscape for India's chemical industry. India benefits from a relatively lower tariff exposure, offering a strategic advantage over other Asian counterparts, particularly in organic chemicals. This positioning creates significant opportunities for Indian exporters to gain market share and diversify into new high-potential markets beyond the US. By capitalizing on this tariff advantage, India can redraw its trade map and achieve long-term gains in the specialty chemical export sector.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2025-05-01",
+      "source_doc_id": "94b169bd-f40a-5039-8aeb-42513680fdb2"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 0.76526,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Export value of dyes and dye intermediates from April to July 2025 (FY26).",
+      "source_firm": "IBEF",
+      "source_date": "2025-11-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 3.5,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Sustainability Shift",
+          "description": "Growing preference for environmentally friendly and bio-derived chemical inputs across industries."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "A US$3.5 billion import market indicates potential for Indian companies to develop and produce bio-based chemical blocks domestically.",
+          "opportunity": "Domestic Bio-based Chemical Production"
+        }
+      ],
+      "methodology": "Annual import value of bio-based chemical blocks.",
+      "source_firm": "BCG India",
+      "source_date": "2026-01-15",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 64.5,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": 3.8,
+      "forecast_cagr_period": "2025-33",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Demand from End-user Industries",
+          "description": "Strong demand from agriculture, construction, and automotive sectors."
+        },
+        {
+          "driver": "Industrialization & Urbanization",
+          "description": "Rising industrialization and urbanization fuel demand."
+        },
+        {
+          "driver": "Innovation in Products",
+          "description": "Continuous innovation in specialty chemical products drives growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Market valuation of the India specialty chemicals industry.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 2.1575,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total export value for dyes and dye intermediates from April 2025 to February 2026 (FY26).",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "World Leader in Dye Manufacturing",
+          "description": "India maintains its position as the leading global manufacturer of dyes, supporting its significant export share."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's market share of global dyestuff exports.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": 15.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": 10.0,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Consumer Preference Shift",
+          "description": "Growing consumer preference for environment-friendly products."
+        },
+        {
+          "driver": "Sustainability Initiatives",
+          "description": "Manufacturers focusing on green solvents, biodegradable surfactants, and bio-based polymers."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Market forecast for India’s green chemicals sector.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 7,
+      "tam_value": 1.0,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Demand for Advanced Materials",
+          "description": "Increasing demand for advanced polymers and next-generation chemicals."
+        },
+        {
+          "driver": "Sustainability Imperatives",
+          "description": "Growth driven by sustainable and green chemical solutions."
+        },
+        {
+          "driver": "Energy Transition Products",
+          "description": "Demand for chemicals like battery chemicals and low-carbon hydrogen for energy transition."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected global market opportunity for advanced polymers, specialty and next-generation chemicals, sustainable/green chemicals, and energy transition products.",
+      "source_firm": "EY",
+      "source_date": "2026-01-20",
+      "data_confidence": "high"
+    },
+    {
+      "index": 8,
+      "tam_value": 1.6,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Foundational for Deep Specialties",
+          "description": "These intermediates are essential building blocks for deep specialty chemicals, indicating consistent demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Significant import volume (~$1.6 billion) presents an opportunity for domestic production to enhance competitiveness and supply stability for specialty chemical manufacturers.",
+          "opportunity": "Localization of Intermediates"
+        }
+      ],
+      "methodology": "Annual import value of organo-nitro intermediates, including amines, amides, hydrazine, pyrazoles, and triazoles.",
+      "source_firm": "BCG India",
+      "source_date": "2026-01-15",
+      "data_confidence": "high"
+    },
+    {
+      "index": 9,
+      "tam_value": 1.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Semiconductor Build-Out",
+          "description": "Rapid growth of India's semiconductor ecosystem and fabrication facilities."
+        },
+        {
+          "driver": "Import Dependence",
+          "description": "Nearly all highly specialized, ultra-pure chemicals for fabrication are currently imported."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Opportunity to domestically produce wet-process acids, solvents, photoresist developers, slurries, etchants, substrates, dielectrics, and specialty gases, currently imported.",
+          "opportunity": "Semiconductor Chemical Manufacturing"
+        }
+      ],
+      "methodology": "Estimated addressable market for Indian producers in fabrication-stage inputs for semiconductors.",
+      "source_firm": "BCG India",
+      "source_date": "2026-01-15",
+      "data_confidence": "high"
+    },
+    {
+      "index": 10,
+      "tam_value": 6.5,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Demand for Differentiated Products",
+          "description": "Indian consumers increasingly demand better, more functional products that require specialty chemical inputs."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "A US$6.5 billion import market signifies a large opportunity for domestic specialty chemical manufacturers to cater to local demand.",
+          "opportunity": "Import Substitution for Specialties"
+        }
+      ],
+      "methodology": "Annual import value of standalone specialty chemicals.",
+      "source_firm": "BCG India",
+      "source_date": "2026-01-15",
+      "data_confidence": "high"
+    },
+    {
+      "index": 11,
+      "tam_value": 0.55,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising Consumer Demand",
+          "description": "Increasing demand for personal care and beauty products in India, driven by middle-class growth and urbanization."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Significant imports in finished products suggest underlying demand for their specialty chemical inputs (flavors and fragrances) that can be met domestically.",
+          "opportunity": "Domestic Flavour & Fragrance Production"
+        }
+      ],
+      "methodology": "Combined annual import value of perfumes (US$150 million) and cosmetics (US$400 million).",
+      "source_firm": "BCG India",
+      "source_date": "2026-01-15",
+      "data_confidence": "high"
+    },
+    {
+      "index": 12,
+      "tam_value": 0.64488,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Import value of dyes and dye intermediates from April to July 2025 (FY26).",
+      "source_firm": "IBEF",
+      "source_date": "2025-11-01",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "IBEF",
+    "EY",
+    "BCG India",
+    "KPMG"
+  ]
+}

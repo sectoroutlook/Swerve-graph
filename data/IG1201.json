@@ -1,0 +1,486 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Digital Transformation and AI Shaping Infrastructure and Transport Operations",
+      "description": "The infrastructure and transport sector is undergoing significant digital transformation, with CEOs having high hopes for AI to drive improvements in project delivery, asset performance, and energy efficiency. This includes deploying IoT sensors, robotics, and drones for real-time monitoring of assets and construction projects. AI is expected to become a powerful enabler for accelerated project execution and better management of costs and risks in complex mega-projects. This shift is reshaping operational strategies and demands new technological capabilities from the workforce.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 2,
+      "title": "Cybersecurity Threats to Critical Transport Infrastructure",
+      "description": "Cybersecurity is a significant concern for infrastructure and transport CEOs, with 60% 'extremely concerned' about fraud detection and prevention, and 57% about identity theft and data privacy. Recent cyberattacks on critical infrastructure, including transportation systems, highlight vulnerabilities. This necessitates robust incident response plans, regular testing, drills, and cross-functional collaboration to build a culture of resilience. The increasing digitalization of transport infrastructure assets makes them more susceptible to advanced cyber threats, posing a substantial operational and financial risk.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 3,
+      "title": "Workforce Skill Gaps and Talent Competition Hamper AI Adoption",
+      "description": "The infrastructure and transport sector faces significant challenges in attracting and retaining AI and digital talent. Six out of ten CEOs believe technical capability and skills could hold back AI implementation. The biggest challenges include competing with tech giants' high salary offerings (26%) and addressing existing AI-talent skill gaps (25%). This scarcity of skilled labor, combined with an aging workforce and retirements, acts as a major bottleneck for the sector's digital transformation and the effective deployment of new technologies.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 4,
+      "title": "Complexity of Decarbonizing Supply Chains Hinders Net-Zero Goals",
+      "description": "The infrastructure and transport sector is a leading contributor to carbon emissions. The number one obstacle to achieving net-zero goals is identified as the complexity of decarbonizing supply chains (32%). This is a significant concern, as supply chain emissions often represent the largest carbon footprint of major projects. While AI is seen as key to identifying resource efficiency opportunities and reducing emissions, the intricate nature of global supply chains presents a formidable challenge to meeting sustainability targets and transitioning to a greener operational model.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 5,
+      "title": "Downward Pressure on Aeronautical Revenues for Airports",
+      "description": "Airports are experiencing weakening links between traffic growth and rising revenues, particularly due to the growing share of low-cost carriers (LCCs) and tariff-setting frameworks. Aeronautical revenues have declined from €18 per passenger in 2015 to €14 in 2023, with a potential further drop to ~€11 by 2043. LCCs consistently push for lower charges, bringing volume but also increased volatility and pressure on revenue streams. This trend creates a significant headwind for airport operators, compelling them to renegotiate commercial arrangements and seek alternative revenue sources.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-02"
+    },
+    {
+      "index": 6,
+      "title": "Strategic Shift Towards Integrated Multimodal Logistics",
+      "description": "India's freight landscape is undergoing a structural change with a strategic focus on integrating multimodal logistics. The approval of 306 Gati Shakti Multi-Modal Cargo Terminals (GCTs) and significant private investment (INR 8,600 crore) indicates a push for seamless movement between rail, road, ports, and warehouses. This integration aims to bridge first/last-mile connectivity gaps and make rail a more accessible and predictable option, ultimately leading to a rebalancing of the freight modal mix and enhancing overall supply chain efficiency and competitiveness across the transport infrastructure network.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 7,
+      "title": "Record Capital Expenditure and PPPs Fueling Rail Infrastructure Expansion",
+      "description": "Indian Railways is experiencing a significant tailwind through record capital expenditure allocations and growing public-private partnerships. The Union Budget 2026–27 allocated Rs. 2,93,030 crore (US$ 32.56 billion), and the National Infrastructure Pipeline envisages Rs. 11.43 lakh crore investment by 2024-25. PPPs have seen 18 projects worth Rs. 166.9 billion completed. This massive financial commitment supports network expansion, new line construction, electrification (99.1% by Oct 2025), and high-speed rail corridors, enhancing overall capacity and modernizing rail infrastructure.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 8,
+      "title": "Transition Towards Green Hydrogen Fuel Infrastructure for Road Transport",
+      "description": "India is embarking on a structural change in its transport strategy by focusing on green hydrogen fuel infrastructure along national highways. A pilot project worth Rs. 600 crore (US$ 68.64 million) on 10 selected highway stretches aims to evaluate the feasibility of green hydrogen supply for commercial vehicles and establish fuelling and storage standards. This initiative signifies a long-term commitment to sustainable transport, reducing reliance on fossil fuels, and decarbonizing the road sector, with significant implications for future infrastructure design and investment.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 9,
+      "title": "Increased Private Participation and PPPs in Road and Port Projects",
+      "description": "The transport infrastructure sector is witnessing increased private participation and the successful implementation of Public-Private Partnerships (PPPs). In the roads sector, projects worth Rs. 35,000 crore are expected to be bid out under the build-operate-transfer (BOT) toll model. For ports, PPP projects have tripled, with 57 operational projects contributing 660 MTPA capacity. This growing private sector involvement, driven by government incentives and frameworks like HAM, enhances investment, injects efficiency, and accelerates project delivery across transport infrastructure assets.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 10,
+      "title": "AI and Digital Tools Driving Efficiency and Revenue for Airports",
+      "description": "Airports are increasingly adopting AI and digital technology to boost efficiency, expand capacity within existing infrastructure, and reduce operating expenses. Initiatives include optimized gate/stand allocation, predictive maintenance, and real-time passenger flow monitoring. These tools enhance asset utilization, streamline operations, and improve passenger experience, with the potential to deliver up to 3 percentage points of EBITDA improvement. Such advancements are crucial for airports to manage growing demand and operational challenges, unlocking significant value from their existing assets and commercial operations.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-02"
+    },
+    {
+      "index": 11,
+      "title": "Dedicated Freight Corridors Significantly Improving Rail Logistics Efficiency",
+      "description": "Dedicated Freight Corridors (DFCs) are proving to be a major tailwind for rail infrastructure, significantly improving freight movement speed and reliability. For instance, coal transport over 100km on DFCs takes just four hours, nearly a 50% reduction compared to traditional networks. This enhanced efficiency is accelerating the adoption of DFCs and supporting India's logistics transformation. The increased throughput and faster transit times make rail a more competitive and attractive option for freight, driving its growth and utilization within the transport infrastructure sector.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 12,
+      "title": "Government Initiatives and Investment Boosting Port Infrastructure Development",
+      "description": "The Indian ports sector is receiving substantial tailwinds from government initiatives and significant investment. The Sagarmala initiative, with a total estimated investment of Rs. 5.79 lakh crore by 2035, and the Maritime Development Fund are key drivers. The Maritime Investment Fund, with a corpus of Rs. 20,000 crore, further fuels development. These programs facilitate port modernization, enhance connectivity, and attract private participation, ensuring capacity expansion and operational efficiency crucial for handling India's growing international trade volumes and strengthening its maritime economy.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 13,
+      "title": "High Budgetary Allocation and Private Investment Driving Roads Sector Growth",
+      "description": "The roads sector benefits from high budgetary allocations, with the Ministry of Road Transport and Highways (MoRTH) receiving an estimated Rs. 3,09,875 crore (US$ 34.4 billion) in the Union Budget 2026–27. NHAI alone is allocated Rs. 1,87,293 crore (US$ 20.8 billion). Concurrently, private sector involvement is strong, with projects worth Rs. 35,000 crore expected under the BOT toll model and successful use of the Hybrid Annuity Model. These financial commitments ensure robust expansion, modernization, and efficient execution of road infrastructure projects across India.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 14,
+      "title": "PM Gati Shakti National Master Plan Driving Integrated Infrastructure Development",
+      "description": "The PM Gati Shakti National Master Plan is a significant tailwind for Transport Infrastructure, aiming to allocate US$ 1.3 trillion to cut logistic costs, increase cargo handling capacity, and minimize turnaround time. This integrated approach, supported by eight key infrastructure projects, enhances efficiency across various transport modes. By providing private sector access to relevant data and maps, it fosters better project planning and execution. This policy framework promotes multimodal connectivity and optimized infrastructure utilization, directly benefiting roads, rail, and ports.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 15,
+      "title": "Aging Airport Infrastructure and Delayed Projects Strain Capacity",
+      "description": "Airports globally face significant pressure from aging infrastructure, which is driving up maintenance costs and degrading service quality. Many facilities put planned expansions on hold during the COVID pandemic, leading to substantial delays in new terminal or runway projects. This, combined with surging passenger volumes past pre-pandemic levels, creates strained capacity, operational bottlenecks, and limits growth potential. The issue is exacerbated by rising labor costs and frequent disruptions, underscoring a critical need for modernization and efficient capacity management.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-20"
+    },
+    {
+      "index": 16,
+      "title": "Increasing Capital Intensity and Costs for Airport Capacity Expansion",
+      "description": "Many European airports operate near or at full capacity, necessitating additional investment for expansion. However, the cost of adding new capacity is rising significantly, with Capital Expenditure (CapEx) per incremental passenger projected to increase from ~€160 in 2025 to ~€220 by 2043. This increase reflects higher infrastructure complexity, rising construction costs, and stricter standards. This capital intensity, coupled with investor caution, makes financing infrastructure and improvement projects more challenging, potentially hindering crucial expansion efforts needed to meet growing demand.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-02"
+    },
+    {
+      "index": 17,
+      "title": "Focus on Sustainable and Green Port Operations",
+      "description": "The Indian ports sector is undergoing a structural shift towards sustainability and green operations. Initiatives like 'Harit Sagar' and 'Harit Nauka' guidelines, along with the establishment of a green, digital corridor with the Port of Rotterdam, aim for net-zero emissions. This includes promoting green hydrogen and its carriers for export to Europe. These efforts indicate a strong commitment to environmental goals, influencing port infrastructure development, operational practices, and attracting investments in sustainable technologies to support cleaner shipping and green port initiatives.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 18,
+      "title": "Development of Multimodal Logistics Parks to Enhance Road Transport Efficiency",
+      "description": "The planned development of 35 Multimodal Logistics Parks (MMLPs) under the Bharatmala Pariyojana, with an investment of about Rs. 46,000 crore (US$ 5.5 billion), serves as a significant upside driver for road infrastructure. These MMLPs will handle around 700 million metric tonnes of cargo, enhancing logistics efficiency, reducing costs, and streamlining freight movement. By integrating road, rail, and port connectivity, these parks will optimize the utilization of the road network and support the broader economic goal of reducing logistics expenditure.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 19,
+      "title": "Urbanization Driving Demand for Urban Transport Infrastructure",
+      "description": "Rapid urbanization, with 600 million people expected to live in Indian cities by 2036, acts as a significant upside driver for urban transport infrastructure. This demographic shift creates immense demand for efficient and safe road transport, including metro rail networks. Several metro rail projects are already in progress, alongside the government's plan for 5,000 km of Metro rail in 100 cities by 2047. The pressure on urban infrastructure necessitates continuous investment and expansion, creating substantial opportunities for metro and road transport operators.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Optimism for Transport Infrastructure Growth Amidst Global Economic Concerns",
+      "description": "KPMG's global outlook for the infrastructure and transport sector reveals high optimism, with 84% of CEOs confident in sector growth and 87% in their own organization's growth. This bullish sentiment is driven by the sector's pivotal role in digitally-driven economies, including building 5G networks, data centers, EV charging, and modernizing supply chains. However, this optimism is tempered by a decline in global economic confidence (46% in 2025) and concerns over inflation, supply chain disruption, and workforce technological capabilities. The sector faces a 'Great Reset' where national interests and rewired supply chains intensify competition for capital.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "source_doc_id": "96da51e7-fbdb-5f8c-925b-26e908cdd84e"
+    },
+    {
+      "index": 2,
+      "title": "AI Positioned as Powerful Enabler for Infrastructure Project Execution",
+      "description": "Zyna Boubez, Partner at KPMG in Canada, states that the maturity of AI positions it as a powerful enabler for accelerated project execution within the infrastructure and transport sector. AI can significantly improve management and predictability of escalating costs and risks associated with complex, multi-phased mega-projects. This is achieved through process standardization, readiness validation, systematic application of lessons learned, improved supply-chain leverage, and the unlocking of economic benefits. This highlights AI's transformative potential for large-scale transport infrastructure development.",
+      "stance": "positive",
+      "source_firm": "KPMG in Canada",
+      "source_date": "2026-05-01",
+      "source_doc_id": "96da51e7-fbdb-5f8c-925b-26e908cdd84e"
+    },
+    {
+      "index": 3,
+      "title": "AI Critical for Airports to Overcome Capacity Strains and Operational Challenges",
+      "description": "BCG asserts that airports worldwide face significant challenges including surging passenger volumes, strained capacity due to labor shortages, sustainability mandates, and delayed infrastructure projects. To overcome these, AI and digital technology upgrades are identified as critical, with AI leaders excelling by using integrated, AI-based operations control centers. These digital 'nervous systems' collect and share data to optimize ground and flight operations, manage passenger flows, and enhance retail, leading to measurable improvements in reliability, throughput, and commercial performance without requiring new infrastructure.",
+      "stance": "positive",
+      "source_firm": "BCG",
+      "source_date": "2026-04-20",
+      "source_doc_id": "4abf416b-35b6-5a79-a8b3-c07fa51b9136"
+    },
+    {
+      "index": 4,
+      "title": "European Airports Face Structural Headwinds, Necessity for Resilience and Profitability Pivot",
+      "description": "A BCG study, in collaboration with ACI EUROPE, identifies four structural pressures on European airports: shifting traffic patterns, unit revenue pressures, rising operating costs, and increasing investment requirements. These dynamics could put between €45 billion and €75 billion of cumulative EBITDA at risk over two decades, necessitating a pivot from a volume-driven growth model to a more resilient, profitability-oriented approach. This outlook, though European, signals potential structural challenges for global airports, emphasizing the need for strategic adaptation and value creation initiatives.",
+      "stance": "cautious_negative",
+      "source_firm": "BCG",
+      "source_date": "2026-04-02",
+      "source_doc_id": "98a067e0-652f-5de2-8b37-d8f9c2046293"
+    },
+    {
+      "index": 5,
+      "title": "Dedicated Freight Corridors Transforming India's Logistics Efficiency",
+      "description": "KPMG highlights that India's Dedicated Freight Corridors (DFCs) are fundamentally changing goods movement, with daily freight trains increasing and transit times significantly reduced (e.g., nearly 50% reduction for coal transport). This demonstrates that the system is delivering on its promise of improved speed and reliability. With proposals for three new DFCs and substantial investment, KPMG sees a massive impact on India's logistics, emphasizing the need for upgrades to first/last-mile links and strengthening the supportive logistics ecosystem to fully realize DFC potential.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-04-01",
+      "source_doc_id": "d39b3a7c-1537-5b48-a9d1-9b5db1646b45"
+    },
+    {
+      "index": 6,
+      "title": "Indian Railways Sector Sees Strong Growth via Investment and Modernization",
+      "description": "IBEF presents a positive view of the Indian Railways sector, highlighting massive capital expenditure, modernization efforts, and expanding network capacity. A record capital expenditure of Rs. 2,93,030 crore (US$ 32.56 billion) in FY26 budget and planned investment of Rs. 50 lakh crore by 2030 underscore the government's commitment. Public-private partnerships, high-speed rail corridors, and near 100% electrification contribute to its positive trajectory. Robust freight loading and growing passenger traffic further reflect the sector's crucial role in India's economy and its continuous growth.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "10e68f0c-a6a1-5ce1-a3e3-64b7f5479579"
+    },
+    {
+      "index": 7,
+      "title": "Indian Ports Sector Poised for Growth Driven by Trade and Private Investment",
+      "description": "The IBEF report suggests a positive outlook for India's ports sector, noting that ports handle 95% of international trade. This is supported by increasing trade activities and growing private participation in port infrastructure. With India's port capacity nearly doubling between 2014 and 2025, and significant government initiatives like Sagarmala (targeting Rs. 80 lakh crore investment by 2047) and the Maritime Investment Fund, the sector is set for continued expansion. The establishment of new mega ports and PPP projects further underscores this growth potential.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "5b9ad7ea-3765-5719-a003-4a03f9e0f0fc"
+    },
+    {
+      "index": 8,
+      "title": "Overall Infrastructure Growth Driven by Investment, Policy, and Private Participation",
+      "description": "IBEF suggests a positive trajectory for India's overall infrastructure sector, which directly supports Transport Infrastructure. Key drivers include a high capital investment outlay of Rs. 12.22 lakh crore in the Union Budget 2026–27, policy support like PM GatiShakti National Master Plan, and growing private sector involvement through initiatives like the Second Asset Monetization Plan. Liberalized FDI rules also attract international investment. This holistic approach is expected to reduce logistics costs, increase cargo handling capacity, and accelerate sustainable growth across various infrastructure segments, including transport.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "516b3234-658e-5f24-b7e1-c468010798e2"
+    },
+    {
+      "index": 9,
+      "title": "Real Opportunity to Rebalance India's Freight Modal Share Towards Rail",
+      "description": "KPMG asserts that a real opportunity exists to rebalance India’s freight modal share, currently dominated by more expensive road transport (70% vs. rail's 25%). Despite road's flexibility, rail transport costs roughly half per tonne-km. Indian Railways is moving record volumes, supported by DFCs, multimodal logistics (GCTs), and significant private investment (INR 8,600 crore). This momentum, backed by policy and capital, indicates a shift towards more efficient and competitive supply chains, contingent on improving rail accessibility and integration with other transport modes.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-04-01",
+      "source_doc_id": "7897aed6-5b57-5d1e-9aad-f5d08f76e25a"
+    },
+    {
+      "index": 10,
+      "title": "Roads Sector in India Set for Robust Expansion and Efficiency Gains",
+      "description": "IBEF expresses a positive outlook for the Indian roads sector, anticipating continued strong growth and investment. This is driven by substantial government budgetary allocations, particularly for the Ministry of Road Transport and Highways (MoRTH) and NHAI. The sector is benefiting from increasing private sector involvement through models like BOT and HAM, along with significant FDI inflows. Plans for extensive expressway construction (17,000 km by 2033), multimodal logistics parks, and rural road development indicate a concerted effort to enhance connectivity, logistics efficiency, and overall economic activity across the country.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "d393ee74-f328-512d-915f-710aefa86559"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 12608.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "FY23-FY25",
+      "demand_drivers": [
+        {
+          "driver": "Multimodal Logistics Integration",
+          "description": "Integration of rail, road, and port connectivity at GCTs enhances efficiency and attracts freight volumes."
+        },
+        {
+          "driver": "Policy Incentives",
+          "description": "Government incentives like cost exemptions, rebates, and shared asset maintenance encourage private investment and utilization."
+        },
+        {
+          "driver": "Increased Freight Volumes",
+          "description": "Growing freight movement across India, especially for bulk commodities, drives demand for such terminals."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Increased cargo handling",
+          "description": "Higher volumes of freight handled lead to increased revenue for terminal operators and railway services."
+        },
+        {
+          "driver": "Operational efficiency",
+          "description": "Improved coordination and reduced turnaround times at GCTs can enhance profitability."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "INR 8,600 crore of private investment has already flowed into these terminals, indicating significant untapped potential with government support and incentives.",
+          "opportunity": "Private Investment in Cargo Terminals"
+        }
+      ],
+      "methodology": "Freight revenues generated from Gati Shakti Multi-Modal Cargo Terminals (GCTs).",
+      "source_firm": "KPMG",
+      "source_date": "2026-04-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 15624.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Alternative Financing Mechanisms",
+          "description": "Demand for innovative financing instruments like InvITs to fund road infrastructure projects."
+        },
+        {
+          "driver": "Asset Monetization",
+          "description": "Government strategy to monetize operational infrastructure assets to reinvest capital into new projects."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The successful raising of funds through InvITs demonstrates a viable model for attracting institutional capital into mature road assets and recycling capital for new development.",
+          "opportunity": "InvITs for Road Infrastructure"
+        }
+      ],
+      "methodology": "Funds raised by NHAI through InvIT (Infrastructure Investment Trust) mode.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 4.5,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Logistics Efficiency Needs",
+          "description": "Demand for faster, more reliable, and cost-effective freight transport to support economic growth."
+        },
+        {
+          "driver": "Modal Shift from Road to Rail",
+          "description": "Government and industry push to shift freight from roads to rail due to economic and environmental benefits."
+        },
+        {
+          "driver": "Support for Core Industries",
+          "description": "Enhanced capacity for bulk goods movement, such as coal, to power plants and other industrial centers."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated investment for three new Dedicated Freight Corridors (DFCs).",
+      "source_firm": "KPMG",
+      "source_date": "2026-04-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Bilateral Investment Goals",
+          "description": "Strategic partnership between India and Japan to boost infrastructure development."
+        },
+        {
+          "driver": "Economic Growth Targets",
+          "description": "Investment needed to support India's aspiration of a US$5 trillion economy by 2025."
+        },
+        {
+          "driver": "Infrastructure Needs",
+          "description": "Continued need for development across various infrastructure sectors to meet growing demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Liberalized FDI rules and significant investment targets provide clear avenues for foreign participation in infrastructure, including transport.",
+          "opportunity": "Foreign Direct Investment (FDI)"
+        }
+      ],
+      "methodology": "Analysis of investment target for infrastructure between India and Japan.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 5,
+      "tam_value": 125.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Enhanced Logistics Efficiency",
+          "description": "Demand for faster freight movement and reduced transit times to support industrial and economic growth."
+        },
+        {
+          "driver": "Improved Economic Connectivity",
+          "description": "Connecting major economic centers and regions to boost trade, tourism, and regional development."
+        },
+        {
+          "driver": "Government Masterplan 2047",
+          "description": "Long-term national vision for infrastructure development driving significant road network expansion."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated cost for building 17,000 km of high-speed, access-controlled expressways.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": 143.0,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Economic Growth Target",
+          "description": "India’s goal to become a US$5 trillion economy drives significant infrastructure investment across all sectors."
+        },
+        {
+          "driver": "National Infrastructure Pipeline (NIP)",
+          "description": "Government-led multi-sector investment plans allocate substantial funds for infrastructure development."
+        },
+        {
+          "driver": "Urbanization",
+          "description": "Growing urban population creates demand for new and upgraded transport infrastructure."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Investors like Actis plan to double existing investments in these areas, indicating significant growth potential.",
+          "opportunity": "Investment in Roads, Transport, and Digital Infrastructure"
+        }
+      ],
+      "methodology": "Total projected spending on infrastructure in India over seven fiscals through 2030, according to CRISIL’s Infrastructure Yearbook 2023.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "KPMG",
+    "KPMG in Canada",
+    "BCG",
+    "IBEF"
+  ]
+}

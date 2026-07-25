@@ -1,0 +1,253 @@
+/* ============================================================
+   SWERVE Design System — colors_and_type.css  v1.1
+   Based on official SWERVE Brand Guidelines v1.0 (2025)
+   Investing platform for emerging markets institutional research
+   ============================================================ */
+
+/* ── Fonts ────────────────────────────────────────────────── */
+@font-face {
+  font-family: 'Poppins';
+  src: url('fonts/Poppins-Light.ttf') format('truetype');
+  font-weight: 300; font-style: normal;
+}
+@font-face {
+  font-family: 'Poppins';
+  src: url('fonts/Poppins-Regular.ttf') format('truetype');
+  font-weight: 400; font-style: normal;
+}
+@font-face {
+  font-family: 'Poppins';
+  src: url('fonts/Poppins-Italic.ttf') format('truetype');
+  font-weight: 400; font-style: italic;
+}
+@font-face {
+  font-family: 'Poppins';
+  src: url('fonts/Poppins-Medium.ttf') format('truetype');
+  font-weight: 500; font-style: normal;
+}
+@font-face {
+  font-family: 'Poppins';
+  src: url('fonts/Poppins-SemiBold.ttf') format('truetype');
+  font-weight: 600; font-style: normal;
+}
+@font-face {
+  font-family: 'Poppins';
+  src: url('fonts/Poppins-Bold.ttf') format('truetype');
+  font-weight: 700; font-style: normal;
+}
+@font-face {
+  font-family: 'Poppins';
+  src: url('fonts/Poppins-BoldItalic.ttf') format('truetype');
+  font-weight: 700; font-style: italic;
+}
+@font-face {
+  font-family: 'Poppins';
+  src: url('fonts/Poppins-ExtraBold.ttf') format('truetype');
+  font-weight: 800; font-style: normal;
+}
+@font-face {
+  font-family: 'Poppins';
+  src: url('fonts/Poppins-Black.ttf') format('truetype');
+  font-weight: 900; font-style: normal;
+}
+@font-face {
+  font-family: 'Poppins';
+  src: url('fonts/Poppins-BlackItalic.ttf') format('truetype');
+  font-weight: 900; font-style: italic;
+}
+
+/* ── Official Brand Color Palette ─────────────────────────── */
+:root {
+  /* PRIMARY — core brand tones */
+  --color-core-purple:    #9666e3;   /* Bold, confident, expressive */
+  --color-primary-blue:   #1892f3;   /* Crisp, energetic, action/CTA */
+
+  /* SECONDARY — softer support tones */
+  --color-soft-purple:    #d1c4fc;   /* Calm, supportive; bg tints */
+  --color-soft-blue:      #cfe6fa;   /* Airy, breathing room */
+
+  /* NEUTRALS */
+  --color-neutral-black:  #2c2c2e;   /* Dark mode; typography; grounding */
+  --color-base-white:     #f3f1f3;   /* Off-white; clean UI base */
+
+  /* DARK MODE GRADIENT PALETTE */
+  --color-pulse-blue:     #6bd6ff;   /* Dark mode gradient stop */
+  --color-synth-purple:   #aa7bff;   /* Dark mode gradient stop */
+  --color-ghost-lilac:    #e3cfff;   /* Dark mode gradient highlight */
+  --color-infra-shadow:   #0e0d11;   /* Dark mode deepest bg */
+
+  /* ── Gradients ───────────────────────────────────────────── */
+  /* Light mode: purple → blue (left to right) */
+  --gradient-brand:       linear-gradient(to right, #9666e3, #1892f3);
+  /* With soft tones blended in */
+  --gradient-brand-full:  linear-gradient(to right, #9666e3, #7b80ea, #1892f3);
+  /* Hero / splash — add soft stops */
+  --gradient-hero:        linear-gradient(to right, #d1c4fc, #9666e3, #1892f3, #cfe6fa);
+  /* Dark mode gradient */
+  --gradient-dark:        linear-gradient(135deg, #0e0d11 0%, #aa7bff 40%, #6bd6ff 75%, #e3cfff 100%);
+  /* Dark mode: subtle, for full-screen backgrounds */
+  --gradient-dark-bg:     linear-gradient(135deg, #0e0d11 0%, #1a1025 35%, #0d1a2e 70%, #0e0d11 100%);
+
+  /* ── Semantic Tokens — Dark Mode (default) ───────────────── */
+  --fg1:           #f3f1f3;
+  --fg2:           rgba(243,241,243,0.70);
+  --fg3:           rgba(243,241,243,0.42);
+  --fg-disabled:   rgba(243,241,243,0.22);
+  --bg:            #0e0d11;
+  --bg-surface:    #131218;
+  --bg-elevated:   #1c1b23;
+  --bg-overlay:    rgba(255,255,255,0.04);
+  --border:        rgba(255,255,255,0.08);
+  --border-strong: rgba(255,255,255,0.15);
+
+  --color-accent:        var(--color-primary-blue);
+  --color-accent-purple: var(--color-core-purple);
+  --color-positive:      #34d399;   /* portfolio gains */
+  --color-negative:      #f87171;   /* portfolio losses */
+  --color-warning:       #fbbf24;
+
+  /* ── Typography ─────────────────────────────────────────── */
+  /* Poppins is the ONLY brand typeface per guidelines */
+  --font-display: 'Poppins', sans-serif;
+  --font-body:    'Poppins', sans-serif;
+  --font-mono:    'SF Mono', 'Fira Code', monospace; /* for data/numbers */
+
+  /* Type scale */
+  --text-xs:   11px;
+  --text-sm:   13px;
+  --text-base: 15px;
+  --text-md:   17px;
+  --text-lg:   20px;
+  --text-xl:   24px;
+  --text-2xl:  32px;
+  --text-3xl:  40px;
+  --text-4xl:  52px;
+  --text-5xl:  68px;
+
+  /* Weights — per brand guidelines */
+  --weight-light:    300;  /* form hints, supporting text — sparingly */
+  --weight-regular:  400;  /* body, captions, tooltips */
+  --weight-medium:   500;  /* subheaders, labels, menu items */
+  --weight-semibold: 600;
+  --weight-bold:     700;  /* page titles, H1, key moments */
+  --weight-black:    900;
+
+  /* Line heights */
+  --leading-tight:   1.1;
+  --leading-snug:    1.25;
+  --leading-normal:  1.5;
+  --leading-relaxed: 1.7;
+
+  /* Letter spacing */
+  --tracking-tight:  -0.03em;
+  --tracking-normal: -0.01em;
+  --tracking-wide:   0.04em;
+  --tracking-wider:  0.1em;
+
+  /* ── Spacing ─────────────────────────────────────────────── */
+  --space-1:   4px;
+  --space-2:   8px;
+  --space-3:   12px;
+  --space-4:   16px;
+  --space-5:   20px;
+  --space-6:   24px;
+  --space-8:   32px;
+  --space-10:  40px;
+  --space-12:  48px;
+  --space-16:  64px;
+  --space-20:  80px;
+  --space-24:  96px;
+
+  /* ── Radii ───────────────────────────────────────────────── */
+  --radius-sm:   6px;
+  --radius-md:   10px;
+  --radius-lg:   16px;
+  --radius-xl:   24px;
+  --radius-pill: 9999px;
+
+  /* ── Shadows ─────────────────────────────────────────────── */
+  --shadow-sm:         0 2px 8px rgba(0,0,0,0.35);
+  --shadow-md:         0 4px 20px rgba(0,0,0,0.45);
+  --shadow-lg:         0 8px 40px rgba(0,0,0,0.55);
+  --shadow-glow-purple:0 0 24px rgba(150,102,227,0.30);
+  --shadow-glow-blue:  0 0 24px rgba(24,146,243,0.30);
+
+  /* ── Transitions ─────────────────────────────────────────── */
+  --ease-brand:      cubic-bezier(0.4, 0, 0.2, 1);
+  --duration-fast:   150ms;
+  --duration-normal: 250ms;
+  --duration-slow:   400ms;
+}
+
+/* ── Semantic Typography Classes ─────────────────────────── */
+.swerve-h1 {
+  font-family: var(--font-display);
+  font-size: var(--text-4xl);
+  font-weight: var(--weight-bold);
+  line-height: var(--leading-tight);
+  letter-spacing: var(--tracking-tight);
+  color: var(--fg1);
+}
+.swerve-h2 {
+  font-family: var(--font-display);
+  font-size: var(--text-3xl);
+  font-weight: var(--weight-bold);
+  line-height: var(--leading-tight);
+  letter-spacing: var(--tracking-tight);
+  color: var(--fg1);
+}
+.swerve-h3 {
+  font-family: var(--font-display);
+  font-size: var(--text-2xl);
+  font-weight: var(--weight-bold);
+  line-height: var(--leading-snug);
+  color: var(--fg1);
+}
+.swerve-label {
+  font-family: var(--font-body);
+  font-size: var(--text-sm);
+  font-weight: var(--weight-medium);
+  letter-spacing: var(--tracking-wider);
+  text-transform: uppercase;
+  color: var(--fg3);
+}
+.swerve-body {
+  font-family: var(--font-body);
+  font-size: var(--text-base);
+  font-weight: var(--weight-regular);
+  line-height: var(--leading-relaxed);
+  color: var(--fg2);
+}
+.swerve-caption {
+  font-family: var(--font-body);
+  font-size: var(--text-sm);
+  font-weight: var(--weight-regular);
+  color: var(--fg3);
+}
+.swerve-data {
+  font-family: var(--font-mono);
+  font-size: var(--text-base);
+  color: var(--fg1);
+}
+
+/* ── Gradient Text Utility ───────────────────────────────── */
+.swerve-gradient-text {
+  background: var(--gradient-brand);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* ── Light Mode Overrides ────────────────────────────────── */
+.light-mode {
+  --fg1:           #2c2c2e;
+  --fg2:           #4a4a52;
+  --fg3:           #8a8a94;
+  --fg-disabled:   #c0c0c8;
+  --bg:            #f3f1f3;
+  --bg-surface:    #ffffff;
+  --bg-elevated:   #ebebef;
+  --bg-overlay:    rgba(0,0,0,0.03);
+  --border:        rgba(44,44,46,0.10);
+  --border-strong: rgba(44,44,46,0.20);
+}

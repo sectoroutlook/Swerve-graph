@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: #0d0d0d; font-family: var(--font-body); padding: 20px; }
+.section { margin-bottom: 14px; }
+.row { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
+.box { background: var(--bg-elevated); border: 1px solid var(--border); display: flex; align-items: center; justify-content: center; width: 72px; height: 48px; }
+.lbl { font-size: 10px; color: var(--fg3); margin-top: 5px; text-align: center; }
+.item { display: flex; flex-direction: column; align-items: center; }
+.sh-box { background: var(--bg-elevated); border-radius: 10px; display: flex; align-items: center; justify-content: center; width: 80px; height: 44px; margin-top: 8px; }
+.heading { font-size: 10px; color: var(--fg3); letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 8px; }
+</style>
+</head><body>
+  <div class="section">
+    <div class="heading">Corner Radii</div>
+    <div class="row">
+      <div class="item"><div class="box" style="border-radius:6px"><span style="font-size:9px;color:var(--fg3)">sm</span></div><div class="lbl">6px</div></div>
+      <div class="item"><div class="box" style="border-radius:12px"><span style="font-size:9px;color:var(--fg3)">md</span></div><div class="lbl">12px</div></div>
+      <div class="item"><div class="box" style="border-radius:16px"><span style="font-size:9px;color:var(--fg3)">lg</span></div><div class="lbl">16px</div></div>
+      <div class="item"><div class="box" style="border-radius:24px"><span style="font-size:9px;color:var(--fg3)">xl</span></div><div class="lbl">24px</div></div>
+      <div class="item"><div class="box" style="border-radius:9999px"><span style="font-size:9px;color:var(--fg3)">pill</span></div><div class="lbl">9999px</div></div>
+    </div>
+  </div>
+  <div class="section">
+    <div class="heading">Shadows</div>
+    <div class="row">
+      <div class="item"><div class="sh-box" style="box-shadow:0 2px 8px rgba(0,0,0,.3)"><span style="font-size:9px;color:var(--fg3)">sm</span></div></div>
+      <div class="item"><div class="sh-box" style="box-shadow:0 4px 20px rgba(0,0,0,.4)"><span style="font-size:9px;color:var(--fg3)">md</span></div></div>
+      <div class="item"><div class="sh-box" style="box-shadow:0 8px 40px rgba(0,0,0,.5)"><span style="font-size:9px;color:var(--fg3)">lg</span></div></div>
+      <div class="item"><div class="sh-box" style="box-shadow:0 0 24px rgba(167,139,250,.35)"><span style="font-size:9px;color:var(--fg3)">glow ↗</span></div></div>
+      <div class="item"><div class="sh-box" style="box-shadow:0 0 24px rgba(77,158,245,.35)"><span style="font-size:9px;color:var(--fg3)">glow →</span></div></div>
+    </div>
+  </div>
+</body></html>

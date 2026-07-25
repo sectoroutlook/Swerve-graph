@@ -1,0 +1,451 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Protracted nuclear project execution and delivery challenges",
+      "description": "Nuclear projects globally face weak delivery track records, with few completed on time and on budget. Success requires a repeatable formula including proven design, programmatic approach, and industrialized delivery. Precision in execution is as crucial as engineering, suggesting significant inherent challenges in project management that lead to delays and cost overruns, impacting the viability of nuclear expansion plans.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 2,
+      "title": "Higher long-term interest rates impacting capital-intensive projects",
+      "description": "Long-term interest rates are elevated compared to early 2020s, keeping financing costs high for capital-intensive power projects, including renewables. This materially affects project economics and can deter new investments or increase the cost of power, particularly in a sector highly sensitive to the cost of capital. Such conditions make it harder to achieve financial closure and project viability.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-12"
+    },
+    {
+      "index": 3,
+      "title": "Surging electricity demand from data centers and electrification",
+      "description": "Electricity demand in North America and Europe is projected to increase significantly in the next five years (US ~20%, Europe ~10%). This surge is primarily driven by data center build-out and the electrification of transportation and industrial operations. This provides a strong underlying growth driver for renewable energy capacity, as governments and companies seek low-carbon solutions to meet this rising load.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-12"
+    },
+    {
+      "index": 4,
+      "title": "Mega-scale capital commitments and extended timelines for nuclear projects",
+      "description": "Nuclear projects demand unprecedented capital commitments, often exceeding $10-30 billion, and construction timelines of 7-12 years. These scales surpass typical corporate project experience, posing unique financial and management challenges that complicate decision-making and execution in the nuclear sector. The extended timelines also mean that executives who initiate projects may not see them through to completion, adding to governance complexity.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-04"
+    },
+    {
+      "index": 5,
+      "title": "Immature nuclear supply chains and workforce in Western economies",
+      "description": "Decades without new nuclear builds in Western regions have led to the atrophy of nuclear-qualified workforces, component suppliers, and heavy construction capabilities. Supply chains currently lack the necessary scale and expertise, necessitating innovative approaches to overcome these critical bottlenecks for future nuclear deployment. This immaturity risks significant delays, cost overruns, and quality issues for new nuclear projects.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-04"
+    },
+    {
+      "index": 6,
+      "title": "Overall surging global electricity demand",
+      "description": "Under all scenarios, global electricity demand is projected to rise by 40% to 70% by 2040, making electricity a larger share of final energy consumption. This fundamental growth, driven by population, GDP, and industrial activity, provides a massive tailwind for all power generation. The need to meet this demand while decarbonizing strongly favors the expansion of renewable energy and other clean technologies.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-09"
+    },
+    {
+      "index": 7,
+      "title": "Declining costs of renewables and battery storage technologies",
+      "description": "Solar and wind continue to become the lowest-cost generation options in many markets, and the cost of firming technologies like battery storage is also expected to decline. This trend enhances the economic competitiveness and viability of renewable energy projects globally. Lower costs enable faster deployment and wider adoption, accelerating the energy transition and making renewables more attractive to investors and consumers.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-09"
+    },
+    {
+      "index": 8,
+      "title": "Non-technological barriers constraining faster renewable energy scaling",
+      "description": "The primary limitations for renewables scaling are not technological viability but systemic issues such as interconnection delays, dispatchability requirements, lengthy lead times for transformers and transmission, mineral supply chain bottlenecks, insufficient capital mobilization, and skilled labor shortages. These non-technological hurdles significantly impede the pace of renewable energy deployment, despite economic and environmental incentives, and require coordinated policy and infrastructure solutions.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-09"
+    },
+    {
+      "index": 9,
+      "title": "Critical minerals supply chain risks and geopolitical choke points",
+      "description": "Clean energy, electric vehicles, and defense systems rely on critical minerals (such as lithium, cobalt, copper, and graphite) whose refining, processing, and manufacturing are geographically concentrated. This creates choke points and makes supply chains susceptible to national security and industrial policy flashpoints, particularly in scenarios of divergent pathways. Such vulnerabilities can lead to price volatility and supply disruptions, impacting the cost and availability of clean tech components.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-09"
+    },
+    {
+      "index": 10,
+      "title": "Emergence of small and advanced modular reactors (SMRs)",
+      "description": "The potential for small and advanced modular reactors (SMRs) to become less expensive could enable nuclear energy to capture market share from other firm power sources. If SMRs overcome their current cost and regulatory challenges, they could provide a flexible, low-carbon baseload option that is more deployable than traditional large-scale nuclear, accelerating nuclear's contribution to the energy transition.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-09"
+    },
+    {
+      "index": 11,
+      "title": "Availability of affordable land for large-scale renewable projects",
+      "description": "Access to inexpensive rural land is identified as the single strongest factor driving renewable energy deployment in both the US and China, accounting for 20-21% of modeled growth. This underscores the critical role of land costs in project economics and scaling. Regions with affordable land can significantly reduce project CAPEX, making renewable projects more financially attractive and enabling faster build-out.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": null,
+      "as_of_date": "2026-04-07"
+    },
+    {
+      "index": 12,
+      "title": "Existing renewable energy capacity creating an experience curve effect",
+      "description": "Regions with an established base of wind and solar power tend to experience successful further scaling, explaining 12-15% of growth. This indicates a virtuous cycle where early investments improve economics and execution, attracting more capital and accelerating subsequent build-outs. Accumulated local know-how, established supply chains, and proven business cases contribute to this momentum.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": null,
+      "as_of_date": "2026-04-07"
+    },
+    {
+      "index": 13,
+      "title": "Robust grid infrastructure and utility investment supporting renewables",
+      "description": "High levels of investment in utility infrastructure and grid reliability are clearly associated with the scaling of renewables. Strong grid capabilities facilitate the integration and transmission of intermittent renewable energy, enabling further capacity additions in supported regions. Conversely, grid bottlenecks and reliability issues can significantly constrain renewable energy deployment, emphasizing the need for proactive infrastructure upgrades.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": null,
+      "as_of_date": "2026-04-07"
+    },
+    {
+      "index": 14,
+      "title": "Regulatory renewables targets having limited long-term impact",
+      "description": "While state-level regulatory targets for renewables showed a short-term connection to deployment, they had no measurable long-term impact in the US. This suggests that other fundamental economic and infrastructure factors, such as land costs and grid robustness, may be more critical for sustained growth than mere policy mandates. Policymakers must move beyond targets to address underlying systemic barriers effectively.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": null,
+      "as_of_date": "2026-04-07"
+    },
+    {
+      "index": 15,
+      "title": "Ambitious national targets for renewable energy and decarbonization",
+      "description": "India targets 500 GW of renewable energy capacity by 2030, a 50% share of cumulative electric power from renewables by 2030, and net-zero emissions by 2070. These ambitious goals provide a clear policy direction and strong impetus for investment and growth in the RE sector. They signal sustained government commitment and create a stable long-term outlook for clean energy development.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 16,
+      "title": "Integration of energy storage systems to ensure grid stability",
+      "description": "The development and deployment of energy storage systems, such as pumped hydro and Battery Energy Storage Systems (BESS), are becoming critical. Proposed plans like the 12,000 MWh BESS in Ladakh and large pumped storage projects (e.g., Avaada's 3,600 MW in Maharashtra) aim to support large-scale renewable integration and enhance grid stability, addressing the intermittency challenges posed by high renewable penetration. This enables greater dispatchability and reliability of renewable power.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 17,
+      "title": "Increasing demand for systemic flexibility solutions to integrate renewables",
+      "description": "To overcome value cannibalization and manage supply-demand mismatches inherent with intermittent renewable generation, systemic flexibility is critical. This includes solutions such as grid-scale battery storage, demand-side management, virtual power plants, and grid infrastructure upgrades. Enhancing flexibility strengthens affordability, reliability, and sustainability in renewables-dominated power systems, making it essential for the continued growth and stability of the clean tech sector.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-02-25"
+    },
+    {
+      "index": 18,
+      "title": "Lack of commercial viability at scale for clean fuels like green hydrogen",
+      "description": "Alternative clean fuels such as green hydrogen and other biofuels have not yet reached commercially viable scales or costs to effectively replace fossil fuels across the economy. This limits their immediate impact on India's energy transition and perpetuates reliance on traditional energy sources. The high cost of production and lack of mature infrastructure for distribution and end-use remain significant barriers.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": null,
+      "as_of_date": "2026-02-03"
+    },
+    {
+      "index": 19,
+      "title": "Substantial government financial support for renewable energy initiatives",
+      "description": "The Union Budget 2026-27 significantly increased the MNRE allocation to US$ 5.05 billion, a 40.52% rise. This enhanced support for flagship schemes like PM Surya Ghar, energy storage, and domestic manufacturing reinforces India's commitment to large-scale renewable capacity expansion. Such financial backing directly incentivizes investment and development across the renewable energy and clean tech sectors.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 20,
+      "title": "Increasing foreign direct investment (FDI) inflows into India's clean energy sector",
+      "description": "The share of renewable energy in India’s total FDI inflows grew remarkably from 1% in FY21 to 8% in FY25, with US$ 3.4 billion received in the first three quarters of FY25. This surge reflects growing global investor confidence and provides crucial capital for sector development. Increased FDI supports capacity expansion, technological upgrades, and overall market growth in clean energy.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": null,
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 21,
+      "title": "Value cannibalization and price volatility in high-penetration renewable markets",
+      "description": "When renewable energy becomes abundant, it can depress wholesale electricity prices during periods of high generation, reducing producer revenues and threatening financial viability. This systemic issue leads to unprecedented volatility and risks drying up future investments. The problem is exacerbated when demand is low or grid infrastructure cannot effectively transmit power, creating negative pricing events that undermine renewable economics.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": null,
+      "as_of_date": "2026-02-25"
+    },
+    {
+      "index": 22,
+      "title": "India's \"decarbonization paradox\" and continued fossil fuel dependence",
+      "description": "India's energy mix shows renewables scaling alongside growing fossil fuel consumption. Despite record renewable installations and policy support, coal dependence has deepened, and oil demand is projected to rise significantly by 2050. This 'decarbonization paradox' highlights a persistent challenge in achieving decarbonization goals, as the growth of conventional energy sources continues to outpace the displacement by renewables in absolute terms.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": null,
+      "as_of_date": "2026-02-03"
+    },
+    {
+      "index": 23,
+      "title": "Success of India's ethanol blending program",
+      "description": "India's ethanol blending program has been a significant success, achieving a 20% blending rate with petrol five years ahead of schedule. This is a game-changer for bioenergy, advancing energy security, environmental sustainability, and economic benefits. The program's success demonstrates a viable pathway for increasing biofuel penetration and provides a model for other alternative fuel initiatives.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": null,
+      "as_of_date": "2026-02-03"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Nuclear projects face persistent delivery challenges despite rising investment interest",
+      "description": "Bain highlights that while interest in nuclear investment is growing globally, driven by demand for firm power, nuclear projects consistently face significant delivery challenges. Few projects are completed on time and on budget, with recurring failure patterns across sectors. Success hinges on a repeatable formula encompassing proven design, programmatic approach, industrialized delivery, strong owner leadership, and stakeholder alignment, emphasizing that execution precision matters as much as engineering.",
+      "stance": "cautious_negative",
+      "source_firm": "Bain",
+      "source_date": "2026-06-01",
+      "source_doc_id": "61681d54-88dc-5308-8a5e-fba3c5428922"
+    },
+    {
+      "index": 2,
+      "title": "CCUS-equipped gas preferred over other low-carbon options for US data centers",
+      "description": "BCG identifies gas-fired generation with CCUS as a leading scalable solution to address the rapidly growing US data center power crunch by 2030. It's favored for its speed, cost-effectiveness (with tax credits), scalability, and regulatory support. In contrast, renewables with battery storage face variable regulatory backing and scalability limits, while large nuclear projects are hindered by high costs, long construction times, and complex regulatory processes, positioning CCUS-equipped gas as a more viable near-term option.",
+      "stance": "cautious_negative",
+      "source_firm": "BCG",
+      "source_date": "2026-03-30",
+      "source_doc_id": "ad6dfc1f-679f-576f-b4af-b457f2e08106"
+    },
+    {
+      "index": 3,
+      "title": "Renewables to dominate soaring electricity demand, but face critical scaling barriers",
+      "description": "Bain projects global electricity demand to surge 40-70% by 2040, primarily driven by residential consumption, AI, and transport electrification. Solar and wind are expected to expand their generation mix share by three to seven times, becoming the lowest-cost option. However, scaling is constrained by significant non-technological barriers, including interconnection delays, transmission lead times, mineral supply chains, capital mobilization, and skilled labor shortages, indicating a positive outlook for growth tempered by systemic challenges.",
+      "stance": "cautious_positive",
+      "source_firm": "Bain",
+      "source_date": "2026-04-09",
+      "source_doc_id": "7c460a56-8cd1-584c-8197-064dae6da69c"
+    },
+    {
+      "index": 4,
+      "title": "Nuclear energy set for global resurgence, driven by firm power demand and SMR potential",
+      "description": "Bain observes a global resurgence in nuclear energy, anticipating its capacity to maintain or grow its share as a firm, low-carbon baseload, particularly as grids integrate more intermittent renewables. Over 30 countries have pledged to triple nuclear capacity by 2050, with global investments forecast at $2.2 trillion over the next 25 years. The prospect of small and advanced modular reactors (SMRs) becoming less expensive could further accelerate nuclear's market penetration.",
+      "stance": "positive",
+      "source_firm": "Bain",
+      "source_date": "2026-04-09",
+      "source_doc_id": "7c460a56-8cd1-584c-8197-064dae6da69c"
+    },
+    {
+      "index": 5,
+      "title": "Systemic flexibility is key to renewable energy value and future investment",
+      "description": "BCG warns that renewable energy's increasing abundance is leading to value cannibalization and extreme price volatility in wholesale markets, threatening financial viability and future investments. Subsidies alone are insufficient; systemic flexibility—managing when and where electricity is consumed, stored, and moved—is critical. Solutions like advanced grid-scale batteries, demand-side management, and strategic curtailment are essential to stabilize grids, restore economic viability, and prevent investment drying up.",
+      "stance": "cautious_negative",
+      "source_firm": "BCG",
+      "source_date": "2026-02-25",
+      "source_doc_id": "2d4e1448-51d6-5106-af72-30d6641da299"
+    },
+    {
+      "index": 6,
+      "title": "Low-carbon capital projects demand new playbook for unique uncertainties",
+      "description": "BCG argues that cutting-edge low-carbon capital projects, such as those in hydrogen, CCUS, bioenergy, and offshore wind, require a specialized approach. Their pioneering nature, reliance on emerging technologies, and exposure to significant commercial, operational, and regulatory uncertainties mean traditional project playbooks are insufficient. Success requires integrated flexibility, adaptable procurement, early stakeholder engagement, diverse financing strategies, and rigorous execution despite unestablished benchmarks and specialized expertise needs.",
+      "stance": "cautious_positive",
+      "source_firm": "BCG",
+      "source_date": "2026-03-18",
+      "source_doc_id": "9c2bb844-a4bf-55e9-9f8a-db15bfec218d"
+    },
+    {
+      "index": 7,
+      "title": "India's \"decarbonization paradox\" sees simultaneous fossil and renewable growth",
+      "description": "EY describes India's energy transition as a \"decarbonization paradox,\" where record renewable installations and policy support coexist with deepening reliance on fossil fuels. Despite significant RE growth, coal dependence has increased, and oil demand is projected to rise substantially by 2050. Clean fuels like green hydrogen are not yet commercially viable at scale to displace fossil fuels, highlighting India's pragmatic but complex balancing act between economic development and climate ambition.",
+      "stance": "neutral",
+      "source_firm": "EY",
+      "source_date": "2026-02-03",
+      "source_doc_id": "dd712017-b4ec-596f-8d3b-95ab8e57067a"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 500.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Decarbonization commitments",
+          "description": "India's pledge to achieve net-zero carbon emissions by 2070 and reduce carbon intensity by less than 45% by the end of the decade."
+        },
+        {
+          "driver": "Energy security",
+          "description": "Efforts to reduce reliance on fossil fuel imports and enhance domestic energy production."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Government target for total renewable energy capacity in India, with 280 GW expected from solar power, to be achieved by 2030.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 215.5,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 16.43,
+      "historical_cagr_period": "FY16-FY26",
+      "demand_drivers": [
+        {
+          "driver": "Growing energy demand",
+          "description": "Increasing power consumption from homes, businesses, and communities, driving the need for more generation capacity."
+        },
+        {
+          "driver": "Government targets for renewable energy integration",
+          "description": "National goals to increase the share of non-fossil fuel sources in the total power mix and ambitious capacity targets."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total installed renewable energy capacity (excluding large hydro) in India, comprising Small Hydro Power, Wind Power, Solar Power, and Bio-Power, as of February 2026. Including large hydro, the total stood at approximately 267 GW.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 3343.37,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Land availability for large-scale solar projects",
+          "description": "Vast areas of wasteland provide suitable sites for deploying ground-mounted solar capacity without competing with agriculture."
+        },
+        {
+          "driver": "Growing demand for solar power",
+          "description": "The increasing penetration of solar in the energy mix due to its cost-effectiveness and policy support."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The vast estimated potential on wasteland offers significant opportunities for utility-scale solar project development and capacity additions.",
+          "opportunity": "Untapped ground-mounted solar potential"
+        }
+      ],
+      "methodology": "Estimated feasible ground-mounted solar photovoltaic potential across 27,571 sq km of wasteland in India by the National Institute of Solar Energy (NISE). This represents a significant increase from the 748.98 GWp estimated in 2014.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 2.37,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Decarbonization efforts",
+          "description": "Promotion of green hydrogen as a key vector for reducing emissions across various sectors like industry and mobility."
+        },
+        {
+          "driver": "Promoting domestic green hydrogen ecosystem",
+          "description": "Government initiative to foster local production, manufacturing, and innovation within the green hydrogen value chain."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Initial total outlay for India's National Green Hydrogen Mission, approved by the Union Cabinet. This includes specific allocations for the SIGHT programme (US$ 2.10 billion), pilot projects, R&D, and other mission components.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": 360.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Target of 500 GW renewable energy capacity by 2030",
+          "description": "Ambitious government target necessitates substantial capital deployment across the generation and associated infrastructure sectors."
+        },
+        {
+          "driver": "Enhancing grid infrastructure",
+          "description": "Integration of large-scale renewable energy requires significant investment in transmission, distribution, and storage to ensure grid stability and reliability."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated investment required in India for renewable energy and infrastructure by 2030, with US$ 190-215 billion specifically for achieving 500 GW of renewable capacity and an additional US$ 150-170 billion for electricity transmission, distribution, and energy storage.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 6,
+      "tam_value": 100.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2047,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing energy demands",
+          "description": "The need for a stable, baseload power source to meet India's increasing electricity consumption."
+        },
+        {
+          "driver": "Environmental goals",
+          "description": "Nuclear power's role as a low-carbon energy source contributing to decarbonization efforts and energy security."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Long-term target capacity for nuclear power in India under the Nuclear Energy Mission. The current capacity (2025-26) is 8,180 MW, with an interim target of 22,480 MW by 2031-32.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "Bain",
+    "BCG",
+    "EY",
+    "IBEF"
+  ]
+}

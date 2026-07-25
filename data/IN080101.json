@@ -1,0 +1,380 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Increased BFSI Spending Drives IT Services Growth",
+      "description": "The Banking, Financial Services, and Insurance (BFSI) sector is increasing its IT spending, particularly on generative AI initiatives, driving a projected 7-9% revenue growth for the IT services sector in FY26. Financial institutions are focusing on digital transformation, regulatory compliance, and enhanced risk management, creating significant demand for custom application development, system integration, cloud migration, and IT consulting services. This sustained investment in technology enables IT services firms to secure larger contracts and expand their service offerings within this critical vertical.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 2,
+      "title": "Strong Enterprise Demand for AI Solutions & Integration",
+      "description": "Enterprises are increasingly embedding AI into their core operations, driving sustained demand for IT services providers who can integrate AI across cloud, data, and applications. This focus on scalable, repeatable, and outcome-linked AI deployments is accelerating the shift from experimentation to measurable value creation. IT Services & Outsourcing firms benefit from this by offering specialized AI consulting, custom development, and system integration expertise, helping clients achieve AI-enabled productivity, cost transformation, and revenue acceleration, especially through automation platforms.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-20"
+    },
+    {
+      "index": 3,
+      "title": "Digital and Cloud Services Demand Recovery",
+      "description": "Demand for IT services is recovering, fueled by strong order books and a growing need for digital and cloud-led services. This rebound indicates increased client investment in modernizing their IT infrastructure and applications, adopting cloud-native solutions, and leveraging digital technologies for business transformation. IT Services & Outsourcing firms are direct beneficiaries, as they provide the essential expertise and platforms for cloud migration, managed services, custom application development, and system integration, driving growth in these high-value service areas.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-20"
+    },
+    {
+      "index": 4,
+      "title": "Government Policy Support for AI and Digital Infrastructure",
+      "description": "Government initiatives, such as the IndiaAI Mission ($1.25 billion outlay) and significant investments in digital infrastructure ($70 billion in progress, $90 billion announced), strongly support the IT Services & Outsourcing sector. Budget allocations for AI adoption and infrastructure, coupled with tax holidays for foreign companies delivering cloud services via Indian data centers, stimulate demand. These policies create a conducive environment for technology growth, encouraging innovation, R&D, and the expansion of cloud and AI-led service offerings by IT firms.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 5,
+      "title": "Increasing Cybersecurity Threats Drive Demand for Services",
+      "description": "The landscape of cybersecurity threats is intensifying, with AI compressing the window between vulnerability discovery and weaponization. This necessitates advanced defense mechanisms like automated patching, zero trust architectures, and anomaly detection. For IT Services & Outsourcing firms, this translates into a significant demand for sophisticated cybersecurity consulting, system integration, and managed security services. Clients, especially in critical sectors like infrastructure and financial services, are compelled to invest heavily in strengthening their cyber defenses, making cybersecurity a major M&A theme and a robust demand driver.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-21"
+    },
+    {
+      "index": 6,
+      "title": "AI Unleashes Innovation and Opportunity in Software",
+      "description": "AI is recognized as a transformative tailwind for the software industry, unleashing waves of innovation and new opportunities. The rapid advancements and scaling of AI-native startups, coupled with enterprises deploying AI agents in high-volume, high-cost workflows, indicate a dynamic market. IT Services & Outsourcing firms benefit by adapting swiftly, developing modular architectures, and offering specialized AI development and integration services. This surge in AI-driven innovation creates fresh demand for custom application development, system integration, and IT consulting to help clients leverage cutting-edge AI capabilities.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-07"
+    },
+    {
+      "index": 7,
+      "title": "Moderated PE Investment in IT/ITeS Sector",
+      "description": "The IT/ITeS sector experienced moderated activity and a ~30% decline in private equity (PE) investment in 2025. This slowdown is attributed to global tech spending softness, elongated deal cycles, and caution surrounding AI-led disruption of traditional services models. For IT Services & Outsourcing, reduced PE capital inflow could limit growth opportunities for some firms, constrain M&A activity, and increase scrutiny on valuations and profitability. This shift indicates a more selective investment environment, forcing firms to demonstrate clear value propositions amidst market uncertainties.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-14"
+    },
+    {
+      "index": 8,
+      "title": "Global Geopolitical and Macroeconomic Headwinds",
+      "description": "Ongoing geopolitical tensions, particularly the West Asia crisis, are creating macroeconomic headwinds for India, including projected GDP growth slowdown, rising inflation, and widening current account deficits. Persistent FPI outflows and weak FDI, partly due to global uncertainties, lead to tighter cross-border liquidity. For IT Services & Outsourcing, these macro shocks can translate into reduced client spending, delayed deal closures, and increased caution from investors. Currency volatility and higher financing costs can further impact profitability and operational stability for firms with global exposure.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": null,
+      "as_of_date": "2026-05-14"
+    },
+    {
+      "index": 9,
+      "title": "AI-Driven Workforce Transformation and Compression",
+      "description": "AI is fundamentally transforming the workforce within IT Services & Outsourcing, leading to significant compression of roles, especially in repeatable tasks. AI coding assistants already make developers 30-40% more productive, and agentic AI is maturing, enabling automation of operational workflows. This shift will likely reduce headcount needs for current scope (e.g., 25-35% fewer people in three years) while increasing demand for new, judgment-intensive roles like AI platform engineers and AI governance architects. Firms must strategically reskill their workforce and embrace new talent development models to navigate this transformation.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 10,
+      "title": "Regulatory and Data Sovereignty Hurdles for AI Adoption",
+      "description": "Varying and often stricter regulations across geographies (e.g., EU, India, Japan) concerning AI use in regulated workflows, customer interactions, and sensitive data pose a significant risk for IT Services & Outsourcing firms. Challenges include liability, fraud, data sovereignty, explainability, and compliance. Data localization requirements compel firms to localize data storage, model training, and inference by market, increasing costs and fragmenting AI rollout. This regulatory complexity necessitates specialized legal and compliance consulting services, potentially slowing the deployment of advanced AI solutions and increasing operational overhead for global IT providers.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 11,
+      "title": "Budget Constraints and Adoption Challenges for AI in Client Sectors",
+      "description": "Despite high expectations for AI's ROI, some client sectors, like infrastructure and transport, allocate relatively low budgets (58% plan 10-20% budget for AI, lowest among sectors). Furthermore, AI adoption faces significant obstacles including lack of regulation (60%), ethical challenges (58%), and data readiness (49%). These factors can slow down AI implementation projects and limit the scope of IT services engagements. IT Services & Outsourcing firms must address these client-side challenges by demonstrating clear ROI, offering robust AI governance frameworks, and providing data readiness consulting.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 12,
+      "title": "AI Solutions for Sustainability and Decarbonization",
+      "description": "AI is emerging as a key enabler for sustainability and decarbonization initiatives in client sectors, such as infrastructure and transport. CEOs expect AI to identify opportunities for resource efficiency, reduce emissions, and improve energy efficiency (87% and 85% respectively). This presents a new upside opportunity for IT Services & Outsourcing firms to develop and implement AI-powered solutions for optimizing energy management, smart grids, real-time data analysis for waste reduction, and logistics efficiency. Offering these services can expand market reach and create new revenue streams in the growing green economy.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 13,
+      "title": "AI Becoming Core Operating Layer in IT Services",
+      "description": "The IT Services & Outsourcing sector is entering an 'AI-gravity phase' where AI is no longer a mere differentiator but a fundamental operating layer across all services. Enterprises are demanding scalable, repeatable, and outcome-linked AI deployments integrated across cloud, data, and applications. This structural shift requires IT firms to embed AI deeply into their offerings, transforming how custom application development, system integration, and managed services are delivered. Firms must evolve from traditional service models to provide comprehensive AI-powered solutions that demonstrate measurable value, fostering industry consolidation around capability-led acquisitions.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-20"
+    },
+    {
+      "index": 14,
+      "title": "Rapid Emergence of Agentic AI Market",
+      "description": "The agentic AI market is rapidly emerging, with AI agents moving from concept to operational reality and enterprises actively deploying them in high-volume, high-cost workflows. This structural change signifies a paradigm shift in how tasks are executed and applications are developed. For IT Services & Outsourcing firms, this creates demand for expertise in designing, integrating, and managing these autonomous agents within client systems. However, it also poses a challenge to traditional service delivery models, requiring rapid adaptation to leverage and compete with AI-native solutions.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": null,
+      "as_of_date": "2026-05-29"
+    },
+    {
+      "index": 15,
+      "title": "Automation of Junior Work Impacts Talent Pipeline",
+      "description": "AI's automation of repetitive, junior-level tasks poses a critical risk to the talent pipeline for IT Services & Outsourcing. Historically, junior work served as essential training for developing senior judgment and expertise. With the automation of the 'bottom 30 percent of knowledge work,' the traditional pathway for cultivating future judgment workers is eroded. IT firms must proactively design new apprenticeship models, including structured rotations and mentorship, to ensure a continuous supply of skilled professionals capable of handling complex, judgment-intensive roles, or risk a shortage of high-value talent in the long term.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 16,
+      "title": "M&A for Capability Expansion in Cloud, AI, Cybersecurity",
+      "description": "M&A activity is surging in the IT sector, driven by firms seeking to expand capabilities in high-growth areas like cloud, AI, and cybersecurity. Strategics and PE firms are backing large, capability-led acquisitions to strengthen offerings and enable next-gen AI workloads. For IT Services & Outsourcing, this represents a significant upside driver, allowing firms to acquire niche skills, enhance their technology stacks, and broaden their service portfolios. Such acquisitions, like Infosys buying a cybersecurity firm or InSemi, enable companies to better meet evolving client demands and secure strategic positions in specialized markets.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 17,
+      "title": "Shift from Per-FTE to Outcome-Based Pricing Models",
+      "description": "The IT Services & Outsourcing industry is undergoing a structural shift from traditional 'per-FTE' contracts to outcome-based pricing models. AI-driven productivity gains, estimated at 20-40%, are empowering clients to demand 'pay-for-results' rather than headcount. This forces firms to adapt by offering fixed-price, subscription, and usage-based deals, fundamentally altering revenue generation and risk sharing. While challenging margins, it incentivizes innovation and efficiency in service delivery, pushing IT providers to deliver tangible business outcomes and value beyond mere resource augmentation.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 18,
+      "title": "AI-Driven Productivity Gains in Software Development",
+      "description": "AI is driving substantial productivity gains in software development, with AI coding assistants making developers 30-40% more productive and AI-generated test cases reshaping QA teams. This fundamental shift impacts the efficiency and cost structures of custom application development and system integration services. IT Services & Outsourcing firms must integrate these AI tools into their delivery methodologies to remain competitive, optimize resource allocation, and address client demands for faster, more cost-effective software solutions. Failure to adapt could lead to efficiency gaps and reduced competitiveness.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": null,
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 19,
+      "title": "Competitive Pressure from Rapidly Scaling AI-Native Startups",
+      "description": "The rapid scaling of AI-native startups, such as Cursor growing from $100 million to $2 billion ARR in 14 months, poses a significant competitive threat to traditional IT Services & Outsourcing firms. These agile, AI-first companies can quickly capture market share by deploying agents in high-volume, high-cost enterprise workflows and compounding their advantages. Established IT service providers must accelerate their own AI adoption and innovation, or risk losing market relevance and clients to these fast-moving, specialized competitors. The window to define their position in the agentic AI market is measured in quarters, not years.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": null,
+      "as_of_date": "2026-05-07"
+    },
+    {
+      "index": 20,
+      "title": "Emergence of New Specialized AI Roles in IT Services",
+      "description": "The AI-driven transformation of service delivery models is leading to the emergence of new, high-value specialized roles within IT Services & Outsourcing. These include AI platform engineers, AI governance architects, and agentic systems designers. This represents an upside driver as firms can capture new revenue streams by offering expertise in these advanced areas and by helping clients implement complex AI solutions. However, it requires significant investment in talent development and reskilling programs to build internal capabilities and meet the growing demand for these specialized skills.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "IT Services Entering AI-Gravity Phase with Sustained Demand",
+      "description": "The technology and IT services sector is poised to enter an 'AI-gravity phase' in 2026, where AI transitions from a differentiator to a core operational layer. Enterprises will prioritize scalable, repeatable, and outcome-linked AI deployments, driving sustained demand for providers capable of integrating AI across cloud, data, and applications. This signifies a shift from mere experimentation to tangible value creation, reinforcing a stronger but more concentrated tech services landscape. Consolidation is expected to intensify, with strategics and PE firms backing capability-led acquisitions in cloud, Salesforce ecosystems, and AI-native platforms.",
+      "stance": "positive",
+      "source_firm": "EY India",
+      "source_date": "2026-04-20",
+      "source_doc_id": "3354ce2c-25ef-5715-874f-90db70291d48"
+    },
+    {
+      "index": 2,
+      "title": "India's IT Industry on Strong Growth Trajectory Driven by AI",
+      "description": "India's IT industry is on a strong growth path, with revenue projected to reach $315.4 billion by 2026 and contribute 10% to the country’s GDP. This growth is significantly fueled by rapid AI adoption, cloud modernization, and the expansion of Global Capability Centers (GCCs). The sector experienced a 16% YoY hiring surge in April 2025, indicating robust demand for IT services. Government initiatives like the IndiaAI Mission and substantial digital infrastructure investments further bolster this positive outlook, positioning India as a leading tech hub.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "71e3b2a8-89cc-51a9-839e-01d69bc83992"
+    },
+    {
+      "index": 3,
+      "title": "IT Services Revenue Poised for Steady Growth in FY26",
+      "description": "India's IT services industry is projected to achieve a steady revenue growth of 4-6% in FY26. This positive outlook is primarily driven by increased spending from the Banking, Financial Services, and Insurance (BFSI) sector, coupled with accelerating generative AI initiatives across enterprises. The consistent demand from key verticals and the uptake of advanced AI solutions are expected to provide a stable growth trajectory for IT services and outsourcing firms, even amidst evolving market dynamics.",
+      "stance": "cautious_positive",
+      "source_firm": "ICRA (via IBEF)",
+      "source_date": "2026-03-31",
+      "source_doc_id": "71e3b2a8-89cc-51a9-839e-01d69bc83992"
+    },
+    {
+      "index": 4,
+      "title": "Agentic AI Offers Significant Opportunities for Fintechs and Service Providers",
+      "description": "Agentic AI, though challenging to scale safely, presents substantial opportunities in fintech, particularly for automating workflows in B2B financial services like procurement and accounting. Early adopters are building repeatable production systems that leverage AI for product development, code generation, and testing. This shift suggests a strong role for IT services and outsourcing firms in designing, integrating, and managing these advanced AI solutions, enabling clients to achieve significant operational leverage and systematic redesign of their processes, moving beyond isolated use cases to integrated AI operating models.",
+      "stance": "positive",
+      "source_firm": "BCG Global",
+      "source_date": "2026-06-01",
+      "source_doc_id": "75d658d7-be2e-58ef-a924-4c43af5010af"
+    },
+    {
+      "index": 5,
+      "title": "AI: A Powerful Tailwind for Software, Demanding Rapid Adaptation",
+      "description": "AI is identified as the most powerful tailwind for the software industry in decades, unleashing innovation and opportunity. However, it mandates rapid adaptation, with software companies needing to define their position in the agentic AI market within quarters. The accelerated scaling of AI-native startups and the deployment of agents in high-volume enterprise workflows indicate a fast-evolving competitive landscape. IT services and outsourcing firms must quickly embrace modular architectures and API development to leverage AI effectively and avoid being outpaced by early movers.",
+      "stance": "cautious_positive",
+      "source_firm": "Bain & Company",
+      "source_date": "2026-05-07",
+      "source_doc_id": "e90585a8-43d0-5e42-8989-f3485573042d"
+    },
+    {
+      "index": 6,
+      "title": "AI Reshaping IT Outsourcing Towards Intelligence, Not Just Execution",
+      "description": "AI is fundamentally reshaping the IT outsourcing landscape, driving a transition from execution-at-scale to intelligence-at-the-core. While AI tools automate routine operational tasks and boost developer productivity (30-40% for coding assistants), leading to potential workforce compression (25-35% fewer people in three years), it simultaneously elevates the demand for judgment-intensive roles. IT services firms must strategically transform their workforce, focusing on reskilling for new AI-driven roles (e.g., AI governance architects) and proactively building new apprenticeship models to maintain a competitive advantage.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "source_doc_id": "7fe51588-b931-5057-aeb6-2e69bb5ddb01"
+    },
+    {
+      "index": 7,
+      "title": "India's AI Investment Lag Poses Future Disadvantage for Tech Sector",
+      "description": "India is significantly lagging in attracting global AI investments, securing only $4.1 billion in 2025 compared to $285 billion in the US and $12.4 billion in China. The majority of India's AI investment is concentrated in data centers, with insufficient focus on frontier model development and semiconductor innovation. This absence of a robust 'pure-play' AI ecosystem could pose a structural disadvantage for the Indian IT services sector, potentially limiting access to advanced AI capabilities and innovation essential for global competitiveness and future growth.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-05-14",
+      "source_doc_id": "b6e62feb-9920-5b46-9751-87f53127ae9a"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 42.7,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 6.94,
+      "forecast_cagr_period": "2026-34",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising Demand",
+          "description": "General increase in demand for IT services as businesses seek digital solutions and transformation."
+        },
+        {
+          "driver": "Digital Transformation",
+          "description": "Companies investing in modernizing their operations, adopting new technologies, and enhancing digital capabilities."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projection based on rising demand and digital transformation, includes IT services like custom application development, system integration, cloud migration, IT consulting, managed services, infrastructure outsourcing, and BPM (excluding core BPO/KPO).",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 297.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI Adoption",
+          "description": "Widespread integration and implementation of artificial intelligence across various business processes and services."
+        },
+        {
+          "driver": "Cloud Modernization",
+          "description": "Migration and optimization of IT infrastructure and applications to cloud platforms."
+        },
+        {
+          "driver": "GCC Expansion",
+          "description": "Growth and increased mandates for Global Capability Centers in India, driving demand for adjacent IT services."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated total revenue for India's IT industry, which includes IT Services & Outsourcing as a major component.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Cost-Effectiveness",
+          "description": "Competitive pricing of Indian IT services compared to other global providers."
+        },
+        {
+          "driver": "Large Developer Workforce",
+          "description": "Availability of over 5.4 million software engineers, ensuring a vast talent pool."
+        },
+        {
+          "driver": "Consistent Talent Influx",
+          "description": "Indian universities producing over 500,000 new graduates annually, replenishing the workforce."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's share of the global software outsourcing market, which is a key component of IT Services & Outsourcing. The global software outsourcing sector is forecast to expand at a compound annual growth rate (CAGR) of 7.54% from 2023 to 2027.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 42.2,
+      "forecast_cagr_period": "2025-32",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Accelerated Domestic Demand for AI",
+          "description": "Enterprises across India increasingly adopting AI to enhance operations, drive productivity, and create new products."
+        },
+        {
+          "driver": "GenAI and R&D Initiatives",
+          "description": "Investments in generative AI and research & development are fostering new applications and solutions requiring specialized IT services."
+        },
+        {
+          "driver": "Emerging Technologies Integration",
+          "description": "The need to integrate AI with other emerging technologies like cloud, IoT, and blockchain creates complex IT service requirements."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Analysis of the Indian AI market, whose growth directly impacts the demand for IT services related to AI implementation, integration, and management. This includes services such as custom application development for AI, system integration of AI tools, and managed AI services.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "EY India",
+    "IBEF",
+    "ICRA (via IBEF)",
+    "BCG Global",
+    "Bain & Company",
+    "KPMG",
+    "CareEdge Ratings"
+  ]
+}

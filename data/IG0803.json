@@ -1,0 +1,586 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Global electronics supply chains shift from cost to resilience",
+      "description": "The traditional logic of global electronics supply chains, focused solely on optimizing unit cost and concentrating manufacturing, is undergoing structural transformation. Driven by geopolitical risk re-pricing, the need for supply chain resilience after COVID-19, and regulatory pressures (e.g., U.S. CHIPS Act, India's PLI), OEMs are pivoting to multi-node manufacturing networks. This elevates EMS providers to strategic supply chain partners.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 2,
+      "title": "Megatrends boost global EMS industry demand",
+      "description": "The global EMS industry is experiencing significant expansion, driven by three key megatrends. The proliferation of connected devices like smartphones and IoT systems, the increasing electrification and automation across industries (automotive, energy), and the growing trend of OEMs outsourcing manufacturing to manage complexity and reduce capital investment are fueling strong demand for electronics manufacturing capacity worldwide.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 3,
+      "title": "Thin depth in quality certifications restricts high-value EMS market access",
+      "description": "India's EMS industry has thin depth across critical quality certifications such as IATF 16949 (automotive), AS9100D (aerospace/defense), and ISO 13485 (medical devices). Achieving these certifications requires significant, sustained investment and years of effort, acting as a competitive moat for incumbents. This lack of certification depth limits India's access to higher-value, regulated segments of the EMS market, despite its scaling capacity.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 4,
+      "title": "High FDI inflows boost India's computer software and hardware sector",
+      "description": "India's computer software and hardware sector has attracted substantial foreign direct investment (FDI) inflows, totaling US$ 110.16 billion between April 2000 and June 2025. This significant capital inflow, ranking the sector second in cumulative FDI equity inflows, reflects strong investor confidence and provides a crucial tailwind for the growth and expansion of technology hardware and equipment manufacturing and development in the country.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 5,
+      "title": "Regulatory incentives drive electronics manufacturing geographic diversification",
+      "description": "Regulatory pressures, including the U.S. CHIPS and Science Act 2022, the EU Chips Act 2023, and India's production-linked incentive (PLI) schemes, are creating significant fiscal incentives for geographic diversification of electronics manufacturing. These policies reinforce the commercial logic for OEMs to build more resilient and diversified production networks, positioning India as a key beneficiary of this global shift.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 6,
+      "title": "India's EMS faces domestic component supply chain absence",
+      "description": "India's most structurally significant vulnerability in its rapidly growing EMS industry is the absence of a deep, domestic component supply chain. This leads to high reliance on long-haul import supply chains for critical components like semiconductors, displays, and PCBs. Consequently, domestically assembled products carry high embedded import content, constraining value capture and margin retention within India's EMS sector.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 7,
+      "title": "5G and IoT drive accelerated electronics product adoption",
+      "description": "Technology transitions such as the widespread rollout of 5G networks and the increasing adoption of the Internet of Things (IoT) are driving accelerated adoption of electronics products. These advancements create significant demand for new and upgraded hardware, including communications and networking equipment, embedded systems, and various electronic components, acting as a strong tailwind for the Technology Hardware & Equipment sector.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 8,
+      "title": "Talent pyramid reinvention crucial for AI-first world",
+      "description": "To achieve ownership in the next phase of technology growth, India must reinvent its tech talent pyramid by reskilling at scale for an AI-first world. This involves national skilling coalitions, deeper academia-industry integration, and deliberate inclusion. This structural change is essential to meet the evolving demands of capital-intensive, IP-led, and R&D-driven hardware segments like semiconductors and deep tech.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-25"
+    },
+    {
+      "index": 9,
+      "title": "Shift towards design-integrated EMS for higher value creation",
+      "description": "The EMS industry is evolving beyond high-volume, thin-margin assembly toward design-integrated manufacturing. Leading global EMS players are expanding their capabilities to include design support, engineering services, and product development, enabling them to capture significantly higher margins and strategic positioning. This structural shift requires organizational capability and engineering depth rather than just capital investment.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 10,
+      "title": "Productivity gaps limit India's EMS competitiveness in precision manufacturing",
+      "description": "Despite India's large labor pool, it faces productivity gaps in EMS operations compared to established hubs like China and Vietnam. These gaps are driven by lower automation density, limited exposure to complex manufacturing programs, and uneven availability of skilled technicians. This partially offsets India’s labor cost advantage, hindering its ability to compete in high-precision and high-reliability applications, especially where quality and yield are paramount.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 11,
+      "title": "Defense, data centers, infrastructure drive new industrial-tech demand",
+      "description": "New value pools are emerging for industrial technology suppliers, with defense buildups, data centers, and infrastructure renewal projected to account for $1.1 trillion in additional demand by 2030. These sectors create significant opportunities for hardware in areas such as AI-driven control systems, sensors, precision robotics, specialized machinery, and complex components, offering long-term, high-margin contracts for suppliers.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-13"
+    },
+    {
+      "index": 12,
+      "title": "Government policies and incentives accelerate ESDM growth",
+      "description": "Government initiatives such as the Production-Linked Incentive (PLI) schemes for large-scale electronics and IT hardware, the India Semiconductor Mission (ISM) 2.0, and the Electronics Components Manufacturing Scheme (ECMS) are providing robust policy support. These schemes attract significant investments, boost production, and strengthen domestic supply chains for chips and components, acting as powerful tailwinds for the ESDM sector.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 13,
+      "title": "Micron's ATMP facility boosts India's semiconductor ecosystem",
+      "description": "Micron Technology's inauguration of India’s first semiconductor ATMP (Assembly, Testing, Marking, and Packaging) facility, backed by a US$ 2.75 billion investment, is a significant tailwind. This facility is crucial for advancing assembly, testing, and R&D for AI-enabling chips, contributing substantially to India's semiconductor ecosystem and driving demand for related manufacturing equipment and processes within the Technology Hardware & Equipment sector.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 14,
+      "title": "India becomes major mobile phone production and export hub",
+      "description": "India has become the world’s second-largest mobile phone manufacturer, with production reaching US$ 61.6 billion in 2024–25 and exports surging to US$ 22.56 billion. The country also overtook China as the top smartphone exporter to the US in Q2 FY26. This strong growth in production and exports, coupled with increasing domestic demand and premium segment growth, represents a significant tailwind for consumer electronics and devices.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 15,
+      "title": "India's limited presence in high-growth hardware segments",
+      "description": "India's technology market is largely concentrated in IT services, with limited presence in high-growth, capital-intensive, IP-led, and R&D-driven segments such as Hyperscale cloud platforms, Semiconductors, Deep Tech, and AI-native offerings. This poses a key risk as these segments are expected to drive disproportionate value creation in the coming decade, requiring India to make strategic 'big bets' to address this gap.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-02-25"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "India's EMS sector benefits from global supply chain realignment",
+      "description": "KPMG highlights that global OEMs are restructuring supply chains around resilience, geopolitics, and multi-node manufacturing. Electronic Manufacturing Services (EMS) providers are central to this shift. India's opportunity in EMS is not merely cost-based but stems from geopolitical and strategic factors, positioning it as a potential alternative node in the global electronics supply chain.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "source_doc_id": "09966666-4bad-5f95-a501-252e756a86f2"
+    },
+    {
+      "index": 2,
+      "title": "India needs strategic shift towards high-growth hardware segments",
+      "description": "India's current technology market strength is heavily concentrated in IT Consulting and Services. However, the next decade's disproportionate value creation is expected from capital-intensive, IP-led, and R&D-driven segments such as Hyperscale cloud platforms, Semiconductors, Deep Tech, and AI-native offerings. India needs to make strategic, high-conviction investments to build its presence in these hardware and component-intensive areas.",
+      "stance": "cautious_positive",
+      "source_firm": "BCG India",
+      "source_date": "2026-02-25",
+      "source_doc_id": "9b01a73f-08ca-5820-b626-ab5b98fbcfa2"
+    },
+    {
+      "index": 3,
+      "title": "National Policy on Electronics targets India as global ESDM hub",
+      "description": "The National Policy on Electronics (NPE) 2019 aims to position India as a global hub for Electronics System Design and Manufacturing (ESDM). This vision includes encouraging and driving capabilities for developing core components, including chipsets, and creating an enabling environment for the industry to compete globally. The government places high priority on electronics hardware manufacturing.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "8663d286-15ea-5d30-acf3-a4efd5c639da"
+    },
+    {
+      "index": 4,
+      "title": "India transitioning to execution phase in technology and manufacturing",
+      "description": "India is moving from building foundational infrastructure to accelerated execution in technology and manufacturing sectors. Global players' continued investment signals confidence in India's growth story. The shift demands expanding design and manufacturing capabilities beyond mere volume, focusing on sophistication, Industry 4.0 systems, and automation to achieve value-chain leadership.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-03-01",
+      "source_doc_id": "367f5fa9-1b52-5c56-97e6-ac561369db20"
+    },
+    {
+      "index": 5,
+      "title": "India's data center capacity poised for significant growth",
+      "description": "India's Data Center capacity, currently 1.2 GW, is projected to quadruple to 4 GW by 2030. This growth is driven by increasing digitization, India's cost competitiveness in building Data Centers, and the rising adoption of Artificial Intelligence. CareEdge Ratings sees immense growth potential despite India's current capacity being significantly lower than the global average per internet user.",
+      "stance": "positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-03-25",
+      "source_doc_id": "ba885fc1-12da-5d8d-b4c0-a682f9bfba33"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 1.3,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 12.5,
+      "forecast_cagr_period": "2023-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Digital transformation",
+          "description": "Increased adoption of digital technologies across industries."
+        },
+        {
+          "driver": "Automation in manufacturing",
+          "description": "Growing use of automation in plant operations and industrial processes."
+        },
+        {
+          "driver": "IT infrastructure needs",
+          "description": "Expansion of industrial IT infrastructure and connectivity for smart elements and controls."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "BCG analysis of 3,000+ earnings calls, market intelligence reports, and production/demand shifts across 158 product segments.",
+      "source_firm": "BCG Global",
+      "source_date": "2026-04-13",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 640.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 6.75,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Expansion of connected devices",
+          "description": "Proliferation of smartphones, laptops, and IoT-enabled industrial systems drives demand for electronics manufacturing capacity."
+        },
+        {
+          "driver": "Electrification and automation",
+          "description": "Increasing electrification of industries (automotive, energy, manufacturing) expands demand for electronic components and systems."
+        },
+        {
+          "driver": "Outsourcing by OEMs",
+          "description": "OEMs increasingly outsource manufacturing to EMS providers due to product complexity and accelerating production cycles to maintain flexibility and reduce capital investment."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Recent industry reports estimate the global EMS market. Projections indicate continued expansion.",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 150.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 25.0,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Surging demand",
+          "description": "Overall increase in demand for electronic products."
+        },
+        {
+          "driver": "Robust policy incentives",
+          "description": "Government policies like PLI schemes are fueling growth."
+        },
+        {
+          "driver": "Global supply chain realignment",
+          "description": "Shifting global manufacturing away from China creates opportunities for India."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "KPMG in India's 2026 analysis based on secondary research.",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 33.9,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2029,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing domestic consumption",
+          "description": "Increasing disposable incomes and consumer base in India."
+        },
+        {
+          "driver": "Market expansion",
+          "description": "Broader reach and availability of consumer electronics and appliances."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projection for India's appliance and consumer electronics market revenues. Expected to become the fourth-largest globally by FY27.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": 22.61,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 6.78,
+      "forecast_cagr_period": "2025-2031",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing digitalization",
+          "description": "Increasing adoption of digital technologies drives demand for IT hardware."
+        },
+        {
+          "driver": "Domestic market share",
+          "description": "The domestic market accounts for a significant share of IT hardware consumption."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Market projection from IBEF, based on current trends and growth rate.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": 42.5,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Domestic demand",
+          "description": "Growing domestic market for electronics products in India."
+        },
+        {
+          "driver": "Export growth",
+          "description": "Increasing electronics exports from India, particularly in mobile phones."
+        },
+        {
+          "driver": "Outsourcing trend",
+          "description": "Global OEMs outsourcing manufacturing to EMS providers, benefiting India."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "KPMG analysis of India's EMS market expansion. Total electronics production cited from Ministry of Electronics and Information Technology.",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 7,
+      "tam_value": 500.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increased digitalization",
+          "description": "Growing digital penetration and services across various sectors."
+        },
+        {
+          "driver": "Government initiatives",
+          "description": "Policies aimed at boosting domestic electronics manufacturing and exports."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Target set by India's electronics industry, requiring a fivefold increase in production. This growth is also expected to create 12 million jobs by FY27.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 8,
+      "tam_value": 650.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "2025-2026",
+      "demand_drivers": [
+        {
+          "driver": "Rising demand for AI",
+          "description": "AI applications require high-performance computing and large-scale data storage, increasing data center hardware needs."
+        },
+        {
+          "driver": "Internet of Things (IoT)",
+          "description": "Proliferation of IoT devices generates vast amounts of data requiring storage and processing in data centers."
+        },
+        {
+          "driver": "Cloud storage expansion",
+          "description": "Continuous growth in cloud adoption and storage services drives data center investments."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Global forecast for data center spending. This includes hardware components such as servers, storage, and networking equipment.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 9,
+      "tam_value": 61.6,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong domestic demand",
+          "description": "Increasing consumption of mobile phones within India."
+        },
+        {
+          "driver": "Government support policies",
+          "description": "Policies promoting local manufacturing and exports, such as PLI schemes."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Mobile phone production value increased from Rs. 18,000 crore in 2014–15 to Rs. 5,45,000 crore in 2024–25. Export figures also provided.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 10,
+      "tam_value": 4.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Digitization wave",
+          "description": "Expansion of e-commerce, fintech platforms, online streaming, and gaming services increase data creation."
+        },
+        {
+          "driver": "AI adoption",
+          "description": "AI applications require high-performance computing and large-scale data storage, boosting demand for data center capacity."
+        },
+        {
+          "driver": "5G rollout",
+          "description": "Acceleration of data creation and cloud adoption due to 5G network expansion."
+        },
+        {
+          "driver": "Cost competitiveness",
+          "description": "Lower construction costs, land prices, and competitive electricity tariffs make India attractive for data center setup."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "CareEdge Ratings projection for India's Data Center co-location capacity. Requires estimated investment of ~Rs 1.5 lakh crore.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-03-25",
+      "data_confidence": "high"
+    },
+    {
+      "index": 11,
+      "tam_value": 106.35,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2028,
+      "forecast_cagr": 34.0,
+      "forecast_cagr_period": "FY23-FY28",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong demand",
+          "description": "Increased demand across various end-use sectors like IT, consumer electronics, and telecom."
+        },
+        {
+          "driver": "Supportive government policies",
+          "description": "Government initiatives such as PLI schemes and FDI policies drive manufacturing growth."
+        },
+        {
+          "driver": "Increased digitalization",
+          "description": "The ongoing digital transformation fuels the need for electronic systems and components."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "ESDM industry valuation in FY23 and projected growth. This covers electronic hardware products and components relating to various sectors including IT, telecom, consumer electronics, aviation, aerospace, defence, and medical electronics, as well as design activities.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 12,
+      "tam_value": 400.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Mobile phone demand",
+          "description": "Mobile phones account for 43% of electronics manufacturing value."
+        },
+        {
+          "driver": "Consumer electronics demand",
+          "description": "Consumer electronics contribute 12% to the manufacturing value."
+        },
+        {
+          "driver": "Automotive electronics demand",
+          "description": "Automotive sector accounts for 8% of electronics manufacturing value."
+        },
+        {
+          "driver": "IT hardware demand",
+          "description": "IT hardware contributes 4% to the electronics manufacturing value."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Contribution to India's trillion-dollar digital economy from electronics manufacturing. Breakdown by sub-segments such as mobile phones, consumer electronics, automotive, and IT hardware.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 13,
+      "tam_value": 48.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 47.0,
+      "historical_cagr_period": "Q1 FY25-Q1 FY26",
+      "demand_drivers": [
+        {
+          "driver": "Strong growth in mobile exports",
+          "description": "Mobile exports show significant year-on-year growth, driving overall electronics exports."
+        },
+        {
+          "driver": "Increased manufacturing capacity",
+          "description": "Expanded local production capabilities contribute to higher export volumes."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total electronics exports for FY26. Q1 FY26 electronics exports grew 47% YoY, mobile exports rose 55%.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "KPMG",
+    "BCG India",
+    "IBEF",
+    "CareEdge Ratings",
+    "BCG Global"
+  ]
+}

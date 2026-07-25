@@ -1,0 +1,359 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Shift from monolithic to modular enterprise software architecture",
+      "description": "The rise of agentic AI necessitates a fundamental shift in enterprise software design from sprawling, feature-rich solutions to modular, flexible platforms. Application software vendors must prioritize composable architectures, clear APIs, and abstracted logic layers to empower customers to shape solutions. This transition is crucial for scalability, continuous innovation, and avoiding technical debt, moving beyond rigid toolsets to adaptable building blocks that agents can interact with efficiently.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-20"
+    },
+    {
+      "index": 2,
+      "title": "Pricing models shifting from seats to outcomes and usage",
+      "description": "Agentic AI's ability to deliver end-to-end outcomes (e.g., resolved customer issues, processed invoices) is driving a significant shift in application software pricing models. The focus is moving away from seat-based subscriptions to outcome-based or usage-based monetization. This allows vendors to capture a larger share of the economics tied to labor and operational efficiency, but requires new capabilities in designing, testing, and scaling these complex models, potentially impacting short-term revenues for traditional SaaS players.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-07"
+    },
+    {
+      "index": 3,
+      "title": "AI necessitates redesign of enterprise operating models",
+      "description": "Scaling AI effectively within enterprises, including the deployment of application software, requires a fundamental redesign of operating models, not just technology adoption. This involves aligning governance, data foundations, and talent with AI capabilities to scale impact beyond isolated pilots. Organizations must move from merely adding AI to existing processes to integrating intelligent automation, analytics, and decision support directly into core business workflows, ensuring measurable outcomes and sustained ROI from application software investments.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 4,
+      "title": "Rising AI costs squeeze application software profit margins",
+      "description": "The increasing need to invest in AI inference, infrastructure, and model access introduces significant variable costs into previously high-margin application software businesses. This rising cost of goods sold is squeezing profit margins and putting pressure on metrics like the Rule of 40. Companies developing and deploying AI-enabled software must actively manage these costs and may need to accept lower profitability for a period as they reinvest to remain competitive against AI-native rivals, impacting financial performance.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-08"
+    },
+    {
+      "index": 5,
+      "title": "Lack of comprehensive AI governance and data quality",
+      "description": "A significant impediment to realizing strong ROI from AI-enabled application software is the persistent lack of comprehensive governance structures, insufficient accountability, fragmented data, and unmanaged risks (bias, drift, transparency). Without robust governance frameworks, high-quality, well-governed data, and clear roles for responsible AI practices, even advanced application software solutions struggle to deliver reliable results or scale effectively, leading to reduced trust and limited enterprise-wide adoption.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 6,
+      "title": "Agentic AI automates cross-system labor, expanding software TAM",
+      "description": "Agentic AI offers a massive new opportunity for application software by automating complex, human-mediated coordination work that spans multiple enterprise systems (ERP, CRM, billing, etc.). This converts significant labor costs into software spending, expanding the total addressable market for software. By interpreting disparate information, reasoning context, and coordinating decisions, agentic software can deliver end-to-end outcomes previously impossible with rules-based automation, creating new revenue streams and higher usage.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-07"
+    },
+    {
+      "index": 7,
+      "title": "Proprietary data and specialized domain expertise create moats",
+      "description": "In an environment where general-purpose AI tools are becoming highly capable, application software providers must double down on proprietary data and specialized domain expertise to create durable competitive advantages. While AI can replicate public datasets, it cannot easily access content refined and embedded into client workflows over years. Application software that leverages unique, high-quality data and deep contextual knowledge for specific use cases will excel, leading to higher customer satisfaction and stronger market positioning against generic AI offerings.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-23"
+    },
+    {
+      "index": 8,
+      "title": "AI-enabled features drive customer satisfaction and productivity",
+      "description": "Embedding AI features directly into specialized application software significantly enhances customer advocacy, satisfaction, and user productivity. Professionals leveraging AI in specialized tools report higher satisfaction scores, indicating that these integrations allow users to extract more value from the products. This trend encourages continuous investment by application software providers in advanced AI capabilities to improve user experience, drive activation and retention, and maintain long-term relevance in a competitive market.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-23"
+    },
+    {
+      "index": 9,
+      "title": "Increased VC investment in AI-focused application software",
+      "description": "Venture Capital investment in AI-focused companies, including those developing application software, has seen an unprecedented surge, with multi-billion dollar raises and a broad interest in industry-specific and niche vertical solutions. This robust funding environment provides significant capital for innovation, talent acquisition, and market expansion for application software developers integrating AI. This influx of capital accelerates product development and market adoption, reinforcing AI as the predominant theme for future software growth.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 10,
+      "title": "Managed services accelerate AI adoption for enterprises",
+      "description": "Enterprises are increasingly relying on managed services providers as key accelerators for AI adoption, particularly for AI-enabled application software. AI capability is the most cited consideration when selecting providers, indicating that companies seek external expertise to navigate the complexities of AI deployment. Managed services, often delivered as subscription-based outcome models, help overcome friction points like integration, data governance, and cost, allowing businesses to rapidly implement and scale AI-driven application software solutions.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 11,
+      "title": "SaaS vendors siloing data hinders cross-platform AI capabilities",
+      "description": "A critical risk for enterprises is SaaS vendors actively siloing data within their ecosystems, which complicates the development of comprehensive, cross-platform AI capabilities. This vendor behavior makes it difficult for organizations to integrate data from various application software solutions, limiting the potential for holistic AI insights and workflows. Vendor incentives often favor keeping data locked, charging more for access to native AI agents, creating a dependency that can restrict an enterprise's broader AI strategy.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-29"
+    },
+    {
+      "index": 12,
+      "title": "AI accelerates feature parity, devaluing basic software functionality",
+      "description": "The rapid advancement of AI technologies lowers the barrier to building software and accelerates the achievement of feature parity among products. This means that basic functionalities within application software become less valuable as competitors can quickly replicate them. This trend forces software companies to continuously reinvest and innovate with AI to differentiate their offerings. Failure to do so risks falling behind, as customers seek advanced, AI-driven capabilities over standard features, impacting market share and pricing power.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-08"
+    },
+    {
+      "index": 13,
+      "title": "Focus shifts to cross-workflow decision context over system ownership",
+      "description": "Agentic AI redefines competitive advantage in application software, shifting from owning a single system of record (e.g., CRM, ERP) to enabling 'cross-workflow decision context.' The highest-value automation opportunities now lie in coordinating decisions and actions across multiple disparate systems. This structural change means application software providers must evolve their offerings to provide visibility, interpretation, and action capabilities across integrated workflows, rather than focusing solely on depth within one domain, to secure future market leadership.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-07"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "AI: Most powerful tailwind for software in decades",
+      "description": "Bain identifies AI as the most significant tailwind the software industry has experienced in decades. This technological shift is unleashing flexible new programming methods that simplify integration, emphasizing modular platforms over monolithic solutions. For application software providers, success hinges on empowering customers with building blocks and adaptable architectures rather than complex, one-stop solutions. This transformation necessitates a mindset shift for vendors to capture AI's full potential.",
+      "stance": "positive",
+      "source_firm": "bain",
+      "source_date": "2026-05-20",
+      "source_doc_id": "e7420a8c-653a-5aba-979e-e5ce740b32bb"
+    },
+    {
+      "index": 2,
+      "title": "Agentic AI creating large new market opportunity for software",
+      "description": "Bain posits that agentic AI's primary opportunity for software companies is not replacing existing SaaS, but automating cross-system coordination work, thereby converting substantial labor costs into new software spending. This represents a significant untapped market, challenging traditional SaaS competitive advantages. Application software providers must shift from owning systems of record to enabling cross-workflow decision context and pursuing outcome-based pricing models to capitalize on this transformation.",
+      "stance": "positive",
+      "source_firm": "bain",
+      "source_date": "2026-05-07",
+      "source_doc_id": "e90585a8-43d0-5e42-8989-f3485573042d"
+    },
+    {
+      "index": 3,
+      "title": "AI-native startups scaling rapidly, incumbents must adapt quickly",
+      "description": "AI-native entrants in the application software market are achieving unprecedented growth rates, with companies like Cursor reaching $2 billion ARR in 14 months and Sierra hitting $150 million. This rapid ascent underscores the urgency for incumbent SaaS providers to aggressively embed agentic AI capabilities into their platforms, as seen with Salesforce's Agentforce and Workday's initiatives. The window for leaders to define their position in this evolving market is measured in quarters, demanding swift, strategic action.",
+      "stance": "cautious_positive",
+      "source_firm": "bain",
+      "source_date": "2026-05-07",
+      "source_doc_id": "e90585a8-43d0-5e42-8989-f3485573042d"
+    },
+    {
+      "index": 4,
+      "title": "Information services providers thrive with proprietary data and AI-enabled delivery",
+      "description": "BCG asserts that information services providers, including those developing specialized application software, will succeed by continually investing in proprietary data and insights, coupled with innovative AI-enabled delivery models. General-purpose AI tools are catching up, making differentiation crucial. Firms that fail to offer unique content or innovate their business and delivery approaches risk becoming obsolete. Specialized tools, particularly for domain-specific knowledge, maintain an advantage, driven by customer satisfaction with embedded AI features.",
+      "stance": "cautious_positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-04-23",
+      "source_doc_id": "242cd4d2-132b-5018-9d94-0d20615823e5"
+    },
+    {
+      "index": 5,
+      "title": "SaaS market faces profit pressure from AI, demanding reinvestment",
+      "description": "Bain indicates that while AI presents long-term growth opportunities, it currently poses headwinds for SaaS companies, including those in application software. Slower market growth, rising AI costs (inference, infrastructure), and accelerated feature parity are squeezing profit margins, putting pressure on traditional metrics like the Rule of 40. Companies must strategically choose between short-term cash optimization and aggressive reinvestment in AI to maintain competitiveness and secure future relevance, potentially accepting a 'Rule of 30' for a period.",
+      "stance": "cautious_negative",
+      "source_firm": "bain",
+      "source_date": "2026-04-08",
+      "source_doc_id": "e56b2d7f-6950-566b-ad6d-0ae4e4342855"
+    },
+    {
+      "index": 6,
+      "title": "Agentic AI space offers accelerating investment opportunities",
+      "description": "Conor Moore of KPMG emphasizes that the AI investment opportunity is arguably larger than any in history, with record-breaking investment levels seen in 2025 and no slowdown anticipated. Specifically, the trend of significant investment in real solutions, particularly in the agentic space, is expected to accelerate further in 2026. This signals strong investor confidence and growth potential for application software companies developing agentic AI capabilities and solutions.",
+      "stance": "positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-04-01",
+      "source_doc_id": "3d021149-f355-530b-951b-b7c1ff6088a5"
+    },
+    {
+      "index": 7,
+      "title": "AI remains predominant VC investment theme globally",
+      "description": "KPMG highlights that AI continued to be the predominant theme for venture capital investment globally in Q1'26, driven by multi-billion dollar raises for foundational AI companies. Beyond large language models, VC investors are showing significant interest in industry-focused solutions, agentic AI, physical AI, and niche vertical application software solutions. This indicates a sustained and broad-based capital flow into AI-driven application software, making it a key area for growth and innovation for the foreseeable future.",
+      "stance": "positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-04-01",
+      "source_doc_id": "10f8dd2f-34b6-5f47-85aa-cb3784bcbc3b"
+    },
+    {
+      "index": 8,
+      "title": "Enterprise success in AI hinges on effective operationalization at scale",
+      "description": "KPMG's Global AI Pulse asserts that AI is entering a new phase of enterprise adoption, where success is increasingly defined by the ability to scale and operationalize AI across organizations. While investment and ambition are high, only a small percentage of firms currently report established ROI. The key differentiator for AI leaders is not merely deploying AI, but fundamentally rewiring operating models, governance, data, and talent to enable AI to scale responsibly and deliver measurable, enterprise-wide value.",
+      "stance": "cautious_positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-04-01",
+      "source_doc_id": "22349c40-2f61-5f18-8cea-8cd544ee535c"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 100.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Global expansion by Indian companies",
+          "description": "Indian software product companies are actively seeking to expand their global footprint, increasing demand and market reach."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected market size for the Indian software product industry. This includes companies that own software IP and primarily generate revenue from products, directly aligning with the Application Software definition.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 131.31,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2032,
+      "forecast_cagr": 42.2,
+      "forecast_cagr_period": "2025-2032",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Record pace of AI adoption",
+          "description": "India's AI adoption is growing rapidly, tripling year-over-year according to OpenAI, creating strong demand for AI solutions across various sectors."
+        },
+        {
+          "driver": "Government initiatives and investments",
+          "description": "Government schemes like the IndiaAI Mission foster the development of the nation's overall AI ecosystem, driving demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The explosive growth of the overall AI market implies significant opportunity for application software that integrates AI capabilities, including ERP, CRM, HCM, and vertical SaaS.",
+          "opportunity": "AI-enabled application software"
+        }
+      ],
+      "methodology": "Forecasted market size for the Indian AI market. This directly impacts the addressable market for AI-enabled application software solutions within India.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 7.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Accelerated domestic demand for AI",
+          "description": "The rapid growth of AI adoption across various industries within India drives the need for high-quality annotated data, which is crucial for training and improving AI models in application software."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The expanding market for data annotation and labelling in India creates opportunities for application software providers offering specialized tools and platforms to support AI development.",
+          "opportunity": "Data annotation tools and services"
+        }
+      ],
+      "methodology": "Projected market size for the data annotation market in India, directly supporting the development and deployment of AI-enabled application software.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 4,
+      "tam_value": 200.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Automation of human labor",
+          "description": "Agentic AI is capable of interpreting ambiguous information, reasoning about context, coordinating decisions across systems, and executing tasks with policy guardrails, automating previously unautomatable, labor-intensive cross-system coordination work."
+        },
+        {
+          "driver": "Cross-workflow decision context",
+          "description": "The new competitive advantage in application software shifts to visibility and action across workflows spanning multiple systems (ERP, CRM, billing, support), where high-value automation opportunities reside."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Outcome-based pricing",
+          "description": "The natural pricing unit shifts from seats and logins to outcomes and usage when agents deliver end-to-end results, allowing companies to monetize based on value delivered rather than access."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "A vast, largely untapped market for application software that automates coordination work across disparate enterprise systems, beyond the capabilities of rules-based software or traditional RPA.",
+          "opportunity": "AI-powered cross-system automation"
+        },
+        {
+          "description": "SaaS companies can leverage existing data assets and customer penetration to expand into and automate non-obvious adjacent workflows that agentic AI makes newly accessible, such as developer productivity and security automation.",
+          "opportunity": "Automating adjacent workflows"
+        }
+      ],
+      "methodology": "Estimated total addressable market for agentic AI automating cross-system coordination work, translating labor costs into software spending. The US market is estimated at $100 billion, with Canada, Europe, Australia, and New Zealand adding another $100 billion.",
+      "source_firm": "bain",
+      "source_date": "2026-05-07",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": 33.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Advancements in defense innovation",
+          "description": "Increased focus and investment in defense technology drives demand for specialized DeepTech solutions."
+        },
+        {
+          "driver": "Humanoid applications",
+          "description": "Emergence and development of humanoid applications create demand for underlying DeepTech components and software."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Opportunities exist for application software solutions catering to highly technical and innovative fields such as defense, robotics, and advanced AI systems.",
+          "opportunity": "Specialized DeepTech application software"
+        }
+      ],
+      "methodology": "Forecasted market size for India's DeepTech sector, which includes advancements in humanoid applications and defense innovation, implying opportunities for specialized application software.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    }
+  ],
+  "sources": [
+    "bain",
+    "bcg_global",
+    "kpmg",
+    "ibef"
+  ]
+}

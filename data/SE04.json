@@ -1,0 +1,665 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Digital disruption and AI redefining media content creation and distribution",
+      "description": "The media industry is experiencing profound digital disruption, moving from physical formats (like CDs) to digital distribution and streaming. AI further accelerates this by enabling new forms of content creation and aggregation. Companies like Sony Pictures must differentiate through unique content (e.g., anime via Crunchyroll) rather than relying on broad platforms. This shifts focus from network ownership to content strategy and agile response to changing consumption models. The 'convergence thesis' has failed, leading to a clear separation between connectivity providers and content creators, pushing Media & Entertainment into a consumer-driven, hit-driven market.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-20"
+    },
+    {
+      "index": 2,
+      "title": "Agentic AI reshaping retail, impacting shopper journey and retailer economics",
+      "description": "Agentic AI is profoundly altering the retail landscape by disintermediating traditional shopping funnels, with systems acting autonomously on behalf of users. This poses a significant structural change for retailers, affecting discovery, personalization, fulfillment, and payments. While retailers can leverage owned agents for conversion, third-party agents could commoditize them, compress margins, and capture crucial data. Retailers must rapidly develop proprietary AI capabilities and strategically partner with large platforms (e.g., OpenAI, Google) to defend against disintermediation, protect data, and redefine retail media monetization models. Agility and clear value propositions are essential to thrive.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-14"
+    },
+    {
+      "index": 3,
+      "title": "AI adoption driving efficiency, personalization, and new growth in retail",
+      "description": "AI is a top investment priority for consumer and retail CEOs, with 64% citing it as such, up from 57% in 2024. Companies expect to spend 10-20% of their budget on AI in the next year, anticipating ROI within 1-3 years. The top benefits include efficiency and productivity gains (17%), enhanced decision-making (17%), and increased personalization (13%). Agentic AI is expected to significantly impact organizations by assisting and even autonomously making purchasing decisions for consumers. This widespread adoption is poised to revolutionize customer experience, optimize inventory, streamline operations, and boost sales, acting as a major upside driver for the sector.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 4,
+      "title": "Shifting gold consumption from jewellery to investment impacts retailers",
+      "description": "Gold consumption patterns in India are undergoing a structural shift, with investment demand (ETFs, bars, coins) surging to record levels, reflecting safe-haven motives and portfolio diversification amid geopolitical uncertainties. Consequently, the share of jewellery in total gold purchases has fallen below 60% in CY25, compared to a long-term average of 70%. This forces jewellers (IN040203) to adapt to volume-sensitive demand and preferences for lighter-weight or lower-carat items, despite rising value-based sales. While branded jewellers see strong revenue growth from formalization and store expansion, the underlying market dynamics for gold are fundamentally changing.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-14"
+    },
+    {
+      "index": 5,
+      "title": "Geopolitical tensions and macro uncertainty threaten auto ancillaries and hospitality",
+      "description": "Escalating geopolitical tensions, particularly the West Asia conflict, introduce significant headwinds for specific Consumer Discretionary sectors like auto ancillaries (IN040104) and hospitality (IN040301). These sectors face earning pressures due to potential increases in crude oil and energy prices, rising logistics costs, and supply chain disruptions. The volatility can also impact demand through softer consumption trends and weaken cash flows, especially for export-oriented MSMEs within these segments. While India Inc's balance sheets are generally stronger, these external risks narrow the margin for comfort, necessitating cautious planning and risk management.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-17"
+    },
+    {
+      "index": 6,
+      "title": "K-shaped consumer demand and cost pressures impacting sector profitability",
+      "description": "Consumer and retail companies are operating in a difficult trading environment characterized by K-shaped consumer demand, where affluent consumers continue to spend while others trade down. Many consumers are resisting further price hikes, forcing companies to prioritize cost discipline over pricing power to protect margins. This indicates a challenging environment for maintaining profitability and growth, particularly for sectors relying on broad consumer spending. Despite optimism about industry growth, fewer CEOs expect high annual earnings, signifying ongoing pressure to manage costs effectively amidst varied consumer behavior.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 7,
+      "title": "Cybersecurity threats and ethical concerns pose obstacles to AI adoption",
+      "description": "The rapid adoption of AI in Consumer Discretionary sectors, particularly retail, is hampered by significant cybersecurity threats and ethical challenges. 56% of CEOs cite ethical concerns as the biggest obstacle to AI implementation, with consumers wary about trusting AI. Concerns over fraud detection, identity theft, and data privacy are 'extremely high' (68% of CEOs). Damaging data leaks can erode trust and lead to severe penalties from regulators. To mitigate this, strong oversight, robust security protocols, and clear governance over data are crucial to foster confidence in AI among consumers and investors, ensuring ethical and reliable use.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 8,
+      "title": "Government policies catalyze EV adoption, manufacturing, and charging infrastructure",
+      "description": "Robust government policies like the PM E-DRIVE scheme (US$1.3 billion budget), auto PLI scheme (US$672 million), PM-eBus Sewa scheme (US$2.28 billion), and customs duty exemption for critical minerals are significantly accelerating EV adoption and manufacturing. These initiatives aim to boost sales, establish charging infrastructure, and develop an EV ecosystem, benefiting Passenger Vehicles, Commercial Vehicles, and Two & Three Wheelers. Additionally, 100% FDI in auto components further encourages investment. This strong policy support acts as a major tailwind, driving rapid growth and innovation across the entire automotive value chain.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 9,
+      "title": "Strong consumer appetite, market formalization boosts branded jewellers' growth",
+      "description": "Despite record-high gold prices, strong consumer appetite for jewellery, coupled with accelerated market formalization, is driving significant revenue growth for branded jewellers (IN040203). Consumers are allocating a larger wallet share to gold, and the shift towards organised retail is capturing market share from unorganised players. Aggressive store expansion, especially through the franchisee model, is enhancing retail presence. Although volume growth is moderating due to price sensitivity, the value-driven demand and increased professionalization of the sector create a robust tailwind for established brands, ensuring sustained earnings momentum.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-27"
+    },
+    {
+      "index": 10,
+      "title": "Retail M&A shifts to strategic focus on cash, core, and digital capabilities",
+      "description": "The M&A landscape in Consumer and Retail is shifting towards a 'cash, core and caution' mindset, prioritizing strategic rather than transformational deals. Only 35% of CEOs expect 'high-impact' acquisitions, down from 46% in 2024. This reflects a focus on strengthening established portfolios, entering new categories, and acquiring AI and digital capabilities. Companies are also shedding non-core assets to generate cash and mitigate supply chain risks. Private equity participation is expected to rebound, targeting quality assets. This trend underscores a more disciplined approach to inorganic growth, aiming for enhanced resilience and targeted market expansion.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 11,
+      "title": "Expanding digital infrastructure and AI investments boosts e-commerce growth",
+      "description": "Significant investments in digital infrastructure, including fiber networks for 5G and AI-scaling initiatives, are creating a robust foundation for e-commerce growth. Amazon's US$35 billion investment in India by 2030 for digital infrastructure and AI adoption highlights strong long-term confidence. Flipkart's acquisition of a GenAI startup further strengthens AI-led commerce capabilities. This increased investment enhances digital payments, boosts online shopping demand, and enables hyper-personalization, directly driving the expansion of IN040403 (E-Commerce) and creating new opportunities across the digital commerce landscape.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 12,
+      "title": "Digital transformation drives demand for data centers, supporting digital-centric services",
+      "description": "India's pervasive digital transformation, marked by expanding e-commerce, fintech platforms, online streaming, and gaming services, is significantly boosting the demand for data center infrastructure. The rapid increase in internet users, coupled with 5G rollout and the growing adoption of AI applications, requires high-performance computing and large-scale data storage. This creates a strong tailwind for digital-centric Consumer Discretionary nodes such as IN040403 (E-Commerce) and IN040503/04 (Streaming & Gaming), which rely heavily on robust data infrastructure to support their operations and scale.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-17"
+    },
+    {
+      "index": 13,
+      "title": "Government initiatives and infrastructure improvements bolstering tourism and hospitality",
+      "description": "The Indian government's proactive policies, including GST reduction on hotels, new Tourism Policies, and expanded visa facilities, are providing significant tailwinds for the Tourism and Hospitality sector. Investments in lighthouse tourism, medical tourism hubs, and the 'Meet in India' strategy for MICE promotion are diversifying offerings and creating new avenues for growth. Infrastructure developments like the 'Hydrogen Highway' and deployment of electric buses also enhance connectivity and sustainable travel. These concerted efforts are improving accessibility, attracting both domestic and international travelers, and positioning India as a global tourism destination.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 14,
+      "title": "Affluence, penetration, and tech-driven demand fuel consumer durables market",
+      "description": "India's consumer durables market is experiencing strong tailwinds from increasing consumer affluence, rising household penetration, and a growing preference for premium products. The demand for smart and energy-efficient appliances is particularly high, driven by technological advancements. Government support through initiatives like the PLI scheme for White Goods and 'Digital India' further incentivizes domestic manufacturing and enhances market access. These factors are propelling India towards becoming the fourth-largest market for consumer durables globally, ensuring robust demand and investment in Consumer Electronics & Appliances (IN040201).",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 15,
+      "title": "Geopolitical uncertainties impacting export-oriented segments and input costs",
+      "description": "Ongoing geopolitical tensions, particularly in West Asia, pose a key risk to India's Consumer Discretionary sector by increasing volatility in energy prices, logistics costs, and currency movements. This impacts sectors like gems & jewellery (IN040203) and electronics (IN040201) through potential negative effects on merchandise exports to the region and higher import bills. While some initial impact on textile exports to the US from tariffs has eased, margin pressures persist. The overall macro uncertainty can dampen consumer confidence and lead to softer consumption trends, challenging profitability across various segments.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-17"
+    },
+    {
+      "index": 16,
+      "title": "Artificial intelligence enhancing airport retail and commercial planning",
+      "description": "The adoption of AI in airports (SE03) is creating an upside driver for airport retail (IN040401, IN040402). AI-based predictive intelligence allows for better commercial planning of passenger flows, pop-up shops, and other retail offers within airport terminals. By analyzing shared passenger data, AI can optimize gate and stand allocation, directing high-value passengers to areas near retail zones. This can lead to increased retail sales and improved commercial outcomes, making airport retail operations more efficient and revenue-generating by leveraging AI for strategic placement and timing of offers.",
+      "type": "upside_driver",
+      "impact_magnitude": "low",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-20"
+    },
+    {
+      "index": 17,
+      "title": "Robust demand, expanding cities, and digital payments drive retail growth",
+      "description": "India's retail sector is experiencing robust demand driven by its large population, a growing middle-income class, increasing urbanization, and rising household incomes. The expansion into Tier-II and Tier-III cities, which are adding millions of new consumers, is a significant growth driver. Enhanced digital payments and increasing internet penetration further facilitate online retail. This broad-based demand, coupled with government initiatives and substantial investments from players like Amazon and IKEA, is propelling the organized retail sector, including grocery, specialty, and e-commerce, towards significant expansion.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 18,
+      "title": "Growing economy, policy support, and strong OEMs propel automotive sector",
+      "description": "The Indian automotive industry is projected to reach US$300 billion by 2026, driven by a growing economy, strong government policy support, and the presence of established domestic and international OEMs. India's status as the third-largest automobile market, with robust domestic demand and increasing exports, provides a significant tailwind. Policy initiatives like the Automotive Mission Plan and GST reduction on EVs, along with rising investments, create a favorable environment for Passenger Vehicles, Commercial Vehicles, and Two & Three Wheelers. The focus on R&D and shared mobility further unlocks future growth opportunities.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 19,
+      "title": "Favorable FDI policies and FTAs enhance gems and jewellery sector",
+      "description": "India's gems and jewellery sector benefits from highly favorable policy support, including 100% FDI under the automatic route for processing and trading. The establishment of 10 special economic zones (SEZs) with over 500 manufacturing units significantly contributes to exports. Free Trade Agreements (FTAs) with UAE and Australia, and an expected agreement with the UK, are set to dramatically boost exports by reducing tariffs and improving market access. These policies, combined with increasing investments in lab-grown diamonds and a robust demand for gold ETFs, create substantial opportunities for sector growth and global competitiveness.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 20,
+      "title": "High investments and policy support boosting media and entertainment growth",
+      "description": "The Indian Media & Entertainment sector is experiencing strong tailwinds from high investments and supportive government policies. Increased FDI limits, significant investment in content creation (e.g., JioStar's US$3.85 billion), and the establishment of AVGC Content Creator Labs are fostering innovation and growth. Robust demand, particularly in online gaming and digital video platforms (AVoD market growing significantly), coupled with increasing digital adoption, further propel the sector. India's rich talent pool and cultural appeal position it to capture a larger share of the global market, driving sustained expansion across all segments.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Consumer & Retail CEOs optimistic about growth, prioritizing AI and customer experience",
+      "description": "Consumer and retail CEOs are optimistic about growing their businesses and improving earnings, albeit modestly. A significant 78% are confident in industry growth, and 65% in global economy growth. Their top priorities include enhancing customer experience through personalization and investing heavily in AI. Ethical challenges and cybersecurity remain key obstacles for AI implementation. Supply chain disruptions and K-shaped consumer demand characterize a difficult trading environment, pushing companies towards cost discipline over pricing. CEOs are redesigning workforce roles for an AI-driven future and integrating sustainability into core strategy.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG International",
+      "source_date": "2026-05-01",
+      "source_doc_id": "897fabf2-dff3-57b3-a8da-c4db6d6eaeac"
+    },
+    {
+      "index": 2,
+      "title": "Organised jewellery retailers to see robust revenue growth fueled by store expansion",
+      "description": "Domestic organised jewellery retailers are projected to achieve strong revenue growth of over 35% year-on-year in FY26, followed by 20-25% in FY27. This positive outlook is driven by sustained consumer appetite for jewellery despite rising gold prices, market-share gains due to accelerating sector formalisation, and aggressive planned store additions. While operating profit margins are expected to expand significantly in FY26 due to inventory gains, they are likely to normalize to 6.5-7% in FY27, reflecting anticipated range-bound gold prices and front-loaded operating expenses from new stores.",
+      "stance": "positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-05-14",
+      "source_doc_id": "b6e62feb-9920-5b46-9751-87f53127ae9a"
+    },
+    {
+      "index": 3,
+      "title": "West Asia conflict poses headwinds for auto ancillaries and hospitality sectors",
+      "description": "The escalating West Asia conflict introduces sectoral vulnerabilities, particularly for auto ancillaries and hospitality. Prolonged conflict could lead to earning headwinds due to increased energy prices, logistics costs, and supply chain disruptions. While Indian corporates generally possess stronger balance sheets, the margin for comfort is narrowing. MSMEs are identified as the most vulnerable segment to these external shocks. This implies a cautious outlook for these Consumer Discretionary sub-sectors, demanding disciplined capital allocation and sharpened risk management to navigate potential economic pressures and volatile input costs.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-17",
+      "source_doc_id": "837065f0-1456-5245-a0c5-8fbf7afd96e5"
+    },
+    {
+      "index": 4,
+      "title": "Digital transformation and AI to drive data centre growth, supporting digital-first sectors",
+      "description": "India's digital transformation, characterized by expanding e-commerce, fintech, online streaming, and gaming services, is a key driver for the robust growth of data center capacity. This surge in digital penetration, coupled with the rollout of 5G and increasing AI applications, creates a strong demand for enhanced data infrastructure. AI workloads, requiring high-performance computing and large-scale data storage, are expected to power the next phase of data center expansion. This provides foundational support for digital-first Consumer Discretionary nodes like E-Commerce, Streaming, and Gaming, enabling their continued growth and innovation.",
+      "stance": "positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-17",
+      "source_doc_id": "837065f0-1456-5245-a0c5-8fbf7afd96e5"
+    },
+    {
+      "index": 5,
+      "title": "India's e-commerce market set for high-growth, driven by digital adoption",
+      "description": "India's e-commerce industry, valued at US$125 billion in 2024, is projected to grow significantly to US$345 billion by 2030, reflecting an 18.4% CAGR. This high-growth phase is fueled by rising disposable incomes, rapid digital adoption, robust demand from Tier II & III cities, and a surge in quick commerce (70-80% CAGR). The market is also benefiting from government initiatives, increasing internet subscribers, and expanding digital payment volumes, positioning India as a global leader in online retail. AI-driven hyper-personalization is further expected to enhance customer experiences and boost productivity.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "8b18b62a-d6bd-574e-9079-c52a9d0a5424"
+    },
+    {
+      "index": 6,
+      "title": "Tourism & Hospitality sector poised for significant growth with policy support",
+      "description": "India's tourism and hospitality sector is set for substantial expansion, aiming to reach nearly US$60 billion by 2028, with international visitor spending projected to triple by 2034. This growth is underpinned by diverse attractions, robust domestic demand, and significant government policy support, including GST reductions, new Tourism Policies, and visa reforms. Investments in lighthouse and cruise tourism, medical tourism hubs, and MICE promotion are creating new avenues. AI and digital platforms are transforming the sector by enhancing visitor experiences and optimizing destination management, contributing to strong economic role and employment generation.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "d8a69433-f55f-554c-a944-a1521b2936e3"
+    },
+    {
+      "index": 7,
+      "title": "Consumer durables market accelerating, becoming 4th largest globally by FY27",
+      "description": "India's consumer durables market is rapidly expanding, projected to become the fourth-largest globally by FY27, driven by favorable demand-side and supply-side tailwinds. The sector is expected to reach US$33.6 billion by FY29 with an 11% CAGR, propelled by increasing affluence, household penetration, premiumization, and technology-driven demand for smart and energy-efficient appliances. Policy support like the PLI scheme for White Goods and initiatives like 'Digital India' and 'Skill India' are further bolstering domestic manufacturing, serviceability, and export opportunities, alongside significant foreign and domestic investments.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "d92b4dd2-498c-5cd1-b08f-dd08e7d67933"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 1.9,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 4.1,
+      "forecast_cagr_period": "2026-2034",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising demand for casualwear and athleisure",
+          "description": "Consumers are increasingly seeking comfortable and active lifestyle clothing."
+        },
+        {
+          "driver": "Social media trends",
+          "description": "Social media platforms influence fashion choices and accelerate trend cycles."
+        },
+        {
+          "driver": "Higher disposable incomes",
+          "description": "Increased consumer purchasing power leads to more spending on apparel."
+        },
+        {
+          "driver": "E-commerce expansion",
+          "description": "Online retail channels make apparel more accessible to a broader consumer base."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Valuation of the global apparel market in 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 129.72,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2025-2034",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising internet penetration",
+          "description": "More individuals gaining access to the internet drives online shopping."
+        },
+        {
+          "driver": "Digital payments",
+          "description": "Growth in digital payment methods facilitates e-commerce transactions."
+        },
+        {
+          "driver": "Increasing consumer demand for online retail",
+          "description": "Shifting consumer preferences towards convenience and wider product selection online."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Valuation of India’s e-commerce market in 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 7.0,
+      "tam_unit": "USD_bn",
+      "sam_value": 8.0,
+      "as_of_year": 2025,
+      "forecast_cagr": 110.0,
+      "forecast_cagr_period": "2021-2025",
+      "historical_cagr": null,
+      "historical_cagr_period": "2021-2025",
+      "demand_drivers": [
+        {
+          "driver": "Grocery and essential categories",
+          "description": "Primary focus on daily necessities drives frequent purchases."
+        },
+        {
+          "driver": "Increasing order frequency",
+          "description": "Consumers utilizing quick commerce for more regular, smaller purchases."
+        },
+        {
+          "driver": "Rising basket sizes",
+          "description": "Customers adding more items to their quick commerce orders."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated market size for India's quick commerce segment in FY25.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 1857.65,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2024-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Revenue generated by the India broadcasting and cable TV market in CY24.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": 3.07,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2025-2027",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increasing digital adoption",
+          "description": "Growing penetration of internet and digital platforms drives user engagement in online gaming."
+        },
+        {
+          "driver": "Expanding user engagement",
+          "description": "More users are participating and spending time on gaming platforms."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected market size of India's online gaming segment in 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": 13.13,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Expansion of online video industry",
+          "description": "Growth in digital consumption of video content drives the overall digital media market."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Valuation of the Digital Media market in India in 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 7,
+      "tam_value": 7312.55,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2026-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Market size of India’s Gems & Jewellery sector as of January 2026.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 8,
+      "tam_value": 917.3,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 20.43,
+      "forecast_cagr_period": "2026-2034",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Valuation of the global electric vehicle market in 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 9,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2026-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "EV adoption",
+          "description": "Increased penetration of electric vehicles across segments."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Outlook for Indian mobility industry.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 10,
+      "tam_value": 300.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong policy support from Government",
+          "description": "Government initiatives and schemes encourage growth and investment."
+        },
+        {
+          "driver": "Presence of established OEMs",
+          "description": "Strong base of domestic and international manufacturers."
+        },
+        {
+          "driver": "Strong market in domestic demand and exports",
+          "description": "Robust demand from Indian consumers and significant export opportunities."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Expected value of the Indian automotive industry by 2026.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 11,
+      "tam_value": 15.73,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Lighthouse and Cruise Tourism promotion",
+          "description": "Government investment in developing lighthouses with modern amenities attracts tourists."
+        },
+        {
+          "driver": "New Tourism Policy (2025-2030)",
+          "description": "State-level policies attracting investments and promoting tourism clusters."
+        },
+        {
+          "driver": "New visa reforms",
+          "description": "Simplified visa processes and new permits encourage international visitors."
+        },
+        {
+          "driver": "Wellness tourism boom",
+          "description": "Growing health awareness and lifestyle shifts post-pandemic drive demand for wellness packages."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Tourism sector's contribution to India's GDP in 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 12,
+      "tam_value": 287.91,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 16.64,
+      "forecast_cagr_period": "2026-2034",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Largest population and middle-income class",
+          "description": "High number of consumers with increasing purchasing power."
+        },
+        {
+          "driver": "Increasing urbanization",
+          "description": "Migration to cities leads to changing consumption patterns and increased access to retail."
+        },
+        {
+          "driver": "Rising household incomes",
+          "description": "Improved economic conditions directly translate to higher consumer spending on goods."
+        },
+        {
+          "driver": "Connected rural consumers",
+          "description": "Increased access and awareness in rural areas expands the consumer base."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Valuation of India’s FMCG market in 2025. (Relevant to IN040401 as 'All retailers -> SE04 regardless of product sold')",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 13,
+      "tam_value": 2785.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 5.8,
+      "forecast_cagr_period": "2026-2028",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Digital segment contributions",
+          "description": "Growing revenue from online platforms and digital content."
+        },
+        {
+          "driver": "Global tie-ups and tech adoption",
+          "description": "International collaborations and technological advancements enhancing content creation and distribution."
+        },
+        {
+          "driver": "Smarter content strategies",
+          "description": "Targeted and engaging content driving consumer viewership and subscriptions."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated market size of the Indian Media & Entertainment (M&E) sector in 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 14,
+      "tam_value": 267.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 3.0,
+      "forecast_cagr_period": "2026-2035",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated market size for India's dishwasher market in 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 15,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increasing affluence",
+          "description": "Rising disposable incomes enable consumers to purchase more and premium appliances."
+        },
+        {
+          "driver": "Household penetration",
+          "description": "Expanding reach of consumer durables into more households across the country."
+        },
+        {
+          "driver": "Premiumization trend",
+          "description": "Consumers opting for higher-end, feature-rich products."
+        },
+        {
+          "driver": "Technology-driven demand for smart and energy-efficient appliances",
+          "description": "Demand for innovative, connected, and eco-friendly home devices."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated revenue for key consumer electronics and appliances in India for 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "KPMG International",
+    "CareEdge Ratings",
+    "IBEF"
+  ]
+}

@@ -1,0 +1,360 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "AI adoption for cybersecurity defense strengthens organizational resilience",
+      "description": "The integration of AI into cybersecurity is emerging as a powerful force, enabling organizations to strengthen their defenses against evolving, AI-amplified threats. This shift from experimentation to strategic deployment of AI as a core security capability increases resilience, driving demand for advanced cybersecurity software and managed services (IN080203).",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 2,
+      "title": "AI-driven demand for computing power boosts Cloud & Internet Infrastructure",
+      "description": "Generative AI is causing an unprecedented surge in demand for computing power and the underlying digital infrastructure. This translates into rapid growth for hyperscalers, colocation providers, and AI-focused cloud providers (IN080202). Global data center capacity is projected to nearly triple by 2030, with GenAI inference workloads accounting for three-quarters of this growth, driving consumption of cloud services.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-26"
+    },
+    {
+      "index": 3,
+      "title": "Agentic AI creates $100B SaaS market by automating cross-system labor",
+      "description": "Agentic AI is unlocking a significant new market for SaaS (IN080201) by automating complex, human-mediated coordination work spanning multiple enterprise systems. This transforms labor costs into software spending, with an estimated US$100 billion opportunity in the US. This new competitive advantage lies in cross-workflow decision context and the ability to act across disparate systems, driving growth for AI-native entrants and incumbents.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-07"
+    },
+    {
+      "index": 4,
+      "title": "Persistent obstacles hinder tangible AI ROI across industries",
+      "description": "Despite enthusiasm, many organizations struggle to convert AI investments into tangible returns. Key obstacles include lack of comprehensive governance, insufficient accountability, fragmented data, and unmanaged risks (bias, drift, transparency). This challenges the successful deployment and adoption of application software (IN080201), cloud infrastructure (IN080202), and cybersecurity solutions (IN080203) leveraging AI, requiring disciplined implementation and robust frameworks.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 5,
+      "title": "India's data center market shifts to integrated lifecycle partners",
+      "description": "India's rapidly expanding digital infrastructure, driven by AI workloads and 5G, is experiencing an exponential shift. The market is moving away from fragmented service providers to a model of 'Lifecycle Partners'. These partners offer seamless services from planning and building to deploying and maintaining data centers, addressing integration, AI readiness, sovereign cloud, and capital efficiency gaps (IN080202 impact through consumption of cloud services).",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 6,
+      "title": "Government policies and investments foster India's AI and digital infrastructure",
+      "description": "India's government is actively promoting AI and digital infrastructure development through significant policy support and investments. Initiatives like the IndiaAI Mission (US$ 1.25 billion) and Union Budget allocations (US$ 232 million for AI, tax holidays for cloud services) are accelerating AI adoption and infrastructure growth, creating a highly supportive environment for Software & Internet Services (IG0802).",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 7,
+      "title": "IT industry shifts to outcome-based contracts due to AI productivity",
+      "description": "The Software & Internet Services industry (IG0802) is experiencing a structural shift from 'per-FTE' contracts to outcome-based models. AI-driven productivity gains (20-40%) have led clients to demand pay-for-results rather than headcount. Companies are adapting by offering fixed-price, subscription, and usage-based deals, fundamentally reshaping revenue models and competitive strategies within the sector (IN080201).",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 8,
+      "title": "Agentic AI forces enterprise software to modularize and enable customers",
+      "description": "The rise of agentic AI is compelling enterprise software vendors (IN080201) to shift from monolithic, feature-rich solutions to modular platforms with clear APIs. This structural change emphasizes configurability over customization, allowing customers to adapt products. Success will depend on enabling flexibility and providing building blocks, rather than complete solutions, to meet evolving client needs and leverage agent capabilities.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-20"
+    },
+    {
+      "index": 9,
+      "title": "Shift to risk-based cybersecurity budgeting for greater resilience",
+      "description": "The cybersecurity industry (IN080203) is undergoing a fundamental shift towards risk-based budgeting. This involves mapping budget categories to quantified risks, ensuring adaptability, and maintaining transparency. This reorientation forces justification of every investment based on measurable risk reduction, enhancing organizational resilience and optimizing security spending, moving away from inertia-driven allocations.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 10,
+      "title": "Accelerating cloud modernization and digital transformation drive IT growth",
+      "description": "The rapid acceleration of cloud modernization and broader digital transformation initiatives is a significant tailwind for the IT industry, particularly for Software & Internet Services. This trend drives demand for cloud technology professionals, boosts IT sector hiring (16% YoY growth), and leads to substantial investments in digital infrastructure, including cloud services and AI-enabled software (IN080201, IN080202).",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "India's IT industry revenue to reach US$315.4 billion by 2026",
+      "description": "IBEF projects India's IT industry revenue to grow to US$315.4 billion by 2026, contributing 10% to the country’s GDP. This growth is supported by significant foreign direct investment, government initiatives like the IndiaAI Mission, and accelerating demand for cloud and digital transformation, leading to increased hiring in AI, cloud, and cybersecurity.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "71e3b2a8-89cc-51a9-839e-01d69bc83992"
+    },
+    {
+      "index": 2,
+      "title": "AI is becoming a powerful force in modern cybersecurity defense",
+      "description": "KPMG and the World Economic Forum observe that AI is transforming cybersecurity, acting as a crucial defense against increasingly sophisticated attacks. Organizations harnessing AI to strengthen resilience are better positioned, moving beyond experimentation to deploy AI as a core capability. Its value extends beyond automation, requiring investment in technology, skills, process, and robust governance with human oversight.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "source_doc_id": "0edc3f89-fef7-5634-8175-e4677555dc29"
+    },
+    {
+      "index": 3,
+      "title": "AI capital expenditure cycle vulnerability in North American tech markets",
+      "description": "BCG notes that while North America saw a 7.4% rise in financial wealth, performance was concentrated in mega-cap technology stocks. This concentration leaves the market vulnerable to a correction if the AI capital expenditure cycle turns. This implies a cautious outlook on the sustained growth driven by current AI investments, particularly for the underlying cloud and internet infrastructure and related software.",
+      "stance": "cautious_negative",
+      "source_firm": "BCG Global",
+      "source_date": "2026-05-27",
+      "source_doc_id": "28bbf740-5b0d-5461-8ebf-9e8241e1bda9"
+    },
+    {
+      "index": 4,
+      "title": "Agentic AI mandates shift to modular, flexible enterprise software design",
+      "description": "Bain argues that agentic AI necessitates a fundamental shift in enterprise software design. Instead of building feature-rich, complex solutions, vendors must offer modular platforms, clear APIs, and composable services that allow customers to shape solutions. Success will come from enabling flexibility and adaptability, rather than creating one-stop, bloated solutions, which risks repeating past mistakes in the software industry.",
+      "stance": "positive",
+      "source_firm": "Bain",
+      "source_date": "2026-05-20",
+      "source_doc_id": "e7420a8c-653a-5aba-979e-e5ce740b32bb"
+    },
+    {
+      "index": 5,
+      "title": "Agentic AI unlocks $100 billion SaaS opportunity in cross-system labor",
+      "description": "Bain projects a massive new market opportunity for SaaS companies, estimated at $100 billion in the US alone, driven by agentic AI automating cross-system coordination work. This moves beyond simply enhancing existing SaaS to converting human labor costs into software spending. The new competitive advantage lies in cross-workflow decision context and observability, shifting pricing from seats to outcomes.",
+      "stance": "positive",
+      "source_firm": "Bain",
+      "source_date": "2026-05-07",
+      "source_doc_id": "e90585a8-43d0-5e42-8989-f3485573042d"
+    },
+    {
+      "index": 6,
+      "title": "Infrastructure CEOs optimistic about AI potential, but face implementation challenges",
+      "description": "KPMG's survey of Infrastructure and Transport CEOs reveals high optimism regarding AI's potential for rapid ROI, driving improvements in project delivery, asset performance, and energy efficiency. However, this is tempered by concerns about lower investment levels compared to other sectors, struggles to keep pace with AI development, and ethical challenges, indicating execution gaps despite the strong belief in AI's benefits.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "source_doc_id": "96da51e7-fbdb-5f8c-925b-26e908cdd84e"
+    },
+    {
+      "index": 7,
+      "title": "AI offers structural advantage for real estate; delayed adoption compounds disadvantage",
+      "description": "BCG emphasizes that AI presents a significant opportunity for structural advantage in the real estate sector by optimizing capital deployment, reducing risk, cutting costs, and boosting revenue. The evolving market dynamics create an urgent window for AI adoption, and companies that delay will face declining win rates, lower scale efficiency, and compound their cost disadvantage, losing competitiveness.",
+      "stance": "positive",
+      "source_firm": "BCG Global",
+      "source_date": "2026-05-14",
+      "source_doc_id": "1e976d60-9e73-54a1-bfd1-96693c4fda36"
+    },
+    {
+      "index": 8,
+      "title": "AI adoption requires disciplined approach to realize tangible ROI",
+      "description": "KPMG highlights a shift in AI adoption from experimental pilots to a strategic focus on high-impact use cases. Realizing tangible, sustainable returns on significant AI investments demands a disciplined approach, robust governance frameworks, and prioritizing metrics that reflect real business value like cost savings and enhanced fraud prevention. Successful AI transformation requires strong digital infrastructure and workforce readiness.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "source_doc_id": "5bd941a7-9fbf-5768-918a-7b5d406f305f"
+    },
+    {
+      "index": 9,
+      "title": "Cybersecurity budgeting should be risk-driven, transparent, and adaptive",
+      "description": "KPMG advocates for a fundamental reorientation of cybersecurity budgeting, moving from traditional line-item categories to a risk-based approach. Budgets should align with quantified risks, be flexible to evolving threats, and transparently link spending to risk reduction. This framework allows CISOs to justify investments based on measurable business outcomes, improving resilience and board alignment, though it requires cultural shifts.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "source_doc_id": "3430b48a-2982-54b2-b345-4d08104766ae"
+    },
+    {
+      "index": 10,
+      "title": "India's data center market needs integrated lifecycle partners to scale",
+      "description": "KPMG states India's digital infrastructure is undergoing an exponential shift due to data localization, AI-driven workloads, and 5G adoption. However, scaling is hampered by fragmented service providers. The market urgently needs 'Lifecycle Partners' offering seamless services from planning to maintenance, along with specialized AI infrastructure and solutions for sovereign cloud and capital efficiency gaps, to become a global force.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "source_doc_id": "0463e6ea-0c54-5403-92a2-03d2fc086c6c"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 13.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "BFSI sector adoption",
+          "description": "Banking, financial services, and insurance (BFSI) is a primary driver for public cloud services."
+        },
+        {
+          "driver": "Manufacturing sector adoption",
+          "description": "Manufacturing is identified as a key sector driving demand for public cloud services."
+        },
+        {
+          "driver": "Government sector adoption",
+          "description": "Government entities increasingly utilize public cloud services."
+        },
+        {
+          "driver": "Software sector adoption",
+          "description": "The software industry itself drives demand for public cloud services."
+        },
+        {
+          "driver": "Media sector adoption",
+          "description": "The media industry is a significant driver of public cloud services adoption."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecasted market size for India's public cloud services. Relates directly to IN080202 Cloud & Internet Infrastructure.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 131.31,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 42.2,
+      "forecast_cagr_period": "2025-2032",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "GenAI and engineering R&D",
+          "description": "The adoption of Generative AI and increased engineering research and development activities contribute to AI market expansion."
+        },
+        {
+          "driver": "Rapid AI adoption momentum",
+          "description": "India’s AI adoption is growing at a record pace, with momentum having tripled year-over-year."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected growth of the Indian AI market. While AI is a capability, its growth directly fuels demand for Application Software, Cloud & Internet Infrastructure, and Cybersecurity solutions within IG0802.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 100.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Global market expansion",
+          "description": "Indian companies are focusing on investing internationally to expand their global footprint and enhance their global delivery centres."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projection for the Indian software product industry's value. Primarily IN080201 Application Software.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 100.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Automation of cross-system coordination work",
+          "description": "Agentic AI can interpret information from disparate sources, reason about context, coordinate decisions across systems, and execute end-to-end with policy guardrails, unlocking automation of expensive human-mediated work."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Agentic AI can unlock the latent value of underlying data assets and customer penetration in workflows not currently offered by software companies, particularly where decision context data uniquely enables it.",
+          "opportunity": "Automating adjacent workflows"
+        },
+        {
+          "description": "As agents deliver end-to-end outcomes (e.g., resolved customer issues, processed invoices), the natural pricing unit shifts from seats/logins to outcomes/usage, creating new monetization avenues.",
+          "opportunity": "Outcome-based pricing models"
+        }
+      ],
+      "methodology": "Estimated value of the new market created by agentic AI automating cross-system labor in the US, converting labor costs into software spending.",
+      "source_firm": "Bain",
+      "source_date": "2026-05-07",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": 176.3,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Data-centre expansion",
+          "description": "The boom in physical data centers drives demand for underlying cloud and internet infrastructure software and services (IN080202)."
+        },
+        {
+          "driver": "AI-enabled software investments",
+          "description": "Increased investment in application software leveraging AI capabilities (IN080201)."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecasted total IT spending in India, driven by data center expansion and AI-enabled software investments. This is a broader IT sector figure but directly includes 'AI-enabled software investments'.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 6,
+      "tam_value": 17.8,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecasted market size for India’s public cloud services. Calculated as Rs. 1,53,436 crore converted to USD.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "IBEF",
+    "KPMG",
+    "BCG Global",
+    "Bain"
+  ]
+}

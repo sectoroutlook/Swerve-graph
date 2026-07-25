@@ -1,0 +1,89 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Carbon abatement scaling reliant on policy, lacks commercial demand",
+      "description": "Carbon markets and other carbon abatement sectors are primarily driven by policy and pilot capital, rather than robust commercial demand. This dependency slows their scaling, making it uncertain whether governments can meet committed 2030 emissions targets and potentially widening the gap between green economy aspirations and actual decarbonization outcomes.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-18"
+    },
+    {
+      "index": 2,
+      "title": "India's ambitious net-zero and carbon intensity reduction targets",
+      "description": "India's commitment to achieving net-zero emissions by 2070, reducing carbon intensity by 45% by 2030, and increasing non-fossil fuel capacity to 500 GW by 2030 provides a strong policy foundation for carbon markets and CCUS. These ambitious national targets create a significant demand signal for carbon abatement strategies, encouraging investment and development in related technologies and trading mechanisms.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 3,
+      "title": "Green investment requires standalone commercial returns, reducing policy reliance",
+      "description": "There is a fundamental recalibration in green investment criteria, moving away from projects solely backed by climate ambition. Capital is now flowing primarily to investments demonstrating standalone commercial returns. This structural shift acts as a headwind for carbon markets and CCUS initiatives that historically relied heavily on policy support and climate targets without strong underlying economic viability.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-18"
+    },
+    {
+      "index": 4,
+      "title": "NTPC initiates India’s first geological CO2 storage well",
+      "description": "NTPC, a major power producer, drilled India’s first geological CO2 storage well at the Pakri Barwadih coal mine in Jharkhand in November 2025. This concrete action advances carbon capture, utilization, and storage (CCUS) efforts, demonstrating initial project execution and technology adoption by a significant public sector undertaking. It signals practical progress in deploying CCUS solutions in India.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Carbon abatement scaling constrained by policy-driven pace, lacking commercial demand",
+      "description": "Bain & Company expresses a cautious-negative outlook for carbon markets and other carbon abatement sectors in Southeast Asia. While acknowledging progress, these sectors scale primarily at a pace set by policy and pilot capital, failing to attract the strong commercial demand seen in other green economy segments like EVs and data centers. This reliance raises doubts about achieving 2030 emissions targets, indicating a widening gap between climate ambition and tangible decarbonization outcomes.",
+      "stance": "cautious_negative",
+      "source_firm": "Bain & Company",
+      "source_date": "2026-05-18",
+      "source_doc_id": "1bcdfa9f-6903-586d-88d6-d12b1606392d"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "National Net-Zero & Carbon Intensity Targets",
+          "description": "India's commitment to net-zero emissions by 2070 and a 45% reduction in carbon intensity by 2030 (as per COP26) creates a fundamental and long-term demand for carbon abatement solutions, including carbon markets and CCUS technologies."
+        },
+        {
+          "driver": "Industrial Decarbonization Needs",
+          "description": "Heavy industries and the power sector, especially coal-based, face increasing pressure to decarbonize, driving interest in CCUS for hard-to-abate emissions and potentially participation in carbon markets for compliance or voluntary offset."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The drilling of India's first geological CO2 storage well by NTPC indicates an emerging opportunity for developing storage infrastructure and related services, crucial for scaling CCUS projects across industrial clusters.",
+          "opportunity": "Geological CO2 Storage Development"
+        }
+      ],
+      "methodology": "Analysis of national decarbonization commitments and early-stage CCUS project development. No explicit TAM/SAM/SOM figures for Carbon Markets & CCUS were provided in the reports.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "low"
+    }
+  ],
+  "sources": [
+    "Bain & Company",
+    "IBEF"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Gold production registers positive growth in metallic minerals sector",
+      "description": "In June 2025, gold production, as part of the broader metallic minerals category, registered a positive growth rate compared to the previous year. This indicates a favorable trend for the gold mining sector (IN020401), contributing to overall mineral output expansion within the Precious Metals & Gems industry.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 2,
+      "title": "Policy aims to significantly boost local gold refining to 80%",
+      "description": "A proposed government policy seeks to elevate the share of gold supplied by local refineries to 80% from the current 40% in the coming years. This initiative acts as a strong tailwind for India's gold processing and refining industry (IN020401), promoting self-reliance and enhancing domestic value addition.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 3,
+      "title": "100% FDI allowed in precious metals and diamond mining",
+      "description": "The government permits up to 100% FDI under the automatic route for exploration, mining, and minerals processing of precious metals and diamonds. This liberalized policy provides a significant tailwind for the entire Precious Metals & Gems sector (IG0204), encouraging investment and development in extraction and primary processing.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2025-11-01"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Government policy expected to significantly boost local gold refining capacity",
+      "description": "The Indian government has proposed a policy aimed at increasing the gold supply from local refineries, targeting an 80% share in the next few years, up from the current 40%. This initiative is a positive step for the gold processing and refining sector (IN020401), reducing import reliance and strengthening domestic value chains for precious metals.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "870fd22e-0cbe-5480-bff9-083009888401"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 17.15,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Overall Industrial Demand",
+          "description": "Demand from various industrial sectors utilizing metallic minerals drives production volume and value."
+        },
+        {
+          "driver": "Positive Growth in Specific Metallic Minerals",
+          "description": "Gold production, alongside other metallic minerals like bauxite, iron ore, lead concentrate, zinc concentrate, and manganese ore, registered positive growth in June 2025, contributing to the overall value."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Commodity Prices",
+          "description": "The value of metallic mineral production is directly influenced by prevailing global and domestic market prices for individual metals, including precious metals."
+        },
+        {
+          "driver": "Production Volume",
+          "description": "Increased extraction volumes and efficient primary processing directly contribute to the overall metallic mineral production value."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "The reported figure represents the estimated value of production for all metallic minerals in India for FY26. This broader category includes precious metals such as gold, silver, and platinum group metals, reflecting the total economic contribution from their extraction and initial processing within the mining sector. The value is converted from INR crore to USD billion.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    }
+  ],
+  "sources": [
+    "IBEF"
+  ]
+}

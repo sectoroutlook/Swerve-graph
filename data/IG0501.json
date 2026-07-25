@@ -1,0 +1,432 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Logistical Inefficiencies from Regional Ethanol Production Imbalance",
+      "description": "Ethanol production capacity is concentrated in a few states (UP, Maharashtra, Karnataka), creating regional surpluses while other regions face deficits. This imbalance necessitates long-distance transportation and supply redistribution, increasing logistics costs and affecting realisations for ethanol producers. This adds to margin pressure for sugar mills (IN050101) producing ethanol, despite adequate national capacity.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-14"
+    },
+    {
+      "index": 2,
+      "title": "Global Trade Uncertainties and US Tariffs Affect Exports",
+      "description": "Ongoing tariff disputes, supply-chain realignments, and uncertainty around US trade policy, including sector-specific tariffs, pose headwinds for Indian exports. Non-petroleum goods exports to the US contracted by 12%, impacting export-oriented segments within Food Products & Beverages, despite diversification efforts to other markets. This could reduce export opportunities and profitability.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2025-12-16"
+    },
+    {
+      "index": 3,
+      "title": "Climate Change Threatens Agricultural Production Losses",
+      "description": "Climate change is projected to cause average production losses of 15% to 20% for crops, with some experiencing even higher losses. This poses a significant risk to the raw material supply chain for the Food Products & Beverages sector, potentially leading to increased input costs, supply disruptions, and impact on product availability and pricing.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-19"
+    },
+    {
+      "index": 4,
+      "title": "Government Policy Support and Fiscal Incentives Propel Growth",
+      "description": "Key initiatives like the Production Linked Incentive (PLI) Scheme for Food Processing Industries, PM Kisan Sampada Yojana (PMKSY), and the Animal Husbandry Infrastructure Development Fund (AHIDF) are channeling significant investments, creating processing capacity, and generating jobs. Additionally, 100% FDI under the automatic route and reduced GST on agricultural inputs further boost the sector's attractiveness and profitability.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 5,
+      "title": "Expanding Quick Commerce and E-commerce Boost Sales",
+      "description": "India's quick commerce sector is rapidly expanding, with players planning significant dark store expansions, driving 50-100% YoY sales growth for FMCG companies. E-commerce as a whole is projected to contribute 11% of Indian FMCG sales by 2030, offering greater convenience and direct consumer access, providing a strong channel for Food Products & Beverages sales.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 6,
+      "title": "Ethanol Overcapacity Persists Due to Demand-Supply Mismatch",
+      "description": "India's ethanol capacity (~2000 crore litres) significantly exceeds E20 blending and non-fuel demand (~1450 crore litres), leading to persistent overcapacity. Despite policy pushes for higher blends (E85/E100) and Flex Fuel Vehicles (FFVs), slow adoption and infrastructure constraints mean utilisation pressures are likely to keep margins stressed for ethanol producers, directly impacting sugar mills (IN050101) with ethanol co-production facilities.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-14"
+    },
+    {
+      "index": 7,
+      "title": "Elevated Long-Term Interest Rates Impact Investment Costs",
+      "description": "Despite RBI's easing cycle, long-term borrowing and lending rates remain high due to factors like high fiscal deficits, tariff uncertainty, a weakening currency, and geopolitical issues. This translates to higher risk premiums and borrowing costs for businesses across all sectors, including Food Products & Beverages, potentially moderating investment and expansion plans.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2025-12-16"
+    },
+    {
+      "index": 8,
+      "title": "Processed Food Demand Constrained by Income and Socio-Cultural Factors",
+      "description": "The demand for processed foods in India, a key segment of IG0501, is constrained by low income levels and certain socio-cultural factors. While disposable incomes are rising, this headwind indicates that a significant portion of the population may still prioritize unprocessed or traditional food options, limiting market penetration for some processed food categories.",
+      "type": "headwind",
+      "impact_magnitude": "low",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 9,
+      "title": "Robust Domestic Consumption and Investment Drive Demand",
+      "description": "Strong Private Final Consumption Expenditure (PFCE), supported by rising household consumption, stable inflation, improving incomes, and easing financing conditions, is a key driver of GDP growth. This broad-based domestic demand creates a favorable environment for the Food Products & Beverages sector, boosting sales volumes and overall market expansion.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 10,
+      "title": "Strong Raw Material Base and Production Leadership",
+      "description": "India's position as the world's largest producer of milk and spices, second-largest in fish, fruits & vegetables, and fifth in meat and eggs, provides a robust and diverse raw material base. This high agricultural output and large livestock base ensure competitive advantage and stable supply for the Food Products & Beverages sector, supporting growth and export potential.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 11,
+      "title": "Rise of D2C Channels and Acquisitions by FMCG Firms",
+      "description": "India's Direct-to-Consumer (D2C) market is rapidly expanding, with projected value exceeding US$ 100 billion in 2025. Two-thirds of FMCG firm acquisitions from FY21-FY25 have been in the D2C space, signaling a strategic shift towards direct customer engagement and brand building. This changes market entry and distribution strategies for Food Products & Beverages companies.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 12,
+      "title": "BHARATI Initiative Boosts Agri-Food Exports and Startups",
+      "description": "APEDA's BHARATI initiative aims to empower 100 agri-food and agri-tech startups, fostering innovation and improving export readiness. This targets achieving US$ 50 billion in agri-food exports by 2030, including scheduled products, creating significant opportunities for Food Products & Beverages companies to scale globally and introduce new products.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 13,
+      "title": "India's Aim to Become a Global Hub for Millets",
+      "description": "With the UNGA declaring 2023 as the International Year of Millets, India aims to become a 'Global Hub for Millets (Shree Anna)'. The Indian Institute of Millet Research is being supported as a Centre of Excellence. This initiative presents a significant opportunity for the Packaged Foods & Snacks sector (IN050101) to develop and export millet-based products.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 14,
+      "title": "Rural Markets Drive Premium FMCG Consumption Growth",
+      "description": "Rural India is increasingly driving premium FMCG consumption, with affordable and super-premium products seeing a surge in volume share (51% and 42% respectively in 2025). Rural spending growth (11% CAGR over five years) is outpacing urban, signaling a significant shift in consumption dynamics and presenting substantial growth opportunities for Food Products & Beverages companies to expand their premium portfolios in these markets.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 15,
+      "title": "Enhanced Infrastructure for Food Processing and Cold Chains",
+      "description": "Significant government and private investment in infrastructure, including 24 operational Mega Food Parks and 300 completed integrated cold chain projects (with capacity for 10.06 lakh MT cold storage and 190.98 LLPD milk processing), is modernizing the food processing ecosystem. This reduces wastage, strengthens supply chains, and facilitates efficient storage and distribution for Food Products & Beverages, particularly perishable goods.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 16,
+      "title": "Increasing Investments by Major FMCG Players",
+      "description": "Leading FMCG companies like ITC, Hindustan Unilever, and Reliance are announcing significant capital expenditure plans (e.g., ITC Rs. 20,000 crore, HUL Rs. 20,000 crore) for manufacturing expansion, new product development, and strengthening market presence. Reliance Consumer Products also plans Rs. 8,000 crore for beverage manufacturing, indicating strong confidence and growth impetus within Food Products & Beverages.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 17,
+      "title": "AI Adoption for Enhanced Forecasting and Supply Chain Efficiency",
+      "description": "Around 43% of Indian FMCG companies are adopting AI for forecasting, supply chain optimization, and consumer analytics. This rapid integration of AI into core operations is enabling better product development, faster innovation, and more efficient resource management within the Food Products & Beverages sector, enhancing competitiveness and operational effectiveness.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 18,
+      "title": "Focus on Climate-Resilient Agriculture and Allied Activities Diversification",
+      "description": "Union Budget measures are expected to incentivize diversification into allied activities like dairy, fisheries, and horticulture, and support climate-resilient agriculture practices. This includes improving credit access for these sectors and promoting techniques like drip irrigation and modern biotechnology, ensuring a more stable and diverse raw material supply for Food Products & Beverages.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-20"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Indian FMCG Sector Poised for Strong Growth and Consumption Revival",
+      "description": "India’s FMCG sector, which includes Food Products & Beverages, is expected to see robust growth, with revenue projected to reach nearly US$ 642.87 billion by FY30 at a CAGR of 17.33%. This optimism is driven by a consumption revival, tax reliefs, increased rural spending boosting disposable incomes, and easing inflationary pressures across essential and premium product segments.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "141de21d-8fe9-5a1b-94a3-412ceeb70e8c"
+    },
+    {
+      "index": 2,
+      "title": "Food Processing Sector Anticipates Significant Long-Term Expansion",
+      "description": "India's food processing sector (IG0501) is on a high growth trajectory, expected to reach US$ 1,100 billion by FY35 and US$ 2,150 billion by FY47. This growth is underpinned by rising domestic consumption driven by urbanization, changing lifestyles, and strong government initiatives like PLISFPI and PMKSY enhancing infrastructure and capacity.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "e1d205d5-59cf-5549-95fb-9f1d680929ff"
+    },
+    {
+      "index": 3,
+      "title": "Agricultural Exports Forecasted to Witness Substantial Growth with Processing Focus",
+      "description": "Union Minister Mr. Piyush Goyal stated that India’s agricultural exports have the potential to increase significantly from US$ 52.04 billion to US$ 231.29 billion. This ambitious growth is contingent on a strategic focus on processing and branding, indicating a strong positive outlook for value-added agricultural products within the Food Products & Beverages sector (IG0501).",
+      "stance": "positive",
+      "source_firm": "Union Minister Mr. Piyush Goyal",
+      "source_date": "2026-03-31",
+      "source_doc_id": "9d3f6480-2248-5dda-a23a-514d298c1224"
+    },
+    {
+      "index": 4,
+      "title": "Indian Dairy Firms to Achieve Strong Growth Driven by Value-Added Products",
+      "description": "Indian dairy firms (IN050102) are projected to grow 11-13% in FY26, according to CareEdge Ratings. This growth is primarily led by an increasing focus on value-added dairy products (VAP), supported by significant capital expenditure (Rs. 3,400 crore/US$ 398 million) to boost VAP's share to 45% and improve profitability margins by 20-30 basis points.",
+      "stance": "positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-03-31",
+      "source_doc_id": "141de21d-8fe9-5a1b-94a3-412ceeb70e8c"
+    },
+    {
+      "index": 5,
+      "title": "Ethanol Overcapacity to Persist Despite E85 Push Due to Slow FFV Adoption",
+      "description": "CareEdge Ratings expects ethanol demand under the EBP programme to increase, but current installed capacity will likely remain underutilised. The transition to higher ethanol blends (E85/E100) and Flex Fuel Vehicle (FFV) adoption is projected to be gradual, leading to persistent overcapacity and utilisation levels of 65-75% for ethanol producers. This directly impacts sugar mills (IN050101) involved in ethanol co-production.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-05-14",
+      "source_doc_id": "4e31962a-cce1-537e-8967-9f1078c414ec"
+    },
+    {
+      "index": 6,
+      "title": "Agriculture Sector to Sustain Growth, Benefiting Food Products Input",
+      "description": "NITI Aayog members project India's agriculture sector to maintain a 4% growth over the next decade. This sustained growth is attributed to growing product demand, continuous technological adoption, and supportive government measures. This outlook is positive for the Food Products & Beverages sector (IG0501) as it ensures a stable and increasing supply of raw materials.",
+      "stance": "positive",
+      "source_firm": "NITI Aayog",
+      "source_date": "2026-03-31",
+      "source_doc_id": "9d3f6480-2248-5dda-a23a-514d298c1224"
+    },
+    {
+      "index": 7,
+      "title": "Alcoholic Beverage Industry Projected for Strong FY26 Revenue Growth",
+      "description": "CRISIL Ratings projects India’s alcoholic beverage (alcobev) industry (IN050105) to achieve an 8-10% revenue growth in FY26, reaching approximately US$ 61.97 billion. This positive outlook suggests robust demand and market expansion within the sector, driven by increasing consumption and potentially premiumization trends.",
+      "stance": "positive",
+      "source_firm": "CRISIL Ratings",
+      "source_date": "2026-03-31",
+      "source_doc_id": "141de21d-8fe9-5a1b-94a3-412ceeb70e8c"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 76.76,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2032,
+      "forecast_cagr": 32.7,
+      "forecast_cagr_period": "2022-2032",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Internet and Smartphone Penetration",
+          "description": "Increasing digital connectivity allows more consumers, including those in rural areas, to access online grocery platforms easily."
+        },
+        {
+          "driver": "Disposable Income and Policy Reforms",
+          "description": "Growing incomes and supportive government policies encourage online purchasing behavior."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projection from a US$ 4,540 million base in 2022, growing at a CAGR of 32.7% through 2032. Driven by increased internet and smartphone users, policy reforms, and rising disposable income.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 535.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "FY24-FY26",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Urbanization and Changing Consumption Patterns",
+          "description": "Rapid population growth, rising disposable incomes, and shifting food habits are key drivers, with food consumption projected to reach US$ 1.2 trillion by 2025-26."
+        },
+        {
+          "driver": "Government Policy Support",
+          "description": "Initiatives like PLISFPI, PMKSY, and 100% FDI under automatic route significantly boost investment and capacity creation in the sector."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The market size was US$ 354.5 billion in FY24 and is expected to grow to US$ 535 billion by FY26, with further long-term projections based on economic growth and policy support.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 7.45,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "International Market Access",
+          "description": "EU approval of 102 additional fishery establishments and a Free Trade Agreement with the UK providing duty-free access for marine products."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Tamil Nadu targets US$ 5 billion in seafood exports by strengthening coastal infrastructure and promoting value addition.",
+          "opportunity": "Value-Added Seafood Products"
+        }
+      ],
+      "methodology": "India's total seafood exports in FY25, amounting to 1,698,170 metric tonnes.",
+      "source_firm": "APEDA",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 642.87,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 17.33,
+      "forecast_cagr_period": "FY25-FY30",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rural and Urban Consumption Revival",
+          "description": "Improving volumes and gradual revival in consumer demand, driven by increasing disposable income, tax reliefs, and government support for rural development."
+        },
+        {
+          "driver": "Quick Commerce Expansion",
+          "description": "Rapid expansion of quick commerce platforms leading to 50-100% YoY sales growth for FMCG companies, driven by demand for ultra-fast delivery in urban centers."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Expected growth through FY25 to FY30 at a CAGR of 17.33% to reach total market size.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": 246.5,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 11.8,
+      "forecast_cagr_period": "2026-2034",
+      "historical_cagr": 5.41,
+      "historical_cagr_period": "2014-15 to 2024-25",
+      "demand_drivers": [
+        {
+          "driver": "Increased Milk Production",
+          "description": "India is the top milk producer, with production increasing by 63.56% over the last decade and growing at a CAGR of 5.41%."
+        },
+        {
+          "driver": "Value-Added Products Focus",
+          "description": "Dairy firms are projected to grow 11-13% in FY26, led by value-added products (VAP) and significant capex, boosting VAP share to 45%."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Market valuation of the dairy industry in 2025, with projected growth to US$ 659.8 billion by 2034 at a CAGR of 11.8% from 2026-2034.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": 5.29,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 4.8,
+      "forecast_cagr_period": "2025-2034",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Changing Consumer Preferences",
+          "description": "Rise in demand for functional and natural options, coupled with premiumization trends."
+        },
+        {
+          "driver": "Quick Commerce",
+          "description": "Enabled by rapid delivery services which support impulse and convenient purchases."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Current market valuation of the Indian snack market, with projections to reach US$ 11.57 billion by 2033. The healthy snack market specifically is valued at US$ 3.13 billion in 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 7,
+      "tam_value": 61.97,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "FY26",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing Global Demand for Indian Alcobevs",
+          "description": "Indian alcoholic beverages like gin, beer, wine, and rum are gaining international recognition, supporting export growth targets."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The industry aims to raise exports from US$ 353.17 million in FY25 to US$ 1 billion by 2030.",
+          "opportunity": "Increased Exports"
+        }
+      ],
+      "methodology": "Projected revenue growth of 8-10% for the Indian alcoholic beverage industry in FY26.",
+      "source_firm": "CRISIL Ratings",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "IBEF",
+    "Union Minister Mr. Piyush Goyal",
+    "CareEdge Ratings",
+    "NITI Aayog",
+    "CRISIL Ratings",
+    "APEDA"
+  ]
+}

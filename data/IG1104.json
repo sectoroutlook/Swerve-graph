@@ -1,0 +1,102 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Demographic shifts fueling senior living market growth",
+      "description": "The senior living segment is experiencing rapid growth in India, driven by increasing life expectancy and the emergence of nuclear families. This trend necessitates specialized retirement communities with medical facilities, activities, and social infrastructure, creating significant opportunities for developers and asset owners in this niche real estate sector.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 2,
+      "title": "Internet penetration and data usage boost telecom tower real estate",
+      "description": "The monetization and large-scale operations of telecom tower InvITs are strongly supported by structural demand drivers, specifically increasing internet penetration and a nearly two-fold increase in data usage. This sustained growth in digital consumption ensures stable operating metrics and provides a robust foundation for the expansion and profitability of telecom tower real estate assets.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-19"
+    },
+    {
+      "index": 3,
+      "title": "Digital twins enhance efficiency in complex healthcare real estate projects",
+      "description": "The adoption of digital twin technology is transforming high-complexity developments, including hospitals. By providing a unified, data-rich digital environment, digital twins integrate key building systems for accurate insights and predictive management. This technology addresses inefficiencies and operational risks in projects with multiple interconnected systems, enhancing planning, execution, and long-term operational decisions for healthcare real estate.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Telecom Tower InvITs exhibit large scale and steady growth potential",
+      "description": "CareEdge Ratings observes that telecom tower InvITs are a large and growing segment, holding approximately Rs 3.06 lakh crore in AUM as of March 2025. This sector's monetization is strongly supported by fundamental drivers like increasing internet penetration and a nearly two-fold surge in data usage. These trends contribute to stable operating metrics and sustained opportunities for asset owners in telecom tower real estate.",
+      "stance": "positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-03-19",
+      "source_doc_id": "1e5065ac-f786-5c41-aca5-41cebdf469ca"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 7.7,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Emergence of nuclear families",
+          "description": "Drives demand for specialized housing solutions and retirement communities for the elderly."
+        },
+        {
+          "driver": "Growing urbanisation",
+          "description": "Contributes to the development of planned townships catering specifically to senior citizens' evolving needs."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected market size by 2030, according to a study by the Ministry of Commerce and Industry. This segment is growing due to social shifts impacting housing needs for the elderly.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 2,
+      "tam_value": 3.06,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increasing internet penetration",
+          "description": "Acts as a structural demand driver supporting the monetization and stable operating metrics of telecom tower assets."
+        },
+        {
+          "driver": "Nearly two-fold increase in data usage",
+          "description": "Provides strong underlying demand for telecom tower infrastructure, ensuring continued expansion and utilization."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Asset Under Management (AUM) as of March 31, 2025, for telecom tower InvITs, including 2.57 lakh towers and 1.7 million route km of fibre assets.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-03-19",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "CareEdge Ratings",
+    "IBEF"
+  ]
+}

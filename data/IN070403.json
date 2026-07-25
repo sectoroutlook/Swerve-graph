@@ -1,0 +1,329 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Exponential Growth and Adoption of India's Digital Public Infrastructure (UPI)",
+      "description": "India's digital public infrastructure, especially UPI, has achieved national scale, processing billions of transactions monthly and handling a significant majority of digital retail payments. This widespread adoption and transactional velocity, managed by entities like NPCI (a key market infrastructure player), represents a massive tailwind. It enhances economic efficiency and financial inclusion, providing a robust platform for growth, but also necessitating advanced fraud detection and forensic readiness due to the expanded attack surface.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 2,
+      "title": "Cyber-Attacks and Breaches on Crypto Exchanges Causing Multibillion Dollar Losses",
+      "description": "The digital asset landscape faces severe security threats, with cyber-attacks targeting exchanges, wallets, and smart contracts leading to multibillion-dollar losses. A major crypto-exchange breach in 2025 alone resulted in over USD 1.5 billion in stolen funds, rapidly converted into untraceable assets. This escalating risk, alongside issues like DeFi exploits and NFT fraud, poses a critical threat to the integrity and investor confidence in digital asset exchanges, which function as emerging market infrastructure entities.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 3,
+      "title": "Stricter AI Regulation and Data Sovereignty Requirements Limiting Global AI Models",
+      "description": "AI regulation varies sharply by geography, with markets like India imposing stricter oversight on AI use in regulated workflows and sensitive data. This slows deployment and raises compliance bars for market infrastructure entities. Additionally, increasing data sovereignty demands mean data and models may need localization, preventing the use of centralized data flywheels and global AI solutions. This fragmentation increases costs and hinders the rapid, uniform rollout of AI capabilities, posing a significant challenge to innovation.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 4,
+      "title": "Rise of Platform Providers Bundling Technology and Investment Infrastructure",
+      "description": "Custodian banks and platform providers are increasingly acting as 'de facto operating systems' for independent wealth managers, bundling technology, reporting, regulatory expertise, and AI-enabled investment infrastructure. This trend signifies an evolution in the offerings by financial infrastructure players, where bundled services create dependency for smaller firms and concentrate financial benefits upstream. For market infrastructure entities, this implies a need to adapt by potentially partnering, offering integrated solutions, or facing new competitive dynamics from these evolving platforms.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-27"
+    },
+    {
+      "index": 5,
+      "title": "Enhanced Regulatory Framework for Market Infrastructure Governance and Cyber Resilience",
+      "description": "Financial sector regulators, including SEBI, are increasingly adopting a 'market-infrastructure style approach' to ensure stronger governance, enhanced response capabilities, better threat intelligence, and improved cyber resilience. This shift necessitates financial entities, including exchanges, depositories, and clearing houses, to implement more robust operational controls for outsourced/cloud services and regular cyber audits. This strengthens the overall integrity and stability of market infrastructure but also increases the compliance burden.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 6,
+      "title": "Soaring Retail Investor Participation and Demat Account Growth in Equity Markets",
+      "description": "India's equity markets are experiencing a surge in retail investor participation, with record numbers of new investors joining annually and demat accounts reaching new highs. This increased engagement in stock markets, evidenced by significant wealth creation for households, directly translates into higher activity for exchanges and depositories. It boosts trading volumes, expands the base for listed securities, and drives demand for depository services, representing a substantial tailwind for market infrastructure entities.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 7,
+      "title": "Evolving Global Regulation and Supervision for Crypto Exchanges and DeFi",
+      "description": "The global regulatory environment for virtual assets is intensifying, with bodies like FATF updating guidance on Virtual Assets and VASPs, setting compliance expectations for crypto exchanges and DeFi activities. This includes mandates for risk-based supervision and reporting obligations. While this formalization aims to improve legitimacy and reduce illicit finance, it also imposes significant compliance burdens and necessitates ongoing adaptation for exchanges, particularly those operating in the digital asset space, to meet evolving international standards.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 8,
+      "title": "Underdeveloped Indian Corporate Bond Market Limits Infrastructure Activity",
+      "description": "India’s corporate bond market remains relatively small, approximately USD 645 billion, with corporate financing heavily dependent on bank credit. Issuance is concentrated among highly rated financial institutions, and elevated government borrowing absorbs a large portion of domestic savings. This structural limitation means that market infrastructure entities like exchanges and depositories experience comparatively lower activity in corporate bond trading, clearing, and settlement than in more developed markets, hindering revenue diversification and growth potential.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-27"
+    },
+    {
+      "index": 9,
+      "title": "Increasing Technology Sector Debt Issuance to Fund AI Infrastructure",
+      "description": "The technology sector, historically a minor borrower, is now becoming a significant source of debt issuance, driven by capital-intensive investments in AI infrastructure, semiconductors, and clean energy. This shift provides long-duration capital needed for AI expansion and materially increased the sector's share of global bond issuance in 2025. This creates a tailwind for bond market infrastructure by introducing new, high-value securities for listing and trading, diversifying the types of assets flowing through exchanges and depositories.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-27"
+    },
+    {
+      "index": 10,
+      "title": "Escalating Cyber-enabled Fraud and Digital Payment Infrastructure Exploitation",
+      "description": "The rapid expansion of India's digital payments infrastructure, including UPI, has inadvertently created an unprecedented surface area for cyber-enabled fraud. Fraudsters are exploiting API-first designs, real-time payment infrastructure, and vulnerabilities in banking systems to conduct scams like fraudulent UPI collect requests and account takeovers. This poses a significant and growing threat to the operational integrity and user trust in core payment clearing houses and digital infrastructure operators, demanding continuous and rapid defensive innovation.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 11,
+      "title": "Inclusion of Indian Government Bonds in Major Global Indices",
+      "description": "India's government bonds have achieved significant milestones by being included in major global bond indices, such as the JPMorgan GBI-EM, Bloomberg's Emerging Market Local Currency Index, and FTSE Russell EM Government Bond Index. This inclusion is a structural tailwind for India's bond market, expected to support substantial passive inflows from foreign investors. For market infrastructure, this implies increased demand for trading, clearing, and settlement services for these bonds, driving liquidity and international integration.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-27"
+    },
+    {
+      "index": 12,
+      "title": "AI Adoption for Operational Efficiency in Financial Services Workflows",
+      "description": "Artificial Intelligence, particularly generative and agentic AI, is delivering tangible value in operational and workflow-heavy use cases across financial services. These include areas like software development, compliance, risk management, and customer support. For market infrastructure entities, integrating AI can significantly improve efficiency, compress labor-heavy tasks, and reduce unit costs, especially in engineering excellence and back-office operations. This leads to faster product velocity and competitive advantage through smarter internal processes.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 13,
+      "title": "Booming IPO Fundraising Continues to Drive Exchange Activity",
+      "description": "India's capital markets are experiencing a robust period of Initial Public Offering (IPO) activity, with record fundraising levels and a strong pipeline for the coming year. In 2025, fundraising reached over US$22.5 billion across 365 IPOs, with a projected pipeline of over US$45.5 billion for 2026. This high volume of primary market issuances directly benefits stock exchanges through listing fees, increased market capitalization, and potential for higher secondary market trading activity, acting as a significant tailwind.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 14,
+      "title": "Challenges in Scaling Agentic AI Due to Regulatory and Accountability Concerns",
+      "description": "The shift towards agentic AI, where AI systems take autonomous actions, presents significant challenges for financial services, including market infrastructure. Barriers include regulatory constraints, liability concerns, and the complexities of accountability when agents make decisions. The need for human-in-the-loop models and robust frameworks for explaining AI actions and assigning human accountability slows the widespread adoption and scaling of fully autonomous agents, creating a headwind for realizing AI's full transformative potential in regulated environments.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "SEBI Initiatives Strengthen India's Corporate Bond Market Infrastructure and Transparency",
+      "description": "India's corporate bond market has seen significant progress due to various regulatory initiatives from the Securities and Exchange Board of India (SEBI). These efforts aim to enhance market transparency, bolster investor confidence, and strengthen overall market infrastructure. This regulatory support is crucial for the development of a deep and robust bond market, which is essential for India's economic growth, reducing reliance on bank credit, and improving resource mobilization. RBI also supports the debt market's evolution.",
+      "stance": "positive",
+      "source_firm": "CareEdge",
+      "source_date": "2026-05-27",
+      "source_doc_id": "c21bf770-7c2b-5304-8fbf-e159a6fcaa9f"
+    },
+    {
+      "index": 2,
+      "title": "Indian Equity Market Excels in Shareholder Rights Protection via SEBI Reforms",
+      "description": "India has achieved a perfect score in protecting shareholders' rights, according to the World Bank's Ease of Doing Business 2020 report. This strong performance is attributed to reforms implemented by the Securities and Exchange Board of India (SEBI). This indicates a robust and trustworthy regulatory environment for the Indian equity market, reinforcing investor confidence and strengthening the foundational integrity of exchanges and depositories, which are critical components of market infrastructure. Such regulatory strength enhances the credibility and attractiveness of India's capital markets.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "e40fa7ac-c724-5a09-99f5-7614bab03a16"
+    },
+    {
+      "index": 3,
+      "title": "Crypto Ecosystem Lacks Regulatory Visibility in Decentralized Exchange Activities",
+      "description": "Despite increasing formalization through FIU IND supervision of Virtual Asset Service Providers (VASPs), the crypto ecosystem, particularly decentralized exchange activities and peer-to-peer segments, continues to exhibit residual exposure due to constrained regulatory visibility. This highlights ongoing challenges in monitoring and regulating the digital asset space, creating deep risk for market confidence and liquid stability. The lack of robust oversight in these areas poses a significant hurdle for ensuring comprehensive coverage of emerging risk vectors and investor protection within the broader 'exchanges' landscape.",
+      "stance": "cautious_negative",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "source_doc_id": "ccc44e9c-af6b-534b-b14a-f19981b6af9d"
+    },
+    {
+      "index": 4,
+      "title": "Regulatory Framework Demands Market Infrastructure Approach for Stronger Fraud Governance",
+      "description": "Financial sector regulators are adopting a 'market-infrastructure style approach' to promote stronger governance, response capabilities, threat intelligence, and cyber resilience. This structured approach, including controls for outsourced/cloud services and cyber audits, indicates that liability increasingly stems from failures in governance and controls rather than just the original fraud event. This shift emphasizes proactive fraud prevention and robust operational resilience across financial market entities, requiring them to integrate enhanced security measures into their core operations.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "source_doc_id": "ccc44e9c-af6b-534b-b14a-f19981b6af9d"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increased Investor Participation",
+          "description": "A record influx of new investors and growing penetration of stock market-linked accounts indicate a significant increase in demand for equity market access and associated depository services."
+        },
+        {
+          "driver": "Wealth Creation",
+          "description": "Substantial wealth creation for Indian households, with equity investments contributing significantly, encourages further participation and demand for market infrastructure."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The number of stock market-linked accounts in India has surpassed 21 crore, with over 18 crore demat accounts. India added a record 2.32 crore new investors in 2024, driving household wealth creation.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 22.55,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong Investor Confidence",
+          "description": "High investor confidence in the Indian market drives record IPO fundraising, which directly benefits exchanges through listing fees and increased trading volumes."
+        },
+        {
+          "driver": "Robust IPO Pipeline",
+          "description": "A significant projected pipeline for future IPOs indicates sustained primary market activity, ensuring continued demand for exchange services in listing new companies."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s financial services sector facilitated a record IPO year in 2025, with fundraising reaching approximately Rs. 1.95 lakh crore (US$ 22.55 billion) across 365 IPOs as of December 26, 2025. The pipeline for 2026 is projected at over Rs. 4 lakh crore (US$ 45.5 billion).",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 3.3,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Digital Payment Adoption",
+          "description": "Rapid adoption of digital payments in India, particularly UPI, drives massive transaction volumes and values, increasing the operational scale for payment clearing houses like NPCI."
+        },
+        {
+          "driver": "Financial Inclusion",
+          "description": "Enabling public payment infrastructure like UPI has fostered significant financial inclusion in emerging markets by expanding access to low-cost, mobile-first payment solutions."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "UPI processed 24,162 crore annual transactions valued at approximately INR 314 lakh crore (USD 3.3 trillion) in FY 2025–26, with monthly volumes crossing 2,000 crore transactions in 2025. In March 2026, UPI handled 22.64 billion transactions, accounting for 84% of India’s digital retail payments.",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 645.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Corporate Financing Needs",
+          "description": "Despite its current size, the need for diversified corporate financing beyond bank credit presents a long-term demand driver for bond markets and associated infrastructure."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s corporate bond market is approximately USD 645 billion, representing about 17% of GDP as of September 2025. It remains relatively small compared to bank lending for corporate financing.",
+      "source_firm": "CareEdge",
+      "source_date": "2026-05-27",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Retail Investor Participation",
+          "description": "Rising retail investor participation, coupled with a busy IPO season and strong secondary market gains, directly drives the increase in demat accounts, which are maintained by depositories."
+        },
+        {
+          "driver": "Equity Market Growth",
+          "description": "Overall growth in the equity market and IPO activity necessitates more demat accounts for holding securities, increasing demand for depository services."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "As of November 2025, India’s total demat accounts climbed to a record 21 crore. In FY25, 192.4 million demat accounts were added, reflecting gains in the secondary market and record initial public offerings (IPOs).",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": 11.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The significant losses from crypto-linked scams highlight a critical need for market infrastructure entities, particularly crypto exchanges, to implement more robust security measures, KYC/AML controls, and fraud detection systems to protect users and prevent illicit activities.",
+          "opportunity": "Enhanced Security and Fraud Prevention in Crypto Exchanges"
+        }
+      ],
+      "methodology": "U.S. victims reported over USD 11 billion in crypto-linked scam losses in 2025, with criminals exploiting cryptocurrency for cross-border laundering and sanctions evasion using tools like stablecoins.",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "CareEdge",
+    "IBEF",
+    "KPMG"
+  ]
+}

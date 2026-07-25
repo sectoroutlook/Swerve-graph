@@ -1,0 +1,231 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Robust Air Travel Demand Driven by Economic Growth",
+      "description": "India's strong economic growth, rising disposable incomes, and the expansion of the middle class are generating robust demand for air travel, positioning India as the world's third-largest domestic aviation market. This sustained growth underpins passenger traffic expansion, particularly for domestic routes, creating a favorable operating environment for airline operators to increase their revenue from ticket sales and ancillary services.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 2,
+      "title": "Airline Fleet Expansion with Record Aircraft Orders",
+      "description": "Indian carriers have placed record aircraft orders, leading to expected fleet capacity doubling to approximately 1,100 aircraft by 2027. This rapid induction of new aircraft directly enhances airline capacity, supports network expansion, and allows operators to meet surging passenger demand. The increased fleet size is crucial for both domestic growth and strengthening India's global connectivity with long-range narrow-body jets for international routes, driving future revenue growth.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 3,
+      "title": "Airlines Unprepared for Agentic AI-Led Booking Systems",
+      "description": "The rise of agentic AI is fundamentally reshaping travel discovery and booking, favoring Online Travel Agencies (OTAs) that offer structured, machine-readable data. Airlines, with their human-optimized digital stacks and cybersecurity measures, are currently ill-equipped for seamless AI agent interactions. This puts airlines at a structural disadvantage, risking traffic redirection to OTAs and potentially reducing direct booking revenue, necessitating urgent adaptation of their technical and commercial foundations to AI-ready standards.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-16"
+    },
+    {
+      "index": 4,
+      "title": "Emergence of Domestic MRO and Leasing Ecosystem",
+      "description": "The development of India's MRO sector and a robust leasing and financing ecosystem at GIFT IFSC (Gujarat International Finance Tec-City) represent significant upside potential. Policy support, including IGST reduction on aircraft parts and the Protection of Interests in Aircraft Objects Bill, 2025, reduces offshore dependence, enhances fleet resilience, and lowers capital costs for Indian airlines. This enables airlines to achieve better lease terms and reduces operational expenses, fostering financial viability and growth.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-01"
+    },
+    {
+      "index": 5,
+      "title": "Short-Term Passenger Traffic Slowdown due to External Factors",
+      "description": "Passenger traffic at Indian airports is experiencing a short-term slowdown in FY26, projected at a 4.3% growth rate, significantly lower than previous estimates. This cyclical downturn is attributed to cross-border tensions, fleet-wide aircraft inspections following an accident, and delays in wide-bodied aircraft deliveries, all constraining capacity. For airline operators, this translates to reduced passenger volumes and potentially lower load factors in the near term, impacting immediate revenue streams and operational planning.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2025-12-16"
+    },
+    {
+      "index": 6,
+      "title": "Demand for Sustainable Aviation Fuel (SAF) Production",
+      "description": "Sustainable Aviation Fuel (SAF) is recognized as the central pathway for global aviation decarbonization, with market growth accelerating significantly (600M litres in 2023 to 3B litres by 2026). This represents a structural shift for airlines, driven by international mandates and environmental goals. While a cost for airlines initially, local SAF production can reduce import dependence and stabilize fuel costs over the long term, impacting ATF expenses and enabling airlines to meet decarbonization targets.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-01"
+    },
+    {
+      "index": 7,
+      "title": "Significant Policy Support and Liberalisation Boosting Aviation Sector",
+      "description": "Government initiatives such as the UDAN scheme, liberalized FDI policies (100% FDI in airlines for NRIs), and Open Sky Agreements are significantly boosting the aviation sector. These policies enhance regional connectivity, encourage investments, and facilitate international route expansion. For airlines, this translates into expanded route networks, increased passenger volumes, and a more conducive regulatory environment for growth and capital expenditure, improving overall operational scale and financial viability.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 8,
+      "title": "AI-Powered Operations Reshaping Aviation Efficiency and Experience",
+      "description": "AI is becoming the backbone of the Indian aviation tech stack, moving from pilot projects to scaled adoption across customer service, predictive maintenance, revenue management, and flow management. This structural shift, enabled by initiatives like DigiYatra, is dissolving operational silos and converting data into actionable intelligence. For airlines, this means enhanced safety, improved efficiency, seamless passenger experiences, and optimized resource allocation, driving competitive advantage and unit cost reduction.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-01"
+    },
+    {
+      "index": 9,
+      "title": "Data Privacy and Cybersecurity Challenges in Aviation Ecosystem",
+      "description": "India's data-driven aviation expansion faces significant risks related to data privacy and cybersecurity, especially with increasing real-time data flows across airlines, airports, ground handlers, OTAs, and government authorities. Ensuring privacy, security, and accountability, alongside DPDPA compliance, is a growing challenge. Cyberattacks and complex multi-entity data sharing arrangements pose operational and safety vulnerabilities, potentially impacting passenger trust and increasing compliance costs for airline operators.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-01"
+    },
+    {
+      "index": 10,
+      "title": "Rising Operating Costs and Pressure on Unit Revenues",
+      "description": "European airports face rising operating costs (labor, energy) and unit revenue pressures from increasing Low-Cost Carrier (LCC) traffic, which constantly negotiates for lower aeronautical charges. While this report focuses on airports, these dynamics implicitly create a headwind for airlines. Higher airport costs could eventually translate to increased charges for airlines, and intensified LCC competition can depress overall ticket yields, affecting the revenue per available seat kilometer (RASK) and profitability of airline operators.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-02"
+    },
+    {
+      "index": 11,
+      "title": "Advanced Air Mobility (AAM) for Short-Haul Travel",
+      "description": "Advanced Air Mobility (AAM), using eVTOLs, offers a structural solution to urban mobility impasses in India by shifting high-value, short-haul travel into low-altitude airspace. This can significantly reduce journey times between congested city centers and airports, complementing existing aviation networks. For airlines, particularly those with regional or short-haul focus, AAM presents an opportunity for diversification into new service offerings, enhancing passenger convenience, and capturing new revenue streams in urban and regional connectivity.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-01"
+    },
+    {
+      "index": 12,
+      "title": "Air Cargo Growth Driven by Trade and Infrastructure",
+      "description": "India's aspirations for manufacturing expansion, export growth, and deeper integration into global value chains are driving significant growth in air cargo, projected to reach 17 MMT by FY40. Investments in advanced cargo hubs and initiatives like transshipment hubs enhance efficiency and capacity. For cargo airline operators, this translates to increased cargo yield and volumes, especially with improved customs processes and integrated cargo ecosystems, underpinning a critical revenue stream alongside passenger operations.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Indian Aviation to Evolve into a Strategic Economic Growth Engine",
+      "description": "KPMG views India's aviation story as central to national growth, transforming from a mobility facilitator to a strategic economic engine by 2047. This positive vision anticipates a super-connected, technology-enabled, and sustainable aviation system. The objective is to establish India as a globally competitive aviation ecosystem with integrated domestic capabilities across manufacturing, maintenance, operations, and innovation, ensuring self-reliance and global leadership in the sector.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-01-01",
+      "source_doc_id": "4799fab1-6162-5be5-b6f2-4fbb62919c92"
+    },
+    {
+      "index": 2,
+      "title": "Airlines Risk Disadvantage in Agent-Led AI Booking Evolution",
+      "description": "Bain's analysis indicates that airlines are currently unprepared for the shift to agentic AI-led travel bookings, risking structural disadvantages against Online Travel Agencies (OTAs). OTAs are clearly winning the discovery step by optimizing data for machines, while airlines' digital stacks are still human-centric. This lack of readiness could lead to lost market share and unfavorable economics if airlines do not urgently adapt their commercial and technical foundations to AI agents.",
+      "stance": "cautious_negative",
+      "source_firm": "Bain",
+      "source_date": "2026-03-16",
+      "source_doc_id": "bb984f36-fe4a-5dbc-8d84-0a48080f7045"
+    },
+    {
+      "index": 3,
+      "title": "Indian Aviation Sector Poised for Significant Growth and Expansion",
+      "description": "IBEF holds a strongly positive outlook for the Indian aviation sector, highlighting its robust growth trajectory driven by strong passenger demand, increasing investments, and comprehensive policy support. India has already become the world's third-largest domestic aviation market and is projected to be the third-largest global air passenger market by 2030. Key drivers include expanding airport infrastructure, MRO facility development incentives, and liberalized FDI policies, all contributing to a booming sector.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "30147414-4bfd-5837-aa53-0a6cd32ea2f0"
+    },
+    {
+      "index": 4,
+      "title": "Data-Driven Aviation Transformation Faces Significant Privacy Challenges",
+      "description": "KPMG sees India's aviation sector undergoing a historic, data-driven transformation, poised to become the world’s third-largest aviation market by 2028–29. This expansion, fueled by surging demand and aircraft orders, makes data the 'new engine of growth.' However, KPMG highlights significant challenges in ensuring privacy, security, and accountability across the multi-entity data ecosystem, emphasizing the critical need for swift and effective DPDPA compliance to navigate this digital future securely.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-02-01",
+      "source_doc_id": "daaa76e3-a1e7-514e-80ee-d7a2d1ba213f"
+    },
+    {
+      "index": 5,
+      "title": "Indian Airports' FY26 Passenger Growth Slows, Medium-Term Outlook Favorable",
+      "description": "CareEdge Ratings anticipates a slower passenger traffic growth of 4.3% in FY26, down from earlier estimates, making it the weakest in a decade (excluding pandemic years). This cautious short-term outlook is due to cross-border tensions, aircraft inspections, and wide-bodied aircraft delivery delays. However, the medium-term outlook remains favorable, projecting an 8-9% CAGR over the next 2-3 years, driven by capacity expansions and robust demand from India's growing middle class, despite current headwinds.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2025-12-16",
+      "source_doc_id": "163d0ecd-ba22-51e7-a62b-deb6db2a6a94"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 728.53,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 20.1,
+      "forecast_cagr_period": "2022-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Passenger demand growth",
+          "description": "As more passengers fly, the addressable market for ancillary services naturally expands, increasing revenue opportunities for airlines."
+        },
+        {
+          "driver": "Personalization and digital offerings",
+          "description": "Airlines leveraging data and digital platforms to offer personalized services and upsell opportunities contribute to the rapid growth of this market segment."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Increased ancillary revenue share",
+          "description": "Ancillary services contribute directly to an airline's top line, often with higher margin profiles than base ticket sales, enhancing overall revenue and profitability."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "AI-driven approaches can enable airlines to offer highly relevant ancillary services, increasing uptake and improving customer satisfaction, creating new revenue streams.",
+          "opportunity": "Hyper-personalized customer engagement"
+        }
+      ],
+      "methodology": "Global projection for the airline ancillary services market, highlighting the growing revenue potential beyond core ticket sales. This includes services like baggage, seat selection, in-flight sales, and potentially new offerings.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 2,
+      "tam_value": 245.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2023,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growth in travel and tourism",
+          "description": "The overall expansion of the travel and tourism sector, driven by increasing disposable incomes and domestic/international tourism, directly translates to higher air passenger demand."
+        },
+        {
+          "driver": "Employment generation in aviation",
+          "description": "Aviation's significant contribution to employment (4 million jobs) signals its economic importance and integral role in supporting economic activity that fuels travel."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total contribution of India's travel and tourism sector to the economy, where aviation contributes significantly to GDP (5%) and employment. This indicates the broader economic context supporting air travel demand.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "KPMG",
+    "Bain",
+    "IBEF",
+    "CareEdge Ratings"
+  ]
+}

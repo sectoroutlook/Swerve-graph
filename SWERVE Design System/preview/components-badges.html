@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: var(--bg); font-family: var(--font-body); padding: 20px; display: flex; flex-direction: column; gap: 12px; }
+.row { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; }
+.badge { display: inline-flex; align-items: center; font-size: 11px; font-weight: 500; padding: 4px 12px; border-radius: 9999px; }
+.tag   { display: inline-flex; align-items: center; font-size: 11px; font-weight: 500; padding: 4px 10px; border-radius: 6px; }
+.pos { color: #34d399; background: rgba(52,211,153,0.12); border: 1px solid rgba(52,211,153,0.22); }
+.neg { color: #f87171; background: rgba(248,113,113,0.12); border: 1px solid rgba(248,113,113,0.22); }
+</style>
+</head><body>
+  <div class="row">
+    <span class="badge" style="background:linear-gradient(to right,#9666e3,#1892f3);color:#fff">FEATURED</span>
+    <span class="badge" style="background:rgba(150,102,227,0.15);color:#d1c4fc;border:1px solid rgba(150,102,227,0.25)">EMERGING</span>
+    <span class="badge" style="background:rgba(24,146,243,0.15);color:#cfe6fa;border:1px solid rgba(24,146,243,0.25)">MARKETS</span>
+    <span class="badge pos">▲ +4.2%</span>
+    <span class="badge neg">▼ -1.8%</span>
+  </div>
+  <div class="row">
+    <span class="tag" style="background:rgba(255,255,255,0.06);color:var(--fg2);border:1px solid var(--border)">India</span>
+    <span class="tag" style="background:rgba(255,255,255,0.06);color:var(--fg2);border:1px solid var(--border)">Brazil</span>
+    <span class="tag" style="background:rgba(255,255,255,0.06);color:var(--fg2);border:1px solid var(--border)">Vietnam</span>
+    <span class="tag" style="background:rgba(255,255,255,0.06);color:var(--fg2);border:1px solid var(--border)">Equities</span>
+    <span class="tag" style="background:rgba(255,255,255,0.06);color:var(--fg2);border:1px solid var(--border)">Fixed Income</span>
+  </div>
+</body></html>

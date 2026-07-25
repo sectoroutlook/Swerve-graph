@@ -1,0 +1,223 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Accelerating internet subscriber growth fuels digital platform usage",
+      "description": "India's internet subscriber base continues robust expansion, reaching over 1,028.61 million by December 2025. This surge, primarily driven by wireless users, signifies an expanding addressable market for search, social, and content platforms, increasing potential user engagement and advertising reach.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 2,
+      "title": "Exponential mobile data consumption drives platform engagement",
+      "description": "India maintains its position as the largest consumer of mobile data globally, with total wireless data usage increasing significantly to 73,324 PB in Q.E. Dec-25. This exponential growth directly correlates with higher engagement on content-sharing, social media, and video platforms, boosting their reach and advertising potential.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 3,
+      "title": "Growing digital advertising spending boosts platform monetization",
+      "description": "Major tech and e-commerce firms, including core search and social platforms like Google and Meta, saw their collective ad revenues rise substantially, reaching US$ 9.46 billion in FY25. This indicates increasing digital advertising expenditure from marketers, including SMEs, directly benefiting ad-driven platforms and strengthening their revenue streams.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 4,
+      "title": "AVOD platforms expand OTT audience with smartphone and data access",
+      "description": "India's OTT audience grew to over 601 million users, with expansion largely driven by Advertising-based Video-on-Demand (AVoD) platforms. Supported by widespread smartphone usage and affordable data access, this trend enhances the reach and viewer base for ad-supported video and content-sharing platforms, increasing their market share and advertising opportunities.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 5,
+      "title": "Social media and messaging platforms vulnerable to sophisticated fraud schemes",
+      "description": "Fraudsters are increasingly exploiting social media and instant messaging platforms as vectors for new-age digitally-enabled fraud. These platforms are used for coordinating attacks, deploying social engineering tactics like fraudulently cloned executive accounts, and managing mule account networks. This exposes platforms to reputational damage and necessitates stronger security measures to protect users.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 6,
+      "title": "AI-enabled threats like deepfakes undermine platform trust and security",
+      "description": "The rise of generative AI allows threat actors to deploy deepfakes, voice cloning, and automated hacking tools, creating new and sophisticated cyber threats. These AI-enabled artefacts complicate evidentiary verification and increase social engineering risks, directly impacting content platforms and their ability to ensure authenticity and user trust.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 7,
+      "title": "Encrypted platform communication impedes forensic investigation and evidence access",
+      "description": "The shift towards encrypted, platform-based OTT communication and cross-border data flows increasingly constrains the effectiveness of forensic investigations. While crucial for user privacy, this makes it harder for law enforcement to access telecom metadata and digital evidence, posing challenges for platforms in cooperating with crime investigation and maintaining regulatory compliance.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 8,
+      "title": "Evolving legal framework enhances digital evidence admissibility and speed",
+      "description": "India's legal architecture is adapting to modern cybercrime, with new laws like BSA and BNSS streamlining the handling and admissibility of electronic and digital records as primary evidence. This shift towards court-capable digital evidence, including certified private expert analysis, improves the efficiency of investigations into platform-based fraud, fostering greater accountability.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 9,
+      "title": "Volatility and fragmentation of digital evidence complicates investigations",
+      "description": "Digital evidence, particularly from platforms, is characterized by high volatility (e.g., RAM contents), fragmentation across multiple entities (mobile devices, cloud servers, telecom records), and cross-border distribution. This inherent nature of digital evidence makes identification, collection, and preservation challenging, increasing the risk of evidence loss and hindering effective fraud investigations.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 10,
+      "title": "Unstructured platform data highly susceptible to manipulation and authenticity challenges",
+      "description": "Unstructured digital evidence, such as instant messaging conversations, social media posts, and voice recordings, is increasingly generated on platforms. However, this type of evidence requires extensive contextual analysis and is highly susceptible to manipulation. AI-generated content further complicates authenticity, posing significant challenges for validating evidence used in fraud investigations.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 11,
+      "title": "Regulatory push for stronger fraud governance influences platform operations",
+      "description": "Regulatory trends in India are driving institutions towards stronger fraud governance, focusing on secure onboarding, digital payment security, improved reporting, and customer protection. This means platforms must embed privacy governance in internal investigations, evidence collection, and data sharing, impacting their operational design and compliance requirements.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 12,
+      "title": "SIM swap fraud threatens user security across connected platform accounts",
+      "description": "SIM swap fraud remains a critical vulnerability where fraudsters gain control of a victim's phone number, subsequently accessing OTP-based authentications for banking, email, and various payment apps. This directly threatens user security across social, messaging, and other digital platforms, potentially leading to account takeovers and financial losses.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Social media platforms increasingly exploited by digitally-enabled fraud ecosystems",
+      "description": "KPMG highlights that modern fraud operates as a digitally enabled ecosystem, significantly exploiting social media platforms. Criminal syndicates leverage stolen data and identities, alongside AI and real-time payments, to execute widespread online fraud schemes. This evolving landscape poses a critical challenge for platforms to safeguard consumers and maintain digital trust.",
+      "stance": "cautious_negative",
+      "source_firm": "kpmg",
+      "source_date": "2026-06-01",
+      "source_doc_id": "ccc44e9c-af6b-534b-b14a-f19981b6af9d"
+    },
+    {
+      "index": 2,
+      "title": "AI-enabled threats amplify fraud risk on digital channels, necessitating vigilance",
+      "description": "KPMG notes that AI is increasingly used by threat actors for deepfakes, voice cloning, and automated hacking, creating new attack vectors. This sophistication targets systemic gaps and user engagement channels. Platforms must reinforce defenses before transactions to counter these advanced, AI-driven fraud methodologies, which pose a significant risk to user trust and security.",
+      "stance": "cautious_negative",
+      "source_firm": "kpmg",
+      "source_date": "2026-06-01",
+      "source_doc_id": "ccc44e9c-af6b-534b-b14a-f19981b6af9d"
+    },
+    {
+      "index": 3,
+      "title": "Encrypted platform communication hinders fraud investigation and evidence access",
+      "description": "While telecom metadata is crucial for cybercrime investigations, KPMG notes its effectiveness is constrained by the shift towards encrypted, platform-based OTT communication and cross-border data flows. This presents a challenge for law enforcement in accessing critical evidence, raising questions for platforms balancing user privacy with crime prevention and regulatory cooperation.",
+      "stance": "cautious_negative",
+      "source_firm": "kpmg",
+      "source_date": "2026-06-01",
+      "source_doc_id": "ccc44e9c-af6b-534b-b14a-f19981b6af9d"
+    },
+    {
+      "index": 4,
+      "title": "Major tech and e-commerce firms show strong ad revenue growth in India",
+      "description": "IBEF reports that major tech and e-commerce firms, including core search and social platforms like Google and Meta, experienced significant collective ad revenue growth. Their ad revenues rose to approximately US$ 9.46 billion in FY25 from US$ 7.97 billion in FY24, indicating robust expansion in digital advertising expenditure for platform monetization.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "8aef4142-f770-5177-95b0-c44dede48b0c"
+    },
+    {
+      "index": 5,
+      "title": "AVOD platforms significantly drive India's growing OTT video audience",
+      "description": "IBEF highlights that India's OTT audience grew by 9.9% year-on-year to 601.2 million users in 2025, reaching 41% penetration. This expansion is largely fueled by Advertising-based Video-on-Demand (AVoD) platforms, supported by increasing smartphone usage and affordable data access, signaling strong user engagement for ad-supported content.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "8aef4142-f770-5177-95b0-c44dede48b0c"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 3.25,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": 12.1,
+      "forecast_cagr_period": "2024-2030",
+      "historical_cagr": 42.1,
+      "historical_cagr_period": "2020-2024",
+      "demand_drivers": [
+        {
+          "driver": "Smartphone Usage",
+          "description": "Increased mobile connectivity drives digital consumption and access to AVOD platforms."
+        },
+        {
+          "driver": "Affordable Data Access",
+          "description": "Low-cost data plans enable greater access to online video content and streaming services."
+        },
+        {
+          "driver": "Growing OTT Audience",
+          "description": "Expanding user base for online video platforms, particularly ad-supported video-on-demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The advertising-based video-on-demand (AVoD) segment's market size. Calculated from Rs. 26,975 crore. Projected to grow to US$ 6.48 billion by 2030 (Rs. 53,784 crore).",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 9.46,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 18.7,
+      "historical_cagr_period": "2024-2025",
+      "demand_drivers": [
+        {
+          "driver": "Increased Digital Advertising Spending",
+          "description": "Marketers, including SMEs, are significantly increasing investment in digital advertising channels."
+        },
+        {
+          "driver": "Growing Digital Adoption",
+          "description": "Expanding user base and engagement across online platforms, increasing advertising impressions."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Collective ad revenues of major tech and e-commerce firms, including core IN090301 players like Google and Meta. Calculated from Rs. 80,000 crore, up from US$ 7.97 billion (Rs. 66,000 crore) in FY24.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "kpmg",
+    "IBEF"
+  ]
+}

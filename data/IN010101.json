@@ -1,0 +1,528 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Structural decline in conventional reserve replacement impacting E&P activity",
+      "description": "Conventional reserve replacement rates have significantly decreased from 30-40% in the 2010s to 10-20% in the 2020s. This structural shift, rather than a cyclical low, means less overall exploration activity from E&P companies, directly reducing the demand for drilling rigs, well services, seismic, and completion services from oilfield services providers.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-04"
+    },
+    {
+      "index": 2,
+      "title": "Commercialization challenges for discovered resources limit upstream investment",
+      "description": "A significant issue is that many technically successful hydrocarbon discoveries fail to convert into economically viable, investable supply. Constraints such as weak fiscal terms, lack of market access, and inadequate infrastructure often hinder project development, even when identifiable before well sanction. This reduces overall E&P capital deployment, directly curtailing demand for various oilfield services.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-04"
+    },
+    {
+      "index": 3,
+      "title": "National oil companies lead exploration, shifting market dynamics for OFS",
+      "description": "National Oil Companies (NOCs) are increasingly leading exploration activity and volume additions globally, while international players maintain lower conventional exploration levels. NOCs often operate with different resource access, fiscal positions, and strategic mandates. This shift means OFS providers must adapt to NOC-specific procurement, contracting, and operational demands, potentially impacting global market opportunities and the competitive landscape.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-04"
+    },
+    {
+      "index": 4,
+      "title": "E&P capital redirecting to short-cycle projects, reducing long-term exploration",
+      "description": "Oil and gas companies are reallocating capital away from long-cycle exploration projects towards short-cycle barrels (like unconventionals), project execution, balance sheet repair, and shareholder distributions. This strategic shift diminishes the financial appetite for extensive, riskier exploration, leading to a sustained reduction in demand for core exploration-related oilfield services such as seismic, deepwater drilling, and frontier well completion.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-04"
+    },
+    {
+      "index": 5,
+      "title": "E&P firms adopting selective, \"right to win\" exploration strategies",
+      "description": "Exploration strategies are becoming highly selective, with companies focusing on areas where they have a distinct \"right to win\" rather than broad, speculative drilling. This includes prioritizing infrastructure-led exploration (ILX) and basin extensions over higher-risk frontier exploration. This refined approach by E&P firms will lead to more targeted deployment of oilfield services, requiring OFS providers to adapt their offerings and market presence to specific, high-probability basins.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-04"
+    },
+    {
+      "index": 6,
+      "title": "Global energy demand growth supports upstream activity",
+      "description": "Bain's outlook projects continued global energy demand growth, driven by GDP, population expansion, and industrial activity. This fundamental increase in energy consumption inherently translates to sustained demand for hydrocarbons, providing a supportive backdrop for upstream exploration and production (E&P) activities. Consequently, this creates a consistent demand floor for oilfield services, including drilling, well services, and completion.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-09"
+    },
+    {
+      "index": 7,
+      "title": "Climate impacts necessitate resilience, increasing operational costs for E&P",
+      "description": "Global warming of 2.1 to 2.9 degrees Celsius by 2100, even in decarbonization scenarios, implies severe climate impacts like extreme heat and water stress. This will require E&P companies to allocate capital to climate resilience strategies, impacting project design and operational continuity. For oilfield services, this may translate to increased costs for operating in challenging environments and potential shifts in demand for specialized equipment to withstand extreme weather.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-09"
+    },
+    {
+      "index": 8,
+      "title": "Sustained global oil demand drives ongoing need for E&P and OFS",
+      "description": "Projections show global oil demand continuing to hold strong, with scenarios indicating it could grow to 108 Mb/d or plateau at 97 Mb/d by 2040, and only decline significantly in a low-carbon scale scenario. This enduring demand for crude oil provides a critical tailwind for upstream E&P activities, ensuring a continuous need for oilfield services, including exploration, drilling, completion, and maintenance.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-09"
+    },
+    {
+      "index": 9,
+      "title": "Natural gas demand shows significant volatility across future energy scenarios",
+      "description": "Natural gas demand is highly sensitive to macroeconomic conditions, national policies, and alternative energy costs, leading to projected swings of approximately 20% in both directions across various scenarios. This volatility introduces uncertainty for gas-directed exploration and production activities, impacting the demand for specialized oilfield services such as gas well drilling, fracking, and related completion services, necessitating adaptability from OFS providers.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-09"
+    },
+    {
+      "index": 10,
+      "title": "Critical mineral supply chain risks, especially copper, impact OFS equipment costs",
+      "description": "The energy transition's demand for critical minerals like copper is growing steadily, with potential supply shortfalls post-2030. For the Oilfield Services sector, copper is a key input for motors, generators, and subsea electrical systems in their equipment. Supply chain risks and rising prices for such critical minerals directly increase the cost of manufacturing and maintaining OFS equipment, potentially impacting profitability and project viability.",
+      "type": "key_risk",
+      "impact_magnitude": "low",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-09"
+    },
+    {
+      "index": 11,
+      "title": "Market favors low-cost, low-emission assets, pressuring marginal OFS operations",
+      "description": "As fossil fuel demand plateaus, the market is increasingly distinguishing between profitable low-cost, low-emission hydrocarbon assets and struggling marginal assets. This shift requires oilfield service providers to focus their capabilities on supporting efficient, environmentally conscious operations. OFS firms serving less competitive or high-emission E&P assets may face reduced demand or pricing pressure, requiring strategic repositioning towards optimizing cost and emissions for their clients.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-09"
+    },
+    {
+      "index": 12,
+      "title": "Decades of exploration deprioritization lead to diluted E&P capability and OFS challenges",
+      "description": "For over a decade, exploration has been deprioritized by E&P companies, resulting in significant headcount reductions and diluted internal capabilities. This trend means geological challenges are increasingly complex, yet the industry lacks the step-change technology advancements seen in previous cycles. This structural shift creates a challenging environment for oilfield services, as fewer, less experienced E&P teams undertake more difficult exploration with reduced capex, impacting demand and project scope.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 13,
+      "title": "E&P consolidation driven by M&A, impacting OFS client landscape",
+      "description": "The oil and gas sector is experiencing significant M&A activity, with US supermajors and large NOCs emerging as consolidators seeking scale and specialized assets. This inorganic competition for tier-1 resources is driven by shortfalls in reserves and underdeveloped exploration capabilities. While M&A can lead to larger, more integrated E&P clients, it also means a shrinking number of independent operators and potentially more centralized procurement, requiring OFS providers to adapt their sales and service strategies.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 14,
+      "title": "India's growing oil & gas demand and refining capacity bolster upstream OFS",
+      "description": "India is the world's third-largest oil consumer, with petroleum product consumption steadily increasing. The country also plans to double its refining capacity to 450-500 MMT by 2030, adding 1 mb/d by 2028. This robust and growing domestic demand for hydrocarbons necessitates continued, if not expanded, upstream E&P activities within India, directly driving demand for oilfield services such as drilling, seismic, and well completion.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 15,
+      "title": "Proprietary data leverage offers competitive edge in exploration for OFS",
+      "description": "Oil and gas companies possess valuable proprietary data, including reservoir, operational, and project execution information, which is particularly underutilized by NOCs. Leveraging this data through internal capabilities or strategic partnerships, especially in exploration, can unlock significant value and competitive advantage. This presents an upside for oilfield service providers that can offer advanced data analytics, interpretation, and integrated digital solutions to help E&P clients optimize their exploration efforts and decision-making.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 16,
+      "title": "Government plans $2.86 billion upstream investment, boosting OFS activity",
+      "description": "The Indian government plans to invest US$ 2.86 billion in upstream oil and gas production, targeting a doubling of natural gas production to 60 BCM and drilling over 120 exploration wells. This direct and substantial government backing for E&P activities creates a strong tailwind for the oilfield services sector. It guarantees increased demand for drilling rigs, well services, seismic operations, and associated equipment and technologies.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 17,
+      "title": "$348-406 billion planned upstream investment for energy security",
+      "description": "India is committed to investing Rs. 30-35 lakh crore (US$ 348-406 billion) in its upstream oil and gas sector by 2035 to enhance energy security and widen crude sourcing. This enormous planned investment, announced by the Union Minister, signals a monumental boost for the oilfield services sector, ensuring long-term, high-magnitude demand for drilling rigs, well services, seismic acquisition, subsea equipment, and all related exploration and production support services.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 18,
+      "title": "Open Acreage Licensing Policy boosts foreign E&P participation",
+      "description": "India's Open Acreage Licensing Policy (OALP) allows explorers to bid for blocks of choice, specifically targeting increased foreign participation from global E&P companies such as Shell, BP, and Conoco Phillips. The launch of the 10th OALP round offering 25 oil and gas blocks signals a proactive effort to attract international investment and expertise into India's upstream sector. This policy creates a significant tailwind for oilfield services by expanding the pool of potential E&P clients and driving new exploration activity.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 19,
+      "title": "National Gas Hydrate Programme explores new energy source, potential OFS demand",
+      "description": "The National Gas Hydrate Programme (NGHP), involving E&P companies and research institutions, aims to map gas hydrates as an alternate energy source. While still in exploratory stages, successful development of gas hydrate extraction technologies would create a significant long-term new opportunity for oilfield service providers. It would require specialized equipment and services for unconventional drilling, subsea operations, and production in this nascent energy frontier.",
+      "type": "upside_driver",
+      "impact_magnitude": "low",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 20,
+      "title": "Indian Oil Corporation (IOCL) plans entry into oil and gas exploration",
+      "description": "Indian Oil Corporation Ltd. (IOCL), traditionally a downstream player, is planning to enter oil and gas exploration as part of a vertical integration strategy. This strategic move introduces a new significant player into the upstream E&P landscape within India. For the oilfield services sector, this represents a potential new, large-scale client and a long-term source of demand for exploration services like seismic, drilling rigs, and well completion as IOCL builds its upstream portfolio.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 21,
+      "title": "Cairn O&G invests $700 million in drilling infrastructure for 100 exploratory wells",
+      "description": "Cairn Oil & Gas is investing US$ 700 million to enhance drilling infrastructure for 100 exploratory wells, including a pilot shale oil/gas project in Rajasthan. This significant capital allocation directly boosts demand for drilling rigs and associated well services from oilfield services providers. Furthermore, the shale pilot project presents a long-term opportunity for specialized drilling and completion technologies, potentially opening a new market segment for OFS in India.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 22,
+      "title": "Gas with CCUS emerging as key power solution, boosting gas E&P",
+      "description": "Gas with Carbon Capture, Utilization, and Storage (CCUS) is gaining traction as a technology-ready and effective power solution, particularly for sectors like data centers. This development encourages continued investment in natural gas exploration and production (E&P) to supply the feedstock for these CCUS-integrated power plants. For oilfield services, this creates an upside by sustaining demand for gas-related drilling, well services, and potentially specialized services for CO2 injection and storage.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-30"
+    },
+    {
+      "index": 23,
+      "title": "Absence of new step-change exploration technologies hindering E&P efficiency",
+      "description": "Unlike previous cycles that benefited from significant technological leaps such as 3D seismic imaging, the current oil and gas industry lacks new step-change advancements in exploration. Digital and AI technologies have yet to deliver transformative innovations in this domain. This absence means E&P activities are less efficient and potentially costlier, directly affecting oilfield service providers by slowing demand for breakthrough solutions and maintaining reliance on established but less impactful technologies.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 24,
+      "title": "India's balanced energy strategy supports natural gas, aiding OFS demand",
+      "description": "India is set to drive 35% of global energy demand growth over the next two decades, pursuing a balanced energy transition that includes significant investment in natural gas, LNG, and hydrogen. While focused on decarbonization, this strategy acknowledges the persistent need for conventional energy sources. The sustained and growing role of natural gas production provides a tailwind for oilfield service providers specializing in gas drilling, well completion, and infrastructure development within India.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 25,
+      "title": "Slow AI adoption in E&P creates efficiency and competitive risks for OFS",
+      "description": "A global survey reveals less than 20% of energy executives see measurable AI impact, citing lack of clear business value and talent shortages. While exploration is identified as an area where technology could unlock significant value, slow AI integration by E&P clients could hinder efficiency gains and competitive advantage. For oilfield service providers, this represents a risk if they cannot effectively leverage digital solutions to improve service delivery or adapt to clients' evolving technological needs.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 26,
+      "title": "Rising domestic crude and natural gas production fuels OFS activity",
+      "description": "India's crude oil production increased to 25.63 MMT in FY26 (April 2025-February 2026), and natural gas output grew by 6.4%. This rise in domestic hydrocarbon production, driven by increasing energy demand, creates a direct tailwind for the oilfield services sector. It signifies ongoing and new E&P projects requiring drilling, well services, production chemicals, and completion activities to sustain and boost output.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 27,
+      "title": "Offshore production constitutes significant share of crude oil, driving specialized OFS demand",
+      "description": "In FY25, offshore fields contributed 53% of India's crude oil production, highlighting a substantial need for specialized oilfield services adapted to marine environments. This includes subsea equipment, offshore drilling rigs, and specialized well services. The continued dominance of offshore production creates a strong upside for OFS providers with expertise and technology in complex deepwater or shallow-water operations.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 28,
+      "title": "$67 billion strategic investment in Indian gas sector boosts OFS",
+      "description": "A strategic investment plan of US$ 67 billion for the Indian gas sector over the next 5-6 years aims to increase natural gas's share in the primary energy mix from 6% to 15%. This significant investment, announced by the Prime Minister, provides a strong tailwind for oilfield services focused on gas exploration and production. It will drive demand for drilling, well completion, and infrastructure development specifically for natural gas assets.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 29,
+      "title": "Essar Oil & Gas commits $100 million to CBM drilling, boosting OFS",
+      "description": "Essar Oil and Gas Exploration & Production Ltd plans to invest US$ 100 million in a new drilling program for its Raniganj East coal bed methane block in West Bengal. This specific investment in drilling activities provides a direct and immediate tailwind for oilfield service providers specializing in drilling rigs and associated well services, indicating localized demand growth within the CBM segment.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 30,
+      "title": "ONGC initiating over 45 exploration and development wells in early 2025",
+      "description": "ONGC's initiation of over 45 exploration and development wells in early 2025 signals a direct and immediate increase in activity within India's upstream oil and gas sector. This significant volume of new wells creates a strong tailwind for oilfield service providers, driving demand for drilling rigs, well services, completion equipment, and production chemicals to support these new and ongoing E&P projects.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 31,
+      "title": "ONGC shifts $24 billion to new energy, potentially impacting traditional OFS",
+      "description": "ONGC plans to invest a substantial US$ 24 billion in new energy and decarbonization projects by 2038, focusing on renewables, green hydrogen, and carbon capture. While positive for the broader energy transition, this significant capital reallocation by India's dominant E&P player could represent a headwind for traditional oilfield services. It suggests a potential diversion of funds and strategic focus away from conventional oil and gas exploration and production activities, which are core to OFS demand.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 32,
+      "title": "Pilot shale oil/gas project indicates future development potential for OFS",
+      "description": "Cairn Oil & Gas's investment includes a pilot project for shale oil/gas in Rajasthan, and ONGC has started shale gas exploration in West Bengal. These initiatives, while currently exploratory, signal the nascent potential for shale hydrocarbon development in India. Should these pilot projects prove successful and scalable, they would create a significant new market opportunity for oilfield services specializing in unconventional drilling techniques, hydraulic fracturing, and specialized well completion services.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 33,
+      "title": "EOR with CCUS presents growth for specialized well services and production chemicals",
+      "description": "Oil and gas companies have long utilized CO2 for Enhanced Oil Recovery (EOR) to increase production from mature reservoirs, positioning them as natural customers for CCUS solutions. The growing momentum of CCUS, driven by demand for cleaner power for data centers, encourages further integration of CCUS with EOR. This presents a specific upside for oilfield service providers offering CO2 injection services, specialized well services, and production chemicals optimized for EOR projects.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-30"
+    },
+    {
+      "index": 34,
+      "title": "India emerges as top M&A target for Middle Eastern acquirers",
+      "description": "India has become the largest outbound M&A market for Middle Eastern acquirers, surpassing the US and UK. Given that oil and gas, energy, and mining sectors form the majority of Middle Eastern deal activity, this trend suggests increased investment by Middle Eastern E&P companies into India's upstream sector. This influx of capital and potential new market entrants represents a significant upside for oilfield services providers in India, leading to new projects and expanded opportunities.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-01-27"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Upstream Exploration in Structural Decline, Not Cyclical Downturn",
+      "description": "The oil and gas exploration sector is experiencing a structural decline, with conventional reserve replacement rates falling significantly. While technical success rates remain stable, too few discoveries convert into investable supply due to barriers like weak fiscal terms or inadequate infrastructure. This suggests a fundamental shift away from broad exploration spending towards highly selective and strategic efforts, impacting demand for oilfield services tied to traditional exploration activity.",
+      "stance": "negative",
+      "source_firm": "Bain",
+      "source_date": "2026-05-04",
+      "source_doc_id": "0778aa63-7aee-53fe-a6e9-cd57c773b5ec"
+    },
+    {
+      "index": 2,
+      "title": "Fossil Fuels to Retain Significant Share of Global Energy Supply by 2040",
+      "description": "Bain's 2026 energy outlook projects that fossil fuels will continue to constitute a substantial portion of global energy supply through 2040, ranging from 67% to 72% under different scenarios. This sustained reliance on hydrocarbons indicates a continuing need for upstream exploration and production activities, which directly underpins demand for drilling rigs, well services, seismic, and subsea equipment provided by oilfield services companies.",
+      "stance": "cautious_positive",
+      "source_firm": "Bain",
+      "source_date": "2026-04-09",
+      "source_doc_id": "7c460a56-8cd1-584c-8197-064dae6da69c"
+    },
+    {
+      "index": 3,
+      "title": "Global Oil Demand Projected to Remain Resilient or Grow Through 2040",
+      "description": "Bain's outlook indicates that global oil demand will not end soon, projecting growth to 108 Mb/d by 2040 in a \"perpetuate present dynamics\" scenario, plateauing at 97 Mb/d in \"divergent pathways,\" and only declining to 80 Mb/d in a \"low-carbon scale\" scenario. This sustained requirement for oil exploration and production provides a fundamental demand driver for oilfield services such as drilling, well completion, and production chemicals in the long term.",
+      "stance": "positive",
+      "source_firm": "Bain",
+      "source_date": "2026-04-09",
+      "source_doc_id": "7c460a56-8cd1-584c-8197-064dae6da69c"
+    },
+    {
+      "index": 4,
+      "title": "Oil & Gas Exploration Requires Rebuilding but Without Significant Capex Increase",
+      "description": "Despite resilient hydrocarbon demand, exploration has been deprioritized for over a decade, leading to diminished internal capabilities and more complex geological challenges. Ramping up exploration will be slow, costly, and competitive, with no expectation of substantial increases in exploration capital expenditure. Success will depend on building high-quality, modern exploration capabilities, suggesting a focus on efficiency and targeted deployment of services rather than broad spending for oilfield service providers.",
+      "stance": "cautious_negative",
+      "source_firm": "Bain",
+      "source_date": "2026-03-31",
+      "source_doc_id": "7ab5bcce-32b5-5c64-9d04-87cb1c59880c"
+    },
+    {
+      "index": 5,
+      "title": "Gas with Carbon Capture (CCUS) is a Technology-Ready Power Solution",
+      "description": "For energy-intensive sectors like data centers, gas with CCUS is identified as a technology-ready solution that performs well across critical criteria such as speed and cost-effectiveness. This approach allows for abated gas power generation, a potentially cleaner alternative to conventional gas. This perspective is positive for the long-term outlook for natural gas production, implying sustained demand for gas drilling and related oilfield services, especially where CCUS integration becomes standard for emissions reduction.",
+      "stance": "positive",
+      "source_firm": "BCG Global",
+      "source_date": "2026-03-30",
+      "source_doc_id": "ad6dfc1f-679f-576f-b4af-b457f2e08106"
+    },
+    {
+      "index": 6,
+      "title": "Oil & Gas Leaders Expect Peak Oil Demand Post-2035",
+      "description": "A growing number of oil and gas executives now anticipate that global peak oil demand will occur in 2035 or later, with a regional variation in outlook. This sentiment suggests a sustained, long-term requirement for hydrocarbon production, offering a positive outlook for upstream exploration and production activities. Consequently, this extended timeline for fossil fuel dominance provides a continued demand horizon for oilfield services, including drilling, well completion, and maintenance.",
+      "stance": "positive",
+      "source_firm": "Bain",
+      "source_date": "2026-03-19",
+      "source_doc_id": "4da31252-7e89-5974-84ba-2eeffb4ee06e"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 25.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing energy demand",
+          "description": "India's energy consumption is rising, requiring increased domestic production."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecasted investment in India's exploration and production (E&P) sector.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 2,
+      "tam_value": 2.86,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Target to double natural gas production",
+          "description": "Government aims to increase natural gas production to 60 BCM."
+        },
+        {
+          "driver": "Increased exploration activity",
+          "description": "Plan to drill over 120 exploration wells."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Government planned investment in upstream oil and gas production.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 100.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government push for energy security",
+          "description": "National policy aims to boost domestic hydrocarbon production."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected investment opportunities in India's Exploration and Production (E&P) sector.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 4.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Enhanced Oil Recovery (EOR)",
+          "description": "Investment in ASP injection to improve recovery rates from existing wells."
+        },
+        {
+          "driver": "Doubling market share",
+          "description": "Aggressive expansion strategy to increase domestic oil and gas output."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Cairn Oil & Gas planned investment for upstream expansion, including ASP injection.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Shale oil/gas exploration",
+          "description": "Investment includes a pilot project for shale, requiring specialized drilling and completion services."
+        },
+        {
+          "driver": "Boosting drilling infrastructure",
+          "description": "General enhancement of drilling capabilities for existing and new exploratory wells."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Pilot project indicating potential for future shale development in India, requiring specialized OFS.",
+          "opportunity": "Shale oil/gas services"
+        }
+      ],
+      "methodology": "Cairn Oil & Gas planned investment in drilling infrastructure for 100 exploratory wells.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": 500.0,
+      "tam_unit": "MMT",
+      "sam_value": null,
+      "as_of_year": 2040,
+      "forecast_cagr": 4.59,
+      "forecast_cagr_period": "FY24-FY40",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rapid economic growth",
+          "description": "India's economic growth increases demand for oil for production and transportation."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected crude oil consumption in India.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "Bain",
+    "BCG Global",
+    "IBEF"
+  ]
+}

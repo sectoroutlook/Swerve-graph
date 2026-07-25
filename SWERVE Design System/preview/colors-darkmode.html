@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: var(--bg); font-family: var(--font-body); padding: 20px; display: flex; flex-direction: column; gap: 8px; }
+.row { display: flex; gap: 10px; flex-wrap: wrap; }
+.swatch { flex: 1; min-width: 72px; border-radius: 8px; overflow: hidden; border: 1px solid rgba(255,255,255,0.06); }
+.swatch-color { height: 44px; }
+.swatch-label { padding: 5px 8px; }
+.name { font-size: 10px; font-weight: 600; color: var(--fg1); }
+.hex  { font-size: 9px; color: var(--fg3); margin-top: 1px; }
+.section-label { font-size: 9px; font-weight: 600; color: var(--fg3); letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 4px; }
+</style>
+</head><body>
+  <div class="section-label">Dark Mode Palette</div>
+  <div class="row">
+    <div class="swatch"><div class="swatch-color" style="background:#aa7bff"></div><div class="swatch-label"><div class="name">Synth Purple</div><div class="hex">#aa7bff</div></div></div>
+    <div class="swatch"><div class="swatch-color" style="background:#6bd6ff"></div><div class="swatch-label"><div class="name">Pulse Blue</div><div class="hex">#6bd6ff</div></div></div>
+    <div class="swatch"><div class="swatch-color" style="background:#e3cfff"></div><div class="swatch-label"><div class="name">Ghost Lilac</div><div class="hex">#e3cfff</div></div></div>
+    <div class="swatch"><div class="swatch-color" style="background:#0e0d11; border-bottom:1px solid rgba(255,255,255,0.1)"></div><div class="swatch-label"><div class="name">Infra Shadow</div><div class="hex">#0e0d11</div></div></div>
+  </div>
+</body></html>

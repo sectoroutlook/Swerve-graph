@@ -1,0 +1,414 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Deep and robust bond market enables India's long-term investment needs",
+      "description": "The development of a deep and robust bond market is paramount for India to achieve its economic aspirations, including a USD 30 trillion economy by 2047. Such a market facilitates efficient allocation of financial resources to productive investments in critical sectors like power, energy, data centers, roads, and railways. It also strengthens public participation in national development, reduces the financing burden on banks, lowers the cost of capital for corporates, and improves overall resource mobilization, thereby supporting a higher and more sustainable growth trajectory.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-27"
+    },
+    {
+      "index": 2,
+      "title": "EM bonds inclusion in global indices boosts foreign investor participation",
+      "description": "Emerging market economies are strengthening macroeconomic buffers, deepening domestic bond markets, and improving market accessibility. This enhances the global attractiveness of local-currency sovereign debt. The inclusion of EM bonds, such as India's, in major global bond indices supports foreign investor participation and structural depth of these markets. However, some EMs still face challenges like shallow domestic markets and high borrowing costs, limiting their ability to issue long-term local currency debt at scale.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-27"
+    },
+    {
+      "index": 3,
+      "title": "Corporate bond market faces challenges despite steady expansion",
+      "description": "India's corporate bond market has grown but remains undersized due to heavy reliance on bank credit and rising investor appetite for equity. Challenges include preference for private placements, limited foreign participation, poor liquidity, regulatory restrictions, and a less competitive tax regime. Measures like simplifying regulatory architecture, support during financial stress, and developing the credit default swap (CDS) market are underway to strengthen it, but these structural issues continue to act as headwinds.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-27"
+    },
+    {
+      "index": 4,
+      "title": "Liquidation dominates CIRP closures, signaling challenges in viable resolutions",
+      "description": "Liquidation continues to be the predominant mode of closure under the IBC, accounting for 33.4% of total admitted CIRPs by March 2026, compared to 15.8% successfully resolved. This indicates that a significant proportion of cases are failing to achieve viable resolutions, often pertaining to legacy-stressed/defunct entities. While resolution-led closures have marginally increased, the dominance of liquidation reinforces concerns about value realization and the effectiveness of the resolution process in rescuing struggling, but potentially viable, businesses.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-25"
+    },
+    {
+      "index": 5,
+      "title": "Elevated yields push NBFCs to reduce reliance on NCDs",
+      "description": "NBFC borrowing costs significantly increased between FY21 and FY26 due to higher interest rates and widening credit spreads. AAA 1-year yields rose to ~7.4% with spreads widening to ~180 bps, while AA and A-rated NBFCs faced even higher spread expansion. This front-loaded rise in short-term yields, combined with elevated yields across sub-AAA segments, has diminished the cost efficiency of bond market borrowings. Consequently, NBFCs are reducing NCD reliance, especially for lower ratings, shifting towards bank borrowings, private placements, and structured funding.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-29"
+    },
+    {
+      "index": 6,
+      "title": "Stricter RBI capital market exposure norms for stockbrokers and CMIs",
+      "description": "RBI's revised Capital Market Exposure (CME) directives, effective April 1, 2026, introduce stringent norms for banks extending credit to Capital Market Intermediaries (CMIs), including stockbrokers. These regulations mandate full collateral coverage (100% for general working capital, 50% for intra-day limits), prohibit financing for proprietary trading (except via fully secured guarantees), and require minimum cash collateral for guarantees (e.g., 50% for MTF, 25% for exchange guarantees). This structural change aims to strengthen risk management and improve financial stability across capital markets.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-18"
+    },
+    {
+      "index": 7,
+      "title": "Regulatory initiatives strengthening India's corporate bond market infrastructure",
+      "description": "India's corporate bond market has seen significant progress due to several regulatory initiatives by SEBI. These measures aim to improve market transparency, reinforce investor confidence, and strengthen market infrastructure. The RBI has also supported the debt market's development. Continued reforms are necessary to enhance market accessibility for both issuers and investors, which will further deepen the market and reduce reliance on bank financing, ultimately contributing to a more efficient capital allocation mechanism.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-27"
+    },
+    {
+      "index": 8,
+      "title": "Strengthening government securities market through active debt management",
+      "description": "India's government securities market is being strengthened by active debt management and increased global integration. Positive developments include limited rollover risks, a well-diversified G-sec maturity profile, and evolving investor participation from insurance companies and provident and pension funds. These improvements contribute to a more robust sovereign debt landscape. However, continued efforts are needed to address limited retail and foreign investor participation and improve secondary market liquidity.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-27"
+    },
+    {
+      "index": 9,
+      "title": "India's inclusion in global bond indices driving foreign investor inflows",
+      "description": "India's inclusion in major global bond indices, such as JPMorgan GBI-EM Global Diversified (June 2024), Bloomberg's EM Local Currency Index (January 2025), and FTSE Russell EM Government Bond Index (September 2025), marks a significant milestone. This inclusion is expected to drive substantial passive inflows from foreign investors, enhancing the structural depth and global attractiveness of India's domestic bond market. This increased integration will likely improve liquidity and access to capital for the Indian sovereign debt market.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-27"
+    },
+    {
+      "index": 10,
+      "title": "Declining recovery rates and prolonged timelines in IBC processes",
+      "description": "The overall recovery rate under the IBC declined to 30.63% in Q4FY26, implying creditors absorb a nearly 69% haircut on admitted claims. Concurrently, delays persist, with nearly 78% of ongoing CIRP cases pending over 270 days by March 2026, and a sustained increase in cases moving to the longest-duration category. This consistent aging of cases and the diminishing recovery rate underscore persistent stress and inefficiencies in the insolvency resolution process, impacting value realization for creditors.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-25"
+    },
+    {
+      "index": 11,
+      "title": "PTCs remain preferred securitisation route, diversifying beyond vehicle loans",
+      "description": "Structurally, Pass-Through Certificate (PTC) transactions are expected to remain the preferred route in the securitisation market due to investors favoring credit-enhanced and transparent structures. While vehicle-backed ABS continues to be a major segment, its dominance may moderate as investor acceptance grows for diversified retail asset classes such as microfinance, gold loans, and unsecured loans. This shift indicates a deepening and broadening of the securitisation market, offering more varied opportunities for originators and investors, supported by improving performance trends and granular pool characteristics.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-10"
+    },
+    {
+      "index": 12,
+      "title": "RBI liberalises acquisition finance, expands bank role in M&A",
+      "description": "RBI's revised Capital Market Exposure (CME) Directions significantly liberalise acquisition finance, allowing eligible domestic corporations to secure bank funding up to 75% of acquisition value. This new framework, effective April 1, 2026, comes with clearer prudential guardrails like consolidated debt-equity thresholds and mandatory unencumbered share-based security. It opens the door for Indian banks to meaningfully participate in high-value acquisition financing, expanding their portfolios and strengthening fee-based income and structured-financing capabilities. This represents a major forward-looking shift in India's regulatory landscape.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-10"
+    },
+    {
+      "index": 13,
+      "title": "Improving debt quality index signals healthier credit markets",
+      "description": "The CareEdge Debt Quality Index (CDQI) consistently rising, reaching 97.15 in April 2026, indicates a sustained improvement in the quality of debt within the Indian financial sector. This upward trend is primarily attributed to an increasing proportion of rated debt moving into higher investment-grade categories. Such an improvement underscores better credit risk profiles and enhanced financial health of companies, leading to a more robust and resilient debt market. This positive development supports investor confidence and efficient capital allocation.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-29"
+    },
+    {
+      "index": 14,
+      "title": "Global financial tightening and high debt levels intensify affordability concerns",
+      "description": "The global economy faces macro-financial risks including geopolitical tensions, fragmented trade, and volatile capital flows. Total global debt remains historically elevated at 246% of global GDP by Q3 2025. Renewed financial tightening intensifies concerns about debt affordability, with likely spillover effects on broader financial markets. Sovereign debt is seeing the steepest increase, with rising interest burdens as low-cost debt matures and refinances at higher market yields. This poses significant refinancing risks and yield volatility.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-27"
+    },
+    {
+      "index": 15,
+      "title": "IBC amendments enhance creditor primacy and address resolution delays",
+      "description": "The IBC (Amendment) Act, 2026, introduces structural changes to improve India's insolvency resolution. Key reforms include extending creditor primacy beyond CIRP into liquidation, enhancing CoC supervision, and separating resolution and liquidation roles. These changes aim to improve commercial decision-making, boost recovery rates, and address persistent delays through time-bound appeal disposal. Reduced voting thresholds for Pre-Packaged Insolvency Resolution Processes and decriminalization of technical lapses also enhance legal certainty and align the framework with global best practices for debt resolution.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-25"
+    },
+    {
+      "index": 16,
+      "title": "Narrowing WALR-bond yield differential re-anchors corporate borrowing to banks",
+      "description": "The divergence between rapidly repriced capital market yields and slower adjusting bank Weighted Average Lending Rates (WALR) has significantly narrowed the WALR–bond yield differential. This has eroded the traditional cost advantage of Non-Convertible Debentures (NCDs), particularly for lower-rated issuers. Consequently, corporates and NBFCs are increasingly favoring bank funding over capital market issuance. This re-anchoring of borrowing towards banks represents a structural shift influenced by market volatility and funding certainty, concentrating credit and duration risk on bank balance sheets.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-29"
+    },
+    {
+      "index": 17,
+      "title": "InvITs' reliance on bank loans limits bond market penetration",
+      "description": "InvITs' borrowing mix shows a clear reliance on bank term loans, accounting for nearly two-thirds of total borrowings by March 31, 2025. Bond issuances, despite gradual progress, represent only about 20% of the combined debt. This highlights an underpenetrated capital market base for InvITs even as these platforms mature. The heavy dependence on banks limits the diversification of funding sources for InvITs and points to a missed opportunity for deepening the fixed income market for infrastructure financing.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-19"
+    },
+    {
+      "index": 18,
+      "title": "SEBI proposes regulatory changes to ease InvIT operational bottlenecks",
+      "description": "SEBI's consultation paper of February 2026 proposes structural changes to InvIT regulations aimed at clearing operational bottlenecks. This includes broadening the SPV definition to allow InvITs to hold entities post-concession expiry, expanding eligible liquid mutual fund schemes (Class A-I and B-I), aligning private InvIT investment in greenfield projects with public InvITs (up to 10% of asset value), and expanding permitted uses of fresh borrowings when leverage exceeds 49%. These reforms intend to reduce friction, broaden investment options, and align financing tools with infrastructure asset lifecycles.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-01"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "CareEdge Debt Quality Index shows improving debt quality in India",
+      "description": "The CareEdge Debt Quality Index (CDQI) has maintained an upward trajectory since November 2021, reaching 97.15 in April 2026 from 96.89 in March 2026. This upward movement signifies an improvement in the overall quality of debt in the Indian financial sector, primarily driven by a greater proportion of rated debt falling into higher investment-grade categories. This trend suggests healthier debt and credit markets in India, benchmarked against a base year of FY12, and provides a near-real-time indicator of market health.",
+      "stance": "positive",
+      "source_firm": "CareEdge",
+      "source_date": "2026-05-29",
+      "source_doc_id": "28b10554-9cc5-5992-9aa9-9f7e2bdae99c"
+    },
+    {
+      "index": 2,
+      "title": "Robust bond market crucial for India's growth and financial system resilience",
+      "description": "India's aspiration for a USD 30 trillion economy by 2047 necessitates a deep, resilient, and diversified financial system, with the bond market playing a pivotal role. A robust bond market is essential for supporting large-scale, long-term investments in critical sectors and strengthens public participation. It facilitates efficient resource allocation, reduces the financing burden on the banking sector, lowers the cost of capital, and improves resource mobilisation for sustainable growth.",
+      "stance": "positive",
+      "source_firm": "CareEdge",
+      "source_date": "2026-05-27",
+      "source_doc_id": "c21bf770-7c2b-5304-8fbf-e159a6fcaa9f"
+    },
+    {
+      "index": 3,
+      "title": "India's bond market undersized, yet structural improvements enhance government securities",
+      "description": "India's bond market, though smaller than global peers, is crucial for its economic goals, dominated by government securities (55.4% of GDP). Active debt management and global integration have improved the government debt landscape, offering limited rollover risks and diversified G-sec maturity. However, challenges persist with limited retail and foreign investor participation, low secondary-market trading, and underdeveloped sub-sovereign debt, indicating a need for further strengthening and alignment with global best practices.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge",
+      "source_date": "2026-05-27",
+      "source_doc_id": "c21bf770-7c2b-5304-8fbf-e159a6fcaa9f"
+    },
+    {
+      "index": 4,
+      "title": "IBC amendments aim to strengthen resolution, address delays and improve recovery outcomes",
+      "description": "The IBC remains central to India's resolution ecosystem, with the IBC (Amendment) Act, 2026, introducing key reforms. These include extending creditor primacy to liquidation, enhancing CoC supervision, and separating resolution/liquidation roles to improve commercial decision-making and recoveries. Amendments also propose time-bound disposal of appeals and reduced voting thresholds for Pre-Packaged Insolvency Resolution Processes, aiming to enhance legal certainty and align with global best practices despite continued challenges in resolution timelines.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge",
+      "source_date": "2026-05-25",
+      "source_doc_id": "70d3efeb-954e-5fd3-b929-4359c9c134c8"
+    },
+    {
+      "index": 5,
+      "title": "Financial creditors increasingly drive insolvency filings, showcasing IBC as key resolution framework",
+      "description": "In FY26, financial creditors continued to account for the largest share of insolvency filings, with 4,314 cumulative cases by FY26, followed by operational creditors (4,105 cases) and corporate debtors (558 cases). This trend signifies the increasing institutionalization and wider acceptance of the Insolvency and Bankruptcy Code (IBC) as a creditor-driven resolution framework in India. Despite fresh admissions being lower than historical highs, the cumulative number of admitted cases reflects the continued expansion of the insolvency resolution ecosystem and reliance on this mechanism for debt resolution.",
+      "stance": "positive",
+      "source_firm": "CareEdge",
+      "source_date": "2026-05-25",
+      "source_doc_id": "70d3efeb-954e-5fd3-b929-4359c9c134c8"
+    },
+    {
+      "index": 6,
+      "title": "India's InvITs AUM to grow significantly, though bond market share remains moderate",
+      "description": "India's Infrastructure Investment Trusts (InvITs) have seen robust growth, with AUM doubling from ~Rs 3.0 lakh crore in FY22 to ~Rs 6.25 lakh crore by FY25. CareEdge Ratings projects AUM to reach Rs 7.25-7.50 lakh crore by FY26, driven by portfolio expansion in roads, transmission, warehousing, and renewables. However, bond market participation is expected to remain moderate, with Non-Convertible Debenture (NCD) issuance constituting only ~20% of the estimated outstanding debt for FY26, highlighting an underpenetrated capital market base despite platform maturity.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-03-19",
+      "source_doc_id": "1e5065ac-f786-5c41-aca5-41cebdf469ca"
+    },
+    {
+      "index": 7,
+      "title": "SEBI proposals aim to resolve InvIT operational bottlenecks and broaden investment scope",
+      "description": "SEBI's February 2026 consultation paper proposes amendments to InvIT regulations to clear operational bottlenecks and enhance investor safeguards. Key proposals include broadening the SPV definition for continued holding post-concession, expanding investment scope in liquid mutual funds to Class A-I and B-I, aligning private InvIT greenfield investment with public InvITs (10% of asset value), and expanding permitted use of fresh borrowings when net borrowings exceed 49% of asset value. These clinical fixes aim to reduce friction and broaden investable options for InvITs.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-03-01",
+      "source_doc_id": "cd5e5f54-bfc9-5584-9790-7fb05fd88f0c"
+    },
+    {
+      "index": 8,
+      "title": "Divergence in yields favors bank lending over bond and money markets",
+      "description": "Rising capital market yields have tightened financial conditions faster than bank lending rates, creating a divergence. This encourages corporates and NBFCs to substitute bond and money-market borrowing with bank credit. While AAA issuers still retain some cost advantage in bonds, the differential against bank loans has significantly narrowed. For A-rated issuers, bond borrowing has become costlier than bank loans, making bank funding relatively more competitive. This shift is influenced by higher volatility and faster repricing in market yields compared to stickier bank rates.",
+      "stance": "neutral",
+      "source_firm": "CareEdge",
+      "source_date": "2026-04-29",
+      "source_doc_id": "b479340f-5018-5bcd-9f69-cb23df4e670d"
+    },
+    {
+      "index": 9,
+      "title": "RBI capital market exposure directives to reshape stockbroker funding and risk management",
+      "description": "The RBI's revised Capital Market Exposure (CME) directives, effective April 1, 2026, will significantly impact stockbrokers. They mandate full collateralization (100% for credit facilities, 50% for intra-day limits, guarantees for MTF), prohibit finance for proprietary trading, and require minimum cash collateral for guarantees. This is expected to increase funding costs and potentially reduce revenue and profitability, especially for proprietary trading firms and mid-sized brokers. The directives aim to strengthen risk management and financial stability, possibly leading to industry consolidation.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge",
+      "source_date": "2026-03-18",
+      "source_doc_id": "d6331f65-b929-5ce9-8d3f-d018094f3a35"
+    },
+    {
+      "index": 10,
+      "title": "Retail asset securitisation dips in FY26, but strong fundamentals promise future growth",
+      "description": "India's retail asset securitisation market saw its first annual decline since the pandemic in FY26, with volumes down 6% to Rs 2.53 lakh crore, mainly due to larger originators having comfortable liquidity. However, Q4FY26 showed a pickup driven by PSL requirements, microfinance, and gold loan-backed securitisation. CareEdge Ratings projects robust growth beyond FY26, citing strong market fundamentals, investor confidence, and India's resilient economic growth. PTCs are expected to remain preferred for their credit-enhanced structures, with increasing diversification beyond vehicle loans.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-10",
+      "source_doc_id": "0f6953e9-7b46-5629-b5e2-52d3915c5d0a"
+    },
+    {
+      "index": 11,
+      "title": "RBI's revised CME framework to expand bank role in M&A and market credit",
+      "description": "The RBI's revised Capital Market Exposure (CME) Directions, effective April 1, 2026, introduce a modernised framework that liberalises acquisition finance and updates loan-against-securities norms. Banks can now fund up to 75% of acquisition value for eligible domestic corporations with prudential guardrails. This framework aims to expand the domestic banking sector’s role in M&A financing and market-linked credit, while simultaneously strengthening risk discipline through rigorous collateral and exposure requirements for capital market intermediaries, and improving clarity and certainty in capital market transactions.",
+      "stance": "positive",
+      "source_firm": "CareEdge",
+      "source_date": "2026-03-10",
+      "source_doc_id": "19fd1487-0b5c-5795-b723-bc5445c5e910"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 60.55,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The volume of outstanding debt rated for a sample of 1,685 companies from CareEdge's portfolio of 2,980 companies as of March 2012, revisited regularly with suitable replacements.",
+      "source_firm": "CareEdge",
+      "source_date": "2026-05-29",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 645.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Stated market size as of September 2025, also cited as roughly 17% of India's GDP.",
+      "source_firm": "CareEdge",
+      "source_date": "2026-05-27",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 2.74,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Priority Sector Lending (PSL) requirements",
+          "description": "Year-end surge in securitisation activity driven by the need to meet PSL targets."
+        },
+        {
+          "driver": "Improving microfinance volumes",
+          "description": "Growth in microfinance asset pools available for securitisation."
+        },
+        {
+          "driver": "Renewed investor interest in gold loan-backed securitisation",
+          "description": "Increased demand for gold loan securitisation, particularly in H2 FY26."
+        },
+        {
+          "driver": "Robust pool performance and investor confidence",
+          "description": "Sustained confidence in the quality and returns of securitised asset pools."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "On-balance-sheet liquidity of large originators",
+          "description": "Comfortable liquidity reduced urgency for larger originators to offload assets, leading to a slowdown."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Growing investor acceptance of microfinance, gold loans, and unsecured loans beyond traditional vehicle loans, offering new segments for securitisation.",
+          "opportunity": "Diversification of retail asset classes"
+        }
+      ],
+      "methodology": "CareEdge Ratings' estimates for total securitisation volume in FY26, including Pass-Through Certificate (PTC) issuances, Direct Assignment (DA) transactions, and wholesale loan securitisation.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-10",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 7.25,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Portfolio expansion across infrastructure sectors",
+          "description": "Growth driven by new assets in roads, transmission, warehousing, and renewable energy sectors."
+        },
+        {
+          "driver": "Strong National Monetisation Pipeline-II (NMP-II)",
+          "description": "Government's pipeline of monetisable infrastructure assets providing growth opportunities for InvITs."
+        },
+        {
+          "driver": "Increasing activity on transmission and warehousing platforms",
+          "description": "Growing investments and operationalization in these specific infrastructure segments contributing to InvIT AUM."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Potential for InvITs to diversify beyond current heavy concentration in telecom and roads into other infrastructure segments.",
+          "opportunity": "Sectoral diversification"
+        }
+      ],
+      "methodology": "CareEdge Ratings' projection for InvIT Assets Under Management (AUM) by FY26, based on past growth (doubled from FY22-FY25) and expected portfolio expansion across various infrastructure sectors.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-03-19",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Bond issuances currently constitute only ~20% of InvITs' combined debt, indicating an underpenetrated capital market base despite platform maturity, presenting significant growth potential.",
+          "opportunity": "Increased bond market participation for InvITs"
+        }
+      ],
+      "methodology": "Forecasted share of Non-Convertible Debenture (NCD) issuance in the estimated outstanding debt for InvITs.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-03-19",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "CareEdge",
+    "CareEdge Ratings",
+    "KPMG"
+  ]
+}

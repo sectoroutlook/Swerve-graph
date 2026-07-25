@@ -1,0 +1,701 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Megaproject Cost and Schedule Overruns",
+      "description": "Megaprojects, particularly large-scale energy infrastructure like nuclear plants, systematically face significant cost and schedule overruns, with approximately 50% cost overruns being common. Starting construction without an execution-ready design and stable approvals can lead to extensive rework, approval bottlenecks, and multiyear delays. Supply chain and workforce bottlenecks, such as module fabrication and critical component quality, can disrupt the entire critical path, highlighting poor predictability in complex EPC endeavors.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 2,
+      "title": "Repeatable Designs and Industrialized Delivery for Project Success",
+      "description": "Implementing repeatable designs, sequential delivery, and industrialized supply chain planning can materially improve predictability in megaprojects. Adopting a programmatic approach that sequences multiunit builds, replicates designs, and modularizes components sustains learning curves, retains productive crews, and stabilizes supplier performance. This includes securing long-lead components early, qualifying vendors to specific standards, and providing multiyear demand visibility, all of which unlock capacity investment and improve project execution.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 3,
+      "title": "Electronics Component Supply Chain Quality Certification Barrier",
+      "description": "Achieving market access in high-value electronics segments like automotive, aerospace, defense, and medical devices requires stringent quality certifications (e.g., IATF 16949, AS9100D, ISO 13485). Obtaining and maintaining these standards typically demands 3-7 years of sustained investment per facility in equipment, processes, and trained personnel. India's current depth in these certifications is thin compared to global hubs, posing a significant barrier for its EMS supply chain to capture higher-value segments required by industrial and defense sectors.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 4,
+      "title": "India-EU Trade Agreement Boosting Capital Goods Imports",
+      "description": "India's trade agreement with the EU, which reduces tariffs on nearly 97% of EU exports, offers easier access to high-value goods such as advanced machinery, specialized equipment, cutting-edge technology, and critical industrial inputs. This is expected to strengthen India's manufacturing base by enabling higher efficiency, lower production costs, and better quality standards for Indian manufacturers. The deal will allow Indian businesses greater exposure to global production practices and technology standards, enhancing long-term competitiveness in the capital goods sector.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 5,
+      "title": "Import Dependence and Fragmented Ecosystem for Electronics Manufacturing",
+      "description": "India's electronics sector faces significant competitiveness constraints due to heavy dependence on imports for critical components like PCBs, sensors, and advanced displays, leading to increased costs and supply-chain vulnerability. This reliance results in high embedded import content, limiting domestic value capture. Furthermore, the electronics supply base is thin and fragmented, lacking the clustered ecosystems seen in China and Japan, which constrains cost compression, rapid scaling, and reliable upstream sourcing for industrial applications.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 6,
+      "title": "Government Schemes and Incentives Driving E-Bus Adoption",
+      "description": "Successive government schemes like FAME I, FAME II, PM-eBus Sewa, and PM E-DRIVE have progressively evolved to address operational challenges in e-bus adoption, moving from outright purchases to Gross Cost Contract models and centralizing procurement. These initiatives, complemented by state-level incentives (subsidies, tax exemptions, preferential electricity tariffs), aim to reduce the total cost of ownership (TCO) and de-risk operator economics. This coordinated policy framework is a major tailwind for electrification in road transport services and bus manufacturing.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 7,
+      "title": "Persistent Deployment Bottlenecks for Electric Buses",
+      "description": "Despite aggressive tendering, the actual deployment of e-buses in India has been slower than anticipated, with only 16,300 deployed by March 2026 out of 46,000 awarded tenders. This gap is due to critical challenges including heavy OEM dependence on global supply chains for components (batteries, motors), manufacturing capacity constraints, and inadequate depot and charging facilities. Delayed payments from State Transport Undertakings to operators further heighten financial risk, impeding large-scale rollout and supply chain stability for bus manufacturers.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 8,
+      "title": "Shift to Asset-Light Models for E-Bus Adoption",
+      "description": "Innovative, asset-light business models are emerging to address the high upfront costs, battery lifecycle management, and technology risks associated with e-bus adoption, particularly for private operators. Models like Battery-as-a-Service (BaaS) decouple battery ownership from the vehicle, reducing initial capital intensity. Operating leases, where specialized platforms own buses and lease them long-term, shift residual value and technology risk away from operators. This transition makes e-bus adoption more commercially viable, accelerating fleet electrification without heavy capital expenditure.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 9,
+      "title": "Inflationary Pressures and Supply Chain Disruption Impacting Infrastructure",
+      "description": "Rising costs and inflationary pressures are identified as the biggest threat to growth for infrastructure and transport CEOs (79%), leading to increased project expenses, delays, and margin compression. Supply chain resilience is the primary short-term decision driver (33%), reflecting the continued impact of fragmented, unstandardized, and misaligned global supply chains. Geopolitical uncertainty, trade policies, and resource scarcity exacerbate these issues, compelling companies to invest more in resilience and manage volatile conditions affecting raw materials and finished goods.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 10,
+      "title": "Declining Willingness to Pay for Green Shipping Solutions",
+      "description": "Cargo owners' willingness to pay (WTP) a premium for low-carbon fuels in maritime shipping has dropped markedly from 4.5% in 2024 to 3% in 2025. This decline, combined with cost pressures and regulatory uncertainty, prevents green fuel sales from reaching volumes needed to narrow the price gap with fossil fuels. The WTP is becoming more selective and is impacted by high low-carbon fuel costs relative to benefits, reducing incentives for carriers to commit to more expensive green solutions.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-30"
+    },
+    {
+      "index": 11,
+      "title": "AI as a Critical Enabler for Aerospace & Defense Efficiency",
+      "description": "AI is emerging as a critical enabler for the aerospace and defense industry to achieve significant improvements in cost, schedule, and quality targets. Real-world applications include AI-enabled supplier risk management, improving on-time delivery by 45%. AI agents for planning and simulation can reduce engineering effort by 40% and cut lead times by 75%. In MRO, AI tools can reduce technician time on search and administrative tasks by around 40%, driving performance impact and reshaping operational models.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-23"
+    },
+    {
+      "index": 12,
+      "title": "Aging Infrastructure and Capacity Strain in Airports",
+      "description": "Airports worldwide face significant operational challenges due to aging infrastructure, delays in new terminal/runway projects, and rising costs driven by labor shortages and increased passenger expectations. Fragmented planning among stakeholders and congestion leading to missed connections exacerbate these issues. This capacity strain means airports struggle to meet demand, requiring substantial investment in upgrades and modernization efforts to maintain service levels and accommodate growth, creating a critical operational and financial headwind for aviation services.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-20"
+    },
+    {
+      "index": 13,
+      "title": "Massive Investment and Modernization in Rail Infrastructure",
+      "description": "The Indian Railways sector is undergoing massive investment and modernization, with a record capital expenditure of US$32.56 billion in FY27 and a projected US$715.41 billion investment in rail infrastructure by 2030. This includes plans for 260 Vande Bharat sleeper trainsets and four new High-Speed Rail corridors. Public-Private Partnerships, like the Madhepura electric locomotive factory, are strengthening domestic manufacturing and freight haulage capacity, creating significant opportunities for industrial machinery and rail service operators.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 14,
+      "title": "Growth in Aviation MRO Demand and Indigenous Production",
+      "description": "The Indian aviation sector anticipates a demand for over 2200 aircraft by 2042, significantly boosting Maintenance, Repair, and Overhaul (MRO) activities, which currently account for 12-15% of total aviation revenue. Government incentives, including budget allocations and the goal of creating a global MRO hub for high-end drones, are propelling this growth. Coupled with increasing FDI and a strong push for indigenous defence production, this creates a substantial tailwind for aerospace and defense manufacturers and service providers.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 15,
+      "title": "Low AI Investment and Skills Gap in Infrastructure Sector",
+      "description": "The infrastructure and transport sector lags significantly in AI investment, with only 58% of CEOs planning to allocate 10-20% of their budgets to AI, the lowest among all surveyed sectors. Despite recognizing AI's potential, executives lack confidence in keeping pace with its evolution. Major obstacles to AI adoption include insufficient regulation (60%), ethical challenges (58%), and data readiness (49%). This investment gap and the struggle to attract AI talent pose a significant headwind to digital transformation and efficiency gains.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 16,
+      "title": "Aging Global Shipping Fleet Increasing M&R Costs",
+      "description": "The global shipping fleet is significantly aging, with the average vessel age reaching 13 years in 2024—the highest on record and 2-3 years older than a decade ago. This trend is expected to increase the importance and costs associated with maintenance and repair (M&R) and drydocking, especially as vessels enter their third drydocking cycle. Companies must rethink processes, adopting intelligent drydocking schedules, bundled repair campaigns, predictive maintenance, and data-driven spare-parts forecasting to mitigate rising operational expenses.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-28"
+    },
+    {
+      "index": 17,
+      "title": "Flexible Labor Markets and Innovation Ecosystems Driving Competitiveness",
+      "description": "A flexible labor market, characterized by high labor force participation and reemployment rates, coupled with robust skilling and retraining infrastructure, fosters an environment conducive to business scaling and risk-taking. Simultaneously, a strong innovation ecosystem, with high R&D intensity (3.57% of GDP in Sweden) and support for industry-university projects and early-stage tech ventures, drives continuous innovation. These structural factors are critical for producing corporate champions and ensuring long-term competitiveness in industrial sectors.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-21"
+    },
+    {
+      "index": 18,
+      "title": "Government Policy and Infrastructure Development Driving Manufacturing Growth",
+      "description": "India's manufacturing sector is experiencing robust growth driven by targeted policy incentives, such as Production Linked Incentive (PLI) schemes with significant outlays, which attract investments and promote scaling. Alongside this, continuous infrastructure and cluster development are enhancing industrial efficiency and connectivity. A strong focus on technology adoption and high-value manufacturing, combined with tax reforms and supply chain strengthening, is boosting the ease of doing business and export growth, positioning manufacturing as a key economic pillar.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 19,
+      "title": "Liberal Policy Regime for Capital Goods Sector",
+      "description": "India's capital goods sector benefits from a highly liberal policy regime, including de-licensed operations, 100% Foreign Direct Investment (FDI) under the automatic route (except from land-border nations), and unrestricted technology transfer payments. The National Capital Goods Policy aims to significantly boost the sector's manufacturing share and exports while advancing technology capabilities. The Phase-II Capital Goods Competitiveness Scheme further supports common technology infrastructure, creating a favorable environment for growth and investment in industrial machinery and equipment.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 20,
+      "title": "Automation and Machine Tools Driving Industrial Productivity",
+      "description": "The emerging trend of automation, coupled with the growing utilization of machine tools, is a primary driver for enhancing overall productivity and improving efficiency across various industrial products in India. The Indian automated material handling market is projected to grow significantly at a CAGR of 12.7% from 2025-2030, reflecting increasing investment in technologies that streamline operations and reduce manual intervention. This focus on automation represents a strong tailwind for industrial machinery and equipment manufacturers.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Repeatable Project Delivery Key to Megaproject Success in Industrials",
+      "description": "Bain emphasizes that predictable delivery in complex capital programs, like nuclear megaprojects, is achievable by systematically building success elements into the program from the outset and managing them throughout execution. The highest-performing sponsors act as delivery architects, setting operating models, enforcing readiness gates, integrating contractor interfaces, and maintaining configuration discipline. This approach, which focuses on optimizing for the global outcome rather than individual workstreams, creates a repeatable formula transferable across various industrial sectors, despite cultural differences.",
+      "stance": "positive",
+      "source_firm": "bain",
+      "source_date": "2026-06-01",
+      "source_doc_id": "61681d54-88dc-5308-8a5e-fba3c5428922"
+    },
+    {
+      "index": 2,
+      "title": "India's E-Bus Electrification Poised for High-Growth Phase",
+      "description": "KPMG asserts that India's electric bus market is entering a high-growth phase, fueled by government mandates and strategic imperatives for decarbonization. Public sector adoption, driven by schemes like FAME and PM-eBus Sewa, has spearheaded initial growth, with TCO parity achieved for intracity operations. The report highlights the evolving ecosystem, with new players, innovative financing models, and OEM capacity expansion, positioning e-buses at the core of sustainable mobility in India.",
+      "stance": "positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-05-01",
+      "source_doc_id": "8a9d3479-5d4f-53bf-850a-c074b05e9fac"
+    },
+    {
+      "index": 3,
+      "title": "Infrastructure and Transport CEOs Optimistic on Growth, AI, and Sustainability",
+      "description": "KPMG's survey reveals strong optimism among Infrastructure and Transport CEOs regarding their sector's and company's growth prospects, with 84% confident in sector growth. While AI is a top investment priority for 70% of CEOs, the sector lags in budget allocation and confidence in keeping pace with AI's rapid evolution. Sustainability is front of mind, yet execution gaps persist in integrating sustainability into capital investment decisions, presenting both opportunities and challenges for the sector.",
+      "stance": "cautious_positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-05-01",
+      "source_doc_id": "96da51e7-fbdb-5f8c-925b-26e908cdd84e"
+    },
+    {
+      "index": 4,
+      "title": "AI Crucial for Megaproject Execution and Risk Management in Industrials",
+      "description": "KPMG emphasizes AI's pivotal role in accelerating project execution and enhancing the predictability of costs and risks in complex, multi-phased megaprojects. AI achieves this through process standardization, readiness validation, systematic application of lessons learned, and improved supply-chain leverage. Despite the infrastructure and transport sector generally lagging in AI investment, the maturity of AI now positions it as a powerful enabler to unlock significant economic benefits and improve overall project performance in large-scale industrial endeavors.",
+      "stance": "positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-05-01",
+      "source_doc_id": "96da51e7-fbdb-5f8c-925b-26e908cdd84e"
+    },
+    {
+      "index": 5,
+      "title": "Low-Carbon Shipping Faces Cost Hurdles, Requires Strategic Adaptation",
+      "description": "BCG notes that low-carbon shipping has entered an era where ambition is tempered by cost pressure, uncertainty, and sharper prioritization. While opportunities remain, players are unwilling or unable to absorb higher costs, and willingness to pay (WTP) for green fuels has declined. Carriers need a clear strategy combining efficiency, commercial clarity, and risk management, alongside deep customer insights and strong unit economics, to reap benefits from the evolving low-carbon shipping landscape.",
+      "stance": "cautious_positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-04-30",
+      "source_doc_id": "08d80d66-5266-5a57-8f61-7efd354efc9b"
+    },
+    {
+      "index": 6,
+      "title": "Manufacturing Technology Ready, but Manufacturers Lag in Adoption",
+      "description": "Bain's analysis from Hannover Messe 2026 highlights that Industry 4.0 technology, including AI and automation, is largely mature and ready for adoption. However, most manufacturers are still stuck in piloting stages, failing to achieve scale due to the absence of coherent production systems and organizational alignment. The report stresses that while AI offers significant productivity gains (20-30%) when applied end-to-end, its deployment remains fragmented, and proven technologies are underused, preventing full transformation.",
+      "stance": "cautious_negative",
+      "source_firm": "bain",
+      "source_date": "2026-04-29",
+      "source_doc_id": "eea7040b-a5ff-59bf-8185-fe0afd54953d"
+    },
+    {
+      "index": 7,
+      "title": "AI Is a Critical Enabler for Aerospace and Defense Industry",
+      "description": "BCG asserts that AI is emerging as a critical enabler for the aerospace and defense industry to achieve step changes in cost, schedule, and quality targets amidst tight margins and delivery pressures. Despite uneven progress and internal challenges like risk aversion and fragmented data, leading companies are scaling AI through enterprise-wide approaches to address systemic operational issues. The report highlights AI's potential to drive structural change, enabling suppliers to execute programs faster and more reliably.",
+      "stance": "positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-04-23",
+      "source_doc_id": "57b8195c-a1d8-5f09-9ad2-f0d7f9efc8d9"
+    },
+    {
+      "index": 8,
+      "title": "Sweden's Industrials Outperform with Innovation and Flexible Labor",
+      "description": "BCG identifies Sweden as a standout example in European competitiveness, with its industrials sector demonstrating world-class innovation and global export capabilities. Swedish public companies achieved a median annualized Total Shareholder Return (TSR) of close to 9% over the past decade, driven by practical policy and market design choices. Key factors include a flexible labor market designed for mobility, a robust innovation ecosystem with high R&D intensity (3.57% of GDP), and strong private capital investment, fostering corporate champions.",
+      "stance": "positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-04-21",
+      "source_doc_id": "5590b470-1c5a-57fe-b51e-53294426c4af"
+    },
+    {
+      "index": 9,
+      "title": "AI Adoption in Airports Challenged by Capacity Strain, Fragmentation",
+      "description": "BCG notes that airports globally face significant challenges from surging passenger volumes, strained capacity due to labor shortages, and delayed infrastructure projects. While many airports are attempting AI and digital upgrades, most struggle to scale initiatives effectively due to fragmented planning, congestion, and aging infrastructure. However, AI-leading airports are excelling by deploying integrated, AI-based operations control centers with shared data and predictive intelligence to optimize performance and generate new revenue streams.",
+      "stance": "cautious_negative",
+      "source_firm": "bcg_global",
+      "source_date": "2026-04-20",
+      "source_doc_id": "4abf416b-35b6-5a79-a8b3-c07fa51b9136"
+    },
+    {
+      "index": 10,
+      "title": "India's Manufacturing Sector Positioned for Robust Growth and Global Hub Status",
+      "description": "IBEF highlights India's manufacturing sector as a pillar for economic growth, generating around 17% of GDP and projected to be one of the fastest-growing sectors. With GVA growth accelerating to 9.13% in Q2 FY26 and economic output reaching Rs. 51.52 lakh crore, India demonstrates strong competitiveness. Government initiatives like PLI schemes, combined with a large workforce, are driving investment, boosting exports, and positioning India as a potential global manufacturing and export hub, particularly in areas like wind power components.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "source_doc_id": "8e4bdf71-6094-5617-a660-e9adc6c1094d"
+    },
+    {
+      "index": 11,
+      "title": "Indian Capital Goods and Engineering Industry Shows Strong Growth Momentum",
+      "description": "IBEF reports that India's Capital Goods manufacturing industry provides a strong base for various sectors and contributes 1.9% to the GDP. The sector is experiencing robust growth, with capital goods IIP growing by 8.1% YoY in December 2025, reflecting improved investment activity. Production surged from US$27.2 billion in CY15 to US$50.7 billion in CY24. The electrical equipment market is forecasted to reach US$125 billion by 2027, driven by significant incremental growth and a favorable policy regime.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "source_doc_id": "d9e9c289-f4b7-58ef-9f0b-4628afbd23df"
+    },
+    {
+      "index": 12,
+      "title": "India's Defence Manufacturing Poised for Significant Growth and Indigenization",
+      "description": "IBEF presents a positive outlook for India's defence manufacturing industry, targeting US$34.7 billion in production by FY29 and US$5.63 billion in exports by 2029. Defence exports have surged significantly, reaching US$2.8 billion in FY25. Backed by substantial government budget allocations (US$88.7 billion in FY27), increased FDI (up to 74% automatically), and initiatives like DAP-2026, the sector is focused on reducing import dependence, promoting exports, and fostering R&D, strengthening domestic capabilities.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "source_doc_id": "eccebfca-b2ba-5d69-87f8-8e367220812a"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 6.75,
+      "forecast_cagr_period": "2025-2030s",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Expansion of Connected Devices",
+          "description": "Proliferation of smartphones, laptops, and IoT-enabled industrial systems drives demand for electronics manufacturing capacity."
+        },
+        {
+          "driver": "Electrification and Automation",
+          "description": "Increasing electrification across automotive, energy, and manufacturing sectors expands demand for electronic components and systems."
+        },
+        {
+          "driver": "OEM Outsourcing",
+          "description": "OEMs increasingly outsource manufacturing to EMS providers to maintain flexibility and reduce capital investment as products become more complex."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The global Electronic Manufacturing Services (EMS) market was estimated at USD640–650 billion in 2025 and is projected to exceed USD1 trillion by the early 2030s, indicating a compound annual growth rate (CAGR) of roughly 6.5–7 percent. This growth is driven by the expansion of connected devices, increased electrification and automation in various industries, and the trend of OEMs outsourcing manufacturing.",
+      "source_firm": "kpmg",
+      "source_date": "2026-06-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 45.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 25.0,
+      "forecast_cagr_period": "FY25-FY30",
+      "historical_cagr": null,
+      "historical_cagr_period": "FY20-FY25",
+      "demand_drivers": [
+        {
+          "driver": "Domestic Demand",
+          "description": "Strong internal consumption drives the need for electronic products and components."
+        },
+        {
+          "driver": "Export Growth",
+          "description": "Increasing electronics exports contribute to the overall expansion of the EMS market."
+        },
+        {
+          "driver": "OEM Outsourcing",
+          "description": "The trend of Original Equipment Manufacturers outsourcing production fuels EMS market growth."
+        },
+        {
+          "driver": "Policy Incentives",
+          "description": "Government schemes like PLI act as primary catalysts for scaling manufacturing operations."
+        },
+        {
+          "driver": "Global Supply Chain Realignment",
+          "description": "Geopolitical and resilience factors are causing OEMs to diversify supply chains, benefiting India."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's domestic EMS market expanded from USD10-12 billion in FY20 to USD40-45 billion in FY25. This growth was primarily driven by domestic demand, export growth, and outsourcing trends, with electronics production crossing USD130 billion. The market is projected to reach approximately USD150 billion by FY30, fueled by surging demand, robust policy incentives, and global supply chain realignment.",
+      "source_firm": "kpmg",
+      "source_date": "2026-06-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "FY26-FY35",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government Push via PM E-DRIVE",
+          "description": "Government initiatives and schemes provide significant incentives and support for e-bus procurement and deployment."
+        },
+        {
+          "driver": "Expansion of Charging and Depot Infrastructure",
+          "description": "Development of necessary charging and maintenance infrastructure supports broader adoption and operational viability."
+        },
+        {
+          "driver": "Incentives by STUs/PTAs",
+          "description": "State Transport Undertakings and Public Transport Authorities offer incentives for e-bus procurement."
+        },
+        {
+          "driver": "TCO Benefits",
+          "description": "Total Cost of Ownership parity and expected improvements in e-buses make them economically viable."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's electric bus adoption is projected to increase from 7% in FY26 to 35-40% by FY35 for overall adoption (public + private). The public sector, driven by schemes like PM-eBus Sewa and PM E-DRIVE, is expected to spearhead this expansion, potentially driving EV penetration to over 85% in the public transport segment by FY35. The government targets replacing 50,000–60,000 STU buses with EVs by FY30.",
+      "source_firm": "kpmg",
+      "source_date": "2026-05-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 22.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Intercity and Regional Travel Dominance",
+          "description": "Private buses serve as the backbone for intercity and regional passenger movement, catering to a vast population."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Private intercity buses in India record a daily ridership of approximately 22 crore in FY25, which is up to 10 times more than Indian Railways. This segment accounts for about 50% of the overall bus fleet and around 75% of annual vehicle kilometers traveled, making it a dominant force in passenger transportation.",
+      "source_firm": "kpmg",
+      "source_date": "2026-05-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": 51.52,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Robust Domestic Demand",
+          "description": "The Indian middle class's increasing share in global consumption and strong private final consumption expenditure drive demand."
+        },
+        {
+          "driver": "Government Policy Support",
+          "description": "Production Linked Incentive (PLI) schemes and other initiatives stimulate investment and production across various sectors."
+        },
+        {
+          "driver": "Export Growth",
+          "description": "Significant growth in merchandise and non-petroleum exports contributes to manufacturing output."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s manufacturing sector's economic output is estimated to reach Rs. 51.52 lakh crore (US$ 582.77 billion) by FY26. The sector contributed around 17% of India’s GDP and is projected to be one of the fastest-growing sectors. Manufacturing Gross Value Added (GVA) growth accelerated to 7.72% in Q1 and 9.13% in Q2 of FY26.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": 18.42,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2021,
+      "forecast_cagr": 10.7,
+      "forecast_cagr_period": "2021-2026",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Economic Growth",
+          "description": "Overall economic expansion and increased trade volumes drive demand for logistics services."
+        },
+        {
+          "driver": "Policy Support",
+          "description": "Government initiatives like the National Logistics Policy and PM GatiShakti aim to enhance efficiency and connectivity."
+        },
+        {
+          "driver": "Infrastructure Development",
+          "description": "Investments in logistics parks and improved transport networks support sector growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s logistics sector was valued at Rs. 18,42,335 crore (US$ 215 billion) in 2021. It is projected to grow at a CAGR of 10.70% until 2026, driven by policy support such as infrastructure status, Unified Logistics Interface Platform (ULIP), National Logistics Policy, and PM GatiShakti, creating millions of new jobs.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 7,
+      "tam_value": 133.71,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 10.26,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Industrial Growth",
+          "description": "Overall expansion of the industrial sector fuels demand for engineering and R&D services."
+        },
+        {
+          "driver": "Technology Upgradation",
+          "description": "Focus on advanced technologies and innovation drives the need for specialized R&D services."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s Engineering Research and Development Services market is estimated at Rs. 11,42,819 crore (US$ 133.71 billion) in 2025 and is expected to reach Rs. 18,62,391 crore (US$ 217.90 billion) by 2030, representing a CAGR of 10.26% during the forecast period (2025-30).",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 8,
+      "tam_value": 125.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": 11.68,
+      "forecast_cagr_period": "2022-2027",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Industrial Growth",
+          "description": "Expansion across sectors like Engineering, Construction, and Consumer goods drives demand for electrical equipment."
+        },
+        {
+          "driver": "Infrastructure Development",
+          "description": "Significant government investment in infrastructure, including railways, roads, and urban development, boosts demand for electrical materials and equipment."
+        },
+        {
+          "driver": "Policy Support",
+          "description": "Liberal policy regimes, such as 100% FDI and the National Capital Goods Policy, encourage investment and boost production."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The Indian electrical equipment market is expected to increase from US$52.98 billion in 2022 to US$125 billion by 2027, implying a robust CAGR of 11.68%. Additionally, India’s electrical materials market was valued at Rs. 1,804.63 billion (US$ 20.44 billion) in 2025 and is projected to reach Rs. 2,645.10 billion (US$ 29.39 billion) by 2034, registering a CAGR of 3.99% during 2026–2034.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 9,
+      "tam_value": 34.7,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2029,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "FY25-FY29",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "National Security Concerns",
+          "description": "Rising concerns over national security drive demand for domestic defence production."
+        },
+        {
+          "driver": "Government Allocation",
+          "description": "Substantial budget allocations and procurement from domestic industries support the sector."
+        },
+        {
+          "driver": "Export Promotion",
+          "description": "Increased focus on exporting defence products and integrating into global value chains."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The Indian Defence ecosystem aims for a manufacturing target of Rs. 3,00,000 crore (US$ 34.7 billion) by FY29. Defence production stood at US$17.6 billion in FY25. Exports have surged from US$81.1 million in FY14 to US$2.8 billion in FY25, with a target of US$3.5 billion for FY26.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 10,
+      "tam_value": 715.41,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2024-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Modernisation & Expansion",
+          "description": "Plans to manufacture 260 Vande Bharat sleeper trainsets and develop four new High-Speed Rail corridors by 2035."
+        },
+        {
+          "driver": "Government Capital Outlay",
+          "description": "Record capital expenditure allocations underscore focus on modernizing rail infrastructure and expanding network capacity."
+        },
+        {
+          "driver": "Public-Private Partnerships (PPP)",
+          "description": "PPP models for projects like the Madhepura electric locomotive factory strengthen domestic manufacturing."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Rail infrastructure is projected to see an investment of Rs. 50 lakh crore (US$ 715.41 billion) by 2030. Indian Railways is allocated a record capital expenditure of Rs. 2,93,030 crore (US$ 32.56 billion) in FY27. Additionally, the National Infrastructure Pipeline (NIP) envisages an investment of US$138 billion in Indian Railways till 2024-25. The Indian railway sector companies' revenue is expected to grow 5% in FY26.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 11,
+      "tam_value": 1.66,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 12.7,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Automation Trend",
+          "description": "The increasing adoption of automation across industries fuels demand for automated material handling solutions."
+        },
+        {
+          "driver": "Productivity and Efficiency Improvement",
+          "description": "Businesses seek material handling equipment to boost overall productivity and operational efficiency."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The Indian automated material handling market is projected to be valued at Rs. 14,546 crore (US$ 1.66 billion) in 2025 and is expected to reach Rs. 26,376 crore (US$ 3.01 billion) by 2030, growing at a CAGR of 12.7% over 2025-30. This growth is primarily driven by the emerging trend of automation and the increasing utilization of machine tools to enhance overall productivity and efficiency.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 12,
+      "tam_value": 7.91,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 8.3,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Infrastructure Development",
+          "description": "Government-led projects in roads, railways, and urban infrastructure drive demand for construction equipment."
+        },
+        {
+          "driver": "Anticipated Growth in Construction Industry",
+          "description": "Overall expansion of the construction sector fuels sales of machinery."
+        },
+        {
+          "driver": "Increased Investment",
+          "description": "Both domestic and foreign investments in construction projects boost market size."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s construction equipment sales volume reached 94 thousand units during April–December 2025 and 140,191 units in FY25. The India Construction Equipment Market size is estimated at Rs. 69,046 crore (US$ 7.91 billion) in FY25 and is expected to reach Rs. 1,02,827 crore (US$ 11.78 billion) by FY30, at a CAGR of 8.3% during the forecast period (2025-30).",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 13,
+      "tam_value": 1.72,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2024-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government Expenditure",
+          "description": "Significant budgetary allocations and capital expenditure by the government for infrastructure projects."
+        },
+        {
+          "driver": "Private Sector Involvement",
+          "description": "Measures to attract private investments and asset monetization plans recycle capital for new projects."
+        },
+        {
+          "driver": "Robust Demand",
+          "description": "Demand for cement and other construction materials indicates active construction and real estate sectors."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India is projected to spend nearly Rs. 143 lakh crore (US$ 1.72 trillion) on infrastructure in seven fiscals through 2030, more than twice the amount spent in the previous seven years. Morgan Stanley projects India’s infrastructure investment to rise from 5.3% of GDP in FY24 to 6.5% by FY29. The Union Budget 2026–27 increased capital investment outlay to Rs. 12.22 lakh crore (US$ 132.8 billion), reflecting an 11.5% increase.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "bain",
+    "kpmg",
+    "bcg_global",
+    "ibef"
+  ]
+}

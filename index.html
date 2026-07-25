@@ -1,0 +1,2848 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Swerve Graph</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/cytoscape/3.28.1/cytoscape.min.js"></script>
+<link rel="stylesheet" href="brand/colors_and_type.css">
+<style>
+  :root {
+    /* Node-type colors — intentionally kept as-is, not part of the brand palette */
+    --sector: #58a6ff;
+    --ig: #8b949e;
+    --sub: #f778ba;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: var(--font-body);
+    background: var(--bg);
+    color: var(--fg1);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+  }
+  #topbar {
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 18px 24px;
+    border-bottom: 1px solid var(--border);
+    background: var(--bg-surface);
+    flex-wrap: wrap;
+    gap: 14px;
+    min-height: 76px;
+  }
+  #topbar h1 {
+    font-family: var(--font-display);
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: var(--tracking-tight);
+    margin: 0;
+    white-space: nowrap;
+  }
+  #topbar .meta {
+    font-size: var(--text-xs);
+    color: var(--fg3);
+    white-space: nowrap;
+  }
+  #filterbar {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    flex: 1;
+    justify-content: center;
+  }
+  #filterbar select, #filterbar input {
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    color: var(--fg1);
+    padding: 9px 14px;
+    border-radius: var(--radius-sm);
+    font-size: var(--text-sm);
+    font-family: inherit;
+    transition: border-color var(--duration-fast) var(--ease-brand), box-shadow var(--duration-fast) var(--ease-brand);
+  }
+  #filterbar select {
+    max-width: 190px;
+  }
+  #filterbar select:focus, #filterbar input:focus {
+    outline: none;
+    border-color: var(--color-core-purple);
+    box-shadow: 0 0 0 3px rgba(150,102,227,0.15);
+  }
+  #search-wrap {
+    position: relative;
+  }
+  #search-input {
+    width: 220px;
+  }
+  #search-results {
+    position: absolute;
+    top: 36px;
+    left: 0;
+    width: 280px;
+    max-height: 260px;
+    overflow-y: auto;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-md);
+    z-index: 50;
+    display: none;
+  }
+  #search-results.open {
+    display: block;
+  }
+  .search-result {
+    padding: 8px 12px;
+    font-size: var(--text-sm);
+    cursor: pointer;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+  }
+  .search-result:last-child { border-bottom: none; }
+  .search-result:hover { background: var(--bg-overlay); }
+  .search-result .tag {
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--fg3);
+    flex-shrink: 0;
+  }
+  #reset-btn, #controls button {
+    background: rgba(255,255,255,0.07);
+    border: 1px solid rgba(255,255,255,0.12);
+    color: var(--fg1);
+    font-family: var(--font-body);
+    font-weight: 600;
+    padding: 8px 16px;
+    border-radius: var(--radius-sm);
+    font-size: 12px;
+    cursor: pointer;
+    white-space: nowrap;
+    transition: background var(--duration-fast) var(--ease-brand);
+  }
+  #reset-btn:hover, #controls button:hover {
+    background: rgba(255,255,255,0.12);
+  }
+  #layout {
+    display: flex;
+    flex: 1;
+    min-height: 0;
+  }
+  #cy-wrap {
+    position: relative;
+    flex: 1;
+    min-width: 0;
+  }
+  #resize-handle {
+    width: 6px;
+    flex-shrink: 0;
+    cursor: col-resize;
+    background: transparent;
+    position: relative;
+  }
+  #resize-handle::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 2px;
+    width: 2px;
+    background: var(--border);
+    transition: background var(--duration-fast) var(--ease-brand);
+  }
+  #resize-handle:hover::after,
+  #resize-handle.dragging::after {
+    background: var(--color-accent);
+  }
+  #cy {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: var(--bg);
+  }
+  #sidebar {
+    width: 320px;
+    flex-shrink: 0;
+    background: var(--bg-surface);
+    padding: 16px;
+    overflow-y: auto;
+    font-size: var(--text-sm);
+  }
+  #sidebar h2 {
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: var(--tracking-wider);
+    font-weight: 600;
+    color: var(--fg3);
+    margin: 0 0 10px;
+  }
+  #legend-panel {
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 12px;
+    margin-bottom: 12px;
+  }
+  #legend-toggle {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: none;
+    border: none;
+    color: var(--fg2);
+    font-family: inherit;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: var(--tracking-wider);
+    font-weight: 600;
+    cursor: pointer;
+    padding: 0 0 8px 0;
+  }
+  #legend-toggle .chevron {
+    color: var(--fg3);
+    transition: transform var(--duration-fast) var(--ease-brand);
+    font-size: 11px;
+  }
+  #legend-panel.collapsed #legend-toggle .chevron {
+    transform: rotate(-90deg);
+  }
+  #legend-panel.collapsed #legend-content {
+    display: none;
+  }
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 8px;
+  }
+  .legend-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .legend-line {
+    width: 22px;
+    height: 0;
+    flex-shrink: 0;
+    border-top: 2px solid var(--fg3);
+  }
+  .legend-line.dashed {
+    border-top-style: dashed;
+    opacity: 0.6;
+  }
+  .legend-line.high { border-top-width: 3px; opacity: 0.9; }
+  .legend-line.medium { border-top-width: 2px; opacity: 0.6; }
+  .legend-line.low { border-top-width: 1px; opacity: 0.35; }
+  /* Node-type filter panel — same collapsible shell as #legend-panel */
+  #filter-panel, #company-filter-panel {
+    border-bottom: 1px solid var(--border);
+    padding-bottom: 12px;
+    margin-bottom: 12px;
+  }
+  #filter-toggle, #company-filter-toggle {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: none;
+    border: none;
+    color: var(--fg2);
+    font-family: inherit;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: var(--tracking-wider);
+    font-weight: 600;
+    cursor: pointer;
+    padding: 0 0 8px 0;
+  }
+  #filter-toggle .chevron, #company-filter-toggle .chevron {
+    color: var(--fg3);
+    transition: transform var(--duration-fast) var(--ease-brand);
+    font-size: 11px;
+  }
+  #filter-panel.collapsed #filter-toggle .chevron,
+  #company-filter-panel.collapsed #company-filter-toggle .chevron {
+    transform: rotate(-90deg);
+  }
+  #filter-panel.collapsed #filter-content,
+  #company-filter-panel.collapsed #company-filter-content {
+    display: none;
+  }
+  .filter-item {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 8px;
+    cursor: pointer;
+    font-size: 12px;
+    color: var(--fg2);
+    user-select: none;
+  }
+  .filter-item input[type="checkbox"] {
+    accent-color: var(--color-accent-purple);
+    width: 14px;
+    height: 14px;
+    cursor: pointer;
+  }
+  .filter-item.disabled {
+    opacity: 0.5;
+    cursor: default;
+  }
+  .filter-item.disabled input[type="checkbox"] {
+    cursor: default;
+  }
+  .filter-count {
+    color: var(--fg3);
+    font-size: 10.5px;
+    margin-left: auto;
+  }
+  #filter-actions {
+    display: flex;
+    gap: 8px;
+    margin-top: 8px;
+  }
+  #filter-actions button {
+    flex: 1;
+    padding: 5px 8px;
+    font-size: 10.5px;
+    font-weight: 600;
+    color: var(--fg3);
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-pill);
+    cursor: pointer;
+    transition: color var(--duration-fast) var(--ease-brand), border-color var(--duration-fast) var(--ease-brand);
+  }
+  #filter-actions button:hover {
+    color: var(--fg1);
+    border-color: var(--color-accent);
+  }
+  #node-info {
+    margin-top: 0;
+  }
+  #node-info .empty {
+    color: var(--fg3);
+    font-style: italic;
+  }
+  #node-info .node-header {
+    position: sticky;
+    top: -16px;
+    background: var(--bg-surface);
+    padding: 16px 0 12px;
+    margin: -16px 0 4px;
+    z-index: 5;
+  }
+  #node-info .breadcrumb {
+    font-size: 11px;
+    color: var(--fg3);
+    margin-bottom: 8px;
+    line-height: 1.6;
+  }
+  #node-info .breadcrumb .crumb {
+    cursor: pointer;
+    text-decoration: underline;
+    text-decoration-color: transparent;
+    transition: text-decoration-color var(--duration-fast) var(--ease-brand);
+  }
+  #node-info .breadcrumb .crumb:hover {
+    text-decoration-color: var(--fg3);
+    color: var(--fg1);
+  }
+  #node-info .breadcrumb .sep {
+    margin: 0 4px;
+    color: var(--border-strong);
+  }
+  #node-info .node-title-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  #node-info .node-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  #node-info .node-title {
+    font-family: var(--font-display);
+    font-size: 16px;
+    font-weight: 600;
+  }
+  #node-info .node-code {
+    font-size: 11px;
+    color: var(--fg3);
+    margin-top: 2px;
+  }
+  #node-info .field {
+    margin-bottom: 14px;
+  }
+  #node-info .field-label {
+    color: var(--fg3);
+    font-size: 11px;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+    letter-spacing: var(--tracking-wide);
+  }
+  #node-info .rel-group-title {
+    font-size: 11px;
+    color: var(--fg3);
+    text-transform: uppercase;
+    letter-spacing: var(--tracking-wide);
+    margin: 12px 0 6px;
+    display: flex;
+    justify-content: space-between;
+  }
+  #node-info .rel-item {
+    padding: 8px 10px;
+    border-radius: var(--radius-md);
+    font-size: 12.5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    margin-bottom: 3px;
+    background: var(--bg-elevated);
+    border: 1px solid transparent;
+    transition: border-color var(--duration-fast) var(--ease-brand);
+  }
+  #node-info .rel-item:hover {
+    border-color: var(--color-accent);
+  }
+  #node-info .rel-item .rel-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  #node-info .rel-item .rel-verb {
+    color: var(--fg3);
+  }
+  #node-info .rel-pill {
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    padding: 3px 9px;
+    border-radius: var(--radius-pill);
+    flex-shrink: 0;
+    font-weight: 600;
+  }
+  #node-info .rel-pill.high { background: rgba(52,211,153,0.14); color: var(--color-positive); border: 1px solid rgba(52,211,153,0.25); }
+  #node-info .rel-pill.medium { background: rgba(251,191,36,0.14); color: var(--color-warning); border: 1px solid rgba(251,191,36,0.25); }
+  #node-info .rel-pill.low { background: rgba(255,255,255,0.06); color: var(--fg3); border: 1px solid var(--border); }
+  #node-info .rel-empty {
+    font-size: 12px;
+    color: var(--fg3);
+    font-style: italic;
+    padding: 4px 0;
+  }
+  #node-info .vc-row {
+    margin-bottom: 3px;
+  }
+  #node-info .vc-row .vc-summary {
+    margin-bottom: 0;
+  }
+  #node-info .vc-summary-right {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-shrink: 0;
+  }
+  #node-info .vc-chevron {
+    color: var(--fg3);
+    font-size: 13px;
+    line-height: 1;
+    width: 18px;
+    height: 18px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: var(--radius-sm);
+    transition: transform var(--duration-fast) var(--ease-brand), color var(--duration-fast) var(--ease-brand), background var(--duration-fast) var(--ease-brand);
+  }
+  #node-info .vc-chevron:hover {
+    color: var(--fg1);
+    background: var(--bg-overlay);
+  }
+  #node-info .vc-row.open .vc-chevron {
+    transform: rotate(180deg);
+    color: var(--fg1);
+  }
+  #node-info .vc-detail {
+    display: grid;
+    grid-template-rows: 0fr;
+    opacity: 0;
+    transition: grid-template-rows var(--duration-fast) var(--ease-brand), opacity var(--duration-fast) var(--ease-brand);
+  }
+  #node-info .vc-detail-inner {
+    overflow: hidden;
+  }
+  #node-info .vc-row.open .vc-detail {
+    grid-template-rows: 1fr;
+    opacity: 1;
+    margin: 2px 0 8px;
+  }
+  #node-info .vc-row.open .vc-detail-inner {
+    padding: 10px 12px;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+  }
+  #node-info .vc-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin-bottom: 8px;
+  }
+  #node-info .vc-tag {
+    font-size: 9.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    padding: 3px 8px;
+    border-radius: var(--radius-pill);
+    background: rgba(150,102,227,0.12);
+    color: var(--color-core-purple);
+    border: 1px solid rgba(150,102,227,0.22);
+    font-weight: 600;
+  }
+  #node-info .vc-notes {
+    font-size: 12px;
+    line-height: 1.55;
+    color: var(--fg2);
+    margin: 0;
+  }
+  #intel-section {
+    margin-top: 16px;
+    padding-top: 14px;
+    border-top: 1px solid var(--border);
+  }
+  #intel-tabs {
+    display: flex;
+    margin-bottom: 12px;
+  }
+  #intel-tabs .intel-tab {
+    flex: 1;
+    text-align: center;
+    padding: 8px 4px;
+    font-size: 11.5px;
+    font-weight: 600;
+    color: var(--fg3);
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid var(--border);
+    cursor: pointer;
+    transition: color var(--duration-fast) var(--ease-brand), border-color var(--duration-fast) var(--ease-brand);
+  }
+  #intel-tabs .intel-tab:hover {
+    color: var(--fg1);
+  }
+  #intel-tabs .intel-tab.active {
+    color: var(--color-accent-purple);
+    border-bottom-color: var(--color-accent-purple);
+  }
+  #intel-tabs .intel-tab .intel-tab-count {
+    color: inherit;
+    opacity: 0.6;
+    font-weight: 500;
+  }
+  #intel-content .intel-card {
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 10px 12px;
+    margin-bottom: 8px;
+  }
+  #intel-content .intel-card-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 8px;
+    margin-bottom: 4px;
+  }
+  #intel-content .intel-card-title {
+    font-size: 12.5px;
+    font-weight: 600;
+    color: var(--fg1);
+    line-height: 1.4;
+  }
+  #intel-content .intel-pill {
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    padding: 3px 9px;
+    border-radius: var(--radius-pill);
+    flex-shrink: 0;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  #intel-content .intel-pill.pos { background: rgba(52,211,153,0.14); color: var(--color-positive); border: 1px solid rgba(52,211,153,0.25); }
+  #intel-content .intel-pill.neg { background: rgba(248,113,113,0.14); color: var(--color-negative); border: 1px solid rgba(248,113,113,0.25); }
+  #intel-content .intel-pill.warn { background: rgba(251,191,36,0.14); color: var(--color-warning); border: 1px solid rgba(251,191,36,0.25); }
+  #intel-content .intel-pill.neutral { background: rgba(255,255,255,0.06); color: var(--fg3); border: 1px solid var(--border); }
+  #intel-content .intel-desc {
+    font-size: 11.5px;
+    line-height: 1.5;
+    color: var(--fg2);
+    margin: 0;
+  }
+  #intel-content .intel-meta {
+    margin-top: 8px;
+    padding-top: 8px;
+    border-top: 1px solid var(--border);
+    font-size: 10.5px;
+    color: var(--fg3);
+    display: flex;
+    justify-content: space-between;
+    gap: 8px;
+  }
+  #intel-content .intel-stats {
+    display: flex;
+    gap: 16px;
+    margin-bottom: 8px;
+    flex-wrap: wrap;
+  }
+  #intel-content .intel-stat-label {
+    font-size: 9.5px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--fg3);
+    margin-bottom: 2px;
+  }
+  #intel-content .intel-stat-value {
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--fg1);
+    font-family: var(--font-display);
+  }
+  #intel-content .intel-driver-group {
+    margin-top: 8px;
+  }
+  #intel-content .intel-driver-group-label {
+    font-size: 10px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--fg3);
+    margin-bottom: 4px;
+  }
+  #intel-content .intel-driver-item {
+    font-size: 11.5px;
+    color: var(--fg2);
+    line-height: 1.5;
+    margin-bottom: 3px;
+    padding-left: 10px;
+    position: relative;
+  }
+  #intel-content .intel-driver-item::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 7px;
+    width: 4px;
+    height: 4px;
+    border-radius: 50%;
+    background: var(--fg3);
+  }
+  #intel-content .intel-empty, #intel-content .intel-loading {
+    font-size: 12px;
+    color: var(--fg3);
+    font-style: italic;
+    padding: 8px 0;
+  }
+  #sidebar-top-tabs {
+    display: flex;
+    gap: 6px;
+    margin-bottom: 14px;
+  }
+  #sidebar-top-tabs .top-tab {
+    flex: 1;
+    text-align: center;
+    padding: 9px 4px;
+    font-size: 12.5px;
+    font-weight: 600;
+    color: var(--fg3);
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-sm);
+    cursor: pointer;
+    transition: color var(--duration-fast) var(--ease-brand), background var(--duration-fast) var(--ease-brand), border-color var(--duration-fast) var(--ease-brand);
+  }
+  #sidebar-top-tabs .top-tab:hover {
+    color: var(--fg1);
+  }
+  #sidebar-top-tabs .top-tab.active {
+    color: #fff;
+    background: linear-gradient(to right, var(--color-core-purple), var(--color-primary-blue));
+    border-color: transparent;
+  }
+  #company-filterbar {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  #company-filterbar select, #company-filterbar input {
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    color: var(--fg1);
+    padding: 9px 14px;
+    border-radius: var(--radius-sm);
+    font-size: var(--text-sm);
+    font-family: inherit;
+    transition: border-color var(--duration-fast) var(--ease-brand), box-shadow var(--duration-fast) var(--ease-brand);
+  }
+  #company-filterbar select {
+    max-width: 220px;
+  }
+  #company-filterbar select:focus, #company-filterbar input:focus {
+    outline: none;
+    border-color: var(--color-core-purple);
+    box-shadow: 0 0 0 3px rgba(150,102,227,0.15);
+  }
+  #company-search-wrap {
+    position: relative;
+  }
+  #company-search-input {
+    width: 220px;
+  }
+  #company-search-results {
+    position: absolute;
+    top: 36px;
+    left: 0;
+    width: 280px;
+    max-height: 260px;
+    overflow-y: auto;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    box-shadow: var(--shadow-md);
+    z-index: 50;
+    display: none;
+  }
+  #company-search-results.open {
+    display: block;
+  }
+  #company-search-results .search-result {
+    padding: 8px 12px;
+    font-size: var(--text-sm);
+    cursor: pointer;
+    border-bottom: 1px solid var(--border);
+  }
+  #company-search-results .search-result:last-child { border-bottom: none; }
+  #company-search-results .search-result:hover { background: var(--bg-overlay); }
+  #company-content .empty, #company-content .intel-loading {
+    font-size: 12px;
+    color: var(--fg3);
+    font-style: italic;
+    padding: 8px 0;
+  }
+  #company-header {
+    margin-bottom: 14px;
+  }
+  #company-header .company-title {
+    font-family: var(--font-display);
+    font-size: 16px;
+    font-weight: 600;
+  }
+  #company-subtabs {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 12px;
+  }
+  #company-subtabs .company-subtab {
+    flex: 1 1 auto;
+    text-align: center;
+    padding: 8px 6px;
+    font-size: 10.5px;
+    font-weight: 600;
+    color: var(--fg3);
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid var(--border);
+    cursor: pointer;
+    white-space: nowrap;
+    transition: color var(--duration-fast) var(--ease-brand), border-color var(--duration-fast) var(--ease-brand);
+  }
+  #company-subtabs .company-subtab:hover {
+    color: var(--fg1);
+  }
+  #company-subtabs .company-subtab.active {
+    color: var(--color-accent-purple);
+    border-bottom-color: var(--color-accent-purple);
+  }
+  #financials-scope-toggle {
+    display: flex;
+    gap: 6px;
+    margin-bottom: 12px;
+  }
+  #financials-scope-toggle .scope-btn {
+    padding: 5px 12px;
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--fg3);
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-pill);
+    cursor: pointer;
+    transition: color var(--duration-fast) var(--ease-brand), background var(--duration-fast) var(--ease-brand), border-color var(--duration-fast) var(--ease-brand);
+  }
+  #financials-scope-toggle .scope-btn:hover {
+    color: var(--fg1);
+  }
+  #financials-scope-toggle .scope-btn.active {
+    color: var(--color-accent-purple);
+    background: rgba(150,102,227,0.12);
+    border-color: rgba(150,102,227,0.3);
+  }
+  .statement-group {
+    margin-bottom: 14px;
+  }
+  .statement-group-title {
+    font-size: 11px;
+    color: var(--fg3);
+    text-transform: uppercase;
+    letter-spacing: var(--tracking-wide);
+    margin-bottom: 6px;
+  }
+  .metric-row {
+    margin-bottom: 3px;
+  }
+  .metric-summary {
+    padding: 8px 10px;
+    border-radius: var(--radius-md);
+    font-size: 12px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    background: var(--bg-elevated);
+    border: 1px solid transparent;
+    transition: border-color var(--duration-fast) var(--ease-brand);
+  }
+  .metric-row:not(.expandable) .metric-summary {
+    cursor: default;
+  }
+  .metric-row.expandable .metric-summary:hover {
+    border-color: var(--color-accent);
+  }
+  .metric-label {
+    color: var(--fg2);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .metric-summary-right {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-shrink: 0;
+  }
+  .metric-value {
+    font-size: 12.5px;
+    font-weight: 600;
+    color: var(--fg1);
+    white-space: nowrap;
+  }
+  .metric-period-pill {
+    font-size: 9px;
+    color: var(--fg3);
+    background: rgba(255,255,255,0.06);
+    padding: 2px 7px;
+    border-radius: var(--radius-pill);
+    white-space: nowrap;
+  }
+  .metric-chevron {
+    color: var(--fg3);
+    font-size: 12px;
+    line-height: 1;
+    transition: transform var(--duration-fast) var(--ease-brand), color var(--duration-fast) var(--ease-brand);
+  }
+  .metric-row.open .metric-chevron {
+    transform: rotate(180deg);
+    color: var(--fg1);
+  }
+  .metric-detail {
+    display: grid;
+    grid-template-rows: 0fr;
+    opacity: 0;
+    transition: grid-template-rows var(--duration-fast) var(--ease-brand), opacity var(--duration-fast) var(--ease-brand);
+  }
+  .metric-detail-inner {
+    overflow: hidden;
+  }
+  .metric-row.open .metric-detail {
+    grid-template-rows: 1fr;
+    opacity: 1;
+    margin: 2px 0 8px;
+  }
+  .metric-row.open .metric-detail-inner {
+    padding: 8px 10px;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    max-height: 220px;
+    overflow-y: auto;
+  }
+  .metric-series-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 11px;
+  }
+  .metric-series-table td {
+    padding: 3px 4px;
+    color: var(--fg3);
+  }
+  .metric-series-table td:last-child {
+    text-align: right;
+    color: var(--fg2);
+  }
+  .metric-series-table tr.latest td {
+    color: var(--fg1);
+    font-weight: 600;
+  }
+  .segment-card {
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 10px 12px;
+    margin-bottom: 10px;
+  }
+  .segment-card-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 8px;
+  }
+  .segment-name {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--fg1);
+  }
+  .segment-type-pill {
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    padding: 3px 9px;
+    border-radius: var(--radius-pill);
+    background: rgba(255,255,255,0.06);
+    color: var(--fg3);
+    border: 1px solid var(--border);
+    flex-shrink: 0;
+  }
+  /* Note rows: same expand/collapse pattern as .metric-row, used for
+     text/qualitative period data (Overview, People background/role history). */
+  .note-row {
+    margin-bottom: 3px;
+  }
+  .note-summary {
+    padding: 8px 10px;
+    border-radius: var(--radius-md);
+    font-size: 12px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    background: var(--bg-elevated);
+    border: 1px solid transparent;
+    transition: border-color var(--duration-fast) var(--ease-brand);
+  }
+  .note-row:hover .note-summary {
+    border-color: var(--color-accent);
+  }
+  .note-label {
+    color: var(--fg2);
+    font-weight: 600;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .note-summary-right {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-shrink: 0;
+  }
+  .note-row .metric-chevron { color: var(--fg3); }
+  .note-row.open .metric-chevron { transform: rotate(180deg); color: var(--fg1); }
+  .note-preview {
+    padding: 6px 10px 0;
+    font-size: 11.5px;
+    color: var(--fg3);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .note-detail {
+    display: grid;
+    grid-template-rows: 0fr;
+    opacity: 0;
+    transition: grid-template-rows var(--duration-fast) var(--ease-brand), opacity var(--duration-fast) var(--ease-brand);
+  }
+  .note-detail-inner {
+    overflow: hidden;
+  }
+  .note-row.open .note-detail {
+    grid-template-rows: 1fr;
+    opacity: 1;
+    margin: 2px 0 8px;
+  }
+  .note-row.open .note-detail-inner {
+    padding: 8px 10px;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    max-height: 260px;
+    overflow-y: auto;
+  }
+  .note-entry {
+    padding: 6px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .note-entry:last-child { border-bottom: none; }
+  .note-entry-period {
+    font-size: 9px;
+    color: var(--fg3);
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    margin-bottom: 3px;
+  }
+  .note-entry-text {
+    font-size: 11.5px;
+    color: var(--fg2);
+    line-height: 1.5;
+  }
+  .person-card, .debt-card, .rel-card {
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    padding: 10px 12px;
+    margin-bottom: 10px;
+  }
+  .person-card-head, .debt-card-head, .rel-card-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 6px;
+    flex-wrap: wrap;
+  }
+  .person-name, .debt-lender, .rel-name {
+    font-size: 13px;
+    font-weight: 600;
+    color: var(--fg1);
+  }
+  .person-role-pill, .debt-type-pill, .rel-type-pill {
+    font-size: 9px;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    padding: 3px 9px;
+    border-radius: var(--radius-pill);
+    background: rgba(150,102,227,0.12);
+    color: var(--color-accent-purple);
+    border: 1px solid rgba(150,102,227,0.3);
+    flex-shrink: 0;
+  }
+  .debt-fields, .rel-fields {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4px 12px;
+    font-size: 11.5px;
+  }
+  .debt-field-label, .rel-field-label {
+    color: var(--fg3);
+  }
+  .debt-field-value, .rel-field-value {
+    color: var(--fg2);
+    text-align: right;
+  }
+  .regulator-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+    padding: 7px 10px;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: var(--radius-md);
+    margin-bottom: 6px;
+    font-size: 12px;
+  }
+  .regulator-name {
+    color: var(--fg2);
+  }
+  .regulator-meta {
+    color: var(--fg3);
+    font-size: 10.5px;
+    text-align: right;
+  }
+  #controls {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    display: flex;
+    gap: 8px;
+    z-index: 10;
+  }
+  #sidebar-toggle {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    transform: translateY(-50%);
+    width: 18px;
+    height: 44px;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-right: none;
+    border-radius: var(--radius-sm) 0 0 var(--radius-sm);
+    color: var(--fg3);
+    cursor: pointer;
+    z-index: 15;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    line-height: 1;
+    padding: 0;
+    transition: color var(--duration-fast) var(--ease-brand), background var(--duration-fast) var(--ease-brand);
+  }
+  #sidebar-toggle:hover {
+    color: var(--fg1);
+    background: var(--bg-overlay);
+  }
+</style>
+</head>
+<body>
+
+<div id="topbar">
+  <h1>Swerve Graph</h1>
+  <div id="filterbar">
+    <select id="sector-select">
+      <option value="">All Sectors</option>
+    </select>
+    <select id="ig-select" disabled>
+      <option value="">All Industry Groups</option>
+    </select>
+    <select id="sub-select" disabled>
+      <option value="">All SubIndustries</option>
+    </select>
+    <div id="search-wrap">
+      <input id="search-input" type="text" placeholder="Search taxonomy…" autocomplete="off" />
+      <div id="search-results"></div>
+    </div>
+    <button id="reset-btn">Reset</button>
+  </div>
+  <div id="company-filterbar" style="display:none;">
+    <select id="company-select">
+      <option value="">Select a company…</option>
+    </select>
+    <div id="company-search-wrap">
+      <input id="company-search-input" type="text" placeholder="Search companies…" autocomplete="off" />
+      <div id="company-search-results"></div>
+    </div>
+  </div>
+  <div class="meta" id="last-updated">Loading data…</div>
+</div>
+
+<div id="layout">
+  <div id="cy-wrap">
+    <div id="cy"></div>
+    <div id="controls">
+      <button id="fit-btn">Fit view</button>
+      <button id="layout-btn">Re-layout</button>
+    </div>
+    <button id="sidebar-toggle" title="Collapse sidebar">&rsaquo;</button>
+  </div>
+  <div id="resize-handle"></div>
+  <div id="sidebar">
+    <div id="sidebar-top-tabs">
+      <button class="top-tab active" data-sidebar-tab="sector">Sector</button>
+      <button class="top-tab" data-sidebar-tab="company">Company</button>
+    </div>
+
+    <div id="sector-panel">
+      <div id="filter-panel">
+        <button id="filter-toggle">
+          <span>Filter nodes</span>
+          <span class="chevron">⌄</span>
+        </button>
+        <div id="filter-content"></div>
+      </div>
+      <div id="legend-panel">
+        <button id="legend-toggle">
+          <span>Legend</span>
+          <span class="chevron">⌄</span>
+        </button>
+        <div id="legend-content">
+          <h2>Node Types</h2>
+          <div id="legend"></div>
+          <h2 style="margin-top: 16px;">Edge Types</h2>
+          <div id="edge-legend"></div>
+        </div>
+      </div>
+      <div id="node-info">
+        <div class="empty">Click a node, or search above, to see details</div>
+      </div>
+    </div>
+
+    <div id="company-panel" style="display:none;">
+      <div id="company-filter-panel">
+        <button id="company-filter-toggle">
+          <span>Filter nodes</span>
+          <span class="chevron">⌄</span>
+        </button>
+        <div id="company-filter-content"></div>
+      </div>
+      <div id="company-content">
+        <div class="empty">Select a company to see details</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+const groupColors = {
+  Sector: "#58a6ff",
+  IndustryGroup: "#8b949e",
+  SubIndustry: "#f778ba",
+  Company: "#3fb950",
+  Segment: "#d29922",
+  Person: "#58a6ff",
+  Regulator: "#f85149",
+  Lender: "#a371f7",
+  RelatedEntity: "#79c0ff",
+  default: "#8b949e"
+};
+
+const groupSize = {
+  Sector: 70,
+  IndustryGroup: 46,
+  SubIndustry: 30,
+  Company: 70,
+  Segment: 40,
+  Person: 22,
+  Regulator: 22,
+  Lender: 22,
+  RelatedEntity: 22,
+  default: 30
+};
+
+function colorFor(group) {
+  return groupColors[group] || groupColors.default;
+}
+function sizeFor(group) {
+  return groupSize[group] || groupSize.default;
+}
+
+let cy;
+let allNodes = [];
+let allRels = [];
+
+const layoutOptions = {
+  name: "cose",
+  animate: false,
+  nodeRepulsion: 32000,
+  idealEdgeLength: 110,
+  gravity: 0.2,
+  nodeOverlap: 40,
+  componentSpacing: 150,
+  nestingFactor: 5,
+  numIter: 2500,
+  avoidOverlap: true,
+  nodeDimensionsIncludeLabels: true
+};
+
+function pushAwayFromNode(target, padding = 6) {
+  const bbT = target.boundingBox();
+  cy.nodes().not(target).forEach(other => {
+    const bb = other.boundingBox();
+    const overlapX = Math.min(bbT.x2, bb.x2) - Math.max(bbT.x1, bb.x1);
+    const overlapY = Math.min(bbT.y2, bb.y2) - Math.max(bbT.y1, bb.y1);
+    if (overlapX + padding > 0 && overlapY + padding > 0) {
+      const posT = target.position();
+      const posO = other.position();
+      let dx = posO.x - posT.x;
+      let dy = posO.y - posT.y;
+      let dist = Math.sqrt(dx * dx + dy * dy);
+      if (dist === 0) { dx = Math.random() - 0.5; dy = Math.random() - 0.5; dist = 0.01; }
+      const overlapAmount = Math.max(overlapX, overlapY) + padding;
+      other.position({ x: posO.x + (dx / dist) * overlapAmount, y: posO.y + (dy / dist) * overlapAmount });
+    }
+  });
+}
+
+// Single persistent tap handlers, bound once and never unbound. Cytoscape's
+// event system does NOT let a namespaced listener (e.g. "tap.sectorGraph")
+// receive events emitted without that exact namespace — and a real user
+// click is emitted internally as a bare "tap" with no namespace — so a
+// namespaced delegated listener silently never fires for real clicks (this
+// was tried and confirmed broken: verified against cytoscape's own
+// emitter.js matching logic, which requires listener.namespace to equal
+// eventObj.namespace, and bare-emitted events have namespace = null). The
+// working alternative is one bare "tap" listener per event that branches on
+// canvasMode, rather than swapping bound handlers in and out per mode.
+function handleNodeTap(evt) {
+  const node = evt.target;
+  if (canvasMode === "sector") {
+    focusNode(node.id(), { reset: false });
+    return;
+  }
+  // Company mode: dim everything except the tapped node's direct
+  // neighborhood. Company nodes aren't part of the taxonomy (no
+  // breadcrumb/sidebar entry for a Person/Lender/etc.), so this is a
+  // lighter, self-contained version rather than reusing focusNode()/focusPath.
+  cy.elements().removeClass("dimmed highlighted");
+  cy.elements().addClass("dimmed");
+  const neighborhood = node.closedNeighborhood();
+  neighborhood.removeClass("dimmed").addClass("highlighted");
+  cy.animate({ fit: { eles: neighborhood, padding: 80 } }, { duration: 300 });
+}
+
+function handleBackgroundTap(evt) {
+  if (evt.target !== cy) return;
+  if (canvasMode === "sector") {
+    clearFocus();
+  } else {
+    cy.elements().removeClass("dimmed highlighted");
+    cy.fit(null, 60);
+  }
+}
+
+function resolveOverlaps(iterations = 150, padding = 10) {
+  const nodes = cy.nodes();
+  for (let iter = 0; iter < iterations; iter++) {
+    let moved = false;
+    for (let i = 0; i < nodes.length; i++) {
+      for (let j = i + 1; j < nodes.length; j++) {
+        const a = nodes[i], b = nodes[j];
+        const bbA = a.boundingBox();
+        const bbB = b.boundingBox();
+        const overlapX = Math.min(bbA.x2, bbB.x2) - Math.max(bbA.x1, bbB.x1);
+        const overlapY = Math.min(bbA.y2, bbB.y2) - Math.max(bbA.y1, bbB.y1);
+        if (overlapX + padding > 0 && overlapY + padding > 0) {
+          const posA = a.position();
+          const posB = b.position();
+          let dx = posB.x - posA.x;
+          let dy = posB.y - posA.y;
+          let dist = Math.sqrt(dx * dx + dy * dy);
+          if (dist === 0) { dx = Math.random() - 0.5; dy = Math.random() - 0.5; dist = 0.01; }
+          const overlapAmount = Math.max(overlapX, overlapY) + padding;
+          const pushX = (dx / dist) * (overlapAmount / 2);
+          const pushY = (dy / dist) * (overlapAmount / 2);
+          a.position({ x: posA.x - pushX, y: posA.y - pushY });
+          b.position({ x: posB.x + pushX, y: posB.y + pushY });
+          moved = true;
+        }
+      }
+    }
+    if (!moved) break;
+  }
+}
+
+// Which graph the canvas is currently showing. "sector" = the full taxonomy
+// graph built in loadGraph(); "company" = a small per-company mini-graph
+// (Company node + its Segment nodes) swapped in from the Company tab, using
+// the "graph" field export_company_json.py writes into company-data/<ticker>.json.
+let canvasMode = "sector";
+// Saved pan/zoom of the taxonomy graph so switching Sector -> Company -> Sector
+// restores exactly where the user left off, instead of re-fitting each time.
+let savedSectorViewport = null;
+// Saved {nodeId: {x, y}} positions from the taxonomy graph's cose layout (+
+// manual drags). cy.add() gives fresh elements position (0,0) by default, so
+// without this every node would stack on top of each other when the sector
+// graph is rebuilt after a trip through the Company tab's mini-graph.
+let savedSectorPositions = {};
+
+function saveSectorPositions() {
+  if (!cy || canvasMode !== "sector") return;
+  cy.nodes().forEach(n => { savedSectorPositions[n.id()] = n.position(); });
+}
+
+// parent lookup built from BELONGS_TO edges: childCode -> parentCode
+let parentOf = {};
+// children lookup: parentCode -> [childCode, ...]
+let childrenOf = {};
+
+async function loadGraph() {
+  const res = await fetch("graph-data.json", { cache: "no-store" });
+  const data = await res.json();
+  allNodes = data.nodes;
+  allRels = data.relationships;
+
+  data.relationships.forEach(r => {
+    if (r.type === "BELONGS_TO") {
+      parentOf[r.source] = r.target;
+      (childrenOf[r.target] = childrenOf[r.target] || []).push(r.source);
+    }
+  });
+
+  const elements = [];
+  data.nodes.forEach(n => {
+    elements.push({
+      data: {
+        id: n.id,
+        label: n.label,
+        group: n.group || "default",
+        code: n.code
+      }
+    });
+  });
+  data.relationships.forEach((r, i) => {
+    elements.push({
+      data: {
+        id: "e" + i,
+        source: r.source,
+        target: r.target,
+        type: r.type,
+        strength: r.strength || null,
+        nature: r.nature || null,
+        endMarket: r.end_market || null,
+        notes: r.notes || null
+      }
+    });
+  });
+
+  cy = cytoscape({
+    container: document.getElementById("cy"),
+    elements: elements,
+    minZoom: 0.1,
+    maxZoom: 3,
+    style: [
+      {
+        selector: "node",
+        style: {
+          "background-color": ele => colorFor(ele.data("group")),
+          "label": "data(label)",
+          "color": "#e6edf3",
+          "font-size": "10px",
+          "text-valign": "bottom",
+          "text-halign": "center",
+          "text-margin-y": 6,
+          "text-wrap": "wrap",
+          "text-max-width": "90px",
+          "width": ele => sizeFor(ele.data("group")),
+          "height": ele => sizeFor(ele.data("group")),
+          "border-width": 1.5,
+          "border-color": "#0d1117",
+          "text-outline-width": 2,
+          "text-outline-color": "#0d1117",
+          "min-zoomed-font-size": 6,
+          "z-compound-depth": "top"
+        }
+      },
+      {
+        selector: "node[group='Sector']",
+        style: { "font-size": "12px", "text-max-width": "110px" }
+      },
+      {
+        selector: "node[group='SubIndustry']",
+        style: { "font-size": "8px", "text-max-width": "75px" }
+      },
+      {
+        selector: "edge",
+        style: {
+          "width": 1,
+          "line-color": "#30363d",
+          "target-arrow-color": "#30363d",
+          "target-arrow-shape": "triangle",
+          "curve-style": "bezier",
+          "arrow-scale": 0.6,
+          "opacity": 0.45
+        }
+      },
+      {
+        selector: "edge[type='BELONGS_TO']",
+        style: { "line-style": "dashed", "opacity": 0.3 }
+      },
+      {
+        selector: "edge[type='BUYS_FROM'][strength='high']",
+        style: { "width": 2.5, "opacity": 0.7 }
+      },
+      {
+        selector: "edge[type='BUYS_FROM'][strength='medium']",
+        style: { "width": 1.5, "opacity": 0.45 }
+      },
+      {
+        selector: "edge[type='BUYS_FROM'][strength='low']",
+        style: { "width": 0.75, "opacity": 0.25 }
+      },
+      {
+        selector: "node.dimmed",
+        style: { "opacity": 0.12 }
+      },
+      {
+        selector: "edge.dimmed",
+        style: { "opacity": 0.04 }
+      },
+      {
+        selector: "node.highlighted",
+        style: {
+          "border-color": "#58a6ff",
+          "border-width": 3,
+          "z-index": 999
+        }
+      },
+      {
+        selector: "node:selected",
+        style: {
+          "border-color": "#58a6ff",
+          "border-width": 3
+        }
+      },
+      {
+        selector: "edge.highlighted",
+        style: {
+          "line-color": "#58a6ff",
+          "target-arrow-color": "#58a6ff",
+          "opacity": 1,
+          "width": 2
+        }
+      }
+    ],
+    layout: layoutOptions
+  });
+
+  // Note: layout runs synchronously during the constructor above (animate:false),
+  // so its own "layoutstop" event fires before we can attach a listener for it.
+  // Resolve overlaps once now to cover the initial load...
+  resolveOverlaps();
+  saveSectorPositions();
+  // ...and keep the listener attached for the Re-layout button's future runs.
+  cy.on("layoutstop", () => { resolveOverlaps(); saveSectorPositions(); });
+  cy.on("dragfree", "node", () => saveSectorPositions());
+
+  cy.on("drag", "node", evt => pushAwayFromNode(evt.target));
+  cy.on("dragfree", "node", evt => pushAwayFromNode(evt.target));
+
+  // Bound once, permanently — see handleNodeTap/handleBackgroundTap comment
+  // for why these must NOT be namespaced or re-bound per mode.
+  cy.on("tap", "node", handleNodeTap);
+  cy.on("tap", handleBackgroundTap);
+
+  document.getElementById("fit-btn").addEventListener("click", () => cy.fit(null, 40));
+  document.getElementById("layout-btn").addEventListener("click", () => {
+    cy.layout(layoutOptions).run();
+  });
+
+  renderSectorLegend();
+  renderSectorFilterPanel();
+
+  document.getElementById("last-updated").textContent =
+    `${data.nodes.length} nodes · ${data.relationships.length} relationships`;
+
+  populateDropdowns();
+  setupSearch();
+  setupLegendToggle();
+  setupNodeInfoClicks();
+}
+
+// ---------- Legend (shared between sector + company graphs) ----------
+
+function renderSectorLegend() {
+  const groups = ["Sector", "IndustryGroup", "SubIndustry"];
+  document.getElementById("legend").innerHTML = groups.map(g => `
+    <div class="legend-item">
+      <div class="legend-dot" style="background:${colorFor(g)}"></div>
+      <div>${g}</div>
+    </div>
+  `).join("");
+
+  const edgeLegendItems = [
+    { cls: "dashed", label: "Belongs To (hierarchy)" },
+    { cls: "high", label: "Buys From — high strength" },
+    { cls: "medium", label: "Buys From — medium strength" },
+    { cls: "low", label: "Buys From — low strength" }
+  ];
+  document.getElementById("edge-legend").innerHTML = edgeLegendItems.map(e => `
+    <div class="legend-item">
+      <div class="legend-line ${e.cls}"></div>
+      <div>${e.label}</div>
+    </div>
+  `).join("");
+}
+
+function renderCompanyLegend() {
+  const groups = ["Company", "Segment", "Person", "Regulator", "Lender", "RelatedEntity"];
+  document.getElementById("legend").innerHTML = groups.map(g => `
+    <div class="legend-item">
+      <div class="legend-dot" style="background:${colorFor(g)}"></div>
+      <div>${g === "RelatedEntity" ? "Related Entity" : g}</div>
+    </div>
+  `).join("");
+
+  const edgeLegendItems = [
+    { label: "Has Segment" },
+    { label: "Works For" },
+    { label: "Regulated By" },
+    { label: "Financed By" },
+    { label: "Relates To" }
+  ];
+  document.getElementById("edge-legend").innerHTML = edgeLegendItems.map(e => `
+    <div class="legend-item">
+      <div class="legend-line"></div>
+      <div>${e.label}</div>
+    </div>
+  `).join("");
+}
+
+// ---------- Filter panels ----------
+
+function renderSectorFilterPanel() {
+  const el = document.getElementById("filter-content");
+  if (!el) return;
+  const groups = ["Sector", "IndustryGroup", "SubIndustry"];
+  const counts = {};
+  groups.forEach(g => { counts[g] = allNodes.filter(n => n.group === g).length; });
+
+  el.innerHTML = groups.map(g => `
+    <label class="filter-item">
+      <input type="checkbox" data-sector-filter-group="${g}" ${sectorFilterState[g] !== false ? "checked" : ""} />
+      <div class="legend-dot" style="background:${colorFor(g)}"></div>
+      <span>${g}</span>
+      <span class="filter-count">${counts[g]}</span>
+    </label>
+  `).join("") + `
+    <div id="filter-actions">
+      <button data-sector-filter-action="all">All</button>
+      <button data-sector-filter-action="none">None</button>
+    </div>
+  `;
+}
+
+function renderCompanyFilterPanel(graph) {
+  const el = document.getElementById("company-filter-content");
+  if (!el || !graph) return;
+  const groups = ["Segment", "Person", "Regulator", "Lender", "RelatedEntity"];
+  const counts = {};
+  groups.forEach(g => { counts[g] = (graph.nodes || []).filter(n => n.group === g).length; });
+
+  el.innerHTML = `
+    <label class="filter-item disabled">
+      <input type="checkbox" checked disabled />
+      <div class="legend-dot" style="background:${colorFor("Company")}"></div>
+      <span>Company</span>
+    </label>
+  ` + groups.map(g => `
+    <label class="filter-item">
+      <input type="checkbox" data-company-filter-group="${g}" ${companyFilterState[g] !== false ? "checked" : ""} />
+      <div class="legend-dot" style="background:${colorFor(g)}"></div>
+      <span>${g === "RelatedEntity" ? "Related Entity" : g}</span>
+      <span class="filter-count">${counts[g]}</span>
+    </label>
+  `).join("") + `
+    <div id="filter-actions">
+      <button data-company-filter-action="all">All</button>
+      <button data-company-filter-action="none">None</button>
+    </div>
+  `;
+}
+
+function setupFilterPanels() {
+  document.getElementById("filter-toggle").addEventListener("click", () => {
+    document.getElementById("filter-panel").classList.toggle("collapsed");
+  });
+  document.getElementById("company-filter-toggle").addEventListener("click", () => {
+    document.getElementById("company-filter-panel").classList.toggle("collapsed");
+  });
+
+  document.getElementById("filter-content").addEventListener("click", e => {
+    const checkbox = e.target.closest("[data-sector-filter-group]");
+    if (checkbox) {
+      sectorFilterState[checkbox.dataset.sectorFilterGroup] = checkbox.checked;
+      applySectorFilter();
+      return;
+    }
+    const actionBtn = e.target.closest("[data-sector-filter-action]");
+    if (actionBtn) {
+      const show = actionBtn.dataset.sectorFilterAction === "all";
+      Object.keys(sectorFilterState).forEach(g => { sectorFilterState[g] = show; });
+      applySectorFilter();
+    }
+  });
+
+  document.getElementById("company-filter-content").addEventListener("click", e => {
+    const checkbox = e.target.closest("[data-company-filter-group]");
+    if (checkbox) {
+      companyFilterState[checkbox.dataset.companyFilterGroup] = checkbox.checked;
+      if (currentCompanyGraphData) renderCompanyGraph(currentCompanyGraphData, { keepCache: true });
+      return;
+    }
+    const actionBtn = e.target.closest("[data-company-filter-action]");
+    if (actionBtn) {
+      const show = actionBtn.dataset.companyFilterAction === "all";
+      Object.keys(companyFilterState).forEach(g => { companyFilterState[g] = show; });
+      if (currentCompanyGraphData) renderCompanyGraph(currentCompanyGraphData, { keepCache: true });
+    }
+  });
+}
+
+// ---------- Canvas swap: company mini-graph ----------
+
+const companyLayoutOptions = {
+  name: "cose",
+  animate: false,
+  nodeRepulsion: 20000,
+  idealEdgeLength: 90,
+  gravity: 0.3,
+  nodeOverlap: 30,
+  componentSpacing: 80,
+  numIter: 2000,
+  avoidOverlap: true,
+  nodeDimensionsIncludeLabels: true
+};
+
+// ---------- Node-type filters ----------
+
+// Sector graph: which taxonomy levels are shown. All on by default.
+let sectorFilterState = { Sector: true, IndustryGroup: true, SubIndustry: true };
+// Company graph: which relationship-derived node groups are shown. Company
+// itself has no checkbox (always shown — it's the one thing every other
+// node connects to, hiding it would leave a graph with no center).
+let companyFilterState = { Segment: true, Person: true, Regulator: true, Lender: true, RelatedEntity: true };
+// Cache of the currently-loaded company's full (unfiltered) graph, so
+// toggling a checkbox can re-filter without re-fetching company-data/<ticker>.json.
+let currentCompanyGraphData = null;
+
+function filterElements(nodes, edges, activeGroupsFn) {
+  const keptIds = new Set();
+  const keptNodes = nodes.filter(n => {
+    const keep = activeGroupsFn(n.group || "default");
+    if (keep) keptIds.add(n.id);
+    return keep;
+  });
+  const keptEdges = edges.filter(e => keptIds.has(e.source) && keptIds.has(e.target));
+  return { nodes: keptNodes, edges: keptEdges };
+}
+
+function renderCompanyGraph(graph, opts = {}) {
+  if (!cy || !graph) return;
+  if (!opts.keepCache) currentCompanyGraphData = graph;
+
+  // First time swapping away from the sector graph: remember its viewport
+  // so we can put it back exactly as the user left it.
+  if (canvasMode === "sector") {
+    savedSectorViewport = { zoom: cy.zoom(), pan: cy.pan() };
+  }
+  canvasMode = "company";
+
+  const { nodes: filteredNodes, edges: filteredEdges } = filterElements(
+    graph.nodes || [], graph.relationships || [],
+    group => group === "Company" || companyFilterState[group] !== false
+  );
+
+  const elements = [];
+  filteredNodes.forEach(n => {
+    elements.push({ data: { id: n.id, label: n.label, group: n.group || "default" } });
+  });
+  filteredEdges.forEach((r, i) => {
+    elements.push({ data: { id: "ce" + i, source: r.source, target: r.target, type: r.type, relLabel: r.label || null } });
+  });
+
+  cy.elements().remove();
+  cy.add(elements);
+  cy.layout(companyLayoutOptions).run();
+  cy.fit(null, 60);
+  renderCompanyLegend();
+  renderCompanyFilterPanel(graph);
+  // Node/background taps are handled by the single permanent handleNodeTap/
+  // handleBackgroundTap listeners bound once in loadGraph() — they branch
+  // on canvasMode (now "company"), so no per-mode bind/unbind is needed here.
+}
+
+function applySectorFilter(opts = {}) {
+  if (!cy || canvasMode !== "sector") return;
+
+  const { nodes: filteredNodes, edges: filteredEdges } = filterElements(
+    allNodes, allRels.map((r, i) => ({ ...r, id: "e" + i })),
+    group => sectorFilterState[group] !== false
+  );
+
+  const elements = [];
+  filteredNodes.forEach(n => {
+    const pos = savedSectorPositions[n.id];
+    elements.push({
+      data: { id: n.id, label: n.label, group: n.group || "default", code: n.code },
+      position: pos ? { x: pos.x, y: pos.y } : undefined
+    });
+  });
+  filteredEdges.forEach(r => {
+    elements.push({
+      data: {
+        id: r.id,
+        source: r.source,
+        target: r.target,
+        type: r.type,
+        strength: r.strength || null,
+        nature: r.nature || null,
+        endMarket: r.end_market || null,
+        notes: r.notes || null
+      }
+    });
+  });
+
+  cy.elements().remove();
+  cy.add(elements);
+
+  // A filter change removes/restores nodes, so positions from the full
+  // graph's layout no longer necessarily avoid overlap among the visible
+  // subset — re-run the layout unless this is just the tab-switch restore
+  // (opts.preservePositions), which wants the exact prior view back.
+  if (!opts.preservePositions) {
+    cy.layout(layoutOptions).run();
+    resolveOverlaps();
+    saveSectorPositions();
+  }
+
+  renderSectorFilterPanel();
+
+  if (opts.preservePositions && savedSectorViewport) {
+    cy.zoom(savedSectorViewport.zoom);
+    cy.pan(savedSectorViewport.pan);
+  } else {
+    cy.fit(null, 40);
+  }
+}
+
+function restoreSectorGraph() {
+  if (!cy || canvasMode === "sector") return;
+  canvasMode = "sector";
+  // handleNodeTap/handleBackgroundTap read canvasMode on every tap, so
+  // switching modes back is just this flag flip — no re-binding needed.
+
+  renderSectorLegend();
+  applySectorFilter({ preservePositions: true });
+}
+
+// ---------- Legend collapse ----------
+
+let legendAutoCollapsed = false;
+
+function setupLegendToggle() {
+  document.getElementById("legend-toggle").addEventListener("click", () => {
+    document.getElementById("legend-panel").classList.toggle("collapsed");
+  });
+}
+
+function autoCollapseLegendOnce() {
+  if (legendAutoCollapsed) return;
+  legendAutoCollapsed = true;
+  document.getElementById("legend-panel").classList.add("collapsed");
+}
+
+// ---------- Sidebar node info ----------
+
+function buildBreadcrumb(id) {
+  const chain = [];
+  let cur = id;
+  let guard = 0;
+  while (cur && guard < 10) {
+    const n = allNodes.find(x => x.id === cur);
+    if (!n) break;
+    chain.unshift(n);
+    cur = parentOf[cur];
+    guard++;
+  }
+  return chain;
+}
+
+function relVerb(type, isSource) {
+  if (type === "BUYS_FROM") return isSource ? "Sources from" : "Supplies to";
+  if (type === "BELONGS_TO") return isSource ? "Part of" : "Includes";
+  return isSource ? "→" : "←";
+}
+
+const strengthOrder = { high: 0, medium: 1, low: 2 };
+
+function showNodeInfo(node) {
+  const id = node.id();
+  const connectedEdges = node.connectedEdges();
+
+  const rels = connectedEdges.map(e => {
+    const isSource = e.data("source") === id;
+    const otherId = isSource ? e.data("target") : e.data("source");
+    const other = cy.getElementById(otherId);
+    return {
+      isSource,
+      type: e.data("type"),
+      strength: e.data("strength"),
+      otherId,
+      name: other.data("label"),
+      notes: e.data("notes"),
+      nature: e.data("nature"),
+      endMarket: e.data("endMarket")
+    };
+  });
+
+  const valueChain = rels
+    .filter(r => r.type === "BUYS_FROM")
+    .sort((a, b) => (strengthOrder[a.strength] ?? 3) - (strengthOrder[b.strength] ?? 3));
+  const hierarchy = rels.filter(r => r.type === "BELONGS_TO");
+
+  const breadcrumb = buildBreadcrumb(id);
+
+  const renderRelItem = r => `
+    <div class="rel-item" data-id="${r.otherId}">
+      <span class="rel-text"><span class="rel-verb">${relVerb(r.type, r.isSource)}</span> ${r.name}</span>
+      ${r.strength ? `<span class="rel-pill ${r.strength}">${r.strength}</span>` : ""}
+    </div>
+  `;
+
+  const escapeHtml = s => String(s).replace(/[&<>"']/g, c => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+  }[c]));
+
+  const renderValueChainItem = (r, idx) => {
+    const hasNotes = !!r.notes;
+    const tagChips = [...(r.nature || []), ...(r.endMarket || [])]
+      .map(t => `<span class="vc-tag">${escapeHtml(t.replace(/_/g, " "))}</span>`)
+      .join("");
+    return `
+      <div class="vc-row${hasNotes ? " expandable" : ""}" data-vc-idx="${idx}">
+        <div class="rel-item vc-summary" data-id="${r.otherId}">
+          <span class="rel-text"><span class="rel-verb">${relVerb(r.type, r.isSource)}</span> ${r.name}</span>
+          <span class="vc-summary-right">
+            ${r.strength ? `<span class="rel-pill ${r.strength}">${r.strength}</span>` : ""}
+            ${hasNotes ? `<span class="vc-chevron" data-vc-toggle="${idx}" title="Show details">⌄</span>` : ""}
+          </span>
+        </div>
+        ${hasNotes ? `
+          <div class="vc-detail" id="vc-detail-${idx}">
+            <div class="vc-detail-inner">
+              ${tagChips ? `<div class="vc-tags">${tagChips}</div>` : ""}
+              <p class="vc-notes">${escapeHtml(r.notes)}</p>
+            </div>
+          </div>
+        ` : ""}
+      </div>
+    `;
+  };
+
+  document.getElementById("node-info").innerHTML = `
+    <div class="node-header">
+      ${breadcrumb.length > 1 ? `
+        <div class="breadcrumb">
+          ${breadcrumb.map((n, i) => `
+            ${i > 0 ? '<span class="sep">/</span>' : ""}
+            <span class="crumb" data-id="${n.id}">${n.label}</span>
+          `).join("")}
+        </div>
+      ` : ""}
+      <div class="node-title-row">
+        <div class="node-dot" style="background:${colorFor(node.data("group"))}"></div>
+        <div>
+          <div class="node-title">${node.data("label")}</div>
+          <div class="node-code">${node.data("group")}${node.data("code") ? " · " + node.data("code") : ""}</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="field">
+      <div class="rel-group-title"><span>Value Chain</span><span>${valueChain.length}</span></div>
+      ${valueChain.map(renderValueChainItem).join("") || '<div class="rel-empty">No value chain connections</div>'}
+    </div>
+
+    <div class="field">
+      <div class="rel-group-title"><span>Hierarchy</span><span>${hierarchy.length}</span></div>
+      ${hierarchy.map(renderRelItem).join("") || '<div class="rel-empty">No hierarchy connections</div>'}
+    </div>
+
+    <div id="intel-section">
+      <div id="intel-tabs">
+        <button class="intel-tab${currentIntelTab === "forces" ? " active" : ""}" data-intel-tab="forces">Forces</button>
+        <button class="intel-tab${currentIntelTab === "viewpoints" ? " active" : ""}" data-intel-tab="viewpoints">Viewpoints</button>
+        <button class="intel-tab${currentIntelTab === "market_sizing" ? " active" : ""}" data-intel-tab="market_sizing">Sizing</button>
+      </div>
+      <div id="intel-content"><div class="intel-loading">Loading…</div></div>
+    </div>
+  `;
+
+  loadNodeIntel(id);
+  autoCollapseLegendOnce();
+}
+
+function clearNodeInfo() {
+  document.getElementById("node-info").innerHTML = '<div class="empty">Click a node, or search above, to see details</div>';
+}
+
+function setupNodeInfoClicks() {
+  document.getElementById("node-info").addEventListener("click", e => {
+    // Clicking the chevron/strength area of an expandable Value Chain row
+    // toggles its notes open/closed in place, without navigating the graph.
+    const toggle = e.target.closest("[data-vc-toggle]");
+    if (toggle) {
+      const vcRow = toggle.closest(".vc-row");
+      vcRow.classList.toggle("open");
+      return;
+    }
+
+    // Forces/Viewpoints/Sizing tab switches just swap which pre-fetched
+    // list is shown — no navigation, no refetch.
+    const tabBtn = e.target.closest("[data-intel-tab]");
+    if (tabBtn) {
+      currentIntelTab = tabBtn.dataset.intelTab;
+      document.querySelectorAll("#intel-tabs .intel-tab").forEach(btn => {
+        btn.classList.toggle("active", btn === tabBtn);
+      });
+      renderIntelContent();
+      return;
+    }
+
+    const row = e.target.closest("[data-id]");
+    if (!row) return;
+    // Sidebar clicks always jump to the clicked node (replacing focus), unlike
+    // clicking a node directly on the canvas which accumulates a trail. This
+    // keeps the sidebar's description always matching exactly what's
+    // highlighted on the graph, same as the dropdowns and search do.
+    focusNode(row.dataset.id);
+  });
+}
+
+// ---------- Sidebar: Forces / Viewpoints / Market Sizing (lazy-fetched) ----------
+
+// Forces/Viewpoints/Market Sizing live in one small JSON file per node
+// (data/<id>.json), fetched only when that node is actually selected —
+// Hierarchy and Value Chain above are the only data bundled into
+// graph-data.json up front. currentIntelTab persists across node switches
+// so comparing the same tab across several nodes doesn't require re-picking
+// it each time; a request token guards against a slow fetch from a
+// previously-selected node overwriting the currently-selected node's panel.
+let currentIntelTab = "forces";
+let currentIntelData = null;
+let intelRequestId = 0;
+
+const intelTabLabels = { forces: "Forces", viewpoints: "Viewpoints", market_sizing: "Sizing" };
+
+async function loadNodeIntel(nodeId) {
+  const requestId = ++intelRequestId;
+  currentIntelData = null;
+
+  try {
+    const res = await fetch(`data/${nodeId}.json`, { cache: "no-store" });
+    const data = res.ok ? await res.json() : null;
+    if (requestId !== intelRequestId) return; // a newer node was selected meanwhile
+    currentIntelData = data;
+  } catch (err) {
+    if (requestId !== intelRequestId) return;
+    currentIntelData = null;
+  }
+
+  renderIntelTabCounts();
+  renderIntelContent();
+}
+
+function renderIntelTabCounts() {
+  const tabsEl = document.getElementById("intel-tabs");
+  if (!tabsEl) return;
+  const counts = {
+    forces: currentIntelData?.forces?.length || 0,
+    viewpoints: currentIntelData?.viewpoints?.length || 0,
+    market_sizing: currentIntelData?.market_sizing?.length || 0
+  };
+  tabsEl.querySelectorAll(".intel-tab").forEach(btn => {
+    const key = btn.dataset.intelTab;
+    btn.innerHTML = `${intelTabLabels[key]}${counts[key] ? ` <span class="intel-tab-count">${counts[key]}</span>` : ""}`;
+    btn.classList.toggle("active", key === currentIntelTab);
+  });
+}
+
+const forceTypePillClass = {
+  tailwind: "pos", upside_driver: "pos",
+  headwind: "neg", key_risk: "neg",
+  structural_change: "neutral", cyclical_change: "neutral"
+};
+const stancePillClass = {
+  positive: "pos", cautious_positive: "pos",
+  neutral: "neutral",
+  cautious_negative: "warn", negative: "neg"
+};
+
+function renderIntelContent() {
+  const el = document.getElementById("intel-content");
+  if (!el) return;
+
+  if (currentIntelData === null) {
+    el.innerHTML = '<div class="intel-loading">Loading…</div>';
+    return;
+  }
+
+  if (currentIntelTab === "forces") {
+    const forces = currentIntelData.forces || [];
+    el.innerHTML = forces.length
+      ? forces.map(f => `
+          <div class="intel-card">
+            <div class="intel-card-head">
+              <span class="intel-card-title">${escapeHtmlG(f.title || "Untitled")}</span>
+              ${f.type ? `<span class="intel-pill ${forceTypePillClass[f.type] || "neutral"}">${escapeHtmlG(f.type.replace(/_/g, " "))}</span>` : ""}
+            </div>
+            ${f.description ? `<p class="intel-desc">${escapeHtmlG(f.description)}</p>` : ""}
+            ${(f.impact_magnitude || f.time_horizon) ? `
+              <div class="intel-meta">
+                <span>${f.impact_magnitude ? escapeHtmlG(f.impact_magnitude) + " impact" : ""}</span>
+                <span>${f.time_horizon ? escapeHtmlG(f.time_horizon) : ""}</span>
+              </div>
+            ` : ""}
+          </div>
+        `).join("")
+      : '<div class="intel-empty">No forces data for this node</div>';
+
+  } else if (currentIntelTab === "viewpoints") {
+    const viewpoints = currentIntelData.viewpoints || [];
+    el.innerHTML = viewpoints.length
+      ? viewpoints.map(v => `
+          <div class="intel-card">
+            <div class="intel-card-head">
+              <span class="intel-card-title">${escapeHtmlG(v.title || "Untitled")}</span>
+              ${v.stance ? `<span class="intel-pill ${stancePillClass[v.stance] || "neutral"}">${escapeHtmlG(v.stance.replace(/_/g, " "))}</span>` : ""}
+            </div>
+            ${v.description ? `<p class="intel-desc">${escapeHtmlG(v.description)}</p>` : ""}
+            ${(v.source_firm || v.source_date) ? `
+              <div class="intel-meta">
+                <span>${escapeHtmlG(v.source_firm || "")}</span>
+                <span>${escapeHtmlG(v.source_date || "")}</span>
+              </div>
+            ` : ""}
+          </div>
+        `).join("")
+      : '<div class="intel-empty">No viewpoints for this node</div>';
+
+  } else if (currentIntelTab === "market_sizing") {
+    const sizing = currentIntelData.market_sizing || [];
+    el.innerHTML = sizing.length ? sizing.map(renderSizingCard).join("") : '<div class="intel-empty">No market sizing data for this node</div>';
+  }
+}
+
+function renderSizingCard(s) {
+  const stats = [];
+  if (s.tam_value) stats.push({ label: "TAM", value: `${s.tam_value}${s.tam_unit ? " " + s.tam_unit : ""}` });
+  if (s.sam_value) stats.push({ label: "SAM", value: `${s.sam_value}${s.tam_unit ? " " + s.tam_unit : ""}` });
+  if (s.forecast_cagr) stats.push({ label: "Forecast CAGR", value: `${s.forecast_cagr}${s.forecast_cagr_period ? " · " + s.forecast_cagr_period : ""}` });
+  if (s.historical_cagr) stats.push({ label: "Historical CAGR", value: `${s.historical_cagr}${s.historical_cagr_period ? " · " + s.historical_cagr_period : ""}` });
+
+  const driverGroup = (label, items) => {
+    if (!Array.isArray(items) || !items.length) return "";
+    return `
+      <div class="intel-driver-group">
+        <div class="intel-driver-group-label">${label}</div>
+        ${items.map(d => `<div class="intel-driver-item">${escapeHtmlG(typeof d === "string" ? d : (d.driver || d.description || JSON.stringify(d)))}</div>`).join("")}
+      </div>
+    `;
+  };
+
+  return `
+    <div class="intel-card">
+      ${s.as_of_year ? `<div class="intel-card-title" style="margin-bottom:8px;">As of ${escapeHtmlG(s.as_of_year)}</div>` : ""}
+      ${stats.length ? `
+        <div class="intel-stats">
+          ${stats.map(st => `<div><div class="intel-stat-label">${st.label}</div><div class="intel-stat-value">${escapeHtmlG(st.value)}</div></div>`).join("")}
+        </div>
+      ` : ""}
+      ${driverGroup("Demand drivers", s.demand_drivers)}
+      ${driverGroup("P&L drivers", s.pnl_drivers)}
+      ${driverGroup("New opportunities", s.new_opportunities)}
+      ${(s.methodology || s.source_firm || s.data_confidence) ? `
+        <div class="intel-meta">
+          <span>${escapeHtmlG(s.source_firm || "")}${s.data_confidence ? ` · ${escapeHtmlG(s.data_confidence)} confidence` : ""}</span>
+          <span>${escapeHtmlG(s.source_date || "")}</span>
+        </div>
+      ` : ""}
+    </div>
+  `;
+}
+
+function escapeHtmlG(s) {
+  return String(s).replace(/[&<>"']/g, c => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+  }[c]));
+}
+
+// ---------- Focus / highlight ----------
+
+// Ordered set of node ids the user has explored into. Clicking a node in the
+// graph ADDS to this trail (accumulating focus); using a dropdown or search
+// result starts a fresh trail instead (jump-to behavior).
+let focusPath = [];
+
+function focusNode(nodeId, opts = {}) {
+  const reset = opts.reset !== false; // default true
+  const node = cy.getElementById(nodeId);
+  if (!node || node.empty()) return;
+
+  if (reset) {
+    focusPath = [nodeId];
+  } else if (!focusPath.includes(nodeId)) {
+    focusPath.push(nodeId);
+  }
+
+  cy.elements().removeClass("dimmed highlighted");
+  cy.elements().addClass("dimmed");
+
+  let unionEles = cy.collection();
+  focusPath.forEach(id => {
+    const n = cy.getElementById(id);
+    if (n && !n.empty()) unionEles = unionEles.union(n.closedNeighborhood());
+  });
+  unionEles.removeClass("dimmed").addClass("highlighted");
+
+  cy.animate({
+    fit: { eles: unionEles, padding: 80 }
+  }, { duration: 400 });
+
+  showNodeInfo(node);
+}
+
+function clearFocus() {
+  focusPath = [];
+  cy.elements().removeClass("dimmed highlighted");
+  cy.fit(null, 40);
+  clearNodeInfo();
+}
+
+// ---------- Dropdowns ----------
+
+function populateDropdowns() {
+  const sectorSelect = document.getElementById("sector-select");
+  const igSelect = document.getElementById("ig-select");
+  const subSelect = document.getElementById("sub-select");
+
+  const sectors = allNodes.filter(n => n.group === "Sector").sort((a, b) => a.label.localeCompare(b.label));
+  sectors.forEach(s => {
+    const opt = document.createElement("option");
+    opt.value = s.id;
+    opt.textContent = s.label;
+    sectorSelect.appendChild(opt);
+  });
+
+  sectorSelect.addEventListener("change", () => {
+    const sectorId = sectorSelect.value;
+    igSelect.innerHTML = '<option value="">All Industry Groups</option>';
+    subSelect.innerHTML = '<option value="">All SubIndustries</option>';
+    subSelect.disabled = true;
+
+    if (!sectorId) {
+      igSelect.disabled = true;
+      clearFocus();
+      return;
+    }
+
+    const igs = (childrenOf[sectorId] || [])
+      .map(id => allNodes.find(n => n.id === id))
+      .filter(n => n && n.group === "IndustryGroup")
+      .sort((a, b) => a.label.localeCompare(b.label));
+
+    igs.forEach(ig => {
+      const opt = document.createElement("option");
+      opt.value = ig.id;
+      opt.textContent = ig.label;
+      igSelect.appendChild(opt);
+    });
+    igSelect.disabled = igs.length === 0;
+
+    focusNode(sectorId);
+  });
+
+  igSelect.addEventListener("change", () => {
+    const igId = igSelect.value;
+    subSelect.innerHTML = '<option value="">All SubIndustries</option>';
+
+    if (!igId) {
+      subSelect.disabled = true;
+      if (sectorSelect.value) focusNode(sectorSelect.value);
+      return;
+    }
+
+    const subs = (childrenOf[igId] || [])
+      .map(id => allNodes.find(n => n.id === id))
+      .filter(n => n && n.group === "SubIndustry")
+      .sort((a, b) => a.label.localeCompare(b.label));
+
+    subs.forEach(s => {
+      const opt = document.createElement("option");
+      opt.value = s.id;
+      opt.textContent = s.label;
+      subSelect.appendChild(opt);
+    });
+    subSelect.disabled = subs.length === 0;
+
+    focusNode(igId);
+  });
+
+  subSelect.addEventListener("change", () => {
+    const subId = subSelect.value;
+    if (!subId) {
+      if (igSelect.value) focusNode(igSelect.value);
+      return;
+    }
+    focusNode(subId);
+  });
+
+  document.getElementById("reset-btn").addEventListener("click", () => {
+    sectorSelect.value = "";
+    igSelect.innerHTML = '<option value="">All Industry Groups</option>';
+    igSelect.disabled = true;
+    subSelect.innerHTML = '<option value="">All SubIndustries</option>';
+    subSelect.disabled = true;
+    document.getElementById("search-input").value = "";
+    document.getElementById("search-results").classList.remove("open");
+    clearFocus();
+  });
+}
+
+// ---------- Search ----------
+
+function setupSearch() {
+  const input = document.getElementById("search-input");
+  const results = document.getElementById("search-results");
+
+  input.addEventListener("input", () => {
+    const q = input.value.trim().toLowerCase();
+    if (q.length < 2) {
+      results.classList.remove("open");
+      results.innerHTML = "";
+      return;
+    }
+    const matches = allNodes
+      .filter(n => n.label.toLowerCase().includes(q))
+      .slice(0, 20);
+
+    if (matches.length === 0) {
+      results.innerHTML = '<div class="search-result">No matches</div>';
+    } else {
+      results.innerHTML = matches.map(n => `
+        <div class="search-result" data-id="${n.id}">
+          <span>${n.label}</span>
+          <span class="tag">${n.group}</span>
+        </div>
+      `).join("");
+    }
+    results.classList.add("open");
+  });
+
+  results.addEventListener("click", e => {
+    const row = e.target.closest(".search-result");
+    if (!row || !row.dataset.id) return;
+    focusNode(row.dataset.id);
+    results.classList.remove("open");
+    input.value = allNodes.find(n => n.id === row.dataset.id)?.label || "";
+  });
+
+  document.addEventListener("click", e => {
+    if (!e.target.closest("#search-wrap")) {
+      results.classList.remove("open");
+    }
+  });
+}
+
+// ---------- Sidebar resize ----------
+
+function setupSidebarResize() {
+  const handle = document.getElementById("resize-handle");
+  const sidebar = document.getElementById("sidebar");
+  const MIN_WIDTH = 240;
+  const MAX_WIDTH = 560;
+  let dragging = false;
+
+  handle.addEventListener("mousedown", e => {
+    dragging = true;
+    handle.classList.add("dragging");
+    document.body.style.userSelect = "none";
+    document.body.style.cursor = "col-resize";
+    e.preventDefault();
+  });
+
+  document.addEventListener("mousemove", e => {
+    if (!dragging) return;
+    const newWidth = window.innerWidth - e.clientX;
+    const clamped = Math.min(MAX_WIDTH, Math.max(MIN_WIDTH, newWidth));
+    sidebar.style.width = clamped + "px";
+    if (cy) cy.resize();
+  });
+
+  document.addEventListener("mouseup", () => {
+    if (!dragging) return;
+    dragging = false;
+    handle.classList.remove("dragging");
+    document.body.style.userSelect = "";
+    document.body.style.cursor = "";
+    if (cy) cy.resize();
+  });
+}
+
+setupSidebarResize();
+
+// ---------- Sidebar collapse ----------
+
+function setupSidebarCollapse() {
+  const sidebar = document.getElementById("sidebar");
+  const handle = document.getElementById("resize-handle");
+  const toggleBtn = document.getElementById("sidebar-toggle");
+  let collapsed = false;
+  let lastWidth = sidebar.style.width || "320px";
+
+  toggleBtn.addEventListener("click", () => {
+    collapsed = !collapsed;
+    if (collapsed) {
+      lastWidth = sidebar.style.width || "320px";
+      sidebar.style.width = "0px";
+      sidebar.style.padding = "0px";
+      sidebar.style.overflow = "hidden";
+      sidebar.style.border = "none";
+      handle.style.display = "none";
+      toggleBtn.innerHTML = "&lsaquo;";
+      toggleBtn.title = "Expand sidebar";
+    } else {
+      sidebar.style.width = lastWidth;
+      sidebar.style.padding = "16px";
+      sidebar.style.overflow = "auto";
+      sidebar.style.border = "";
+      handle.style.display = "";
+      toggleBtn.innerHTML = "&rsaquo;";
+      toggleBtn.title = "Collapse sidebar";
+    }
+    if (cy) cy.resize();
+  });
+}
+
+setupSidebarCollapse();
+
+// ---------- Sidebar top-level tabs: Sector / Company ----------
+
+// Company data is a completely separate subgraph (Company/Segment nodes)
+// with no connection to the taxonomy graph on the canvas, so this whole
+// section is independent of loadGraph() / cy — it can set up and even load
+// data before or regardless of whether the sector graph finishes loading.
+function setupSidebarTopTabs() {
+  document.querySelectorAll("#sidebar-top-tabs .top-tab").forEach(btn => {
+    btn.addEventListener("click", () => {
+      const tab = btn.dataset.sidebarTab;
+      document.querySelectorAll("#sidebar-top-tabs .top-tab").forEach(b => b.classList.toggle("active", b === btn));
+      document.getElementById("sector-panel").style.display = tab === "sector" ? "" : "none";
+      document.getElementById("company-panel").style.display = tab === "company" ? "" : "none";
+      document.getElementById("company-filterbar").style.display = tab === "company" ? "" : "none";
+      document.getElementById("filterbar").style.display = tab === "sector" ? "" : "none";
+      if (tab === "company") {
+        ensureCompanyIndexLoaded();
+        if (currentCompanyData && currentCompanyData.graph) renderCompanyGraph(currentCompanyData.graph);
+      } else {
+        restoreSectorGraph();
+      }
+    });
+  });
+}
+
+// ---------- Company tab: index + selector ----------
+
+let companyIndex = null; // [{ticker, company_name}, ...], loaded lazily on first visit to the Company tab
+let companyIndexPromise = null;
+
+function ensureCompanyIndexLoaded() {
+  if (companyIndexPromise) return companyIndexPromise;
+  companyIndexPromise = fetch("company-data/index.json", { cache: "no-store" })
+    .then(res => res.ok ? res.json() : { companies: [] })
+    .then(data => {
+      companyIndex = data.companies || [];
+      populateCompanySelect();
+    })
+    .catch(() => {
+      companyIndex = [];
+      populateCompanySelect();
+    });
+  return companyIndexPromise;
+}
+
+function populateCompanySelect() {
+  const select = document.getElementById("company-select");
+  if (!companyIndex.length) {
+    select.innerHTML = '<option value="">No companies found</option>';
+    return;
+  }
+  select.innerHTML = '<option value="">Select a company…</option>' +
+    companyIndex.map(c => `<option value="${c.ticker}">${escapeHtmlG(c.company_name)}</option>`).join("");
+}
+
+function setupCompanySelector() {
+  document.getElementById("company-select").addEventListener("change", e => {
+    if (e.target.value) loadCompany(e.target.value);
+  });
+
+  const searchInput = document.getElementById("company-search-input");
+  const resultsEl = document.getElementById("company-search-results");
+
+  searchInput.addEventListener("input", () => {
+    const q = searchInput.value.trim().toLowerCase();
+    if (!q || !companyIndex) {
+      resultsEl.classList.remove("open");
+      resultsEl.innerHTML = "";
+      return;
+    }
+    const matches = companyIndex.filter(c => c.company_name.toLowerCase().includes(q) || c.ticker.toLowerCase().includes(q)).slice(0, 20);
+    resultsEl.innerHTML = matches.map(c => `<div class="search-result" data-ticker="${c.ticker}">${escapeHtmlG(c.company_name)}</div>`).join("");
+    resultsEl.classList.toggle("open", matches.length > 0);
+  });
+
+  resultsEl.addEventListener("click", e => {
+    const row = e.target.closest("[data-ticker]");
+    if (!row) return;
+    searchInput.value = "";
+    resultsEl.classList.remove("open");
+    resultsEl.innerHTML = "";
+    document.getElementById("company-select").value = row.dataset.ticker;
+    loadCompany(row.dataset.ticker);
+  });
+
+  document.addEventListener("click", e => {
+    if (!e.target.closest("#company-search-wrap")) resultsEl.classList.remove("open");
+  });
+}
+
+// ---------- Company tab: data + rendering ----------
+
+let currentCompanyData = null;
+let currentCompanyTab = "overview"; // "overview" | "financials" | "ratios" | "segments" | "people" | "debt"
+let currentFinancialsScope = "consolidated"; // "consolidated" | "standalone"
+let companyRequestId = 0;
+
+async function loadCompany(ticker) {
+  const requestId = ++companyRequestId;
+  document.getElementById("company-content").innerHTML = '<div class="intel-loading">Loading…</div>';
+
+  let data = null;
+  try {
+    const res = await fetch(`company-data/${ticker}.json`, { cache: "no-store" });
+    data = res.ok ? await res.json() : null;
+  } catch (err) {
+    data = null;
+  }
+  if (requestId !== companyRequestId) return; // a newer company was selected meanwhile
+
+  currentCompanyData = data;
+  renderCompanyPanel();
+  if (data && data.graph) renderCompanyGraph(data.graph);
+}
+
+function renderCompanyPanel() {
+  const el = document.getElementById("company-content");
+  if (!currentCompanyData) {
+    el.innerHTML = '<div class="empty">Couldn’t load data for this company</div>';
+    return;
+  }
+
+  el.innerHTML = `
+    <div id="company-header">
+      <div class="company-title">${escapeHtmlG(currentCompanyData.company_name || currentCompanyData.ticker)}</div>
+    </div>
+    <div id="company-subtabs">
+      <button class="company-subtab${currentCompanyTab === "overview" ? " active" : ""}" data-company-subtab="overview">Overview</button>
+      <button class="company-subtab${currentCompanyTab === "financials" ? " active" : ""}" data-company-subtab="financials">Financials</button>
+      <button class="company-subtab${currentCompanyTab === "ratios" ? " active" : ""}" data-company-subtab="ratios">Ratios</button>
+      <button class="company-subtab${currentCompanyTab === "segments" ? " active" : ""}" data-company-subtab="segments">Segments</button>
+      <button class="company-subtab${currentCompanyTab === "people" ? " active" : ""}" data-company-subtab="people">People</button>
+      <button class="company-subtab${currentCompanyTab === "debt" ? " active" : ""}" data-company-subtab="debt">Debt & Relationships</button>
+    </div>
+    <div id="company-subcontent"></div>
+  `;
+  renderCompanySubcontent();
+}
+
+function renderCompanySubcontent() {
+  const el = document.getElementById("company-subcontent");
+  if (!el || !currentCompanyData) return;
+
+  const renderers = {
+    overview: renderOverviewSubtab,
+    financials: renderFinancialsSubtab,
+    ratios: renderRatiosSubtab,
+    segments: renderSegmentsSubtab,
+    people: renderPeopleSubtab,
+    debt: renderDebtSubtab
+  };
+  (renderers[currentCompanyTab] || renderOverviewSubtab)(el);
+}
+
+function formatMetricValue(value, unit) {
+  if (typeof value !== "number") return value === null || value === undefined ? "—" : String(value);
+  const formatted = value.toLocaleString(undefined, { maximumFractionDigits: 2 });
+  return unit ? `${formatted} ${unit}` : formatted;
+}
+
+function renderMetricRow(metric) {
+  const hasSeries = metric.series && metric.series.length > 1;
+  return `
+    <div class="metric-row${hasSeries ? " expandable" : ""}">
+      <div class="metric-summary" ${hasSeries ? 'data-metric-toggle="1"' : ""}>
+        <span class="metric-label">${escapeHtmlG(metric.label)}</span>
+        <span class="metric-summary-right">
+          <span class="metric-value">${escapeHtmlG(formatMetricValue(metric.latest_value, metric.unit))}</span>
+          <span class="metric-period-pill">${escapeHtmlG(metric.latest_period)}</span>
+          ${hasSeries ? '<span class="metric-chevron">⌄</span>' : ""}
+        </span>
+      </div>
+      ${hasSeries ? `
+        <div class="metric-detail">
+          <div class="metric-detail-inner">
+            <table class="metric-series-table">
+              ${metric.series.slice().reverse().map(e => `
+                <tr class="${e.period === metric.latest_period ? "latest" : ""}">
+                  <td>${escapeHtmlG(e.period)}</td>
+                  <td>${escapeHtmlG(formatMetricValue(e.value, e.unit))}</td>
+                </tr>
+              `).join("")}
+            </table>
+          </div>
+        </div>
+      ` : ""}
+    </div>
+  `;
+}
+
+function renderStatementGroup(title, metrics) {
+  if (!metrics || !metrics.length) return "";
+  return `
+    <div class="statement-group">
+      <div class="statement-group-title">${title}</div>
+      ${metrics.map(renderMetricRow).join("")}
+    </div>
+  `;
+}
+
+function renderFinancialsSubtab(el) {
+  const fin = currentCompanyData.financials || {};
+  const scope = currentFinancialsScope;
+  const sections = [
+    ["Profit and loss", (fin.pnl || {})[scope]],
+    ["Balance sheet", (fin.balance_sheet || {})[scope]],
+    ["Cash flow", (fin.cash_flow || {})[scope]]
+  ];
+  const html = sections.map(([title, metrics]) => renderStatementGroup(title, metrics)).join("");
+
+  el.innerHTML = `
+    <div id="financials-scope-toggle">
+      <button class="scope-btn${scope === "consolidated" ? " active" : ""}" data-financials-scope="consolidated">Consolidated</button>
+      <button class="scope-btn${scope === "standalone" ? " active" : ""}" data-financials-scope="standalone">Standalone</button>
+    </div>
+    ${html || '<div class="empty">No financial data for this company</div>'}
+  `;
+}
+
+function renderRatiosSubtab(el) {
+  const sections = [
+    ["Ratios", currentCompanyData.ratios],
+    ["Operational metrics", currentCompanyData.operational_metrics],
+    ["Unit economics", currentCompanyData.unit_economics],
+    ["Market data", currentCompanyData.market_data]
+  ];
+  const html = sections.map(([title, metrics]) => renderStatementGroup(title, metrics)).join("");
+  el.innerHTML = html || '<div class="empty">No ratios or metrics for this company</div>';
+}
+
+function renderNoteRow(note) {
+  const latest = note.entries[0];
+  return `
+    <div class="note-row">
+      <div class="note-summary" data-note-toggle="1">
+        <span class="note-label">${escapeHtmlG(note.label)}</span>
+        <span class="note-summary-right">
+          <span class="metric-period-pill">${escapeHtmlG(note.latest_period)}</span>
+          <span class="metric-chevron">⌄</span>
+        </span>
+      </div>
+      <div class="note-detail">
+        <div class="note-detail-inner">
+          ${note.entries.map(e => `
+            <div class="note-entry">
+              <div class="note-entry-period">${escapeHtmlG(e.period)}</div>
+              <div class="note-entry-text">${escapeHtmlG(e.text)}</div>
+            </div>
+          `).join("")}
+        </div>
+      </div>
+    </div>
+  `;
+}
+
+function renderNoteGroup(title, notes) {
+  if (!notes || !notes.length) return "";
+  return `
+    <div class="statement-group">
+      <div class="statement-group-title">${title}</div>
+      ${notes.map(renderNoteRow).join("")}
+    </div>
+  `;
+}
+
+function renderOverviewSubtab(el) {
+  const identity = currentCompanyData.identity || {};
+  const overview = currentCompanyData.overview || {};
+
+  const identityRows = Object.entries(identity).filter(([, v]) => v);
+  const identityHtml = identityRows.length ? `
+    <div class="statement-group">
+      <div class="statement-group-title">Identity</div>
+      ${identityRows.map(([k, v]) => `
+        <div class="regulator-row">
+          <span class="regulator-name">${escapeHtmlG(k)}</span>
+          <span class="regulator-meta">${escapeHtmlG(String(v))}</span>
+        </div>
+      `).join("")}
+    </div>
+  ` : "";
+
+  const sections = [
+    ["Business description", overview.business_description],
+    ["Guidance", overview.guidance],
+    ["P&L drivers", overview.pnl_drivers],
+    ["Governance", overview.governance]
+  ];
+  const notesHtml = sections.map(([title, notes]) => renderNoteGroup(title, notes)).join("");
+
+  el.innerHTML = identityHtml + notesHtml || '<div class="empty">No overview data for this company</div>';
+}
+
+function renderPeopleSubtab(el) {
+  const people = currentCompanyData.people || [];
+  el.innerHTML = people.length
+    ? people.map(p => `
+        <div class="person-card">
+          <div class="person-card-head">
+            <span class="person-name">${escapeHtmlG(p.full_name || p.person_id || "Unnamed")}</span>
+            ${p.role ? `<span class="person-role-pill">${escapeHtmlG(p.role)}</span>` : ""}
+          </div>
+          ${(p.notes || []).map(renderNoteRow).join("") || '<div class="rel-empty">No further details</div>'}
+        </div>
+      `).join("")
+    : '<div class="empty">No people on record for this company</div>';
+}
+
+function renderDebtSubtab(el) {
+  const debt = currentCompanyData.debt || [];
+  const regulators = currentCompanyData.regulators || [];
+  const relationships = currentCompanyData.relationships || [];
+
+  const debtHtml = debt.length ? `
+    <div class="statement-group">
+      <div class="statement-group-title">Debt & financing</div>
+      ${debt.map(d => `
+        <div class="debt-card">
+          <div class="debt-card-head">
+            <span class="debt-lender">${escapeHtmlG(d.lender || "Unknown lender")}</span>
+            ${d.instrument_type ? `<span class="debt-type-pill">${escapeHtmlG(d.instrument_type)}</span>` : ""}
+          </div>
+          <div class="debt-fields">
+            ${d.instrument_label ? `<span class="debt-field-label">Instrument</span><span class="debt-field-value">${escapeHtmlG(d.instrument_label)}</span>` : ""}
+            ${d.amount != null ? `<span class="debt-field-label">Amount</span><span class="debt-field-value">${escapeHtmlG(formatMetricValue(d.amount, d.unit))}</span>` : ""}
+            ${d.outstanding_amount != null ? `<span class="debt-field-label">Outstanding</span><span class="debt-field-value">${escapeHtmlG(formatMetricValue(d.outstanding_amount, d.unit))}</span>` : ""}
+            ${d.interest_rate != null ? `<span class="debt-field-label">Interest rate</span><span class="debt-field-value">${escapeHtmlG(String(d.interest_rate))}${d.rate_type ? " " + escapeHtmlG(d.rate_type) : ""}</span>` : ""}
+            ${d.tenor_years != null ? `<span class="debt-field-label">Tenor</span><span class="debt-field-value">${escapeHtmlG(String(d.tenor_years))} yrs</span>` : ""}
+            ${d.period ? `<span class="debt-field-label">Period</span><span class="debt-field-value">${escapeHtmlG(d.period)}</span>` : ""}
+          </div>
+        </div>
+      `).join("")}
+    </div>
+  ` : "";
+
+  const relHtml = relationships.length ? `
+    <div class="statement-group">
+      <div class="statement-group-title">Relationships</div>
+      ${relationships.map(r => `
+        <div class="rel-card">
+          <div class="rel-card-head">
+            <span class="rel-name">${escapeHtmlG(r.to_node || "Unknown entity")}</span>
+            ${r.relationship_type ? `<span class="rel-type-pill">${escapeHtmlG(r.relationship_type)}</span>` : ""}
+          </div>
+          <div class="debt-fields">
+            ${r.latest_period ? `<span class="rel-field-label">Latest period</span><span class="rel-field-value">${escapeHtmlG(r.latest_period)}</span>` : ""}
+            ${r.latest_detail ? Object.entries(r.latest_detail).map(([k, v]) => `<span class="rel-field-label">${escapeHtmlG(k)}</span><span class="rel-field-value">${escapeHtmlG(String(v))}</span>`).join("") : ""}
+          </div>
+        </div>
+      `).join("")}
+    </div>
+  ` : "";
+
+  const regHtml = regulators.length ? `
+    <div class="statement-group">
+      <div class="statement-group-title">Regulators</div>
+      ${regulators.map(r => `
+        <div class="regulator-row">
+          <span class="regulator-name">${escapeHtmlG(r.name || "Unknown")}${r.acronym ? ` (${escapeHtmlG(r.acronym)})` : ""}</span>
+          <span class="regulator-meta">${escapeHtmlG(r.type || "")}</span>
+        </div>
+      `).join("")}
+    </div>
+  ` : "";
+
+  const html = debtHtml + relHtml + regHtml;
+  el.innerHTML = html || '<div class="empty">No debt, relationship, or regulator data for this company</div>';
+}
+
+function renderSegmentsSubtab(el) {
+  const segments = currentCompanyData.segments || [];
+  el.innerHTML = segments.length
+    ? segments.map(seg => `
+        <div class="segment-card">
+          <div class="segment-card-head">
+            <span class="segment-name">${escapeHtmlG(seg.segment_name || "Unnamed segment")}</span>
+            ${seg.segment_type ? `<span class="segment-type-pill">${escapeHtmlG(seg.segment_type)}</span>` : ""}
+          </div>
+          ${(seg.metrics || []).map(renderMetricRow).join("") || '<div class="rel-empty">No metrics for this segment</div>'}
+        </div>
+      `).join("")
+    : '<div class="empty">No segments for this company</div>';
+}
+
+function setupCompanyPanelClicks() {
+  document.getElementById("company-panel").addEventListener("click", e => {
+    const metricToggle = e.target.closest("[data-metric-toggle]");
+    if (metricToggle) {
+      metricToggle.closest(".metric-row").classList.toggle("open");
+      return;
+    }
+
+    const noteToggle = e.target.closest("[data-note-toggle]");
+    if (noteToggle) {
+      noteToggle.closest(".note-row").classList.toggle("open");
+      return;
+    }
+
+    const subtabBtn = e.target.closest("[data-company-subtab]");
+    if (subtabBtn) {
+      currentCompanyTab = subtabBtn.dataset.companySubtab;
+      renderCompanySubcontent();
+      document.querySelectorAll("#company-subtabs .company-subtab").forEach(btn => {
+        btn.classList.toggle("active", btn === subtabBtn);
+      });
+      return;
+    }
+
+    const scopeBtn = e.target.closest("[data-financials-scope]");
+    if (scopeBtn) {
+      currentFinancialsScope = scopeBtn.dataset.financialsScope;
+      renderCompanySubcontent();
+    }
+  });
+}
+
+setupSidebarTopTabs();
+setupCompanySelector();
+setupCompanyPanelClicks();
+setupFilterPanels();
+
+loadGraph().catch(err => {
+  document.getElementById("last-updated").textContent = "Failed to load graph-data.json";
+  console.error(err);
+});
+</script>
+
+</body>
+</html>

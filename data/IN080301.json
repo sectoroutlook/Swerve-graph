@@ -1,0 +1,270 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Global supply chain diversification shifts electronics manufacturing to India.",
+      "description": "Geopolitical risk re-pricing, resilience concerns (post-COVID-19), and regulatory pressures (e.g., US/EU Chips Acts, India's PLI schemes) are compelling OEMs to diversify from China-centric supply chains. This structural pivot towards multi-node manufacturing networks strategically positions India as a key alternative for electronics production, particularly benefiting labor-intensive consumer electronics and auto-adjacent manufacturing segments.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 2,
+      "title": "Government incentives boost domestic consumer electronics manufacturing.",
+      "description": "Production-Linked Incentive (PLI) schemes for large-scale electronics and IT hardware (covering smartphones, tablets, laptops) have been a primary catalyst for India's EMS growth. These incentives provide a fiscal bridge, making India cost-competitive and attracting significant investments from both domestic conglomerates and global EMS players, leading to rapid capacity build-outs and job creation in mobile phone assembly and other consumer electronics segments.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 3,
+      "title": "Reliance on imported components limits value capture and competitiveness.",
+      "description": "India's consumer electronics manufacturing, particularly smartphones, heavily depends on imported components (semiconductors, displays, PCBs, batteries). This reliance leads to higher working capital intensity due to long import lead times, extended New Product Introduction (NPI) cycles, and increased landed costs from duties and freight. Consequently, it structurally limits domestic value addition and margin retention within the electronics supply chain.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 4,
+      "title": "AI integration drives demand for advanced consumer electronics.",
+      "description": "AI is becoming a pervasive, general-purpose capability embedded across daily life, notably with 'AI copilots on mobile devices' and new 'AI-native devices' such as smart glasses, inference-optimized laptops, and AR/XR wearables. This shift towards agent-centric, human-centric ecosystems and distributed intelligence across device, edge, and cloud will significantly increase demand for consumer electronics with advanced computing and seamless connectivity capabilities.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-02-26"
+    },
+    {
+      "index": 5,
+      "title": "Advanced wireless networks are critical for next-gen consumer devices.",
+      "description": "5G has already expanded connectivity for smartphones and IoT devices, and 6G is being engineered to support AI-native, real-time, spatially aware systems at scale. This evolution in wireless connectivity, offering higher speeds, lower latency, and increased capacity, is a crucial determinant for the performance and widespread adoption of AI-enabled consumer electronics, AR/VR devices, and the broader smart home ecosystem.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-02-26"
+    },
+    {
+      "index": 6,
+      "title": "Productivity and automation gaps hinder complex electronics manufacturing.",
+      "description": "Compared to established EMS hubs like China and Vietnam, India faces productivity gaps stemming from lower automation density, limited exposure to complex manufacturing programs, and uneven availability of skilled technicians. These deficiencies partially offset India's labor cost advantages, particularly in high-precision and high-reliability consumer electronics, impeding the country's ability to move up the electronics manufacturing value chain from basic assembly.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 7,
+      "title": "Rising incomes fuel robust domestic demand for electronic products.",
+      "description": "India benefits from a large consumer base and growing per capita disposable incomes and consumption. This robust domestic demand acts as a significant tailwind for the consumer electronics sector, driving accelerated adoption of electronic products like smartphones. The strong growth in segments such as ultra-premium smartphones further indicates a vibrant market that supports local manufacturing and sales.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 8,
+      "title": "AI-native devices reshape network demand, requiring high uplink capacity.",
+      "description": "AI applications, especially multimodal assistants, AR/XR devices, and AI-generated content, are fundamentally shifting network traffic from downlink-heavy to significantly more bidirectional and uplink-intensive. This structural change, with uplink traffic projected to grow 20-35% annually, will require consumer electronic devices and networks capable of continuous, high-volume data transmission from the device to the network, profoundly impacting future device design and connectivity requirements.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-02-26"
+    },
+    {
+      "index": 9,
+      "title": "Domestic market price sensitivity limits high-end consumer electronics growth.",
+      "description": "India's electronics sector faces constraints from a heavy reliance on domestic demand, characterized by significant price sensitivity and limited demand for high-end products. This factor limits the margin potential for consumer electronics brands and their ability to penetrate higher-value segments domestically, posing a challenge for sustained profitability and premium market development compared to export-oriented strategies.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 10,
+      "title": "Increased R&D and manufacturing investments strengthen local capabilities.",
+      "description": "Global technology firms, including LG Electronics and Samsung Electronics, are establishing R&D centers in India, focusing on semiconductor design and AI-enabled technologies for consumer applications. Concurrently, investments in manufacturing facilities by major players like Foxconn, often supported by government schemes, are bolstering domestic production capabilities. These combined investments are crucial for advancing India's role beyond assembly and integrating consumer electronics into the global value chain.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "India's EMS market growing but remains lower value despite mobile leadership.",
+      "description": "India's Electronic Manufacturing Services (EMS) market expanded from USD10-12 billion in FY20 to USD40-45 billion in FY25, driven by domestic demand, exports, and outsourcing, with mobile phone assembly leading the growth. However, despite this rapid expansion and global leadership in mobile phone assembly, India's share of global EMS manufacturing remains modest at 5-6%, and its operations are predominantly in lower-value segments due to ecosystem immaturity and import dependence.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "source_doc_id": "09966666-4bad-5f95-a501-252e756a86f2"
+    },
+    {
+      "index": 2,
+      "title": "India poised to become a significant alternative node in global electronics supply chains.",
+      "description": "The global manufacturing landscape is undergoing a structural transformation, moving away from purely cost-optimized production to a framework valuing resilience, geopolitical risk re-pricing, and regulatory pressures. This shift positions India as a potential alternative node in the global electronics supply chain, benefiting from its expanding manufacturing base, policy support (e.g., PLI), and growing domestic demand, particularly in consumer electronics.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "source_doc_id": "09966666-4bad-5f95-a501-252e756a86f2"
+    },
+    {
+      "index": 3,
+      "title": "India's electronics sector growth is exciting, but faces competitiveness constraints.",
+      "description": "India's electronics sector has achieved sixfold growth to $125 billion by 2024-25, with mobile phones being the largest and fastest-growing subsegment. However, key constraints include heavy dependence on imports for critical components, cost disadvantages compared to other manufacturing hubs, insufficient R&D investment, and strategic ecosystem bottlenecks, collectively hindering true global competitiveness beyond assembly.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "source_doc_id": "09966666-4bad-5f95-a501-252e756a86f2"
+    },
+    {
+      "index": 4,
+      "title": "India's mobile manufacturing capability recognized globally, becoming top smartphone exporter.",
+      "description": "India has emerged as the world's second-largest mobile phone manufacturer, with production reaching US$ 61.6 billion in 2024–25. Notably, in Q2 FY 2025–26, India surpassed China to become the top smartphone exporter to the United States. This significant achievement is driven by increasing domestic demand, supportive government policies, and a rapidly expanding manufacturing base.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "8663d286-15ea-5d30-acf3-a4efd5c639da"
+    },
+    {
+      "index": 5,
+      "title": "Long-term value capture in electronics requires domestic component ecosystem development.",
+      "description": "India's current EMS strategy is heavily concentrated in mobile and consumer electronics assembly, reflecting a 'scale without depth' paradox. With imported component content still 60-90% of bill of materials, domestic value-add and margin retention remain limited. To move beyond a high-volume, low-value node, India must develop a credible domestic component supply chain and close existing productivity gaps in manufacturing.",
+      "stance": "cautious_negative",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "source_doc_id": "09966666-4bad-5f95-a501-252e756a86f2"
+    },
+    {
+      "index": 6,
+      "title": "6G and AI convergence will fundamentally transform consumer device experiences.",
+      "description": "The AI decade necessitates 6G to enable intelligence everywhere, profoundly reshaping how people interact with consumer electronic devices. This next generation of wireless connectivity, building on 5G, will merge physical and virtual worlds, powering AI-native mobile devices, wearables, AR/XR, and smart home systems. It demands seamless, low-latency, and high-capacity connectivity to support continuous, multimodal AI agents and distributed computing across device, edge, and cloud.",
+      "stance": "positive",
+      "source_firm": "BCG Global",
+      "source_date": "2026-02-26",
+      "source_doc_id": "c168c24e-aeed-55cf-b9c8-d34aea2e445d"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 61.6,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increasing Domestic Demand",
+          "description": "Growing consumer base and rising per capita disposable incomes in India lead to accelerated adoption of mobile phones."
+        },
+        {
+          "driver": "Government Policy Support",
+          "description": "Production-Linked Incentive (PLI) schemes and other government initiatives provide fiscal bridges and enable companies to establish manufacturing plants in India."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's mobile phone production volume, converted from INR to USD, as reported by IBEF.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 30.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Global Demand for Smartphones",
+          "description": "Rising international consumption of mobile phones, particularly premium segments like iPhones."
+        },
+        {
+          "driver": "Diversified Manufacturing Strategy",
+          "description": "Global OEMs shifting production away from single geographies like China, favoring India as an export hub."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The significant share of iPhones (76%) in smartphone exports suggests strong potential for India to establish itself as a hub for high-value consumer electronics exports.",
+          "opportunity": "Premium Segment Exports"
+        }
+      ],
+      "methodology": "Smartphone export value for the calendar year 2025, as reported by IBEF, highlighting key contributors like iPhones.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 140.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing Domestic Demand",
+          "description": "Increasing demand from the Indian consumer market for mobile handsets."
+        },
+        {
+          "driver": "Government Support Policies",
+          "description": "Policies promoting local manufacturing and incentivizing handset production create a larger accessible market for OEMs."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated addressable market for Original Equipment Manufacturers (OEMs) within the handset sector in India.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Digital Economy Growth",
+          "description": "The expansion of India's overall digital economy creates a larger market for electronic products and manufacturing."
+        },
+        {
+          "driver": "Increased Technology Penetration",
+          "description": "Growing adoption of consumer electronics and mobile devices within the Indian population drives demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Analysis of contributions of sub-segments (mobile phones, consumer electronics) to the overall US$ 400 billion electronics manufacturing within India's digital economy.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    }
+  ],
+  "sources": [
+    "KPMG",
+    "IBEF",
+    "BCG Global"
+  ]
+}

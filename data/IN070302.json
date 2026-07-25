@@ -1,0 +1,783 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Health and motor segments drive non-life premium expansion",
+      "description": "The health, marine, and personal accident segments, along with motor insurance, are experiencing healthy traction and robust premium expansion. Health insurance remains the primary growth driver for the non-life industry, supported by increasing consumer awareness, demand for individual covers, and expanding retail distribution. Motor OD and TP premiums also show strong growth, bolstered by healthy automobile sales across segments, creating significant tailwinds for the overall non-life sector.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-22"
+    },
+    {
+      "index": 2,
+      "title": "Geopolitical uncertainties elevate claims risk and necessitate repricing",
+      "description": "Ongoing geopolitical tensions, particularly the West Asia conflict, are a key monitorable for the non-life insurance sector. Prolonged disruptions in global trade routes, higher freight risks, and volatility in cargo movement could significantly increase claims risk and necessitate repricing in segments such as marine, fire, and transit insurance. While insurers may partially offset these risks through pricing adjustments and tighter underwriting, profitability remains sensitive to these elevated claims experiences and catastrophe-related losses.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-22"
+    },
+    {
+      "index": 3,
+      "title": "IRDAI 1/n accounting rule impacts premium growth reporting",
+      "description": "The IRDAI revised reporting formats to exclude premiums from long-term policies, effective October 1, 2024, and introduced the 1/n accounting rule. This mandates insurers to recognize premium income evenly over the policy term, ensuring consistency and transparency in financial reporting. While intended for clarity, it resulted in a moderated reported industry growth, with an estimated 2–3% impact on reported premiums in FY25, particularly affecting y-o-y growth comparisons.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-22"
+    },
+    {
+      "index": 4,
+      "title": "Private insurers gaining significant market share from public sector",
+      "description": "Private general insurers, including Standalone Health Insurers (SAHIs), are consistently outpacing public sector insurers in growth. Their market share increased to 65.4% in April 2026 from 63.2% in April 2025, reaching 70.7% in FY26. This structural shift is driven by stronger positioning in high-growth segments like retail health and better distribution traction, indicating a sustained trend towards private sector dominance in the Indian non-life insurance market.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-22"
+    },
+    {
+      "index": 5,
+      "title": "GST reduction on health insurance boosts affordability and penetration",
+      "description": "The reduction in Goods and Services Tax (GST) on health insurance has significantly improved affordability for policyholders, acting as a structural tailwind for the sector. This has translated into stronger demand across segments, higher new-business premiums, and improved penetration, particularly in the retail health segment. Lower tax burden also makes renewal premiums more attractive, aiding customer retention and policy persistency, thereby reinforcing sustained growth momentum.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-22"
+    },
+    {
+      "index": 6,
+      "title": "AI adoption revolutionizes retention and distribution strategies",
+      "description": "AI is fundamentally rewiring insurance growth by transforming retention and distribution. AI-assisted distribution enables personalized, real-time decisions, shifting retention from reactive negotiation to proactive optimization. This leads to reported margin gains of up to 30%, 5-10% improvements in retention, and 20-30% reduction in discount leakage. Furthermore, AI is reshaping underwriting, claims, and distribution end-to-end, with agentic AI becoming the primary execution engine for a fundamentally different operating model.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-21"
+    },
+    {
+      "index": 7,
+      "title": "Digital platforms and AI tools enhance distribution and services",
+      "description": "The rise of digital-only insurers, aggregator platforms, and initiatives like IRDAI’s 'Bima Sugam' are opening new avenues to reach untapped customer segments, particularly millennials and rural populations. Robo-advisors and AI chatbots are revolutionizing customer service, policy servicing, and claims management, providing 24/7 support and personalized engagement. PhonePe's vehicle insurance platform and Future Generali's AI tool for health coverage assessment exemplify this shift, making insurance more accessible and efficient.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 8,
+      "title": "Climate risk strains loss models and reinsurance capacity",
+      "description": "The increasing volatility and severity of weather events are significantly straining historical loss models and reinsurance capacity within the property and casualty insurance sector. This phenomenon elevates the need for more granular risk selection and dynamic portfolio steering, as traditional approaches become less effective in predicting and mitigating financial losses from climate-related catastrophes. This represents a substantial challenge to the stability and profitability of insurers.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-30"
+    },
+    {
+      "index": 9,
+      "title": "Intense competition in commercial lines pressures premium growth",
+      "description": "Competitive intensity within the commercial lines of non-life insurance has significantly weighed on premium growth. This environment leads to softer pricing conditions and exerts pressure on insurers' underwriting margins. Such competition makes it challenging for companies to achieve robust growth in these segments, impacting overall sector performance despite healthy traction in other areas.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-22"
+    },
+    {
+      "index": 10,
+      "title": "SAHIs' strong double-digit growth driven by retail health",
+      "description": "Standalone Health Insurers (SAHIs) are demonstrating strong double-digit premium growth, significantly outpacing the broader industry. This is fueled by robust demand in the retail health segment, improved affordability following GST exemption, and customers opting for higher sum insured. SAHIs are reinforcing their dominant positioning in the retail health space, with their market share in health premiums rising to 22.7% in April 2026 and 32.7% in FY26, highlighting a sustained upward momentum.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-22"
+    },
+    {
+      "index": 11,
+      "title": "Rising competitive intensity from new SAHIs in retail health",
+      "description": "With new Standalone Health Insurers (SAHIs) entering the market, competitive intensity in the health insurance segment, particularly in retail health where SAHIs are concentrated, is expected to rise in the medium term. This increased competition could lead to pricing pressures and affect the market share and profitability of existing players, including both SAHIs and general insurers participating in the retail segment.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-22"
+    },
+    {
+      "index": 12,
+      "title": "Increased FDI limit attracts capital and strengthens sector",
+      "description": "The Indian government has increased the Foreign Direct Investment (FDI) limit in insurance companies from 74% to 100%, allowing for complete foreign ownership. This strategic decision aims to attract additional capital into the long-term, capital-intensive insurance sector, ensuring collected premiums are invested within the country. This move enhances solvency, supports growth, and signifies a significant liberalization of the regulatory framework.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 13,
+      "title": "Transition to Ind AS accounting introduces near-term uncertainty",
+      "description": "The ongoing transition towards Ind AS-based accounting for insurers introduces a layer of near-term uncertainty for the non-life insurance sector. Companies are adapting to significant changes in financial reporting, liability measurement, and profit recognition. This adjustment period requires substantial operational and systemic changes, potentially impacting reported financial performance and market perceptions during the transition phase, necessitating careful management and oversight.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-22"
+    },
+    {
+      "index": 14,
+      "title": "Seasonal volatility and reduced participation hurt crop insurance",
+      "description": "The crop insurance segment is experiencing a sharp decline due to seasonal volatility in premium recognition, lower incremental enrolments, and the absence of large scheme-related bookings during certain periods. Additionally, reduced state-level participation in schemes like the Pradhan Mantri Fasal Bima Yojana (PMFBY) and limited premium recognition outside peak seasons contribute to its weakness, making it a significant drag on overall non-life insurance growth.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-22"
+    },
+    {
+      "index": 15,
+      "title": "Government health schemes boost insurance penetration and coverage",
+      "description": "Government initiatives such as Ayushman Bharat (Pradhan Mantri Jan Arogya Yojana - AB PMJAY) provide health coverage of Rs. 5 lakh per family annually for secondary and tertiary care hospitalization. Additionally, over 74.6 crore persons are covered under PM Suraksha Bima and PM Jeevan Jyoti Yojana. These schemes significantly enhance insurance penetration, particularly in underserved segments, driving demand and expanding the customer base for health and personal accident insurance.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 16,
+      "title": "IRDAI eases product approvals, fostering innovation and choices",
+      "description": "The IRDAI has enabled insurers to launch new health insurance products without prior approval, moving from flexibility for group products to include retail products. This regulatory shift allows for the introduction of customized and innovative products, expanding choices for policyholders and addressing dynamic market needs more rapidly. This increased autonomy is expected to significantly enhance insurance penetration by fostering a more agile and responsive product development environment.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 17,
+      "title": "Loss cost inflation outpaces pricing, compressing margins",
+      "description": "Loss cost inflation, specifically in claims and severity, is consistently outpacing pricing and reserving assumptions across the P&C insurance market. This trend leads to a compression of margins, even in disciplined portfolios, as the cost of payouts increases faster than the premiums collected. Insurers face a challenge in accurately pricing policies to cover these escalating costs while remaining competitive in the market.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-30"
+    },
+    {
+      "index": 18,
+      "title": "Pricing discipline, distribution costs, and competition threaten growth sustainability",
+      "description": "The sustainability of non-life insurance growth hinges critically on insurers' ability to maintain pricing discipline, manage distribution costs effectively, and navigate intense competitive pressures across key business lines. Any sharp recalibration of distributor commissions to offset cost pressures or a prolonged softness in underwriting discipline could weaken distribution intensity, temper premium growth, and negatively impact profitability in the coming quarters.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-22"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Non-life premiums began FY27 steadily, driven by health and motor segments",
+      "description": "CareEdge Ratings views the start of FY27 for non-life insurance premiums as healthy, largely due to strong momentum in retail health and motor segments. Structural drivers like increasing awareness, digital distribution, underserved market penetration, and regulatory initiatives are expected to sustain premium growth. However, competitive intensity in commercial lines is weighing on growth, and geopolitical uncertainties pose a key risk to profitability through increased claims.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-05-22",
+      "source_doc_id": "495bafb9-c691-50c5-b5ee-07c4156d2394"
+    },
+    {
+      "index": 2,
+      "title": "Non-life insurers anticipate double-digit growth in 2025, health-led",
+      "description": "India's non-life insurers anticipate double-digit growth in 2025, primarily led by the health insurance segment. This growth is expected to be further bolstered by the emergence of new segments, relief from GST, revised motor rates, and ongoing digital innovation across the sector. These factors collectively create a positive environment for sustained expansion and increased penetration within the Indian non-life insurance market.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "308418fe-3390-5763-a8bc-b6aa720ae7c0"
+    },
+    {
+      "index": 3,
+      "title": "Non-life premiums cross Rs 2.80 lakh crore in YTDFY26 with structural tailwinds",
+      "description": "CareEdge Ratings reports that non-life insurance premiums exceeded Rs 2.80 lakh crore in YTDFY26, buoyed by structural tailwinds such as regulatory support, accelerating digitalization, and an expanding customer base. The Bima Trinity platform is notably improving last-mile reach and distribution productivity, enhancing penetration. Standalone Health Insurers (SAHIs) continue to gain traction in retail-heavy segments, intensifying competition and contributing to volume growth. GST rationalization is also expected to boost affordability and policy adoption.",
+      "stance": "positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-02-23",
+      "source_doc_id": "05e4318b-889c-51c7-90f3-d4a4bd15fb95"
+    },
+    {
+      "index": 4,
+      "title": "Non-life industry medium-term outlook stable, supported by reforms",
+      "description": "CareEdge Ratings maintains a stable medium-term outlook for India’s non-life insurance industry, bolstered by regulatory reforms, improving underwriting discipline, and steady economic momentum. However, growth is anticipated to moderate from recent peaks due to a higher base in FY25 and normalization across select segments. The report also highlights that unforeseen market disruptions, including intensifying competition and an uncertain geopolitical environment, could pose risks and potentially impact premium growth.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-01-27",
+      "source_doc_id": "1f756232-c13a-5806-a116-4d8d764196a3"
+    },
+    {
+      "index": 5,
+      "title": "Indian general insurance sector poised for strong growth in FY26-FY27",
+      "description": "ICRA projects strong growth for India's general insurance sector, expecting an 8.7% increase in FY26, primarily driven by private insurers. Premium income is forecast to reach Rs. 3.21-3.24 lakh crore (US$ 37.6-37.9 billion) in FY26, with a further 10.9% increase anticipated in FY27. This outlook highlights a positive trajectory for the sector, with private players leading the expansion amidst evolving market dynamics.",
+      "stance": "positive",
+      "source_firm": "ICRA",
+      "source_date": "2026-03-31",
+      "source_doc_id": "308418fe-3390-5763-a8bc-b6aa720ae7c0"
+    },
+    {
+      "index": 6,
+      "title": "Non-life premiums exceeded Rs 3 lakh crore mark by February 2026",
+      "description": "CareEdge Ratings highlights that non-life insurance premiums surpassed the Rs 3 lakh crore mark by February 2026. This achievement is attributed to strong structural tailwinds, including regulatory initiatives, accelerating digitalization, and an expanding customer base. Platform-led initiatives like the Bima Trinity ecosystem are enhancing last-mile reach and distribution efficiency, supporting penetration. Additionally, SAHIs are maintaining strong traction in retail-driven segments, intensifying competition and driving incremental premium growth.",
+      "stance": "positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-03-17",
+      "source_doc_id": "6ebce8a6-03a8-5049-beb2-3bc4e8bfd643"
+    },
+    {
+      "index": 7,
+      "title": "Medium-term non-life sector faces headwinds from competition and geopolitics",
+      "description": "CareEdge Ratings indicates that while near-term premium momentum is favorable, the sustainability of non-life insurance growth faces challenges. Intensified competition and uncertainties in the international geopolitical environment, such as the West Asia conflict, are expected to impact the sector negatively. These factors could lead to increased claims risk and necessitate repricing, putting pressure on profitability and potentially tempering overall premium growth in the medium term.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-02-23",
+      "source_doc_id": "05e4318b-889c-51c7-90f3-d4a4bd15fb95"
+    },
+    {
+      "index": 8,
+      "title": "SAHIs expected to gain health insurance market share through retail and group",
+      "description": "CareEdge Ratings forecasts that Standalone Health Insurers (SAHIs) will continue to increase their market share within the health insurance segment. This gain will primarily be driven by their established strong presence in the retail health space and their expanding participation in the group health segment, despite a recent moderation in retail health’s overall share. SAHIs' specialized focus and customer-centric approach are key factors enabling this sustained outperformance.",
+      "stance": "positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-01-27",
+      "source_doc_id": "1f756232-c13a-5806-a116-4d8d764196a3"
+    },
+    {
+      "index": 9,
+      "title": "FY26 non-life premium growth strong, led by health and structural tailwinds",
+      "description": "CareEdge Ratings states that non-life insurance premiums reached Rs 3.4 lakh crore in FY26, meeting expectations. This growth was driven by sustained traction in retail health and structural tailwinds including regulatory support, digitalization, and expanding distribution networks like the Bima Trinity ecosystem. SAHIs' continued outperformance and improved affordability post-GST rationalization are anticipated to further deepen penetration and support steady premium growth in the near term.",
+      "stance": "positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-21",
+      "source_doc_id": "ef6399fd-aaba-5dc7-b871-e5b751b01c49"
+    },
+    {
+      "index": 10,
+      "title": "India to become sixth-largest insurance market within a decade",
+      "description": "According to the Insurance Regulatory and Development Authority of India (IRDAI), the country is projected to become the sixth-largest insurance market globally within the next decade. This growth will involve India surpassing major economies such as Germany, Canada, Italy, and South Korea, underscoring the significant expansion and increasing importance of the Indian insurance sector on the international stage. This indicates a robust and positive long-term outlook.",
+      "stance": "positive",
+      "source_firm": "IRDAI",
+      "source_date": "2026-03-31",
+      "source_doc_id": "308418fe-3390-5763-a8bc-b6aa720ae7c0"
+    },
+    {
+      "index": 11,
+      "title": "August 2025 non-life growth muted due to 1/n rule and GST deferral",
+      "description": "CareEdge Ratings noted a muted 1.6% year-on-year growth in non-life insurance premiums for August 2025, a slowdown from 4.2% in August 2024. This deceleration was attributed to the implementation of the 1/n accounting rule, a deferral of purchases driven by expectations of a Goods and Services Tax (GST) reduction, and a decrease in crop insurance. However, steady activity in health, fire, and engineering segments partially supported overall industry growth during this period.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-02-23",
+      "source_doc_id": "05e4318b-889c-51c7-90f3-d4a4bd15fb95"
+    },
+    {
+      "index": 12,
+      "title": "Indian non-life sector poised for accelerated growth and broader penetration",
+      "description": "CareEdge Ratings asserts that India’s non-life insurance sector is well-positioned for accelerated premium growth, broader coverage penetration, and significant opportunities for both incumbents and new entrants. This positive outlook is driven by robust GDP growth, rising household incomes, and the IRDAI’s 'Insurance for All by 2047' vision, supported by comprehensive regulatory reforms. These reforms aim to streamline processes, foster innovation, and expand accessibility, ensuring a technology-driven, customer-centric future for the industry.",
+      "stance": "positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-01-27",
+      "source_doc_id": "1f756232-c13a-5806-a116-4d8d764196a3"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 24000.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 12.3,
+      "historical_cagr_period": "FY19-FY25",
+      "demand_drivers": [
+        {
+          "driver": "Steady renewals in commercial lines",
+          "description": "Consistent renewals of fire insurance policies within commercial segments contributed to premium growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Fire insurance premiums in FY25.",
+      "source_firm": "IRDAI",
+      "source_date": "2026-01-27",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 307000.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 8.0,
+      "forecast_cagr_period": "medium term",
+      "historical_cagr": 10.1,
+      "historical_cagr_period": "FY19-FY25",
+      "demand_drivers": [
+        {
+          "driver": "Rising consumption and insurance penetration",
+          "description": "Overall economic growth, increased consumer spending, and deeper market penetration across segments contribute to premium growth."
+        },
+        {
+          "driver": "Continued momentum in health insurance",
+          "description": "Rising medical inflation and increased awareness post-pandemic drive significant growth in the health segment."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Gross Domestic Premium Income (GDPI) for India’s non-life insurance sector in FY25.",
+      "source_firm": "CareEdge Calculations",
+      "source_date": "2026-01-27",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 47000.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "FY19-FY25",
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Retail health premiums in FY25.",
+      "source_firm": "IRDAI",
+      "source_date": "2026-01-27",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 36417.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Healthy traction in marine, health, and personal accident segments",
+          "description": "These segments drove premium expansion in April 2026, contributing significantly to overall non-life insurance growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total non-life insurance premiums collected in April 2026.",
+      "source_firm": "careedge",
+      "source_date": "2026-05-22",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": 70253.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2032,
+      "forecast_cagr": 7.62,
+      "forecast_cagr_period": "FY25-32",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government schemes like PMFBY",
+          "description": "Pradhan Mantri Fasal Bima Yojana (PMFBY) is a key driver for premium income growth in the crop insurance market, supported by government subsidies and increasing sum assureds."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India crop insurance market size projection.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 6,
+      "tam_value": 324000.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": 10.9,
+      "forecast_cagr_period": "FY26-FY27",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growth led by private insurers",
+          "description": "Private insurers are expected to be the primary drivers of growth within the general insurance sector."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Premium income projection for India’s general insurance sector for FY27.",
+      "source_firm": "ICRA",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 7,
+      "tam_value": 127417.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising medical awareness",
+          "description": "Increased awareness about health needs, coupled with rising hospitalization costs, drove higher adoption of private health coverage."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Health insurance premiums in FY25.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 8,
+      "tam_value": 106000.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Improving vehicle sales",
+          "description": "A recovery in vehicle sales, rising EV adoption, and product innovation will aid motor insurance growth."
+        },
+        {
+          "driver": "Digitisation and penetration in smaller cities",
+          "description": "Increased digitisation, instant policy issuance, cashless claims, and deeper penetration into Tier 2–3 cities will support market expansion."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projection for motor insurance segment by FY27.",
+      "source_firm": "careedge",
+      "source_date": "2026-01-27",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 9,
+      "tam_value": 61000.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "FY19-FY25",
+      "demand_drivers": [
+        {
+          "driver": "Growing employer demand",
+          "description": "Increased demand from employers for post-COVID health coverage, coupled with policy renewals and premium hikes, drove growth in group health premiums."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Group health premiums in FY25.",
+      "source_firm": "IRDAI",
+      "source_date": "2026-01-27",
+      "data_confidence": "high"
+    },
+    {
+      "index": 10,
+      "tam_value": 183120.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2033,
+      "forecast_cagr": 55.0,
+      "forecast_cagr_period": "2025-2033",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "IoT device adoption",
+          "description": "The increasing use of IoT devices like wearable health trackers and connected cars provides real-time data for risk assessment and personalized policies, driving demand for IoT insurance."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Rapidly growing market driven by real-time data from IoT devices enabling better risk assessment and personalized policy offerings, creating new avenues for insurers.",
+          "opportunity": "IoT Insurance Market"
+        }
+      ],
+      "methodology": "Projected market size for the Indian IoT insurance market.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 11,
+      "tam_value": 4198.81,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong momentum in insurance demand",
+          "description": "Improved policy adoption and robust demand for health coverage drove premium growth for standalone health insurers."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Standalone health insurance premiums in February 2026.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 12,
+      "tam_value": 308000.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 6.2,
+      "historical_cagr_period": "FY24-FY25",
+      "demand_drivers": [
+        {
+          "driver": "Increased insurance penetration",
+          "description": "Growing awareness and wider access to insurance products contributed to the overall premium growth across the sector."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Overall Gross Direct Premium Underwritten (GDPI) for India's insurance sector in FY25.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 13,
+      "tam_value": 307022.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Broad-based growth drivers",
+          "description": "Sustained momentum across India’s general and health insurance markets, driven by underlying economic activity and demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Gross direct premiums written by non-life insurers during FY26 (till February).",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 14,
+      "tam_value": 183204.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 10.25,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Automobile sales growth",
+          "description": "Broad-based improvement in vehicle sales across two-wheelers, passenger vehicles, and commercial vehicles is expected to support steady growth in Motor OD premiums."
+        },
+        {
+          "driver": "Revision in Motor TP premiums",
+          "description": "An upward revision to motor TP premiums under consideration is expected to further support segment growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India Motor Insurance Market size in terms of gross written premiums value.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 15,
+      "tam_value": 307611.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 6.19,
+      "historical_cagr_period": "FY24-FY25",
+      "demand_drivers": [
+        {
+          "driver": "Sustained market momentum",
+          "description": "Continued strong demand and activity across India’s general and health insurance markets supported this premium growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Gross direct premiums written by non-life insurers in FY25.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 16,
+      "tam_value": 140000.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increased health awareness and affordability",
+          "description": "Post-pandemic awareness, rising medical inflation, government initiatives, and greater affordability (e.g., due to GST reductions) boost demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projection for health insurance (including personal accident) segment by FY27.",
+      "source_firm": "careedge",
+      "source_date": "2026-01-27",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 17,
+      "tam_value": 120000.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 18.1,
+      "historical_cagr_period": "FY19-FY25",
+      "demand_drivers": [
+        {
+          "driver": "Increased health awareness and affordability",
+          "description": "Post-pandemic awareness, rising medical inflation, government initiatives, and greater affordability have boosted demand for health insurance policies."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total health insurance premiums in India in FY25.",
+      "source_firm": "CareEdge Calculations",
+      "source_date": "2026-01-27",
+      "data_confidence": "high"
+    },
+    {
+      "index": 18,
+      "tam_value": 117000.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Recovery in vehicle sales",
+          "description": "Vehicle sales grew 37.2% to 2.4 crore units in FY25 from 1.8 crore units in FY21, supporting motor insurance growth."
+        },
+        {
+          "driver": "Rising EV adoption and product innovation",
+          "description": "Increasing electric vehicle adoption and new product offerings contribute to market expansion."
+        },
+        {
+          "driver": "Increased digitisation and penetration in tier 2–3 markets",
+          "description": "Digital services like instant policy issuance and cashless claims, combined with deeper penetration in smaller cities, will boost premiums."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projection for Motor insurance gross direct premium by FY27.",
+      "source_firm": "IRDAI",
+      "source_date": "2026-01-27",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 19,
+      "tam_value": 26000.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Regulatory push for adequate coverage",
+          "description": "Regulatory initiatives encouraging comprehensive fire insurance coverage drive premium growth."
+        },
+        {
+          "driver": "Shift toward risk-based pricing and improved compliance",
+          "description": "Evolving pricing models based on risk and enhanced adherence to regulations contribute to higher premiums."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Despite significant infrastructure growth, the fire insurance segment accounts for only 7.9% of the overall non-life insurance market, indicating a vital need and opportunity to strengthen protection against property-related risks.",
+          "opportunity": "Underutilized fire coverage"
+        }
+      ],
+      "methodology": "Projection for fire insurance premiums in FY26.",
+      "source_firm": "IRDAI",
+      "source_date": "2026-01-27",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 20,
+      "tam_value": 31000.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Continued implementation of PMFBY",
+          "description": "The Pradhan Mantri Fasal Bima Yojana (PMFBY) and associated government subsidies sustain farmer participation and drive premium collection."
+        },
+        {
+          "driver": "Higher sum assureds due to rising input costs",
+          "description": "Increased costs for agricultural inputs lead to higher sum assureds, boosting premium volumes."
+        },
+        {
+          "driver": "Gradual expansion in coverage across crops and regions",
+          "description": "Wider adoption of crop insurance across different crops and geographical areas contributes to market growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projection for crop insurance premiums in FY26.",
+      "source_firm": "IRDAI",
+      "source_date": "2026-01-27",
+      "data_confidence": "medium"
+    }
+  ],
+  "sources": [
+    "CareEdge Ratings",
+    "IBEF",
+    "ICRA",
+    "IRDAI",
+    "CareEdge Calculations",
+    "careedge"
+  ]
+}

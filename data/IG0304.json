@@ -1,0 +1,443 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "AI and Data Analytics Revolutionize Fleet Operations",
+      "description": "AI and vehicle/payments data enable real-time optimization of routes, predictive maintenance, and automated billing for road fleets. This technology-driven shift is a macro trend impacting operations, helping fleets cut idle time, reduce costs, and improve decision-making. Digital fleet service providers are aggregating vehicles and services on shared platforms, changing how fleets operate.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-22"
+    },
+    {
+      "index": 2,
+      "title": "Electrification and Alternative Powertrains Reshaping Fleet Services",
+      "description": "The changing vehicle mix, driven by sustainability targets and improving economics, sees Battery Electric Vehicles (BEVs) gaining broader adoption across passenger cars and heavy-duty trucks. This fundamentally alters how fleets plan routes, manage energy, and approach vehicle lifecycle management. It shifts significant value from traditional fuel services to electricity procurement and charging infrastructure, impacting revenue streams for service providers.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-22"
+    },
+    {
+      "index": 3,
+      "title": "Mega Fleets Consolidate Purchasing Power, Pressuring Margins",
+      "description": "Large national and regional 'mega fleets' are consolidating purchasing power, and smaller fleets are outsourcing operations to fleet management providers for scale advantages. This results in fewer buyers controlling a larger share of spending, increasing their negotiating leverage. For fleet service providers, this trend compresses margins and demands more versatile, integrated product offerings, forcing a reevaluation of traditional business models.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-22"
+    },
+    {
+      "index": 4,
+      "title": "Declining Willingness to Pay for Low-Carbon Shipping",
+      "description": "Cargo owners' willingness to pay a premium for low-carbon fuels has seen a marked drop, from 4.5% in 2024 to 3% in 2025. This decline is attributed to regulatory uncertainty, tighter budgets, economic uncertainty, and high costs of decarbonization technologies. It creates an economic mismatch for maritime decarbonization, making it harder for carriers to justify investments in greener solutions and impacting green fuel sales.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-30"
+    },
+    {
+      "index": 5,
+      "title": "Regulatory Uncertainty Hampers Maritime Decarbonization Investments",
+      "description": "Regulatory uncertainty, particularly the delay in adopting the International Maritime Organization’s Net-Zero Framework and varying enforcement mechanisms, significantly hampers shippers' ability to make long-term plans. With no regulation yet requiring action on Scope 3 emissions, the incentive to commit to higher shipping costs for decarbonization is reduced, making demand for green solutions selective and volatile.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-30"
+    },
+    {
+      "index": 6,
+      "title": "Aging Global Shipping Fleets Drive Up Opex",
+      "description": "The average age of vessels was 13 years in 2024, the highest on record, following a decade of significant capacity growth. This aging fleet structure will increase the importance and cost of maintenance and repair (M&R) and drydocking in the coming years. This structural change puts further pressure on shipping companies to aggressively manage operating expenses to remain competitive.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-28"
+    },
+    {
+      "index": 7,
+      "title": "Dedicated Freight Corridors Transform Rail Logistics in India",
+      "description": "Dedicated Freight Corridors (DFCs) are rapidly transforming how goods move across India, with daily freight trains increasing and transit times significantly reduced. For example, moving coal over 100km now takes almost 50% less time. This improves speed and reliability for rail freight operators, facilitating a rebalancing of India's freight mix and enhancing overall logistics efficiency.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 8,
+      "title": "AI Adoption Transforms India's Supply Chain Operations",
+      "description": "AI is becoming central to supply chain operations in India, enabling predictive analytics to anticipate disruptions and optimize inventory, and digital twins for simulating networks. AI agents automate routine decisions, improving speed, visibility, and coordination. Despite India's fragmented supply chains, effective AI adoption, especially at ports and across multimodal operations, can unlock significant savings and build a more resilient logistics network.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 9,
+      "title": "Robust Passenger Demand Fuels Indian Aviation Growth",
+      "description": "India's civil aviation sector is experiencing robust growth in passenger traffic, with domestic numbers projected to increase 7-10% YoY in FY26, reaching 175-181 million. This strong demand, driven by rising incomes and low-cost aviation, is making India the third-largest domestic aviation market and is projected to become the world's third-largest air passenger market by 2030, benefiting airlines significantly.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 10,
+      "title": "Air Freight Growth Propelled by Trade and Infrastructure Development",
+      "description": "Growth in India's imports and exports, where 30% of total trade is conducted via airways, is a key driver for air freight traffic, which has the potential to reach 17 MMT by FY40. Investments like FedEx's INR 2,500 crore cargo hub at Navi Mumbai International Airport signify robust development in air cargo infrastructure, enhancing capacity and efficiency for freight logistics operators.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 11,
+      "title": "Indian Railways Boosted by Government Capital Outlay",
+      "description": "Indian Railways has been allocated a record capital expenditure of INR 2,93,030 crore under the Union Budget 2026–27, underscoring the government’s continued focus on modernizing rail infrastructure and expanding network capacity. This significant financial backing is a major tailwind for rail freight and passenger service operators, enabling improvements in service delivery, connectivity, and overall operational efficiency.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 12,
+      "title": "Multimodal Logistics Gaining Traction with Policy Support",
+      "description": "Multimodal logistics, with rail-road-port connectivity, warehousing, and cargo handling, is gaining significant traction in India. The approval of 306 Gati Shakti Multi-Modal Cargo Terminals (GCTs) and private investment exceeding INR 8,600 crore, supported by incentives like GST cuts, are critical to fully utilize DFCs and rebalance the freight mix. This momentum is building an integrated and efficient logistics ecosystem.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 13,
+      "title": "First and Last-Mile Connectivity Gaps Hinder Rail Dominance",
+      "description": "Despite rail transport being nearly half the cost of road transport in India, roads still dominate due to their superior flexibility and door-to-door connectivity for first and last-mile segments. Until these gaps are bridged and feeder routes upgraded to DFC standards, the full potential of rail freight in India's rebalanced logistics mix will not be realized, impacting overall transit efficiency.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 14,
+      "title": "Strategic Investments and Policy Support Drive Aviation Expansion",
+      "description": "Significant capital expenditure of over INR 96,000 crore (FY20-FY25) in aviation infrastructure and liberal FDI policies (100% in scheduled Air Transport Service) are strong tailwinds. These investments support airport development, fleet expansion, and MRO activities. Government initiatives like the UDAN Scheme further enhance regional connectivity, bolstering the operating environment for airlines and aviation service providers.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 15,
+      "title": "SAF Blending Targets Drive Sustainable Aviation Future",
+      "description": "India is poised to emerge as a major exporter of Sustainable Aviation Fuel (SAF), with ambitious blending targets of 1% by 2027, 2% by 2028, and 5% by 2030. This initiative is supported by abundant biomass and certified production facilities. These targets represent a significant structural change for airlines, pushing them towards more sustainable operations and creating new opportunities in alternative fuels.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 16,
+      "title": "Enhanced Safety Features Improve Rail Passenger Experience",
+      "description": "Indian Railways is implementing enhanced safety features and modernization programs, including the Kavach system, elimination of level crossings, and new modern trains (Vande Bharat, Amrit Bharat). These initiatives, alongside dedicated security campaigns like 'Meri Saheli', improve passenger safety and experience. This focus on security and comfort is an upside driver, likely attracting more passengers and strengthening the railway's reputation.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Fleet Services Face Value Shifts with Electrification and AI",
+      "description": "The fleet services market is expanding by as much as 19% by 2035, but value is shifting dramatically from traditional fuel services towards EV-related spending and digital solutions. Providers failing to adapt their business models, incorporate AI, and offer integrated solutions risk falling behind. Mega fleets and new technologies are increasing customer expectations, requiring greater agility and innovation from service partners to reposition for growth.",
+      "stance": "cautious_positive",
+      "source_firm": "BCG Global",
+      "source_date": "2026-05-22",
+      "source_doc_id": "55f9b834-9ba9-515b-9ea0-6e0b4b188365"
+    },
+    {
+      "index": 2,
+      "title": "Low-Carbon Shipping Demand Drops, But Long-Term Value Persists for Agile Carriers",
+      "description": "Cargo owners' willingness to pay (WTP) for low-carbon fuels has fallen significantly from 4.5% in 2024 to 3% in 2025, driven by regulatory, geopolitical, and economic uncertainties. Despite this short-term setback and cost pressures, long-term value in maritime decarbonization persists. Carriers must adopt clear, customer-centric strategies, focusing on economic feasibility and identifying specific pockets of demand where regulatory signals are clear to capitalize on future opportunities.",
+      "stance": "cautious_positive",
+      "source_firm": "BCG Global",
+      "source_date": "2026-04-30",
+      "source_doc_id": "08d80d66-5266-5a57-8f61-7efd354efc9b"
+    },
+    {
+      "index": 3,
+      "title": "Shipping Companies Must Maintain Cost Discipline Amid Volatility and Aging Fleets",
+      "description": "The shipping industry has shown strong cost discipline over the past decade, with operating expenses (opex) falling in recent years after a COVID-induced surge. However, ongoing geopolitical instability and aging fleets (average 13 years in 2024) will exert further pressure, especially on M&R and drydocking costs. Companies must continue to leverage historical cost-cutting measures, build contingency plans, and lead technological change, particularly in AI, to remain competitive.",
+      "stance": "cautious_positive",
+      "source_firm": "BCG Global",
+      "source_date": "2026-04-28",
+      "source_doc_id": "34e1353d-4f19-51ab-9da9-e2431e1f95d3"
+    },
+    {
+      "index": 4,
+      "title": "India's Logistics Undergoing Transformation Driven by DFCs and Rail Shift",
+      "description": "India's logistics landscape is significantly transforming, with Dedicated Freight Corridors (DFCs) rapidly increasing rail freight speed and reliability. This shift helps rebalance the dominant road freight mix and drives efficiency. Continued investment in upgrading first/last-mile rail links, closing speed gaps, and strengthening multimodal logistics ecosystems (like Gati Shakti Cargo Terminals) are crucial to fully capitalize on DFC capacity and enhance domestic competitiveness.",
+      "stance": "positive",
+      "source_firm": "KPMG in India",
+      "source_date": "2026-04-01",
+      "source_doc_id": "d39b3a7c-1537-5b48-a9d1-9b5db1646b45"
+    },
+    {
+      "index": 5,
+      "title": "AI is Critical for Building Resilient and Efficient Indian Supply Chains",
+      "description": "AI is moving from the background to the core of supply chain operations, offering solutions like predictive analytics, digital twins, and automated agents to navigate increasing systemic volatility. For India, with its fragmented supply chains and infrastructure gaps, ecosystem-wide AI adoption is a huge opportunity. Strengthening digital infrastructure, leveraging platforms like ULIP, and encouraging innovation among MSMEs and fleet operators can unlock significant efficiencies and cost savings in logistics.",
+      "stance": "positive",
+      "source_firm": "KPMG in India",
+      "source_date": "2026-04-01",
+      "source_doc_id": "045d2465-ed8c-5819-8b78-d18bdf1fb3a9"
+    },
+    {
+      "index": 6,
+      "title": "Indian Aviation Sector Poised for Robust Growth Driven by Demand and Investment",
+      "description": "India's aviation sector is experiencing robust growth, with domestic passenger traffic projected to rise 7-10% YoY in FY26 and the country set to become the world's third-largest air passenger market by 2030. This growth is underpinned by increasing demand, significant capital expenditure in infrastructure, and supportive government policies like 100% FDI. Indian carriers are expanding global connectivity and doubling fleet capacity, signalling a strong positive outlook.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "30147414-4bfd-5837-aa53-0a6cd32ea2f0"
+    },
+    {
+      "index": 7,
+      "title": "Indian Railways Undergoing Significant Modernization and Revenue Expansion",
+      "description": "Indian Railways is undergoing significant modernization, supported by record capital expenditure from the government, PPPs, and technology upgradation. Freight loading and revenues are seeing strong growth, reinforcing rail as a primary revenue driver. Initiatives like Dedicated Freight Corridors, Vande Bharat trains, and high-speed rail projects, alongside improved ease of doing business, are enhancing efficiency, capacity, and service delivery, positioning the sector for continued expansion and a larger role in India's logistics.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "10e68f0c-a6a1-5ce1-a3e3-64b7f5479579"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Electrification of vehicle fleets",
+          "description": "As Battery Electric Vehicles (BEVs) gain adoption, fleets must fund electricity procurement and charging infrastructure, replacing traditional fuel purchases. This significantly alters spending patterns and creates new service demand."
+        },
+        {
+          "driver": "Technology integration (AI/Data)",
+          "description": "Fleets increasingly demand digital systems, real-time data, and AI-powered solutions to optimize routes, predict maintenance, automate billing, and manage costs, enhancing operational efficiency and decision-making."
+        },
+        {
+          "driver": "Outsourcing",
+          "description": "Fleets are expanding outsourcing to manage increasing operating complexity, especially with mixed ICE and EV fleets, driven by capacity flexibility, regulatory compliance, consistent service quality, and cost reduction for smaller fleets."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Shift from fuel to electricity procurement",
+          "description": "Fuel faces a dramatic decline in value stream, with up to 30% of fuel-related value disappearing in some markets as EVs replace ICEs. Conversely, EV-related spending is rising sharply and is expected to carry higher margins, lifting revenue per vehicle for service providers by 10-20%."
+        },
+        {
+          "driver": "Concentration of purchasing power",
+          "description": "The rise of mega fleets (500+ vehicles) and outsourcing to fleet management providers leads to fewer buyers controlling a larger share of spending. This increases negotiating leverage for fleets and compresses margins for service providers."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "As fleets transition to EVs, there is a need for comprehensive solutions covering electricity procurement, charging infrastructure, and energy management, offering higher-margin services.",
+          "opportunity": "Integrated EV charging and energy management"
+        },
+        {
+          "description": "Opportunities exist for providers to offer advanced digital tools for route optimization, predictive maintenance, automated billing, and real-time data analytics, especially to higher-margin small and midsized fleets.",
+          "opportunity": "Digital and AI-enabled fleet services"
+        },
+        {
+          "description": "Mega fleets require hands-on account management and customized solutions for their complex needs, presenting opportunities for tailored integrated offerings.",
+          "opportunity": "Customized solutions for mega fleets"
+        }
+      ],
+      "methodology": "Global fleet service value pools are projected to expand, with electrification driving a significant shift in spending categories. Fuel-related value is expected to decline, while EV-related spending will rise sharply and carry higher margins for service providers.",
+      "source_firm": "BCG Global",
+      "source_date": "2026-05-22",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Regulatory requirements",
+          "description": "59% of survey respondents pursue low-carbon shipping primarily due to regulatory mandates, although uncertainty in their implementation affects WTP."
+        },
+        {
+          "driver": "Corporate sustainability targets (Scope 3)",
+          "description": "Cargo owners with clear Scope 3 commitments and dedicated budgets are willing to pay materially higher premiums for low-carbon shipping (5% on average)."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Cost of low-carbon fuels",
+          "description": "Low-carbon fuel costs are too high relative to benefits, cited by 40% as the primary barrier to adoption, directly impacting profitability for carriers and cargo owners."
+        },
+        {
+          "driver": "Regulatory uncertainty",
+          "description": "Binding requirements on shipping emissions are uncertain, reducing the incentive for cargo owners to commit to higher shipping costs today and impacting carrier profitability from green solutions."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Opportunities exist in geographies with tighter regulations (e.g., Europe) or significant green technology investment (e.g., China), creating localized demand for low-carbon shipping solutions.",
+          "opportunity": "Region-specific demand for low-carbon shipping"
+        },
+        {
+          "description": "Focusing on cargo owners with clear Scope 3 commitments and dedicated budgets, particularly in consumer-facing sectors, can yield higher premiums and sustained demand for low-carbon services.",
+          "opportunity": "Targeted customer segments with high WTP"
+        },
+        {
+          "description": "A coherent strategy integrating fuel and fleet strategies with decisions on operational and technological efficiency (e.g., AI-powered voyage optimization) can make the business case for green shipping more viable.",
+          "opportunity": "Integration of operational efficiency with decarbonization"
+        }
+      ],
+      "methodology": "Analysis of Willingness To Pay (WTP) premium for low-carbon fuels in maritime shipping based on BCG's annual Shipping Decarbonization Survey.",
+      "source_firm": "BCG Global",
+      "source_date": "2026-04-30",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 293030.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government focus on modernization",
+          "description": "High capital outlay underscores government's continued commitment to upgrading rail infrastructure and services, driving demand for new rolling stock and technology."
+        },
+        {
+          "driver": "Network expansion",
+          "description": "Expansion of network capacity and strengthening freight/passenger connectivity increases demand for rail services across diverse regions."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Capital expenditure allocated to Indian Railways under the Union Budget 2026–27. This investment aims to modernize rail infrastructure and expand network capacity, directly impacting the operational capabilities of rail freight and passenger services.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 25000.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2031,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Exports and international demand",
+          "description": "Increasing export of railway equipment, including wagons, to various countries is boosting market size."
+        },
+        {
+          "driver": "Technology upgrades",
+          "description": "Modernization and technological advancements in wagon design and functionality drive new procurement."
+        },
+        {
+          "driver": "Large-scale procurement",
+          "description": "Significant government and private sector investment in expanding and upgrading rail freight capacity leads to large-scale wagon orders."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecast for India's freight wagon market size, expected to nearly double by 2031. This is driven by exports, technology upgrades, and large-scale procurement, indicating robust growth for rail freight services.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 5,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Freight loading growth",
+          "description": "Strong growth in key industrial commodities and efforts to improve ease of doing business have led to increased freight volumes."
+        },
+        {
+          "driver": "Passenger traffic recovery",
+          "description": "Sustained growth in rail-based mobility and expansion of mass transit network contribute to rising passenger numbers."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Freight-led earnings model",
+          "description": "Freight revenue accounts for the majority (63.97%) of total receipts, making it the primary driver of overall revenue."
+        },
+        {
+          "driver": "Revenue maximization strategies",
+          "description": "Implementation of strategies such as online bookings, tourism packages, and higher ticket prices for special trains contribute to increased revenue."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Indian Railways' gross revenue for FY26, reflecting the combined earnings from freight and passenger services.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": 2500.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growth in import and export",
+          "description": "30% of total trade is undertaken via airways, making robust air cargo infrastructure crucial for facilitating international trade."
+        },
+        {
+          "driver": "Enhanced logistics and air cargo infrastructure",
+          "description": "Investment in advanced hubs improves efficiency, speed, and reliability of air freight services, meeting growing demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "FedEx Corporation's investment for building an advanced automated cargo hub at the Navi Mumbai International Airport. This signifies a major development in air freight logistics infrastructure in India.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "BCG Global",
+    "KPMG in India",
+    "IBEF"
+  ]
+}

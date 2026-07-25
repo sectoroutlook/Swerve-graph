@@ -1,0 +1,506 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Skilled manpower shortage constrains steel project productivity and execution",
+      "description": "The persistent shortage of skilled construction manpower, primarily sourced from states like Bihar, Jharkhand, and Odisha, severely impacts productivity and execution certainty in India's steel projects. With rising economic activity and numerous mega-projects underway in these regions, securing experienced labor has become increasingly challenging. This constraint demands policy intervention for skilling and certification, alongside industry action to ensure dignified working conditions and adequate site infrastructure to improve retention and efficiency.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 2,
+      "title": "High cost of green steel hinders widespread adoption in India",
+      "description": "Green steel production currently faces significant economic viability challenges at scale in the Indian context. The primary deterrents are the high costs associated with green technologies and the limited availability of round-the-clock renewable power and energy storage infrastructure. While green steel remains a long-term aspiration, these factors mean the traditional Blast Furnace–Basic Oxygen Furnace (BF-BOF) route continues to be the dominant scalable option for large-capacity creation in the near to medium term.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 3,
+      "title": "Government infrastructure capex drives significant steel demand",
+      "description": "The Indian government's substantial infrastructure capital expenditure, projected at ₹11.21 lakh crore for FY26, acts as the single largest demand driver for the steel sector. Approximately 30-45% of total steel demand is linked to infrastructure projects, including roads, railways, and urban development. This sustained government spending provides a robust and consistent off-take for both flat and long steel products, propelling the industry's growth and capacity expansion targets.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 4,
+      "title": "Supportive government policies and PLI schemes boost steel investments",
+      "description": "Government policies, including 100% FDI via the automatic route and the Production Linked Incentive (PLI) Schemes (PLI 1.0, 1.1, and 1.2) for specialty steel, are significantly boosting investments and domestic manufacturing in the steel sector. These initiatives have attracted over Rs. 43,000 crore in investments, committing funds for additional specialty steel capacity. This policy support fosters self-reliance, enhances global competitiveness, and ensures continuous capital inflow for capacity expansion across the industry.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 5,
+      "title": "Shift towards commercial excellence transforms metals and mining operations",
+      "description": "The metals and mining industry is undergoing a structural shift from a volume-maximization, cost-minimization model to one focused on commercial excellence. Companies are increasingly adopting strategies to actively manage sales, marketing, and trading levers to optimize pricing and protect margins amidst commodity price volatility. This change involves leveraging real-time data, AI, and talent specializing in commercial optimization to extract value, manage risk, and inform strategic investment decisions, moving beyond traditional production-centric approaches.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-05"
+    },
+    {
+      "index": 6,
+      "title": "Industrialised project delivery essential for faster steel capacity creation",
+      "description": "India's steel sector is structurally evolving towards industrialised project delivery methods to achieve its ambitious capacity targets more efficiently. This involves adopting design standardisation, front-loaded engineering, integrated EPC models, and extensive mechanization and modularization. By learning from global examples like China, these approaches can significantly reduce project duration (up to one-fourth), improve cost efficiency, enhance safety, and ensure higher predictability in commissioning new steelmaking facilities, bridging the execution maturity gap.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 7,
+      "title": "Global raw material price volatility and supply chain disruptions pose risks",
+      "description": "Geopolitical issues, strained supply chains, and energy price shocks contribute to significant raw material price volatility, particularly for coking coal and iron ore, which are critical inputs for steel production. This unpredictability in availability and cost increases operational expenses and introduces substantial market risk for steelmakers. Managing this volatility necessitates strategic procurement models, backward integration, and robust inventory management to mitigate the impact on profitability and production stability.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-07"
+    },
+    {
+      "index": 8,
+      "title": "Execution maturity gap hinders India's rapid steel capacity expansion",
+      "description": "India's swift pace of steel capacity growth has not been matched by project delivery maturity, leading to pervasive schedule slippages and cost overruns. A significant number of major steel projects in the last decade have experienced completion timeline extensions of 15% to 80%. This gap stems from fragmented execution, poor contracting strategies, delayed engineering readiness, and over-reliance on in-situ construction, limiting the sector's ability to achieve its ambitious targets efficiently.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 9,
+      "title": "Fragmented scrap ecosystem limits quality, scale, and traceability for steelmaking",
+      "description": "India's ferrous scrap ecosystem is highly fragmented and informal, impeding its effective utilization by steelmakers. This fragmentation leads to inconsistent quality, unreliable supply, and traceability issues, as scrap exchanges hands through multiple intermediaries. The lack of proper segregation, scientific processing, and environmental controls in the informal sector prevents steel plants from receiving the required quality. Addressing this demands formalization, technology adoption for sorting/grading, and policy reforms to build a structured supply chain.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-07"
+    },
+    {
+      "index": 10,
+      "title": "Cheap steel imports from China threaten domestic producers' profitability",
+      "description": "The influx of cheap steel imports, predominantly from China, has put significant pressure on Indian steel producers, impacting their market competitiveness and profitability. To counteract this, India imposed a 12% safeguard duty, which contributed to an 11.3% drop in finished steel imports in April 2025. While this measure aims to ease pressure, the persistent threat of imports necessitates continuous monitoring and strategic interventions to protect domestic industry interests.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": null,
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 11,
+      "title": "Growing automotive sector significantly boosts steel consumption",
+      "description": "The expanding automotive sector in India is a key driver for steel demand, particularly for flat products like HR/CR coils used in car bodies. Increasing demand for automobiles, coupled with rising vehicle registrations, means the auto sector consumes 15-18% of India's flat steel output. This consistent growth provides a strong and reliable market segment for steelmakers, supporting both production volumes and product diversification within the industry.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 12,
+      "title": "Domestic steel demand consistently outpacing supply, driving expansion",
+      "description": "India's domestic steel consumption continues to grow robustly, often outpacing production, which serves as a powerful impetus for capacity expansion. Driven by strong demand from infrastructure, construction, and industrial sectors, this imbalance necessitates increasing domestic production to meet growing needs. The per-capita consumption of steel is also rising, with government targets to further increase it, ensuring sustained demand and justifying ongoing investments in the steel sector.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 13,
+      "title": "Increased ferrous scrap adoption drives circularity and decarbonization in steelmaking",
+      "description": "The Indian steel industry is undergoing a structural shift towards greater ferrous scrap adoption, driven by the need for decarbonization, cost management, and resource security. Scrap helps reduce reliance on carbon-intensive raw materials and offers immediate emission reductions. Formalization of the scrap ecosystem, enabled by technology like AI-driven sorting and blockchain traceability, is essential to overcome fragmentation and quality issues. This transition is critical for India's steel sector to become a circular, competitive, and climate-aligned industrial structure by 2047.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-07"
+    },
+    {
+      "index": 14,
+      "title": "Decarbonization imperative reshaping India's steel manufacturing processes",
+      "description": "The Indian steel industry is facing a structural imperative to decarbonize, driven by global environmental goals and emerging trade barriers. This requires integrating cleaner production methods and reducing emission intensity. While green steel is a long-term goal, immediate strategies include higher ferrous scrap infusion into BF-BOF routes and exploring technologies like hydrogen gas injection. Policies such as the Carbon Credit Trading Scheme are incentivizing early investment in decarbonization technologies, fundamentally altering operational and investment strategies for steelmakers.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-07"
+    },
+    {
+      "index": 15,
+      "title": "High interest rates increase borrowing costs for steel sector capex",
+      "description": "The Indian steel sector, characterized by large industrial debt and significant capital expenditure requirements for capacity expansion, is highly sensitive to interest rate fluctuations. G-Sec yields directly influence the cost of long-term borrowings for major players like Tata Steel and JSW Steel, whose projects require substantial project debt. Higher interest rates increase refinancing costs and overall capital expenditure, potentially delaying or impacting the financial viability of crucial expansion plans across the industry.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-22"
+    },
+    {
+      "index": 16,
+      "title": "Captive iron ore mining provides structural cost advantage for steelmakers",
+      "description": "Integrated steelmakers with captive iron ore mining operations possess a structural cost advantage, offering a significant upside. By controlling their raw material supply, these companies (e.g., those with NMDC domestic ore access) can mitigate external price volatility and secure consistent quality. This direct access to iron ore reduces reliance on merchant markets and allows for better cost management, enhancing overall profitability and competitiveness compared to players dependent on external ore sources.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-22"
+    },
+    {
+      "index": 17,
+      "title": "Technological innovation and digitalization enhance efficiency and sustainability",
+      "description": "The adoption of advanced technologies like AI, IoT, automation, and real-time data systems is a significant upside driver for India's metals and mining sector, including steel. These innovations are enhancing efficiency, safety, and sustainability by boosting throughput, simplifying processes, lowering costs, and improving metal recovery. Initiatives like inviting AI startups to develop solutions for the steel industry underscore the potential for innovation to strengthen the sector and align it with future growth and energy transition goals.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 18,
+      "title": "Vehicle Scrappage Policy lowers raw material costs and promotes circularity",
+      "description": "The new Vehicle Scrappage Policy is an upside driver for the steel sector, as it formalizes the vehicle scrapping industry and enables the recovery of low-cost materials, including steel. By recycling steel from end-of-life vehicles, the policy reduces the cost component of raw materials for steelmakers, helping them become more cost-competitive. This initiative not only supports the circular economy but also boosts new vehicle sales, indirectly stimulating demand for fresh steel production.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Metals and mining can unlock $20 billion by adopting commercial excellence",
+      "description": "Global metals and mining companies can achieve an additional $20 billion annual value by shifting from a production-centric model to commercial excellence. This involves actively managing sales, marketing, optimization, and trading levers to capture better prices and protect profit margins amid market volatility. This transition generates immediate value, minimizes price shocks, and reduces reliance on third-party traders, enhancing return on capital employed and free cash flows.",
+      "stance": "positive",
+      "source_firm": "Boston Consulting Group",
+      "source_date": "2026-05-05",
+      "source_doc_id": "ed0b9e9a-465a-5927-92dd-d28d6016e0a0"
+    },
+    {
+      "index": 2,
+      "title": "Indian steel sector's 300 MTPA goal needs execution excellence, not just investment",
+      "description": "India's ambitious goal of achieving 300 MTPA crude steel capacity by 2030, with over INR10 lakh crore planned investments, faces significant execution challenges. Recent steel projects have struggled with meeting timelines and budgets, highlighting a critical gap in structured delivery frameworks and governance. The sector's success hinges on transforming these investments into operational capacity efficiently, requiring a robust focus on project execution rather than just capital deployment.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG in India",
+      "source_date": "2026-05-01",
+      "source_doc_id": "2b89a9cb-7e9a-525a-abb8-7d38a1e9bcb9"
+    },
+    {
+      "index": 3,
+      "title": "Stainless steel crucial for India's infrastructure, manufacturing, and defense growth",
+      "description": "Stainless steel is set to play an increasingly vital role in India's next phase of infrastructure, mobility, energy, industrial, defense, and aerospace applications. As India aims to become a global manufacturing hub and self-reliant nation, the demand for high-quality, corrosion-resistant, reliable, and sustainable materials will surge. This growth places greater emphasis on strengthening domestic stainless steel capabilities through continued investments in manufacturing and application development.",
+      "stance": "positive",
+      "source_firm": "Jindal Stainless Limited",
+      "source_date": "2026-05-01",
+      "source_doc_id": "2b89a9cb-7e9a-525a-abb8-7d38a1e9bcb9"
+    },
+    {
+      "index": 4,
+      "title": "Effective planning and execution critical for India's growing steel project complexity",
+      "description": "As India's steel projects become larger and more complex, effective planning and execution discipline are essential to translating investment intent into successful outcomes. This involves thorough front-end engineering readiness, early validation of layouts and utilities, and a clear execution and contracting philosophy. Institutionalized delivery systems, integration across disciplines, and robust governance are increasingly important for managing scale and ensuring steel investments contribute meaningfully to regional development and community livelihoods.",
+      "stance": "cautious_positive",
+      "source_firm": "ArcelorMittal Nippon Steel India Limited",
+      "source_date": "2026-05-01",
+      "source_doc_id": "2b89a9cb-7e9a-525a-abb8-7d38a1e9bcb9"
+    },
+    {
+      "index": 5,
+      "title": "Ferrous scrap is a strategic lever for India's decarbonization and steel growth",
+      "description": "Ferrous scrap has evolved into a strategic resource for Indian steelmakers, offering significant benefits for cost management, supply risk reduction, and decarbonization goals. Its increased adoption allows for immediate emission reductions without major capital investment, particularly through higher BF-BOF scrap infusion. Formalizing India's fragmented scrap ecosystem with technology and policy support is crucial to unlock its full value, supporting the country's 300 MMT steel target and net-zero journey.",
+      "stance": "positive",
+      "source_firm": "EY-Parthenon India",
+      "source_date": "2026-04-07",
+      "source_doc_id": "0bbde377-a1ee-5f14-a6c2-649ced48421b"
+    },
+    {
+      "index": 6,
+      "title": "India's steel production could quadruple to 500 MMT by FY50",
+      "description": "A senior executive at mining major BHP projects India's steel production capacity could surge to 500 million tonnes by FY50, nearly four times its current output. This ambitious growth is driven by New Delhi's aim to underpin its economic growth with rapid capacity expansion for steel, a primary infrastructure alloy. The projection highlights the significant long-term potential and strategic importance of the steel sector in India's overall development trajectory.",
+      "stance": "positive",
+      "source_firm": "BHP",
+      "source_date": "2026-03-31",
+      "source_doc_id": "2bca31a1-a71f-52e3-8212-84f8f7e776b7"
+    },
+    {
+      "index": 7,
+      "title": "PLI 1.2 scheme attracting substantial investment, boosting specialty steel capacity",
+      "description": "The Production Linked Incentive (PLI) 1.2 scheme for specialty steel has successfully secured investment commitments of around Rs. 11,887–13,203 crore (US$ 1.31-1.46 billion) with 85 MoUs signed by 55 companies. These investments are projected to create 8.7 million tonnes of additional specialty steel capacity by FY31. This initiative is crucial for strengthening domestic manufacturing in high-end segments like alloy, stainless, and electrical steel, thereby reducing import dependence and enhancing global competitiveness.",
+      "stance": "positive",
+      "source_firm": "Ministry of Steel",
+      "source_date": "2026-03-31",
+      "source_doc_id": "5f42454d-ef15-56de-a895-9e7331eaee63"
+    },
+    {
+      "index": 8,
+      "title": "Execution discipline is paramount for India's steel capacity expansion to 300 MTPA",
+      "description": "India's steel sector expansion from 200 to 300 MTPA demands not just increased capacity but also rigorous execution with precision, speed, and discipline. Translating investments into timely, cost-efficient, and high-quality operational assets requires institutionalizing robust execution frameworks, strengthening engineering readiness, adopting integrated delivery models, and enhancing governance discipline. Building capability across the ecosystem, including contractors and engineers, is crucial for predictable results at scale.",
+      "stance": "cautious_positive",
+      "source_firm": "Steel Authority of India Limited",
+      "source_date": "2026-05-01",
+      "source_doc_id": "2b89a9cb-7e9a-525a-abb8-7d38a1e9bcb9"
+    },
+    {
+      "index": 9,
+      "title": "BF-BOF route remains scalable for India's large-capacity steel creation",
+      "description": "Despite the long-term aspiration for green steel, the Blast Furnace–Basic Oxygen Furnace (BF-BOF) route remains the only scalable and reliable option for large-capacity steel creation in India. This is primarily due to the high cost and limited availability of round-the-clock renewable power and energy storage infrastructure for green steel. Significant advancements in sustainability within the BF route, such as blast furnace dehumidification and digital optimization, are helping to reduce emissions and energy intensity.",
+      "stance": "neutral",
+      "source_firm": "JSW Steel Limited",
+      "source_date": "2026-05-01",
+      "source_doc_id": "2b89a9cb-7e9a-525a-abb8-7d38a1e9bcb9"
+    },
+    {
+      "index": 10,
+      "title": "Indian steel sector poised for strong growth driven by robust demand and policy",
+      "description": "India's steel sector exhibits robust growth opportunities, fueled by strong domestic demand from infrastructure development, construction activity, and the automotive sector. Supportive government policies, including 100% FDI via the automatic route and the Production Linked Incentive (PLI) Scheme for specialty steel, are boosting investments and enhancing competitiveness. Initiatives like the Vehicle Scrappage Policy further aid by recovering low-cost materials, collectively positioning the industry for significant expansion and self-reliance.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "5f42454d-ef15-56de-a895-9e7331eaee63"
+    },
+    {
+      "index": 11,
+      "title": "Domestic steel demand expected to grow 9-10% in 2025, driving sector expansion",
+      "description": "India's domestic steel demand is estimated to grow robustly by 9-10% in 2025, according to ICRA. This strong demand is primarily driven by significant contributions from infrastructure, construction, and manufacturing sectors. Such consistent growth positions the Indian steel sector favorably for its next phase of expansion, providing a stable foundation for increasing production capacities and attracting further investments across the value chain.",
+      "stance": "positive",
+      "source_firm": "ICRA",
+      "source_date": "2026-03-31",
+      "source_doc_id": "5f42454d-ef15-56de-a895-9e7331eaee63"
+    },
+    {
+      "index": 12,
+      "title": "India's iron and steel industry on track for 255 MMT production by FY31",
+      "description": "India, the world's second-largest crude steel producer, is projected to achieve 255 MMT steel production by FY31, aligning with the National Steel Policy's target of 300 MMT installed capacity. This growth is underpinned by a robust 9%-10% year-on-year increase in domestic steel demand, driven by key end-use sectors like automotive, infrastructure, and construction. The PLI Scheme is further expected to contribute 26 MMT of specialty capacity, attracting INR42,500 crore in investments.",
+      "stance": "positive",
+      "source_firm": "EY-Parthenon",
+      "source_date": "2026-01-08",
+      "source_doc_id": "29297d87-f4ed-5fb9-bba2-e8b95b87505c"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 200.33,
+      "tam_unit": "MT",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Infrastructure Development",
+          "description": "Government infrastructure capex significantly drives demand for steel."
+        },
+        {
+          "driver": "Manufacturing Expansion",
+          "description": "Growth in various manufacturing sectors requires steel as a primary input."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total installed steel production capacity in India as of FY25.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 300.0,
+      "tam_unit": "MT",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "FY25-FY30",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Accelerated Infrastructure Creation",
+          "description": "Major government push for infrastructure projects drives significant steel demand."
+        },
+        {
+          "driver": "Rapid Urbanisation",
+          "description": "Increased urban development and construction activities require large volumes of steel."
+        },
+        {
+          "driver": "Manufacturing Growth",
+          "description": "Expansion across industrial sectors contributes to sustained demand for steel."
+        },
+        {
+          "driver": "Viksit Bharat 2047 Aspiration",
+          "description": "National economic development goals underpin structural demand for steel."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Target for crude steel capacity set by India's National Steel Policy (NSP).",
+      "source_firm": "KPMG in India",
+      "source_date": "2026-05-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 153.6,
+      "tam_unit": "MT",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Crude steel production in India for April–February FY26.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 146.8,
+      "tam_unit": "MT",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Finished steel production in India for April–February FY26.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": 147.7,
+      "tam_unit": "MT",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Infrastructure Development",
+          "description": "Continued government investment in roads, railways, and other major projects."
+        },
+        {
+          "driver": "Construction Activity",
+          "description": "Both residential and commercial construction contribute to steel demand."
+        },
+        {
+          "driver": "Industrial Growth",
+          "description": "Expansion of manufacturing and other industrial sectors."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Finished steel consumption in India during April–February FY26.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Industrial Sector Growth",
+          "description": "Expansion of manufacturing and other industries increases steel usage per person."
+        },
+        {
+          "driver": "Rising Infra Expenditure",
+          "description": "Increased spending on infrastructure projects like railways and highways drives per-capita consumption."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Per-capita consumption of steel in India during April-August FY26.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 7,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Expected to add 8.7 million tonnes of additional specialty steel capacity by FY31, strengthening domestic manufacturing in high-end segments.",
+          "opportunity": "Specialty Steel Capacity Addition"
+        },
+        {
+          "description": "The initiative aims to reduce India's reliance on imported specialty steels.",
+          "opportunity": "Reduced Import Dependence"
+        }
+      ],
+      "methodology": "Planned investments for specialty steel under the PLI 1.2 scheme. The scheme involves 85 MoUs with 55 companies.",
+      "source_firm": "Ministry of Steel",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 8,
+      "tam_value": 4.49,
+      "tam_unit": "MT",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "FY25-FY30",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Construction Sector",
+          "description": "Demand for sustainable materials in building projects."
+        },
+        {
+          "driver": "Infrastructure Projects",
+          "description": "Use of green steel in new infrastructure developments."
+        },
+        {
+          "driver": "Automotive Sector",
+          "description": "Increasing adoption of sustainable materials in vehicle manufacturing."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecasted demand for green steel in India.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    }
+  ],
+  "sources": [
+    "Boston Consulting Group",
+    "KPMG in India",
+    "Jindal Stainless Limited",
+    "ArcelorMittal Nippon Steel India Limited",
+    "EY-Parthenon India",
+    "BHP",
+    "Ministry of Steel",
+    "Steel Authority of India Limited",
+    "JSW Steel Limited",
+    "IBEF",
+    "ICRA",
+    "EY-Parthenon"
+  ]
+}

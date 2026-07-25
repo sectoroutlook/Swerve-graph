@@ -1,0 +1,834 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Global biopharma market fragmenting due to diverse regional policies",
+      "description": "The historical 'one world, one molecule' biopharma market is fragmenting, driven by shifts in international referencing, supply chain localization policies (e.g., EU Critical Medicines Act, US domestic manufacturing push), and varied approval/access requirements. This compels companies to unbundle global strategies and align with regional or political peers, requiring tailored go-to-market approaches and challenging trade-offs in clinical assessments and pricing.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-09"
+    },
+    {
+      "index": 2,
+      "title": "AI adoption in Life Sciences promises significant productivity gains",
+      "description": "AI offers substantial opportunities to unlock productivity across the life sciences sector, with successful scalers focusing on transformative bets and redesigning workflows from outcomes back. It enables faster product development, higher commercial productivity, and reduced operational downtime. Agentic AI, capable of autonomous reasoning and multi-step execution, is moving quickly into enterprise use, promising competitive advantage for early adopters.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-08"
+    },
+    {
+      "index": 3,
+      "title": "Data readiness and integration challenge widespread AI adoption in Life Sciences",
+      "description": "Despite AI's potential, only 20% of life sciences organizations are scaling it successfully. A major barrier is the lack of robust data foundations and the ability to generate, integrate, and act on market-specific evidence. Companies struggle to embed AI KPIs into core reporting and redesign workflows for AI. This data and process immaturity limits AI's impact and creates a widening gap between leaders and laggards.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-08"
+    },
+    {
+      "index": 4,
+      "title": "AI reshaping healthcare payer value chain and business models",
+      "description": "AI is fundamentally altering how healthcare is orchestrated and paid for, lowering care delivery and administrative costs. This creates aggressive competition from consumer tech companies, global AI firms, and AI-first care services, potentially eroding traditional payer boundaries. Payers must choose new AI-first business models—scaled platform operator, care ecosystem curator, or high-trust orchestrator—to avoid disintermediation and remain competitive in a rapidly evolving market.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-03"
+    },
+    {
+      "index": 5,
+      "title": "Shift to dynamic medicine demands data-driven strategies from pharma",
+      "description": "Precision medicine is evolving from static treatment choices to continuous, real-time optimization driven by multiomics, wearables, and integrated biological/behavioral data. This shifts value from molecules to algorithms and data interfaces that guide treatment. Pharma companies risk being 'optimized out' if they don't adapt by embedding themselves in post-prescribing infrastructure, developing precision treatment algorithms, and gaining stronger access to patient data to influence care management.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-03"
+    },
+    {
+      "index": 6,
+      "title": "India's healthcare AI ambition hindered by data fragmentation",
+      "description": "While AI has clear potential for India's healthcare, widespread adoption is challenged by fragmented data across various providers (hospitals, clinics, labs) stored in disparate systems and formats. This lack of integration impedes the scalability of AI solutions, limiting implementations to pilots rather than system-wide impact. Initiatives like ABDM are addressing this, but the pace of digitization and connectivity remains uneven.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 7,
+      "title": "Workforce shortages and skill gaps threaten healthcare productivity",
+      "description": "The global healthcare sector faces a projected shortfall of 11 million health workers by 2030, exacerbated by increasing demand. Healthcare CEOs are looking to AI to bridge this gap, but also recognize growing generational gaps in AI uptake and widening expectation gaps among employees. This necessitates a recalibration of workforce strategies, focusing on digital capability building, retraining high-potential talent, and redesigning roles to integrate AI.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 8,
+      "title": "Medtech supply chains exhibit declining margins and elevated inventory",
+      "description": "Analysis of 19 large medtech companies from 2019 to 2025 shows gross margins contracted by 149 basis points while days inventory outstanding (DIO) increased by 21 days. This indicates a failure to achieve both cost and capital efficiency, a hallmark of operational excellence in other sectors. The underlying systemic problems, including QMS constraints, fragmented supply bases, and SKU complexity, make reinvention difficult.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-30"
+    },
+    {
+      "index": 9,
+      "title": "Rising insurance penetration boosts demand for healthcare services",
+      "description": "Increasing per capita insurance premiums and growing penetration of health insurance are improving affordability and driving higher utilization of organized healthcare services in India. Standalone health insurers (SAHIs) reported 10.4% YoY premium growth, with total premium income expected to reach US$37.6-37.9 billion, followed by further growth of ~10.9% in FY27. This trend supports long-term sector growth by increasing patient access and reducing out-of-pocket expenses.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-20"
+    },
+    {
+      "index": 10,
+      "title": "Tier-2 cities offer significant opportunity for new healthcare infrastructure",
+      "description": "Approximately 60% of India's population resides in Tier-2 cities, creating robust demand for new hospital infrastructure and healthcare investments beyond metropolitan areas. This demographic reality presents a strong opportunity for healthcare providers and investors to expand access to quality services, driving capacity expansion across multi-specialty, single-specialty, and diagnostic platforms. This decentralization of healthcare delivery supports sector growth.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-20"
+    },
+    {
+      "index": 11,
+      "title": "Government as key payer increasing healthcare access and reducing costs",
+      "description": "Public health schemes (like Ayushman Bharat/PMJAY) and higher healthcare allocations from the government are increasing access to healthcare services and reducing out-of-pocket expenses for patients. This consistent government support strengthens the demand side for healthcare services and facilities, creating a favorable operating environment for healthcare providers and encouraging continued investment in the sector, including private equity interest and consolidation.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-20"
+    },
+    {
+      "index": 12,
+      "title": "Favorable investment environment strengthens healthcare sector growth",
+      "description": "India's healthcare sector benefits from conducive policies supporting FDI, rising public healthcare allocations, and continuous infrastructure expansion. This strengthens the investment landscape, attracting private equity, venture capital, and global investors. Initiatives like Pfizer’s INDovation program and the establishment of AIIMS research consortiums further support innovation, leading to a projected sector valuation of US$638 billion by 2025 and sustained growth.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 13,
+      "title": "Biotechnology sector benefits from robust startup ecosystem and R&D focus",
+      "description": "India's biotechnology sector is propelled by a strong startup ecosystem, with 11,855 startups in 2025, reflecting sustained innovation in therapeutics, diagnostics, and digital life sciences. The country also benefits from cost-effective research, a strong talent pool, and public-private partnerships. Policy initiatives like the National Biopharma Mission and RDI Fund further strengthen clinical trial capacity and support deep-tech innovation, fostering growth in areas like cell and gene therapy.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 14,
+      "title": "Expanding medical education and infrastructure improves healthcare capacity",
+      "description": "India's healthcare infrastructure is rapidly expanding, with 157 new medical colleges (131 operational) and 22 AIIMS approved. Private hospitals are also adding over 4,000 beds in FY26 with significant investments. This growth, coupled with a rising number of registered medical professionals (1.38M doctors, 751K AYUSH practitioners, 1:811 doctor-to-population ratio), directly enhances the country's healthcare capacity and accessibility, supporting overall sector growth.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 15,
+      "title": "GLP-1 market expansion drives growth in pharmaceuticals and consumer health",
+      "description": "The Indian GLP-1 market is projected to expand fivefold in the next five years, driven by new product launches like Mounjaro and Wegovy for type-2 diabetes and obesity management. This significant growth presents an upside opportunity for pharmaceutical and consumer health companies, pushing innovation and market expansion in addressing lifestyle-related conditions. The consumer market for GLP-1 products (Ozempic/Wegovy/Mounjaro) is explicitly highlighted.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-17"
+    },
+    {
+      "index": 16,
+      "title": "India's strong manufacturing base and cost efficiency boost pharma exports",
+      "description": "India, recognized as the 'pharmacy of the world,' is the third-largest producer by volume and a major exporter, supplying 20% of global generic medicines. Its cost-effective research environment, USFDA-compliant plants (highest outside US), and WHO-GMP approved facilities enable it to provide affordable drugs and vaccines to over 150 countries. This strong manufacturing base and cost advantage are key economic drivers for its pharmaceutical sector.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 17,
+      "title": "Policy support and FDI drive medical devices industry expansion",
+      "description": "The Indian medical devices industry is experiencing significant growth due to 100% FDI under the automatic route and strong policy support, including the National Medical Devices Policy 2023, PLI schemes (e.g., $468.78 million outlay), and medical device parks. These initiatives boost domestic manufacturing, attract investments, and are aimed at reducing import dependence while enhancing export potential, targeting US$20 billion in exports by FY30.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Biopharma must adapt to market fragmentation, global shifts, and regional alignment",
+      "description": "Biopharma leaders face a multipolar market, requiring a transition from 'one world, one molecule' strategies. Shifts in policy, regulation, pricing, and supply chains necessitate regional alignment. Companies must revisit go-to-market assumptions, make trade-off decisions, and reorganize for geographic autonomy or rigorous global governance. Adapting to this complex reality is crucial for future success and will define a company's capability.",
+      "stance": "cautious_positive",
+      "source_firm": "bain",
+      "source_date": "2026-06-09",
+      "source_doc_id": "75e10a98-735b-5afa-aefb-90f260436fb2"
+    },
+    {
+      "index": 2,
+      "title": "Scaling AI in Life Sciences requires workflow redesign, not just technology deployment",
+      "description": "Only 20% of life sciences organizations are successfully scaling AI and achieving measurable value. The key to success lies in redesigning entire workflows from outcomes back, rather than merely bolting AI onto existing processes. Workforce adoption, C-suite sponsorship, and clear strategic bets are critical for realizing AI's transformative potential. Organizations that adapt quickly will gain a significant advantage.",
+      "stance": "cautious_positive",
+      "source_firm": "bain",
+      "source_date": "2026-06-08",
+      "source_doc_id": "321f56fc-cd54-5592-a6ca-ae5ee1f4cc34"
+    },
+    {
+      "index": 3,
+      "title": "Healthcare payers must become AI-first to survive impending industry disruption",
+      "description": "AI is fundamentally redrawing the healthcare landscape, threatening traditional payer models with aggressive competition from consumer tech companies and AI-first services. Payers must transform into AI-first innovators, leveraging AI to reduce administrative costs by 40%, reshape member engagement, and intelligently curate care networks. Failure to adapt will lead to disintermediation and a shrinking share of the value chain.",
+      "stance": "cautious_negative",
+      "source_firm": "bcg_global",
+      "source_date": "2026-06-03",
+      "source_doc_id": "d0d3975a-959a-5363-8096-989cfb5df8e5"
+    },
+    {
+      "index": 4,
+      "title": "Pharma must embrace data-driven dynamic medicine or risk being optimized out",
+      "description": "Precision medicine is evolving towards continuous, real-time optimization driven by abundant data from multiomics and wearables. Value is shifting from molecules to the algorithms and data interfaces guiding treatment decisions. Pharma companies must strategically engage with this data-driven ecosystem as suppliers, solution developers, or ecosystem orchestrators to avoid losing influence over treatment plans and to address commercial vulnerabilities like switching and nonadherence.",
+      "stance": "cautious_negative",
+      "source_firm": "bain",
+      "source_date": "2026-06-03",
+      "source_doc_id": "452144aa-58b2-5e07-a665-1507a556cbed"
+    },
+    {
+      "index": 5,
+      "title": "India's healthcare AI ambitions challenged by data fragmentation, but opportunities exist",
+      "description": "While AI offers clear potential for efficiency and patient outcomes in Indian healthcare, data availability and quality remain major challenges due to fragmentation across hospitals, clinics, and labs. Efforts like Ayushman Bharat Digital Mission are positive, but integration is uneven. India has an opportunity to leapfrog older systems with modern, flexible digital solutions if foundational elements like data standardization and connectivity are prioritized.",
+      "stance": "cautious_positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-05-01",
+      "source_doc_id": "8e64b33d-57e9-5f39-8ca3-a9ead0e27aef"
+    },
+    {
+      "index": 6,
+      "title": "Healthcare CEOs optimistic about AI, but face significant data and workforce challenges",
+      "description": "Healthcare CEOs globally are confident in industry growth and AI's potential to boost productivity and address workforce shortages. Most plan increased AI investment, expecting quick returns. However, significant challenges remain in integrating AI into systems, data readiness (cited by 55%), ethical concerns, and acquiring necessary skills. Building strong digital foundations and prioritizing change management for workforce adaptation are crucial for success.",
+      "stance": "cautious_positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-05-01",
+      "source_doc_id": "0f3866e5-7845-55b9-b121-5f0e981d055b"
+    },
+    {
+      "index": 7,
+      "title": "Medtech supply chains require radical reinvention to improve efficiency and margins",
+      "description": "Medtech supply chains have struggled, showing contracted gross margins and elevated inventory since 2019, contrasting with other industries. Systemic constraints like QMS, fragmented supply bases, and SKU complexity hinder traditional improvement efforts. Achieving cost and capital efficiency requires a clean-sheet approach, radical simplification, risk-based quality management, and modernization with AI and Industry 4.0. Early adopters will gain a significant competitive edge.",
+      "stance": "cautious_negative",
+      "source_firm": "bain",
+      "source_date": "2026-04-30",
+      "source_doc_id": "81c69394-2c09-5a0a-b66c-e237b3bd3047"
+    },
+    {
+      "index": 8,
+      "title": "Indian Lifesciences sector poised for strong growth, driven by demand and investment",
+      "description": "The Indian Lifesciences sector enters 2026 with strong demand visibility, supported by rising insurance penetration, Tier-2 city opportunities, and a shift to organized healthcare. Continued capacity expansion across multi-specialty hospitals, single-specialty clinics, and diagnostic platforms is expected. Robust private equity interest and ongoing consolidation in hospitals and devices will shape the year, emphasizing scaling capacity, improving case complexity, and accelerating innovation.",
+      "stance": "positive",
+      "source_firm": "ey",
+      "source_date": "2026-04-20",
+      "source_doc_id": "3354ce2c-25ef-5715-874f-90db70291d48"
+    },
+    {
+      "index": 9,
+      "title": "Indian Pharmaceuticals and Healthcare services show broad-based credit upgrades",
+      "description": "CareEdge Ratings observes that pharmaceuticals and healthcare services are key sectors driving credit upgrades in the second half of fiscal 2026. This indicates strong performance and improved credit profiles within these segments. While the overall credit ratio shows moderation, the resilience of specific sectors like healthcare suggests underlying strength amidst a more challenging global economic environment.",
+      "stance": "positive",
+      "source_firm": "careedge",
+      "source_date": "2026-04-17",
+      "source_doc_id": "837065f0-1456-5245-a0c5-8fbf7afd96e5"
+    },
+    {
+      "index": 10,
+      "title": "India's Healthcare sector exhibits robust growth, driven by investment and demand",
+      "description": "India's healthcare sector is highly positive, projected to reach US$638 billion by 2025 with a 17.5-22.5% CAGR. This growth is fueled by favorable investment policies, rising income levels, an aging population, and increased health awareness. The sector is also a significant employer, a medical tourism hub, and benefits from cost-effective R&D. Hospitals and remote patient monitoring are showing particularly strong growth.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "source_doc_id": "1a1b089f-0272-584d-bda6-663bc9156e47"
+    },
+    {
+      "index": 11,
+      "title": "Pharmaceuticals industry poised for strong growth and global leadership",
+      "description": "India's pharmaceutical industry is the third-largest globally by volume and among the fastest-growing sectors, projected to reach US$120-130 billion by 2030. Key drivers include significant investments, policy support (PLI, API-push), and cost efficiency making India a global hub for affordable generics and vaccines. CRDMO and biosimilars are emerging as major growth engines, reinforcing India's role in global supply chains.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "source_doc_id": "8ba03afc-1ae4-52a3-9a9b-5d46ba04e097"
+    },
+    {
+      "index": 12,
+      "title": "Biotechnology sector shows strong growth, talent, and policy support",
+      "description": "India's biotechnology sector is ranked 12th globally and 3rd in Asia-Pacific, with the bioeconomy projected to reach US$300 billion by 2030. This growth is underpinned by cost-effective research, a strong biotech talent pool, and supportive public-private partnerships. The country is also becoming a leading destination for clinical trials and boasts a robust startup ecosystem, driving advancements in biopharma, vaccines, and cell/gene therapies.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "source_doc_id": "8ba03afc-1ae4-52a3-9a9b-5d46ba04e097"
+    },
+    {
+      "index": 13,
+      "title": "Medical devices industry set for significant expansion and global presence",
+      "description": "India's medical devices industry, currently valued at US$11-12 billion, is projected to reach US$50 billion by 2030. This robust growth is supported by increasing investments, 100% FDI, favorable policy support including PLI schemes and medical device parks, and rising domestic demand. The sector is enhancing its global footprint through new-generation technologies like AI and significant export potential, aiming for US$20 billion in exports by FY30.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "source_doc_id": "b2befeaf-03cf-5482-b43c-7d9e126ae1ac"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 345.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Global AI Investment Growth",
+          "description": "Private investment in AI globally surged from USD 152 billion in 2024 to USD 345 billion in 2025, indicating strong overall demand for AI technologies and solutions."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Despite global AI investment surge, India attracted only USD 4.1 billion in 2025, primarily in data centers. There is an opportunity for India to capture more investment in frontier model development and semiconductor innovation for healthcare-specific AI applications.",
+          "opportunity": "AI in healthcare"
+        }
+      ],
+      "methodology": "Global private investment in AI surged, with a significant portion concentrated in US and China, while India attracted only $4.1 billion in 2025. This indicates a large global market that India is currently under-penetrating in certain AI segments.",
+      "source_firm": "careedge",
+      "source_date": "2026-05-14",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 58.49,
+      "forecast_cagr_period": "5_year",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising Prevalence of Chronic Diseases",
+          "description": "Increasing rates of conditions like type-2 diabetes and obesity globally and in India are driving significant demand for effective treatments such as GLP-1 agonists."
+        },
+        {
+          "driver": "New Product Launches and Awareness",
+          "description": "The introduction of drugs like Mounjaro and Wegovy in India enhances product availability and patient/physician awareness, contributing to market expansion."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The rapid projected 5x expansion of the Indian GLP-1 market presents a significant opportunity for pharmaceutical and consumer health companies focusing on obesity and diabetes management.",
+          "opportunity": "GLP-1 Agonists Market"
+        }
+      ],
+      "methodology": "The Indian GLP-1 market is projected to expand fivefold in the next five years, indicating a high-growth segment within pharmaceuticals and consumer health, driven by demand for obesity and diabetes treatments.",
+      "source_firm": "careedge",
+      "source_date": "2026-04-17",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 638.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 17.5,
+      "forecast_cagr_period": "2023-2025",
+      "historical_cagr": 19.01,
+      "historical_cagr_period": "2016-2023",
+      "demand_drivers": [
+        {
+          "driver": "Rising Income Levels",
+          "description": "Increased disposable income leads to higher spending on healthcare services and products."
+        },
+        {
+          "driver": "Ageing Population",
+          "description": "A growing elderly population requires more healthcare services, increasing demand."
+        },
+        {
+          "driver": "Growing Health Awareness",
+          "description": "Increased awareness about health and preventive care drives demand for diagnostics and wellness products."
+        },
+        {
+          "driver": "Changing Attitude Towards Preventive Healthcare",
+          "description": "A shift towards proactive health management boosts demand for related services and products."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The Indian healthcare sector was valued at US$110 billion in 2016 and US$372 billion in 2023, projected to reach US$638 billion by 2025, growing at a CAGR of 17.5-22.5%.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 56.94,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 12.7,
+      "forecast_cagr_period": "unknown-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increased Digital Health Adoption",
+          "description": "Growing acceptance and integration of digital technologies in healthcare delivery."
+        },
+        {
+          "driver": "Convenience and Accessibility",
+          "description": "Remote monitoring offers greater convenience for patients and expands access to care, particularly in underserved areas."
+        },
+        {
+          "driver": "Management of Chronic Conditions",
+          "description": "Effective for continuous monitoring and management of chronic diseases, reducing hospital readmissions and improving outcomes."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "High growth potential for technologies enabling remote health management, supported by digital transformation in healthcare.",
+          "opportunity": "Remote Patient Monitoring"
+        }
+      ],
+      "methodology": "The global remote patient monitoring market is projected to expand at a CAGR of 12.7% to reach US$56.94 billion by 2030.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": 135.3,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 10.6,
+      "forecast_cagr_period": "2026-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising Healthcare Demand",
+          "description": "Increasing population, prevalence of diseases, and health awareness are driving demand for hospital services."
+        },
+        {
+          "driver": "Capacity Expansion",
+          "description": "New hospitals and bed additions are contributing to market growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Significant investment and growth potential in expanding hospital capacity and services across India.",
+          "opportunity": "Hospital Infrastructure Development"
+        }
+      ],
+      "methodology": "India’s hospital market is expected to be valued at US$135.3 billion in FY26 and is projected to reach US$202.5 billion by 2030, growing at a CAGR of ~10.6%.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": 14.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2028,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "unknown-2028",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Global Outsourcing Trends",
+          "description": "Pharmaceutical companies increasingly outsource R&D and manufacturing to reduce costs and leverage specialized expertise."
+        },
+        {
+          "driver": "Cost Advantage in India",
+          "description": "India offers competitive costs for research, development, and manufacturing services, attracting international players."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Significant opportunity for growth in contract research, development, and manufacturing due to global outsourcing and India's competitive advantages.",
+          "opportunity": "CRDMO Industry Growth"
+        }
+      ],
+      "methodology": "India's CRDMO (Contract Research, Development & Manufacturing Organisation) industry is set to double from its current size to US$14 billion by 2028, driven by global outsourcing and India’s cost advantage.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 7,
+      "tam_value": 50.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 27.02,
+      "forecast_cagr_period": "2024-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government Initiatives and Targets",
+          "description": "Ambitious government targets and supportive policies are propelling growth in the medical devices sector."
+        },
+        {
+          "driver": "Rising Healthcare Demand",
+          "description": "Increasing need for medical services and infrastructure drives demand for devices."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Significant government push and investment opportunities to boost domestic production and reduce import dependency.",
+          "opportunity": "Medical Devices Manufacturing"
+        }
+      ],
+      "methodology": "India's medical devices industry, valued at US$12 billion in FY24, aims to expand to US$50 billion by 2030, driven by government targets.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 8,
+      "tam_value": 1.49,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 8.5,
+      "forecast_cagr_period": "unknown",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising Demand for Vaccines",
+          "description": "Increasing focus on preventive healthcare and new adult vaccination programs drive market growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The vaccine market is valued at US$1.49 billion in 2025 and is projected to grow at a CAGR of 8.50%, driven by rising demand for preventive and adult vaccines.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 9,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 80.0,
+      "historical_cagr_period": "2019-2024",
+      "demand_drivers": [
+        {
+          "driver": "Streamlined Regulatory Framework",
+          "description": "New Drugs and Clinical Trials Rules 2019 reduce costs and approval timelines."
+        },
+        {
+          "driver": "Commitments from Global Companies",
+          "description": "International interest in India for drug development and innovation activities."
+        },
+        {
+          "driver": "Strengthening Clinical Trial Capacity",
+          "description": "National Biopharma Mission and hospital-based trials are enhancing capabilities."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "India's emergence as a global hub for clinical trials offers significant opportunities for CROs and related services.",
+          "opportunity": "Clinical Research Services"
+        }
+      ],
+      "methodology": "India has become the third-largest destination for conducting clinical trials globally as of 2024, growing at a CAGR of 80% from 2019. Around 18,000 clinical trials were registered in India in 2024 alone.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 10,
+      "tam_value": 120.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 17.06,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increasing Healthcare Expenditure",
+          "description": "Higher spending on healthcare translates to greater demand for pharmaceutical products."
+        },
+        {
+          "driver": "Rising Disease Burden",
+          "description": "Prevalence of chronic and acute diseases drives pharmaceutical consumption."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The Indian Pharmaceutical market stood at US$55 billion in 2025 and is expected to grow to US$120-130 billion by 2030, according to Bain & Co.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 11,
+      "tam_value": 16.97,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 7.82,
+      "forecast_cagr_period": "2025-2031",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising Healthcare Demand",
+          "description": "Increasing need for medical services, better insurance coverage, and improved infrastructure."
+        },
+        {
+          "driver": "Technological Advancements",
+          "description": "Adoption of new-generation technologies such as AI and personalized medicine boosts demand for advanced devices."
+        },
+        {
+          "driver": "Increased Domestic Manufacturing",
+          "description": "Supportive government policies and initiatives drive local production and reduce import dependency."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The medical devices market in India was valued at US$16.97 billion in 2025 and increased to US$18.30 billion in 2026. It is projected to reach US$26.66 billion by 2031, growing at a CAGR of 7.82%.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 12,
+      "tam_value": 57.61,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 5.74,
+      "forecast_cagr_period": "2025-2031",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising Healthcare Needs",
+          "description": "Increasing population and disease burden drive demand for pharmaceutical products."
+        },
+        {
+          "driver": "Export Demand",
+          "description": "India's position as a global supplier of generic medicines and vaccines supports continued growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The Indian pharmaceutical market stood at US$57.61 billion in 2025, estimated at US$60.32 billion in 2026, and is expected to grow to US$79.74 billion by 2031, at a CAGR of 5.74%.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 13,
+      "tam_value": 320.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2028,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "unknown-2028",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Robust Healthcare Needs",
+          "description": "General increase in demand for various healthcare services and products across the country."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s healthcare sector is projected to reach US$320 billion by 2028, reflecting strong overall growth.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 14,
+      "tam_value": 195.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 8.97,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Biotech Startup Ecosystem Growth",
+          "description": "A flourishing environment for biotech startups is fueling innovation and market expansion."
+        },
+        {
+          "driver": "Advanced Biopharmaceutical Developments",
+          "description": "Growth in novel biologics, cell and gene therapies, and other cutting-edge biotech products."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Rapidly expanding bioeconomy with strong government support and startup activity, particularly in biopharma and advanced therapies.",
+          "opportunity": "Biotechnology Innovation"
+        }
+      ],
+      "methodology": "India’s bioeconomy expanded to over US$195 billion in 2025 and is projected to reach US$300 billion by 2030, driven by rapid growth of biotech startups.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 15,
+      "tam_value": 1.65,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "unknown-2027",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Advancements in Next-Gen Medicine",
+          "description": "Emergence of new therapies for advanced cancer and genetic treatments drives market expansion."
+        },
+        {
+          "driver": "Increased Accessibility and Affordability",
+          "description": "Efforts by domestic companies to make advanced treatments more accessible and affordable."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Rapidly growing segment within biotechnology with potential for significant market expansion due to breakthrough treatments.",
+          "opportunity": "Cell and Gene Therapy"
+        }
+      ],
+      "methodology": "India’s cell and gene therapy market is projected to reach US$1.65 billion by 2027, growing robustly.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 16,
+      "tam_value": 60.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2028,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "unknown-2028",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Ecosystem Shifts",
+          "description": "Changes in industry structure, consolidation, and new partnerships create avenues for innovation."
+        },
+        {
+          "driver": "Changing Profit Pools",
+          "description": "Evolution of where value is captured within the healthcare system drives investment in new solutions."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "A substantial opportunity for new solutions and business models across the healthcare ecosystem.",
+          "opportunity": "Healthcare Innovation"
+        }
+      ],
+      "methodology": "The healthcare innovation opportunity is projected to reach ~US$60 billion by FY28, driven by ecosystem shifts such as consolidation, changing profit pools, and increasing partnerships.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 17,
+      "tam_value": 112.2,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2034,
+      "forecast_cagr": 13.09,
+      "forecast_cagr_period": "2026-2034",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising Demand for Personalized Medicine",
+          "description": "Growing interest in tailored treatments based on individual patient characteristics."
+        },
+        {
+          "driver": "Chronic Disease Treatments",
+          "description": "Increasing prevalence of chronic conditions drives demand for biotech solutions."
+        },
+        {
+          "driver": "Integration of IT with Biotech",
+          "description": "Fusion of information technology with biotechnology for precision medicine advances market growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s biotechnology market size was valued at approximately US$37.1 billion in 2025 with an expected compound annual growth rate (CAGR) of 13.09% during 2026-34, potentially reaching US$112.2 billion by 2034.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 18,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2023-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government Focus on Healthcare",
+          "description": "Increased government allocation and initiatives underscore a commitment to expanding healthcare access and quality."
+        },
+        {
+          "driver": "Rising Health Awareness and Spending",
+          "description": "General societal trend towards prioritizing health and willingness to spend more on healthcare services."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's healthcare spending accounted for 3.34% of Indian GDP in 2023 and is expected to increase to 5% by 2030. This indicates a growing share of the national economy dedicated to healthcare.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "bain",
+    "bcg_global",
+    "kpmg",
+    "ey",
+    "careedge",
+    "ibef"
+  ]
+}

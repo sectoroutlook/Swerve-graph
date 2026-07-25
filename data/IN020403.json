@@ -1,0 +1,78 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Auto Catalytic Converter Demand Tracks Vehicle Production Output",
+      "description": "Demand for Platinum Group Metals (PGMs), specifically palladium for petrol vehicles and platinum for diesel vehicles, which are crucial components in auto catalytic converters, directly correlates with overall vehicle production output. An increase in manufacturing activity for Internal Combustion Engine (ICE) vehicles would lead to higher demand for PGMs, reflecting the traditional reliance of the PGM market on the conventional automotive sector's health and production volumes.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-22"
+    },
+    {
+      "index": 2,
+      "title": "EV Penetration Displacing ICE Vehicles, Headwind for PGM Demand",
+      "description": "The increasing penetration of Electric Vehicles (EVs) represents a significant structural headwind for Platinum Group Metals (PGMs). As EVs replace Internal Combustion Engine (ICE) vehicles, the primary industrial demand for PGMs stemming from ICE auto catalysts for emissions reduction will inevitably decrease. This technological shift is a major long-term challenge for the PGM market, requiring diversification of applications and strategic adaptation from producers to mitigate declining demand from a historically dominant sector.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-22"
+    },
+    {
+      "index": 3,
+      "title": "Currency Fluctuation Impacts PGM Revenue and Costs",
+      "description": "Fluctuations in the INR/USD exchange rate have a direct and material impact on the Platinum Group Metals (PGM) sub-industry. Given that global PGM prices are typically USD-denominated, a depreciation of the Indian Rupee (INR) against the US Dollar (USD) can substantially boost INR-denominated revenues for PGM producers or importers, enhancing their profitability. Conversely, INR appreciation would increase import costs or reduce export competitiveness, thereby directly influencing PGM market dynamics and financial performance within India.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-22"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "EV Penetration Creates Structural Headwind for Platinum Group Metals Demand",
+      "description": "The increasing penetration of Electric Vehicles (EVs) is identified as a significant structural headwind for Platinum Group Metals (PGMs). This is because EVs directly displace Internal Combustion Engine (ICE) vehicles, and ICE auto catalysts represent the primary industrial demand for PGMs like platinum and palladium, crucial for emissions control. As EV adoption rapidly grows globally, the long-term demand for these essential PGM components in catalytic converters will likely experience a substantial decline, negatively impacting the overall PGM market and necessitating strategic adjustments for producers.",
+      "stance": "negative",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "2bca31a1-a71f-52e3-8212-84f8f7e776b7"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Auto Catalysts for ICE Vehicles",
+          "description": "Demand for PGMs, such as palladium for petrol engines and platinum for diesel engines, is directly driven by the manufacturing volume and regulatory requirements of Internal Combustion Engine (ICE) vehicles globally, as these metals are critical for catalytic converters that reduce harmful emissions."
+        },
+        {
+          "driver": "Hydrogen Fuel Cells",
+          "description": "Platinum Group Metals, particularly platinum, are indispensable catalysts in the development and deployment of hydrogen fuel cells, driving demand as the green hydrogen economy expands for energy and transportation applications."
+        },
+        {
+          "driver": "Chemical Manufacturing",
+          "description": "PGMs serve as vital catalysts in numerous chemical processes, enabling efficient production of various industrial and specialty chemicals, thus contributing a steady portion of the overall PGM demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Analysis based on the definition of Platinum Group Metals (PGMs) and their primary industrial applications, as well as the impact of evolving automotive technologies. The sector is characterized by purely industrial demand. No explicit market size figures are available in the provided documents, but key demand drivers are identified for the forecast period.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "low"
+    }
+  ],
+  "sources": [
+    "IBEF"
+  ]
+}

@@ -1,0 +1,565 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Power paradox: increasing electricity demand outpacing supply for data centres",
+      "description": "Data centres are rapidly increasing electricity consumption (projected 2% to 6% of NEM grid-supplied electricity by 2030 in Australia). This, combined with Australia's energy transition, creates a timing mismatch between growing demand and new supply. This poses a significant challenge, potentially pressuring power systems and electricity prices, and requiring careful balancing of reliability, affordability, and decarbonization.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-26"
+    },
+    {
+      "index": 2,
+      "title": "High build complexity increases execution risk for data centres",
+      "description": "The increasing build complexity for data centres, driven by rising rack densities and transitions to advanced cooling solutions like liquid and hybrid systems, elevates execution risk. This complexity extends commissioning times and delays the stabilization of operations, posing a significant challenge for developers and potentially stranding capital if not managed effectively. It demands enhanced project management and specialized expertise.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-26"
+    },
+    {
+      "index": 3,
+      "title": "US data centre power crunch due to insufficient generating capacity",
+      "description": "The US faces a significant power crunch, with a potential 80-gigawatt capacity shortfall projected by 2030 to meet the demands of data centres, primarily driven by AI. Current generating capacity cannot keep pace with the rapidly growing need for 24/7 reliable power. This poses a major headwind for data centre expansion, as securing adequate and timely power solutions becomes paramount.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-30"
+    },
+    {
+      "index": 4,
+      "title": "Government incentives and regulatory push accelerate India's data centre growth",
+      "description": "The Indian government actively supports data centre growth through various measures. These include tax holidays for foreign cloud service providers, a proposed National Data Centre Policy to streamline operations and attract capital, and granting infrastructure status for long-term financing. State-level incentives like stamp duty exemptions, power subsidies, single-window clearances, and land availability near IT hubs further enhance the supportive policy environment, accelerating ecosystem expansion.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-17"
+    },
+    {
+      "index": 5,
+      "title": "DPDP Act mandates data residency, driving demand for physical DCs in India",
+      "description": "The Digital Personal Data Protection (DPDP) Act 2023 fundamentally alters data processing and storage requirements in India. By limiting cross-border transfers, it compels global enterprises to establish a physical data residency footprint within the country. This regulatory mandate acts as a significant tailwind for the Indian data centre real estate market, directly boosting demand for new facilities and colocation capacity as companies seek to achieve compliance.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": null,
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 6,
+      "title": "Investment sequencing 'chicken-or-egg' dilemma hindering data centre growth",
+      "description": "The interdependencies between developers, customers, energy providers, and governments create an investment sequencing challenge for data centres. Developers hesitate to commit significant capital without long-term customer commitments, while customers seek certainty on delivery, power, and infrastructure. This uncertainty, exacerbated by constraints in power, grid connections, planning approvals, and delivery timelines, influences global capital deployment decisions, slowing market maturation.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-26"
+    },
+    {
+      "index": 7,
+      "title": "Intensifying global competition for data centre investment",
+      "description": "Competition for global data centre and AI infrastructure investment is escalating across the Asia-Pacific. While Australia has structural advantages, longer and less predictable project delivery timelines and fragmented approval processes put it at a disadvantage compared to faster-moving Asian markets. This demands balancing efficient delivery, regulatory detail, infrastructure readiness, and international competitiveness to secure future investment amid rising AI-driven demand.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-26"
+    },
+    {
+      "index": 8,
+      "title": "Growing data sovereignty and policy support for critical infrastructure",
+      "description": "Regulators globally are tightening data sovereignty and residency requirements, necessitating in-country or in-region data centre capacity. Concurrently, governments are increasingly classifying data centres as critical national infrastructure, offering policy support and streamlined planning pathways. These combined factors are reshaping investment landscapes, driving capital towards markets that offer credible power, connectivity, and political stability, ensuring localized data storage and national digital resilience.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-26"
+    },
+    {
+      "index": 9,
+      "title": "Gas with CCUS emerges as scalable solution for data centre power crunch",
+      "description": "Gas-fired generation equipped with Carbon Capture, Utilization, and Storage (CCUS) technology is becoming a leading scalable solution to address the US data centre power crunch. It performs well across speed, cost-effectiveness, regulatory support, scalability (with abundant CO2 storage potential), and low-carbon credentials. This technology is gaining momentum, attracting significant capex for retrofits and new plants to meet hyperscaler sustainability commitments and firm power needs.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-30"
+    },
+    {
+      "index": 10,
+      "title": "India offers significant cost advantages for data centre setup",
+      "description": "India presents a competitive cost advantage for establishing data centres, with approximately 30–40% lower capital expenditure compared to China and the US, primarily due to lower land prices. Additionally, competitive electricity tariffs, nearly 50% lower than in the US, contribute to reduced operating expenses. These factors make India an attractive destination for hyperscalers and global cloud providers, driving investment and expansion in the sector.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-17"
+    },
+    {
+      "index": 11,
+      "title": "Power infrastructure gaps pose challenges for India's data centre growth",
+      "description": "Despite rising power generation capacity, including renewables, India faces significant power infrastructure challenges for data centres. Gaps in transmission infrastructure, particularly inadequate substation upgrades and power evacuation capabilities, are lagging behind demand. This poses a key risk, especially as AI workloads drive higher rack power density and sharply increase overall power demand, threatening to constrain the industry's potential for large-scale expansion.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-25"
+    },
+    {
+      "index": 12,
+      "title": "International investors face capital efficiency gap in India's data centre market",
+      "description": "International investors seeking to enter India's data centre market frequently encounter a 'Capital Efficiency Gap.' This stems from confusing land acquisition laws and complex, state-level power regulations, which act as significant barriers. These regulatory hurdles can deter foreign investment, making market entry challenging and necessitating specialized advisory services to secure clean land parcels and structure Power Purchase Agreements (PPAs) for de-risking investments.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": null,
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 13,
+      "title": "Concentration of data centres strains infrastructure and hinders planning",
+      "description": "Data centre investment is highly concentrated in major hubs (e.g., Sydney, Melbourne), placing immense pressure on local energy, land, and network infrastructure. Fragmented planning requirements for various utilities, coupled with uncertainty over project materialization ('phantom demand'), limit visibility on cumulative impacts. This leads to social license challenges, misaligned planning, and a shortage of skilled workers, particularly in regional areas, entrenching urban concentration.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-26"
+    },
+    {
+      "index": 14,
+      "title": "Latency-tolerant AI workloads reshape data centre location flexibility",
+      "description": "Historically, data centres needed proximity to end-users for low latency. However, a growing portion of workloads, especially in GenAI training and inference, are latency-tolerant. This allows developers greater flexibility in site selection, enabling data centres to be located anywhere with viable power, connectivity, and stability, rather than being tied to urban centres. This shift is a key driver for future data centre capacity expansion globally.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-26"
+    },
+    {
+      "index": 15,
+      "title": "Digital transformation fuels India's data centre demand",
+      "description": "India's digital transformation, driven by e-commerce, fintech, online streaming, and gaming, is accelerating data creation and consumption. Wireless data usage has doubled and the internet user base has nearly tripled, projected to exceed 1.3 billion by 2030. The rollout of 5G further accelerates data and cloud adoption, collectively strengthening the demand for data centre infrastructure, making it a pivotal growth driver.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-17"
+    },
+    {
+      "index": 16,
+      "title": "AI readiness gap due to legacy cooling designs in Indian data centres",
+      "description": "Many older Indian data centre facilities still rely on legacy air-cooling designs, which are inadequate for the intense heat generated by modern GPU clusters and high-density AI infrastructure. This creates a significant 'AI Readiness Gap,' requiring a complex transition away from standard raised floors towards advanced liquid cooling and new high-density power sourcing. This engineering challenge represents a massive multi-stakeholder delivery risk.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": null,
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 17,
+      "title": "ESG focus and 100% FDI attract investment to India's data centre sector",
+      "description": "A focus on efficient power usage and renewable energy agreements aligns Indian data centre operators with global ESG standards, significantly enhancing their attractiveness to international investors. Furthermore, India allows 100% Foreign Direct Investment (FDI) under the automatic route for data centres, facilitating smooth offshore capital flow into onshore operations. These combined factors provide a strong tailwind, unlocking capital and promoting sustainable development in the sector.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 18,
+      "title": "Land scarcity and labyrinthine clearances challenge India's data centre development",
+      "description": "Land, a crucial commodity for hyperscalers, is becoming scarce in prime Indian hubs like Mumbai, Chennai, Hyderabad, and Bengaluru. Beyond scarcity, developers face a 'labyrinth of clearances' involving complex zoning laws, environmental assessments, and approvals for power, water, and fire safety. This bureaucratic maze can prolong projects, transforming medium-term plans into multi-year headaches. Streamlining these approvals with a national single-window system is critical for accelerated growth.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": null,
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 19,
+      "title": "Global hardware shortages and long lead times for data centres",
+      "description": "The global scramble for hardware, exacerbated by semiconductor shortages and massive demand for GPU-heavy, high-density AI infrastructure, results in agonizingly long lead times for critical processors. This dependency on overseas suppliers leaves India vulnerable to global bottlenecks and fluctuations. It necessitates designing facilities capable of overseeing multiple hardware generations and cultivating multi-vendor ecosystems to prevent deployment halts, posing a significant challenge to rapid expansion.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": null,
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 20,
+      "title": "Talent gap in highly skilled professionals for advanced data centres",
+      "description": "The Indian data centre industry faces a severe talent gap, with a shortage of specialized professionals projected over the next decade. Modern AI-ready facilities are highly complex, requiring deep expertise in areas from cloud architecture to advanced thermodynamics. Without a skilled workforce to run new infrastructure, even the best hardware and greenest power become useless. Bridging this gap through education and industry collaboration is crucial for operational readiness and future growth.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 21,
+      "title": "Legacy cooling systems and water scarcity in India's data centres",
+      "description": "Traditional data centre cooling systems consume billions of litres of water annually, often in urban areas already facing scarcity. This poses a significant environmental and operational risk for Indian data centres, particularly as AI workloads increase heat generation. A pivot to advanced liquid cooling, rear-door heat exchangers, and zero-liquid-discharge systems is becoming a fundamental requirement for responsible operation, necessitating substantial investment and technological transition.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": null,
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 22,
+      "title": "Tax clarity for foreign cloud providers boosts data centre investment",
+      "description": "The Union Budget 2026 introduces long-term tax clarity for foreign cloud service providers sourcing data centre services from India, ensuring non-taxation on eligible income until 2047. This significant policy measure enhances investor confidence and reduces uncertainty, attracting long-term investments into hyperscale and digital infrastructure. Additionally, a 15% safe harbour margin on cost for Indian data centre entities servicing overseas affiliates improves tax certainty and competitiveness, further boosting the sector.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Global data centre market robust despite investment cycle 'bubble' signals",
+      "description": "Despite discussions around a potential AI investment bubble, global data centre sector fundamentals remain strong. Very low vacancy rates and largely pre-sold pipelines de-risk near-term occupancy. Capacity is flexible and can be repurposed for various workloads beyond AI training, reinforcing ecosystem resilience. Even in a moderation scenario, value shifts to enabling layers like power solutions and cooling retrofits, ensuring sustained demand for infrastructure and services.",
+      "stance": "cautious_positive",
+      "source_firm": "BCG Global",
+      "source_date": "2026-05-26",
+      "source_doc_id": "441a4369-44bf-5f94-88bc-b5bcefc94db6"
+    },
+    {
+      "index": 2,
+      "title": "Australia poised for significant data centre growth but faces critical challenges",
+      "description": "Australia is well-positioned for digital infrastructure growth due to renewable energy potential, extensive subsea connectivity, and a stable political environment. The sector can stimulate substantial economic activity and strengthen sovereign digital capabilities. However, the market faces an inflection point with emerging pressures: energy availability, investment sequencing, infrastructure concentration, and planning/delivery timelines becoming more pronounced, requiring decisive action to capture opportunities.",
+      "stance": "cautious_positive",
+      "source_firm": "BCG Global",
+      "source_date": "2026-05-26",
+      "source_doc_id": "441a4369-44bf-5f94-88bc-b5bcefc94db6"
+    },
+    {
+      "index": 3,
+      "title": "Data centres become vital strategic assets, requiring enhanced resilience amid wartime risks",
+      "description": "The role of data centres has evolved from technical facilities to vital strategic assets, especially in wartime environments. Traditional risks are now expanded to include kinetic, cyber-physical attacks, and supply chain disruptions, impacting power, connectivity, and cooling. This necessitates a shift from purely uptime-optimized architectures to designs focused on endurance, survivability, and sustained operations under severe stress, making resilience a core design objective.",
+      "stance": "neutral",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "source_doc_id": "7782b802-81ea-5732-9cba-0b80181c2f70"
+    },
+    {
+      "index": 4,
+      "title": "India's data centre industry in accelerated expansion, needing integrated lifecycle partners",
+      "description": "India's digital infrastructure is undergoing exponential growth driven by data localisation regulations, AI workloads, and 5G adoption. The primary challenge is not demand but the complexity of meeting it with fragmented service providers. The market urgently needs integrated 'Lifecycle Partners' to offer seamless services from planning and building to deployment, operation, and maintenance, covering technical, regulatory, and financial aspects to become a global force.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "source_doc_id": "0463e6ea-0c54-5403-92a2-03d2fc086c6c"
+    },
+    {
+      "index": 5,
+      "title": "Window for Indian data centre market dominance is open but requires rapid action",
+      "description": "The Indian data centre market offers a significant opportunity for dominance, but this window is temporary as market consolidation by major players is expected by 2030. Success will not come from merely offering raw real estate but from integrated partnerships that combine physical engineering, AI readiness, regulatory expertise, and financial structuring into cohesive lifecycle solutions. Rapid, strategic action is critical for competitive advantage in this evolving landscape.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "source_doc_id": "0463e6ea-0c54-5403-92a2-03d2fc086c6c"
+    },
+    {
+      "index": 6,
+      "title": "India's data centre growth needs focus on resilient, sustainable supply chain",
+      "description": "India's data centre capacity is projected for a 'mega leap' to 9 GW by 2030, driven by AI and cloud adoption. However, achieving this requires moving beyond headline capacity figures to address deep-rooted supply chain bottlenecks. Solving challenges in global hardware scarcity, power/water sustainability, architectural efficiency, land acquisition clearances, and talent gaps is crucial to build a resilient, sustainable, and indigenous data centre ecosystem.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG in India",
+      "source_date": "2026-04-01",
+      "source_doc_id": "1bc2b2f7-926c-59c3-96fc-40dbd35eff09"
+    },
+    {
+      "index": 7,
+      "title": "India's data centre capacity poised for significant growth but lags global penetration",
+      "description": "India's data centre capacity per million internet users is only 1.2 MW, significantly lower than the global average of 5 MW, indicating immense growth potential. Driven by digital transformation, cost competitiveness, and AI adoption, India's capacity is projected to quadruple to 4 GW by 2030. While growth is robust, power infrastructure support is critical for realizing this potential, and managing cash flows amidst rising costs and commissioning timelines is key for sustenance.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-17",
+      "source_doc_id": "837065f0-1456-5245-a0c5-8fbf7afd96e5"
+    },
+    {
+      "index": 8,
+      "title": "AI-led workloads to drive next phase of India's data centre growth",
+      "description": "The next phase of growth for India's data centre market, expected over the next 5–7 years, will be powered by AI-led workloads. While current demand is largely from enterprise IT and cloud storage, the rapid adoption of AI training and inference will significantly shift the mix towards high-performance computing. The pace of this adoption in India is directly linked to the timely scaling and availability of high-performance Graphics Processing Units (GPUs).",
+      "stance": "positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-17",
+      "source_doc_id": "837065f0-1456-5245-a0c5-8fbf7afd96e5"
+    },
+    {
+      "index": 9,
+      "title": "US data centers face severe power shortfall, gas with CCUS offers scalable solution",
+      "description": "The AI boom is driving unprecedented demand for reliable, 24/7 power for data centers, leading to an anticipated 80 GW capacity shortfall in the US by 2030. While many alternative power solutions have drawbacks, gas-fired generation with carbon capture, utilization, and storage (CCUS) is identified as a leading, technology-ready, scalable option. It performs well across speed, cost-effectiveness, scalability, and low-carbon credentials, providing a viable path to meet increasing power demands.",
+      "stance": "cautious_positive",
+      "source_firm": "BCG Global",
+      "source_date": "2026-03-30",
+      "source_doc_id": "ad6dfc1f-679f-576f-b4af-b457f2e08106"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 87.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 21.7,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rapid AI adoption",
+          "description": "Increasing use of artificial intelligence applications requiring high computing power."
+        },
+        {
+          "driver": "Expansion of digital services",
+          "description": "Growing digital services sector drives demand for underlying infrastructure."
+        },
+        {
+          "driver": "Continued cloud migration",
+          "description": "Ongoing shift of enterprise data and applications to cloud platforms."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Global data centre market capacity is projected to grow by nearly 2.5X from 87 GW in 2025 to 233 GW by 2030. Growth driven by hyperscalers, colocation operators, and AI-focused cloud providers.",
+      "source_firm": "BCG Global",
+      "source_date": "2026-05-26",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 1.8,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Surging AI and machine learning demand",
+          "description": "Increased adoption of AI and ML technologies drives demand for high-performance computing infrastructure."
+        },
+        {
+          "driver": "Rapid public cloud adoption",
+          "description": "Enterprises and individuals increasingly rely on public cloud services, requiring underlying data centre capacity."
+        },
+        {
+          "driver": "5G-driven network traffic",
+          "description": "Expansion of 5G networks generates higher network traffic and data volumes, necessitating more data centre resources."
+        },
+        {
+          "driver": "Increasing data sovereignty requirements",
+          "description": "Regulations compelling data to be stored within national borders drive demand for in-country data centre investment."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Australia’s data centre market capacity is approximately 1.8 GW in 2025, projected to more than double by 2030. This increase is underpinned by large-scale colocation buildouts, sustained low vacancy, growing hyperscaler leasing demand, and hyperscale self-build campuses.",
+      "source_firm": "BCG Global",
+      "source_date": "2026-05-26",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 160.0,
+      "tam_unit": "USD_bn",
+      "sam_value": 100.0,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Data centre construction",
+          "description": "Investment in building new data centre facilities."
+        },
+        {
+          "driver": "IT equipment procurement",
+          "description": "Expenditure on servers, networking gear, and other IT hardware."
+        },
+        {
+          "driver": "New energy generation infrastructure",
+          "description": "Investment in power plants and grids to support data centre energy needs."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Energy operating expenses",
+          "description": "Ongoing costs for electricity consumption."
+        },
+        {
+          "driver": "Facility maintenance",
+          "description": "Costs for upkeep and repair of data centre infrastructure."
+        },
+        {
+          "driver": "IT equipment servicing",
+          "description": "Expenses related to the maintenance and servicing of IT hardware."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Total economic activity (onshore and offshore) from an additional 2.5 GW of data centre capacity in Australia is estimated at $160+ billion (2026-30). The Australian-focused economic impact (after adjusting for retention rates) is $100-120 billion. Ongoing annual running costs after 2030 for this capacity could yield $8-10 billion per year in economic activity.",
+      "source_firm": "BCG Global",
+      "source_date": "2026-05-26",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 45.69,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2033,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Digital penetration",
+          "description": "Increasing digital adoption across the economy by one billion internet users."
+        },
+        {
+          "driver": "Cloud adoption by businesses",
+          "description": "Businesses are rapidly shifting towards cloud services."
+        },
+        {
+          "driver": "AI-specific infrastructure growth",
+          "description": "The niche market for AI-specific infrastructure is growing exponentially."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total sector revenue for India's data centre market is projected to reach an estimated USD 45.69 billion by 2033.",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": 35.1,
+      "forecast_cagr_period": "2024-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI applications",
+          "description": "Applications requiring high-performance computing and large-scale data storage."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The niche market for AI-specific infrastructure in India was valued at approximately USD 588.6 million in 2024. It is expected to grow to USD 3.55 billion by 2030, at a CAGR of 35.1%.",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": 1.2,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "FY26-FY30",
+      "historical_cagr": null,
+      "historical_cagr_period": "FY22-FY25",
+      "demand_drivers": [
+        {
+          "driver": "Hyperscale cloud providers",
+          "description": "Strong demand from major cloud service providers for scalable data centre capacity."
+        },
+        {
+          "driver": "Enterprise clients",
+          "description": "Businesses requiring colocation services for their IT infrastructure."
+        },
+        {
+          "driver": "BFSI segment",
+          "description": "Financial services sector driving demand for secure and reliable data centre solutions."
+        },
+        {
+          "driver": "AI-led demand",
+          "description": "Increasing adoption of AI applications requiring high-density computing resources."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Significant investment potential of Rs 1.5 lakh crore for new data centre builds.",
+          "opportunity": "Data centre capacity augmentation"
+        },
+        {
+          "description": "Additional investment of Rs 1.5x-2x the data centre capex for IT equipment.",
+          "opportunity": "IT equipment spending"
+        }
+      ],
+      "methodology": "India's data centre colocation capacity has doubled to 1.2 GW over FY22-FY25. It is expected to quadruple to 4 GW by FY30, requiring an estimated investment of Rs 1.5 lakh crore. Tenants are also expected to spend 1.5x – 2x this amount on IT equipment, bringing the overall investment potential to Rs 3–4 lakh crore.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-17",
+      "data_confidence": "high"
+    },
+    {
+      "index": 7,
+      "tam_value": 5.66,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong demand for data centres",
+          "description": "Growing need for data centre capacity attracts private equity investment."
+        },
+        {
+          "driver": "Strong demand for office assets",
+          "description": "Demand for commercial real estate, specifically office spaces, also contributes to PE investments."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Private equity investments in India’s real estate sector increased to US$ 5.66 billion in 2025, driven by strong demand for office assets and data centres. (Note: The report also states Rs 20,566 crore for H1 2025, and Rs. 8.98 lakh crore for FY26 as overall PE/institutional real asset investments, with technology and financial services leading sector-wise PE/VC investments in Feb 2026. The 5.66 USD_bn figure is specific to real estate, including DCs).",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 8,
+      "tam_value": 11300.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 24.0,
+      "forecast_cagr_period": "FY26-FY30",
+      "historical_cagr": null,
+      "historical_cagr_period": "FY21-FY25",
+      "demand_drivers": [
+        {
+          "driver": "Continued capacity growth",
+          "description": "Expansion of data centre infrastructure across India."
+        },
+        {
+          "driver": "Sustained absorption levels",
+          "description": "High utilization of existing and new data centre capacity."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Long-term contractual arrangements",
+          "description": "5-15 year contracts with strong counterparties provide revenue visibility and stable cash flows."
+        },
+        {
+          "driver": "Hyperscaler capacity offtake",
+          "description": "High utilization by hyperscalers can lead to non-linear pricing transmission, impacting margins."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Revenue of major data centre operators in India increased from Rs 4,900 crore in FY21 to Rs 11,300 crore in FY25. Revenue is expected to maintain a CAGR of around 24% during FY26–FY30, with EBITDA margins remaining stable at 40–43%.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-03-25",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "BCG Global",
+    "KPMG",
+    "KPMG in India",
+    "CareEdge Ratings",
+    "IBEF"
+  ]
+}

@@ -1,0 +1,134 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Crypto Exploited for Fraud, Money Laundering, and Sanctions Evasion",
+      "description": "Cryptocurrencies are widely misused for cyber-financial crime, including fraud, cross-border money laundering, and sanctions evasion. U.S. victims reported over $11 billion in crypto-linked scam losses in 2025. The inherent features of Virtual Digital Assets (VDAs)—pseudonymity, borderless transfers, and rapid settlement—make them highly attractive for illicit activities, often involving stablecoins, mixing services, and non-KYC exchanges to obscure fund origins and facilitate illicit flows.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 2,
+      "title": "Weak Identity Linkage and Cross-Border Challenges Hinder Crypto Enforcement",
+      "description": "A significant hurdle in digital currency fraud investigations is the weak link between blockchain transactions and real human identities, coupled with fragmented evidence across various platforms. Difficulties in tracing funds arise from the use of unhosted wallets, diverse blockchains, mixing services, decentralized exchange (DEX) transactions, and offshore non-compliant platforms. Cross-chain bridges, as frequent attack vectors, further complicate forensic recovery and cross-jurisdictional enforcement, demanding specialized analytical tools and international cooperation.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 3,
+      "title": "Decentralized Finance (DeFi) and NFT Exploits Lead to Massive Losses",
+      "description": "DeFi protocols and NFTs are major targets for financial crime, leading to billions in losses. DeFi protocols are vulnerable to exploits like flash loan attacks, oracle price manipulation, and smart contract vulnerabilities, enabling attackers to rapidly drain funds. Cyber-attacks on crypto exchanges, wallets, and smart contracts caused multi-billion dollar losses in 2025, with one crypto-exchange breach alone exceeding $1.5 billion. NFT fraud, including wash trading and rug pull scams, resulted in $500 million in losses in 2025, often serving as money laundering conduits.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 4,
+      "title": "Quantum Computing Poses Future Threat to Blockchain Infrastructure Security",
+      "description": "The theoretical advent of cryptographically relevant quantum computers, capable of efficiently breaking current public-key cryptographic standards (e.g., RSA, ECC) underpinning blockchain infrastructure and most financial systems, represents a significant long-term risk. Such a development could make wallet signatures computationally forgeable, leading to potential authentication challenges for blockchain evidence and compromising the integrity of encrypted digital assets. This impending threat necessitates proactive planning for post-quantum cryptography (PQC) migration.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 5,
+      "title": "India Advances Quantum Resilience Roadmap for Financial Systems",
+      "description": "Indian regulatory bodies are proactively addressing the quantum computing threat by initiating efforts towards quantum resilience in the financial ecosystem. The RBI, through its Quantum Secure and Adaptive Financial Ecosystem (Q-SAFE) initiative, has established an expert committee to assess cryptographic exposure and recommend a transition roadmap. Concurrently, national efforts under the Quantum Safe Ecosystem Task Force are formalizing phased migration frameworks, indicating a significant structural shift towards adopting quantum-safe solutions across the financial sector, including its digital asset components.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 6,
+      "title": "Regulatory Formalization and Global Standards for Crypto Assets Evolve",
+      "description": "The crypto landscape is undergoing significant structural changes driven by evolving regulatory frameworks. In India, FIU-IND mandated VASP registration under PMLA since 2023, formalizing compliant crypto markets. Internationally, FATF's updated guidance on Virtual Assets and VASPs, along with FSB's recommendations on crypto-asset regulation (including DeFi and stablecoins), are setting global compliance benchmarks. These frameworks increasingly influence enforcement, supervisory dialogues, and investor confidence for Indian financial firms dealing with digital assets.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 7,
+      "title": "Tokenisation and Digital Infrastructure Drive Financial Democratization in India",
+      "description": "India's financial services sector is experiencing rapid advancement through innovation, with tokenisation and robust digital infrastructure playing a pivotal role in democratizing finance. This technological evolution is expanding access to financial services, significantly improving efficiency, and positioning India as a global fintech leader. Tokenised assets, an integral component of the IN070503 category, are central to this trend, indicating substantial opportunities for growth and wider adoption within the digital asset domain.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Widespread Digital Asset Adoption Requires Proving Value Beyond Trading",
+      "description": "Digital assets, encompassing crypto, stablecoins, and tokenized real-world assets, have regained momentum with significant market capitalization. However, widespread adoption is heavily concentrated in crypto trading, with 65% of stablecoin holdings tied to it. Despite technological advancements and clearer regulations, broader integration into mainstream financial services is contingent upon demonstrating tangible value creation and practical utility beyond speculative trading, addressing lingering skepticism from investors and the market.",
+      "stance": "cautious_positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-06-01",
+      "source_doc_id": "75d658d7-be2e-58ef-a924-4c43af5010af"
+    },
+    {
+      "index": 2,
+      "title": "APAC Fintech Growth Driven by Crypto Trading Platforms and Digital Banking",
+      "description": "The Asia-Pacific (APAC) region recorded the fastest fintech market growth in 2025 at 25%, surpassing global averages. This significant expansion was partly fueled by the strong performance of digital banking and crypto trading platforms across key markets like Japan, South Korea, Singapore, and Indonesia. This trend indicates a robust and growing appetite for digital asset services within the region, positioning it as a significant driver for the global crypto market.",
+      "stance": "positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-06-01",
+      "source_doc_id": "75d658d7-be2e-58ef-a924-4c43af5010af"
+    },
+    {
+      "index": 3,
+      "title": "Decentralized and P2P Crypto Segments Lack Sufficient Regulatory Visibility",
+      "description": "Despite India's Financial Intelligence Unit (FIU-IND) mandating registration for Virtual Asset Service Providers (VASPs) since 2023, significant regulatory visibility gaps persist within the crypto ecosystem. Decentralized exchange activities and peer-to-peer (P2P) segments remain largely opaque to oversight, presenting residual exposure to financial crime risks. This incomplete regulatory coverage challenges comprehensive compliance and control efforts, making these areas high-risk nodes for monitoring and enforcement.",
+      "stance": "cautious_negative",
+      "source_firm": "kpmg",
+      "source_date": "2026-06-01",
+      "source_doc_id": "ccc44e9c-af6b-534b-b14a-f19981b6af9d"
+    },
+    {
+      "index": 4,
+      "title": "Global Regulatory Frameworks Increasingly Benchmark Indian Crypto Firms",
+      "description": "International bodies like the Financial Action Task Force (FATF) and the Financial Stability Board (FSB) have issued updated guidance and recommendations for crypto-asset regulation, specifically targeting Virtual Assets, VASPs, Decentralized Finance (DeFi), and stablecoins. These global frameworks, while not directly binding as statutes, are increasingly used as benchmarks for enforcement expectations, supervisory dialogues, and investor confidence for Indian financial and cross-border firms engaged in digital asset activities.",
+      "stance": "cautious_negative",
+      "source_firm": "kpmg",
+      "source_date": "2026-06-01",
+      "source_doc_id": "ccc44e9c-af6b-534b-b14a-f19981b6af9d"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 3.33,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Crypto Trading",
+          "description": "A significant portion of stablecoin holdings (65%) is tied to crypto trading, indicating continued demand driven by speculative and investment activities within the digital asset ecosystem."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total digital asset market capitalization in 2025, comprising crypto at ~$3 trillion, stablecoins at ~$300 billion, and tokenized real-world assets at ~$30 billion. Sum of these components.",
+      "source_firm": "bcg_global",
+      "source_date": "2026-06-01",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "bcg_global",
+    "kpmg"
+  ]
+}

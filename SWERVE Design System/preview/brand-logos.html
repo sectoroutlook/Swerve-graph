@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html><head><meta charset="utf-8">
+<link rel="stylesheet" href="../colors_and_type.css">
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background: #1a1a1a; font-family: var(--font-body); padding: 28px; display: flex; flex-direction: column; gap: 24px; align-items: flex-start; }
+img { display: block; }
+.row { display: flex; gap: 24px; align-items: center; flex-wrap: wrap; }
+.lbl { font-size: 10px; color: rgba(255,255,255,0.35); letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 12px; }
+.dark-bg { background: #0a0a0a; padding: 16px 24px; border-radius: 10px; }
+.light-bg { background: #f5f5f7; padding: 16px 24px; border-radius: 10px; }
+.grad-bg { background: linear-gradient(135deg,#c4b5fd,#4d9ef5,#0a0a0a); padding: 16px 24px; border-radius: 10px; }
+</style>
+</head><body>
+  <div>
+    <div class="lbl">Primary — on light</div>
+    <div class="light-bg"><img src="../assets/logo-primary.png" height="40"></div>
+  </div>
+  <div class="row">
+    <div>
+      <div class="lbl">Secondary — dark</div>
+      <div class="dark-bg"><img src="../assets/logo-secondary-white.png" height="32"></div>
+    </div>
+    <div>
+      <div class="lbl">Wordmark — charcoal</div>
+      <div class="light-bg"><img src="../assets/logo-secondary-black.png" height="32"></div>
+    </div>
+  </div>
+  <div class="row">
+    <div>
+      <div class="lbl">Mark — gradient</div>
+      <div class="dark-bg"><img src="../assets/watermark-gradient.png" height="48"></div>
+    </div>
+    <div>
+      <div class="lbl">Mark — on gradient</div>
+      <div class="grad-bg"><img src="../assets/watermark-white.png" height="48"></div>
+    </div>
+  </div>
+</body></html>

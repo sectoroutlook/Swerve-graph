@@ -1,0 +1,552 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Lagging governance and legacy systems hinder fintech adaptation",
+      "description": "Financial services face structural headwinds as traditional risk frameworks, change processes, and audit trails cannot keep pace with AI deployment and payment modernization. Compliance and data integration are binding constraints for scaling wholesale digital cash. Uneven modernization progress and siloed systems create disruption risk, exacerbated by expectation gaps between banks and retailers, collectively impeding rapid innovation and the sector's ability to adapt effectively to new technologies and market demands.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-04"
+    },
+    {
+      "index": 2,
+      "title": "Digital transformation and AI drive strong fintech growth and efficiency",
+      "description": "Fintech revenue growth significantly outpaces incumbents, fueled by widespread digital adoption and AI integration. AI delivers real value in underwriting, fraud, and AML, boosting operational efficiency and driving differentiated products. Public sector banks are deploying Generative AI, while AI leaders show superior growth and profitability. This transformation, supported by increased investment and customer demand for seamless payments, is a major tailwind for the sector, fostering innovation and competitive advantage.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 3,
+      "title": "AI-enabled fraud and deepfakes increase sophistication of financial crime",
+      "description": "Threat actors are innovating with AI, deploying deepfakes, voice cloning, and automated hacking tools to exploit systemic gaps and manipulate human decision-making. Generative AI has enabled advanced financial crimes like CEO fraud, with real financial losses reported in India. AI-generated content also complicates digital evidence authenticity for investigations, posing significant challenges for fraud detection, verification, and forensic analysis in the financial sector, demanding urgent and coordinated vigilance.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 4,
+      "title": "Digital and real-time payment systems increase attack surface for fraud",
+      "description": "The rapid expansion of India's digital payments, particularly UPI, creates an industrialised fraud ecosystem. Digitally enabled fraud exploits real-time infrastructure, new digital channels, and APIs, leading to rapid execution and fund dispersal that eliminates traditional fraud control windows. Payment fraud, including UPI, card, and mobile banking, dominates cybercrime complaints, making BFSI a primary target for sophisticated schemes like SIM swap and account takeover. This necessitates robust, proactive controls and rapid response mechanisms.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 5,
+      "title": "AI fundamentally reshaping financial services and fintech competition",
+      "description": "AI is changing how financial services are built and delivered, with early value concentrated in operational and workflow-heavy use cases. This technology is reshaping the competitive landscape, pushing fintechs to adapt and incumbents to integrate AI for efficiency and new offerings. It's a fundamental shift in the basis of competition, requiring companies to rapidly develop AI capabilities and transform operating models to maintain relevance and capture market share in an evolving financial ecosystem.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 6,
+      "title": "Evolving regulatory landscape shapes fintech growth and digital asset adoption",
+      "description": "Regulators globally are redefining the distinction between banks and fintechs, creating a complex environment where fintechs expand offerings but face diverse regulatory conditions. Geographic disparities in AI regulation and data sovereignty rules lead to fragmented AI rollout and deployment paces. While regulators demand transparency and risk controls for digital systems, aligned global regulation is crucial to unlock further adoption and manage friction caused by jurisdictional differences, influencing market development.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 7,
+      "title": "Digital assets and stablecoins rewire wholesale banking and asset management",
+      "description": "Stablecoins and tokenized deposits are becoming strategic liquidity tools in wholesale banking, reducing friction in FX, collateral, and treasury, enhancing capital efficiency. This 'great rewiring' offers structural improvements in money movement. Momentum in digital assets, driven by regulatory clarity and corporate interest in stablecoins and real-world asset tokenization, signifies a fundamental shift in financial infrastructure, with first movers gaining significant network advantages and defining the future of money movement and financial services.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-29"
+    },
+    {
+      "index": 8,
+      "title": "Public infrastructure and policy foster financial inclusion and payment innovation",
+      "description": "India's UPI, recognized as the world's largest real-time payment system, along with initiatives like the Unified Lending Interface and digitalization of Agri-finance, drive financial inclusion. Strong policy support for fintech and AI-driven payments acts as a significant tailwind. The global expansion of UPI and the continued strength of RTGS, NEFT, and IMPS further enhance the reach and efficiency of payment infrastructure, reinforcing India's leadership in digital payments and expanding access to finance.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 9,
+      "title": "Crypto assets vulnerable to sophisticated fraud, money laundering, and exploits",
+      "description": "Virtual Digital Assets (VDAs) attract cybercriminal misuse due to pseudonymity, borderless transfers, and limited centralized control, making them preferred for fraud proceeds and money laundering, often via stablecoins. DeFi protocols and cross-chain bridges are high-risk targets for exploits due to distributed governance and large asset pools. NFT fraud leverages wash trading and identity manipulation, creating complex attribution challenges for investigators, necessitating expanded monitoring and cross-jurisdictional coordination to address these evolving risks.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 10,
+      "title": "Agentic commerce and microtransactions redefine payment journeys",
+      "description": "Agentic commerce is fundamentally transforming purchasing patterns and customer interactions, making tender choice and routing programmable. AI agents are set to intermediate purchase decisions and enable new forms of commerce through microtransactions, leading to autonomous, self-optimizing payment journeys. Technology companies, commerce platforms, and payment players are staking claims in this evolving infrastructure, driving a high-impact structural shift that demands rapid adaptation from traditional financial institutions to remain relevant.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-23"
+    },
+    {
+      "index": 11,
+      "title": "B2B financial services offers significant AI transformation opportunity",
+      "description": "B2B financial services represent the biggest opportunity for advanced AI adoption, particularly in workflows like procurement, accounts payable, and expense management. These areas, characterized by repetitive handoffs and policy checks, are well-suited for bounded agent behavior where rules and authority limits are explicit. Fintechs are gaining share in the SMB and lower mid-market, but the broader B2B market remains largely untapped, offering substantial upside for AI-driven automation and efficiency gains.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 12,
+      "title": "External market and competitive factors constrain fintech funding and exits",
+      "description": "Public markets remain a constraint for fintechs, with IPOs underperforming broader financial services and exit markets impacted by geopolitical events, as seen with the US IPO pause due to the Middle East conflict. Additionally, payments platform consolidation is less attractive to investors due to marginal returns. Corporates increasingly prefer partnering with big tech and AI firms over fintech startups, creating competitive pressures on smaller players and impacting their access to capital and strategic opportunities.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "India's digital payments infrastructure is secure but expands fraud surface",
+      "description": "India's digital payments infrastructure, among the world's largest, creates economic efficiency but also a vast surface area for fraud. While digital payments are not inherently unsafe, protective systems must keep pace with success to reinforce trustworthiness. The report emphasizes the challenge of expanding protection to match the scale of platforms like UPI, which processes immense transaction volumes, making robust fraud controls and regulatory oversight critical to maintaining public trust in digital platforms.",
+      "stance": "cautious_positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-06-01",
+      "source_doc_id": "ccc44e9c-af6b-534b-b14a-f19981b6af9d"
+    },
+    {
+      "index": 2,
+      "title": "CloudWalk showcases AI-native fintech with superior operating leverage",
+      "description": "CloudWalk, an AI-native global fintech, exemplifies how proprietary frontier models for financial intelligence drive exceptional operating leverage. With nearly $2.5 million revenue per employee and $1.7 billion annualized run-rate net revenue in March 2026, CloudWalk's AI-native cost base allows efficient penetration of the massive MSME market. Its agentic approach with JIM and Pierre demonstrates lower cost-to-serve and superior customer experience, indicating the significant potential of deeply embedded AI in financial services.",
+      "stance": "positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-06-01",
+      "source_doc_id": "75d658d7-be2e-58ef-a924-4c43af5010af"
+    },
+    {
+      "index": 3,
+      "title": "Fintech growth driven by operating performance, not speculative capital",
+      "description": "The fintech rebound is characterized by sustainable growth, fueled by improved operating performance rather than speculative optimism or cheap capital. EBITDA margins for the largest public fintechs increased by 4 percentage points to 20% in 2025, with 74% now profitable. Investor funding is more selective, rewarding clear economics and credible paths to scale, signaling sector maturation and a focus on durable growth and tangible returns, rather than solely on rapid expansion or high valuations.",
+      "stance": "positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-06-01",
+      "source_doc_id": "75d658d7-be2e-58ef-a924-4c43af5010af"
+    },
+    {
+      "index": 4,
+      "title": "Stablecoins and tokenized deposits are strategic for wholesale banking liquidity",
+      "description": "Stablecoins and tokenized deposits have transitioned from speculative instruments to strategic liquidity tools in wholesale banking, becoming a key component of future money movement architecture. The greatest opportunities lie in reducing friction in foreign exchange, collateral, and treasury use cases. Their ability to enable instantaneous, programmable transfers across borders without correspondent banking makes them a priority for wholesale banks and multinational corporates seeking improved capital efficiency and reduced operational complexities.",
+      "stance": "positive",
+      "source_firm": "bain",
+      "source_date": "2026-04-29",
+      "source_doc_id": "da7c075f-ef11-54a4-8b13-f71f1c5eed39"
+    },
+    {
+      "index": 5,
+      "title": "Global fintech market investment rebounds, particularly in digital assets and AI",
+      "description": "After three years of decline, global fintech investment rose from $95.5 billion in 2024 to $116 billion in 2025. This rebound is driven by growing excitement in digital assets, where investment nearly doubled to $19.1 billion, and strong interest in AI-focused fintechs, attracting $16.8 billion. Despite declining deal volume, improving exit environments signal renewed investor confidence, particularly for scalable platforms in digital assets and AI, indicating a positive market shift.",
+      "stance": "positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-04-01",
+      "source_doc_id": "a8300a87-9763-5ac9-8573-3cf14b5ea6d1"
+    },
+    {
+      "index": 6,
+      "title": "Fintech sector matures, focusing on profitable growth and widened advantage",
+      "description": "The fintech sector has moved beyond its 2023/2024 reset, achieving strong 22% revenue growth in 2025. It has matured into an environment where scaled leaders are widening their advantage, new technologies like AI are reshaping economics, and profitable growth is now an expectation. The sector still has significant untapped opportunity, representing only 4% of the global financial services revenue pool, indicating substantial white space for continued expansion and value creation in a more demanding market.",
+      "stance": "positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-06-01",
+      "source_doc_id": "75d658d7-be2e-58ef-a924-4c43af5010af"
+    },
+    {
+      "index": 7,
+      "title": "Global fintech sentiment reverses positively, signaling mature rebound",
+      "description": "After a period of market correction and capital scarcity, the global fintech sector experienced a striking reversal of mood. Global fintech revenues surpassed half a trillion dollars in 2025, growing 22% year over year and outperforming traditional financial services by four-fold. Public fintech revenue multiples also recovered by 16% year over year, indicating a maturing sector that is weathering the previous reset and poised for continued, more disciplined growth, with investor confidence gradually returning.",
+      "stance": "positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-06-01",
+      "source_doc_id": "75d658d7-be2e-58ef-a924-4c43af5010af"
+    },
+    {
+      "index": 8,
+      "title": "Payments industry poised for AI-first transformation and disruption",
+      "description": "The payments industry is inherently technology-led, and AI is rapidly transforming it, with adoption accelerating. Firms executing end-to-end AI transformations can achieve faster revenue growth, lower costs, and greater capital return. This involves an operating model shift, embedding AI into core processes, and focusing on strategic bets. Leaders must act decisively to avoid being left behind as AI agents may intermediate purchase decisions and redefine user journeys, signaling a profound shift in the payments landscape.",
+      "stance": "positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-04-23",
+      "source_doc_id": "a4a35104-638f-50a4-895c-123cb038e234"
+    },
+    {
+      "index": 9,
+      "title": "AI redesigns payment workflows, elevating human judgment for complex tasks",
+      "description": "AI is transforming high-volume payment processes by automating routine tasks, shifting the focus to human judgment. The opportunity lies in designing roles where humans exercise judgment on cases AI cannot resolve, train systems, ensure accountability for outcomes, and provide empathy where it matters most. This is a deliberate workforce-design choice, emphasizing a proactive approach to integrating humans into AI workflows, rather than merely using them as a backstop for automated processes, leading to more meaningful job roles.",
+      "stance": "positive",
+      "source_firm": "bain",
+      "source_date": "2026-06-04",
+      "source_doc_id": "7d299e54-fe21-5fa5-8b45-234933458a01"
+    },
+    {
+      "index": 10,
+      "title": "Fintech maturation demands discipline, compliance, and operating advantage",
+      "description": "The fintech market has rebounded into a more mature and selective phase, where being digitally native or fast-growing is no longer sufficient. Success now requires fintechs to scale with discipline, meet demanding regulatory and capital market expectations, and translate new technologies into real operating advantage. The basis of competition has shifted, rewarding established players who can demonstrate profitability, customer concentration management, and compliance maturity, signaling a more rigorous investment environment.",
+      "stance": "cautious_positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-06-01",
+      "source_doc_id": "75d658d7-be2e-58ef-a924-4c43af5010af"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Innovation in financial services",
+          "description": "The fintech sector is highly active, indicating strong entrepreneurial activity and demand for new solutions."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Number of DPIIT-recognised FinTech startups in India.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 504.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 22.0,
+      "historical_cagr_period": "2024-2025",
+      "demand_drivers": [
+        {
+          "driver": "Growth in Trading and Investments",
+          "description": "38% YoY growth in 2025 within fintech sector."
+        },
+        {
+          "driver": "Growth in Deposits",
+          "description": "30% YoY growth in 2025 within fintech sector."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "EBITDA margin improvement",
+          "description": "Largest public fintechs saw a 400bps improvement from 2024 to 2025, with 74% becoming profitable."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Total global fintech revenue in 2025. Grew 22% YoY, and over four times faster than incumbent revenues, representing about 4% of the global financial services revenue pool.",
+      "source_firm": "bcg_global",
+      "source_date": "2026-06-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 58.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 53.0,
+      "historical_cagr_period": "2024-2025",
+      "demand_drivers": [
+        {
+          "driver": "Increased investor appetite",
+          "description": "Investor appetite returned selectively, rewarding players with clear economics and credible paths to durable scale, leading to a significant increase in funding."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Global fintech equity funding in 2025.",
+      "source_firm": "bcg_global",
+      "source_date": "2026-06-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 3.0,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing digital asset market",
+          "description": "Overall growth in market capitalization across crypto, stablecoins, and tokenized real-world assets."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Global digital asset market capitalization, with crypto at ~$3 trillion, stablecoins at ~$300 billion, and tokenized real-world assets at ~$30 billion.",
+      "source_firm": "bcg_global",
+      "source_date": "2026-06-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": 3.3,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Mass smartphone adoption",
+          "description": "Expanded access to financial services at scale through mobile devices and apps, increasing digital transaction volumes."
+        },
+        {
+          "driver": "Government push for digital payment adoption",
+          "description": "Policy support and public infrastructure enabling significant UPI transaction volumes and widespread usage."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Unified Payments Interface (UPI) processed over 24,162 crore (241.62 billion) transactions valued at approximately INR314 lakh crore (USD3.3 trillion) in FY 2025–26, accounting for about 85% of India’s digital payments volume. In March 2026 alone, NPCI reported 22.64 billion UPI transactions.",
+      "source_firm": "kpmg",
+      "source_date": "2026-06-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": 0.5,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Lack of intrinsic value benchmarks",
+          "description": "Enables artificial price inflation and wash trading by fraudsters."
+        },
+        {
+          "driver": "Identity manipulation and wallet access exploits",
+          "description": "NFTs serve as gateways into larger financial fraud ecosystems, leveraging these vulnerabilities."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated losses to NFT rug pull scams in 2025 alone. Cumulative losses from NFT-related fraud are in hundreds of millions annually, reaching tens of billions when combined with broader crypto scams.",
+      "source_firm": "kpmg",
+      "source_date": "2026-06-01",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 7,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2026-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Wholesale banking friction reduction",
+          "description": "Addresses trapped capital, persistent risk exposure, and operational complexities in cross-border payments and collateral."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Stablecoin supply projected to grow fivefold to 12-fold by 2030.",
+      "source_firm": "bain",
+      "source_date": "2026-04-29",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 8,
+      "tam_value": 116.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing excitement in digital assets",
+          "description": "Investment in digital assets nearly doubled to $19.1 billion in 2025."
+        },
+        {
+          "driver": "Interest in AI-focused fintechs",
+          "description": "AI-focused fintechs attracted $16.8 billion in total global investment in 2025."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total global fintech-focused investment rose from $95.5 billion in 2024 to $116 billion in 2025. H2'25 saw $56.3 billion invested. Deal volume fell to an eight-year low of 4,719 in 2025.",
+      "source_firm": "kpmg",
+      "source_date": "2026-04-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 9,
+      "tam_value": 138.26,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "New digital credit model",
+          "description": "Enabled nearly 99,000 MSME loan sanctions since April 2025, contributing to digital transaction volume."
+        },
+        {
+          "driver": "Financial inclusion initiatives",
+          "description": "Wider access to digital financial services for a broader population base."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s cumulative digital payments over the last six financial years, totaling 65,000+ crore transactions worth Rs. 12,000 lakh crore.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 10,
+      "tam_value": 295.7,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "UPI's dominance in digital payments ecosystem",
+          "description": "Continues to account for the majority of retail digital payments in India."
+        },
+        {
+          "driver": "Real-time payment adoption and financial inclusion",
+          "description": "Key driver across the country for increased frequency and value of digital payments."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "UPI transactions value in February 2026. Volumes reached 20.39 billion with a total transaction value of Rs. 26.84 lakh crore (US$ 295.7 billion).",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 11,
+      "tam_value": 110.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2024-2029",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Largest consumption market",
+          "description": "India is expected to become the third largest consumer economy by 2030, fueling demand for fintech services."
+        },
+        {
+          "driver": "Young population",
+          "description": "65% of the population is below 35 years, driving adoption of digital financial services."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The Indian fintech industry's estimated size in 2024, projected to reach US$ 420 billion by 2029.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 12,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 23.9,
+      "forecast_cagr_period": "2023-2027",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Digital financial inclusion",
+          "description": "Increased access and adoption of digital payment methods across the country."
+        },
+        {
+          "driver": "Smartphone penetration",
+          "description": "Rising smartphone usage provides the primary interface for mobile wallet services."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's mobile wallet industry is witnessing exponential growth.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 13,
+      "tam_value": 19.1,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "2024-2025",
+      "demand_drivers": [
+        {
+          "driver": "Increasing regulatory certainty",
+          "description": "Passing of the GENIUS Act in the US and MiCA in the EU, with regulation expected in the UK by 2027, fosters confidence."
+        },
+        {
+          "driver": "Surge in interest in stablecoins and asset tokenization",
+          "description": "Corporates entering the space directly and through consortiums, and increasing interest in tokenizing money market funds and real estate."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total global investment in digital assets nearly doubled from $11.2 billion in 2024 to $19.1 billion in 2025.",
+      "source_firm": "kpmg",
+      "source_date": "2026-04-01",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "kpmg",
+    "bcg_global",
+    "bain",
+    "ibef"
+  ]
+}

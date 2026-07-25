@@ -1,0 +1,912 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Mining companies oscillate between operating models",
+      "description": "Mining companies frequently switch between centralized and decentralized operating models, often triggered by changes in senior leadership, cost pressures, or major transformation programs. These shifts are rarely subtle and can lead to duplicated efforts, stretched expertise, and erosion of scale benefits, making this a recurring, expensive cycle that impacts efficiency and performance.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-25"
+    },
+    {
+      "index": 2,
+      "title": "Scarce talent impacts mining operating model design",
+      "description": "The scarcity of specialized talent in certain mining capabilities often necessitates the centralization of expertise to maximize value. While pooling talent can be beneficial, relying on this to define the target operating model can lead to suboptimal structures. This scarcity is a continuous challenge that needs regular reassessment to prevent temporary solutions from becoming permanent, inefficient structures.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-25"
+    },
+    {
+      "index": 3,
+      "title": "Geopolitical crisis threatens fertiliser supply chain and costs",
+      "description": "The ongoing West Asia crisis poses a significant risk to India's highly import-dependent fertiliser sector, particularly for Urea and DAP. Disruptions in the Strait of Hormuz and broader regional instability lead to supply chain vulnerabilities, shipping delays, and sharp increases in international prices of key raw materials like ammonia, sulphur, phosphoric acid, and natural gas. This intensifies cost pressures and impacts fertiliser availability.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-13"
+    },
+    {
+      "index": 4,
+      "title": "Soaring input costs pressure fertiliser production economics",
+      "description": "The fertiliser sector is facing severe cost pressures due to significant increases in key raw material prices. Ammonia and sulphur prices surged by approximately 60% and 50% respectively since March 2026, while imported natural gas spot prices rose from ~$10/mmbtu to over ~$15/mmbtu in April 2026. Given India's high import dependence for these inputs, these price hikes directly increase production costs for both urea and complex fertilisers.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-13"
+    },
+    {
+      "index": 5,
+      "title": "DAP import viability hampered by fixed MRP and under-recovery",
+      "description": "India's fixed Maximum Retail Price (MRP) for DAP at Rs 27,000/MT, despite international prices around USD 900/MT (~Rs 83,500/MT), makes imports economically unviable for distributors. Even with a Rs 30,000/MT subsidy and a special Rs 3,500/MT package, there's a substantial under-recovery of Rs 23,000/MT. This situation highlights DAP's vulnerability, requiring further government intervention to ensure adequate supply and profitability.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-13"
+    },
+    {
+      "index": 6,
+      "title": "Below-normal monsoon threatens Kharif season fertiliser demand",
+      "description": "The India Meteorological Department's (IMD) forecast of a below-normal monsoon for CY26, at 92% of the long-period average, poses a significant headwind for the fertiliser sector. While reservoir levels are healthy and acreage is improving, monsoon progression and distribution remain critical variables. An uneven or insufficient monsoon could adversely affect agricultural output and subsequently depress fertiliser demand during the crucial Kharif sowing season, impacting sales volumes and sector profitability.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-13"
+    },
+    {
+      "index": 7,
+      "title": "Elevated market volatility now defines metals sector",
+      "description": "Metals markets are characterized by a structural increase in volatility, with average annual price swings for key metals surging 22 percentage points between 2021-2025 compared to the prior five-year period. This persistent volatility is driven by geopolitical tensions, critical mineral stockpiling, energy transition, and increased defense spending. This shift fundamentally challenges traditional production-centric business models by eroding margins and destabilizing cash flows.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-05"
+    },
+    {
+      "index": 8,
+      "title": "Financialization shifts metals market dynamics and risk",
+      "description": "The increasing \"financialization\" of metal markets has fundamentally altered the operating landscape for metals and mining companies. This structural change, coupled with growing liquidity in exchanges like the Shanghai Futures Exchange, makes market prices more responsive to short-term supply/demand and macroeconomic events. Traditional producers must now contend with financial market forces, necessitating a strategic shift from a purely production-centric model to one that actively manages price and volume shocks through hedging and trading.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-05"
+    },
+    {
+      "index": 9,
+      "title": "Commercial excellence vital for mining resilience and growth",
+      "description": "Metals and mining companies must transition to commercial excellence, adopting advanced sales, marketing, supply chain optimization, and trading strategies. This structural shift, which redefines internal culture and business processes, is essential to protect profit margins and capitalize on market volatility. It enables companies to generate immediate value by locking in gains, minimizing price shocks, and capturing margins traditionally lost to third-party traders, driving outperformance and increased free cash flows.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-05"
+    },
+    {
+      "index": 10,
+      "title": "Declining ore quality and concentrated refining pose supply risks",
+      "description": "The metals and mining sector faces key risks from declining ore quality and extended mine-development lead times, impacting production efficiency and costs. Additionally, the concentration of refining capacity in a few countries creates supply chain vulnerabilities and potential bottlenecks. These factors contribute to increased market volatility and geopolitical tensions, requiring companies to adapt their strategies to ensure stable sourcing and manage cost structures effectively in a challenging resource landscape.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-05"
+    },
+    {
+      "index": 11,
+      "title": "India-EU FTA provides access to critical industrial inputs",
+      "description": "The India-EU Free Trade Agreement is poised to significantly benefit India's manufacturing sector by reducing tariffs on a substantial portion of EU exports. This provides Indian businesses with easier access to critical industrial inputs, enhancing their competitiveness through higher efficiency, lower production costs, and improved quality standards. This strategic access can strengthen domestic capabilities and integrate India more deeply into global value chains.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 12,
+      "title": "Steel sector's execution maturity lags rapid capacity growth",
+      "description": "India's steel industry faces a significant execution maturity gap, where the rapid pace of capacity expansion is not matched by effective project delivery. This leads to persistent schedule slippages due to fragmented execution strategies, delayed engineering, poor alignment between design and procurement, and over-reliance on in-situ construction. The deficiency in digital integration and a shortage of skilled manpower further exacerbate productivity and quality consistency challenges, threatening the timely realization of ambitious capacity targets.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 13,
+      "title": "Skilled manpower shortage constrains steel project delivery",
+      "description": "A critical headwind for India's steel sector is the growing shortage of skilled construction manpower, particularly from traditional sourcing regions like Bihar, Jharkhand, and Odisha. Increased economic activity and numerous megaprojects in these states intensify competition for labor, making it challenging to secure experienced workers. This scarcity directly impacts project productivity, extends execution timelines, and reduces certainty in delivery, hindering the timely completion of large-scale steel capacity expansions.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 14,
+      "title": "Industrialized construction drives steel project efficiency",
+      "description": "India's steel industry needs a structural shift towards industrialised construction methodologies, moving away from conventional, labor-intensive models. Practices such as design standardization, modular construction, offsite fabrication, and digital project controls, as exemplified by China's steel expansion, can reduce project duration by up to one-fourth, improve productivity by 30-40%, and enhance site safety. Adopting these approaches will be crucial for achieving faster, more cost-efficient, and higher-quality capacity creation.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 15,
+      "title": "Gold enters durable high-price regime due to structural demand",
+      "description": "Gold prices have transitioned into a durable high-price regime, supported by a confluence of structural demand shifts rather than transient speculative flows. Key drivers include sustained central bank accumulation for reserve diversification, robust investment demand driven by safe-haven motives, and persistent global macroeconomic and geopolitical uncertainties. This structural change significantly impacts gold miners, leading to record margins and stable revenue prospects, despite the price-sensitive nature of jewellery demand.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-27"
+    },
+    {
+      "index": 16,
+      "title": "Geopolitical conflict drives agrochemical input cost and logistics volatility",
+      "description": "The ongoing US-Israel-Iran conflict introduces substantial geopolitical risk, creating volatility in energy-linked input costs and global logistics for the agrochemicals industry. While a temporary ceasefire provided some stability, renewed disruptions could lead to significant increases in raw material and freight costs. This directly impacts manufacturers' profitability, especially those with limited backward integration or high reliance on imports, posing a continuous threat to margin stability despite improving operating conditions.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-21"
+    },
+    {
+      "index": 17,
+      "title": "Reduced US tariffs ease pressure on agrochemical exports",
+      "description": "The reduction of US tariffs on Indian agrochemical exports to approximately 10% following a Supreme Court ruling provides a significant tailwind for the industry. This move materially eases prior concerns regarding competitiveness and cost pass-through, which had emerged after a 25% tariff implementation. While volume impact has remained limited through pricing adjustments, the lower tariff regime is supportive for export stability, though margin sensitivity necessitates continued focus on product mix and geographic diversification.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-21"
+    },
+    {
+      "index": 18,
+      "title": "India-UK FTA enhances tyre manufacturing competitiveness",
+      "description": "The India-United Kingdom Free Trade Agreement (FTA) is a significant tailwind for Indian tyre manufacturers (who use synthetic rubber IN020102 and carbon black IN020101). By eliminating import duties on tyre and rubber products exported to the UK, the FTA grants Indian companies a substantial price advantage, thereby bolstering their global competitiveness. This fosters deeper market penetration in the UK and builds on existing export momentum, driving growth for related materials industries.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 19,
+      "title": "End-user industries drive specialty chemical market growth",
+      "description": "Growing demand from diverse end-user industries such as food processing, personal care, and home care acts as a significant tailwind for India's specialty chemicals market (IN020101). This demand drives the development and expansion of various specialty chemical segments, contributing to the sector's overall robust growth. Increased industrialization, urbanization, and innovation in products further reinforce this momentum, creating consistent opportunities for manufacturers.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 20,
+      "title": "PLI schemes boost chemical and battery material manufacturing",
+      "description": "Government policy support, particularly through Production Linked Incentive (PLI) schemes, acts as a significant tailwind for the chemical sector. These schemes, such as those for Bulk Drug Parks (Rs. 1,629 crore budget) and Advanced Chemistry Cell Battery Storage, are designed to promote domestic manufacturing, reduce import dependence, and attract investments. They provide fiscal incentives that accelerate capacity expansion and technological adoption, fostering a more self-reliant and competitive chemical industry.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 21,
+      "title": "Strong housing demand fuels cement sector growth",
+      "description": "Robust demand from the housing sector, alongside infrastructure development, acts as a significant tailwind for the Indian cement industry. Continued government focus on urban and rural housing schemes ensures a steady base of demand. This, combined with improving realisations and stable input costs, is expected to drive operating profit growth and necessitates planned capacity expansions, contributing substantially to the sector's sustained positive outlook.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 22,
+      "title": "Budget FY27 boosts critical minerals and mining sector",
+      "description": "The Union Budget FY27 delivers a significant tailwind to India's metals and mining sector through measures supporting critical minerals, establishing mineral corridors, and providing duty relief on key inputs. These reforms are designed to stimulate domestic production, decrease import dependence, and enhance India's global competitiveness in value-added metal exports. This strategic governmental backing aims to strengthen long-term growth prospects, particularly for diversified mining and critical minerals (IN020304).",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 23,
+      "title": "Renewable energy and EVs fuel non-ferrous metal demand",
+      "description": "Rising demand for non-ferrous metals like copper (IN020303), zinc (IN020302), lithium, and rare earth elements (IN020304) driven by the growth in renewable energy and electric vehicles (EVs) is a significant tailwind. This momentum creates attractive opportunities for Indian mining companies, positioning the sector for sustained growth. Price increases for these metals reflect strong industrial demand and limited global supply, indicating a favorable market environment for producers.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 24,
+      "title": "Green steel not economically viable in India at scale",
+      "description": "\"Green steel\" production is currently not economically viable at scale in India, primarily due to the prohibitive cost and limited availability of consistent renewable power and energy storage infrastructure. This presents a significant headwind for the steel sector's decarbonization efforts, as the blast furnace-basic oxygen furnace (BF-BOF) route remains the only scalable and reliable option for large capacity creation in the near to medium term, despite ongoing efforts to improve sustainability within this route.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 25,
+      "title": "Central banks' record gold accumulation provides structural support",
+      "description": "Central banks globally have accumulated gold at record levels for the fourth consecutive year, acquiring 863 MT in CY25. This demand, driven by reserve diversification, reduced confidence in dollar-denominated assets, and heightened geopolitical risks, is price-insensitive and long-term. It creates a robust structural underpinning for gold prices, acting as a significant tailwind for the precious metals sector, reinforcing gold's role as a safe-haven asset amidst global uncertainties.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-27"
+    },
+    {
+      "index": 26,
+      "title": "Chinese oversupply intensifies agrochemical pricing pressure",
+      "description": "The Indian agrochemicals industry faces a significant headwind from persistent global oversupply, particularly originating from China. China's dominance in supplying key intermediates and active ingredients leads to intense pricing competition, limiting pricing headroom for Indian manufacturers. This dynamic forces the industry towards volume-led growth and necessitates a strong focus on cost optimization, product mix improvement, and operational discipline to sustain profitability amidst competitive market conditions.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-21"
+    },
+    {
+      "index": 27,
+      "title": "Uneven monsoon distribution risks agrochemical demand variability",
+      "description": "The India Meteorological Department's (IMD) forecast of a below-normal monsoon for CY26, attributed to El Niño, presents a cyclical risk to the agrochemicals sector. Uneven rainfall distribution across India could lead to significant region-specific demand variability, directly impacting overall agrochemical consumption. This natural cyclical factor makes rainfall a key determinant of demand, requiring manufacturers to navigate fluctuating regional needs and adjust distribution strategies accordingly to maintain sales volumes.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-21"
+    },
+    {
+      "index": 28,
+      "title": "Sustained demand for metallurgical coal supports steel production",
+      "description": "Bain's outlook indicates that demand for metallurgical coal will persist into the longer term, specifically for industrial iron and steel production. This provides a tailwind for the metallurgical coal mining segment, which is a key input for the steel industry (IN020301). Even as thermal coal declines, the specific need for coking coal in blast furnaces ensures its continued relevance, supporting the stability and growth prospects for miners providing this critical raw material.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-09"
+    },
+    {
+      "index": 29,
+      "title": "Global de-risking from China boosts Indian chemical sector",
+      "description": "The global trend of de-risking supply chains from China presents a significant upside driver for the Indian chemical sector. As international companies seek diversified and reliable alternative sources, India's chemical industry is poised to capture substantial growth opportunities, especially in specialty chemicals. This strategic shift is expected to fuel increased foreign direct investment and enhance India's role as a competitive global chemical manufacturing hub.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 30,
+      "title": "Significant FDI inflows bolster Indian chemical sector growth",
+      "description": "The Indian chemical sector (excluding fertilizers) has attracted substantial Foreign Direct Investment (FDI), totaling Rs. 1,48,744 crore (US$ 23.9 billion) between April 2000 and December 2025. This significant inflow serves as a strong tailwind, indicating high investor confidence and supporting capacity expansion and technological advancements across the industry. Such investments are crucial for reinforcing India's chemical manufacturing capabilities and achieving its vision as a global chemical hub.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 31,
+      "title": "Government infrastructure capex drives significant cement demand",
+      "description": "The Indian government's record allocation of Rs. 12.2 lakh crore (US$ 138.04 billion) for capital expenditure in the Union Budget 2026-27 is a substantial tailwind for the cement sector. This investment, aimed at accelerating infrastructure development across roads, railways, logistics, urban infrastructure, and industrial corridors, will generate significant and sustained demand for cement manufacturers. This sustained government push underpins the robust growth outlook for the industry.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 32,
+      "title": "High energy efficiency boosts cement sector competitiveness",
+      "description": "India's cement industry benefits from being one of the world's most energy-efficient in terms of specific energy consumption. This inherent efficiency acts as a tailwind, enhancing competitiveness by lowering operational costs and improving sustainability profiles. Such a characteristic contributes to better profit margins and strengthens the industry's position, especially in an environment where energy prices are volatile and environmental concerns are increasing.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 33,
+      "title": "PLI Scheme 1.1 boosts specialty steel production",
+      "description": "The introduction of PLI Scheme 1.1 for specialty steel by the Ministry of Steel in January 2025 is a strong tailwind. Covering five product categories, this initiative aims to encourage greater participation and align India with advanced steel-making nations like Korea and Japan. By promoting \"Aatmanirbhar\" (self-reliant) production in specialty steel, it drives innovation, enhances value addition, and supports the steel and ferrous metals sector (IN020301) in moving up the global value chain.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 34,
+      "title": "Longer mining leases encourage long-term investment",
+      "description": "India's policy of granting mining leases for a longer duration of 50 years acts as a significant tailwind for the metals and mining sector. This extended tenure provides greater investment security and predictability, encouraging long-term capital commitments in mine development and exploration. Such stability is crucial for unlocking India's vast mineral potential and attracting the necessary investments for sustainable growth in the industry.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 35,
+      "title": "Safeguard duty reduces cheap steel imports, supports local producers",
+      "description": "India's imposition of a 12% safeguard duty on cheap steel imports, particularly from China, acts as a significant tailwind for domestic steel producers (IN020301). This measure led to an 11.3% drop in finished steel imports in April 2025, alleviating pricing pressure on local manufacturers. By protecting the domestic market from unfair competition, the duty supports local production growth and profitability, strengthening the industry's ability to achieve ambitious capacity expansion targets.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 36,
+      "title": "Abundant iron ore and low-cost labor enhance steel competitiveness",
+      "description": "India's steel sector benefits from a strong tailwind due to the easy availability of low-cost manpower and abundant iron ore reserves. These factors collectively enhance India's competitiveness in the global steel market, reducing production costs and providing a stable supply of crucial raw materials. This structural advantage supports the industry's growth and its ability to expand capacity to meet rising domestic and international demand.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 37,
+      "title": "Sustainability drives greener packaging and circular economy",
+      "description": "The packaging industry is undergoing a structural change driven by a strong focus on sustainability. Leading companies are adopting circular economy practices, increasing renewable energy use, and engaging in responsible sourcing to create a greener packaging sector (IG0207). Government initiatives like the National Mission on Sustainable Packaging Solutions further support this shift towards eco-friendly materials and recycling methods, indicating a long-term transition in industry practices and consumer preferences.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 38,
+      "title": "Government promotes sustainable packaging manufacturing methods",
+      "description": "Government initiatives promoting sustainable manufacturing methods, minimizing plastic packaging, and encouraging sustainable materials are a strong tailwind for the packaging industry (IG0207). These policies align with global environmental concerns and consumer preferences for eco-friendly products. By fostering innovation in sustainable materials and processes, the government aims to transform the industry towards a net-zero packaging sector, creating new market opportunities and enhancing long-term competitiveness.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 39,
+      "title": "Government defence targets boost explosives manufacturing demand",
+      "description": "The Indian government's ambitious target of achieving US$34.7 billion in defence manufacturing by FY29, coupled with a record FY27 Union Budget outlay for the Defence Ministry (US$88.7 billion), provides a strong tailwind for the explosives sector (IN020107). This increased focus on indigenous production and significant capital expenditure will directly drive demand for industrial and civil explosives used in defence applications like ammunition and warheads, benefiting companies with dual-use capabilities.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 40,
+      "title": "Reduced GST lowers packaging costs for e-commerce",
+      "description": "The reduction of GST on packing paper, cartons, and corrugated boxes to 5% acts as a significant tailwind for the packaging industry (IG0207), particularly benefiting e-commerce. This policy change directly lowers packaging and logistics costs, making e-commerce shipments more cost-efficient. By supporting growth in the e-commerce and food processing sectors, it increases demand for packaging materials and boosts profitability for manufacturers by making their products more attractive.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 41,
+      "title": "Flexible packaging grows with lightweight and convenience demand",
+      "description": "The flexible packaging market (IN020702) is undergoing a significant structural change, driven by shifts from rigid to lightweight pouches, which can cut freight costs by up to 70%. This segment held 54.32% of India’s packaging market in 2024 and is growing at an 11.51% CAGR. Its expansion is fueled by rising use in ready-to-eat foods, nutraceuticals, and single-dose agrochemicals, valuing features like hermetic seals and easy tear-open designs, and promoting mono-material adoption for sustainability.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Decentralized operating models crucial for mining value creation",
+      "description": "Bain asserts that value in the mining sector is predominantly generated at the asset level. Operating models are most effective when decision-making authority and accountability are closely aligned with day-to-day operations. Overly centralized models tend to fragment accountability and disconnect decisions from operational realities, hindering economic value realization. This principle implies that localization, treating assets as distinct businesses, should be the default, with centralization reserved only for clear and compelling exceptions.",
+      "stance": "positive",
+      "source_firm": "bain",
+      "source_date": "2026-05-25",
+      "source_doc_id": "75f8fa57-431a-5e4d-8051-3162da7b13ad"
+    },
+    {
+      "index": 2,
+      "title": "Mining operating models strong in clarity, weak in adaptability and inspiration",
+      "description": "Bain's benchmarking indicates that mining companies excel in strategic clarity, organizational structure, and process discipline. However, they consistently underperform in fostering inspiration and adaptability. This suggests that while the industry is effective at establishing order and direction, its operating models often become overly optimized for control and consistency, inadvertently suppressing local ownership, responsiveness, and the conditions necessary for sustained performance at the asset level.",
+      "stance": "cautious_negative",
+      "source_firm": "bain",
+      "source_date": "2026-05-25",
+      "source_doc_id": "75f8fa57-431a-5e4d-8051-3162da7b13ad"
+    },
+    {
+      "index": 3,
+      "title": "Fertiliser sector faces challenging FY27 after steady performance",
+      "description": "CareEdge Ratings anticipates a challenging operating environment for the Indian fertiliser sector in FY27, following three years of steady performance. The West Asia crisis has sharply increased prices for natural gas and other key inputs, leading to cost pressures. While timely subsidy releases in previous years have strengthened credit profiles, rising import dependence and potential for a below-normal monsoon add to the sector's vulnerability, likely necessitating higher subsidy budgets.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-05-13",
+      "source_doc_id": "945790ac-5487-5a7c-9d09-eba50daec50b"
+    },
+    {
+      "index": 4,
+      "title": "Timely subsidy releases enhance fertiliser sector's resilience to input price volatility",
+      "description": "CareEdge Ratings highlights that timely subsidy disbursements in recent years have significantly improved the working capital management and reduced receivable build-up for fertiliser companies. This financial strengthening positions the sector better to absorb the current volatility in input prices stemming from geopolitical disruptions. Despite challenges like rising import dependence and potential monsoon variability, the sector's improved financial health provides a crucial near-term cushion.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-05-13",
+      "source_doc_id": "945790ac-5487-5a7c-9d09-eba50daec50b"
+    },
+    {
+      "index": 5,
+      "title": "Traditional volume-cost mining model outdated by market volatility",
+      "description": "BCG observes that the decades-long success of metals and mining companies, based on maximizing volume and minimizing cost, is now obsolete. This production-centric model, which thrived in predictable markets with stable long-term contracts, is no longer effective. Global economic shifts, intense price volatility, and the \"financialization\" of metal markets have ushered in a new era, requiring a fundamental transformation from a production-focused approach to a more commercially savvy, market-oriented strategy.",
+      "stance": "negative",
+      "source_firm": "bcg_global",
+      "source_date": "2026-05-05",
+      "source_doc_id": "ed0b9e9a-465a-5927-92dd-d28d6016e0a0"
+    },
+    {
+      "index": 6,
+      "title": "Commercial and trading activities essential for mining profit protection",
+      "description": "BCG advocates that metals and mining companies must evolve into sophisticated market players engaged in commercial and trading activities to safeguard profit margins and secure optimal prices. This shift moves beyond traditional production-centric models, enabling companies to actively manage sales, marketing, optimization, and trading levers. Such an evolution allows them to capture a potential $20 billion annual value pool while effectively mitigating downside risks in volatile commodity markets.",
+      "stance": "positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-05-05",
+      "source_doc_id": "ed0b9e9a-465a-5927-92dd-d28d6016e0a0"
+    },
+    {
+      "index": 7,
+      "title": "India's steel sector at inflection point, poised for massive capacity expansion",
+      "description": "KPMG in India views the Indian steel sector as being at a critical inflection point, poised for unprecedented growth. The ambition to add another 100 MTPA of crude steel capacity by FY2030, reaching 300 MTPA, represents one of India's largest industrial capacity creation efforts. This expansion, driven by strong domestic demand and significant private-sector participation, underscores a robust growth outlook for the sector, necessitating effective execution strategies for success.",
+      "stance": "positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-05-01",
+      "source_doc_id": "2b89a9cb-7e9a-525a-abb8-7d38a1e9bcb9"
+    },
+    {
+      "index": 8,
+      "title": "Indian agrochemicals forecast stable, volume-led growth in FY27",
+      "description": "CareEdge Ratings anticipates stable growth of 6-8% for the Indian agrochemicals industry in FY27, driven by consistent domestic demand, improved crop intensity, and expanding distribution. Following a sharp correction, the industry is entering a volume-led growth phase with normalized inventories. While global uncertainties and pricing pressures persist from oversupply (especially from China), the sector is set for gradual improvement in operating conditions, supported by cost normalization and better product mix.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-21",
+      "source_doc_id": "5392d51c-c3a5-55d0-b63c-9ba049c1bb52"
+    },
+    {
+      "index": 9,
+      "title": "India aims for 5-6% global chemical manufacturing share by 2030",
+      "description": "IBEF highlights India's ambitious vision to become a leading global hub for chemical manufacturing by 2030, targeting a 5-6% share of the worldwide chemical value chain. This strategic goal reflects significant growth potential and national commitment to expand the sector's global footprint. It is supported by the industry's projected growth to $1 trillion by 2040 and increasing investments, positioning India as a key player in the global chemical landscape.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "source_doc_id": "f25d22d3-25f1-5f9d-a0a6-75249c058291"
+    },
+    {
+      "index": 10,
+      "title": "India emerging as preferred packaging hub with robust market growth",
+      "description": "IBEF highlights India's paper and packaging market as a rapidly developing sector, growing at an annual rate of 22-25%, and establishing itself as a preferred global hub. This robust growth is fueled by expanding e-commerce, FMCG, and education sectors, alongside increased focus on food safety. The industry's innovation in technology and sustainability, combined with significant investment, positions India as a leader in packaging, catering to diverse manufacturing needs.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "source_doc_id": "9553f841-6943-5a41-b773-71ec671ed4fd"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 51.7,
+      "tam_unit": "MT",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Monsoon progression and distribution",
+          "description": "Key variable for fertiliser demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Domestic production of fertiliser is estimated to have declined marginally to ~517 LMT in FY26 from ~518 LMT in FY25. Consumption grew by ~3% in FY26.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-05-13",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 24.9,
+      "tam_unit": "MT",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Geopolitical uncertainty",
+          "description": "Need for buffer stock amid global disruptions."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Fertiliser imports are estimated to have risen sharply to ~249 LMT in FY26 from ~160 LMT in FY25 to ensure adequate stocks. Import dependency increased to ~34% in FY26 from ~23% in FY25.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-05-13",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 1.71,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "International input prices",
+          "description": "Higher import prices for natural gas, ammonia, sulphur, and phosphoric acid will likely overshoot budgeted subsidy levels."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Government has budgeted Rs 1.71 lakh crore for FY27, comprising urea subsidy of Rs 1.17 lakh crore and NBS subsidy of Rs 0.54 lakh crore.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-05-13",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 20.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Market volatility",
+          "description": "Opportunities to exploit price and volume shocks through hedging, portfolio shifts, and inventory management."
+        },
+        {
+          "driver": "Commercial excellence",
+          "description": "Implementing advanced sales, marketing, and trading strategies to capture higher margins."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Shifting from production-centric to market-facing strategies to capture optimal prices and protect margins.",
+          "opportunity": "Commercial and trading activities"
+        },
+        {
+          "description": "Exploiting inefficiencies between physical and financial markets for direct profit.",
+          "opportunity": "Proprietary Trading"
+        }
+      ],
+      "methodology": "Annual value pool derived from actively managing different sales, marketing, optimization, and trading levers, while limiting downside risks.",
+      "source_firm": "bcg_global",
+      "source_date": "2026-05-05",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 5,
+      "tam_value": 300.0,
+      "tam_unit": "MT",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Infrastructure development",
+          "description": "Accelerated infrastructure creation, rapid urbanization, growth in manufacturing."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Target set by the National Steel Policy (NSP). Current capacity ~200 MTPA in FY2024-25.",
+      "source_firm": "kpmg",
+      "source_date": "2026-05-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": 6.0,
+      "forecast_cagr_period": "2026-2027",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Volume recovery",
+          "description": "Normalisation of channel inventories across export markets and improved domestic demand."
+        },
+        {
+          "driver": "Steady domestic demand",
+          "description": "Rising cropped area, improving irrigation coverage, and low per-hectare chemical usage."
+        },
+        {
+          "driver": "Improving export traction",
+          "description": "Stabilized global demand and recovery in key export regions like the US, Europe, and LATAM."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Pricing pressures",
+          "description": "Persistent global oversupply, particularly from China, limits pricing headroom and keeps the market competitive."
+        },
+        {
+          "driver": "Input cost volatility",
+          "description": "Geopolitical conflicts (US-Israel-Iran) can introduce volatility in energy-linked input costs and logistics, impacting margins."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Expected to witness stable growth of approximately 6-8% in FY27, primarily driven by volume recovery, steady domestic demand, and improving export traction.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-21",
+      "data_confidence": "high"
+    },
+    {
+      "index": 7,
+      "tam_value": 250.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2024-2040",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong domestic demand",
+          "description": "Increasing demand from end-user industries such as food processing, personal care, home care, agriculture, construction, and automotive sectors."
+        },
+        {
+          "driver": "Global supply chain de-risking",
+          "description": "Global companies seeking to diversify supply chains away from China provides opportunities for Indian chemical sector."
+        },
+        {
+          "driver": "Industrialization and urbanization",
+          "description": "General economic growth and urban development drive demand for various chemical products."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Focus on green solvents, biodegradable surfactants, and bio-based polymers, with expected CAGR of over 10% to exceed US$ 15 billion by 2027.",
+          "opportunity": "Green chemicals market"
+        }
+      ],
+      "methodology": "Estimated worth around US$ 250 billion in 2024, anticipated to grow to US$ 300 billion by 2025 and US$ 1 trillion by 2040.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 8,
+      "tam_value": 64.5,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": 3.8,
+      "forecast_cagr_period": "2025-2033",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong demand from end-user industries",
+          "description": "Agriculture, construction, and automotive sectors are driving growth."
+        },
+        {
+          "driver": "Rising industrialization and urbanization",
+          "description": "Broader economic development fuels demand for specialized chemical products."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Valued at US$ 64.5 billion in 2024, forecasted to grow at a CAGR of 3.80% from 2025-33, reaching US$ 92.6 billion by 2033.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 9,
+      "tam_value": 15.5,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": 4.28,
+      "forecast_cagr_period": "2024-2033",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Advances in agricultural technology",
+          "description": "New techniques and practices increase the need for crop protection solutions."
+        },
+        {
+          "driver": "New agrochemical formulations",
+          "description": "Development of more effective and specialized products drives market expansion."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Valued at US$ 15.5 billion in 2024 and expected to reach US$ 23.3 billion by 2033, growing at a CAGR of 4.28%.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 10,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Robust industrial activity",
+          "description": "High IIP growth driven by manufacturing expansion."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Manufacturing Gross Value Added (GVA) grew by 7.72% in Q1 and 9.13% in Q2 of FY26.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 11,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 8.0,
+      "forecast_cagr_period": "2025-2026",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government housing schemes",
+          "description": "Continued focus on urban and rural housing initiatives fuels cement demand."
+        },
+        {
+          "driver": "Infrastructure projects",
+          "description": "Ongoing and new infrastructure developments significantly boost cement consumption."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Expected to grow at a strong 8-9% CAGR by FY26, primarily driven by continued government focus on housing (urban and rural schemes) and ongoing infrastructure projects.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 12,
+      "tam_value": 690.0,
+      "tam_unit": "MT",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Installed capacity of around 690 million tonnes versus production of 453 million tonnes in FY25. Expected to reach about 490 million tonnes in FY26.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 13,
+      "tam_value": 300.0,
+      "tam_unit": "MT",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Target of 300 MT steel-making capacity by FY31 as per National Steel Policy (NSP) 2017.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 14,
+      "tam_value": 5.2,
+      "tam_unit": "MT",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Installed capacity of paper and paperboard stood at 5.20 million tonnes per annum, with production reaching 4.94 million tonnes. Domestic sales 4.41 MT, exports 0.49 MT. Capacity utilisation rate of 95.03%.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 15,
+      "tam_value": 34.7,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2029,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Government has set a target of achieving defence manufacturing worth Rs. 3,00,000 crore (US$ 34.7 billion), by FY29.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 16,
+      "tam_value": 3.89,
+      "tam_unit": "MT",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Shift to renewable energy, grid upgrades, adoption of nuclear power, and long-term use of CCUS to support aluminium production growth to 37 MT by 2070.",
+          "opportunity": "Decarbonization strategy"
+        }
+      ],
+      "methodology": "Primary aluminium production reached 3.89 lakh ton (LT) in FY26 (April–February 2026) from 3.837 LT in FY25 (April–February 2025).",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 17,
+      "tam_value": 84.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": 11.0,
+      "forecast_cagr_period": "2024-2029",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Expansion of middle class",
+          "description": "Increasing disposable incomes and changing consumer lifestyles drive demand for packaged goods."
+        },
+        {
+          "driver": "Enhancements in supply chain",
+          "description": "Improved logistics and distribution networks support wider availability of packaged products."
+        },
+        {
+          "driver": "Emergence of e-commerce",
+          "description": "Growth of online retail increases demand for protective and convenient packaging solutions."
+        },
+        {
+          "driver": "Focus on food safety and quality",
+          "description": "Rising awareness fuels the food processing sector, boosting demand for compliant packaging."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Valued at US$ 84 billion in 2024, projected to reach US$ 143 billion by 2029 at CAGR 11.00% during 2024-2029.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "bain",
+    "CareEdge Ratings",
+    "bcg_global",
+    "kpmg",
+    "ibef"
+  ]
+}

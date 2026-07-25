@@ -1,0 +1,210 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Supply chain resilience becomes critical, driving diversification and inventory buffers",
+      "description": "The COVID-19 pandemic and subsequent semiconductor shortages highlighted the fragility of just-in-time, single-source supply chains. This has shifted the industry's focus towards resilience through geographic diversification, redundant supplier qualification, and buffer inventory strategies. Technology distributors must adapt by diversifying their sourcing networks and potentially holding larger inventories, impacting their working capital requirements and operational logistics.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 2,
+      "title": "India's heavy dependence on imported components creates supply chain vulnerability",
+      "description": "India remains heavily dependent on imports for critical electronics components such as PCBs, sensors, and advanced displays, primarily from China, South Korea, and Taiwan. This dependence exposes technology distributors to increased procurement costs, longer lead times, and higher vulnerability to global supply chain disruptions and currency fluctuations, directly impacting their operational efficiency and profitability.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 3,
+      "title": "Government's PLI and Semiconductor Mission foster domestic electronics production",
+      "description": "The Indian government's Production-Linked Incentive (PLI) scheme for large-scale electronics manufacturing and the India Semiconductor Mission are acting as crucial enablers for domestic production. These initiatives provide significant fiscal support for manufacturing and component indigenisation, substantially boosting the local supply of tech hardware and components, thereby creating a larger and more stable domestic product base for technology distributors.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 4,
+      "title": "Geopolitical risk re-pricing reshapes global electronics supply chains",
+      "description": "Heightened trade frictions, tighter controls on advanced technology flows, and the treatment of semiconductors as strategic assets are compelling a reassessment of supply-chain dependence on any single geography. This global pivot from China-centric models towards more diversified, multi-node manufacturing networks directly impacts sourcing options and supply stability for technology distributors in India.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 5,
+      "title": "Policy incentives drive geographic diversification in electronics manufacturing",
+      "description": "Regulatory pressures and fiscal incentives, such as India's Production-Linked Incentive (PLI) schemes, the U.S. CHIPS Act, and EU Chips Act, are actively encouraging geographic diversification in electronics manufacturing. These policies support the establishment and scaling of local manufacturing hubs, like in India, which will increase the volume of domestically produced tech hardware and components available for technology distributors.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 6,
+      "title": "Surging demand for connected devices expands electronics distribution opportunities",
+      "description": "The continuous proliferation of connected devices, including smartphones, laptops, and IoT-enabled industrial systems, is a primary driver of demand for electronics manufacturing capacity. This robust underlying demand translates directly into an increased volume and variety of tech hardware and components that require efficient distribution, providing a significant and sustained growth driver for technology distribution firms.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 7,
+      "title": "Absence of deep domestic component ecosystem limits value capture for distributors",
+      "description": "India's lack of a deep, integrated domestic component supply chain forces technology distributors to rely on long-haul import supply chains. This results in high inventory buffers, extended new product introduction (NPI) lead times, and increased landed costs due to import duties and freight. Consequently, the domestic value-add and margin retention for distributors within the electronics supply chain remain structurally limited.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 8,
+      "title": "Sub-optimal logistics reliability impacts time-critical technology distribution programs",
+      "description": "Despite recent improvements, India's logistics infrastructure still exhibits higher variability in turnaround times and cost predictability compared to established Asian EMS hubs. This unreliability creates significant friction for time-critical programs within the technology distribution sector, potentially leading to delays, increased operational costs, and challenges in maintaining just-in-time inventory for sensitive and rapidly evolving tech products.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 9,
+      "title": "Rising disposable incomes and consumption drive electronics market expansion",
+      "description": "India's strong position as a major consumer of electronic products in the Asia-Pacific is significantly bolstered by increasing per capita disposable incomes and overall consumption trends. This sustained rise in purchasing power directly fuels robust demand across various technology segments, providing a substantial and consistent growth driver for technology distributors across the country.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 10,
+      "title": "Weak AI investment and lack of indigenous advanced tech limits high-value distribution",
+      "description": "India's lagging position in attracting global AI investments, particularly in frontier model development and semiconductor innovation, along with the absence of 'pure-play' AI stocks, suggests a limitation in locally developed advanced technology. This could mean that high-value, cutting-edge AI software, hardware, and semiconductor components for domestic distribution will predominantly be imported, potentially hindering the growth of advanced technology distribution services in India.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-14"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "India's electronics sector faces high import dependence and cost disadvantages",
+      "description": "India's electronics sector remains heavily dependent on imports for critical components (PCBs, sensors, advanced displays) from countries like China, South Korea, and Taiwan. This dependency leads to increased costs and supply-chain vulnerability for all participants, including technology distributors. Weaker incentives and cost support further limit India's competitiveness compared to global peers, impacting distributors' pricing and sourcing strategies.",
+      "stance": "cautious_negative",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "source_doc_id": "193eed71-74ac-5f2b-aae3-8734ff8a1d2d"
+    },
+    {
+      "index": 2,
+      "title": "India's EMS ecosystem to diversify beyond mobile and consumer electronics",
+      "description": "India's Electronic Manufacturing Services (EMS) market is currently concentrated in mobile and consumer electronics, reflecting PLI traction in smartphones. However, a nascent diversification into higher-complexity segments like automotive, industrial, and telecom infrastructure is underway. This indicates that technology distributors in India will likely see a shift in product portfolios towards more specialized and higher-value hardware and components over time, requiring adaptation in their service offerings.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "source_doc_id": "09966666-4bad-5f95-a501-252e756a86f2"
+    },
+    {
+      "index": 3,
+      "title": "Limited domestic value-add constrains Indian electronics supply chain profitability",
+      "description": "The Indian electronics manufacturing value chain, including distribution, is structurally limited in margin retention due to heavy reliance on imported components, often 60-90% of the bill of materials. Until India develops a credible domestic component ecosystem, it will remain a high-volume but relatively low-value node. This implies that technology distributors may find their value capture constrained, focusing more on logistics efficiency than high-margin services.",
+      "stance": "cautious_negative",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "source_doc_id": "09966666-4bad-5f95-a501-252e756a86f2"
+    },
+    {
+      "index": 4,
+      "title": "India poised for robust electronics consumption growth from rising incomes",
+      "description": "India stands as one of the largest consumers of electronic products in the Asia-Pacific region, a trend driven by rising per capita disposable incomes and increasing overall consumption over the past decade. This robust domestic demand creates a highly favorable environment for technology distributors, ensuring a steady and growing market for various electronic hardware and components across consumer and enterprise segments.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "8663d286-15ea-5d30-acf3-a4efd5c639da"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 24.45,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2023,
+      "forecast_cagr": 34.0,
+      "forecast_cagr_period": "2023-2028",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong Demand",
+          "description": "Overall robust demand for electronic products across various sectors."
+        },
+        {
+          "driver": "Supportive Government Policies",
+          "description": "Government policies like PLI schemes are encouraging domestic manufacturing in the ESDM sector."
+        },
+        {
+          "driver": "Increased Digitalisation",
+          "description": "Growing digital adoption across India drives demand for electronic systems and components."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The Indian electronics system design and manufacturing (ESDM) industry was valued at approximately US$ 24.45 billion in FY23. This market includes electronic hardware products and components that technology distributors handle.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 22.61,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 6.78,
+      "forecast_cagr_period": "2026-2031",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The India IT Hardware market is expected to reach US$ 22.61 billion in 2026, growing from US$ 21.17 billion in 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 500.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government Targets",
+          "description": "Ambitious government targets aim to significantly increase domestic electronics manufacturing output, providing a larger base of products for distribution."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's electronics industry is targeting a manufacturing output of US$ 500 billion by FY30. This represents a fivefold increase in production.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    }
+  ],
+  "sources": [
+    "KPMG",
+    "IBEF"
+  ]
+}

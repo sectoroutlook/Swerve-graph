@@ -1,0 +1,625 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Industrial automation shifts value from hardware to software and data",
+      "description": "The industrial automation market is undergoing a structural shift where value is concentrating in software, data platforms, and AI-enabled workflows at the top of the stack, and in smart field devices (sensors, actuators) at the bottom. The traditional control layer (PLCs, DCSs, SCADA) is becoming less profitable. By 2030, nearly half of industry revenues will be AI-based, with software and data layers accounting for over half of total profit pools, and smart field devices capturing an additional 25-30%.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-07"
+    },
+    {
+      "index": 2,
+      "title": "High entry costs and specialization hinder widespread dexterous manipulation",
+      "description": "Despite advances in dexterous manipulation (Level 3 Physical AI), its widespread adoption faces challenges due to high entry costs. Current systems are tightly coupled to specific physical embodiments, meaning skills learned by one robot do not easily transfer to others. Achieving reliable performance requires extensive training data specific to the robot and task, along with new software-defined capabilities. This specialized and costly refinement process limits general-purpose application and keeps initial entry costs high for broader deployment.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-14"
+    },
+    {
+      "index": 3,
+      "title": "Government vision plan targets India as construction equipment hub by 2030",
+      "description": "The Government of India's 'Vision Plan 2030' aims to establish India as a manufacturing and export hub for construction equipment. This plan is designed to accelerate the development of world-class infrastructure within the country, which in turn will boost demand for construction equipment. This strategic initiative serves as a significant upside driver for the Industrial Machinery & Equipment sector (IN030201), encouraging domestic production and exports.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 4,
+      "title": "Physical AI enabling automation of previously unfeasible tasks",
+      "description": "Advances in physical AI, particularly visual perception (Level 2) and dexterous manipulation (Level 3), are enabling the automation of tasks previously considered uneconomical or impossible for traditional robots. Level 2 perception allows robots to operate in semi-structured environments and reduces setup/reengineering costs by up to 50%. Level 3 enables handling of complex, contact-rich and variable objects. This expands the scope and economic viability of industrial automation for manufacturers.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-14"
+    },
+    {
+      "index": 5,
+      "title": "Humanoid robotics viability depends on aspirational Level 5 reasoning",
+      "description": "The economic viability of humanoid robots, which often generate significant hype, is dependent on achieving Level 5 physical AI reasoning capabilities. This level requires robots to maintain internal world models, reason about causality, anticipate environmental changes, and pursue complex goals, capabilities that remain largely aspirational and an open engineering challenge. Overcommitting capital to humanoid platforms without these mature reasoning capabilities poses a significant risk of misallocation of industrial capital.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-14"
+    },
+    {
+      "index": 6,
+      "title": "High growth in motor vehicles manufacturing drives demand for capital goods",
+      "description": "The manufacturing sector is experiencing high growth, with \"motor vehicles, trailers and semi-trailers\" recording a substantial 33.5% growth in December 2025. As commercial vehicle manufacturing falls under IN030201 (Industrial Machinery & Equipment), this robust expansion directly translates into increased demand for capital goods, machinery, and automation equipment required for vehicle production lines and associated infrastructure.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 7,
+      "title": "Core industries growth drives demand for capital goods",
+      "description": "The Index of Eight Core Industries recorded positive production growth in December 2025 across key sectors including cement, steel, electricity, fertilizer, and coal. These industries are significant consumers of capital goods and machinery, such as industrial equipment, heavy electrical equipment, and various components. Their sustained growth indicates increased investment and production activity, acting as a tailwind for the Capital Goods & Machinery sector by stimulating demand.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 8,
+      "title": "National Capital Goods Policy targets significant sector growth by 2025",
+      "description": "The National Capital Goods Policy (2016) aims to fundamentally transform India's capital goods sector by 2025. Key targets include increasing its manufacturing share from 12% in 2016 to 20%, doubling production, boosting exports to 40% of output, and aligning technology capabilities with global standards. This policy framework, supported by schemes like the Capital Goods Competitiveness Scheme Phase-II, represents a long-term structural push to enhance domestic capacity, innovation, and global competitiveness within IG0302.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 9,
+      "title": "Robust government capex and infrastructure spending boosts demand",
+      "description": "Government initiatives demonstrate strong commitment to infrastructure development, including the construction of 5,313 km of highways in FY26, exceeding targets. The Union Budget FY27 allocates significant capital expenditure of US$172 billion (Rs. 15.48 lakh crore). This sustained public investment, along with schemes like the Urban Infrastructure Development Fund (UIDF), acts as a substantial tailwind for the Capital Goods & Machinery sector, driving demand for construction equipment (IN030201) and other industrial machinery.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 10,
+      "title": "Expanding manufacturing PMI signals strong demand for capital goods",
+      "description": "India's Manufacturing Purchasing Managers’ Index (PMI) has remained consistently above the 50-mark (indicating expansion) since March 2023, reaching 56.8 in January 2026. This sustained positive sentiment in the manufacturing sector is a strong tailwind for Capital Goods & Machinery (IG0302). A robust and expanding manufacturing base typically translates to increased investment in new machinery, equipment, and automation, thereby driving demand across the sector's sub-segments.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 11,
+      "title": "Rising manufacturing capacity utilization signals investment in new equipment",
+      "description": "Capacity utilization in India's manufacturing sector reached 74.1% in Q1 FY26 and marginally improved to 74.3% in Q2 FY26, as measured by the RBI. High capacity utilization rates typically indicate that existing production assets are being fully utilized, creating an imperative for manufacturers to invest in new machinery, industrial equipment, and potentially heavy electrical equipment to expand capacity. This trend acts as a significant upside driver for the Capital Goods & Machinery sector.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 12,
+      "title": "Strong growth in engineering goods exports boosts capital goods manufacturers",
+      "description": "Engineering Goods were identified as a major driver of India's merchandise exports growth in December 2025. This strong export performance indicates increasing global demand for Indian-manufactured engineering products, which often include industrial machinery, equipment, and electrical components from the Capital Goods & Machinery sector. This trend serves as a significant tailwind, encouraging manufacturers to scale production and potentially invest in advanced machinery to meet international demand.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 13,
+      "title": "Increased investments in smart factories and IIoT drive demand for industrial automation",
+      "description": "The manufacturing, automotive, and energy sectors exhibited significant demand growth (31% quarter-on-quarter) in Q1 FY26, largely attributed to increased investments in smart factories and Industrial Internet of Things (IIoT) platforms. These investments directly fuel demand for advanced industrial automation, robots, and related machinery, which are core components of the Industrial Machinery & Equipment sector (IN030201). This trend presents a robust tailwind for the Capital Goods & Machinery industry.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 14,
+      "title": "Moderation in state capex growth due to fiscal constraints",
+      "description": "State capital expenditure growth is projected to moderate to 8-10% in FY27 from an estimated 17% in FY26, according to CareEdge Ratings. This slowdown is primarily driven by tighter fiscal headroom, including reduced revenue receipts and increased welfare and energy-related expenditure. While capital outlay remains a priority for states, this moderation in public investment signals a potential slowdown in demand for various types of industrial machinery, construction equipment, and heavy electrical equipment, creating a headwind for the Capital Goods & Machinery sector.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-20"
+    },
+    {
+      "index": 15,
+      "title": "Strong growth in earthmoving equipment sales indicates robust construction activity",
+      "description": "Sales of earthmoving equipment experienced a significant 23% year-on-year growth in the second quarter of FY24. This strong performance, with increased equipment numbers sold, directly reflects robust activity in the construction and mining sectors. As earthmoving and construction equipment falls under Industrial Machinery & Equipment (IN030201), this trend serves as a strong tailwind, indicating sustained demand and investment in infrastructure projects.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 16,
+      "title": "Agricultural machinery industry investing in capex for capacity and technology upgrades",
+      "description": "The Indian agricultural machinery industry, after experiencing 7% growth in FY25, is poised for a significant Rs. 4,000 crore (US$ 468 million) capital expenditure cycle. This investment is driven by nearing capacity utilization (75-80%) and the adoption of cleaner technology under TREM V regulations. This capex signals modernization and expansion within the Agricultural Machinery sector (IN030204), acting as a strong tailwind for manufacturers of farming equipment and related components.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 17,
+      "title": "Inverted duty structure on electronics capital equipment manufacturing",
+      "description": "An inverted duty structure creates a significant headwind for the domestic manufacturing of electronics capital equipment. This occurs because inputs and components used in local production are taxed, while finished imported products remain duty-free. Such a policy raises the cost of domestic manufacturing, thereby discouraging localization of critical sub-assemblies and making Indian-made electronics capital equipment less competitive compared to foreign imports, hindering sector growth.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "India-EU deal improves manufacturing competitiveness via access to advanced machinery",
+      "description": "The India-EU Free Trade Agreement is expected to reduce tariffs on EU exports, granting Indian manufacturers easier access to high-value goods like advanced machinery, specialized equipment, and critical industrial inputs. This will lead to higher efficiency, lower production costs, and better quality standards for Indian manufacturers. The deal also facilitates greater exposure to global production practices and technology standards, strengthening domestic capabilities and integrating India deeper into global value chains, shifting focus beyond mere cost competitiveness.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "source_doc_id": "28e14b97-fdca-54ce-967a-f73f85c7950d"
+    },
+    {
+      "index": 2,
+      "title": "Humanoid robots not yet practical at scale in durable manufacturing",
+      "description": "Humanoid robots, despite generating buzz, currently have limited practical application at scale in durable manufacturing. Bain's analysis indicates they can only address fewer than 20% of tasks, suggesting broad adoption is still years away. The report advises manufacturers to focus on deploying already proven technologies like cobots, autonomous mobile robots, vision systems, and mobile manipulators, which are currently underused and offer clear near-term opportunities for improved efficiency.",
+      "stance": "cautious_negative",
+      "source_firm": "Bain",
+      "source_date": "2026-04-29",
+      "source_doc_id": "eea7040b-a5ff-59bf-8185-fe0afd54953d"
+    },
+    {
+      "index": 3,
+      "title": "India's manufacturing sector demonstrates robust growth and expansion",
+      "description": "India's manufacturing sector is exhibiting robust growth, with Gross Value Added (GVA) accelerating to 7.72% in Q1 and 9.13% in Q2 of FY26. The sector's momentum is further evidenced by a 7.8% growth in the Index of Industrial Production (IIP) in December 2025. This strong performance, supported by targeted policy incentives, PLI schemes, and infrastructure development, indicates a thriving industrial environment. This is broadly positive for Capital Goods & Machinery as it implies sustained demand for new equipment and capacity expansion.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "8e4bdf71-6094-5617-a660-e9adc6c1094d"
+    },
+    {
+      "index": 4,
+      "title": "India's manufacturing value-add limited by dependence on imported components",
+      "description": "KPMG highlights that India's manufacturing sector, particularly in electronics, suffers from limited domestic value-add and margin retention due to heavy reliance on imported components (60-90% of bill of materials). The absence of a credible local component ecosystem restricts India to being a high-volume, low-value node in global supply chains. This presents a cautious outlook for Capital Goods & Machinery firms aspiring to move up the value chain, as it underscores a structural challenge in sourcing and localization, impacting demand for sophisticated domestic manufacturing equipment.",
+      "stance": "cautious_negative",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "source_doc_id": "09966666-4bad-5f95-a501-252e756a86f2"
+    },
+    {
+      "index": 5,
+      "title": "Physical AI transforms robotics, enabling automation in unstructured environments",
+      "description": "Physical AI is reshaping robotics by enabling systems to perceive, adapt, and manipulate beyond rigid programming, addressing limitations of traditional automation in changeovers and unstructured environments. BCG's framework highlights that while general-purpose autonomy (Level 5 reasoning) is aspirational, mature capabilities like visual perception (Level 2) and dexterous manipulation (Level 3) already deliver significant economic impact. Companies should prioritize these proven capabilities, focusing on reusable platforms and continuous learning to achieve durable advantage rather than chasing speculative breakthroughs.",
+      "stance": "positive",
+      "source_firm": "BCG",
+      "source_date": "2026-04-14",
+      "source_doc_id": "7c0067da-738c-58e8-a0e6-a5e717f0a4b5"
+    },
+    {
+      "index": 6,
+      "title": "Capital Goods sector shows strong growth, contributing to India's GDP",
+      "description": "India's Capital Goods manufacturing industry is a strong base for various sectors, contributing 1.9% to the country's GDP. The sector recorded an 8.1% YoY growth in FY26, driven by improved investment activity and accelerating manufacturing GVA growth. Production within the capital goods sector surged from US$27.2 billion in CY15 to US$50.7 billion in CY24, reflecting robust expansion. The electrical equipment sub-sector is the largest, followed by plant equipment and earth-moving/mining machinery, indicating diversified strength.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "d9e9c289-f4b7-58ef-9f0b-4628afbd23df"
+    },
+    {
+      "index": 7,
+      "title": "State capital expenditure growth moderates amid tightening fiscal headroom",
+      "description": "CareEdge Ratings forecasts a moderation in state capital expenditure growth to 8-10% in FY27, down from an estimated 17% in FY26, reaching about 2.3%-2.4% of GSDP. This moderation is attributed to tighter fiscal headroom, lower growth in revenue receipts (especially from central transfers), and increased revenue expenditure commitments towards welfare and energy-related support. While public investment remains a priority, these fiscal constraints will limit the pace of capital outlay, potentially impacting demand for capital goods.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-20",
+      "source_doc_id": "e327cee6-931b-55ce-85f1-b6427124e04b"
+    },
+    {
+      "index": 8,
+      "title": "India can achieve lower technology production costs than China",
+      "description": "The World Bank Country Director, Mr. Auguste Tano Kouame, asserts that India possesses the potential to produce technology at a lower cost than China, provided it efficiently masters and manufactures the technology. He highlights India's large workforce as a key competitive advantage in the global market. This viewpoint is positive for the Capital Goods & Machinery sector, suggesting an underlying capability for cost-efficient production, which can attract manufacturing investments and drive demand for advanced machinery domestically.",
+      "stance": "positive",
+      "source_firm": "World Bank",
+      "source_date": "2026-03-31",
+      "source_doc_id": "8e4bdf71-6094-5617-a660-e9adc6c1094d"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 1.34,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 5.16,
+      "forecast_cagr_period": "2026-2034",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Market size for generators in India.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 122.1,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 4.23,
+      "forecast_cagr_period": "2026-2034",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Global market size for switchgear and control gear.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 20.44,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 3.99,
+      "forecast_cagr_period": "2026-2034",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Market valuation for electrical materials in India.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 14.3,
+      "forecast_cagr_period": "2024-2028",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Power sector growth",
+          "description": "Increasing power generation capacity and expansion of transmission and distribution systems in India."
+        },
+        {
+          "driver": "Industrial expansion",
+          "description": "General industrial growth and electrification trends."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecasted incremental growth in the Indian electrical equipment market from FY24 to FY28. The market is expected to experience Rs. 6,44,533 crore (US$ 76.24 billion) in incremental growth.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": 1.66,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 12.7,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Emerging trend of automation",
+          "description": "Increasing adoption of automation technologies in manufacturing and logistics sectors."
+        },
+        {
+          "driver": "Utilization of machine tools",
+          "description": "Growing use of machine tools to enhance productivity and efficiency across various industries."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Market valuation for automated material handling in India.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": 6.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated annual capacity of the Indian Process Plant and Machinery (PPM) industry.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 7,
+      "tam_value": 22.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 10.78,
+      "forecast_cagr_period": "2026-2034",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Automotive and construction sectors demand",
+          "description": "Strong demand from automotive and construction industries for castings, driving market growth."
+        },
+        {
+          "driver": "Government infrastructure programs",
+          "description": "National Infrastructure Pipeline (NIP) and Pradhan Mantri Awas Yojana (PMAY) stimulate construction, increasing demand for castings."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Adoption of Lost Foam Casting supports the shift towards lighter automotive components, creating opportunities for specialized foundries.",
+          "opportunity": "Lightweight and fuel-efficient vehicles"
+        }
+      ],
+      "methodology": "Market size for foundry and casting in India.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 8,
+      "tam_value": 52.98,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2022,
+      "forecast_cagr": 11.68,
+      "forecast_cagr_period": "2022-2027",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Market share for electrical equipment in India.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 9,
+      "tam_value": 7.91,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 8.3,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Infrastructure development",
+          "description": "Government's focus on developing world-class infrastructure under Vision Plan 2030 and continued policy emphasis."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The 'Vision Plan 2030' aims for India to become a global hub for construction equipment manufacturing and export.",
+          "opportunity": "Becoming manufacturing and export hub"
+        }
+      ],
+      "methodology": "Market size estimation for construction equipment in India.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 10,
+      "tam_value": 7.2,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2023,
+      "forecast_cagr": 15.0,
+      "forecast_cagr_period": "2023-2028",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Infrastructure development",
+          "description": "Continued policy emphasis on infrastructure creation, including highways and urban infrastructure."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Market size estimation for construction equipment in India as per CII.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 11,
+      "tam_value": 39.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 3.3,
+      "forecast_cagr_period": "2026-2034",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Global industrial demand",
+          "description": "Anticipated growth in manufacturing sectors utilizing plastic products worldwide."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Global market size for plastic processing machinery.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 12,
+      "tam_value": 11.2,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 4.67,
+      "forecast_cagr_period": "2026-2034",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Automotive sector demand",
+          "description": "The Indian automotive sector is the largest consumer of industrial fasteners, driving significant market share."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Market size for industrial fasteners in India.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 13,
+      "tam_value": 0.7046,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2019,
+      "forecast_cagr": 3.8,
+      "forecast_cagr_period": "2019-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Market size for boilers in India.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 14,
+      "tam_value": 1.9,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2022,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "2022-2030",
+      "demand_drivers": [
+        {
+          "driver": "Increasing power generation capacity",
+          "description": "Growing demand for energy necessitating more power generation, which requires transformers."
+        },
+        {
+          "driver": "Expansion of transmission and distribution systems",
+          "description": "Development and upgrade of electricity grids to efficiently deliver power, driving transformer sales."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Revenue generated by the power transformer market in India.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 15,
+      "tam_value": 10.25,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2023,
+      "forecast_cagr": 5.24,
+      "forecast_cagr_period": "2023-2029",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government support for agriculture",
+          "description": "Policies like higher Minimum Support Prices (MSP) encourage agricultural investment."
+        },
+        {
+          "driver": "Replacement demand",
+          "description": "Existing machinery nearing end-of-life creates continuous demand for new equipment."
+        },
+        {
+          "driver": "Above-normal monsoon expectations",
+          "description": "Favorable weather forecasts boost farmer confidence and investment in agricultural machinery."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Market value for agricultural equipment in India.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 16,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 3.0,
+      "forecast_cagr_period": "2025-2026",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Higher MSP (Minimum Support Price)",
+          "description": "Increased government support prices for agricultural produce boost farmer income and purchasing power for tractors."
+        },
+        {
+          "driver": "Strong replacement demand",
+          "description": "Ongoing need to replace aging tractors in the agricultural sector."
+        },
+        {
+          "driver": "Construction demand",
+          "description": "Tractors are often used in construction activities, linking their sales to infrastructure development."
+        },
+        {
+          "driver": "Favorable monsoon outlook",
+          "description": "Anticipated good monsoon seasons encourage agricultural investment."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected domestic sales volume of tractors in India.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "KPMG",
+    "Bain",
+    "IBEF",
+    "BCG",
+    "CareEdge Ratings",
+    "World Bank"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Reduced airport passenger traffic dampens aviation security demand",
+      "description": "Indian airports are expected to experience significantly lower passenger traffic growth, with projections revised downwards to 4.3% in FY26 from an earlier 8%. This slowdown is caused by factors such as cross-border tensions, extensive fleet-wide aircraft inspections, and delays in the delivery of new wide-bodied aircraft. Consequently, reduced flight operations and passenger volumes directly lead to decreased demand for aviation security operations, impacting service providers within the Security Services sector. This will likely result in revenue moderation for aviation security sub-segments.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2025-12-16"
+    },
+    {
+      "index": 2,
+      "title": "Commercial real estate and corporate expansion drives physical security demand",
+      "description": "Significant PE/VC investments in commercial office and warehousing real estate, coupled with the expanding footprint of corporates and a growing demand for modern office spaces, are strong tailwinds for the Security Services sector. The growth of IT/ITeS sectors, GCCs, and startups contributes to this expansion. This increasing commercial and industrial activity directly necessitates enhanced physical security guarding and alarm monitoring services to protect new and expanding facilities, assets, and personnel, ensuring sustained demand for security service providers.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2025-02-20"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Slower airport passenger traffic growth to moderate aviation security demand in FY26",
+      "description": "CareEdge Ratings projects Indian airport passenger traffic to grow at a slower rate of 4.3% in FY26, a significant downward revision from the earlier estimate of 8%. This moderated growth is attributed to cross-border tensions, aircraft inspections, and delays in wide-bodied aircraft deliveries, all of which constrained capacity. While the report primarily focuses on airport financial health, reduced passenger volume directly implies a moderated demand for aviation security operations, a key component of the Security Services sector. This indicates a cautious outlook for this specific sub-segment.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge",
+      "source_date": "2025-12-16",
+      "source_doc_id": "163d0ecd-ba22-51e7-a62b-deb6db2a6a94"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Commercial real estate and corporate expansion",
+          "description": "Increased PE/VC investments in commercial office and warehousing real estate, coupled with expanding corporate footprints and rising demand for modern office spaces, directly fuels the need for physical security guarding and alarm monitoring services to protect assets and personnel."
+        },
+        {
+          "driver": "Growth of IT/ITeS sectors, GCCs, and startups",
+          "description": "The expansion of IT/ITeS sectors, Global Capability Centres (GCCs), and startup ecosystems drives the demand for new and flexible office spaces. These facilities require robust physical security solutions, including guarding and alarm systems, to ensure safety and asset protection."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Analysis of PE/VC investment trends and demand drivers in commercial office and warehousing real estate, and their link to physical security services.",
+      "source_firm": "EY",
+      "source_date": "2025-02-20",
+      "data_confidence": "medium"
+    }
+  ],
+  "sources": [
+    "CareEdge",
+    "EY"
+  ]
+}

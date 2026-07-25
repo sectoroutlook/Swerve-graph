@@ -1,0 +1,460 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "AI-driven smart office automation for enhanced operational efficiency",
+      "description": "The deployment of AI for smart office automation is a significant structural shift. It focuses on leveraging predictive, generative, and agentic AI to transform organizations, creating new competitive advantages. This includes AI underwriting, memo copilots, and smart office automation, which diffuse productivity and reduce the need for additional hires. The goal is to reshape processes for radical gains in speed, quality, and cost, delivering substantial value.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-14"
+    },
+    {
+      "index": 2,
+      "title": "Advanced digital capabilities revolutionize office development lifecycle",
+      "description": "The adoption of advanced digital capabilities such as Geographic Information Systems (GIS), Building Information Modelling (BIM), digital twins, and Internet of Things (IoT) is transforming the office development lifecycle. These technologies improve planning precision, cost and schedule discipline, quality control, and provide real-time performance oversight. As projects scale in size and complexity, technology-driven transparency becomes integral to delivery certainty and investor confidence, enabling more efficient and predictable development of office and business parks.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 3,
+      "title": "Enhanced regulatory and compliance expectations drive digital adoption",
+      "description": "The Real Estate (Regulation and Development) Act (RERA) has significantly increased compliance, reporting, and disclosure obligations for real estate developers, including those in the office segment. Requirements for quarterly project updates, escrow-linked fund utilization, and construction progress documentation have heightened compliance complexity. This regulatory oversight, coupled with increasing buyer expectations for transparency, is driving the shift towards ERP-led digital systems to embed compliance, improve project governance, and mitigate operational risks.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 4,
+      "title": "Sustained investor confidence and capital inflows into office assets",
+      "description": "Private equity investments in India’s real estate sector reached US$6.70 billion in 2025, significantly driven by strong demand for office assets. Capital inflows were largely directed towards office assets and mixed-use developments in major cities, reflecting sustained investor confidence. Key transactions in February 2026, including investments in platforms like Nexus Select Trust, highlight continued interest in REITs and platform-led models for the office segment, indicating robust financial backing and market momentum.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 5,
+      "title": "Infrastructure-led growth boosts commercial real estate outlook",
+      "description": "The Union Budget 2026-27's strong focus on infrastructure, manufacturing, and urban development creates a constructive backdrop for India's real estate sector, including office parks. Increased public capital expenditure and proposals for high-speed rail corridors and City Economic Regions (CERs) in Tier-2 and Tier-3 cities will unlock new growth corridors and support incremental demand for various real estate asset classes. This structural support from government investment provides a long-term tailwind for the commercial segment.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-02-01"
+    },
+    {
+      "index": 6,
+      "title": "Flexible workspaces becoming the 'new normal' for businesses",
+      "description": "Flexible workspaces are rapidly becoming the 'new normal' in the office market, driven by businesses seeking agility to expand or contract quickly and maintain capital-light operations. India's flex market shows high maturity, with supply expected to reach 125 million square feet by 2027 and projected to capture 40% of GCC demand. This trend is fundamentally reshaping how companies, particularly GCCs, approach office real estate, offering plug-and-play solutions that adapt to dynamic team sizes and project requirements.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-01"
+    },
+    {
+      "index": 7,
+      "title": "Financial benefits of green-certified office buildings",
+      "description": "Green-certified office buildings offer substantial financial benefits that serve as a strong upside driver. These include lower energy bills, reduced water usage, and decreased maintenance costs due to durable materials. Furthermore, green buildings often command higher occupancy rates and rental premiums, as tenants increasingly prefer sustainable spaces. For businesses, these features translate into reduced operational costs and improved employee productivity, making green certification a clear economic advantage in the office market.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-01"
+    },
+    {
+      "index": 8,
+      "title": "Government acts as digital enabler, modernizing land records",
+      "description": "The Indian government is playing a crucial role as a digital enabler, not just a regulator. Initiatives like geo-referenced unique identifiers for over 360 million land parcels and the National Blockchain Framework verifying 34 crore property documents as of October 2025 are creating shared digital foundations. These reforms reduce opacity and transactional friction, strengthening land records and title certainty, which makes the entire real estate ecosystem, including office parks, genuinely investment-ready and more transparent.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 9,
+      "title": "Global Capability Centres (GCCs) are core demand engine for office space",
+      "description": "The rapid expansion of Global Capability Centres (GCCs) in India is the core demand engine for office space. With over 1,760 GCCs employing ~1.9 million professionals by 2025, they leased ~28 million square feet in 2025, accounting for ~40% of total office leasing. This share is expected to exceed 40% in 2026 and 2027, driving rental upside, accelerating new business district development, and underpinning strong demand for Grade A office assets across major cities.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 10,
+      "title": "Institutional capital demands transparency, accelerates digitization in office RE",
+      "description": "Growing participation from institutional investors, including private equity funds, REITs, and alternative investment funds (AIFs), has significantly raised expectations for transparency, governance, and data accessibility in the office real estate sector. These investors increasingly require real-time financial visibility and standardized reporting as part of their investment and monitoring frameworks. This demand acts as a powerful catalyst, driving developers and operators to adopt technology-enabled platforms, making digitization a prerequisite for building trust and securing sustained access to institutional capital.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 11,
+      "title": "Bifurcating office market favors prime assets in ecosystems",
+      "description": "The office market is undergoing a sharp bifurcation, with value concentrating around prime offices within dense, amenity-rich urban ecosystems. Non-prime, undifferentiated assets are becoming increasingly uneconomic, suffering negative absorption while prime stock gains. Capital markets are now repricing assets based on their 'ecosystem positioning' rather than just square footage. This necessitates that office developers focus on creating integrated environments that offer experiences, identity, and interaction to attract tenants and investors.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-13"
+    },
+    {
+      "index": 12,
+      "title": "Shift towards Grade A, future-ready office stock",
+      "description": "India's office market is undergoing a significant transformation, moving decisively from generic office stock toward Grade A, future-ready buildings. Businesses increasingly demand modern infrastructure (high-speed connectivity, backup power), sustainability (LEED/IGBC certified), flexibility (adaptable work models), and strategic locations (proximity to transit and amenities). This shift drives demand for premium office spaces, impacting development strategies and investment focus to meet evolving occupier expectations for quality and performance.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-01"
+    },
+    {
+      "index": 13,
+      "title": "REITs poised for significant penetration in office stock",
+      "description": "Real Estate Investment Trusts (REITs) are set to dramatically increase their ownership of India's office stock, from ~16% in FY25 to an expected 25-30% by 2030. This growth is driven by their ability to open the market to deeper, more patient institutional capital for income-generating office assets. This structural shift provides an upside driver by enhancing liquidity, attracting diverse investors, and fostering professional management, thereby strengthening the overall financial framework and stability of the office real estate sector.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-02-01"
+    },
+    {
+      "index": 14,
+      "title": "Rapid AI adoption transforms India's corporate real estate sector",
+      "description": "AI adoption in India's corporate real estate sector dramatically increased from under 5% in 2023 to 91% in 2025. This rapid integration signifies a fundamental shift in how assets are conceived, built, sold, and governed. AI-driven valuation models and demand analytics are replacing individual judgment with auditable data, enhancing project outcomes and decision-making rigor across the full project lifecycle, from land identification to asset management.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 15,
+      "title": "Rising cost pressures squeeze developer margins, necessitating efficiency",
+      "description": "Escalating input costs, particularly for land, materials, and labor, are compressing developer margins across the real estate sector. This financial pressure makes technology adoption increasingly critical for offsetting costs by driving efficiency and improving project outcomes. Digital tools that enhance planning accuracy, reduce rework, and provide real-time visibility enable tighter cost control, faster decision-making, and stronger margin protection for office park developers amidst rising operational expenses.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 16,
+      "title": "IoT-driven automation enhances office building efficiency and reduces costs",
+      "description": "Connected sensors and digital automation are enhancing real-time visibility into how office buildings function across their operational lifecycle. IoT-driven insights allow facility teams to detect issues early, minimize disruptions, streamline maintenance schedules, and significantly improve energy performance. This strengthens overall operational efficiency and reduces long-term management costs for office and business parks, transforming facility management from a cost center into a strategic capability that drives value.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 17,
+      "title": "ESG performance leads to 'brown discounts' for non-sustainable office assets",
+      "description": "Environmental, Social, and Governance (ESG) performance now critically impacts the financial viability of office assets. Buildings without credible net-zero plans are facing 'brown discounts' of 10% to 15% in major markets, with the gap widening. Lenders are also factoring climate performance into loan terms, resulting in typically higher loan rates for non-certified assets. This makes sustainability a financial imperative, as non-compliant properties risk devaluation and increased financing costs for office owners and developers.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-13"
+    },
+    {
+      "index": 18,
+      "title": "Diversifying GCC demand from tech to multi-sector growth",
+      "description": "Global Capability Centre (GCC) demand is diversifying beyond its traditional tech-led focus, expanding into banking, financial services and insurance (BFSI) and engineering/manufacturing sectors. These multi-sector GCCs have seen 3-4x growth between 2021 and 2025, and are expected to contribute over 40% of GCC space uptake going forward. This shift broadens the demand base for office spaces, making the market more resilient and less susceptible to fluctuations in a single industry, signaling a robust structural change.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-01"
+    },
+    {
+      "index": 19,
+      "title": "Challenges impede Proptech and AI adoption in real estate",
+      "description": "Despite the transformative potential, significant challenges impede widespread Proptech and AI adoption in the office real estate sector. These include evolving property data standards limiting seamless digital verification, modest digital and AI readiness across developers and public bodies, and limited interoperability between diverse platforms. Elevated costs of advanced tools and uncertainties surrounding AI-based approvals, data privacy, and cybersecurity further constrain uptake, posing key risks to achieving full technological integration and efficiency gains.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-01"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "GCC expansion drives office market rental appreciation and new developments",
+      "description": "KPMG identifies the rapid expansion of Global Capability Centres (GCCs) as a core demand engine for India's office market. The firm projects continued significant leasing activity from GCCs, which drove rental appreciation and the development of new business districts. With over 1,700 GCCs in India by 2025, their sustained demand for office space, particularly Grade A assets, is a key positive for the sector's growth trajectory and future profitability.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "source_doc_id": "b0f283ae-1fa3-5001-b840-a82ca3402ab3"
+    },
+    {
+      "index": 2,
+      "title": "India's office market poised for robust growth, driven by GCCs and flexible spaces",
+      "description": "IBEF provides a positive outlook for India's office market, forecasting annual office space demand to stabilize at 70-75 million sq ft in 2026. This growth is underpinned by sustained occupier demand from Global Capability Centres (GCCs), the increasing adoption of flexible workspaces, and a growing preference for Grade A office assets. The market's momentum reflects its strengthening position as a strategic global business hub, ensuring resilient future prospects.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "d1a2571c-4309-579c-ae1a-98b3905e28d2"
+    },
+    {
+      "index": 3,
+      "title": "Bifurcating office market: Prime assets in ecosystems outperform non-prime",
+      "description": "BCG observes a structural bifurcation in the global office real estate market, with prime offices situated within dense, amenity-rich urban ecosystems significantly outperforming non-prime assets. In Q4 2025, prime office vacancy rates were 5.6 percentage points lower than overall, while non-prime buildings experienced negative absorption. Capital markets are now re-pricing assets based on ecosystem positioning, making undifferentiated properties increasingly uneconomic and highlighting a critical shift in value creation.",
+      "stance": "cautious_positive",
+      "source_firm": "BCG",
+      "source_date": "2026-03-13",
+      "source_doc_id": "bf9f2b40-7f5b-5b37-94eb-981034817f81"
+    },
+    {
+      "index": 4,
+      "title": "Flexible workspaces and REITs reshape office market dynamics",
+      "description": "KPMG predicts flexible workspaces will become the 'new normal' in India's office market, with supply expected to reach 125 million square feet by 2027 and capturing 40% of GCC demand. Simultaneously, Real Estate Investment Trusts (REITs) are forecast to significantly increase their ownership of India's office stock, from 16% in FY25 to 25-30% by 2030. This signals deeper capital market participation and institutional interest in income-generating office assets.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-02-01",
+      "source_doc_id": "828cfec3-9a9c-5225-a88a-962853ba05f3"
+    },
+    {
+      "index": 5,
+      "title": "AI becoming standard for smarter, more efficient commercial assets",
+      "description": "KPMG highlights AI's transformative role in commercial real estate, moving from experimental to standard practice in leading assets. AI-powered tools enhance lease management, sharpen tenant screening, and optimize building operations by dynamically adjusting energy systems and predicting equipment failures. This integration leads to measurable benefits including lower operating costs, faster decision-making, and the creation of smarter, more efficient buildings, fundamentally reshaping property management and operational performance.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-02-01",
+      "source_doc_id": "828cfec3-9a9c-5225-a88a-962853ba05f3"
+    },
+    {
+      "index": 6,
+      "title": "Office segment shows stable growth with strong quality focus expected in 2026",
+      "description": "KPMG projects stable growth for the office segment into 2026, noting 59.6 million sq ft of absorption in the first nine months of 2025. Demand is primarily driven by domestic companies and expanding Global Capability Centres (GCCs). A clear trend is the increasing shift towards better-quality, well-located office assets, as occupiers prioritize upgrades. This momentum indicates continued resilience and opportunity, particularly for premium offerings in the market.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG",
+      "source_date": "2025-12-01",
+      "source_doc_id": "0ef526d1-2e13-5725-b6f8-412a42f5b12b"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Global Capability Centre (GCC) Expansion",
+          "description": "Foreign firms are leasing office space to set up or expand their GCC operations in India, driven by India's talent pool and cost efficiencies."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "9.1 million square feet of office space leased by foreign firms in India's top nine cities during Q1 2026. This activity is driven by the establishment of Global Capability Centres (GCCs) in India.",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Shift to Grade-A Office Stock",
+          "description": "Increasing demand from businesses for modern, future-ready, and sustainable office spaces drives leasing towards Grade-A assets."
+        },
+        {
+          "driver": "Global Capability Centre (GCC) Growth",
+          "description": "GCCs are a primary engine of demand, seeking quality spaces for their expanding operations."
+        },
+        {
+          "driver": "Flexible Workspaces Adoption",
+          "description": "Growing preference for flexible and co-working spaces by corporates contributes to overall office market absorption."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's office market leasing activity reached 82.7 million square feet in 2025. Grade-A office leasing contributed significantly, crossing 70 million square feet across India's top seven cities within the same period. This indicates strong occupier demand and a preference for high-quality assets.",
+      "source_firm": "KPMG",
+      "source_date": "2026-02-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Global Capability Centre (GCC) Expansion",
+          "description": "The continuous growth and establishment of new GCCs in India significantly boosts office space demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Leasing of office spaces for Global Capability Centres (GCCs) surged by 24% year-on-year to 31.8 million square feet (sq. ft) across seven major Indian cities in FY25. GCCs accounted for 42% of the pan-India office space absorption in FY25, highlighting their significant contribution to office market demand. This trend is expected to continue.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 123.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2029,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Institutional Demand",
+          "description": "Growing interest from institutional investors in income-generating office assets via REITs."
+        },
+        {
+          "driver": "CPSE Asset Monetization",
+          "description": "Proposed dedicated REITs for CPSE-owned assets to unlock value from underutilized government real estate."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "REITs are poised for rapid growth, with projections of 25-30% penetration in the office segment by 2030, up from 16% in FY25, offering a significant pathway for capital deployment.",
+          "opportunity": "Increased Office REIT Penetration"
+        }
+      ],
+      "methodology": "India’s Real Estate Investment Trust (REIT) sector, driven by institutional demand in office and retail assets, surpassed US$11.43 billion in market capitalization by November 2025. It is projected to expand significantly to an estimated US$123 billion opportunity by 2029, with office REITs alone expected to constitute 25-30% of India’s total office stock by 2030, a sharp increase from ~16% in FY25.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": 253.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2033,
+      "forecast_cagr": 19.8,
+      "forecast_cagr_period": "2025-2033",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Global Capability Centre (GCC) Expansion",
+          "description": "Rapid growth of GCCs in India drives demand for commercial office spaces."
+        },
+        {
+          "driver": "Flexible Workspaces",
+          "description": "Increasing adoption of flexible office models by businesses contributes to market expansion."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's commercial real estate market (including office) is projected to grow at a 19.8% Compound Annual Growth Rate (CAGR) to reach US$253 billion by 2033. This growth is powered by the rapid rise of Global Capability Centres (GCCs), the spread of flexible workspaces, and a rebound in retail.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": 21.0,
+      "forecast_cagr_period": "202X-2027",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Corporate Demand for Flexibility",
+          "description": "Businesses increasingly seek adaptable office solutions that can expand or contract based on needs, reducing capital commitments."
+        },
+        {
+          "driver": "GCC Demand",
+          "description": "Global Capability Centres utilize flexible spaces for projects with varying team sizes, driving significant uptake."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's flexible office space supply is expected to reach 125 million square feet by 2027, growing at a Compound Annual Growth Rate (CAGR) of 21-22%. This segment is also projected to capture 40% of Global Capability Centre (GCC) demand by 2027, underscoring its pivotal role in the evolving office market.",
+      "source_firm": "KPMG",
+      "source_date": "2026-02-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 7,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Global Capability Centre (GCC) Expansion",
+          "description": "GCCs continue to be a primary driver of office space absorption."
+        },
+        {
+          "driver": "Flexible Workspace Adoption",
+          "description": "Increasing demand for flexible and managed office solutions from corporates."
+        },
+        {
+          "driver": "Preference for Grade A Office Assets",
+          "description": "Occupiers are upgrading to high-quality, well-located office buildings."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Annual office space demand in India is projected to stabilize at approximately 70-75 million square feet (MSF) in 2026. This forecast is supported by sustained occupier demand from Global Capability Centres (GCCs), rising adoption of flexible workspaces, and a continued preference for Grade A office assets.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 8,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "2019-2025",
+      "demand_drivers": [
+        {
+          "driver": "Sustainability Mandates and Preferences",
+          "description": "Increasing emphasis on ESG performance and tenant preference for energy-efficient, green-certified office spaces."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Higher Occupancy and Rental Premiums",
+          "description": "Green-certified buildings often attract higher occupancy rates and rent premiums due to their appeal to environmentally conscious tenants and corporate ESG goals."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Green-certified Grade-A office stock in India grew from 322 million square feet (MSF) in 2019 to 530 MSF in H1 2025 across the top seven cities, representing 61% of the total Grade-A office market. This indicates a significant and growing adoption of green building standards like LEED and IGBC within the prime office segment.",
+      "source_firm": "KPMG",
+      "source_date": "2026-02-01",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "KPMG",
+    "IBEF",
+    "BCG"
+  ]
+}

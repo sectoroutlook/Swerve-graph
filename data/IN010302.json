@@ -1,0 +1,249 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Rising G-Sec Yields Increase Wind Project Financing Costs",
+      "description": "Wind power projects are heavily reliant on debt financing, making their Internal Rate of Return (IRR) highly sensitive to borrowing costs. A 100bps rise in G-Sec yields can significantly increase project finance costs, potentially rendering many sub-₹4/kWh bids unviable at SECI auctions. This directly impacts the economic feasibility and deployment of new wind capacity.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-27"
+    },
+    {
+      "index": 2,
+      "title": "High Steel Prices Inflate Wind Turbine Manufacturing Costs",
+      "description": "Hot Rolled Coil (HRC) steel is a critical input for wind turbine manufacturing, with tower sections being the largest steel consumer (~200-250 tonnes per MW). Rising HRC steel prices directly increase the capital expenditure (CAPEX) for wind projects, negatively impacting the overall cost-competitiveness and profitability of wind energy developers and manufacturers.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-19"
+    },
+    {
+      "index": 3,
+      "title": "Increasing Copper Prices Drive Up Wind Turbine Component Costs",
+      "description": "Copper is a significant material input for wind turbines, used in generator windings, transformers, and cables (~3-4 tonnes per MW). An increase in copper prices directly raises the manufacturing costs of these components, contributing to higher overall project CAPEX for wind power installations. This impacts the financial viability and profitability of wind energy projects.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-19"
+    },
+    {
+      "index": 4,
+      "title": "Growing Global Debt Issuance for Capital-Intensive Clean Energy",
+      "description": "Global non-financial corporate debt is increasing, with a notable shift in composition towards capital-intensive sectors like clean energy, including wind power. This trend reflects the significant upfront funding required for such industries, making debt markets increasingly important. The availability of long-duration capital for these structural investment themes provides a strong tailwind for wind power development.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-27"
+    },
+    {
+      "index": 5,
+      "title": "Increased MNRE Budget Allocation Fuels Renewable Energy Expansion",
+      "description": "The Union Budget 2026-27 significantly boosts India’s renewable energy push, with the Ministry of New and Renewable Energy (MNRE) allocation reaching Rs. 44,614.67 crore (US$ 5.05 billion), a 40.52% increase. This enhanced support for renewable capacity expansion and energy transition provides a strong tailwind for the wind power sector, facilitating new projects and strengthening the overall ecosystem.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 6,
+      "title": "Government Transmission Plan Supports Large-Scale Renewable Integration",
+      "description": "The Government of India has finalized a transmission expansion plan under the National Electricity Policy (NEP) 2022–32, entailing a capital outlay of Rs 9.16 lakh crore. This plan aims to enhance transmission capacity, integrate renewable energy, and boost energy security. It directly supports the evacuation of power from large-scale wind projects, addressing a critical bottleneck for their deployment and grid stability.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-14"
+    },
+    {
+      "index": 7,
+      "title": "Prioritising Affordable Land and Robust Grid for Renewables Growth",
+      "description": "Research indicates that affordable land and a robust grid are the most influential factors for scaling solar and wind energy, surpassing resource abundance and short-term regulatory targets. This suggests a fundamental shift in deployment strategy, emphasizing these foundational elements. For wind power, this means focusing on regions with low land costs and investing proactively in transmission infrastructure to enable efficient project development and power evacuation.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-07"
+    },
+    {
+      "index": 8,
+      "title": "Wind Energy Repowering Policy to Optimise Existing Resources",
+      "description": "A new repowering policy is designed to promote the optimal utilization of wind energy resources by facilitating the upgrading of older wind farms. This includes providing an interest rate rebate of 0.25% and extending all fiscal and financial benefits of new wind power projects to repowering initiatives. This policy acts as an upside driver by enhancing efficiency and unlocking additional capacity from existing sites.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 9,
+      "title": "Transmission Project Delays Impede Renewable Energy Integration",
+      "description": "The Indian power transmission sector faces significant execution challenges, including right-of-way constraints, approval delays, and land acquisition issues. These hurdles have resulted in the underachievement of transmission targets, directly impeding the timely integration and evacuation of power from new wind energy projects. Such delays can increase project costs and prolong commissioning timelines, posing a key risk to the wind power sector's growth.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-14"
+    },
+    {
+      "index": 10,
+      "title": "Expanding Power Demand Driven by Electrification and Population Growth",
+      "description": "India's rising population and widespread electrification, especially in rural areas, are significantly fueling the demand for energy across homes, businesses, and communities. This growing electricity consumption is a fundamental tailwind for the entire power sector, including wind power, as it creates a continuous need for new generation capacity to meet the expanding load.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 11,
+      "title": "Supply Chain Risks from Critical Minerals for Wind Turbines",
+      "description": "The production of wind turbines, especially permanent magnet direct-drive generators, depends on critical minerals like neodymium. While these minerals are plentiful, their geographical concentration in refining, processing, and manufacturing creates potential choke points and supply chain risks. Price volatility or supply disruptions in these critical inputs could increase costs and impact the timely delivery of wind turbine components.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-09"
+    },
+    {
+      "index": 12,
+      "title": "Investments in Wind-Solar Hybrid Projects Increase Grid Stability",
+      "description": "Increasing investments in wind-solar hybrid projects and battery energy storage systems (BESS) are crucial for ensuring Round-the-Clock (RTC) power supply. Hybrid projects bundle variable renewable power with other sources to overcome natural limitations, providing a stable grid. This trend supports greater integration of wind power, reducing intermittency concerns and enhancing its value proposition for distribution companies (DISCOMs).",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 13,
+      "title": "Fiscal Deficit Impacts Government Support for Wind Sector",
+      "description": "A widening fiscal deficit could constrain government spending on critical support mechanisms for the wind sector. This includes the risk of removing the Inter-State Transmission System (ISTS) waiver and delays in payment guarantees from the Solar Energy Corporation of India (SECI). Both factors directly affect the cash flows and economic viability of wind projects, posing a financial headwind.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-27"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Transmission Capex Critical for Renewable Energy Growth, Faces Execution Challenges",
+      "description": "The Indian power transmission sector anticipates significant capital expenditure growth due to rising peak demand and rapid renewable energy additions. This provides a robust foundation for wind power integration. However, the sector faces execution challenges like right-of-way issues, approval delays, and land acquisition, which have led to underachieved targets. Despite these, the overall outlook remains stable, supported by asset resilience and policy support, indicating a cautious positive for wind power integration.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-05-14",
+      "source_doc_id": "b6e62feb-9920-5b46-9751-87f53127ae9a"
+    },
+    {
+      "index": 2,
+      "title": "Infrastructure Sector Resilient, but Financing and Execution are Key for Renewables",
+      "description": "The infrastructure sector, including renewables, maintains sound fundamentals, benefiting from a predominantly domestic revenue profile and stable cash flow visibility. However, large renewable sponsors face risks from rising non-project debt and mid-sized EPC players experience increased working capital pressures. Despite these challenges, execution capability and the ability to mobilize long-term equity capital are identified as crucial differentiators for sustaining growth in the infrastructure space, including wind power.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-17",
+      "source_doc_id": "837065f0-1456-5245-a0c5-8fbf7afd96e5"
+    },
+    {
+      "index": 3,
+      "title": "India's Wind Sector Targets 100 GW by 2030 with Strong Manufacturing Base",
+      "description": "India's wind energy sector is making significant strides toward its ambitious target of 100 GW production by 2030, supported by an installed capacity of over 50 GW. The country boasts an annual domestic manufacturing capacity exceeding 18 GW for wind turbines and components, indicating robust local support. This, alongside the fourth-place global ranking in installed wind power capacity, positions India positively for continued expansion and achieving its targets.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "c0f80035-98da-553e-81a7-3c8094118a4d"
+    },
+    {
+      "index": 4,
+      "title": "Affordable Land and Robust Grid are Primary Drivers for Scaling Renewables",
+      "description": "An analysis of renewable energy scale-up in the US and China reveals that cheap land and existing renewable capacity are the strongest signals for growth in wind and solar. A robust grid and growing power demand also contribute significantly. While policy targets matter in the short term, their long-term impact is minimal. Policymakers should focus on reducing land costs and proactive grid investment to accelerate wind power deployment, enabling viable projects.",
+      "stance": "positive",
+      "source_firm": "BCG",
+      "source_date": "2026-04-07",
+      "source_doc_id": "a436df06-332b-5f4d-a232-ba84ce246e6f"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 50.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2026-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "National Renewable Energy Targets",
+          "description": "Government targets of 500 GW non-fossil capacity by 2030, with specific wind targets, drive capacity additions."
+        },
+        {
+          "driver": "Growing Power Demand",
+          "description": "India's peak power demand is projected to increase to 458 GW by FY32, requiring significant renewable energy contribution."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "India's annual domestic manufacturing capacity of over 18 GW for wind turbines and components supports local projects and reduces import reliance.",
+          "opportunity": "Domestic Wind Turbine Manufacturing"
+        }
+      ],
+      "methodology": "As of February 2026, India's installed wind energy capacity is over 50 GW. The Indian Wind Turbine Manufacturers Association (IWTMA) projects a target of 100 GW by 2030.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 102.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Renewable Energy Mix Diversification",
+          "description": "Utilizing diverse renewable sources to meet ambitious clean energy targets and reduce reliance on a single technology."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "A significant commercially exploitable potential of 102 GW indicates substantial room for future wind power development.",
+          "opportunity": "Untapped Wind Resource Utilization"
+        }
+      ],
+      "methodology": "Estimated commercially exploitable potential of wind power in India from a National Institute of Solar Energy (NISE) report.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 3,
+      "tam_value": 4613.0,
+      "tam_unit": "MW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Overall Power Sector Expansion",
+          "description": "Record expansion in India's total installed generation capacity, driven by renewable energy additions."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Reported annual addition of wind power capacity during FY2025-26 (till Jan 2026) within the broader renewable energy sector.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "CareEdge Ratings",
+    "IBEF",
+    "BCG"
+  ]
+}

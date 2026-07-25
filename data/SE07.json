@@ -1,0 +1,531 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Shift from Market to Bank Financing Boosts Credit Growth",
+      "description": "Elevated corporate bond yields in Q4FY26 and early FY27 reduced the attractiveness of market borrowings for NBFCs and large corporates. This prompted a significant shift towards bank financing to meet incremental funding needs and refinance liabilities, driving strong credit growth in the banking sector. While beneficial for banks in the short term, this trend is opportunistic and could moderate if bond market yields ease, leading to a partial shift back to market borrowings.",
+      "type": "cyclical_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-08"
+    },
+    {
+      "index": 2,
+      "title": "AI Reshaping Financial Services Operations and Talent Landscape",
+      "description": "AI is becoming the most important technology in fintech, fundamentally reshaping how financial services are built and delivered. Early gains are evident in operational and workflow-heavy domains like underwriting, fraud, AML, and customer support, where AI reduces cycle times and labor-intensive tasks. This necessitates a redesign of organizational roles and processes, demanding new skills and questioning traditional talent pipelines, with a potential for a two-tier future for capability development.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 3,
+      "title": "Rising Cyber-Enabled Financial Fraud Threatens Digital Trust",
+      "description": "The rapid expansion of digital payments infrastructure, especially UPI in India, has created a vast and vulnerable attack surface for cyber-enabled fraud. Organized cybercrime uses AI (deepfakes, voice cloning), stolen credentials, and complex money laundering schemes across borders. This poses a significant risk of financial losses, erosion of customer trust, and challenges for regulatory oversight. Effective defense requires advanced forensic capabilities, rapid reporting, and strong cross-jurisdictional cooperation.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 4,
+      "title": "Persistent Pressure on Bank Net Interest Margins (NIMs)",
+      "description": "Net Interest Margins (NIMs) for Indian Scheduled Commercial Banks (SCBs) continued to decline by 11 bps year-on-year to 2.87% in Q4FY26. This sustained pressure stems from elevated deposit costs, a shift towards higher-cost term deposits, and the gradual transmission of lower lending rates. Additionally, treasury losses due to rising government bond yields further impact interest income, limiting the overall profitability despite healthy credit growth.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-29"
+    },
+    {
+      "index": 5,
+      "title": "Strong Asset Quality and Capital Buffers Support Banking Sector Resilience",
+      "description": "Indian SCBs reported continued improvement in asset quality in Q4FY26, with the Gross Non-Performing Assets (GNPA) ratio declining to a multi-year low of 1.8% and Net NPA ratio remaining stable at 0.4%. Provision Coverage Ratios (PCR) remained robust at 77.9%, and capital adequacy ratios (CET-1 at 16.2%, CAR at 17.9%) exceeded regulatory benchmarks. This strong financial health provides resilience against potential shocks and supports continued credit expansion, enhancing investor confidence.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-29"
+    },
+    {
+      "index": 6,
+      "title": "Geopolitical Tensions Pose Risk to MSME and Credit Quality",
+      "description": "Elevated geopolitical tensions in West Asia and persistent global supply chain disruptions pose a key risk to Indian banks, particularly through their exposure to export-oriented MSMEs. These tensions can lead to disruptions in trade flows, longer receivable cycles, and increased input/logistics costs, pressuring MSME working capital and cash flows. While asset quality remains stable for now, any prolonged conflict could lead to stress emerging in Q2FY27/H2FY27, requiring higher prudential provisions.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-08"
+    },
+    {
+      "index": 7,
+      "title": "Private Equity Shifting Focus to Operational Value Creation",
+      "description": "The private equity industry is facing a more difficult and competitive era due to higher interest rates, stubbornly high asset prices, and less multiple expansion. Generating consistent returns now requires a sharp focus on operational value creation, emphasizing margin expansion and cash discipline within portfolio companies. PE firms are adopting 'zero-based transformations' and leveraging AI for rapid cost reset and operational redesign, moving beyond episodic cost-cutting to structural changes.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-08"
+    },
+    {
+      "index": 8,
+      "title": "Slowdown in Private Equity Dealmaking and Exit Activity",
+      "description": "Private equity investment and exit activity remains subdued in early 2026 due to market disruptions, uncertainty over AI's impacts, and widening bid-ask spreads. The 'deal cost index' (combining purchase multiples and financing costs) is in record territory, making new deals expensive. Exit momentum is stalled, leading to record-low distributions as a percentage of NAV and a prolonged capital cycle, creating pressure on GPs and LPs.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-08"
+    },
+    {
+      "index": 9,
+      "title": "Growing Digital Payment Penetration Fuels Financial Inclusion",
+      "description": "The expansion of digital payment infrastructure like UPI, coupled with initiatives such as the digitalization of Kisan Credit Card (KCC) and the establishment of Digital Banking Units in rural areas, is driving significant financial inclusion. UPI transactions are robust, indicating deeper adoption across retail and merchant segments. This increased access to formal financial services supports broader economic participation and creates new opportunities for fintechs and banks in underserved markets.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 10,
+      "title": "Fintech Maturation Demands Discipline and Regulatory Compliance",
+      "description": "The fintech sector is transitioning from a boom period of speculative optimism to a more mature and demanding environment. Success now hinges on demonstrating profitable growth, operational discipline, and robust compliance maturity. Public investors are scrutinizing profitability, customer concentration, and regulatory adherence. This requires fintechs to not only innovate but also scale effectively within evolving regulatory frameworks, defining the next generation of industry leaders.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 11,
+      "title": "Expansion of Credit Card Market Driven by Digital Adoption and Tier-2/3 Cities",
+      "description": "The Indian credit card industry shows steady growth, with the outstanding card base expanding (8.1% y-o-y). This is fueled by increasing digital adoption, expanding merchant acceptance, and rising usage of UPI-linked credit cards. Public Sector Banks (PSBs) are gaining significant traction through deeper penetration in semi-urban and rural markets, driving the next phase of expansion, particularly in Tier-2 and Tier-3 cities, leveraging RuPay and UPI integration.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-29"
+    },
+    {
+      "index": 12,
+      "title": "Evolution of Insurance Market with Private Sector and AI Integration",
+      "description": "The Indian insurance sector is rapidly evolving, with private insurers steadily increasing their market share and demonstrating strong growth across various segments like motor and health insurance. This transformation is significantly influenced by regulatory reforms, 100% FDI, and technological integration. AI, RPA, IoT, and AI chatbots are revolutionizing policy servicing, claims management, and customer experience, creating a more efficient and customer-centric industry.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 13,
+      "title": "ECL Framework Implementation Increases Provisioning Requirements",
+      "description": "The transition to the Expected Credit Loss (ECL) framework represents a structurally positive development for the Indian banking system, reinforcing transparency and risk sensitivity. However, it also means that banks will face increased provisioning requirements, particularly as 'Stage 2' assets gain importance. This shift could potentially offset margin gains from higher-yielding but riskier assets and compress returns on total assets, requiring careful balance sheet management and underwriting.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-29"
+    },
+    {
+      "index": 14,
+      "title": "Unsecured Retail Segment Stress Requires Cautious Approach",
+      "description": "Despite overall stability, stress in select unsecured retail segments, particularly lower-ticket and revolving credit portfolios, remains a key monitorable for the credit card industry and broader banking sector. Banks are expected to maintain a cautious and calibrated approach to card sourcing, underwriting, credit line expansion, and monitoring of borrower overlaps across personal loans, consumer durable financing, and credit cards to mitigate potential asset quality concerns.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-29"
+    },
+    {
+      "index": 15,
+      "title": "Adoption of Generative AI in Banks for Core Operations",
+      "description": "Seven public sector banks have introduced 32 generative AI applications across critical functions like credit appraisal, underwriting, and risk management under the EASE 8.0 Programme. This signifies a move towards technology-led banking transformation, aiming for improved operational efficiency and faster decision-making. As banks scale investments in data analytics, generative AI, and digital infrastructure, technology spending is expected to increase, potentially leading to a decline in employee costs as a share of total expenses.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Credit Growth Resilient, but Sustainability Dependent on Funding Mix and Geopolitics",
+      "description": "Non-food bank credit growth remains strong at 15.8% y-o-y in April 2026, driven by retail, MSMEs, NBFCs, and infrastructure. However, a significant portion of this strength stems from a temporary shift from market borrowings to bank funding due to elevated corporate bond yields. Geopolitical tensions in West Asia and crude oil prices pose risks to export-oriented MSMEs and could lead to tighter financial conditions, potentially tempering future bank credit growth if market funding conditions ease or if the conflict prolongs.",
+      "stance": "cautious_positive",
+      "source_firm": "careedge",
+      "source_date": "2026-06-08",
+      "source_doc_id": "d3ddc6aa-1a10-513b-9336-a44f895deb63"
+    },
+    {
+      "index": 2,
+      "title": "Private Equity Returns Now Reliant on Operational Value Creation Amid Market Shifts",
+      "description": "The traditional playbook for private equity returns, relying on multiple expansion and cheap leverage, is losing effectiveness. Current market conditions, characterized by more expensive and harder-to-access leverage, necessitate a shift towards operational value creation through margin expansion and cash discipline. PE firms must focus on ground-up cost resets, enabled by AI-powered analytics, to sustain performance and deliver durable margin improvement for successful exits.",
+      "stance": "cautious_positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-06-09",
+      "source_doc_id": "0f9a297d-8260-57e0-b572-a2bb012c9911"
+    },
+    {
+      "index": 3,
+      "title": "Fintech Rebound Driven by Operating Performance, Maturing Beyond Speculation",
+      "description": "The global fintech sector has rebounded, with revenues surpassing $0.5 trillion in 2025 (22% y-o-y growth), significantly outperforming incumbents. This resurgence is driven by improved operating performance, rising EBITDA margins, and selective investor funding focused on clear economics and credible paths to scale, indicating a maturation of the sector. However, public market confidence lags, requiring fintechs to demonstrate sustained profitability and compliance to unlock full value.",
+      "stance": "positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-06-01",
+      "source_doc_id": "75d658d7-be2e-58ef-a924-4c43af5010af"
+    },
+    {
+      "index": 4,
+      "title": "Digital Payments Scale Creates Significant Fraud Surface, Requiring Advanced Forensics",
+      "description": "India's rapid adoption of digital payments, notably UPI with 24,162 crore transactions (INR 314 lakh crore) in FY26, has created an expansive attack surface for cyber-enabled fraud. Traditional fraud investigation methods are insufficient; a shift to 'next-generation forensic' is needed. This involves identity-centric, cloud-aware, payment-aware approaches, supported by AI and cross-jurisdictional cooperation, to combat increasingly organized and transnational financial crime, essential for maintaining trust and resilience.",
+      "stance": "cautious_negative",
+      "source_firm": "kpmg",
+      "source_date": "2026-06-01",
+      "source_doc_id": "ccc44e9c-af6b-534b-b14a-f19981b6af9d"
+    },
+    {
+      "index": 5,
+      "title": "AI's Impact on Financial Services Demands Proactive Workforce and Workflow Redesign",
+      "description": "Financial services leaders face critical decisions regarding AI's profound impact on talent pipelines, capability development, and workflows. While AI can automate tasks and elevate human work, it necessitates a deliberate workforce redesign focused on empathy, complex judgment, and accountability, rather than merely inserting humans into AI-driven processes. Organizations must also develop new decision-making frameworks, data foundations, and governance models to manage both the opportunities and risks of AI integration effectively.",
+      "stance": "cautious_positive",
+      "source_firm": "bain",
+      "source_date": "2026-06-04",
+      "source_doc_id": "7d299e54-fe21-5fa5-8b45-234933458a01"
+    },
+    {
+      "index": 6,
+      "title": "Indian Banks Maintain Profitability Amid Margin Pressure and Geopolitical Risks",
+      "description": "Indian Scheduled Commercial Banks (SCBs) sustained net profits above ₹1 lakh crore in Q4FY26 with 11.8% y-o-y growth, supported by strong credit growth and improved asset quality. However, net interest margins (NIM) compressed by 11 bps due to elevated deposit costs and treasury losses from rising bond yields. While asset quality remains stable, geopolitical tensions and the transition to the Expected Credit Loss (ECL) framework necessitate increased provisioning, posing potential future challenges to profitability.",
+      "stance": "cautious_positive",
+      "source_firm": "careedge",
+      "source_date": "2026-05-29",
+      "source_doc_id": "3bab163f-86a4-51f4-aecf-26437ad69b2d"
+    },
+    {
+      "index": 7,
+      "title": "Indian Financial Services Poised for Strong Growth Driven by Digitalization and Wealth",
+      "description": "India's financial services sector is set for substantial growth, with mutual fund AUM projected to reach US$2.3 trillion by FY29 and private wealth expected to make India the 4th largest market globally by 2028. This expansion is fueled by digitalization, policy support for financial inclusion, and rising income. Innovation in AI, tokenization, and digital infrastructure are democratizing finance, positioning India as a competitive, technology-driven financial hub with strong profit growth expected for NBFCs.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "source_doc_id": "e40fa7ac-c724-5a09-99f5-7614bab03a16"
+    },
+    {
+      "index": 8,
+      "title": "Insurance Sector Set for Robust Expansion with Private Players and Technology Lead",
+      "description": "The Indian insurance sector is projected for significant growth, with the country becoming the sixth-largest market globally within a decade. Private non-life insurers are set to increase their market share to 70% by FY27, driven by strong growth in motor, health, and SME segments. Technological advancements like AI, RPA, and IoT, coupled with initiatives like 'Bima Sugam' and 100% FDI, are creating attractive opportunities for deeper penetration, personalized services, and increased efficiency.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "source_doc_id": "308418fe-3390-5763-a8bc-b6aa720ae7c0"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 314.0,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Digital Payment Adoption",
+          "description": "UPI's widespread acceptance and ease of use continues to drive high transaction volumes and value across India."
+        },
+        {
+          "driver": "Financial Inclusion Initiatives",
+          "description": "Government and RBI initiatives promoting digital payments and accessibility contribute to broader usage."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total value of UPI transactions processed in FY 2025–26, representing approximately 85% of India’s digital payments volume.",
+      "source_firm": "kpmg",
+      "source_date": "2026-06-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 0.5,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Digital Transformation",
+          "description": "Increased adoption of technology in financial services by consumers and businesses."
+        },
+        {
+          "driver": "Investor Appetite",
+          "description": "Return of selective equity funding to fintechs with clear economics and credible paths to scale."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "EBITDA Margin Improvement",
+          "description": "Among the largest 85 public fintechs, average EBITDA margins increased by 4 percentage points in 2025 to 20%, with 74% now profitable."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Total global fintech revenue surpassed this amount in 2025, growing 22% year-over-year and over four times faster than incumbent revenues.",
+      "source_firm": "bcg_global",
+      "source_date": "2026-06-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising Income Levels",
+          "description": "Increased disposable income across various brackets fuels demand for diverse financial products and services."
+        },
+        {
+          "driver": "Digital Transformation & Innovation",
+          "description": "AI, tokenization, and digital infrastructure expand access, improve efficiency, and democratize finance."
+        },
+        {
+          "driver": "Policy Support & Financial Inclusion",
+          "description": "Government initiatives like UPI-based credit and expanded financial inclusion schemes bolster access and sector stability."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "NBFC-led Profit Growth",
+          "description": "NBFCs are projected to grow at 16% annually, leading the sector's overall profit increase."
+        },
+        {
+          "driver": "Wealth Management Expansion",
+          "description": "Growing participation of High Net Worth Individuals (HNWIs) in wealth management services."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "These platforms open new avenues for reaching untapped customer segments, particularly millennials and rural populations.",
+          "opportunity": "Digital-only Insurers and Aggregator Platforms"
+        },
+        {
+          "description": "The integration of financial services into non-financial platforms, driven by digital infrastructure, offers new distribution models.",
+          "opportunity": "Embedded Finance"
+        }
+      ],
+      "methodology": "Analysis of growth potential for the Indian financial services sector.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 4,
+      "tam_value": 420.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2029,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2024 to 2029",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Innovation in Services",
+          "description": "Technological innovations like AI, cloud, cybersecurity, and digital innovation capabilities are driving growth."
+        },
+        {
+          "driver": "Digital Payment Penetration",
+          "description": "The proportion of digital payments is predicted to grow significantly, underpinning fintech expansion."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projection for the Indian fintech industry size, from US$110 billion in 2024 to US$420 billion by 2029.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": 13.21,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 10.25,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growth in Automobile Industry",
+          "description": "Demand for motor insurance is directly linked to the expansion and sales within the automobile sector."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Market size of the India Motor Insurance Market in terms of gross written premiums value in 2025.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": 20.39,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Digital Payment Penetration",
+          "description": "Continued rise in daily transaction volumes reflects deeper UPI adoption across retail payments and merchant transactions."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "UPI transaction volume in February 2026, reaching 20.39 billion transactions.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 7,
+      "tam_value": 58.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Selective Investor Funding",
+          "description": "Investors are increasingly prioritizing fintechs with clear economics and proven paths to durable scale, especially in later-stage funding rounds."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total equity funding for fintech in 2025, representing a 53% year-over-year increase. Funding growth was strongest in the Americas and APAC.",
+      "source_firm": "bcg_global",
+      "source_date": "2026-06-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 8,
+      "tam_value": 2.3,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2029,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "FY24 to FY29",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increasing Investor Participation",
+          "description": "Rising confidence and engagement from investors, reflected in strong SIP contributions and equity fund inflows."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projection for Assets Under Management (AUM) in India, rising from US$1.1 trillion in FY24 to US$2.3 trillion in FY29.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 9,
+      "tam_value": 1.207,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 14.0,
+      "forecast_cagr_period": "FY24 to FY30",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growth in B30 Cities",
+          "description": "Expansion of mutual fund assets beyond top 30 cities contributes to overall AUM growth."
+        },
+        {
+          "driver": "Rising Investor Confidence",
+          "description": "Strong systematic investment plan (SIP) contributions and equity fund inflows indicate sustained investor trust."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projection for Assets Under Management (AUM) of the mutual fund industry, expected to double to Rs. 100 trillion (US$1.207 trillion) by 2030.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 10,
+      "tam_value": 21.4,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2033,
+      "forecast_cagr": 55.0,
+      "forecast_cagr_period": "Unspecified (growing rapidly at nearly 55% annually)",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "IoT Device Adoption",
+          "description": "Increasing use of wearable health trackers and connected cars provides real-time data for risk assessment and personalized policies."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "IoT data enables insurers to offer highly customized policies based on individual behavior and risk profiles.",
+          "opportunity": "Personalized Insurance Products"
+        }
+      ],
+      "methodology": "Projection for the Indian IoT insurance market, expected to hit US$21.4 billion by 2033.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 11,
+      "tam_value": 211.9,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Retail and MSME Segments",
+          "description": "Healthy demand from retail customers (gold, vehicle loans) and MSMEs supporting business expansion and working capital."
+        },
+        {
+          "driver": "NBFC and Corporate Lending",
+          "description": "Increased reliance of NBFCs and select corporates on bank financing due to less attractive market borrowings."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total bank credit outstanding as of May 15, 2026, showing 16.2% year-on-year growth.",
+      "source_firm": "careedge",
+      "source_date": "2026-06-01",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "careedge",
+    "bcg_global",
+    "kpmg",
+    "bain",
+    "ibef"
+  ]
+}

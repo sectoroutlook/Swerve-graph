@@ -1,0 +1,22 @@
+# Secrets — never commit
+.env
+.env.*
+
+# Raw source financials (real company data) — the site only needs the
+# already-exported company-data/<ticker>.json, not this. Keep locally for
+# re-running neo4j_etl.py / neo4j_company_retrieval.py.
+Adani_power.json
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node (only used for local smoke-testing, not part of the site)
+node_modules/
+package-lock.json
+package.json
+test_smoke.js
+
+# Scratch/CLI output, not part of the deployed site
+outputs/

@@ -1,0 +1,109 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "AI Enhances Economics of Waste Concessions for Asset Owners",
+      "description": "Artificial Intelligence is increasingly embedded in physical assets like waste concessions, improving their economics. The commercial benefits, such as increased efficiency or reduced costs, accrue primarily to the asset owner rather than just the software provider, making these concessions more attractive investment opportunities for infrastructure capital.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": null,
+      "as_of_date": "2026-05-18"
+    },
+    {
+      "index": 2,
+      "title": "PE Investment Opportunity in Recycling Equipment, Software, and Operations",
+      "description": "Private Equity investors are finding compelling opportunities in recycling equipment, software, and operations. This sector is ripe for value creation through platform building, professionalizing delivery processes, and expanding into complementary services like operations and maintenance and digital construction, signaling a growing interest in technology-driven recycling solutions.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": null,
+      "as_of_date": "2025-09-23"
+    },
+    {
+      "index": 3,
+      "title": "Government Green City Initiative Promotes Waste-to-Energy Plants",
+      "description": "India's Prime Minister's plan to establish 'green cities' in each state, powered by renewable energy, includes the explicit setup of waste-to-energy plants. This government initiative creates a direct demand driver and support mechanism for the development and deployment of waste-to-energy infrastructure within these designated urban areas.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 4,
+      "title": "Growing Demand for Biofuels from Organic Waste (Biomethane)",
+      "description": "The production of biofuels, specifically biomethane derived from organic waste, presents a strong growth outlook. This is driven by new demand from maritime sectors and overarching decarbonization mandates. The biomethane market is fragmented and utilizes mature technology, offering attractive opportunities for private equity investment and consolidation.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": null,
+      "as_of_date": "2025-09-23"
+    },
+    {
+      "index": 5,
+      "title": "Infrastructure Investors Attracted to Selected Recycling Plays",
+      "description": "Selected recycling plays are identified as attractive investment opportunities for infrastructure investors. These segments exhibit strong market attractiveness, including growth expectations, mature technology, predictable returns, and fragmented markets that allow for consolidation and value creation through strategic investments.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": null,
+      "as_of_date": "2025-09-23"
+    },
+    {
+      "index": 6,
+      "title": "Public Acceptance, Logistics, and Permitting Restrain Waste-to-Energy Growth",
+      "description": "Despite a positive outlook, the growth of waste-to-energy systems faces significant constraints. Challenges include securing public acceptance for facility siting and operation, managing complex feedstock logistics for efficient collection and processing, and navigating regional permitting hurdles, which can delay or prevent project development and expansion.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": null,
+      "as_of_date": "2025-09-23"
+    }
+  ],
+  "viewpoints": [],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 30.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": 9.0,
+      "forecast_cagr_period": "2024-2032",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Reduced Landfilling",
+          "description": "With landfilling being reduced, especially in the EU, waste-to-energy systems are becoming the final disposal method in many jurisdictions, creating demand."
+        },
+        {
+          "driver": "Policy Support",
+          "description": "Export restrictions, feed-in tariffs, and carbon pricing are actively encouraging the deployment of waste-to-energy technologies."
+        },
+        {
+          "driver": "Urbanization and Waste Volume Growth",
+          "description": "Rising urbanization and increasing waste volumes in emerging markets provide strong tailwinds for the expansion of waste-to-energy systems."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Plant Efficiency Upgrades",
+          "description": "Value can be created by improving the efficiency of waste-to-energy plants, leading to better operational margins."
+        },
+        {
+          "driver": "Asset Bundling and Platform Building",
+          "description": "Consolidating assets and building regional platforms can enhance economic value and profitability for operators."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Waste collectors, sorters, anaerobic digestion operators, and incineration plant operators offer proven technologies, predictable cash flows, and strong regulatory support, making them attractive for infrastructure investors to create value.",
+          "opportunity": "Infrastructure Investment in Waste-to-Energy"
+        }
+      ],
+      "methodology": "The global market for waste-to-energy systems was $30 billion in 2024. It is expected to reach $60 billion in 2032, implying a Compound Annual Growth Rate (CAGR) of 9%. This includes thermal conversion (incineration, gasification) and biological processes (anaerobic digestion) for municipal, industrial, and organic waste, as well as biomass.",
+      "source_firm": "BCG",
+      "source_date": "2025-09-23",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "BCG"
+  ]
+}

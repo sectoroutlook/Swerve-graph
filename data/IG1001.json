@@ -1,0 +1,885 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Significant Capital Deployment and Investment Commitments in Power Sector",
+      "description": "North American and European utilities forecast $2.5 trillion capital deployment (2026-2030), a 50% increase from previous years. India plans Rs. 9.15 lakh crore for power infrastructure by 2032 and expects over US$ 800 billion from conglomerates for clean energy by 2034. These massive investments highlight industry confidence and a strong growth trajectory.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-12"
+    },
+    {
+      "index": 2,
+      "title": "Shift Towards Non-Conventional Energy by Utilities and States",
+      "description": "India's leading conventional energy producers are actively transitioning to non-conventional sources. States like Tripura plan full shifts to solar to meet 50% non-fossil electricity targets by 2030. This fundamental shift by established players and regions is reshaping the energy landscape, moving away from fossil fuel dependence towards cleaner alternatives.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 3,
+      "title": "Surging Electricity Demand from Data Centers and Electrification",
+      "description": "Global electricity demand is projected to rise 40-70% by 2040, with US demand increasing by ~20% in five years, driven largely by data center build-out and electrification of transport/industrial operations. This amplifies the need for substantial capital deployment and capacity additions in the power sector, creating significant growth opportunities.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-12"
+    },
+    {
+      "index": 4,
+      "title": "India's Rapid Renewable Energy Capacity Growth and Global Standing",
+      "description": "India ranks third globally in installed renewable energy capacity (250.52 GW as of Dec 2025) and has become the third-largest solar energy producer. Renewable energy now constitutes nearly 50% of the country's installed power capacity, marking record additions and a significant structural shift towards meeting ambitious non-fossil fuel targets by 2030.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 5,
+      "title": "Strong Government Policy Support and Increased Budget Allocations",
+      "description": "India's power sector benefits from 100% FDI, increased budget allocations (e.g., 30% rise for power sector to Rs. 48,396 crore), and schemes like PM Surya Ghar (aiming for 30 GW rooftop solar capacity). These policies, along with ambitious targets like 500 GW non-fossil fuel capacity by 2030, provide a robust and attractive environment for investment and growth.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 6,
+      "title": "Digitalization and Grid Modernization for Operational Efficiency",
+      "description": "The integration of digital technologies, AI, and automation ('Power Plant 4.0') is transforming thermal plants for real-time monitoring and predictive maintenance. Simultaneously, significant investment (Rs. 16,021 crore for revamped distribution scheme) is directed towards smart metering and infrastructure upgrades, driving grid modernization and enhancing efficiency across the entire electricity value chain.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 7,
+      "title": "Boost in Inter-Regional Transmission Capacity and Private Sector Participation",
+      "description": "India's National Electricity Plan (Transmission) aims to significantly increase inter-regional capacity to 168 GW by 2031-32, adding vast circuit kilometers of lines and transformation capacity. This includes HVDC links and increased private sector participation, enhancing grid efficiency and facilitating the integration of diverse, often remotely located, generation sources.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 8,
+      "title": "Restrictive Solar Energy Banking Regulations Impacting C&I Projects",
+      "description": "Maharashtra's revised MERC regulations severely limit the banking window and fungibility of solar energy for Commercial & Industrial (C&I) consumers. This reduces flexibility, weakens tariff competitiveness for open-access and captive solar projects, and increases the likelihood of energy lapses, leading to liquidity stress and higher credit risks, particularly for projects with over 10% banking exposure.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-28"
+    },
+    {
+      "index": 9,
+      "title": "Diversified Generation Technologies and Expansion by Major Utilities",
+      "description": "Major utilities like NTPC, Tata Power, and SJVN are expanding their portfolios across conventional (thermal, hydro) and renewable (solar, wind, pumped storage) technologies. NTPC has 15 GW of renewables under construction and Tata Power allocates 60% of capex to green energy, diversifying to enhance reliability, flexibility, and meet evolving energy demands.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 10,
+      "title": "National Green Hydrogen Mission and PLI Scheme for Solar Modules",
+      "description": "The Union Cabinet approved the National Green Hydrogen Mission (Rs. 19,744 crore outlay) to develop a domestic green hydrogen ecosystem. Complementary to this, the PLI Scheme for High Efficiency Solar PV Modules (Rs. 19,500 crore) aims for gigawatt-scale domestic manufacturing. These initiatives signify strategic policy pushes to build local capabilities and diversify the energy mix.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 11,
+      "title": "Elevated Execution Risks in Transmission Due to RoW and Approvals",
+      "description": "Indian power transmission projects consistently miss targets due to significant execution challenges, primarily related to right-of-way (RoW) acquisition, forest clearances, and land acquisition for substations. Many projects experience time overruns (3-18 months), impacting schedules and costs, despite recent policy interventions aimed at mitigation. This poses a substantial bottleneck for grid expansion.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 12,
+      "title": "Climate Impacts Necessitate Investment in Infrastructure Resilience",
+      "description": "Even with decarbonization efforts, the world faces significant warming and severe climate impacts, including extreme heat, peak load stress on transmission and distribution systems, water stress, and infrastructure damage. Companies must allocate substantial capital to hardening sites and networks, making climate resilience a critical and costly component of running the power business.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-09"
+    },
+    {
+      "index": 13,
+      "title": "Growing Role of Firm Clean Power (Nuclear) for Grid Stability",
+      "description": "With increasing intermittent renewable penetration, nuclear power is gaining strategic importance as a dispatchable, low-carbon baseload source. Global commitments to triple nuclear capacity by 2050, India's target of 100 GW by 2047, and enhanced uranium supply agreements highlight a long-term strategic shift towards nuclear for grid stability and energy security.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-04"
+    },
+    {
+      "index": 14,
+      "title": "Megaproject Execution Complexity and Immature Nuclear Supply Chains",
+      "description": "Nuclear projects face high failure rates due to their immense scale ($10-30B+), long timelines (7-12+ years), and programmatic complexities. Decades without new Western builds have atrophied the nuclear-qualified workforce and component suppliers, creating capacity shortfalls. This requires innovative approaches, substantial investment in training, and robust supply chain development to mitigate risks.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 15,
+      "title": "Mounting Affordability Pressure and Regulatory Uncertainty",
+      "description": "Household electricity prices have sharply risen (40% US, 33% Europe since 2021), pushing affordability concerns to the forefront for consumers and regulators. Regulatory changes, shifts in tax credits, and evolving energy markets (e.g., carbon pricing volatility) create significant complexity and risk for power and utilities companies, impacting strategic planning and investment decisions.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-12"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Nuclear Megaproject Execution Requires Discipline Beyond Technology for Success",
+      "description": "Bain identifies programmatic issues, not reactor technology, as the primary cause of nuclear megaproject failures. Success hinges on disciplined pre-final investment decision (FID) preparation, including quantifiable change control, a programmatic fleet approach, and robust industrialization of supply chains and workforce. Organizations must embed lessons learned and ensure continuous productivity, avoiding one-off plant mindsets.",
+      "stance": "cautious_positive",
+      "source_firm": "bain",
+      "source_date": "2026-06-01",
+      "source_doc_id": "61681d54-88dc-5308-8a5e-fba3c5428922"
+    },
+    {
+      "index": 2,
+      "title": "Maharashtra Solar Banking Rules Increase Credit Risk for C&I Renewables",
+      "description": "CareEdge Ratings holds a cautious-negative view on the C&I renewable energy segment in Maharashtra. Revised MERC regulations restrict solar energy banking, limit fungibility, and reduce ToD rebates, adversely impacting commercial viability and project economics for open-access and captive solar. This leads to heightened liquidity stress and credit risks for projects with over 10% banking exposure, suggesting potential replication in other states.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-05-28",
+      "source_doc_id": "d670fb10-8918-5a57-b899-c4ea31ba7d7e"
+    },
+    {
+      "index": 3,
+      "title": "Power & Utilities Sector Undergoing Structural Transformation with Surging Demand",
+      "description": "BCG identifies significant structural change in the Power and Utilities sector, driven by an unexpected surge in electricity demand, primarily from data centers and electrification. This demand fuels substantial capital deployment and M&A activity in North America and Europe. Companies are forced to reassess strategic positioning and capabilities amidst rising affordability pressures, regulatory uncertainty, and elevated financing costs.",
+      "stance": "positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-05-12",
+      "source_doc_id": "2916098e-4d61-5477-8b5c-0675d193ccac"
+    },
+    {
+      "index": 4,
+      "title": "Nuclear Renaissance Requires Integrated Pre-FID Discipline for Successful Execution",
+      "description": "Bain acknowledges a 'nuclear renaissance' driven by surging electricity demand and decarbonization, projecting $2.2 trillion global investment. However, it cautions that successful deployment demands thorough, disciplined pre-FID preparation, integrating business case validation, delivery risk mitigation, and financing strategy. Historically, projects fail due to programmatic weaknesses, requiring government partnership and industrial rhythm for successful execution.",
+      "stance": "cautious_positive",
+      "source_firm": "bain",
+      "source_date": "2026-05-04",
+      "source_doc_id": "b7a3d610-833b-519a-a462-15492f403bfe"
+    },
+    {
+      "index": 5,
+      "title": "Local Factors Outweigh National Policies in Driving Renewable Energy Scale-Up",
+      "description": "BCG's analysis of US and Chinese renewable energy scaling reveals that local factors like cheap land, existing renewable capacity, and robust grid infrastructure (or strategic transmission) are more critical drivers than national energy policies. While national policies set context, the actual pace and geographic concentration of solar and wind deployment are primarily shaped by these specific business case elements and regional investment in infrastructure.",
+      "stance": "neutral",
+      "source_firm": "bcg_global",
+      "source_date": "2026-04-07",
+      "source_doc_id": "a436df06-332b-5f4d-a232-ba84ce246e6f"
+    },
+    {
+      "index": 6,
+      "title": "India's Renewable Sector Gains Global Competitive Edge with Rapid Capacity Expansion",
+      "description": "IBEF highlights India's strong competitive advantage in renewable energy, ranking third globally in installed capacity and becoming the third-largest solar producer. Robust policy support, evidenced by increased budget allocations for MNRE and schemes like PM Surya Ghar, combined with significant investment commitments from conglomerates, fuels this rapid expansion and strengthens India's clean energy leadership towards ambitious targets.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "c0f80035-98da-553e-81a7-3c8094118a4d"
+    },
+    {
+      "index": 7,
+      "title": "Digitalization and AI Crucial for Thermal Power Plant Efficiency and Flexibility",
+      "description": "KPMG asserts that digitalization and AI are critical for modernizing thermal power plants, enabling improved operational efficiency, enhanced reliability, and flexible operations. These technologies, including drones, predictive analytics, and digital twins, are vital for TPPs to maintain stability and performance, especially within grids increasingly dominated by renewable energy. Successful adoption requires cross-functional collaboration and a culture of innovation.",
+      "stance": "positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-05-01",
+      "source_doc_id": "7b374a06-3d29-5860-bf99-a449bb98dd41"
+    },
+    {
+      "index": 8,
+      "title": "Indian Power Transmission Outlook Stable Amidst Capex Scale-Up and Execution Risks",
+      "description": "CareEdge Ratings maintains a 'Stable' outlook for the Indian power transmission sector. This is driven by substantial planned capital expenditure (Rs 9.16 lakh crore by FY32) to meet surging demand and integrate renewables. However, the sector faces elevated execution risks from right-of-way and approval delays during construction, causing project time overruns, though policy interventions are expected to offer mitigation.",
+      "stance": "neutral",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-01",
+      "source_doc_id": "a19fe87f-f068-5126-b374-f5f5d421e3b3"
+    },
+    {
+      "index": 9,
+      "title": "India Ascends in Global Hydropower Production with Ambitious Expansion Plans",
+      "description": "IBEF notes India's rise to the fifth-largest global hydropower producer, leveraging a potential of 145 GW, with over 50 GW already utilized. Government support, including the Small Hydro Power (SHP) Development Scheme and ambitious projects, signals a strong commitment to increase hydro capacity from 42 GW to 67 GW by 2031-32, driven by favorable rainfall predictions.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "c0f80035-98da-553e-81a7-3c8094118a4d"
+    },
+    {
+      "index": 10,
+      "title": "Electricity Demand to Surge, Renewables to Scale, Nuclear to Persist by 2040",
+      "description": "Bain projects a significant 40-70% rise in global electricity demand by 2040 across all scenarios, driven by population, GDP, and industrial activity. Renewables (solar/wind) are expected to scale rapidly, becoming the lowest-cost option, while nuclear maintains/grows its share as a firm clean baseload. Coal demand will decline, but fossil fuels will remain a significant supply component through 2040.",
+      "stance": "positive",
+      "source_firm": "bain",
+      "source_date": "2026-04-09",
+      "source_doc_id": "7c460a56-8cd1-584c-8197-064dae6da69c"
+    },
+    {
+      "index": 11,
+      "title": "India's Power Sector Shows Robust Growth with Strong Renewable and Policy Push",
+      "description": "IBEF presents a highly positive outlook for India's power sector, highlighting its global third-largest producer/consumer status and rapid growth in renewables, which now constitute nearly 50% of installed capacity. Strong government policy, including 100% FDI and ambitious targets like 500 GW non-fossil fuel capacity by 2030 and expanding nuclear power, underpins this robust expansion and clean energy transition.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "8ba6bb7d-9e5f-5cad-9247-fa18a06a5930"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 42000.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2032,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising Demand",
+          "description": "Investment to meet growing electricity demand."
+        },
+        {
+          "driver": "Modernization of Infrastructure",
+          "description": "Upgrading renewable energy, battery storage, and transmission networks."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Investment planned to upgrade power sector, modernize renewable energy, battery storage, and transmission networks.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 20.12,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s gas thermal power capacity as of December 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 219.61,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total installed coal thermal power capacity as of December 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 50.91,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s hydro power generating capacity as of December 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": 51.16,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Installed capacity of large hydro projects as of February 2026.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": 5.17,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Installed capacity of small hydro projects as of February 2026.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 7,
+      "tam_value": 250.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Investment projections for India's rapidly evolving renewable energy sector.",
+      "source_firm": "EY and CII",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 8,
+      "tam_value": 219.61,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Coal Availability",
+          "description": "India has large reserves and recorded highest ever coal production in FY25 (1,047.52 million tonnes)."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Coal-based power installed capacity as of December 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 9,
+      "tam_value": 330.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Investment predicted in the renewable sector by 2030.",
+      "source_firm": "Economic Survey",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 10,
+      "tam_value": 2566.8,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Doubling of Overall Capex",
+          "description": "India plans to double overall capex to Rs. 72,72,600 crore by 2030, with a significant portion directed to power and transmission."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Planned capex for power and transmission by 2030. India plans to double overall capex to Rs. 72,72,600 crore by 2030, with a significant portion directed to power and transmission.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 11,
+      "tam_value": 9.16,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2032,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising Peak Power Demand",
+          "description": "Projected to increase to 458 GW by FY32 from ~275 GW (mid-FY25)."
+        },
+        {
+          "driver": "Rapid Renewable Energy Additions",
+          "description": "India targets 500 GW renewable capacity by 2030, requiring significant transmission upgrades."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "National Electricity Policy (NEP) 2022-32 outlines transmission expansion plan. Total capital outlay, including Inter-State Transmission System (ISTS) and intra-state networks. Of the total, Rs 6.60 lakh crore pertains to ISTS. Envisages adding over 6.00 lakh circuit-kilometres (ckm) of transmission lines and 24.00 lakh MVA of transformation capacity by FY32.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 12,
+      "tam_value": 513.79,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Household Electrification",
+          "description": "Saubhagya scheme has electrified over 2.86 crore households, increasing demand."
+        },
+        {
+          "driver": "Green Hydrogen Cost Reduction Target",
+          "description": "Aim to cut green hydrogen costs from $4.50/kg to $1/kg by 2030, driving demand for renewable power for electrolysis."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "PM Surya Ghar Scheme",
+          "description": "Aims to provide free rooftop solar electricity to one crore households, adding 30 GW capacity and saving government Rs. 75,021 crore (US$ 8.49 billion)."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Storage-backed renewable energy capacity projected to rise sharply to 25-30 GW by FY28 from almost nil in FY25, creating new investment avenues.",
+          "opportunity": "Energy Storage Adoption"
+        }
+      ],
+      "methodology": "Installed power capacity as of December 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 13,
+      "tam_value": 215.523,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Balancing Energy Availability, Affordability, and Sustainability",
+          "description": "India will drive 35% of global energy demand growth over the next two decades, with a focus on these three pillars, necessitating large-scale renewable deployment."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Combined installed capacity of renewable energy sources (including Small Hydro Power, Wind Power, Solar Power and Bio-Power) as of February 2026.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 14,
+      "tam_value": 458.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2032,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Expansion in Industrial Activity",
+          "description": "Increased industrial output boosts demand for electricity."
+        },
+        {
+          "driver": "Growing Population, Electrification, and Per-Capita Usage",
+          "description": "Demographic growth and increased access/use of electricity provide sustained impetus for demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected peak power demand.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 15,
+      "tam_value": 40000.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising Power Demand",
+          "description": "Growing demand for electricity drives the need for investment in generation, transmission, and distribution."
+        },
+        {
+          "driver": "Infrastructure Upgrades",
+          "description": "Modernization and expansion of existing power infrastructure."
+        },
+        {
+          "driver": "Transition to Clean Energy",
+          "description": "Shift towards renewable sources requires significant investment."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Investment opportunity in the Indian power sector.",
+      "source_firm": "Motilal Oswal",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 16,
+      "tam_value": 9.15,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2032,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Meet Projected Demand",
+          "description": "Infrastructure investment required to meet 458 GW demand by 2032."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Comprehensive plan to enhance power infrastructure.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 17,
+      "tam_value": 520.51,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "National Electricity Plan (2023-32)",
+          "description": "Outlines investment of Rs. 9.15 lakh crore to meet projected peak demand of 458 GW by 2032."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total installed capacity as of January 2026.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 18,
+      "tam_value": 513.73,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Economic Activity",
+          "description": "Accelerating economic activity drives higher power demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Installed power capacity as of December 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 19,
+      "tam_value": 215.5,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 16.43,
+      "historical_cagr_period": "FY16-FY26",
+      "demand_drivers": [
+        {
+          "driver": "Ambitious Renewable Energy Targets",
+          "description": "India plans to reach 500 GW of installed renewable energy capacity by 2030, with 280 GW from solar, driving significant growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Installed renewable energy capacity in FY26 (as of February 2026). Excludes large hydro.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 20,
+      "tam_value": 221.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "500 GW Renewable Target",
+          "description": "The ambitious target creates substantial investment opportunities."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Investment opportunities to achieve 500 GW renewable energy capacity target.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 21,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong Year-on-Year Growth",
+          "description": "Generation increased by 22.85% (April 2025–Feb 2026 vs. previous year) and 25.26% (Feb 2026 vs. Feb 2025)."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Power generation from renewable energy sources (excluding large hydro) during April 2025–February 2026.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 22,
+      "tam_value": 190.0,
+      "tam_unit": "USD_bn",
+      "sam_value": 150.0,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Target of 500 GW Renewable Energy Capacity",
+          "description": "Drives investment in generation, transmission, distribution, and storage."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Investment required between 2023-2030 to achieve 500 GW renewable energy capacity (TAM). Investment required for electricity transmission, distribution, and energy storage between 2023-2030 (SAM). These are lower bounds of ranges US$ 190-215 billion and US$ 150-170 billion respectively.",
+      "source_firm": "Moody's",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 23,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Highest Growth Rate in 30 Years",
+          "description": "Indicates robust underlying economic activity and demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's total power generation in FY25, which saw a 5.21% growth from the previous year.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 24,
+      "tam_value": 143.6,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong Year-on-Year Growth",
+          "description": "Solar generation increased by 29.9% (Feb 2026 vs. Feb 2025) and 22.0% (April 2025–Feb 2026 vs. previous year)."
+        },
+        {
+          "driver": "State-Level Solar Expansion Initiatives",
+          "description": "Maharashtra approving 20,000 MW projects and boosting solar pump storage to 55,000 MW, Shirdi becoming solar-powered."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total installed solar capacity as of February 2026.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 25,
+      "tam_value": 6.62,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s lignite thermal power capacity as of December 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 26,
+      "tam_value": 8.78,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India had 8.78 GW of installed nuclear capacity as of December 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 27,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 5.04,
+      "historical_cagr_period": "2016-2025",
+      "demand_drivers": [
+        {
+          "driver": "Steady Growth",
+          "description": "Consistent increase in installed capacity over the period."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Installed capacity has increased steadily over the years, posting a CAGR of 5.04% between 2016 and 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 28,
+      "tam_value": 500.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Investment prospect across the forthcoming seven years in the power sector, incorporating 4-5 GW of generation capacity each month.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    }
+  ],
+  "sources": [
+    "bain",
+    "CareEdge Ratings",
+    "bcg_global",
+    "IBEF",
+    "kpmg",
+    "EY and CII",
+    "Economic Survey",
+    "Motilal Oswal",
+    "Moody's"
+  ]
+}

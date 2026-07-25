@@ -1,0 +1,343 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Government Policy Drives LPG Household Connections Expansion",
+      "description": "Government initiatives, particularly the Pradhan Mantri Ujjwala Yojana, are actively promoting the expansion of LPG cylinder distribution to households. The approval of 25 lakh additional LPG connections in FY26, building on 10.35 crore beneficiaries, creates a strong demand-side tailwind. This policy support ensures continued growth in the household LPG segment, benefiting OMCs involved in cylinder distribution and marketing.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 2,
+      "title": "Stagnant Retail Prices Compress OMC Marketing Margins Amidst Volatile Crude",
+      "description": "Indian OMCs face significant pressure on their marketing margins due to government-controlled or stagnant retail prices for petrol and diesel, even as crude oil prices fluctuate or rise. This creates a situation where OMCs incur losses on retail operations, sometimes exceeding refining margins. This policy-induced pricing rigidity remains a key risk, directly impacting the profitability of the auto fuels marketing segment.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-02-16"
+    },
+    {
+      "index": 3,
+      "title": "Excise Duty Cut Improves OMC Breakeven Point on Crude Oil Prices",
+      "description": "The Government of India's decision to reduce special excise duty on petrol and diesel by Rs 10/litre provides a crucial upside for OMCs. While retail prices remain unchanged, this reduction shifts the breakeven crude oil price for OMCs to ~$106/bbl (from ~$90/bbl). This policy measure allows OMCs to better absorb higher international crude prices, mitigating losses in the marketing segment and stabilizing their profitability in the short term.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-27"
+    },
+    {
+      "index": 4,
+      "title": "Multi-Channel Complexity and Digital Fragmentation Impair OMC Cash Flow",
+      "description": "Oil and gas downstream marketing and retail operate across diverse channels like fleet cards, aviation refueling, and retail POS, each with unique pricing, tax, and contractual terms. Fragmented IT systems (ERP, POS, billing engines) and manual processes lead to inconsistent data, billing errors, and delayed reconciliations. This digital fragmentation results in revenue leakage, inflated disputes (3-7% in high-volume segments), and stalled cash conversion, directly impacting liquidity and operational efficiency for OMCs.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-24"
+    },
+    {
+      "index": 5,
+      "title": "Ethanol Blending Program Fundamentally Reshapes Petrol Marketing",
+      "description": "The successful achievement of 20% ethanol blending with petrol by July 2025 marks a significant structural change for auto fuels marketing. OMCs are now mandated to distribute a product with a substantial biofuel component. While advancing energy security and sustainability, this also introduces new considerations for supply chain, logistics, and retail infrastructure for OMCs, fundamentally altering the petrol product mix and potentially influencing margins and operational complexities.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-03"
+    },
+    {
+      "index": 6,
+      "title": "Export Cess on Diesel and ATF Restricts OMC Export Opportunities",
+      "description": "The imposition of a Cess on the export of diesel (Rs 21.5/litre) and Aviation Turbine Fuel (ATF) (Rs 29.5/litre) by the Government of India acts as a headwind for OMCs with integrated refining operations. While intended to ensure adequate domestic availability, this policy directly reduces the profitability and attractiveness of exporting these products. It curtails a potential revenue stream for integrated OMCs, limiting their ability to capitalize on international crack spreads and forcing a domestic-market-first approach.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-27"
+    },
+    {
+      "index": 7,
+      "title": "Strong Economic Growth Fuels Domestic Petroleum Product Demand",
+      "description": "India's rapid economic expansion and increasing industrial output are fundamental tailwinds for the Oil & Gas Downstream — Marketing & Retail sector. This robust growth drives greater demand for petroleum products for both production and transportation. The projected 2x growth in overall oil demand by 2045 underscores a continually expanding market, ensuring sustained volumes for auto fuels, lubricants, and LPG distributed through retail networks.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 8,
+      "title": "High Fiscal Deficit Limits Government Subsidy Reimbursement to OMCs",
+      "description": "A wide fiscal deficit constrains the government's ability and willingness to fully absorb subsidies on LPG and petroleum products. This directly impacts OMCs by potentially delaying or reducing subsidy reimbursements, increasing their under-recovery burden. This financial pressure can negatively affect OMC profitability and cash flow, especially when retail prices are frozen despite rising procurement costs, making fiscal health a critical external risk factor.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-19"
+    },
+    {
+      "index": 9,
+      "title": "EV Adoption and CNG Expansion Threaten Traditional Auto Fuel Demand",
+      "description": "The increasing adoption of electric vehicles (5.7 million EVs on road) and the rapid expansion of CNG networks (from 8,400 stations in Sept 2025 to 18,000 by 2034) pose a significant structural challenge to traditional petrol and diesel marketing and retail. As more vehicles convert to alternative fuels, the demand for conventional auto fuels at OMC retail outlets will gradually decline, necessitating adaptation and diversification of offerings.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-03"
+    },
+    {
+      "index": 10,
+      "title": "AI-Driven Finance Automation Enhances OMC Operational Efficiency and Cash Flow",
+      "description": "The adoption of AI and agentic automation in finance strategies, particularly for credit-to-cash processes, presents a significant upside. Digital levers such as dynamic credit exposure, automated uplift-to-invoice matching, and predictive collections can prevent credit blocks, reduce billing errors, and accelerate cash application. This technology enables OMCs to proactively manage financial workflows, reducing Days Sales Outstanding (DSO) and unlocking internal liquidity for reinvestment.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-24"
+    },
+    {
+      "index": 11,
+      "title": "Benign Crude Oil Prices Support OMC Marketing Margins",
+      "description": "A global crude oil price environment that remains benign (below $70/bbl) is a significant tailwind for Indian OMCs. When crude prices are low, OMCs can realize better marketing margins, especially if retail prices are kept stable or adjusted less frequently. This advantageous range allows OMCs to expand their profitability in the marketing segment without requiring politically sensitive retail price increases, contributing to a more stable revenue stream.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-02-16"
+    },
+    {
+      "index": 12,
+      "title": "High LPG Import Dependence Exacerbates Under-Recovery Burden for OMCs",
+      "description": "India's significant reliance on LPG imports (around 60% of requirements) coupled with domestic production struggling to meet rising household consumption creates a key risk for OMCs. When the government maintains lower retail prices for LPG cylinders (e.g., through subsidies), OMCs incur under-recoveries, meaning they sell below cost. This import dependence, combined with price controls, makes OMCs vulnerable to international price volatility and delays in subsidy reimbursement.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-03"
+    },
+    {
+      "index": 13,
+      "title": "E-Bus Fleet Conversion Poses Long-Term Diesel Demand Risk",
+      "description": "India's ambition to replace 8 lakh diesel buses by 2030, including 5.5 lakh private buses, represents a significant long-term risk to diesel demand for OMCs. With only 11,000 e-buses currently operational, the pace of conversion in the private sector, which constitutes 90% of India's bus fleet, is critical. A lack of incentives for private operators could slow this transition, but a faster adoption rate would erode a substantial portion of the diesel market for OMCs.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-27"
+    },
+    {
+      "index": 14,
+      "title": "Increasing Competition and Differentiated Fuel Offerings Reshape Retail Landscape",
+      "description": "The entry of private players like Jio-bp, offering differentiated fuel products (e.g., diesel with detergents/dispersants at competitive prices), signifies a structural shift in the retail fuel market. This increases competition for state-run OMCs (IOCL, BPCL, HPCL) which traditionally dominated the sector. To maintain market share, OMCs may need to innovate their offerings, enhance customer experience, and adapt pricing strategies, moving beyond a purely volume-driven approach.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "OMC Marketing Margins Poised for Improvement Amidst Moderating GRMs",
+      "description": "Indian OMCs' marketing margins, while moderated by higher refinery transfer pricing and stagnant retail fuel prices through 9MFY26, remained healthy compared to historical averages. CareEdge Ratings anticipates an improvement in marketing margins in the near term. This positive outlook is contingent on moderating Gross Refining Margins (GRMs) and stable fuel retail prices, alongside benign crude oil prices, shifting the focus from high GRMs to sustainable marketing profitability.",
+      "stance": "positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-02-16",
+      "source_doc_id": "c658accc-43aa-5379-975c-2fa605c85322"
+    },
+    {
+      "index": 2,
+      "title": "Global Oil Demand Persists, but Road Fuel Faces EV-Driven Slowdown",
+      "description": "Global oil demand is projected to hold or grow in most scenarios, reaching up to 108 Mb/d by 2040. However, the long-term trajectory for road fuel demand will be impacted by the flattening or slowing effect of electric vehicles. While petrochemicals, aviation, shipping, and freight will drive overall oil consumption, the core auto fuel retail segment faces structural shifts due to electrification.",
+      "stance": "neutral",
+      "source_firm": "Bain",
+      "source_date": "2026-04-09",
+      "source_doc_id": "7c460a56-8cd1-584c-8197-064dae6da69c"
+    },
+    {
+      "index": 3,
+      "title": "India's Overall Oil Demand Projected to Surge to 9 MBPD by 2050",
+      "description": "India's oil demand is projected to nearly double from 5-5.5 million barrels per day (mbpd) in 2023-24 to approximately 9 mbpd by 2050. This significant growth, driven by economic expansion, will sustain strong demand across the downstream marketing and retail sector. Despite the energy transition, fossil fuels will remain crucial, ensuring robust volumes for auto fuels and other petroleum products sold through retail networks.",
+      "stance": "positive",
+      "source_firm": "EY",
+      "source_date": "2026-02-03",
+      "source_doc_id": "dd712017-b4ec-596f-8d3b-95ab8e57067a"
+    },
+    {
+      "index": 4,
+      "title": "OMC Breakeven Shifts to Higher Crude Price Post Excise Duty Cut",
+      "description": "The Government of India's reduction in excise duty on petrol and diesel, without corresponding retail price changes, shifts the breakeven crude oil price for OMCs to ~$106/bbl from ~$90/bbl. This policy intervention helps OMCs absorb higher crude costs, mitigating losses from retail operations that had widened due to sharply increased crude prices. While it prevents immediate retail price hikes, it reflects continued government influence on pricing.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-03-27",
+      "source_doc_id": "09c37f21-243f-5013-a82c-ab95317ac408"
+    },
+    {
+      "index": 5,
+      "title": "India's Petroleum Product Consumption Demonstrates Strong Growth Trajectory",
+      "description": "India maintains its position as the third-largest consumer of oil globally, with petroleum product consumption showing robust growth. Total consumption increased from 158.4 MMT in FY14 to 239.22 MMT in FY25, reaching 221.82 MMT in FY26 (April 2025-Feb 2026). This trend, driven by rapid economic growth and urbanization, indicates sustained demand for auto fuels, lubricants, and LPG, underpinning the expansion of marketing and retail networks.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "0376fe88-fd15-5b7c-845b-3c9db6c9cd9b"
+    },
+    {
+      "index": 6,
+      "title": "Government Initiatives Bolster LPG Household Connections and Distribution Network",
+      "description": "Government policy, specifically the Pradhan Mantri Ujjwala Yojana, continues to drive the expansion of LPG cylinder distribution to households. With approximately 10.35 crore beneficiaries as of December 2025 and an additional 25 lakh connections approved for FY26, the sector sees sustained growth. The increasing number of LPG distributors (25,596) and active domestic consumers (33.05 crore) reflects a positive outlook for this segment of the downstream market.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "0376fe88-fd15-5b7c-845b-3c9db6c9cd9b"
+    },
+    {
+      "index": 7,
+      "title": "Fragmented Digital Platforms Hinder Cash Velocity for Indian Downstream Retailers",
+      "description": "Multi-channel customer models, combined with platform fragmentation across ERP, POS, and various field systems, significantly slow cash realization for Indian oil and gas companies in mobility and convenience retail. Manual reconciliation processes, mismatched data, and billing errors lead to delayed book closures, reduced cash visibility, and increased revenue leakage. This internal process complexity is a key impediment to optimizing working capital and accelerating cash flow.",
+      "stance": "cautious_negative",
+      "source_firm": "EY",
+      "source_date": "2026-02-24",
+      "source_doc_id": "de10c5b9-e822-592f-bb5e-c1ac7de8bf47"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 33.05,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Pradhan Mantri Ujjwala Yojana (PMUY)",
+          "description": "Government schemes like PMUY significantly boost new LPG connections, especially for low-income households, driving consumer base expansion."
+        },
+        {
+          "driver": "Household Energy Access",
+          "description": "Increasing access to clean cooking fuel for households, driven by urbanization and improved infrastructure."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Government Subsidies",
+          "description": "Subsidies on LPG cylinders (e.g., Rs. 300 for PMUY households) directly impact the effective retail price, influencing affordability and consumption patterns."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Number of active domestic LPG consumers served by Public Sector Undertaking (PSU) OMCs across India, as of July 1, 2025. This indicates the reach and scale of household LPG distribution.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 221.82,
+      "tam_unit": "MMT",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 3.82,
+      "historical_cagr_period": "FY14-FY26",
+      "demand_drivers": [
+        {
+          "driver": "Economic Growth",
+          "description": "Rapid economic growth and industrial activity directly translate to increased demand for transportation fuels and other petroleum products."
+        },
+        {
+          "driver": "Urbanization & Personal Vehicle Ownership",
+          "description": "Rising urbanization and increased ownership of personal vehicles (cars, two-wheelers) drive higher consumption of petrol and diesel."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total consumption of petroleum products in India, covering April 2025 to February 2026. This figure encompasses auto fuels (petrol, diesel), LPG, lubricants, and aviation turbine fuel (ATF) marketed and retailed by OMCs.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 9.0,
+      "tam_unit": "MMT",
+      "sam_value": null,
+      "as_of_year": 2050,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Economic Expansion",
+          "description": "Continued robust economic growth in India will fuel demand across all sectors, including transportation and industrial applications of oil."
+        },
+        {
+          "driver": "Population Growth and Industrial Activity",
+          "description": "Increasing population and expanding industrial base necessitate higher energy consumption, translating to greater oil demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected total oil demand for India, indicating a significant increase from 5-5.5 mbpd in 2023-24 to 9 mbpd by 2050. This forecast underpins the long-term volume outlook for all petroleum products sold through marketing and retail channels.",
+      "source_firm": "EY",
+      "source_date": "2026-02-03",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 40.0,
+      "tam_unit": "MMT",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 9.0,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increased Personal Vehicle and Two-Wheeler Ownership",
+          "description": "The growing number of cars and two-wheelers on Indian roads is the primary driver for increased petrol demand."
+        },
+        {
+          "driver": "Mobility Growth",
+          "description": "Overall increase in personal mobility due to urbanization and economic development contributes to higher petrol consumption."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total petrol consumption in India during 2024-25, highlighting the current scale of the market for this auto fuel. This volume is directly distributed through OMC retail networks.",
+      "source_firm": "EY",
+      "source_date": "2026-02-03",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": 110.0,
+      "tam_unit": "MMT",
+      "sam_value": null,
+      "as_of_year": 2031,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2030-31",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Logistics and Freight Expansion",
+          "description": "Increased road transportation for goods and services, fueled by economic growth, directly drives demand for diesel."
+        },
+        {
+          "driver": "Industrial Activity",
+          "description": "Diesel consumption in various industrial and agricultural applications contributes to overall demand growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected diesel demand in India for 2030-31, ranging from 110-120 MMT. This forecast highlights the expected growth in a key auto fuel segment, driven by commercial and logistics activities.",
+      "source_firm": "EY",
+      "source_date": "2026-02-03",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "CareEdge Ratings",
+    "Bain",
+    "EY",
+    "IBEF"
+  ]
+}

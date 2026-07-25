@@ -1,0 +1,633 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Affordability Pressure and Regulatory Scrutiny Increase",
+      "description": "Customers, governments, and regulators are increasingly seeking lower energy costs, driven by sharp rises in household electricity prices. This creates heightened affordability pressure and regulatory uncertainty, complicating investment decisions and operational strategies for power and utilities companies. Balancing cost-effectiveness with reliability and decarbonization goals becomes a major challenge for the sector.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-12"
+    },
+    {
+      "index": 2,
+      "title": "Nuclear Power Gains Momentum for Stable Baseload",
+      "description": "Nuclear power is experiencing a resurgence due to surging electricity demand, grid reliability imperatives, and decarbonization commitments. It offers dispatchable, low-carbon baseload power for 60-80 years, providing stability in grids with increasing intermittent renewable penetration. Despite high initial costs and long construction times, its role in achieving net-zero targets and ensuring grid stability is increasingly recognized, driving global investment forecasts.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-04"
+    },
+    {
+      "index": 3,
+      "title": "Low-Carbon Projects Face Policy and Market Volatility",
+      "description": "Low-carbon capital projects, particularly those using emerging technologies like carbon capture or green hydrogen, are highly sensitive to shifting incentives, carbon pricing changes, and regulatory evolutions. This creates commercial and operational uncertainties that can derail financial viability and execution, demanding flexible and adaptive strategies from developers. Undeveloped end-user markets and innovation risks further compound these challenges.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-18"
+    },
+    {
+      "index": 4,
+      "title": "Affordable Land Critical for Renewable Energy Scale-Up",
+      "description": "Access to affordable rural land is identified as the single strongest factor driving renewable energy scale-up in both the US and China, accounting for 20-21% of modeled growth. Cheaper land significantly improves project economics, indicating that regions with lower land costs can accelerate deployment and attract further investment in solar and wind capacity, creating a virtuous cycle for renewable development.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-07"
+    },
+    {
+      "index": 5,
+      "title": "AI/Data Centers Drive Surging Electricity Demand",
+      "description": "The rapid buildout of AI data centers, coupled with electrification and reshoring, is creating significant demand for 24/7 reliable firm power. This growth trajectory is expected to increase electricity demand by 40-70% globally by 2040 and is a primary catalyst for power demand growth in US and Europe. India also experiences significant demand surges, necessitating capacity expansion in generation and distribution.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-12"
+    },
+    {
+      "index": 6,
+      "title": "Infrastructure Investment Surges for Power & Transmission",
+      "description": "India plans substantial capital outlays, including Rs 9.16 lakh crore for transmission under NEP 2022–32 and Rs 25.66 lakh crore for power and transmission by 2030. Global forecasts also show significant capital deployment in power and utilities, driven by increasing demand, rapid renewable energy additions, and energy transition needs. This creates immense opportunities for infrastructure development and modernization.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 7,
+      "title": "Regulatory Shifts Reduce Solar Open Access Project Viability",
+      "description": "Maharashtra Electricity Regulatory Commission (MERC) changes restrict banking of solar energy to shorter time blocks and introduce higher peak-hour tariffs/rebates during solar hours. This reduces flexibility, competitiveness, and cash flow resilience for open-access and captive solar projects, leading to higher risk of energy lapse and potential tariff renegotiations. Similar regulatory challenges in other states cannot be ruled out, impacting the C&I renewable energy segment.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-28"
+    },
+    {
+      "index": 8,
+      "title": "RoW & Approvals Delay Transmission Projects",
+      "description": "Power transmission projects face significant execution risks due to challenges like right-of-way (RoW) acquisition, forest clearances, and land acquisition for substations. These issues lead to time overruns, with many projects delayed between 3 and 18 months, hindering the achievement of annual targets for line additions. Despite recent policy interventions, addressing these long-standing bottlenecks requires sustained effort and coordination.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 9,
+      "title": "India's Renewable Energy Sector Sees Rapid Growth",
+      "description": "India is aggressively expanding its renewable energy capacity, targeting 500 GW by 2030, with solar and wind leading. Policies like 100% FDI, PM Surya Ghar scheme, Renewable Purchase Obligations (RPOs), and a strong focus on hybrid projects and storage systems are driving this transition, making renewables a dominant and growing source of electricity generation. India has already surpassed climate targets.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 10,
+      "title": "Digitalization and AI Transforming Utilities Operations",
+      "description": "AI and digitalization are reshaping power sector workflows, offering critical levers for improving operational efficiency, enhancing reliability, and enabling flexible operations. Applications include predictive maintenance, digital twins, AI-based demand forecasting, and optimized capital decisions, driving significant cost reductions and profitability enhancements. This shift requires strategic investment in technology architecture, cross-functional teams, and a culture of innovation.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 11,
+      "title": "Robust Grid & Infrastructure Essential for Renewables",
+      "description": "Investment in utility infrastructure and a robust grid are clearly connected to the successful scaling of renewables. The grid needs more wires, transformers, and storage to handle surging electricity demand and integrate increasing renewable generation, creating a virtuous cycle for power transmission and distribution. Enhanced infrastructure enables the reliable delivery of power from generation sites to load centers.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-07"
+    },
+    {
+      "index": 12,
+      "title": "Utilities Streamlining Portfolios via Divestitures",
+      "description": "Power and utilities companies are increasingly exiting non-core businesses, including gas and water operations, to focus on electric businesses and streamline operating footprints. This deliberate shift aims to simplify portfolios, raise capital, and fund ambitious organic investment plans, often driven by private capital firms. This trend reflects a strategic reassessment of asset value and core competencies within the evolving energy landscape.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-12"
+    },
+    {
+      "index": 13,
+      "title": "Coal Power Declines Amid Cheaper Alternatives",
+      "description": "Thermal coal demand is projected to decline across all scenarios as cheaper alternatives and renewable energy sources displace aging coal power facilities. This shift is driven by environmental goals and economic factors, presenting a long-term headwind for conventional coal-based power generation. While coal will persist in key regions like India and China, its share of total energy supply is expected to fall sharply in low-carbon scenarios.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-09"
+    },
+    {
+      "index": 14,
+      "title": "Government Schemes Boost Rooftop Solar Adoption",
+      "description": "The Indian government's PM Surya Ghar: Muft Bijli Yojana is accelerating rooftop solar adoption, targeting installations in one crore households and adding significant capacity. This initiative, supported by subsidies and streamlined processes, drives decentralized generation, reduces electricity costs, and contributes to decarbonization goals. It represents a substantial tailwind for the growth of distributed solar energy solutions in India.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 15,
+      "title": "Interconnection Delays Hinder Renewable Scale-Up",
+      "description": "Despite technological viability, the scaling of renewables faces significant barriers including interconnection delays, dispatchability requirements, transformer and transmission lead times, and shortages of skilled labor. These challenges complicate grid integration and can slow down the deployment of new renewable energy projects, posing a critical headwind to achieving ambitious renewable capacity targets and necessitating coordinated infrastructure planning and workforce development.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-09"
+    },
+    {
+      "index": 16,
+      "title": "Nuclear Supply Chain and Workforce Atrophy",
+      "description": "Decades without significant Western new nuclear builds have led to an immature supply chain and an atrophied nuclear-qualified workforce. This institutional memory gap and lack of available scale pose significant risks to achieving nuclear investment targets, contributing to project delays and cost escalations. Addressing these issues requires multi-year apprenticeships and vendor qualification programs to rebuild capabilities.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-04"
+    },
+    {
+      "index": 17,
+      "title": "Energy Storage Boosts Renewable Energy Reliability",
+      "description": "India's storage-backed renewable energy capacity is projected to rise sharply, with significant investments poised for the sector. Technologies like Battery Energy Storage Systems (BESS) are crucial for shifting excess solar generation to peak demand periods, enhancing grid stability and reliability for intermittent renewables. This integration supports the goal of Round-the-Clock (RTC) power supply and optimizes the value of renewable assets.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 18,
+      "title": "TPPs Enable Flexibility for Grid Stability",
+      "description": "Digital technologies, including digital twins, enable thermal power plants (TPPs) to operate flexibly, a necessity in grids with high renewable penetration. This allows TPPs to maintain stable operation at varying load levels, complementing intermittent renewables and ensuring overall grid reliability. The ability to simulate and optimize plant performance at low loads is crucial for adapting to the changing energy mix and supporting grid stability.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 19,
+      "title": "CCUS for Gas Plants Mitigates Emissions, Boosts Firm Power",
+      "description": "Gas-fired generation with Carbon Capture, Utilization, and Storage (CCUS) is emerging as a viable solution for providing firm, low-carbon power, especially for demand centers like data centers. CCUS technology can capture over 90% of emissions, offering a pathway for gas plants to meet decarbonization commitments and address capacity shortfalls. This technology can provide a crucial balance between reliability and environmental sustainability.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-30"
+    },
+    {
+      "index": 20,
+      "title": "Aging Infrastructure & Technology Flux Challenge Generation",
+      "description": "The power sector faces challenges from aging infrastructure in conventional generation and technology in flux for newer forms like nuclear. Multiple potential nuclear technologies and various renewable solutions compete, making long-term investment decisions complex and risking stranded assets if design commitments are made too early. This uncertainty necessitates careful planning and robust risk assessment for capital-intensive projects.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-04"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "MERC's Regulatory Changes Detrimental to Open-Access Solar Project Viability",
+      "description": "CareEdge Ratings states that the revised Maharashtra Electricity Regulatory Commission (MERC) order significantly harms open-access solar power consumers and developers. Restrictions on banking solar energy, coupled with new Time-of-Day (ToD) tariffs, reduce project flexibility and competitiveness. This will weaken cash flow resilience and increase tariff renegotiation risks, potentially affecting the entire C&I renewable energy segment if similar rules are adopted by other states.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-05-28",
+      "source_doc_id": "d670fb10-8918-5a57-b899-c4ea31ba7d7e"
+    },
+    {
+      "index": 2,
+      "title": "Digitalization and AI Crucial for Thermal Power Plant Efficiency and Reliability",
+      "description": "KPMG emphasizes that digitalization and AI are rapidly transforming the global power sector, serving as critical levers for thermal power plants (TPPs). These technologies improve operational efficiency, enhance reliability, and enable flexible operations in a grid increasingly reliant on renewables. Implementing digital interventions across maintenance, fuel management, and despatch planning can significantly boost plant profitability and reduce outages.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "source_doc_id": "7b374a06-3d29-5860-bf99-a449bb98dd41"
+    },
+    {
+      "index": 3,
+      "title": "Disciplined Execution Key to Successful Nuclear Megaproject Delivery",
+      "description": "Bain & Company notes that while interest in nuclear investment is rising, successful programs require rigorous preparation and execution discipline. Projects often fail not due to technology, but because of inadequate program readiness. A repeatable formula, including proven design, programmatic approach, industrialized delivery, strong owner leadership, and stakeholder alignment, is essential to overcome persistent delivery challenges and ensure projects are completed on time and budget.",
+      "stance": "cautious_positive",
+      "source_firm": "Bain & Company",
+      "source_date": "2026-06-01",
+      "source_doc_id": "61681d54-88dc-5308-8a5e-fba3c5428922"
+    },
+    {
+      "index": 4,
+      "title": "Strategic Dealmaking Critical for Power & Utilities Amid Sector Shifts",
+      "description": "BCG Global states that dealmaking, including M&A and divestitures, is becoming a critical strategic lever for power and utilities companies facing expanding demand and an uncertain environment. Despite a mixed track record in value creation, disciplined transactions, tightly integrated into corporate strategy and aligned with portfolio evolution, are essential to achieve goals like building scale, accessing capital, and acquiring capabilities. Portfolio simplification through divestitures can also play a crucial role.",
+      "stance": "neutral",
+      "source_firm": "BCG Global",
+      "source_date": "2026-05-12",
+      "source_doc_id": "2916098e-4d61-5477-8b5c-0675d193ccac"
+    },
+    {
+      "index": 5,
+      "title": "Stable Outlook for Indian Power Transmission Despite Execution Risks",
+      "description": "CareEdge Ratings maintains a 'Stable' outlook for the Indian power transmission sector, driven by the inherent resilience of commissioned assets and ongoing policy support. While execution-related risks, such as right-of-way and approval challenges, continue to cause delays during construction, the stable cash flow profile of operational assets and long concession periods provide credit quality resilience. Capex acceleration is critical for meeting energy transition goals.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-01",
+      "source_doc_id": "a19fe87f-f068-5126-b374-f5f5d421e3b3"
+    },
+    {
+      "index": 6,
+      "title": "India's Power Sector Demonstrates Robust Growth and Electrification Progress",
+      "description": "IBEF highlights India's position as the third-largest producer and consumer of electricity globally, with significant achievements in household electrification. Power generation has grown over 100-fold since independence, driven by accelerating economic activity. With an installed capacity exceeding 513 GW as of December 2025, and nearly 50% from renewable sources, the sector shows strong positive momentum and continued expansion.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "8ba6bb7d-9e5f-5cad-9247-fa18a06a5930"
+    },
+    {
+      "index": 7,
+      "title": "Immense Potential Fuels India's Renewable Energy Sector Expansion",
+      "description": "IBEF states that India's renewable energy sector possesses immense growth potential, particularly in solar and wind power, with ambitious targets to achieve 500 GW capacity by 2030. The country is surpassing climate goals, driving significant global energy demand growth, and attracting substantial investment. Strong policy support and government commitments are positioning India as a leader in the clean energy transition.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "c0f80035-98da-553e-81a7-3c8094118a4d"
+    },
+    {
+      "index": 8,
+      "title": "Gas with CCUS as Key Solution for Data Center Power Crunch",
+      "description": "BCG Global identifies a potential 80-gigawatt capacity shortfall for US data centers by 2030, driven by AI demand. They propose gas-fired generation with carbon capture, utilization, and storage (CCUS) as a leading solution for firm, low-carbon power. Despite its US focus, the findings suggest a global relevance for addressing firm power needs, making CCUS a critical technology for balancing demand and decarbonization goals in conventional generation.",
+      "stance": "cautious_positive",
+      "source_firm": "BCG Global",
+      "source_date": "2026-03-30",
+      "source_doc_id": "ad6dfc1f-679f-576f-b4af-b457f2e08106"
+    },
+    {
+      "index": 9,
+      "title": "AI-First Approach Redefines Power and Utility Operations and Strategy",
+      "description": "BCG Global asserts that AI will play a critical role in transforming power and utility (P&U) workflows, reimagining operations, and creating competitive advantage. An 'AI-First' approach, leveraging agentic AI, advanced analytics, and digital twins, can optimize capital allocation, enhance operational efficiency, improve customer engagement, and strengthen regulatory compliance. This vision addresses core challenges like affordability, load growth, and system complexity, driving significant value creation.",
+      "stance": "positive",
+      "source_firm": "BCG Global",
+      "source_date": "2026-03-20",
+      "source_doc_id": "255af22f-f731-54a1-918b-f74293f3f91b"
+    },
+    {
+      "index": 10,
+      "title": "Adaptive Strategies Essential for Navigating Low-Carbon Project Uncertainties",
+      "description": "BCG Global emphasizes that low-carbon capital projects require a distinct playbook due to inherent commercial, operational, and regulatory uncertainties. Success hinges on embracing agility, robust partnerships, resilient supply chains, innovative financing, and digital tools. This strategic perspective advises companies to adopt flexible operating models, scenario-based thinking, and iterative 'test and learn' approaches to effectively manage risks and ensure project success in a rapidly evolving landscape.",
+      "stance": "cautious_positive",
+      "source_firm": "BCG Global",
+      "source_date": "2026-03-18",
+      "source_doc_id": "9c2bb844-a4bf-55e9-9f8a-db15bfec218d"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 900.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Decarbonization Goals",
+          "description": "The national commitment to reduce carbon emissions and achieve net-zero targets drives exploration of all renewable potential."
+        },
+        {
+          "driver": "Rising Energy Demand",
+          "description": "Growing electricity consumption necessitates tapping into all available energy sources."
+        },
+        {
+          "driver": "Technological Advancements",
+          "description": "Improvements in renewable energy technologies make previously unexploitable sources commercially viable."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated renewable energy potential from commercially exploitable sources in India, comprising 750 GW from solar, 102 GW from wind, 25 GW from bio-energy, and 20 GW from small hydro.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 2,
+      "tam_value": 9.16,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising Peak Power Demand",
+          "description": "India’s peak power demand is projected to increase to 458 GW by FY32, from approximately 275 GW as of mid FY25."
+        },
+        {
+          "driver": "Rapid Renewable Energy Additions",
+          "description": "India has a target of adding about 500 GW of renewable energy capacity by 2030, necessitating expanded transmission infrastructure."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total capital outlay for transmission expansion under India's National Electricity Policy (NEP) 2022–32, with Rs 6.60 lakh crore specifically for the Inter-State Transmission System (ISTS).",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 500.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Climate Commitments",
+          "description": "India's target to achieve 50% cumulative electric power installed from renewables by 2030."
+        },
+        {
+          "driver": "Energy Security",
+          "description": "Efforts to balance energy availability, affordability, and sustainability while meeting growing energy needs."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Government of India's target for total renewable energy capacity.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 40.0,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising Power Demand",
+          "description": "Continuous growth in electricity consumption due to industrial expansion, population growth, and increasing per-capita usage."
+        },
+        {
+          "driver": "Infrastructure Upgrades",
+          "description": "Modernization of renewable energy, battery storage, and transmission networks."
+        },
+        {
+          "driver": "Clean Energy Transition",
+          "description": "Shift towards renewable sources to meet decarbonization goals."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Investment opportunity in the Indian power sector over the next decade, as reported by Motilal Oswal.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 5,
+      "tam_value": 513.79,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Population Growth",
+          "description": "Increasing population drives overall energy demand."
+        },
+        {
+          "driver": "Industrial Expansion",
+          "description": "Growing industrial activity necessitates more power consumption."
+        },
+        {
+          "driver": "Household Electrification",
+          "description": "Government schemes like Saubhagya aim for 100% household access to electricity."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total installed power capacity in India as of December 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": 100.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2047,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing Energy Demands",
+          "description": "Meeting the increasing electricity consumption needs of the country."
+        },
+        {
+          "driver": "Environmental Goals",
+          "description": "Achieving decarbonization and net-zero commitments through low-carbon baseload power."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Target set by India’s Nuclear Energy Mission.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 7,
+      "tam_value": 4.79,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2032,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Renewable Energy Integration",
+          "description": "The need for storage to manage the intermittency of increasing solar and wind power generation."
+        },
+        {
+          "driver": "Grid Modernization",
+          "description": "Upgrading the grid infrastructure to enhance flexibility, reliability, and support smart metering initiatives."
+        },
+        {
+          "driver": "Reliable Power Supply",
+          "description": "Ensuring round-the-clock power availability to meet growing demand and minimize outages."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected investment for India’s energy storage sector, as per the India Energy Storage Alliance (IESA).",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 8,
+      "tam_value": 25.66,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Doubling Capital Expenditure",
+          "description": "India plans to significantly increase its overall capex by 2030."
+        },
+        {
+          "driver": "Meeting Rising Demand",
+          "description": "Catering to the growing electricity consumption across industrial, residential, and commercial sectors."
+        },
+        {
+          "driver": "Infrastructure Upgrades",
+          "description": "Modernizing and expanding power generation and transmission networks."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Planned capital expenditure for power and transmission by 2030, as part of a larger Rs. 72.72 lakh crore total capex.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 9,
+      "tam_value": 458.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2032,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong Underlying Growth in Electricity Consumption",
+          "description": "Driven by industrial expansion, household electrification, and increased per-capita usage."
+        },
+        {
+          "driver": "Accelerated Renewable Capacity Deployment",
+          "description": "Integration of new generation capacity requires robust demand forecasting."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected peak power demand in India by FY32, from National Electricity Policy (NEP) 2022–32.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 10,
+      "tam_value": 190.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Renewable Energy Capacity Target",
+          "description": "The ambitious goal of reaching 500 GW of renewable energy capacity by 2030."
+        },
+        {
+          "driver": "Electricity Transmission, Distribution, and Storage Needs",
+          "description": "Additional investments are required for grid infrastructure to support this capacity, amounting to an estimated US$ 150-170 billion."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Investment required for India to achieve 500 GW of renewable energy capacity by 2030, as estimated by Moody's.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 11,
+      "tam_value": 817.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Industrial Expansion",
+          "description": "India's growing industrial activity and manufacturing sector."
+        },
+        {
+          "driver": "Growing Per-Capita Incomes",
+          "description": "Increased disposable income leads to higher consumption of electricity in households and commercial establishments."
+        },
+        {
+          "driver": "Widespread Electrification",
+          "description": "Continued efforts to electrify all villages and households across the country."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimate by the Central Electricity Authority (CEA) for India's power requirement by 2030.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 12,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Electrification of Villages and Households",
+          "description": "Increased access to electricity across the country's rural and urban areas."
+        },
+        {
+          "driver": "Industrial and Economic Growth",
+          "description": "Growing economic activity and industrial output contributing to higher energy use per person."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Per capita electricity consumption in India for FY25.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "CareEdge Ratings",
+    "KPMG",
+    "Bain & Company",
+    "BCG Global",
+    "IBEF"
+  ]
+}

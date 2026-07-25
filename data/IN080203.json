@@ -1,0 +1,299 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Sophisticated AI-enabled cyberattacks rapidly exploiting vulnerabilities",
+      "description": "The advent of AI models like Claude Mythos (Anthropic), GPT-5.4-Cyber (OpenAI), and Big Sleep (Google) signifies an era of AI-enabled cyberattacks. These tools can identify and exploit zero-day vulnerabilities, chain multiple weaknesses into devastating attacks, and reconstruct source code at machine speed. This dramatically compresses the window for defense, making traditional, slower responses inadequate. The cost and effort to launch sophisticated attacks are decreasing, necessitating a fundamental shift in defensive strategies and increased investment.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-21"
+    },
+    {
+      "index": 2,
+      "title": "Chronic underinvestment in cybersecurity creating deep foundational weaknesses",
+      "description": "Many organizations have historically deprioritized cybersecurity, leading to significant underinvestment (spending only ~0.69% of revenue on average). This has resulted in deep underlying weaknesses that AI-enabled attacks are now rapidly exposing. The previous logic of accepting low-probability risks is no longer valid, as AI collapses the effort required for sophisticated attacks. This chronic underfunding is a critical business risk, impacting survivability for some businesses, and demands a substantial, non-incremental increase in cybersecurity spending to fix long-standing problems.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-21"
+    },
+    {
+      "index": 3,
+      "title": "Mandatory significant increase in cybersecurity spending to counter AI threats",
+      "description": "The escalating threat from AI-enabled cyberattacks is forcing organizations to increase cybersecurity spending significantly. Many will need to double their current budgets or more, a stark contrast to typical 10% annual increases. This demand for increased investment is driven by the necessity to strengthen foundational cybersecurity capabilities, address operational technology vulnerabilities, and prepare for future risks like post-quantum computing. This represents a substantial tailwind for the cybersecurity sector, as enterprises recognize that this spending is no longer optional but a matter of survival and regulatory compliance.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-21"
+    },
+    {
+      "index": 4,
+      "title": "Cybersecurity elevating to a fundamental business risk requiring board ownership",
+      "description": "Cybersecurity is no longer a purely technical matter to be delegated downwards; it has become a fundamental business risk requiring active ownership at the CEO and board level. Regulatory pressures, such as NIS2 in Europe and SEC disclosure rules in the US, are raising governance expectations. The scale and scope of AI-enabled threats mean that boards must prioritize cybersecurity as a critical topic, driving sustained investment and genuine urgency. This structural shift redefines the strategic importance of the cybersecurity function within organizations and its integration with overall business strategy.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-21"
+    },
+    {
+      "index": 5,
+      "title": "Critical operational technology (OT) environments highly vulnerable to AI attacks",
+      "description": "Industries like energy, utilities, manufacturing, water, and transportation rely on decades-old industrial control systems that are often unpatchable and built for reliability, not security. These OT environments present a particularly acute risk as AI models can autonomously discover zero-day vulnerabilities in aged, complex codebases. The inability to patch these systems means organizations must focus on fundamental protective controls like strict network segmentation, OT-specific anomaly detection, and tight restrictions on internet-facing exposure to mitigate the high risk of AI-enabled attacks.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-21"
+    },
+    {
+      "index": 6,
+      "title": "Growing need for post-quantum cryptography readiness by 2030",
+      "description": "The transition to post-quantum cryptography (PQC) represents a significant and, for some sectors like finance and defense, existential transformation requirement. Quantum computing will fundamentally undermine many of today's encryption approaches, creating an entirely new category of cybersecurity risk. Organizations need a clear risk assessment and roadmap to be quantum-ready by 2030. This structural change demands proactive preparation for migrating encryption systems, creating substantial long-term opportunities for cybersecurity providers specializing in quantum-safe solutions.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-21"
+    },
+    {
+      "index": 7,
+      "title": "Rising regulatory pressure demanding higher cybersecurity standards",
+      "description": "The global regulatory environment is becoming more fragmented and stringent, with frameworks like NIS2 in Europe and SEC cybersecurity disclosure rules in the US raising the bar for cybersecurity. This increased scrutiny compels organizations to enhance their digital safety, sovereignty, and resilience measures. For the cybersecurity sector, this translates into a significant tailwind, as enterprises are forced to invest more in compliance, governance structures, enhanced security controls, and reporting mechanisms. The demand for solutions that streamline compliance and provide robust data protection is growing rapidly.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 8,
+      "title": "Growing demand for AI-enabled managed security services",
+      "description": "Organizations are increasingly recognizing the strategic value of AI-enabled managed services, particularly in cybersecurity, to accelerate digital transformation and gain competitive advantage. The ability of providers to offer advanced AI capabilities combined with specialized human expertise to address complex cybersecurity challenges is a top consideration. This trend represents a strong tailwind for MSSPs, as companies seek external partners to navigate integration complexities, ensure data governance, and achieve measurable ROI from their cybersecurity investments, shifting from internal capacity building to outcome-based delegation.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 9,
+      "title": "Evolution of cyber budgeting towards risk-driven justification",
+      "description": "The traditional approach to cybersecurity budgeting, often based on inertia or arbitrary allocations, is evolving towards a risk-driven model. This structural change advocates for mapping every budget item to documented and quantified risks, requiring CISOs to justify investments based on measurable risk reduction outcomes. While demanding discipline and collaboration across security, finance, and enterprise risk functions, this shift aims to create more flexible, adaptive budgets that respond to evolving threats, enhance investment efficiency, and align security spending with tangible business benefits and resilience goals.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 10,
+      "title": "New opportunity: Protecting AI models and systems from novel threats",
+      "description": "The deep integration of AI into enterprise operations creates a novel and critical opportunity for the cybersecurity sector: safeguarding AI systems themselves. This includes developing solutions to monitor and protect AI models and platforms from risks and threats, ensuring responsible and secure AI deployment. Firms like Infosys are already introducing 'Responsible AI Suites' aimed at scanning, shielding, and steering AI models to prevent misuse and ensure integrity. This emerging domain represents a significant growth avenue for cybersecurity companies specializing in AI-specific security challenges.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 11,
+      "title": "AI's dual role as both a pervasive threat and powerful defensive tool",
+      "description": "AI is fundamentally reshaping the cybersecurity landscape by acting as a double-edged sword. On one hand, it empowers threat actors to launch more sophisticated, scaled, and faster attacks. On the other, it offers defenders the ability to detect and respond to threats more efficiently than humans alone, bolstering productivity. This structural change requires cybersecurity firms to develop solutions that leverage AI defensively while simultaneously preparing for AI-enabled attacks. The challenge lies in safely and effectively embedding AI into security operations, managing the opportunities and threats it presents.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 12,
+      "title": "Shift towards autonomous security and managing non-human identities",
+      "description": "Cybersecurity is undergoing a pivotal transformation with the rise of autonomous security, where AI agents take on intelligence-driven tasks in SOCs, compliance, risk management, and identity management. This necessitates a strong focus on identifying and monitoring non-human identities, which now outnumber human users in increasingly digitized and automated environments. This structural change demands a rethinking of identity governance to include the full lifecycle of both human and machine actors, utilizing AI to manage the complexity it created, redefining the approach to security operations and defense.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 13,
+      "title": "Increased demand for cybersecurity skills driving hiring growth",
+      "description": "The cybersecurity sector is experiencing significant hiring growth, driven by the expanding digital landscape and evolving threat intelligence. This is part of a broader trend in IT hiring, especially in non-metro cities, where 'AI, cloud and cybersecurity' are identified as key demand drivers. The need for professionals capable of navigating complex cyber environments, deploying AI for defense, and managing new risks (like non-human identities) is creating a strong tailwind for talent acquisition within the cybersecurity industry, indicating robust employment opportunities and sector expansion.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 14,
+      "title": "Expanding digital attack surface from hyperconnectivity and IoT ubiquity",
+      "description": "The ubiquitous nature of technology, coupled with IT/OT hyperconnectivity and the proliferation of IoT devices, is significantly expanding the digital attack surface. This creates more potential entry points and vulnerabilities for cybercriminals and nation-state actors, especially in critical infrastructure sectors like utilities and manufacturing. Data centers, now considered critical infrastructure, face immense pressure to safeguard power and utility facilities. Cybersecurity solutions must evolve to secure these increasingly interconnected and complex environments, demanding dynamic 'mesh' architectures and continuous monitoring across cyber-physical boundaries.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 15,
+      "title": "Increased supply chain cyber risk from third-party vulnerabilities",
+      "description": "Today's complex supply chains create a vast digital attack surface, significantly increasing cyber risk. AI-enabled attacks are increasingly targeting suppliers, vendors, and third-party software as routes into larger organizations. Even well-defended enterprises can be compromised through a poorly protected partner, highlighting that cybersecurity thinking must extend beyond organizational walls. This critical risk necessitates continuous monitoring and oversight, including assessing AI-specific cybersecurity posture during supplier due diligence, to maintain operational resilience and prevent widespread compromises.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-21"
+    },
+    {
+      "index": 16,
+      "title": "Cybersecurity as a business differentiator and trust builder",
+      "description": "Cybersecurity is increasingly viewed not just as a cost or a technical problem, but as a potential business differentiator and asset for building stakeholder trust. By creating safer, more resilient operations, CISOs can enhance brand reputation, reduce the cost of capital, and enable new product development, contributing to overall business competitiveness. This shift allows organizations to leverage robust cyber defenses as a competitive advantage, especially in an era of heightened cyber risks and regulatory scrutiny, driving greater investment and strategic importance for the cybersecurity sector.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-01"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "AI is a powerful force redefining cybersecurity defense, requiring strategic integration",
+      "description": "AI is reshaping cybersecurity, becoming a powerful force in modern defense. While threat actors use AI to amplify attacks, organizations can harness these technologies to strengthen resilience. The report emphasizes AI as a foundational security capability, moving beyond experimentation. Success requires investment in technology, skills, process, and a clear AI deployment strategy with rigorously tested use cases, strong governance, and human oversight. AI's value isn't just automation; intentional and disciplined approaches position organizations to strengthen defenses and build agility for future threats.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG / World Economic Forum",
+      "source_date": "2026-06-01",
+      "source_doc_id": "0edc3f89-fef7-5634-8175-e4677555dc29"
+    },
+    {
+      "index": 2,
+      "title": "Cyber budgeting must shift to a risk-driven approach for better outcomes and ROI",
+      "description": "Cybersecurity budgets are often misaligned with actual risk, leading to ineffective resource allocation. KPMG advocates for a framework where every budget category is mapped to documented and quantified risks, requiring flexibility and continuous updates. This approach forces CISOs to justify investments based on measurable business outcomes like 'reducing annualised loss from ransomware by $10 million for $2 million'. Such a shift, though challenging due to legacy practices and cultural resistance, can significantly improve resilience, board alignment, and security investment ROI.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "source_doc_id": "3430b48a-2982-54b2-b345-4d08104766ae"
+    },
+    {
+      "index": 3,
+      "title": "AI-enabled attacks necessitate significant, urgent increases in cybersecurity spending",
+      "description": "The era of AI-enabled attacks has arrived, exposing chronic underinvestment in cybersecurity. Sophisticated AI models like Claude Mythos can find and exploit vulnerabilities at unprecedented speed and scale. Organizations must increase cybersecurity spending by up to two times their current levels, far exceeding the typical 10% annual increases planned. The consequences of inaction will be severe, especially for businesses with vulnerable operational technology environments. This is a critical business risk demanding immediate, structural change and active ownership at the board level.",
+      "stance": "cautious_negative",
+      "source_firm": "Bain & Company",
+      "source_date": "2026-04-21",
+      "source_doc_id": "f0276bbd-5506-53eb-8e92-1b59b7e272e9"
+    },
+    {
+      "index": 4,
+      "title": "Prioritizing strong foundational cybersecurity is paramount against advanced AI threats",
+      "description": "Against sophisticated AI-enabled attacks, strong cybersecurity fundamentals remain the most effective defense, not waiting for new AI-specific tools. Independent testing shows that well-hardened defenses can reliably resist autonomous AI attacks. Most organizations urgently need to address existing weaknesses in areas like robust access controls, network segmentation, automated patching, zero trust architecture, and anomaly detection. Fixing these 'old problems' is the immediate priority, as AI primarily exposes existing vulnerabilities rather than creating new ones, making it a matter of survival.",
+      "stance": "cautious_positive",
+      "source_firm": "Bain & Company",
+      "source_date": "2026-04-21",
+      "source_doc_id": "f0276bbd-5506-53eb-8e92-1b59b7e272e9"
+    },
+    {
+      "index": 5,
+      "title": "AI-enabled managed services are key to accelerating cybersecurity and competitive advantage",
+      "description": "Senior leaders are increasingly leveraging managed services as an AI accelerator, recognizing its critical role in digital transformation. AI capability is the most cited consideration for managed services, with AI management and cybersecurity identified as the top areas for value. This reflects a shift towards providers who offer both advanced technology and specialized human expertise to address deployment friction points like integration complexity, data governance, and ROI. Managed services, particularly in cybersecurity, are becoming a strategic priority for organizations seeking agility, speed, and competitive advantage.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-04-01",
+      "source_doc_id": "c022ab47-8cd1-5998-a335-8ff516afc8f9"
+    },
+    {
+      "index": 6,
+      "title": "CISOs must proactively navigate dynamic tech, geopolitical, and compliance landscapes",
+      "description": "CISOs face growing pressure to balance business agility with cyber risk amidst rapid technological changes, evolving geopolitical landscapes, and complex compliance requirements. Their role expands across all business functions, necessitating strong advocacy for cybersecurity investments. Key drivers include managing opportunities and threats from AI, navigating fragmented global regulations for digital safety and sovereignty, and addressing geopolitical tensions impacting supply chains. CISOs must adopt 'radical transparency' to communicate cyber risk to stakeholders and ensure trusted operations in an expanding cyber attack surface, emphasizing resilience and compliance.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-04-01",
+      "source_doc_id": "92679d0d-a720-5263-9f84-b6a92467c310"
+    },
+    {
+      "index": 7,
+      "title": "Regulatory compliance is increasingly complex, straining cybersecurity teams and resources",
+      "description": "The global regulatory environment is becoming more fragmented, increasing the complexity of compliance for CISOs and Chief Risk Officers. Obligations related to digital safety, sovereignty, and resilience are multiplying, placing significant strain on the resources and capabilities of cybersecurity teams. This environment demands that security functions not only keep data secure and private but also navigate a growing web of legal and ethical requirements. Consequently, organizations must find ways to streamline controls and accelerate evidence collection to meet these expanding compliance burdens.",
+      "stance": "cautious_negative",
+      "source_firm": "KPMG",
+      "source_date": "2026-04-01",
+      "source_doc_id": "92679d0d-a720-5263-9f84-b6a92467c310"
+    },
+    {
+      "index": 8,
+      "title": "AI in cybersecurity is a double-edged sword, presenting both opportunities and risks",
+      "description": "AI is a disruptive force in cybersecurity, offering both significant opportunities and heightened risks. Defenders can leverage AI to detect and address threats faster and more efficiently, enhancing productivity. However, AI also empowers threat actors, allowing them to automate, scale, and employ more sophisticated attack methods. The proliferation of agentic AI specifically increases scrutiny on digital identity management, requiring CISOs to protect numerous non-human identities and control their activities. Therefore, while AI can be a 'superpower' for defense, it also creates new complexities and challenges.",
+      "stance": "neutral",
+      "source_firm": "KPMG",
+      "source_date": "2026-04-01",
+      "source_doc_id": "92679d0d-a720-5263-9f84-b6a92467c310"
+    },
+    {
+      "index": 9,
+      "title": "Autonomous security and non-human identity management are critical for future cyber defense",
+      "description": "With the advent of autonomous security, agents are increasingly taking on intelligence-driven tasks in security operations centers (SOCs), compliance, risk, and identity management. This necessitates a focus on autonomous security to identify and monitor non-human identity activity. As digitized and automated environments expand, non-human identities (AI agents, service accounts, machine credentials) now outnumber human users. Organizations must rethink identity governance to encompass the full lifecycle of both human and machine actors, utilizing AI to manage the complexity it helped create. This transformation is pivotal for robust cyber defense.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-04-01",
+      "source_doc_id": "92679d0d-a720-5263-9f84-b6a92467c310"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Emergence of AI-enabled Attacks",
+          "description": "Sophisticated AI models enable threat actors to exploit vulnerabilities at unprecedented speed and scale, necessitating advanced defensive capabilities."
+        },
+        {
+          "driver": "Expanding Digital Attack Surface",
+          "description": "The ubiquity of technology, IT/OT hyperconnectivity, and vast numbers of IoT devices are constantly increasing potential points of entry for cyberattacks."
+        },
+        {
+          "driver": "Rising Regulatory Compliance",
+          "description": "Fragmented global regulations (e.g., DPDP Act, NIS2, SEC disclosure rules) mandate enhanced data protection, digital safety, and sovereignty, driving investment in security solutions."
+        },
+        {
+          "driver": "Need for Stronger Cybersecurity Fundamentals",
+          "description": "Organizations are recognizing the imperative to strengthen basic cyber hygiene, such as automated patching, zero trust, anomaly detection, and modern identity controls, as the best defense against evolving threats."
+        },
+        {
+          "driver": "Customer Data Protection",
+          "description": "Regulatory advisories, like RBI's, enforce robust customer data protection frameworks, including strong security controls, cloud security, and continuous monitoring, requiring investment in specific cybersecurity tools and services."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The deep embedding of AI in enterprise operations creates a critical need for safeguarding AI systems, including monitoring and protecting AI models from risks and threats, as exemplified by Infosys's 'Topaz' Responsible AI Suite.",
+          "opportunity": "Protecting AI Models and Systems"
+        },
+        {
+          "description": "The rise of autonomous security agents handling intelligence-driven tasks and the increasing number of non-human identities (AI agents, service accounts) create opportunities for specialized solutions in identity governance and automated defense.",
+          "opportunity": "Autonomous Security and Non-Human Identity Management"
+        },
+        {
+          "description": "The impending threat of quantum computing undermining current encryption methods creates a significant, long-term opportunity for cybersecurity firms to develop and implement post-quantum cryptographic solutions, requiring PQC-ready architectures.",
+          "opportunity": "Post-Quantum Cryptography (PQC)"
+        },
+        {
+          "description": "Organizations are increasingly turning to managed services providers who can offer AI capabilities and expertise in cybersecurity to accelerate digital transformation, manage integration complexity, and drive competitive advantage.",
+          "opportunity": "AI-Enabled Managed Security Services (MSSPs)"
+        },
+        {
+          "description": "A shift towards justifying cybersecurity investments based on quantifiable risk reduction rather than traditional line-item budgets presents an opportunity for solutions that help organizations identify, quantify, and map spending to specific cyber risks, improving ROI and board alignment.",
+          "opportunity": "Risk-Based Cybersecurity Budgeting"
+        }
+      ],
+      "methodology": "No explicit market sizing figures for IN080203 Cybersecurity are provided. The analysis focuses on identifying demand drivers, P&L drivers, and new opportunities for the sector based on expert reports and industry trends.",
+      "source_firm": "Multiple (KPMG, Bain & Company, IBEF, RBI)",
+      "source_date": "2026-06-01",
+      "data_confidence": "medium"
+    }
+  ],
+  "sources": [
+    "KPMG / World Economic Forum",
+    "KPMG",
+    "Bain & Company",
+    "Multiple (KPMG, Bain & Company, IBEF, RBI)"
+  ]
+}

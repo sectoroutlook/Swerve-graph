@@ -1,0 +1,644 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "AI rewrites tech company economics and competitive advantage",
+      "description": "Artificial Intelligence is fundamentally altering the economic foundations of how technology companies operate. AI-first organizations are achieving significant productivity gains and speed in product innovation, customer experience, and operations. This shift is reshaping traditional competitive advantages like human capital scale and speed to market, driving a need for organizational and operating model reinvention.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-09"
+    },
+    {
+      "index": 2,
+      "title": "AI-amplified cyber threats escalate the need for robust AI-driven defense",
+      "description": "Threat actors are increasingly leveraging AI to enhance the speed, scale, and sophistication of cyberattacks, creating a more challenging security landscape. This escalation forces organizations to adopt AI as a core capability in their cybersecurity defenses, moving beyond experimental stages to strategically implement AI-enabled resilience. Failure to adapt poses significant risk to data and operations.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 3,
+      "title": "Absence of deep domestic component supply chain limits India's EMS value capture",
+      "description": "India's Electronic Manufacturing Services (EMS) industry faces a significant structural vulnerability due to the lack of a deep, domestic component supply chain. Unlike established hubs, India relies on long-haul imports for critical components like semiconductors and displays. This leads to high embedded import content in domestically assembled products, constraining local value capture and resulting in a 'scale without depth' paradox for the sector.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 4,
+      "title": "AI fundamentally redefines roles and team structures in software organizations",
+      "description": "AI is profoundly changing how software companies build, run, sell, and maintain software, leading to a redefinition of roles and team structures. Employees will act as orchestrators of AI agents, making teams smaller and hybrid. Functional boundaries will blur as work becomes more end-to-end, with engineers engaging directly with customers. This necessitates adapting talent, workflows, and governance models for an agentic workforce.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-21"
+    },
+    {
+      "index": 5,
+      "title": "India's large talent pool and startup ecosystem propel IT sector growth",
+      "description": "India possesses a huge talent pool, accounting for a significant portion of global STEM and software engineering professionals. This, coupled with the world's third-largest startup ecosystem, attracts strong interest from global and domestic firms. The availability of skilled workers and a vibrant innovation environment are key drivers for the expansion and competitive advantage of India's IT sector.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 6,
+      "title": "Government policies and investments actively boost India's IT and ESDM sectors",
+      "description": "The Indian government actively supports the IT and ESDM sectors through significant policies and investments. Initiatives like the IndiaAI Mission, PLI schemes for electronics and IT hardware, and the India Semiconductor Mission provide fiscal incentives and infrastructure support. These measures aim to foster domestic manufacturing, attract foreign investment, and advance R&D, positioning India as a global leader in technology and electronics.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 7,
+      "title": "Cloud adoption and modernization are accelerating demand for IT services",
+      "description": "The rapid adoption of cloud technology and ongoing modernization efforts across various industries are significantly increasing the demand for cloud professionals and public cloud services. This trend drives substantial growth in India's IT services market, with a strong projection for the public cloud services market in the coming years. This also generates millions of jobs and contributes to GDP growth.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 8,
+      "title": "Global supply chain realignment boosts India's EMS and electronics manufacturing",
+      "description": "Geopolitical risk repricing and the drive for supply chain resilience (China+1 strategy) are leading global OEMs to pivot from China-centric manufacturing. This structural shift is redirecting manufacturing activity to alternative nodes like India, presenting a significant opportunity for the country's EMS providers. India is emerging as a strategic supply chain partner, attracting investments in electronics system design and manufacturing.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 9,
+      "title": "Productivity gaps and logistics unreliability hinder India's EMS competitiveness",
+      "description": "Despite a large labor pool, India's EMS industry faces productivity gaps due to lower automation density and limited exposure to complex manufacturing programs compared to established hubs. Additionally, logistics reliability issues, including customs clearance and turnaround times, create friction for time-critical programs. These factors partially offset labor cost advantages, impacting India's competitiveness in high-precision EMS segments.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 10,
+      "title": "Expansion of Global Capability Centres (GCCs) drives tech job growth",
+      "description": "Global Capability Centres (GCCs) in India are rapidly expanding, creating a significant number of new tech jobs, particularly white-collar roles. This growth is fueled by the rapid adoption of AI, cloud modernization, and engineering R&D. Non-metro cities are increasingly attracting IT hiring, reflecting a structural shift and offering cost savings, further solidifying India's role as a global delivery hub.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 11,
+      "title": "Automakers' shift to software-defined vehicles boosts demand for IT",
+      "description": "The automotive industry's transition towards software-defined vehicles (SDVs) and electrification is a major structural shift. OEMs are increasingly partnering with technology firms to co-develop complex software architectures, validation frameworks, and digital platforms. This creates substantial demand for application software, IT services, and cloud infrastructure within the Information Technology sector, transforming OEM expenditure towards IT.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-26"
+    },
+    {
+      "index": 12,
+      "title": "IT services shift from per-FTE to outcome-based contracts due to AI productivity",
+      "description": "The IT services industry is moving away from traditional per-FTE contracts towards outcome-based models. AI-driven productivity gains (20-40%) mean clients increasingly demand pay-for-results rather than headcount. Companies are adapting by offering fixed-price, subscription, and usage-based deals. This structural change requires IT service providers to innovate business models and demonstrate tangible value from technology adoption.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 13,
+      "title": "Organizational inertia impedes AI adoption for incumbent tech firms",
+      "description": "While AI-native companies rapidly leverage new capabilities, incumbent tech firms often face significant challenges in adopting and scaling AI due to operating-model inertia, organizational complexity, and internal silos. This hinders their ability to fully integrate AI, potentially leaving them behind smaller, leaner, AI-native rivals. Transforming into an AI-led function requires not just technical capabilities but also well-executed change management.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-09"
+    },
+    {
+      "index": 14,
+      "title": "High interest rates make large-scale tech growth investments more challenging",
+      "description": "Tech companies are facing heightened pressure to invest heavily in substantive AI innovation amid rising market and investor expectations for profitability. Simultaneously, a high interest-rate environment makes large-scale growth investments more challenging. This cyclical pressure forces companies to pursue aggressive cost agendas and strategically reallocate capital towards high-impact AI initiatives, impacting investment strategies and funding availability.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-09"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "AI fundamentally reshaping tech company economics, demanding organizational reinvention for success",
+      "description": "AI is disrupting the technology sector's competitive landscape by altering economic fundamentals, favoring AI-first organizations. Tech leaders must reinvent operating models and organizational structures for AI-native ways of building to capture value, otherwise they risk being outpaced. Early movers are best positioned for future growth despite market pressures.",
+      "stance": "cautious_positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-06-09",
+      "source_doc_id": "00f56f6f-a19d-5465-b6c5-9d1007368195"
+    },
+    {
+      "index": 2,
+      "title": "AI is a strategic necessity for cybersecurity, empowering stronger organizational defenses",
+      "description": "AI is transforming cybersecurity, becoming a core capability for modern defense. While threat actors use AI to amplify attacks, organizations can harness these technologies to strengthen resilience. Success requires investing in technology, skills, processes, and pairing clear AI deployment strategies with rigorous testing and strong human oversight.",
+      "stance": "positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-06-01",
+      "source_doc_id": "0edc3f89-fef7-5634-8175-e4677555dc29"
+    },
+    {
+      "index": 3,
+      "title": "India's EMS market poised for significant growth, but requires ecosystem depth",
+      "description": "India's Electronic Manufacturing Services (EMS) market is projected for substantial growth, driven by global supply chain diversification and government policies. However, the current focus on mobile assembly leads to 'scale without depth' due to reliance on imported components, productivity gaps, and logistics challenges. Sustainable long-term growth needs an upgrade in engineering depth and supply chain sophistication.",
+      "stance": "cautious_positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-06-01",
+      "source_doc_id": "09966666-4bad-5f95-a501-252e756a86f2"
+    },
+    {
+      "index": 4,
+      "title": "Tech companies must redesign operating models to thrive in an AI-accelerated world",
+      "description": "Traditional tech company operating models, reliant on escalation for complexity resolution, are becoming too slow. Top performers adopt new approaches like habit cultivation, authority delegation within guardrails, and instrumented flows to solve issues at the source. In an AI-accelerated environment, organizations avoiding escalations through front-line friction reduction will achieve faster growth and outperformance.",
+      "stance": "cautious_positive",
+      "source_firm": "bain",
+      "source_date": "2026-05-21",
+      "source_doc_id": "8720260a-47a4-5aeb-8e56-598053a79680"
+    },
+    {
+      "index": 5,
+      "title": "AI will fundamentally transform software organizations, necessitating workflow and cultural redesign",
+      "description": "AI is set to redefine roles and team structures within software organizations, enabling employees to achieve more with AI agents. This transformation will lead to smaller, hybrid human-AI pods with blurred functional boundaries and increased end-to-end ownership. To maximize AI's value, companies must redesign workflows, simplify structures, support decentralized decision-making, and cultivate a culture of experimentation.",
+      "stance": "positive",
+      "source_firm": "bain",
+      "source_date": "2026-05-21",
+      "source_doc_id": "0e41d053-42bb-5e08-8d6d-afce100d0b29"
+    },
+    {
+      "index": 6,
+      "title": "India's IT sector experiences strong growth driven by AI, cloud, and policy support",
+      "description": "India's Information Technology industry is on a robust growth trajectory, propelled by the widespread adoption of artificial intelligence, advancements in cloud modernization, and the expansion of Global Capability Centres. Significant government investments and supportive policies are further fueling this expansion, positioning India as a leading hub for IT services and talent, with increasing exports and employment opportunities.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "source_doc_id": "71e3b2a8-89cc-51a9-839e-01d69bc83992"
+    },
+    {
+      "index": 7,
+      "title": "India's ESDM industry poised for rapid expansion, leveraging policy and demand",
+      "description": "India's Electronics System Design & Manufacturing (ESDM) industry is set for rapid expansion, driven by robust domestic demand, supportive government policies like PLI schemes, and increasing digitalization. The country is attracting significant investments in semiconductor manufacturing and electronics components, aiming to become a global manufacturing hub and reduce import dependency, despite current reliance on imported components.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "source_doc_id": "8663d286-15ea-5d30-acf3-a4efd5c639da"
+    },
+    {
+      "index": 8,
+      "title": "India's S&T sector, especially IT, is thriving due to talent pool and investment",
+      "description": "India's science and technology sector, encompassing IT and AI, is experiencing significant advancement. This growth is underpinned by a vast talent pool, strong policy frameworks, and rising private and public investments in R&D and startups. India's improving global rankings in innovation and network readiness, coupled with initiatives like the IndiaAI Mission, solidify its position as a key global innovation hub.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "source_doc_id": "fcbea2c8-37ee-50ca-9220-dfd691e978f0"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 297.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s IT industry revenue in 2025, with exports contributing US$ 233 billion. Estimated by NASSCOM.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 315.4,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projection for India's IT industry revenue by 2026, contributing 10% to India’s GDP.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 3,
+      "tam_value": 500.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projection for India's technology industry revenue by 2030, aiming to double its revenue.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 4,
+      "tam_value": 42.7,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 6.94,
+      "forecast_cagr_period": "2026-34",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising demand and digital transformation",
+          "description": "The increasing need for digital services and the ongoing digital transformation initiatives across industries drive demand for IT services."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected size of India's IT services market in 2025. It is expected to grow with rising demand and digital transformation.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": 158.19,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 4.57,
+      "forecast_cagr_period": "2025-30",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Value-led partnerships",
+          "description": "Strategic collaborations that enhance service offerings and market reach."
+        },
+        {
+          "driver": "Strong IT talent",
+          "description": "Availability of a skilled workforce supports export growth and competitive advantage."
+        },
+        {
+          "driver": "AI adoption",
+          "description": "Integration of AI capabilities into software services creates new opportunities and efficiencies."
+        },
+        {
+          "driver": "Global capability centres",
+          "description": "Expansion of GCCs in India contributes to increasing software services exports."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s software services exports in 2025. This includes exports driven by value-led partnerships, strong IT talent, AI adoption, and global capability centers.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": 176.3,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Data-centre expansion",
+          "description": "Increased investment in physical data centers and associated infrastructure to support growing digital needs."
+        },
+        {
+          "driver": "AI-enabled software investments",
+          "description": "Spending on software incorporating Artificial Intelligence capabilities, indicating a shift towards advanced solutions."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected IT spending in India for 2026, driven by data-centre expansion and AI-enabled software investments.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 7,
+      "tam_value": 17.8,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Demand from BFSI, manufacturing, government, software, and media sectors",
+          "description": "Key industry verticals are increasingly adopting public cloud services for their operations and digital transformation."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's public cloud services market is expected to reach US$ 17.8 billion by 2027, up from US$ 3.8 billion in 1H2023.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 8,
+      "tam_value": 22.61,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 6.78,
+      "forecast_cagr_period": "2026-31",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising demand and digital transformation",
+          "description": "Increasing adoption of digital technologies across sectors and personal use cases drives demand for IT hardware."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's IT Hardware market is expected to reach US$ 22.61 billion in 2026, growing from US$ 21.17 billion in 2025. It is expected to reach US$ 31.39 billion in 2031.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 9,
+      "tam_value": 45.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 25.0,
+      "forecast_cagr_period": "2025-30",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Domestic demand",
+          "description": "Growing internal consumption of electronic products within India."
+        },
+        {
+          "driver": "Export growth",
+          "description": "Increasing demand for Indian-manufactured electronics in international markets."
+        },
+        {
+          "driver": "Outsourcing trend",
+          "description": "Global OEMs shifting manufacturing to India to leverage cost efficiencies and supply chain resilience."
+        },
+        {
+          "driver": "PLI driven infrastructure expansion",
+          "description": "Government Production-Linked Incentive schemes catalyze investment in manufacturing infrastructure."
+        },
+        {
+          "driver": "Global leadership in mobile phone assembly",
+          "description": "India's prominent role in mobile phone production and assembly contributes significantly to the EMS market."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's EMS market expanded from US$10-12 billion in FY20 to US$40-45 billion in FY25. This growth is powered by PLI-driven infrastructure expansion and global leadership in mobile phone assembly.",
+      "source_firm": "kpmg",
+      "source_date": "2026-06-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 10,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Boom in data-centre expansion",
+          "description": "Significant investments in new and expanded data center infrastructure worldwide, especially for cloud and AI workloads."
+        },
+        {
+          "driver": "AI-enabled software investments",
+          "description": "Increased spending on software and platforms integrated with Artificial Intelligence capabilities across various industries."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Global IT expenditure is forecast to hit US$ 6.15 trillion in 2026, reflecting a 10.8% rise from 2025. Server expenditure is anticipated to surge by 36.9% year-on-year in 2026. Overall data centre spending projected to climb 31.7%, exceeding US$ 650 billion in 2026.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 11,
+      "tam_value": 33.9,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong domestic demand",
+          "description": "Rising disposable incomes and consumption contribute to increased demand for consumer electronics."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's appliance and consumer electronics market is expected to become the fourth-largest globally by FY27, with revenues projected at Rs. 3,00,000 crore (US$ 33.9 billion) by FY29.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 12,
+      "tam_value": 63.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 12.0,
+      "forecast_cagr_period": "2019-25",
+      "historical_cagr": null,
+      "historical_cagr_period": "2019-25",
+      "demand_drivers": [
+        {
+          "driver": "Global R&D outsourcing trend",
+          "description": "Increasing tendency of international companies to offshore engineering R&D and product development to India."
+        },
+        {
+          "driver": "Skilled workforce availability",
+          "description": "India's large pool of software engineers and new graduates supports growth in R&D and product development."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The engineering R&D and product development market in India is forecast to post a CAGR of ~12% to reach US$ 63 billion by 2025 from US$ 31 billion in 2019.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 13,
+      "tam_value": 7.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Accelerated domestic demand for AI",
+          "description": "The rapid growth and adoption of Artificial Intelligence applications within India increase the need for annotated and labelled data."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The data annotation market in India is expected to reach US$ 7 billion by 2030, driven by accelerated domestic demand for AI. It was US$ 250 million in FY20.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 14,
+      "tam_value": 640.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 6.5,
+      "forecast_cagr_period": "2025-30",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Expansion of connected devices",
+          "description": "Proliferation of devices like smartphones, laptops, and IoT-enabled systems increases demand for electronics manufacturing capacity."
+        },
+        {
+          "driver": "Electrification and automation",
+          "description": "Increasing electrification in industries such as automotive, energy, and manufacturing significantly expands demand for electronic components and systems."
+        },
+        {
+          "driver": "Outsourcing by OEMs",
+          "description": "OEMs increasingly outsource manufacturing to EMS providers for flexibility and reduced capital investment, as products become more complex and production cycles accelerate."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated global EMS market size in 2025, with a range of US$640-650 billion. This is driven by demand across consumer electronics, computing hardware, telecommunications infrastructure, and automotive electronics.",
+      "source_firm": "kpmg",
+      "source_date": "2026-06-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 15,
+      "tam_value": 500.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong demand and supportive government policies",
+          "description": "Robust internal and export demand, coupled with government initiatives like PLI schemes, drives manufacturing growth."
+        },
+        {
+          "driver": "Increased digitalization",
+          "description": "The expanding digital economy and adoption of electronic products fuels production targets."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's electronics industry is targeting a manufacturing output of US$ 500 billion by FY30, requiring a five-fold increase in production.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 16,
+      "tam_value": 110.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Skilled workforce",
+          "description": "Availability of a large, proficient talent pool in India for various tech and business functions."
+        },
+        {
+          "driver": "Supportive policies",
+          "description": "Government initiatives and regulations that encourage the establishment and growth of GCCs."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's Global Capability Centre (GCC) market is expected to exceed US$ 110 billion by 2030. This growth is driven by a skilled workforce and supportive policies, with the sector employing 1.9 million professionals in over 1,800 GCCs.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 17,
+      "tam_value": 61.6,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing domestic and export demand",
+          "description": "Increased consumption within India and rising international demand for Indian-manufactured mobile phones."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's mobile phone production reached Rs. 5,45,000 crore (US$ 61.6 billion) in 2024–25, up from Rs. 18,000 crore in 2014–15.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "bcg_global",
+    "kpmg",
+    "bain",
+    "ibef"
+  ]
+}

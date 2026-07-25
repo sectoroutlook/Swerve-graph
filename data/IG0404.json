@@ -1,0 +1,836 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Agentic AI disintermediating retail's marketing and discovery funnel.",
+      "description": "Agentic AI, such as Perplexity and ChatGPT, is becoming a primary starting point for shopping, curating product recommendations and deals. This disintermediates traditional paid search and marketing funnels, making it harder for retailers to attribute and optimize advertising. Retailers must adapt strategies to appear on these agent-curated lists and redefine their visibility efforts.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-14"
+    },
+    {
+      "index": 2,
+      "title": "AI agents risk commoditizing retailers into fulfillment providers.",
+      "description": "The rise of AI agents poses a significant risk of commoditization for multi-brand retailers and direct-to-consumer brands. These agents could evolve into next-generation marketplaces, controlling transactions, compressing margins, and capturing valuable customer data. This might relegate traditional retailers to mere drop shippers or basic fulfillment mechanisms, eroding their value proposition and direct customer relationships.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-14"
+    },
+    {
+      "index": 3,
+      "title": "AI enhances personalization and streamlines checkout for shoppers.",
+      "description": "Agentic AI offers significant opportunities for retailers to enhance the customer experience. By analyzing shopper behavior, AI can provide highly personalized product recommendations and dynamically bundle offers in real-time. Additionally, AI-powered systems can streamline the checkout process, making transactions quicker and more convenient, thereby improving overall customer satisfaction and conversion rates for retailers who implement these technologies effectively.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-14"
+    },
+    {
+      "index": 4,
+      "title": "AI delivers efficiency, personalized experiences, and improved decision-making.",
+      "description": "AI is recognized by consumer and retail CEOs as a key driver for operational improvements. Top benefits include significant gains in efficiency and productivity, alongside enhanced decision-making capabilities through better data analysis. Notably, increased personalization for customers is cited as a major advantage by 13% of CEOs, double the cross-sector average, highlighting its unique impact in this industry on winning consumer trust and loyalty.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 5,
+      "title": "Tier 2+ cities are significant drivers of incremental e-retail growth.",
+      "description": "Tier 2+ cities are structurally primed to drive the next phase of e-retail growth, contributing approximately half of all incremental e-retail orders in 2025. This expansion is fueled by improved physical and digital access, coupled with ultra-low price point assortments and contextual credit offerings. With shopper penetration still significantly lower than metros, these regions offer substantial untapped potential for future growth in online retail.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-08"
+    },
+    {
+      "index": 6,
+      "title": "Conversational commerce revolutionizes retail discovery and purchase journeys.",
+      "description": "Generative AI is giving rise to conversational commerce, which possesses the potential to fundamentally transform retail interactions. This technology enables shopping experiences to shift from traditional 'search and browse' to intuitive 'describe and get' models, aiding product discovery and conversion. While nascent, this evolution, driven by both e-retailer and LLM-led agents, will reshape how consumers interact with online retail platforms, creating new avenues for engagement.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-08"
+    },
+    {
+      "index": 7,
+      "title": "E-commerce cements position as second-largest digital advertiser.",
+      "description": "E-commerce has solidified its role as India's second-largest digital advertiser, increasing its share of total digital ad spend from 21% in 2024 to 22% in 2025. This growth reflects intensified customer acquisition strategies, rapid expansion of quick commerce platforms, and a continuous shift towards performance-led digital marketing, fundamentally altering advertising landscapes and reinforcing e-commerce's market influence and revenue streams.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 8,
+      "title": "Growing internet awareness drives e-commerce adoption.",
+      "description": "Increasing awareness and adoption of internet usage across India are drawing more consumers to e-commerce platforms. Supported by digital initiatives and robust digital payment systems like UPI (21.7 billion transactions in January 2026), consumer trust and ease of online transactions are significantly enhanced. This widespread digital literacy and comfort contribute to a continuous growth in e-commerce penetration and transaction volumes.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 9,
+      "title": "Startup India Fund of Funds supports digital commerce growth.",
+      "description": "In February 2026, the Indian government approved Startup India Fund of Funds 2.0 with a corpus of Rs. 10,000 crore ($1.2 billion). This fund aims to mobilize venture capital and support the growth of startups, including those within digital commerce and related sectors. This financial backing acts as a crucial tailwind, fostering innovation, market expansion, and competition within the e-commerce ecosystem, by providing essential capital.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 10,
+      "title": "Higher consumer trust in retailer-owned AI agents offers competitive edge.",
+      "description": "Consumers currently exhibit significantly higher trust in on-site retailer-owned AI agents compared to third-party agents. This provides a crucial, albeit potentially temporary, window of opportunity for retailers to build and differentiate their proprietary AI capabilities. Leveraging this trust can help attract and retain customers, fostering loyalty and strengthening their direct value proposition before the trust gap with third-party agents narrows.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-14"
+    },
+    {
+      "index": 11,
+      "title": "AI-driven shifts necessitate redefining retail media monetization models.",
+      "description": "The rise of AI agents is profoundly impacting retail media monetization strategies. With a significant portion of advertiser spending traditionally focused on on-site sponsored search, a shift in traffic to third-party AI recommendations threatens established revenue streams. Retailers must innovate, leveraging first-party prompt data and exploring new models like sponsored agent recommendations and API fees to adapt to this evolving advertising landscape.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-14"
+    },
+    {
+      "index": 12,
+      "title": "Ethical concerns and cybersecurity threats hinder AI implementation in retail.",
+      "description": "Implementation of AI in the consumer and retail sector faces significant hurdles from ethical concerns and cybersecurity risks. 56% of CEOs cite ethical challenges as the biggest obstacle, including potential bias and data usage with consumer permission. Concurrently, 68% are extremely concerned about fraud and 57% about data privacy, highlighting the critical need for robust governance and trust-building measures for successful AI adoption and market acceptance.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 13,
+      "title": "Gen Z emerges as a critical, influential cohort in e-retail growth.",
+      "description": "Gen Z now represents 40-45% of e-retail shoppers and nearly half of incremental orders in 2025, making them a crucial demographic. Their distinct preferences, such as influencer-led trend discovery, immersive video content, and reliance on instant credit, are shaping e-retail strategies, necessitating tailored approaches for engagement and conversion. This demographic shift is driving significant structural changes in e-retail market dynamics.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-08"
+    },
+    {
+      "index": 14,
+      "title": "E-retail advertising becomes core component of brand digital strategies.",
+      "description": "E-retail advertising has evolved into a core component of brands' digital marketing strategies, constituting approximately 25% of total digital ad spend in 2025. This shift reflects increased personalization, improved ad relevance, and the effectiveness of e-retail platforms in driving purchase consideration and conversion. This trend underscores a structural change in how brands allocate their marketing budgets and engage with consumers across online channels.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-08"
+    },
+    {
+      "index": 15,
+      "title": "Tier 2+ cities drive significant e-commerce growth and digital payments adoption.",
+      "description": "Tier 2+ cities are emerging as key drivers of e-commerce growth, contributing 50% of incremental orders in 2025 despite lower internet user penetration compared to metro areas. These cities also lead in digital payment adoption and show economic significance with comparable GST collections to Tier 1 cities. Increased infrastructure budget allocations further position them as future growth engines for e-commerce, expanding market reach.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 16,
+      "title": "Government strengthens digital commerce infrastructure via ONDC.",
+      "description": "The Indian government is bolstering digital commerce infrastructure through initiatives like the Open Network for Digital Commerce (ONDC). By onboarding over 1.16 lakh retail sellers across 630+ cities, ONDC improves market access for MSMEs and encourages wider participation in digital commerce. This government support acts as a significant tailwind, democratizing online retail and fostering growth, especially in smaller towns and cities, by lowering barriers to entry.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 17,
+      "title": "Retaining control over data, fulfillment, and checkout is crucial in agentic retail.",
+      "description": "In the evolving agentic AI retail landscape, maintaining ownership of customer data, controlling fulfillment, and managing the checkout process are paramount for retailers. This ensures valuable first-party data is preserved, prevents relegation to a mere 'dumb fulfillment pipe,' and allows retailers to negotiate favorable partnership terms, such as retaining visibility into consumer behavior even when third-party agents close transactions, thereby protecting their core value.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-14"
+    },
+    {
+      "index": 18,
+      "title": "AI is a top investment priority for consumer and retail CEOs.",
+      "description": "Consumer and retail CEOs are increasingly prioritizing AI investments, with 64% citing it as a top priority (up from 57% in 2024). Despite cost pressures, 73% plan to allocate 10-20% of their budget to AI in the next year, one of the highest allocations across sectors. This reflects strong confidence in AI's potential to drive productivity, cost savings, and revenue, with 68% expecting ROI within 1-3 years.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 19,
+      "title": "Q-commerce significantly accelerates e-grocery market penetration.",
+      "description": "Quick commerce (Q-commerce) is acting as a powerful catalyst for e-grocery adoption, expanding the e-retail market by offering rapid delivery of household essentials. Since its launch in 2020, e-grocery penetration has grown fivefold, now representing about 1.5% of the total grocery market. This growth highlights Q-commerce's role in changing consumer shopping habits for daily necessities and driving significant market expansion for online grocery.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-08"
+    },
+    {
+      "index": 20,
+      "title": "IKEA invests heavily to expand physical and omnichannel retail presence.",
+      "description": "IKEA plans to invest over Rs. 200 billion ($2.2 billion) in India over the next five years. This significant investment targets opening 25 small and medium-format stores and expanding its omnichannel presence, alongside increasing local sourcing. This aggressive expansion strategy signifies strong confidence in the Indian retail market, driving increased accessibility for consumers and boosting both physical and digital retail footprints, fueling overall sector growth.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 21,
+      "title": "Swiggy raises $1.2 billion for quick commerce expansion.",
+      "description": "Swiggy secured ₹10,000 crore ($1.2 billion) through a Qualified Institutions Placement in December 2025, with plans to allocate ₹4,475 crore towards expanding its quick commerce fulfillment network. This substantial capital injection from diverse investors highlights strong confidence in the growth potential of quick commerce, enabling Swiggy to invest in technological infrastructure development and brand marketing to fuel further market expansion and solidify its competitive position.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 22,
+      "title": "K-shaped consumer demand drives cost discipline over price hikes.",
+      "description": "The consumer and retail sector faces a challenging 'K-shaped' demand environment, where many consumers are resisting further price increases. This market pressure compels companies to prioritize cost discipline and operational efficiency over implementing price hikes to protect their margins. This indicates a cautious approach to pricing power and a heightened focus on internal cost management strategies in the near-term economic climate.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 23,
+      "title": "AI necessitates workforce redesign and bridging skill gaps in retail.",
+      "description": "AI is profoundly reshaping the consumer and retail workforce, leading 82% of CEOs to redesign roles and career paths, making it a top priority across sectors. A significant challenge is bridging the skill gap in attracting and retaining AI and digital talent (32%). Companies are investing in broad-based training, redeploying employees, and partnering with external experts to equip their workforce for an AI-integrated future, driving structural changes in talent management.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 24,
+      "title": "E-commerce expansion sustains online credit card transactions growth.",
+      "description": "Online (e-commerce) transactions continue to be a dominant driver of credit card usage, accounting for over 61% of total transactions in February 2026. This sustained digital adoption is evidenced by a 4.5% year-on-year growth in online credit card transactions, significantly driven by public sector banks' 30.1% growth, indicating a robust tailwind for online retail supported by digital payment proliferation and consumer preference for online channels.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-02"
+    },
+    {
+      "index": 25,
+      "title": "D2C business model transforms consumer market with accelerated adoption.",
+      "description": "The Direct-to-Consumer (D2C) business model is profoundly transforming India's consumer market, with its adoption accelerating significantly due to the COVID-19 pandemic and subsequent disruptions. This model, bypassing traditional intermediaries, allows brands greater control over customer experience and data. The increasing number of D2C enterprises leveraging this model indicates a lasting structural shift in retail strategy and consumer purchasing habits, fostering innovation and competition.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 26,
+      "title": "Shift from Cash-on-Delivery to digital payments in e-retail.",
+      "description": "India's e-retail sector is undergoing a gradual but significant shift from Cash-on-Delivery (COD) to digital payment methods, particularly UPI-based payments. This transition is gaining traction across online shopping and quick commerce platforms, reflecting increasing consumer trust in digital transactions. This structural change streamlines operations for retailers, reduces logistical complexities, and enhances financial inclusivity for a broader base of consumers.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 27,
+      "title": "Flipkart accelerates quick commerce expansion with more dark stores.",
+      "description": "Flipkart is aggressively expanding its quick commerce operations, aiming to scale to over 1,500 dark stores by the end of 2026, up from 800+. This move strengthens its last-mile delivery infrastructure and market presence in the fast-growing quick commerce segment. This significant investment allows Flipkart to compete more effectively, enhance delivery speed, and capture a larger share of consumer demand for rapid delivery services.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Consumer and retail sector faces complex macro forces, requiring bold adaptation.",
+      "description": "KPMG highlights that consumer and retail CEOs are navigating a challenging, polarized environment, grappling with geopolitical volatility, inflation, climate disruption, and accelerating AI. Success hinges on making bold strategic choices, balancing risks, and rapidly adapting to market dynamics. Companies must clearly define their market position (local vs. global, premium vs. value, physical vs. blended) and integrate long-term value creation and resilience to remain competitive and avoid stagnation.",
+      "stance": "cautious_positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-05-01",
+      "source_doc_id": "897fabf2-dff3-57b3-a8da-c4db6d6eaeac"
+    },
+    {
+      "index": 2,
+      "title": "India's retail sector offers promising high growth potential globally.",
+      "description": "IBEF positions India as a highly promising global retail destination due to its vast consumer base, abundant labor, and attractive investment incentives. The sector demonstrated robust 9% year-on-year sales growth in February 2026, driven by stable consumer demand. This performance, coupled with the country's economic attractiveness, reinforces India's status as a preferred market for multinational corporations seeking significant retail expansion opportunities.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "source_doc_id": "7e9e8374-e0f7-5cbd-925c-7d3b9167c80b"
+    },
+    {
+      "index": 3,
+      "title": "CEOs optimistic about growth, prioritizing customer experience and personalization.",
+      "description": "Consumer and retail CEOs exhibit optimism for business growth and earnings, though at a modest rate. Customer experience, particularly through personalization, is a top priority. Supply chain disruptions persist due to global factors, and M&A activity is becoming more strategic than transformational. AI is a major investment focus, already yielding productivity and customer experience improvements, despite acknowledged challenges like ethical concerns and cybersecurity threats.",
+      "stance": "cautious_positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-05-01",
+      "source_doc_id": "897fabf2-dff3-57b3-a8da-c4db6d6eaeac"
+    },
+    {
+      "index": 4,
+      "title": "Agentic AI to reshape retail economics and customer journey significantly.",
+      "description": "Bain identifies agentic AI as a transformative force in retail, redefining search, advertising, personalization, fulfillment, payments, and post-purchase support. While adoption timing is uncertain, AI already drives up to 25% of referral traffic for some retailers. Winning retailers must proactively build on-site agents and strategically partner with third-party agents to avoid commoditization, leveraging current consumer trust in retail-owned AI. The future favors agile, data-controlling players.",
+      "stance": "cautious_positive",
+      "source_firm": "bain",
+      "source_date": "2026-05-14",
+      "source_doc_id": "d8c21713-5298-5f1c-beb5-aa64ffc233fc"
+    },
+    {
+      "index": 5,
+      "title": "AI is transformative for retail, unlocking efficiencies and deeper customer connections.",
+      "description": "Duleep Rodrigo, Head of Consumer and Retail, Americas, KPMG, emphasizes AI's role as a transformative partner in retail, not merely a tool. AI empowers businesses to achieve greater efficiencies and forge deeper connections with customers. He posits that retailers who fully harness AI's potential by integrating technological ingenuity with human intuition will cultivate smarter and more resilient operations, indicating a strongly positive outlook for strategic AI adopters.",
+      "stance": "positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-05-01",
+      "source_doc_id": "897fabf2-dff3-57b3-a8da-c4db6d6eaeac"
+    },
+    {
+      "index": 6,
+      "title": "India's e-retail poised for sustained 20%+ growth by 2030.",
+      "description": "Bain forecasts India's e-retail market will maintain over 20% CAGR, reaching $170-$180 billion GMV by 2030, contributing 10-12% of total retail spend. This robust growth stems from significant headroom in shopper penetration, currently at 30% of internet users compared to China's 92% and the US's 74%. Additionally, increasing spend per shopper, as India's GDP per capita surpasses the $4,000 inflection point, will further fuel discretionary spending.",
+      "stance": "positive",
+      "source_firm": "bain",
+      "source_date": "2026-04-08",
+      "source_doc_id": "c06accbe-e320-5856-8e02-0c5a27279358"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 550.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "E-commerce sector expected to reach Rs. 47,64,650 crore by 2035.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 100.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "D2C market set to cross US$ 100 billion in 2025.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 3,
+      "tam_value": 211.6,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 12.5,
+      "forecast_cagr_period": "2024-2025",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s e-commerce market is projected to grow 12.5% in 2025 to about US$ 211.6 billion.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 4,
+      "tam_value": 326.7,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2029,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "E-commerce market expected to reach roughly US$ 326.7 billion by 2029.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 5,
+      "tam_value": 145.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "E-commerce in India expected to surpass US$ 145 billion in 2025.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 6,
+      "tam_value": 651.1,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2034,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s e-commerce market projected to reach US$ 651.10 billion by 2034.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 7,
+      "tam_value": 60.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 40.0,
+      "forecast_cagr_period": "current-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's D2C market projected to grow at a 40% CAGR, reaching US$ 60 billion by 2030.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 8,
+      "tam_value": 7.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 110.0,
+      "historical_cagr_period": "2021-2025",
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s quick commerce segment has emerged as a US$ 7–8 billion market in FY25.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 9,
+      "tam_value": 100.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Marketplaces (Amazon, Flipkart, Meesho, Myntra) are expected to scale to US$ 100 billion in sales by 2030.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 10,
+      "tam_value": 100.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s e-B2B market projected to reach a GMV of US$ 100 billion by 2030.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 11,
+      "tam_value": 952.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s retail sector size in 2024 (Rs. 81,57,859 crore).",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 12,
+      "tam_value": 170.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "E-retail market projected to reach US$ 170-180 billion by 2030.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 13,
+      "tam_value": 110.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Online retail market in India.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 14,
+      "tam_value": 2361.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Retail market in India.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 15,
+      "tam_value": 125.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": 18.4,
+      "forecast_cagr_period": "2024-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising Disposable Incomes",
+          "description": "Increasing disposable incomes in India lead to higher purchasing power, fueling consumer spending on e-commerce platforms across various categories."
+        },
+        {
+          "driver": "Rapid Digital Adoption",
+          "description": "Growing internet penetration and smartphone usage, particularly in Tier II & III cities, drive more consumers online for shopping, contributing to e-commerce expansion."
+        },
+        {
+          "driver": "Surge in Quick Commerce",
+          "description": "The rapid growth of quick commerce (70-80% CAGR) is expanding the e-commerce market, especially for essentials, by offering speed and convenience, attracting new users and increasing order frequency."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's e-commerce industry valued at Rs. 10,82,875 crore.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 16,
+      "tam_value": 345.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 18.4,
+      "forecast_cagr_period": "2024-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's e-commerce industry projected to grow to Rs. 29,88,735 crore.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 17,
+      "tam_value": 129.72,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising Internet Penetration",
+          "description": "Increasing internet access across India expands the potential customer base for online shopping, driving e-commerce market growth."
+        },
+        {
+          "driver": "Digital Payments Adoption",
+          "description": "The proliferation of digital payment methods, especially UPI, simplifies online transactions, boosts consumer confidence, and reduces friction in the purchasing process."
+        },
+        {
+          "driver": "Increasing Consumer Demand",
+          "description": "Growing consumer preference for convenience, wider product assortments, and competitive pricing offered by online platforms fuels demand for e-retail."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s e-commerce market valued at US$ 129.72 billion in 2025.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 18,
+      "tam_value": 170.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s e-retail market projected to reach Rs. 14,56,220-16,27,540 crore (US$ 170-190 billion) in gross merchandise value (GMV) by 2030.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 19,
+      "tam_value": 65.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Quick commerce segment projected to reach US$ 65–70 billion by 2030.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 20,
+      "tam_value": 70.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Social commerce has the potential to reach US$ 70 billion by 2030.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 21,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "E-grocery Expansion",
+          "description": "The next phase of e-commerce expansion will be significantly driven by the growth of e-grocery, catering to increasing demand for online food and essential item purchases."
+        },
+        {
+          "driver": "Growth in Smaller Communities",
+          "description": "Expansion into Tier 2+ cities and smaller communities will fuel e-commerce growth by tapping into new consumer bases with rising digital adoption and purchasing power."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's e-commerce business will rise 7x to US$ 300 billion (by JP Morgan analysts).",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 22,
+      "tam_value": 1.6,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s retail sector is on track to exceed Rs. 1,37,10,400 crore (US$ 1.6 trillion) by 2030.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 23,
+      "tam_value": 230.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising Disposable Incomes",
+          "description": "Increasing disposable incomes fuel consumer spending, driving growth in the organized retail sector."
+        },
+        {
+          "driver": "Evolving Consumer Preferences",
+          "description": "Shifting consumer tastes towards modern retail formats, branded products, and enhanced shopping experiences contribute to organized retail expansion."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s organised retail sector projected to reach Rs. 19,70,870 crore (US$ 230 billion) by 2030.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 24,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing Internet Penetration",
+          "description": "Increasing access to the internet, especially with affordable smartphones and data plans, expands the potential online shopper base, facilitating the shift from offline to online retail."
+        },
+        {
+          "driver": "Continued Digital Commerce Expansion",
+          "description": "The ongoing growth and maturation of e-commerce platforms, including the introduction of new services like quick commerce and enhanced customer experiences, drive greater adoption of online retail."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Online retail's share of India’s total retail market is projected to increase from 6–7% in 2025 to approximately 14% by 2030.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 25,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 55.0,
+      "forecast_cagr_period": "current-2025",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Social commerce in India is poised for significant growth, projected to expand to US$16-20 billion by 2025 at a 55-60% CAGR, driven by high mobile usage and increasing digital savviness among consumers. This segment offers new avenues for direct sales and engagement within social platforms.",
+          "opportunity": "Social Commerce"
+        }
+      ],
+      "methodology": "Social commerce has the potential to expand to US$ 16-20 billion in 2025.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 26,
+      "tam_value": 65.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 19.0,
+      "historical_cagr_period": "2024-2025",
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s e-retail gross merchandise value (GMV) crossed US$ 65-66 billion in 2025.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "kpmg",
+    "ibef",
+    "bain"
+  ]
+}

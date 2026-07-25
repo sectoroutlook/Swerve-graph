@@ -1,0 +1,440 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Declining traditional media consumption and ad revenues",
+      "description": "Traditional media segments like Linear TV, print, and radio face significant headwinds from evolving consumer habits. Linear TV advertising declined by 10.3%, and subscriptions decreased 8% due to a loss of 11 million Pay TV households. Radio revenues also declined due to reduced ad rates and fewer FM receivers in modern devices. Print circulation revenue is gradually falling as younger audiences favor digital alternatives, indicating a structural shift away from these conventional platforms towards digital and streaming consumption.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-24"
+    },
+    {
+      "index": 2,
+      "title": "Growing demand for immersive live entertainment and shared experiences",
+      "description": "There is an increasing consumer appetite for immersive live experiences, with the organized live events segment growing 44% in 2025, fueled by ticketed events, personal functions, and large gatherings. Sports and live events are becoming more immersive, drawing large audiences. Projections indicate expansion of live events beyond major metros to smaller cities, with concert days (attracting over 10,000 attendees) expected to rise significantly. This trend presents a strong upside for music, sports, and live entertainment sectors.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-24"
+    },
+    {
+      "index": 3,
+      "title": "Consumer shift to mobile and Connected TV platforms accelerates",
+      "description": "The Media & Entertainment sector is undergoing a significant structural change driven by the pervasive adoption of mobile and Connected TV (CTV) devices. Growing smartphone penetration fuels online video consumption, while the active CTV base surged to 129.2 million users in 2025. Projections indicate that 78% of all screens will be smartphones by 2030, reinforcing demand for short-form content and mobile-first experiences. This shift necessitates M&E companies to adapt content strategies and distribution models to these dominant platforms.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 4,
+      "title": "User-generated content (UGC) fueling new creator economy in gaming",
+      "description": "User-Generated Content (UGC) has emerged as a vibrant and rapidly expanding creator economy within gaming, exemplified by significant payouts for platforms like Fortnite and Roblox. This trend drives substantial engagement, particularly among younger gamers, democratizing content creation through technological advancements. The evolving definition of gaming quality now emphasizes social interaction and novelty derived from UGC. This shift represents a structural change, as games function increasingly as hardware-agnostic platforms, with user-created content shaping experiences and driving growth.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2025-12-09"
+    },
+    {
+      "index": 5,
+      "title": "Evolving cinema experience through premiumization and community engagement",
+      "description": "To counteract declining attendance and competition from digital platforms, movie theaters are adopting strategies to enhance the cinema experience. This involves reframing cinema as a premium, differentiated 'third space' through upgraded auditoriums, personalized services, and community-building initiatives like film clubs and social events. Leveraging social media for sharing and advanced marketing technology for targeted advertising aims to attract new audiences and encourage repeat visits, ensuring the continued relevance and profitability of theatrical exhibition in a 'Flooded Era' of content.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2025-12-09"
+    },
+    {
+      "index": 6,
+      "title": "Digital disruption and streaming growth reshapes M&E landscape",
+      "description": "The media industry is experiencing a 'Flooded Era' due to technological advancements that enable a deluge of 'good enough' content, challenging traditional players. Direct consumer access via streaming and social media disintermediates conventional distribution, driving M&A and changing market dynamics. Digital media has become the largest segment of the M&E industry, signifying a fundamental shift in how content is consumed and monetized, necessitating adaptation from all industry participants to remain competitive.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-27"
+    },
+    {
+      "index": 7,
+      "title": "Generative AI transforming content creation across M&E segments",
+      "description": "Generative AI is poised to profoundly impact M&E, presenting both significant opportunities and risks. In music, it could be a 'Napster moment' with rapid proliferation of AI-generated tracks, while also unlocking new creative frontiers for artists. In gaming, GenAI is overhauling game building processes, reducing costs, and enabling new gameplay types. This transformative technology accelerates efficiency, personalization, and localization, forcing industry players to adapt swiftly while addressing issues like IP protection and content quality.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-20"
+    },
+    {
+      "index": 8,
+      "title": "Shift from advertising to subscription-led revenue models for M&E",
+      "description": "Traditionally reliant on advertising, the M&E industry is increasingly transitioning towards subscription and value-added services as key revenue drivers, especially in the post-digitization era. Paid video and music subscriptions are experiencing significant growth, with digital subscription revenue projected to increase substantially. This shift necessitates innovation in product offerings, customer segmentation, and pricing strategies to attract and retain paying subscribers, reshaping the financial landscape for content providers and platforms across the sector.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 9,
+      "title": "Robust government policy support and increased FDI in M&E",
+      "description": "The Indian M&E sector benefits from significant government support, including an increased FDI limit from 74% to 100% in the information and broadcasting sector. Substantial budget allocations to the Ministry of Information and Broadcasting, alongside initiatives like AVGC Content Creator Labs, an AVGC Mission, and the National Film Policy, signal strong official backing. These policies aim to tap into the sector's potential, foster talent, and boost exports to US$10 billion by 2027, driving overall growth and competitiveness.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 10,
+      "title": "Increasing prominence of regional language content in OTT and cinema",
+      "description": "Regional language content is gaining significant traction and becoming a structural driver for the M&E sector. Its share in OTT platforms has substantially increased from 27% in 2020 to 56% in 2025, and regional cinema now accounts for over 65% of all films produced in India. This growing demand reflects the nation's cultural diversity and a preference for localized storytelling, compelling platforms and producers to invest heavily in regional content to capture wider audiences and tap into underserved markets.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-24"
+    },
+    {
+      "index": 11,
+      "title": "Cloud gaming adoption drives hardware-agnostic shift in gaming",
+      "description": "Cloud gaming is rapidly gaining mainstream acceptance, fundamentally transforming the gaming industry towards a hardware-agnostic future. High player satisfaction, coupled with improved high-speed, low-latency connections, allows for frictionless gameplay across various devices without the need for expensive local hardware. This shift redefines game distribution, reduces developer constraints, and changes industry power structures as platforms become less critical than ecosystem and content accessibility, presenting both opportunities and risks for incumbent players.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2025-12-09"
+    },
+    {
+      "index": 12,
+      "title": "Regulatory ban on money gaming impacts sector growth",
+      "description": "The ban on money gaming has significantly impacted India's online gaming segment, leading to a 17% decrease in 2025 and a 26% drop in money gaming revenues compared to 2024. This regulatory action created an estimated INR190 billion gap that the video games sector may struggle to fill, directly impacting overall growth projections and subscription income. While in-app purchases in video games rose, the ban highlights regulatory unpredictability as a key risk for the gaming industry.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-24"
+    },
+    {
+      "index": 13,
+      "title": "Music industry monetization struggles despite increased consumption",
+      "description": "Despite people listening to more music than ever, the streaming business model is not evolving quickly enough, causing monetization to lag consumption. Revenue per stream has fallen, exacerbated by slow price increases, limited customer segmentation, and insufficient policing of fraud and copyright infringement. The influx of AI-generated music further complicates these challenges by providing low-cost, royalty-free alternatives, threatening traditional revenue streams for artists and labels, and intensifying the need for innovative product offerings and robust IP protection.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-22"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Music's future in India depends on culture, talent, technology, and authenticity",
+      "description": "Ilaiyaraaja, renowned author and performer, posits that music in India, a timeless cultural cornerstone, has consistently adapted through technological shifts. While embracing advancements like digital streaming and AI, he stresses the critical importance of preserving authenticity, purity, and emotional depth inherent to Indian music. He believes the future of India's creative industries, particularly music, will be built on a foundation of culture, talent, and technology, positioning the nation as a global cultural voice.",
+      "stance": "positive",
+      "source_firm": "EY",
+      "source_date": "2026-03-24",
+      "source_doc_id": "711dbe38-22d5-512a-b75c-4ef0ea900807"
+    },
+    {
+      "index": 2,
+      "title": "Cinema faces existential threat; adaptation through premium experiences is crucial",
+      "description": "Bain argues that movie theaters confront an 'existential threat' due to declining attendance (only 64% of pre-pandemic levels in the US) and surging consumer spending on streaming services. The industry is challenged by the perception of high cost and the 'Flooded Era' of 'good enough' digital content. To survive, theaters must reframe themselves as premium experiences, focusing on enhanced auditoriums, personalized services, community-building, and leveraging advanced marketing technology to provide compelling reasons for audiences to return.",
+      "stance": "cautious_negative",
+      "source_firm": "Bain",
+      "source_date": "2025-12-09",
+      "source_doc_id": "872c9654-d6fa-567a-b1aa-3a8eaaf918c9"
+    },
+    {
+      "index": 3,
+      "title": "Gaming industry emerging from slump, poised for new growth era",
+      "description": "BCG's Global Gaming Survey indicates the video game industry is recovering from its post-pandemic slump and entering a more optimistic growth period, although growth rates may not match the 2010s. Gamers' passion remains high, with many increasing their playtime and parents introducing children to gaming early, creating a pipeline of new players. The outlook is bolstered by key trends like generative AI, user-generated content, cloud gaming, and opening app stores, which are reshaping the industry for new revenue opportunities.",
+      "stance": "cautious_positive",
+      "source_firm": "BCG",
+      "source_date": "2025-12-09",
+      "source_doc_id": "644f41a9-6428-5fed-9bce-73341e718bf2"
+    },
+    {
+      "index": 4,
+      "title": "M&E is essential, driven by human needs for information, escapism, self-expression",
+      "description": "Ashish Pherwani, M&E Sector Leader at EY India, contends that media and entertainment are no longer discretionary but essential frameworks for people to interpret, find relief, and express themselves. He identifies three core audience needs: immediacy and utility from information, immersive experiences for escapism (cinema, gaming, music), and platforms for digital self-expression. Understanding these motivations is central to unlocking the next phase of growth in India's dynamic M&E ecosystem, where consumer and creator roles are blurring.",
+      "stance": "positive",
+      "source_firm": "EY India",
+      "source_date": "2026-03-24",
+      "source_doc_id": "711dbe38-22d5-512a-b75c-4ef0ea900807"
+    },
+    {
+      "index": 5,
+      "title": "Generative AI poses 'Napster moment' for music industry, requiring strategic adaptation",
+      "description": "Bain highlights that the rapid proliferation of AI-generated content, with daily uploads to streaming platforms surging, could be the music industry's 'next Napster moment.' This presents an existential threat to artists, publishers, and labels due to low-cost, royalty-free alternatives and increased fraud. However, it also offers opportunities for new creative frontiers and personalized fan engagement. The industry must strategically deploy AI, protect intellectual property, and innovate business models to steer its impact effectively.",
+      "stance": "cautious_negative",
+      "source_firm": "Bain",
+      "source_date": "2026-01-22",
+      "source_doc_id": "c799af2a-ac89-589d-a71e-3e25d6212e35"
+    },
+    {
+      "index": 6,
+      "title": "Consumers value human artistry in music, accepting AI as a creative tool",
+      "description": "A Bain survey indicates that despite the rise of AI-generated music, US consumers still place a high premium on human artistry and authentic connections with artists, showing little interest in fully AI-generated tracks. However, a significant portion of consumers are open to artists utilizing generative AI as a creative tool to aid in song development or enhance sound. This suggests a nuanced path for the music industry: embracing AI to augment human creativity while vigorously protecting intellectual property and the value of human-created content.",
+      "stance": "neutral",
+      "source_firm": "Bain",
+      "source_date": "2026-01-22",
+      "source_doc_id": "c799af2a-ac89-589d-a71e-3e25d6212e35"
+    },
+    {
+      "index": 7,
+      "title": "Disruption leadership requires honesty, differentiation, swift action in M&E",
+      "description": "Ravi Ahuja, CEO of Sony Pictures, emphasizes that true leadership in turbulent times demands honesty about the future, strategic differentiation, and timely action. He believes clarity surpasses charisma and continuous progress is more effective than seeking perfection. Ahuja's experience with the music industry's digital disruption highlighted that no company can effectively manage structural decline in a collapsing market; thus, strategic positioning and focus on growth areas are paramount for survival and success.",
+      "stance": "positive",
+      "source_firm": "Bain",
+      "source_date": "2026-05-20",
+      "source_doc_id": "c69a1f68-696b-5a57-bab6-a31920005e25"
+    },
+    {
+      "index": 8,
+      "title": "India's M&E industry at pivotal moment for global intellectual property creation",
+      "description": "Allu Aravind, Chairman of Geetha Arts, views India's Media & Entertainment sector as being at a critical creative juncture, possessing abundant talent, advanced technology, and a strong global demand for its stories. He argues that the industry's next crucial step is not merely exporting content but actively developing world-class intellectual property. This includes fostering Indian characters, universes, and franchises, necessitating collaborative efforts between government and private capital to establish India as a premier global production hub.",
+      "stance": "positive",
+      "source_firm": "EY",
+      "source_date": "2026-03-24",
+      "source_doc_id": "711dbe38-22d5-512a-b75c-4ef0ea900807"
+    },
+    {
+      "index": 9,
+      "title": "India's M&E sector experienced pivotal growth in 2025, demonstrating resilience",
+      "description": "Kevin Vaz, Chairman of the FICCI Media and Entertainment Committee, highlights 2025 as a pivotal year for India's M&E industry, marking a new phase of scale, innovation, and transformation. He notes that the sector's steady 9% year-on-year growth to INR2.78 trillion (US$32 billion) outpaced India's nominal GDP per capita growth. This performance reinforces confidence in the industry's long-term trajectory and its robust ability to adapt to dynamic market conditions and evolving audience engagement with converging technologies.",
+      "stance": "positive",
+      "source_firm": "FICCI",
+      "source_date": "2026-03-24",
+      "source_doc_id": "711dbe38-22d5-512a-b75c-4ef0ea900807"
+    },
+    {
+      "index": 10,
+      "title": "Generative AI will revolutionize game building, requiring focus on curation and IP",
+      "description": "BCG asserts that generative AI will significantly transform game development by reducing costs and accelerating time-to-market, leading to a flood of new games. This technological shift will make curation and discovery more critical than ever, as developers navigate potential 'gameslop.' While AI offers opportunities for efficiency and new gameplay mechanics, developers must wisely establish clear principles for deployment, address copyright concerns, and safeguard intellectual property to ensure innovation doesn't erode creative value.",
+      "stance": "cautious_positive",
+      "source_firm": "BCG",
+      "source_date": "2025-12-09",
+      "source_doc_id": "644f41a9-6428-5fed-9bce-73341e718bf2"
+    },
+    {
+      "index": 11,
+      "title": "Cloud gaming is mainstreaming, ushering in a hardware-agnostic industry future",
+      "description": "BCG projects that cloud gaming is poised to go mainstream, fundamentally transforming the gaming industry into a hardware-agnostic era. Survey data indicates high player satisfaction with cloud gaming, driven by improved high-speed, low-latency links. This shift liberates gameplay from dedicated hardware, offering frictionless experiences, enabling developers to iterate faster, and changing game distribution dynamics. This evolution will intensify competition among ecosystem players and compel console makers to adapt to new business models.",
+      "stance": "positive",
+      "source_firm": "BCG",
+      "source_date": "2025-12-09",
+      "source_doc_id": "644f41a9-6428-5fed-9bce-73341e718bf2"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 7.0,
+      "forecast_cagr_period": "2026-2028",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Advertising Growth",
+          "description": "Advertising grew 13.5% in 2025, driven by e-commerce, point-of-sale ads, and improved credit to MSMEs. Digital advertising now dominates marketing budgets, leading growth in new media segments."
+        },
+        {
+          "driver": "Experiential Demand",
+          "description": "Ticketed events, personal functions, government events, and religious gatherings led to a 44% increase in the organized live events segment in 2025, reflecting growing consumer appetite for shared experiences."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The Indian M&E sector's market size is estimated, reaching INR2.78 trillion (US$32 billion) in 2025, reflecting a 9% year-on-year increase. Projections are made to INR3.3 trillion (US$37.9 billion) by 2028 with a CAGR exceeding 7%, excluding the online gaming segment. This growth is driven by advertising and experiences.",
+      "source_firm": "EY",
+      "source_date": "2026-03-24",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 3.07,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 19.2,
+      "forecast_cagr_period": "2023-2028",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increasing Digital Adoption and User Engagement",
+          "description": "Sustained growth is driven by expanding digital adoption and engagement, alongside a large gamer base of 591 million in India (20% of global gamers)."
+        },
+        {
+          "driver": "Growth in In-App Purchases",
+          "description": "Despite regulatory challenges, in-app purchases in video games are rising, indicating a strong monetization pathway within the segment, with the industry focusing on this format."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's online gaming segment is projected to grow from US$ 3.07 billion (Rs. 260 billion) in 2025 to US$ 3.52 billion (Rs. 317 billion) by 2027. The sector saw a 17% decrease in 2025 due to a money gaming ban, with money gaming revenues dropping 26%. However, in-app purchases in video games rose 15%. Overall, the online gaming and sports sector is projected for a 19.2% CAGR to US$ 4.8 billion by FY28.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 4.31,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2024-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong Digital Consumption Expansion",
+          "description": "Increased smartphone usage and affordable data access are driving the continued expansion of digital video consumption across the country, boosting both SVOD and AVOD segments."
+        },
+        {
+          "driver": "Growth in Connected TV Ecosystem",
+          "description": "The active Connected TV base surged to 129.2 million users (35-40 million homes) in 2025, marking an 87% increase in one year, expanding viewership platforms for online video."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The online video industry in India reached US$ 4.31 billion in 2024 and is projected to grow to US$ 9.17 billion by 2030. The Subscription Video-on-Demand (SVOD) segment alone crossed US$ 1 billion in 2024 and is expected to reach US$ 2.68 billion by 2030. The Advertising-based Video-on-Demand (AVOD) segment increased from US$ 1.03 billion in 2020 to US$ 3.25 billion in 2024, projected to reach US$ 6.48 billion by 2030.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 3.756,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 2.0,
+      "forecast_cagr_period": "2025-2026",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Affluent Consumer Advertising",
+          "description": "Print media continues to attract advertising revenue, especially from premium formats targeting affluent metro and non-metro readers, demonstrating its effectiveness for high-value products."
+        },
+        {
+          "driver": "Event-Driven Income Growth",
+          "description": "Newspapers experienced growth in income derived from events, indicating diversification of revenue streams beyond traditional advertising and subscriptions."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Declining Subscription Earnings",
+          "description": "Subscription earnings dropped due to reduced circulation among younger audiences who prefer other media, posing a challenge to traditional revenue models."
+        },
+        {
+          "driver": "Minimal Digital Revenue",
+          "description": "Digital revenue for print remains low (around 6%), highlighting a struggle to effectively monetize digital content and transition readership online."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "India’s newspapers and consumer magazines industry is expected to reach US$ 3.756 billion (Rs. 29,945 crore) by 2026. In 2025, print advertising revenues rose 2%, particularly in premium formats for affluent readers, and event-driven income grew for several newspapers. However, subscription earnings dropped 1% due to reduced circulation among younger audiences, and digital revenue remained minimal at around 6% on average.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": 709.55,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 22.0,
+      "forecast_cagr_period": "FY25-FY28",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increasing Demand for Regional Language Content",
+          "description": "Growth is significantly propelled by the rising demand for regional language content, reflecting India’s cultural diversity and driving new subscriber acquisition."
+        },
+        {
+          "driver": "Expanding Paid Subscriber Base",
+          "description": "The paid music subscriber base is growing, with audio OTT expected to reach 28-30 million paid subscriptions. Music labels also see increased income from events and talent management."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The Indian music industry was valued at US$ 709.55 million (Rs. 6,000 crore) in FY25, and is estimated to reach US$ 780.76 million (Rs. 6,900 crore) in FY26, showing a 15.0% year-on-year growth. It is projected to grow to US$ 1.3 billion (Rs. 10,899 crore) by FY28, translating into a 22.0% CAGR from FY25 to FY28. Growth is being driven by increasing demand for regional language content and expanding paid subscriber base.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": 12.69,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2023,
+      "forecast_cagr": 5.4,
+      "forecast_cagr_period": "2023-2028",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Connected TV Growth",
+          "description": "The Connected TV ecosystem expanded, with weekly active Connected TV homes reaching around 40 million in 2025, up from 30 million in 2024, driving new consumption patterns."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Linear TV Advertising Decline",
+          "description": "Linear TV advertising revenue declined 10.3% due to decreased advertising volumes and some sectors shifting spend to digital media, impacting traditional TV's profitability."
+        },
+        {
+          "driver": "Subscription Revenue Decrease",
+          "description": "Subscription revenues decreased 8% in 2025, primarily attributed to a loss of 11 million Pay TV households, posing a challenge to traditional broadcasting models."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "India's traditional TV market revenue grew from US$ 12.69 billion (Rs. 1,11,000 crore) in 2023 to US$ 16.57 billion (Rs. 1,45,000 crore) in 2028, at a 5.4% CAGR. The overall TV broadcasting market size stood at US$ 13.74 billion in 2025 and is estimated to reach US$ 37.80 billion by 2034. However, Linear TV advertising declined 10.3%, and subscription revenues decreased 8% in 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 7,
+      "tam_value": 1.4,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 50.0,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Improved Gaming Experience",
+          "description": "High-speed, low-latency internet connections and advanced technology enable a console-level gaming experience on various devices, attracting more users to cloud platforms."
+        },
+        {
+          "driver": "Hardware Agnosticism",
+          "description": "Cloud gaming removes the need for expensive dedicated hardware, making gaming more accessible and flexible across devices like laptops and tablets, thus broadening the user base."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The shift to cloud gaming will move developer focus from units shipped to hours played, rewarding 'stickiest' games and driving new marketing strategies, including multi-game cloud subscriptions.",
+          "opportunity": "New Monetization Models"
+        }
+      ],
+      "methodology": "Global revenues for cloud gaming are projected to grow from US$ 1.4 billion in 2025 to approximately US$ 18.3 billion in 2030, representing a compound annual growth rate (CAGR) exceeding 50%. This forecast includes streaming pure plays along with a portion of hybrid and bundled services, reflecting the improving gaming experience and increasing player adoption.",
+      "source_firm": "BCG",
+      "source_date": "2025-12-09",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "EY",
+    "Bain",
+    "BCG",
+    "EY India",
+    "FICCI",
+    "IBEF"
+  ]
+}

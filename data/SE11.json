@@ -1,0 +1,943 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Government acts as digital enabler for real estate ecosystem",
+      "description": "Government initiatives, including geo-referenced land parcels, integrated sub-registrar offices, and blockchain for property documents, are constructing a genuinely investment-ready real estate ecosystem. This public digital infrastructure, aligning public systems with market requirements, strengthens title certainty, reduces disputes, and enhances transparency across the value chain, accelerating private investment and improving trust.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 2,
+      "title": "Institutional capital inflows and REIT growth enhance transparency",
+      "description": "USD16 billion unlocked through REITs and InvITs signifies a market shift towards institutionally managed, transparent platforms. Growing REIT adoption enhances market transparency and liquidity, attracting significant institutional investment. The RBI permitting banks to lend to REITs and proposed dedicated REITs for CPSE-owned assets will further unlock value and facilitate long-term financing, increasing structured capital flows into various real estate asset classes.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 3,
+      "title": "Urbanisation and demographic shifts fuel broad real estate demand",
+      "description": "The projected urban population of 590 million by 2036 and 900 million by 2047, coupled with rising incomes, a growing base of HNIs/UHNIs, and the nuclearization of families, creates immense pressure and demand for housing and urban infrastructure. This demographic dividend drives sustained growth across residential, commercial, and retail segments, underpinning the long-term expansion of the real estate sector and increasing affordability.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 4,
+      "title": "GCC-led office demand drives leasing and rental appreciation",
+      "description": "The expansion of Global Capability Centres (GCCs) to approximately 1,700 in 2025 significantly drives office space demand, resulting in rental appreciation and accelerating the development of new business districts in India. This sustained occupier demand is a key factor behind robust office leasing activity, with GCCs accounting for a substantial portion of pan-India office space absorption, reinforcing India's position as a strategic global business hub.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 5,
+      "title": "Digital transformation and AI propel data centre real estate demand",
+      "description": "The rapid expansion of AI-driven workloads, widespread adoption of 5G technology, and data localization regulations (Digital Personal Data Protection Act 2023) are fueling exponential data creation and cloud adoption. This strengthens the demand for physical data centre infrastructure, forcing global enterprises to establish a data residency footprint in India and driving significant investment in colocation facilities and hyperscale campuses as a real estate asset class.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 6,
+      "title": "India’s data centre cost competitiveness and incentives attract investment",
+      "description": "India offers a significant cost advantage for setting up data centres, with 30-40% lower capex compared to China and the US, primarily due to lower land and labor costs. Competitive electricity tariffs, nearly 50% lower than the US, further enhance attractiveness. Government incentives, including tax holidays for foreign cloud providers and infrastructure status for data centres, coupled with state-level subsidies, create a highly supportive environment for hyperscalers and global cloud providers.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-17"
+    },
+    {
+      "index": 7,
+      "title": "Industrialization of construction drives value and efficiency",
+      "description": "The real estate industry is undergoing a breakthrough with the industrialization of construction through modular techniques, robotics, and digital twins. This modernization can unlock an estimated $1.6 trillion in annual value worldwide, by improving project productivity, speed to market, and technical precision. This is particularly critical for asset types like data centers and affordable housing, which require consistent quality, predictable timelines, and scalability.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-13"
+    },
+    {
+      "index": 8,
+      "title": "Sustainability imperative reshapes valuations and financial access",
+      "description": "Environmental sustainability is no longer a mere compliance issue but a significant financial factor. Assets lacking credible net-zero plans face 'brown discounts' of 10-15%, and up to $2 trillion of real estate could be stranded by 2030. Green-certified buildings benefit from lower loan rates (25-31 bps) and command higher premiums, while high-risk properties incur higher insurance costs. ESG performance is now critical for valuations, financing, and market attractiveness.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-13"
+    },
+    {
+      "index": 9,
+      "title": "Geopolitical tensions and energy prices increase construction costs",
+      "description": "Escalating geopolitical tensions, particularly the West Asia conflict, lead to significant spikes in crude oil prices and global supply chain disruptions. This translates into higher input costs for construction materials, increased inflation, and potentially dampened investor sentiment, impacting project viability and buyer confidence in the real estate sector. The burden of high energy prices further strains corporate credit quality, particularly for MSMEs and construction companies with international exposure.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": null,
+      "as_of_date": "2026-04-17"
+    },
+    {
+      "index": 10,
+      "title": "Land acquisition and regulatory maze delay real estate projects",
+      "description": "Land scarcity in prime urban hubs and a complex labyrinth of zoning laws, environmental impact assessments, and multiple approval processes (power, water, fire safety) create multi-year delays for real estate projects. This bureaucratic maze can transform medium-term projects into prolonged headaches, necessitating streamlined single-window clearances at a national level to accelerate development, particularly for critical infrastructure like data centres and large-scale housing projects.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": null,
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 11,
+      "title": "Transmission infrastructure lags data centre capacity growth",
+      "description": "Despite India adding significant power generation capacity and increasing renewable energy share, gaps in transmission infrastructure (lagging target by ~33% for FY26) pose critical challenges for large-scale data centre expansion. As AI workloads drive higher rack power density and overall power demand, inadequate substation upgrades and power evacuation capabilities could hinder the realization of the industry's full potential, necessitating focused infrastructure support for sustainability.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-25"
+    },
+    {
+      "index": 12,
+      "title": "Limited AI investment erodes real estate competitiveness",
+      "description": "Despite the clear potential for AI to transform real estate, the sector significantly lags the global average in AI maturity by 15%, and AI investment is projected to be 0.8% below the cross-industry average in 2026, with the gap expected to widen. This conservative, risk-averse culture and fragmented data prevent end-to-end AI integration, creating a key risk where delayed adoption compounds cost disadvantages and erodes competitiveness, leading to declining win rates and lower scale efficiency.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-14"
+    },
+    {
+      "index": 13,
+      "title": "AHFC yield compression impacts net interest margins",
+      "description": "Affordable Housing Finance Companies (AHFCs) face significant yield compression due to the transmission of repo rate cuts and rising competitive pressures, which is expected to contract their Net Interest Margins (NIMs). While borrowing costs may decrease, the softening of loan yields puts pressure on profitability. AHFCs are responding by increasing their Loan Against Property (LAP) portfolios and leveraging Direct Assignment (DA) transactions to offset margin pressures and support ROTA.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": null,
+      "as_of_date": "2026-03-12"
+    },
+    {
+      "index": 14,
+      "title": "Elevated facility management shifts to value driver",
+      "description": "Facility management is transitioning from a traditional cost center to a strategic value driver within real estate. This shift is driven by the adoption of value-based contracting, predictive maintenance, AI-driven energy optimization, and data-based space management. By integrating these tools, facility management teams can significantly improve operational efficiency, reduce downtime, enhance tenant satisfaction, and crucially contribute to the ESG performance of buildings, transforming operations for greater returns.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-13"
+    },
+    {
+      "index": 15,
+      "title": "Buoyant warehousing demand supports industrial real estate growth",
+      "description": "The warehousing and logistics real estate sector is buoyed by strong demand drivers, including the rapid expansion of e-commerce, the increasing reliance on third-party logistics (3PL) providers, and the development of multimodal supply chains. This robust demand supports healthy occupancy levels, with Grade A warehouse stock projected to exceed 500 million sq ft by CY30, driving continued growth for industrial and logistics parks and related InvITs.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-19"
+    },
+    {
+      "index": 16,
+      "title": "Fragmented data centre supply chain creates bottlenecks",
+      "description": "The shift to GPU-heavy, AI-ready data centre infrastructure faces global semiconductor shortages, leading to agonisingly long lead times for processors and vulnerability to bottlenecks. Moreover, fragmented service providers across construction, technology, and cooling complicate coordination, causing delays and muddy responsibilities. This lack of an integrated lifecycle partner poses significant delivery risks, hindering the rapid scaling required to meet exponential demand for data centre real estate.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 17,
+      "title": "Talent shortages impede real estate and data centre expansion",
+      "description": "A significant shortage of fresh, highly skilled talent across the real estate value chain, particularly in specialized areas like cloud architecture, advanced thermodynamics for data centres, and facility management, poses a critical operational and expansion challenge. The complexity of AI-ready facilities and smart buildings demands deep expertise, and without proactive collaboration between educational institutions and industries to build tailored programs, this talent gap will hinder infrastructure development.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 18,
+      "title": "Operational inefficiencies in traditional real estate create delays",
+      "description": "The real estate sector is structurally exposed to significant operational inefficiencies, with 66% of projects experiencing schedule overruns and 39% facing cost overruns. These issues stem from fragmentation, rework, misaligned incentives across the life cycle, and supply chain volatility. Such ingrained inefficiencies not only lead to financial losses but also hinder project delivery and erode competitiveness, underscoring the urgent need for digital transformation and AI adoption.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": null,
+      "as_of_date": "2026-05-14"
+    },
+    {
+      "index": 19,
+      "title": "Affordable housing profitability structurally constrains supply",
+      "description": "Despite significant and growing demand, the supply of affordable housing remains structurally constrained due to its historically low profitability. Private companies often introduce affordable housing late in the development process, primarily to meet regulatory obligations rather than optimize for its specific economics. This necessitates a fundamental value chain redesign, focusing on minimally viable designs, modular construction, and supportive regulatory frameworks to unlock growth and overcome supply constraints.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-13"
+    },
+    {
+      "index": 20,
+      "title": "Rising costs challenge warehousing InvIT profitability",
+      "description": "Warehousing InvITs, despite being supported by buoyant underlying demand from e-commerce and 3PL, face near-term profitability challenges due to rising land prices and higher construction costs. These escalating input costs, when considered relative to rental yields, compress margins and necessitate careful capital deployment and risk management to maintain an optimal balance between growth aspirations and financial viability. This risk profile requires strategic management for sustained momentum.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": null,
+      "as_of_date": "2026-03-19"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "AI presents structural advantage for real estate, but adoption lags",
+      "description": "BCG highlights that the real estate sector is inherently inefficient, and AI can unlock significant value through revenue uplift, cost reduction, and improved portfolio returns across development, investment, and facility management. Despite this potential, real estate lags the global average in AI maturity by 15% and investment is forecast to be 0.8% below the cross-industry average in 2026, with the gap expected to widen. This creates both a significant opportunity and a risk for laggards.",
+      "stance": "cautious_positive",
+      "source_firm": "Boston Consulting Group (BCG)",
+      "source_date": "2026-05-14",
+      "source_doc_id": "1e976d60-9e73-54a1-bfd1-96693c4fda36"
+    },
+    {
+      "index": 2,
+      "title": "Technology is crucial for Indian real estate capital access and trust",
+      "description": "Raj Menda of FICCI emphasizes that technology has evolved from a differentiator to a fundamental condition for accessing capital and building trust in India's real estate sector. AI adoption in corporate real estate surged from under 5% in 2023 to 91% in 2025, signaling a collective judgment on competence. This transformation, encompassing digital discipline and enterprise-wide integration, is essential for securing institutional investment and sustained growth.",
+      "stance": "positive",
+      "source_firm": "FICCI (Raj Menda)",
+      "source_date": "2026-05-01",
+      "source_doc_id": "b0f283ae-1fa3-5001-b840-a82ca3402ab3"
+    },
+    {
+      "index": 3,
+      "title": "India's data centre market needs integrated lifecycle partners",
+      "description": "KPMG highlights that India's data centre market is experiencing rapid, exponential growth driven by data localization, AI workloads, and 5G. However, this growth is hindered by complexity and fragmented service providers across construction, technology, and cooling. The market needs true 'Lifecycle Partners' capable of offering seamless services from planning to maintenance, while adapting to high-value areas like Capital Markets, Telecom, Digital Transformation, and ESG frameworks.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "source_doc_id": "0463e6ea-0c54-5403-92a2-03d2fc086c6c"
+    },
+    {
+      "index": 4,
+      "title": "Real estate leasing drives service upgrades amidst new geopolitical risks",
+      "description": "Ranjan Sharma highlights that real estate leasing was a key sector driving upgrades in H2FY26 for the manufacturing and services sectors. However, the sudden outbreak of conflict in West Asia introduces sectoral vulnerabilities, with industries like ceramics, chemicals, and hospitality facing earnings headwinds if the conflict prolongs. Despite these risks, Corporate India's deleveraged balance sheets are expected to provide some cushion in the near term.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings (Ranjan Sharma)",
+      "source_date": "2026-04-17",
+      "source_doc_id": "837065f0-1456-5245-a0c5-8fbf7afd96e5"
+    },
+    {
+      "index": 5,
+      "title": "AI-led data centre growth relies on GPU availability",
+      "description": "Tej Kiran emphasizes that while current data centre demand is driven by enterprise IT and cloud storage, AI-led workloads are expected to power the next 5-7 years of growth. The pace of adoption in India is directly linked to the timely scaling of high-performance Graphics Processing Unit (GPU) availability, highlighting a potential bottleneck for rapid expansion in this segment. This underscores the need for strategic planning in hardware procurement.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings (Tej Kiran)",
+      "source_date": "2026-04-17",
+      "source_doc_id": "837065f0-1456-5245-a0c5-8fbf7afd96e5"
+    },
+    {
+      "index": 6,
+      "title": "Luxury housing booms, but risks from rapid launches and geopolitics",
+      "description": "India's luxury housing market is booming, with branded residences contributing 4% of global supply and growing rapidly. This is driven by rising affluence, demand for quality, and trust in brands. However, rapid launches could test market absorption, and geopolitical shocks might impact construction costs and buyer confidence. Resilience will depend on disciplined execution, prudent financing, and a long-term view amid potential disruptions.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG (Neeraj Bansal)",
+      "source_date": "2026-04-01",
+      "source_doc_id": "4690afeb-836a-5eb0-b1dc-a27552578312"
+    },
+    {
+      "index": 7,
+      "title": "India's data centre capacity to quadruple by 2030, infrastructure critical",
+      "description": "CareEdge Ratings forecasts India's data centre capacity to grow fourfold to 4 GW by 2030 from 1.2 GW in 2025, driven by digitisation, AI adoption, and India's cost competitiveness. While significant investments (Rs 1.5 lakh crore) are expected, critical infrastructure readiness in power transmission, water-usage efficiency, and connectivity remains a key focus area to sustain this large-scale expansion. Geopolitical disruptions are unlikely to adversely impact in the medium term.",
+      "stance": "positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-03-25",
+      "source_doc_id": "ba885fc1-12da-5d8d-b4c0-a682f9bfba33"
+    },
+    {
+      "index": 8,
+      "title": "InvIT AUM doubles, diversifying into warehousing, but domestic participation lags",
+      "description": "CareEdge Ratings reports InvIT AUM doubled from Rs 3.0 lakh crore (FY22) to Rs 6.25 lakh crore (FY25), with an expected Rs 1 lakh crore growth in FY26, driven by roads, transmission, warehousing, and renewables. While showing strong investor appetite and institutionalization, AUM remains concentrated in telecom and roads (90%). Domestic institutions hold a modest 7%, indicating untapped depth, while leverage remains comfortable.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-03-19",
+      "source_doc_id": "1e5065ac-f786-5c41-aca5-41cebdf469ca"
+    },
+    {
+      "index": 9,
+      "title": "AHFCs gain market share with steady growth, but yields moderate",
+      "description": "CareEdge Ratings states that Affordable Housing Finance Companies (AHFCs) are increasing their share in HFCs' loan portfolios, driven by demand for affordable homes and government support. AUM growth is strong but expected to moderate, while yields will soften due to rate cut transmission and competition. Profitability is supported by non-interest income and higher-yielding Loan Against Property (LAP) portfolios, though asset quality requires monitoring as portfolios season.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-03-12",
+      "source_doc_id": "80a6fb36-9cef-5236-91be-21ea29c8e7a9"
+    },
+    {
+      "index": 10,
+      "title": "Indian real estate at pivotal inflection point with technology driving shifts",
+      "description": "KPMG in India states that the Indian real estate sector is undergoing a structural reset, moving from fragmented, manual practices to integrated, technology-led platforms. Technology is becoming central to the entire value chain, driven by rising costs, stricter regulations, and increasing investor demands for transparency and efficiency. This shift positions real estate as a critical catalyst for India's growth, necessitating end-to-end, enterprise-led transformation.",
+      "stance": "positive",
+      "source_firm": "KPMG in India (Neeraj Bansal)",
+      "source_date": "2026-05-01",
+      "source_doc_id": "b0f283ae-1fa3-5001-b840-a82ca3402ab3"
+    },
+    {
+      "index": 11,
+      "title": "India Inc. credit quality faces headwinds, but balance sheets strong",
+      "description": "CareEdge Ratings notes that intensifying geopolitical tensions and shifting trade dynamics are weighing on India Inc.'s credit quality, with the credit ratio moderating in H2FY26. While corporate balance sheets are structurally stronger due to a decade of deleveraging, a prolonged West Asia conflict could lead to higher crude oil prices, increased inflation, and a widening current account deficit, testing resilience, particularly for MSMEs. The margin for comfort is narrowing.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge Ratings (Sachin Gupta)",
+      "source_date": "2026-04-17",
+      "source_doc_id": "837065f0-1456-5245-a0c5-8fbf7afd96e5"
+    },
+    {
+      "index": 12,
+      "title": "Warehousing InvITs strong, but infrastructure InvIT growth faces valuation hurdles",
+      "description": "Palak Vyas states that warehousing InvITs are well-positioned due to healthy occupancy and moderate leverage. However, the roads segment, while offering a strong monetization pipeline, faces challenges from HAM valuations and limited availability of toll assets. Transmission and solar assets also offer long-term potential but are tempered by long-tenure concessions and refinancing debt availability, making an optimal balance among growth aspirations, asset valuations, and funding access critical.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings (Palak Vyas)",
+      "source_date": "2026-04-17",
+      "source_doc_id": "837065f0-1456-5245-a0c5-8fbf7afd96e5"
+    },
+    {
+      "index": 13,
+      "title": "Data centre boom demands focus on supply chain, not just capacity",
+      "description": "Unaise Urfi of KPMG emphasizes that India's data centre boom, driven by AI and cloud adoption, requires a fundamental shift from focusing on raw capacity to mastering complex supply chain issues. This includes addressing global hardware shortages (especially GPUs), ensuring green power and efficient cooling, streamlining land acquisition and approvals, and bridging the talent gap to build a resilient and sustainable data centre ecosystem.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG (Unaise Urfi)",
+      "source_date": "2026-04-01",
+      "source_doc_id": "1bc2b2f7-926c-59c3-96fc-40dbd35eff09"
+    },
+    {
+      "index": 14,
+      "title": "Indian real estate: key economic driver with strong growth",
+      "description": "IBEF highlights India's real estate sector as the second-highest employment generator, projected to reach US$5-7 trillion by 2047. Driven by rapid urbanisation, rising incomes, and strong institutional investment (USD1.60 billion in Q1 2026), the sector is experiencing a shift from volume to value-driven growth. Policy support like PMAY-U 2.0 and land record digitisation further underpin its expansion and appeal, making it a key pillar of India's growth.",
+      "stance": "positive",
+      "source_firm": "India Brand Equity Foundation (IBEF)",
+      "source_date": "2026-03-31",
+      "source_doc_id": "d1a2571c-4309-579c-ae1a-98b3905e28d2"
+    },
+    {
+      "index": 15,
+      "title": "AI to drive data centre growth, power infrastructure is crucial",
+      "description": "Puja Jalan states that the data centre industry is in an upswing, with high capital expenditure and strong fundraising. AI-led demand is expected to catapult growth, with revenue CAGR of 24% and steady margins of 40-42% during FY26-30. However, adequate power infrastructure support is critical for realizing the industry's full potential, and managing cash flows amid rising costs and escalating commissioning timelines will be key for sustenance and profitability.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings (Puja Jalan)",
+      "source_date": "2026-03-25",
+      "source_doc_id": "ba885fc1-12da-5d8d-b4c0-a682f9bfba33"
+    },
+    {
+      "index": 16,
+      "title": "Real estate value shifts to operating performance, demands active management",
+      "description": "BCG identifies a structural reset in real estate, moving value from capital allocation to operating performance. Success will hinge on operating best, not just acquiring well. This necessitates a shift towards 'property ecosystems' combining residential and commercial users, supported by infrastructure. Firms must embrace active asset selection, design, operation, and performance management, industrialize construction, and strategically utilize facility management and AI to avoid obsolescence.",
+      "stance": "positive",
+      "source_firm": "Boston Consulting Group (BCG)",
+      "source_date": "2026-03-13",
+      "source_doc_id": "bf9f2b40-7f5b-5b37-94eb-981034817f81"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 650.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rapid urbanisation",
+          "description": "An estimated ~590 million people are expected to live in urban areas by 2036, driving sustained demand for affordable housing."
+        },
+        {
+          "driver": "Rising public capital expenditure",
+          "description": "A sixfold increase in government capex to a budgeted USD128.5 billion in FY27 is strengthening the infrastructure backbone and supporting sustained growth."
+        },
+        {
+          "driver": "Institutional investment support",
+          "description": "An institutional investment of USD4.3 billion as of October 2025 and growing REIT adoption are enhancing transparency and liquidity across commercial and residential real estate."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Market valuation of India’s real estate sector.",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 5.8,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2047,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2025-2047",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Continued urbanisation and infrastructure investment",
+          "description": "The sector’s growth is underpinned by the country’s progress towards the Viksit Bharat 2047 vision, requiring significant real estate expansion."
+        },
+        {
+          "driver": "Expanding digital penetration",
+          "description": "Increased digital adoption across the sector’s value chain, from design to asset management, enhances efficiency and attracts capital."
+        },
+        {
+          "driver": "Deepening institutional and capital markets participation",
+          "description": "Growing involvement of private equity funds, REITs, and alternative investment funds drives transparency and capital formation."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Market valuation projection for India’s real estate sector.",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 16.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Market formalisation",
+          "description": "Shift from fragmented private ownership towards institutionally managed, transparent platforms."
+        },
+        {
+          "driver": "Investor confidence",
+          "description": "Growing trust in structured investment vehicles drives capital into real estate assets."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Value unlocked through REITs and InvITs.",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Global Capability Centres (GCCs) expansion",
+          "description": "Foreign firms are setting up GCCs in India, driving record leasing activity for office space."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total office space leased by foreign firms in India's top nine cities during Q1 2026.",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": 45.69,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2033,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Digital appetite and favourable government policies",
+          "description": "One billion internet users and businesses rushing to the cloud make building domestic data centres a necessity, backed by policy tailwinds."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected total sector revenue for India's data centre market.",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": 3.55,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 35.1,
+      "forecast_cagr_period": "2024-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Exponential growth in AI-driven workloads",
+          "description": "AI applications require high-performance computing and large-scale data storage, increasing demand for specialized infrastructure."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected market size for AI-specific data centre infrastructure.",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 7,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2036,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strategic shift towards higher value realisation",
+          "description": "Growing buyer preference for high-end, luxury and ultra-luxury housing segments."
+        },
+        {
+          "driver": "Rapid urbanisation",
+          "description": "An estimated ~590 million people are expected to live in urban areas by 2036, driving sustained demand for housing."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected housing demand in units for India.",
+      "source_firm": "India Brand Equity Foundation (IBEF)",
+      "source_date": "2026-05-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 8,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Third-party logistics (3PL) providers",
+          "description": "3PL providers were the primary driver of demand, followed by engineering and automobile sectors."
+        },
+        {
+          "driver": "E-commerce expansion",
+          "description": "Continued support from the e-commerce sector fuels warehousing and industrial demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Industrial and warehousing leasing activity in 1HCY25.",
+      "source_firm": "India Brand Equity Foundation (IBEF)",
+      "source_date": "2026-05-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 9,
+      "tam_value": 4.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Digital transformation and AI workloads",
+          "description": "The wave of digitisation and AI applications are rapidly increasing data creation and cloud adoption, strengthening demand for data centre infrastructure."
+        },
+        {
+          "driver": "Government incentives and regulatory push",
+          "description": "Tax holidays, infrastructure status, and state incentives are creating a supportive policy environment for data centre expansion."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s data centre colocation (co-lo) capacity projection.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-17",
+      "data_confidence": "high"
+    },
+    {
+      "index": 10,
+      "tam_value": 3.0,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong demand from hyperscalers and enterprises",
+          "description": "Hyperscale cloud providers, enterprise clients, and the BFSI segment drive strong absorption levels."
+        },
+        {
+          "driver": "AI-led demand",
+          "description": "AI workloads are expected to power the next phase of growth, requiring significant IT equipment investment."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Overall investment potential for data centres, including capacity augmentation and IT equipment.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-17",
+      "data_confidence": "high"
+    },
+    {
+      "index": 11,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": 20.0,
+      "forecast_cagr_period": null,
+      "historical_cagr": 5.0,
+      "historical_cagr_period": "FY21-FY25",
+      "demand_drivers": [
+        {
+          "driver": "Favourable demographic trends",
+          "description": "A young and growing population contributes to sustained housing demand."
+        },
+        {
+          "driver": "Increasing urbanisation",
+          "description": "Continued migration to urban areas fuels the need for affordable housing solutions."
+        },
+        {
+          "driver": "Penetration into underserved customer segments",
+          "description": "AHFCs focus on borrowers with informal income in smaller towns, tapping into new markets."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecasted growth for Affordable Housing Finance Companies (AHFCs) AUM.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-17",
+      "data_confidence": "high"
+    },
+    {
+      "index": 12,
+      "tam_value": 5.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "past decade",
+      "demand_drivers": [
+        {
+          "driver": "Rising affluence and confidence",
+          "description": "Growing base of HNIs and UHNIs willing to pay for quality, reliability, and global standards."
+        },
+        {
+          "driver": "Trust and assurance in brands",
+          "description": "Global hospitality brands and international design firms offer credibility, construction quality, and long-term reliability."
+        },
+        {
+          "driver": "Changing lifestyle and expectations",
+          "description": "Buyers are well-travelled, exposed to global living standards, and focused on wellness, sustainability, and community living."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Market value of India’s branded residences segment.",
+      "source_firm": "KPMG",
+      "source_date": "2026-04-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 13,
+      "tam_value": 1.0,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 19.5,
+      "historical_cagr_period": "2017-2028",
+      "demand_drivers": [
+        {
+          "driver": "Robust economic growth",
+          "description": "India is expected to be one of the fastest-growing economies, boosting purchasing power for real estate."
+        },
+        {
+          "driver": "Growing urbanisation and affordability",
+          "description": "Rising income and employment opportunities lead to more urbanisation and increased affordability for real estate in cities."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected market size of India’s real estate sector.",
+      "source_firm": "India Brand Equity Foundation (IBEF)",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 14,
+      "tam_value": 224379.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 10.9,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growth of third-party logistics",
+          "description": "The rise of 3PL providers is a significant incentive for increased demand for warehouses."
+        },
+        {
+          "driver": "Policy support and infrastructure development",
+          "description": "Infrastructure status, ULIP, National Logistics Policy, PM GatiShakti, and logistics parks drive growth."
+        },
+        {
+          "driver": "E-commerce expansion",
+          "description": "Rapid growth in e-commerce requires robust warehousing and logistics infrastructure."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected market size for the warehousing sector in India.",
+      "source_firm": "India Brand Equity Foundation (IBEF)",
+      "source_date": "2026-03-31",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 15,
+      "tam_value": 39.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "ESG expectations",
+          "description": "Growing emphasis on environmental, social, and governance performance."
+        },
+        {
+          "driver": "Energy and water savings",
+          "description": "Green buildings offer 30-50% energy savings and 20-30% water savings, reducing operational costs."
+        },
+        {
+          "driver": "Higher rental and market value premiums",
+          "description": "Green-certified buildings command better financial returns and attractiveness for tenants/investors."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected market size for the green building sector.",
+      "source_firm": "India Brand Equity Foundation (IBEF)",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 16,
+      "tam_value": 6.25,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "FY22-FY25",
+      "demand_drivers": [
+        {
+          "driver": "Structural investor appetite",
+          "description": "Growing confidence from large, long-term investors in regulated infrastructure platforms."
+        },
+        {
+          "driver": "Rapid institutionalisation of operational infrastructure platforms",
+          "description": "Shift towards structured investment vehicles for infrastructure assets."
+        },
+        {
+          "driver": "Portfolio expansion",
+          "description": "Growth across roads, transmission, warehousing, and renewable energy sectors."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Asset Under Management (AUM) for Infrastructure Investment Trusts (InvITs) in India.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-03-19",
+      "data_confidence": "high"
+    },
+    {
+      "index": 17,
+      "tam_value": 2.0,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Improving digital infrastructure and regional connectivity",
+          "description": "Manufacturing is moving beyond metros and consumption is rising in tier-2 and tier-3 cities."
+        },
+        {
+          "driver": "Policy intent and investments",
+          "description": "INR1 lakh crore Urban Challenge Fund aims to unlock nearly INR4 lakh crore of investments in tier-2-3 cities."
+        },
+        {
+          "driver": "Job creation and start-up growth",
+          "description": "Start-ups added nearly 5 lakh jobs in FY26, increasingly across non-metro states."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected economic output of Tier-2 cities alone.",
+      "source_firm": "KPMG",
+      "source_date": "2026-04-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 18,
+      "tam_value": 253.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2033,
+      "forecast_cagr": 19.8,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Unprecedented highs in gross leasing activity",
+          "description": "India’s office market recorded 83.30 million sq ft in 2025, reinforcing its position as a strategic global business hub."
+        },
+        {
+          "driver": "Rising GCC activity and use of flexible workspaces",
+          "description": "Foreign firms' expansion and increased demand for flexible offices drive growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected market size for India’s commercial real estate market.",
+      "source_firm": "India Brand Equity Foundation (IBEF)",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 19,
+      "tam_value": 123.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2029,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Institutional demand",
+          "description": "Growing interest in office and retail assets drives investment into REITs."
+        },
+        {
+          "driver": "REIT expansion",
+          "description": "New REITs are expected to launch, increasing market penetration and liquidity."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected market capitalisation for India’s Real Estate Investment Trust (REIT) sector.",
+      "source_firm": "India Brand Equity Foundation (IBEF)",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 20,
+      "tam_value": 11300.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 24.0,
+      "forecast_cagr_period": "FY26-FY30",
+      "historical_cagr": null,
+      "historical_cagr_period": "FY21-FY25",
+      "demand_drivers": [
+        {
+          "driver": "Continued capacity growth and sustained absorption levels",
+          "description": "Strong demand from hyperscale cloud providers, enterprise clients, and the BFSI segment drives growth."
+        },
+        {
+          "driver": "AI-driven workloads and digitalisation",
+          "description": "These factors are expected to sustain strong demand even as new capacities come online."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "EBITDA margins",
+          "description": "Margins have remained relatively stable at 40-43% during FY22-FY25 and are expected to remain broadly stable, potentially moderating due to non-linear pricing based on capacity utilisation for hyperscalers."
+        },
+        {
+          "driver": "Long-term contracts",
+          "description": "Annuity-like revenue model with 5-15 year contracts ensures high revenue visibility and stable cash flows."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Revenue of major Data Center players in India.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-03-25",
+      "data_confidence": "high"
+    },
+    {
+      "index": 21,
+      "tam_value": 11500.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Buoyant underlying demand",
+          "description": "Demand from e-commerce, third-party logistics (3PL), and multimodal supply chains."
+        },
+        {
+          "driver": "Healthy occupancy levels",
+          "description": "Grade A warehouse stock is expected to exceed 500 million sq ft by CY30, with occupancy levels likely to remain healthy at around 90%."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Warehousing InvITs Asset Under Management (AUM).",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-03-19",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "Boston Consulting Group (BCG)",
+    "FICCI (Raj Menda)",
+    "KPMG",
+    "CareEdge Ratings (Ranjan Sharma)",
+    "CareEdge Ratings (Tej Kiran)",
+    "KPMG (Neeraj Bansal)",
+    "CareEdge Ratings",
+    "KPMG in India (Neeraj Bansal)",
+    "CareEdge Ratings (Sachin Gupta)",
+    "CareEdge Ratings (Palak Vyas)",
+    "KPMG (Unaise Urfi)",
+    "India Brand Equity Foundation (IBEF)",
+    "CareEdge Ratings (Puja Jalan)"
+  ]
+}

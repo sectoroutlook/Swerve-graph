@@ -1,0 +1,399 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Resilient retail and MSME demand drives bank credit growth",
+      "description": "Personal loans remained strong at 16.0% y-o-y in April 2026, fueled by healthy retail demand, strong vehicle financing (18.0% growth), and robust gold loans (121.2% growth). MSMEs significantly contributed to industrial credit growth, benefiting from sustained demand, attractive risk-adjusted returns for lenders, and ongoing policy support. This broad-based and consistent demand from retail and small business segments underpins overall bank credit expansion and contributes to sector stability.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-08"
+    },
+    {
+      "index": 2,
+      "title": "Corporate bond yields shift funding preference to bank credit",
+      "description": "Elevated corporate bond yields in Q4FY26 and early FY27 reduced the attractiveness of market borrowings for NBFCs, large corporates, and infrastructure developers. This prompted a significant shift towards bank financing for incremental funding requirements and refinancing, boosting non-food bank credit growth. This cyclical shift is sensitive to changes in bond market conditions, implying that moderation in yields could reverse the trend and impact bank lending momentum to these segments.",
+      "type": "cyclical_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-08"
+    },
+    {
+      "index": 3,
+      "title": "Digitalization of Kisan Credit Card transforms agri-finance accessibility",
+      "description": "The RBI Innovation Hub's digitalization of the Kisan Credit Card (KCC) has revolutionized agricultural credit, converting a four-to-six-week paper-heavy process into a seamless, paperless loan disbursal achievable in under 10 minutes. Leveraging India’s Digital Public Infrastructure and the Unified Lending Interface, this innovation significantly enhances efficiency and accessibility for agricultural credit. This fosters greater financial inclusion in rural areas and expands the reach of commercial and retail banks to underserved farming communities.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 4,
+      "title": "AI adoption in banking enhances efficiency and risk management",
+      "description": "Public sector banks are implementing generative AI applications across credit appraisal, underwriting, and risk management processes under the EASE 8.0 Programme, with seven banks introducing 32 such applications. Private banks are also increasingly leveraging AI to improve efficiency in customer service, loan processing, and internal operations. This technological integration is expected to strengthen operational efficiency, accelerate decision-making, and potentially reduce employee costs as a share of total expenses over time, transforming banking operations.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 5,
+      "title": "Transition to Expected Credit Loss framework enhances risk management",
+      "description": "The transition to the Expected Credit Loss (ECL) framework represents a significant structural positive for the Indian banking system, reinforcing transparency, risk sensitivity, and alignment with global prudential standards. By mandating forward-looking risk recognition, it leads banks to maintain higher prudential provisions. This framework will likely increase the importance of Stage 2 assets and attract disproportionately higher provisions for riskier assets, potentially offsetting margin gains and impacting returns on total assets for banks.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-29"
+    },
+    {
+      "index": 6,
+      "title": "Robust capital adequacy provides buffer for growth and shocks",
+      "description": "SCBs maintained strong capital positions, with a median Common Equity Tier 1 (CET-1) ratio of 16.2% and Capital Adequacy Ratio (CAR) of 17.9% in Q4FY26, comfortably exceeding regulatory requirements. This strength is supported by healthy internal capital generation, bond issuances, and moderate growth in risk-weighted assets. Such robust capital buffers enhance the banking sector's ability to absorb potential shocks, support future credit growth, and maintain resilience amidst evolving economic and geopolitical risks.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-29"
+    },
+    {
+      "index": 7,
+      "title": "KYC and Digital Public Infrastructure foster financial inclusion",
+      "description": "The RBI's directive for banks to strengthen customer services through trilingual communication and the government's push for the revamped Central KYC Registry, alongside advancements in Digital Public Infrastructure like UPI, are collectively driving significant financial inclusion. Initiatives such as Jan Dhan accounts and PM Mudra Yojana broaden access to formal banking services for underserved segments, creating a larger, more engaged customer base and increased transaction volumes for Commercial & Retail Banking, reshaping its operational landscape.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 8,
+      "title": "Treasury income hit by rising bond yields and MTM losses",
+      "description": "Rising government bond yields in Q4FY26, with the 10-year GoI bond hardening to 6.73% from 6.57%, led to mark-to-market (MTM) losses on banks’ treasury portfolios. This significantly weighed on non-interest income and contributed to the overall moderation in total income, particularly for Public Sector Banks (PSBs). The adverse yield environment compels banks to carefully manage their investment books, balancing accrual income generation, liquidity management, and regulatory requirements against potential MTM volatility.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-29"
+    },
+    {
+      "index": 9,
+      "title": "Improving asset quality lowers credit costs and boosts resilience",
+      "description": "SCBs' asset quality continued to improve in Q4FY26, with the Gross Non-Performing Assets (GNPA) ratio declining to a multi-year low of 1.8% and Net Non-Performing Assets (NNPA) remaining stable at 0.4%. This improvement, driven by contained fresh slippages, strong recoveries, and the resolution of legacy assets, led to a 19.3% y-o-y decline in credit costs. Lower provisioning requirements enhance bank profitability and strengthen balance sheet resilience, supporting overall sector health.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-29"
+    },
+    {
+      "index": 10,
+      "title": "Rising employee expenses due to impending wage settlement negotiations",
+      "description": "While total operating expenses for SCBs remained flat y-o-y in Q4FY26, banks anticipate upward pressure on employee expenses in FY27. This is primarily due to the expected commencement of industry-wide wage settlement negotiations, which could result in incremental provisioning towards salary revisions. This increase in employee costs could impact banks' cost-to-income ratios and overall profitability, particularly if not adequately offset by corresponding income growth or further operational efficiency gains from technology adoption.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-29"
+    },
+    {
+      "index": 11,
+      "title": "Geopolitical tensions pose credit risks for export-oriented MSMEs",
+      "description": "Elevated geopolitical tensions in West Asia introduce risks to export-oriented MSMEs, particularly those in gems and jewellery, textiles, and ceramics. These industries face vulnerabilities such as disruptions in trade flows, elongated receivable cycles, higher logistics costs, and input price volatility, which could pressure working capital and cash flows. While asset quality is currently stable, prolonged conflict could lead to emerging stress in these vulnerable segments from Q2FY27/H2FY27, impacting bank loan portfolios.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-08"
+    },
+    {
+      "index": 12,
+      "title": "Policy support measures bolster MSME credit and asset quality",
+      "description": "Government policies such as ECLGS 5.0, offering 100% credit guarantee for MSMEs, and CGSMFI 2.0, are crucial in easing liquidity pressures, supporting credit flows, and preserving asset quality in vulnerable segments, particularly MSMEs affected by geopolitical uncertainties. These measures provide a vital buffer, ensuring continued access to finance for small businesses and mitigating potential stress in the banking system's MSME portfolio, thereby enhancing overall sector stability and resilience.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-08"
+    },
+    {
+      "index": 13,
+      "title": "Deposit growth lags credit, pressuring Loan-to-Deposit Ratio",
+      "description": "Bank credit growth continued to outpace deposit accretion, widening the gap to ~400 bps and pushing the Loan-to-Deposit Ratio (LDR) to 82.5% by May 15, 2026. Deposits declined faster sequentially (0.7%) than credit (0.1%), signaling persistent challenges in deposit mobilization. This trend leads to an elevated LDR, which could necessitate banks to manage funding dynamics more carefully, potentially increasing reliance on costlier wholesale funding and impacting Net Interest Margins (NIMs).",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 14,
+      "title": "Expanded ATM network boosts financial inclusion in remote areas",
+      "description": "The deployment of ATM machines significantly grew from 1.24 million in 2022 to approximately 1.46 million in 2024, with banks actively adding both onsite and offsite units. This expansion, crucial for achieving last-mile financial inclusion, provides essential banking services in remote and underserved areas. By increasing accessibility, the expanded ATM network facilitates broader customer reach and enhances the overall penetration of commercial and retail banking services across the country, particularly outside metropolitan centers.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 15,
+      "title": "Surging digital payments drive financial inclusion and transaction volumes",
+      "description": "India's digital payments surged with over 65,000 crore transactions, showcasing UPI's dominance with 20.39 billion transactions in February 2026, making it the world's largest real-time payment system. This growth reinforces deeper UPI adoption across retail payments and merchant transactions, significantly boosting financial inclusion. For banks, this translates into increased transaction volumes, lower operational costs through digital channels, and opportunities for transaction-led income generation, propelling the digital banking ecosystem forward.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 16,
+      "title": "NIM compression persists due to elevated deposit costs",
+      "description": "Net Interest Margins (NIMs) for Scheduled Commercial Banks (SCBs) continued under pressure, declining by 11 bps y-o-y to 2.87% in Q4FY26, a persistent trend over eight quarters. This compression is primarily attributable to elevated deposit costs and a sustained shift towards higher-cost term deposits, which offset gains from healthy credit growth. The slower transmission of lower lending rates further contributes to margin pressure, impacting overall bank profitability and highlighting challenges in liability management.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-29"
+    },
+    {
+      "index": 17,
+      "title": "Credit growth supported by bond market competitiveness shifts",
+      "description": "The recent recovery in large-industry credit and overall bank lending is partly attributed to a shift in funding preferences. When corporate bond yields are high, bank financing becomes more competitive, prompting large corporates and infrastructure developers to rely more on bank credit. This dynamic is cyclical, and an easing of bond yields or improved capital market conditions could lead to a partial shift back to market borrowings, potentially tempering bank credit growth in these segments.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-08"
+    },
+    {
+      "index": 18,
+      "title": "Neobanks and scaled fintechs expand into comprehensive financial platforms",
+      "description": "Scaled fintechs and neobanks are increasingly expanding their offerings into fuller financial platforms, moving beyond niche disruption to provide a more comprehensive suite of financial services. This development intensifies competition for traditional commercial and retail banks in core banking activities. With regulators resetting the distinction between banks and fintechs, incumbent banks face pressure to adapt and innovate their own offerings to compete effectively with these broader, technologically advanced financial service providers, driving structural changes in the market.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Indian banking sector shows robust growth driven by digital and inclusion",
+      "description": "The Indian banking sector is experiencing healthy growth in credit and deposits, underpinned by significant technological innovation and policy support for financial inclusion. The surge in digital payments, particularly UPI, and initiatives like the digitalization of Kisan Credit Card, are expanding banking access and services, especially in rural areas. Strong policy frameworks and continuous investment in technology are enhancing efficiency and making the sector more resilient, positioning India to become the third-largest domestic banking sector by 2050.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "source_doc_id": "301843e9-d278-5926-8b87-6b594ba3fe6a"
+    },
+    {
+      "index": 2,
+      "title": "Loan-to-Deposit Ratio edges up as deposit growth lags credit",
+      "description": "Bank credit growth continued to outpace deposit accretion, widening the gap to ~400 bps and increasing the Loan-to-Deposit Ratio (LDR) to 82.5% as of May 15, 2026. While credit growth remained robust, driven by retail and MSME segments, deposits declined at a faster sequential pace. This trend suggests persistent challenges in deposit mobilization and could indicate increased pressure on banks to manage funding dynamics and potentially rely on costlier sources.",
+      "stance": "cautious_positive",
+      "source_firm": "careedge",
+      "source_date": "2026-06-01",
+      "source_doc_id": "e6744722-4b7c-5dfa-93a0-86abb7d522e8"
+    },
+    {
+      "index": 3,
+      "title": "Asset quality stable in Q4FY26, but geopolitical risks require monitoring",
+      "description": "SCBs reported further improvement in asset quality in Q4FY26, with the GNPA ratio declining to a multi-year low of 1.8% and NNPA stable at 0.4%. Credit costs moderated significantly due to lower provisioning requirements. While domestic asset quality trends remained resilient, geopolitical tensions in West Asia pose a monitorable risk for select vulnerable segments (MSME, export-oriented). Policy support measures are in place to cushion potential stress, which may emerge in Q2FY27/H2FY27.",
+      "stance": "cautious_positive",
+      "source_firm": "careedge",
+      "source_date": "2026-05-25",
+      "source_doc_id": "83649ecf-f4c3-50f9-8e10-6086374ee985"
+    },
+    {
+      "index": 4,
+      "title": "FY27 outlook stable, supported by capital, asset quality, and credit demand",
+      "description": "The outlook for Scheduled Commercial Banks (SCBs) in FY27 remains stable, supported by strong capital buffers, comfortable asset quality, and sustained credit demand. While margin pressures persist from elevated funding costs and moderation in treasury income due to rising bond yields, policy support such as ECLGS 5.0 is expected to mitigate stress in vulnerable sectors, especially MSMEs. Geopolitical risks remain a key monitorable, but the overall resilience of the banking system is expected to hold.",
+      "stance": "neutral",
+      "source_firm": "careedge",
+      "source_date": "2026-05-25",
+      "source_doc_id": "b0c0b407-accf-5b3d-91e2-12923e642375"
+    },
+    {
+      "index": 5,
+      "title": "Bank credit growth remains firm despite evolving funding dynamics",
+      "description": "Non-food bank credit grew robustly at 15.8% y-o-y in April 2026, driven by healthy demand across key segments including services, MSMEs, and personal loans. A portion of this acceleration is attributed to the revised fortnightly reporting framework, but also reflects evolving funding preferences, with elevated corporate bond yields making bank financing more attractive. Geopolitical tensions pose risks to export-oriented MSMEs, but policy support like ECLGS 5.0 is expected to mitigate potential stress, sustaining overall credit stability.",
+      "stance": "cautious_positive",
+      "source_firm": "careedge",
+      "source_date": "2026-06-08",
+      "source_doc_id": "d3ddc6aa-1a10-513b-9336-a44f895deb63"
+    },
+    {
+      "index": 6,
+      "title": "SCBs sustain profitability despite NIM pressure and treasury moderation",
+      "description": "Scheduled Commercial Banks (SCBs) maintained net profits above ₹1 lakh crore in Q4FY26, primarily supported by higher interest income and benign asset quality. However, Net Interest Margins (NIM) compressed by 11 bps due to elevated deposit costs and softer lending rates, and treasury income moderated from rising bond yields. Despite these pressures, improved asset quality, lower credit costs, and strong capital buffers demonstrate the sector's overall resilience and stability.",
+      "stance": "cautious_positive",
+      "source_firm": "careedge",
+      "source_date": "2026-05-29",
+      "source_doc_id": "3bab163f-86a4-51f4-aecf-26437ad69b2d"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Healthy credit demand",
+          "description": "Strong non-food bank credit growth at 15.8% y-o-y in April 2026 across various segments."
+        },
+        {
+          "driver": "Evolving funding preferences",
+          "description": "Elevated corporate bond yields make bank financing more attractive than market borrowings for NBFCs and large corporates."
+        },
+        {
+          "driver": "Resilient retail demand",
+          "description": "Personal loans, vehicle financing, and gold loans show strong and sustained growth due to healthy retail demand."
+        },
+        {
+          "driver": "MSME sector support",
+          "description": "Sustained credit demand, favorable risk-adjusted returns for lenders, and ongoing policy support measures for MSMEs."
+        },
+        {
+          "driver": "Infrastructure project funding",
+          "description": "Accelerating growth in infra lending (10.1% y-o-y in April 2026), particularly power and ports, reflecting improving project execution and funding requirements."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Analysis of year-on-year non-food bank credit growth and compositional shifts. Segments like services sector (driven by NBFCs), MSME lending, large industry, infrastructure credit, and personal loans (vehicle financing, gold loans) are key components. Funding dynamics, where elevated corporate bond yields make bank financing more attractive, influence the credit mix.",
+      "source_firm": "careedge",
+      "source_date": "2026-06-08",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Digital payments surge",
+          "description": "65,000+ crore digital transactions worth Rs. 12,000 lakh crore; UPI with 20.39 billion transactions in Feb 2026 drives retail digital payments."
+        },
+        {
+          "driver": "MSME digital loan sanctions",
+          "description": "A new digital credit model enabled ~99,000 MSME loan sanctions since April 2025, boosting small business financing."
+        },
+        {
+          "driver": "Rural penetration via digitalization",
+          "description": "Digitalization of Kisan Credit Card (KCC) allows paperless loan disbursal under 10 minutes, and 100+ Digital Banking Units provide services in rural/semi-urban areas."
+        },
+        {
+          "driver": "Financial inclusion initiatives",
+          "description": "57.78 crore Jan Dhan accounts as of Feb 2026, and 57.26 crore collateral-free loans sanctioned under PM Mudra Yojana (~Rs. 39.48 lakh crore)."
+        },
+        {
+          "driver": "Improved banking accessibility",
+          "description": "RBI's directive for trilingual communication and expanding ATM/CRM networks (1.46 million in 2024) enhance customer reach."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Fully digital, hassle-free KCC loan delivery using India's Digital Public Infrastructure and Unified Lending Interface.",
+          "opportunity": "Digitalization of Agri-finance"
+        },
+        {
+          "description": "Seven public sector banks introduced 32 generative AI applications in credit appraisal, underwriting, and risk management.",
+          "opportunity": "Generative AI applications"
+        },
+        {
+          "description": "Deployment of ATMs grew significantly, boosting financial inclusion and service delivery in remote areas.",
+          "opportunity": "Expanded ATM/CRM network"
+        }
+      ],
+      "methodology": "Overview of the Indian banking sector's growth drivers, including digital transactions, financial inclusion initiatives, and policy support. Focuses on the role of UPI, Kisan Credit Card digitalization, ATM penetration, Jan Dhan accounts, and PM Mudra Yojana in expanding banking services and access.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Robust credit demand",
+          "description": "Total bank credit grew 16.2% y-o-y as of May 15, 2026, driven by retail, MSME, NBFCs, and select corporate segments."
+        },
+        {
+          "driver": "Time deposit growth",
+          "description": "Time deposits grew 12.3% y-o-y, accounting for 87.7% of total deposits, indicating customer preference for term deposits."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Loan-to-Deposit Ratio (LDR)",
+          "description": "LDR increased to 82.5%, indicating banks are lending more relative to their deposit base, which can affect funding costs and profitability."
+        },
+        {
+          "driver": "Weighted Average Call Rate (WACR)",
+          "description": "WACR increased marginally to 5.24%, nearing the repo rate, suggesting tighter liquidity and potential upward pressure on banks' short-term funding costs."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Analysis of total bank credit and aggregate deposits, and their year-on-year growth rates. The Loan-to-Deposit Ratio (LDR) indicates the relationship between credit extended and deposits mobilized. The mix of time deposits versus demand deposits and their growth trends also inform funding dynamics.",
+      "source_firm": "careedge",
+      "source_date": "2026-06-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Broad-based credit growth",
+          "description": "Net advances grew 15.3% y-o-y in Q4FY26, supported by retail, MSME, and corporate lending across various sectors like electronics, auto, and renewable energy."
+        },
+        {
+          "driver": "Year-end disbursement acceleration",
+          "description": "Sequential Q-o-Q growth in net advances driven by higher working capital utilization and loan disbursements in infra and housing, typically seen towards the fiscal year-end."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Net Interest Margin (NIM) compression",
+          "description": "NIM reduced by 11 bps y-o-y to 2.87% due to pressure on lending rates, elevated deposit costs, and a shift to higher-cost term deposits."
+        },
+        {
+          "driver": "Fee-based income support",
+          "description": "Fee-based income remained a key support for PPOP growth, with PSBs showing improvement and PVBs facing slight moderation due to competition."
+        },
+        {
+          "driver": "Treasury income moderation",
+          "description": "Decreased due to mark-to-market (MTM) losses on government securities as bond yields increased, impacting non-interest income."
+        },
+        {
+          "driver": "Credit costs decline",
+          "description": "Declined by 19.3% y-o-y to ₹0.25 lakh crore due to improved asset quality, lower fresh stress formation, and reduced provisioning requirements."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Analysis of quarterly bank performance metrics for Scheduled Commercial Banks (SCBs), including net advances growth, Net Interest Margin (NIM), Non-Performing Assets (NPA) ratios, credit costs, net profits, and Return on Assets (RoA). Examines how interest income, non-interest income (fee-based, treasury), and operating expenses contribute to profitability.",
+      "source_firm": "careedge",
+      "source_date": "2026-05-29",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "ibef",
+    "careedge"
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "AI-Enabled Cyber Threats and Deepfake Fraud Escalating Sophistication",
+      "description": "The proliferation of generative AI for deepfakes, voice cloning, and automated cyber-attacks significantly enhances fraud sophistication. This includes CEO fraud using cloned voices and AI-enabled vulnerability discovery, complicating digital platform security and forensic investigations. These threats, highlighted by CERT-In, demand urgent, coordinated vigilance from policymakers and enterprises to maintain digital trust.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 2,
+      "title": "Exploitation of Social Media and Messaging Platforms for Fraud",
+      "description": "Social media and instant messaging platforms are increasingly exploited as vectors for financial crime, including social engineering scams, fraudulently cloned accounts, and long-duration romance scams. This presents a significant challenge for platform security and user trust, as fraudsters manipulate human decision-making rather than technical systems, impacting millions of users. Fraud is also shifting upstream to discovery and contact channels.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 3,
+      "title": "SIM Swap Fraud Compromising OTP-Based Platform Authentication",
+      "description": "SIM swap fraud enables fraudsters to gain control over OTP-based authentication for multiple digital services linked to a victim's phone number, including banking, email, and payment apps. Despite tightened TRAI guidelines, enforcement inconsistencies across telecom operators and distribution channels pose a persistent threat, undermining the security of multi-factor authentication on digital platforms.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 4,
+      "title": "AI-Generated Content Creates Forensic Authenticity Challenges",
+      "description": "AI-generated content introduces a new category of evidence that can be authentic, synthetic, or manipulated, making visual inspection insufficient for verification. Courts increasingly require provenance verification through metadata analysis and generation artefacts. This structural change impacts content platforms, necessitating robust methods for authenticating digital media to maintain trust and address legal challenges.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 5,
+      "title": "NLP Challenges for Regional Language Fraud Detection on Platforms",
+      "description": "India's linguistic diversity presents a significant challenge for NLP-based fraud detection. Fraudulent communications frequently involve code-mixed regional languages, which existing English-centric NLP models struggle to process effectively. This gap hinders robust fraud detection on platforms serving diverse Indian users, making fine-tuning models for regional languages a critical yet under-addressed research priority for improving security.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 6,
+      "title": "Growing Internet and Broadband User Base Globally and in India",
+      "description": "India possesses the second-highest number of internet subscribers globally, with broadband subscriptions increasing rapidly to over one billion. This massive and expanding user base provides a foundational tailwind for Internet Platforms & Digital Media, ensuring a continuously growing audience for various digital services and content, driving engagement and monetization opportunities across the sector.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 7,
+      "title": "Rapid 5G Rollout and Exponential Mobile Data Traffic Growth",
+      "description": "India's rapid 5G rollout, with over 38 crore subscribers and widespread availability, combined with its status as the largest consumer of mobile data globally (73,324 PB in Q4 2025), provides a significant tailwind. This enhanced connectivity and data usage are crucial for driving engagement and consumption on digital content and social platforms, improving user experience, and enabling new services.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 8,
+      "title": "BharatNet Project Expanding Rural Broadband Connectivity",
+      "description": "The BharatNet project's phased implementation is significantly increasing broadband connectivity in rural Gram Panchayats across India. This initiative enhances last-mile connectivity and broadband access, effectively expanding the addressable market for Internet Platforms & Digital Media by bringing more users online in previously underserved areas, fostering digital inclusion and usage growth.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 9,
+      "title": "Increased SME Digital Advertising Spending Drives Growth",
+      "description": "SME marketers are significantly increasing their digital advertising spending and leveraging online shopping channels like Amazon and Flipkart. This trend highlights a growing confidence in digital platforms for reaching customers effectively. This surge in SME investment acts as a direct tailwind for Digital Advertising & Ad Tech companies, driving revenue growth and expanding the advertiser base for online platforms.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 10,
+      "title": "Expanding AVOD Audience Driven by Smartphones and Data Access",
+      "description": "India's OTT audience grew by 9.9% YoY to 601.2 million, with AVOD platforms primarily driving this expansion. This growth is strongly supported by rising smartphone usage and affordable data access. This trend is a significant tailwind for ad-driven content platforms within Internet Platforms & Digital Media, ensuring a continually expanding and engaged audience base for monetisation through advertising.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 11,
+      "title": "Digital Media Surpassing Television as Largest M&E Segment",
+      "description": "Digital media has overtaken television to become the largest segment of the Indian M&E sector, capturing a 32% share of the INR 2.5 trillion market in 2024. This marks a critical inflection point, fundamentally restructuring the media value chain and audience attention. This structural shift highlights the increasing dominance of digital platforms for content consumption and advertising, reorienting investment and strategy across the industry.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 12,
+      "title": "Rise of Digital Self-Expression and Creator Economy on Platforms",
+      "description": "A powerful force reshaping the media landscape is the rise of digital self-expression, where audiences transform from consumers to creators, curators, and brands. Social platforms, creator tools, and professional networks enable individuals to project identity and influence at scale. This structural shift fuels the creator economy, driving user-generated content and new monetisation models for social and content platforms.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-24"
+    },
+    {
+      "index": 13,
+      "title": "Programmatic Advertising Dominance Driven by Self-Serve Algorithms",
+      "description": "The share of programmatic advertising is projected to increase significantly, with over 75% of non-premium and impact property ad inventory sold using self-serve algorithms by 2028. This shift will result in over INR950 billion of digital ad spends managed programmatically. This structural change signifies the maturity and efficiency of pure-play ad tech, driving automated and data-driven advertising across platforms.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-24"
+    },
+    {
+      "index": 14,
+      "title": "Shift to Outcome-Driven, AI-Powered, Commerce-Linked Advertising",
+      "description": "Advertising is evolving from exposure-led planning to outcome-driven, commerce-linked ecosystems, powered by AI, data, and real-time measurement. This represents a fundamental structural change in the digital advertising and ad tech industry, emphasizing measurable results and direct integration with sales. This shift demands more sophisticated ad tech solutions and data analytics capabilities for effective campaign management and monetization.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-24"
+    },
+    {
+      "index": 15,
+      "title": "Global Opportunity for Indian OTT App Development Expertise",
+      "description": "India has developed significant expertise in creating large online entertainment platforms with complex features like search, recommendations, dubbing, subtitling, and high concurrent usage. This capability presents a global upside driver, as Indian developers can replicate and export their expertise in building and maintaining sophisticated OTT applications for international markets, creating new revenue streams and enhancing global presence for Indian tech firms.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-24"
+    },
+    {
+      "index": 16,
+      "title": "AI-Led Personalization and Shoppable Ads Redefining Platform Monetization",
+      "description": "OTT platforms are accelerating experimentation with AI-led personalization, content commerce, and shoppable ads, redefining engagement, retention, and monetization. Modular storytelling and interactive content formats are also gaining traction. This structural change focuses on integrating AI to create more interactive and conversion-oriented advertising experiences, driving new revenue models for ad-driven content platforms.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-24"
+    },
+    {
+      "index": 17,
+      "title": "Offshoring Ad Planning and Creative Tasks to Low-Cost Locations",
+      "description": "As global ad agencies consolidate and seek efficiencies in an increasingly 'ad self-serve' market, there is a growing need to offshore tasks like planning and creative execution to low-cost locations. This trend acts as a tailwind for Indian service providers supporting the digital advertising ecosystem, driving growth in BPO-like services for ad tech and marketing, leveraging India's talent pool and cost advantages.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-24"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Digital Media Overtakes TV, Regional Languages Drive M&E Sector Growth",
+      "description": "Allu Aravind of Geetha Arts and Aha notes that digital media has surpassed television as the largest segment of India's M&E industry, valued at INR2.8 trillion in 2025. This shift is significantly driven by the rapid growth of regional languages in OTT content, increasing from 27% in 2020 to 56% in 2025, underscoring a fundamental transformation in content consumption and platform dominance.",
+      "stance": "positive",
+      "source_firm": "EY India",
+      "source_date": "2026-03-24",
+      "source_doc_id": "711dbe38-22d5-512a-b75c-4ef0ea900807"
+    },
+    {
+      "index": 2,
+      "title": "M&E Sector Poised for $50 Billion Opportunity with Digital Leadership and Data-Driven Strategies",
+      "description": "Raghav Anand from EY-Parthenon states India's M&E sector is on track to reach a US$50 billion opportunity by the decade's end. Success hinges on embracing convergence, data-led decision-making, and participatory experiences. The imperative for industry leaders is to adapt swiftly, innovate purposefully, and collaborate across the ecosystem to convert current disruption into sustainable leadership and exponential growth.",
+      "stance": "positive",
+      "source_firm": "EY-Parthenon",
+      "source_date": "2026-03-24",
+      "source_doc_id": "711dbe38-22d5-512a-b75c-4ef0ea900807"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 13.13,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong Digital Consumption Expansion",
+          "description": "The overall growth in digital media consumption across various platforms is a primary driver for the market's expansion."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Reported market size for Digital Media in India.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "EY India",
+    "EY-Parthenon",
+    "ibef"
+  ]
+}

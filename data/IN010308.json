@@ -1,0 +1,312 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Surging Global Electricity Demand Driving Need for Firm Power",
+      "description": "Global electricity demand is experiencing a 'structural supercycle,' intensified by the proliferation of AI data centers, industrial reshoring, and widespread electrification efforts. This creates a significant and growing demand for 24/7 reliable, firm power sources, which nuclear energy is well-positioned to provide as a low-carbon baseload option, thereby driving investment and policy support for the sector.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-04"
+    },
+    {
+      "index": 2,
+      "title": "India's Ambitious Nuclear Capacity Expansion Targets and Budgetary Support",
+      "description": "The Indian government has set ambitious targets to expand nuclear power capacity from 8.18 GW in 2025-26 to 22.48 GW by 2031-32, and further to 100 GW by 2047. This expansion is backed by significant budgetary allocations, including a Rs. 20,000 crore (US$ 2.28 billion) Nuclear Energy Mission, signalling strong political will and financial commitment to nuclear energy's role in the nation's energy mix and decarbonization efforts.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 3,
+      "title": "Opening for Private Sector Participation and Budgetary Exemptions",
+      "description": "The Indian Cabinet's decision to allow private sector participation in the nuclear power sector, moving beyond public sector operators, represents a significant policy shift. This, combined with Union Budget 2026-27's extension of basic customs duty exemptions on key nuclear equipment until September 2035, is aimed at lowering project costs and improving financial viability, thereby attracting more investment and accelerating development within the sector.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-01-14"
+    },
+    {
+      "index": 4,
+      "title": "Small Modular Reactors Offer Baseload Complementarity to Renewables",
+      "description": "Small Modular Reactors (SMRs) are emerging as a promising low-carbon baseload alternative to coal, crucially complementing intermittent renewable sources. Their compact, scalable, and flexible nature allows for integration into grids with high renewable penetration, enhancing stability and reliability. SMRs also offer the potential for lower Levelized Cost of Energy (LCoE) compared to large reactors due to modularity, improving their economic attractiveness and deployment feasibility in India's evolving energy landscape.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2025-11-05"
+    },
+    {
+      "index": 5,
+      "title": "Hyperscaler Investments and AI-Driven Demand Boost SMR Development",
+      "description": "The burgeoning energy appetite of Artificial Intelligence (AI), particularly from data centers, is driving direct investment from hyperscalers like Microsoft into nuclear micro-generation, specifically Small Modular Reactors (SMRs). This new trend sees tech firms not just as energy consumers but as developers, funneling private capital into SMR innovation. This accelerates development timelines, expands clean energy capacity, and validates SMRs as a crucial component for resilient, self-sufficient energy strategies.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2025-11-01"
+    },
+    {
+      "index": 6,
+      "title": "Capital Intensity and Long Gestation Periods for Nuclear Projects",
+      "description": "Nuclear energy projects are inherently capital-intensive and characterized by exceptionally long gestation periods, with construction timelines often spanning 7 to 12 years or more, and project financing involving 15-20 year debt tenures. This significant upfront investment and extended payback period pose substantial financial hurdles, increasing the risk profile and potentially delaying project approvals or attracting adequate private capital without robust government backing or innovative financing structures.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-04"
+    },
+    {
+      "index": 7,
+      "title": "Immature Supply Chains and Lack of Qualified Workforce in Nuclear",
+      "description": "Decades without significant new nuclear builds, particularly in Western markets, have led to an atrophied nuclear-qualified workforce, diminished component supplier base, and a weakened heavy construction industry. This immaturity in the supply chain and workforce poses a major challenge for scaling up nuclear capacity, leading to potential bottlenecks, quality control issues, and increased costs and delays in project execution, as evidenced by past project failures.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-04"
+    },
+    {
+      "index": 8,
+      "title": "Complex Regulatory Processes and Political Volatility Impede Progress",
+      "description": "Nuclear projects are subject to highly complex and protracted regulatory approval processes. Furthermore, their multi-decade development timelines expose them to significant political volatility, as policy mandates and administrative priorities can shift across election cycles. This regulatory complexity and political uncertainty introduce substantial risks of delays, cost escalations, and even project abandonment, eroding public and investor confidence, as seen in projects like Flamanville 3 and Hinkley Point C.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-30"
+    },
+    {
+      "index": 9,
+      "title": "Persistent Project Delivery Challenges and Cost/Schedule Overruns",
+      "description": "Nuclear projects historically exhibit a weak delivery track record, frequently failing to meet original timelines and budgets. This is primarily attributed to beginning construction without execution-ready designs, lack of programmatic thinking, and insufficient organizational experience in megaproject delivery. These issues lead to cascading scope changes, regulatory reinterpretation, extensive rework, and ultimately, massive cost and schedule escalation, underscoring the critical importance of disciplined pre-FID preparation.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 10,
+      "title": "SMR Technology Maturity and Commercial Viability Still Evolving",
+      "description": "Despite significant excitement, many Small Modular Reactor (SMR) designs remain in early stages of development, with few having demonstrated commercial viability. While over 80 commercial SMR designs are globally in development, their widespread deployment is anticipated from 2030, with Advanced Modular Reactors (AMRs) even later from 2040. This nascent stage of technological maturity presents a key risk, as the promised benefits of SMRs regarding cost reduction and deployment speed are yet to be fully proven at scale.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2025-11-05"
+    },
+    {
+      "index": 11,
+      "title": "Nuclear's Role in Grid Flexibility and Load Balancing",
+      "description": "As grids integrate increasing amounts of intermittent renewable energy, the demand for flexible and dispatchable power sources intensifies. Nuclear power, alongside hydropower, is increasingly recognized for its crucial role in load balancing and providing grid stability. Its ability to generate continuous, reliable power can offset the variability of renewables, making it an essential component for maintaining a stable and efficient electricity network and enhancing overall grid resilience.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-02-25"
+    },
+    {
+      "index": 12,
+      "title": "AI-Driven Operational Efficiency and Predictive Maintenance for Nuclear Plants",
+      "description": "The application of Artificial Intelligence (AI) to nuclear power plants offers significant upside for enhancing operational efficiency and reliability. AI-driven asset analysis, predictive maintenance, and digital twin technology can forecast failure risks, optimize outage timing, and provide real-time corrective insights. This minimizes downtime, reduces operational costs, and improves overall plant availability and revenue, contributing to the economic viability and safety of nuclear energy.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-20"
+    },
+    {
+      "index": 13,
+      "title": "Lowest Land-Use Intensity Among Energy Sources",
+      "description": "Nuclear power boasts the lowest median land-use intensity among major energy generation sources, at 7.1 hectares per TWh per year, significantly lower than solar PV which requires 2,000 hectares per TWh per year. This characteristic makes nuclear an attractive option for land-constrained regions or countries, offering a substantial advantage in optimizing land resources while delivering high-capacity, firm power for large-scale energy needs.",
+      "type": "upside_driver",
+      "impact_magnitude": "low",
+      "time_horizon": "long",
+      "as_of_date": "2025-11-05"
+    },
+    {
+      "index": 14,
+      "title": "Shift Towards Integrated Project Management and Repeatable Formulas for Success",
+      "description": "The nuclear industry is recognizing that predictable delivery is achievable by adopting an integrated project management approach. This involves embedding five critical elements from the outset: proven design, a programmatic approach for multi-unit builds, industrialized delivery, strong owner leadership with clear decision rights, and comprehensive stakeholder alignment. This shift from one-off plant construction to a repeatable formula across units and transferable across sectors aims to reduce variability and improve project outcomes.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 15,
+      "title": "Securing Nuclear Fuel Supply Chain is Crucial for Expansion",
+      "description": "For India to achieve its ambitious nuclear capacity expansion plans, securing a reliable nuclear fuel supply chain is paramount. This involves not only augmenting domestic production, particularly leveraging India's thorium reserves through technologies like Advanced Heavy Water Reactors (AHWRs) and Fast Breeder Reactors, but also ensuring diverse and stable international imports of uranium. Any disruptions or constraints in fuel availability could significantly impede the progress of nuclear projects and threaten energy security goals.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2025-11-05"
+    },
+    {
+      "index": 16,
+      "title": "Repurposing Retired Coal Plant Sites for SMR Deployment",
+      "description": "Enabling regulatory pathways for repurposing retired coal plant sites for Small Modular Reactor (SMR) deployment presents a significant advantage. This strategy minimizes land acquisition challenges, reuses existing grid infrastructure, and facilitates a just transition for local workforces. This can accelerate SMR deployment, reduce project costs, and contribute to decarbonization efforts by replacing fossil fuel generation with clean nuclear power, leveraging existing energy hubs.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2025-11-05"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Nuclear Investment Rising, But Delivery Requires Programmatic Precision and Execution Readiness",
+      "description": "Interest in nuclear investment is increasing globally, yet projects consistently face delivery challenges, with few completed on time or on budget. The core issue lies not with technology feasibility, but with how projects are set up and executed. Successful programs follow a repeatable formula encompassing proven design, a programmatic approach, industrialized delivery, strong owner leadership, and stakeholder alignment. The greatest impact is achieved when these elements are integrated early and actively managed throughout execution, rather than as separate activities.",
+      "stance": "cautious_positive",
+      "source_firm": "Bain & Company",
+      "source_date": "2026-06-01",
+      "source_doc_id": "61681d54-88dc-5308-8a5e-fba3c5428922"
+    },
+    {
+      "index": 2,
+      "title": "Nuclear Renaissance Real, But Success Hinges on Disciplined Pre-FID Preparation and Government Support",
+      "description": "The nuclear renaissance is undeniable, driven by surging electricity demand, grid reliability, and decarbonization goals. However, enthusiasm for nuclear must be matched with disciplined execution. Projects fail not due to reactor technology, but because the surrounding program lacks readiness. Every successful nuclear program in recent decades has relied on thorough pre-final investment decision (FID) preparation and strong government partnership. Leadership teams must rigorously apply battle-tested best practices to overcome inherent challenges like unprecedented scale, long timelines, and immature supply chains.",
+      "stance": "cautious_positive",
+      "source_firm": "Bain & Company",
+      "source_date": "2026-05-04",
+      "source_doc_id": "b7a3d610-833b-519a-a462-15492f403bfe"
+    },
+    {
+      "index": 3,
+      "title": "Nuclear Power to Grow Share, But New Builds Must Address High Costs Competitively",
+      "description": "Nuclear capacity is projected to increase across all energy scenarios, competing with other grid-firming technologies like batteries, pumped hydro, and gas. While existing nuclear is often the cheapest power source, new nuclear construction is among the most expensive generation options. However, it still compares favorably to variable renewables when accounting for system integration costs. The extent of new nuclear build will depend on regional economics, policy prioritization, and technology development, particularly if small modular reactors (SMRs) become more cost-effective, allowing nuclear to capture share from other firm power sources.",
+      "stance": "cautious_positive",
+      "source_firm": "Bain & Company",
+      "source_date": "2026-04-09",
+      "source_doc_id": "7c460a56-8cd1-584c-8197-064dae6da69c"
+    },
+    {
+      "index": 4,
+      "title": "India Actively Enhancing Nuclear Capacity to Meet Energy and Environmental Goals",
+      "description": "India is proactively expanding its nuclear power capacity to address increasing energy demands and fulfill its environmental commitments. The government has outlined plans to significantly increase nuclear power generation from 8,180 MW in 2025-26 to 22,480 MW by 2031-32. This expansion is part of a broader strategy to diversify the energy mix and align with India's green energy transition, ensuring a stable and low-carbon baseload power supply amidst growing energy needs.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "c0f80035-98da-553e-81a7-3c8094118a4d"
+    },
+    {
+      "index": 5,
+      "title": "Advanced Nuclear Technology Bullish Outlook Driven by Strong Business Case Prospects",
+      "description": "Industry executives hold a bullish outlook for advanced nuclear technology, identifying it as one of the transition-oriented technologies with the strongest business case prospects over the next decade. This optimism is rooted in the clear and credible paths to investment returns offered by advanced nuclear solutions. This view contrasts with less bullish expectations for other low-carbon technologies like hydrogen, synthetic fuels, and direct air capture, highlighting nuclear's perceived economic viability and strategic importance in the evolving energy landscape.",
+      "stance": "positive",
+      "source_firm": "Bain & Company",
+      "source_date": "2026-03-19",
+      "source_doc_id": "4da31252-7e89-5974-84ba-2eeffb4ee06e"
+    },
+    {
+      "index": 6,
+      "title": "Large-Scale Nuclear Faces Significant Drawbacks: High Costs, Long Construction, Complex Regulation",
+      "description": "Despite its potential as a firm, low-carbon power source, large-scale nuclear projects are currently hampered by several significant drawbacks. These include persistently high costs, exceptionally long construction timelines, and complex, often protracted, regulatory processes. While nuclear is being explored to meet the substantial energy needs of data centers, these challenges limit its ability to rapidly scale and meet immediate capacity shortfalls, positioning it behind alternatives like gas with carbon capture, utilization, and storage (CCUS) for near-term deployment.",
+      "stance": "cautious_negative",
+      "source_firm": "BCG Global",
+      "source_date": "2026-03-30",
+      "source_doc_id": "ad6dfc1f-679f-576f-b4af-b457f2e08106"
+    },
+    {
+      "index": 7,
+      "title": "Civil Nuclear Energy in India Transitioning from Promises to Real Value Proposition",
+      "description": "India's civil nuclear energy market is evolving beyond mere potential, increasingly offering a tangible value proposition. Nuclear energy contributes around 3% to total electricity generation, but its role is set to expand significantly. The government's Nuclear Energy Mission targets 100 GW by 2047, recognizing nuclear's critical role in meeting tripling energy demand and achieving net-zero emissions. Small modular reactors (SMRs) are strengthening this business case by offering low-carbon baseload power that complements intermittent renewables, enhancing grid stability and reliability.",
+      "stance": "positive",
+      "source_firm": "EY",
+      "source_date": "2025-11-05",
+      "source_doc_id": "66820f67-7475-5da1-a12e-004012d10584"
+    },
+    {
+      "index": 8,
+      "title": "Nuclear Power Experiencing Strong Global Revival as Firm, Zero-Carbon Supply Option",
+      "description": "Nuclear power is undergoing a significant global revival, recognized as a crucial firm, zero-carbon supply option in the evolving energy landscape. Projections indicate a sharp rise in 2040 nuclear capacity. Both large-scale reactors and small modular reactors (SMRs) are gaining traction, with SMRs particularly attractive for their potential to mitigate cost overruns and reduce investment risk. This resurgence is driven by the growing need for dispatchable power to balance expanding renewables and meet the demand from energy-intensive sectors like data centers.",
+      "stance": "positive",
+      "source_firm": "BCG Global",
+      "source_date": "2025-09-11",
+      "source_doc_id": "98778c16-3f5f-58d6-af4e-6bc9807097f2"
+    },
+    {
+      "index": 9,
+      "title": "Nuclear Energy: Long-Term Priority with Private Sector Opening, But Facing Capital Intensity and Early SMR Stage",
+      "description": "Nuclear energy remains a long-term strategic priority for India's clean energy transition, evidenced by the Cabinet's decision to permit private sector participation beyond public operators. However, it is fundamentally capital-intensive with long gestation periods. While small modular reactors (SMRs) show promise, they are still in early development stages, suggesting that significant near-term capacity additions will likely come from other clean energy technologies. The Budget is expected to reinforce nuclear's strategic role, rather than announce transformative large-scale deployments immediately.",
+      "stance": "cautious_positive",
+      "source_firm": "EY",
+      "source_date": "2026-01-14",
+      "source_doc_id": "ef6ae2b0-50dd-5992-8d41-aca76fe0e5db"
+    },
+    {
+      "index": 10,
+      "title": "AI's Energy Appetite Driving Hyperscaler Investment in Nuclear Micro-Generation (SMRs)",
+      "description": "The increasing energy demands of Artificial Intelligence (AI) are directly influencing investment in clean technology solutions, with Small Modular Reactors (SMRs) being a prime example. Hyperscalers like Microsoft are actively investing in nuclear micro-generation, integrating energy capabilities into their operating models. This trend signifies a new role for tech firms, transforming them from mere power consumers into energy developers. This private capital infusion is accelerating innovation and expanding clean energy capacity, creating a virtuous cycle where AI drives demand, capital accelerates innovation, and innovation enables more AI.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2025-11-01",
+      "source_doc_id": "d806b8da-dc4a-5821-9803-5ab62c38fe12"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 2.2,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "25 years",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Electricity Demand Growth",
+          "description": "Surging demand from AI data centers, reshoring of industries, and electrification mandates reliable, firm power sources."
+        },
+        {
+          "driver": "Grid Reliability & Decarbonization",
+          "description": "The need for stable, low-carbon baseload power to complement intermittent renewables and meet net-zero commitments drives nuclear investment."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Morgan Stanley Research forecasts global nuclear investment. Driven by surging electricity demand (AI, reshoring, electrification), grid reliability imperatives, and decarbonization commitments.",
+      "source_firm": "Bain & Company",
+      "source_date": "2026-05-04",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 8.18,
+      "tam_unit": "GW",
+      "sam_value": 22.48,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2025-2047",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing Energy Demands",
+          "description": "India's rapidly expanding economy and population lead to increasing electricity consumption."
+        },
+        {
+          "driver": "Environmental Goals & Decarbonization",
+          "description": "Achieving net-zero emissions by 2070 and balancing with energy security requires a significant increase in low-carbon baseload power."
+        },
+        {
+          "driver": "Grid Stability and Baseload Power",
+          "description": "Nuclear energy provides reliable, dispatchable power needed to support grids integrating large shares of intermittent renewables."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "SMRs offer low-carbon baseload power, complementing renewables, with modularity potentially reducing LCoE and easing deployment at retired coal sites.",
+          "opportunity": "Small Modular Reactors (SMRs)"
+        }
+      ],
+      "methodology": "Current installed capacity in India (8,180 MW or 8.18 GW) is stated for 2025-26. The government initiated steps to increase this to 22,480 MW (22.48 GW) by 2031-32, with a long-term target of 100 GW capacity by 2047.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "Bain & Company",
+    "IBEF",
+    "BCG Global",
+    "EY",
+    "KPMG"
+  ]
+}

@@ -1,0 +1,287 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Ambitious Renewable Energy Targets and Policy Support",
+      "description": "India's ambitious target to achieve 500 GW of renewable energy capacity by 2030, with 280 GW from solar, and net-zero by 2070, provides a strong governmental push. Schemes like PM Surya Ghar for rooftop solar, PLI for solar module manufacturing, and the development of large solar parks create a supportive policy environment, significantly de-risking and incentivizing solar investments.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 2,
+      "title": "Surging Electricity Demand Driven by Data Centers and Electrification",
+      "description": "Global electricity demand is projected to rise 40-70% by 2040, driven by population growth, GDP, data centers, transport electrification, and residential usage. India's installed power capacity could exceed 1,000 GW by 2034-35, with peak demand reaching 250 GW in 2024. This massive increase in electricity demand creates a significant and sustained market for new solar generation capacity.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-09"
+    },
+    {
+      "index": 3,
+      "title": "Declining Cost of Renewables and Battery Storage",
+      "description": "The cost of renewables, including solar, and firming technologies like battery storage, is expected to continue declining. This makes solar increasingly competitive against traditional power sources and improves its overall project economics. This trend facilitates greater adoption and scalability, positioning solar as a lowest-cost generation option in many markets, which is a fundamental shift in the energy landscape.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-09"
+    },
+    {
+      "index": 4,
+      "title": "Availability of Affordable Land for Solar Projects",
+      "description": "Access to affordable land is identified as a primary factor (20-21% of modeled growth) for scaling solar and wind capacity in major markets like the US and China. Regions with cheaper land can significantly reduce project development costs, improving the economic viability and competitiveness of solar farms. This driver points to strategic locations for future solar investments, potentially in areas like India's vast wastelands.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-07"
+    },
+    {
+      "index": 5,
+      "title": "Expansion of Grid and Transmission Infrastructure",
+      "description": "India's National Electricity Plan aims to boost inter-regional capacity to 168 GW by 2031-32, adding 191,474 circuit km of transmission lines. This expansion directly addresses a critical bottleneck for renewable energy integration, enabling solar power generated in resource-rich but remote areas to reach demand centers. Improved grid infrastructure is vital for the continued large-scale deployment and effective dispatch of solar energy.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 6,
+      "title": "Market Value Cannibalization from Abundant Renewable Supply",
+      "description": "As solar and wind energy become abundant, their simultaneous entry into power grids can depress wholesale electricity prices, especially during periods of low demand. This phenomenon, known as value cannibalization, reduces producer revenues and threatens the financial viability of solar projects. Without adequate systemic flexibility solutions like energy storage, this risk could deter future investments in solar capacity.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-25"
+    },
+    {
+      "index": 7,
+      "title": "Elevated Long-Term Interest Rates Increasing Financing Costs",
+      "description": "Higher long-term interest rates increase the financing costs for capital-intensive power projects, including solar. Solar project Internal Rates of Return (IRRs) are highly sensitive to the weighted average cost of capital (WACC), with a 100bps G-Sec rise potentially increasing the required tariff significantly. This makes project financing more expensive and can impact the viability of solar bids in auctions, posing a headwind for new developments.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-27"
+    },
+    {
+      "index": 8,
+      "title": "Grid Infrastructure Bottlenecks and Interconnection Delays",
+      "description": "Despite ongoing efforts, bottlenecks in grid infrastructure, including interconnection delays, dispatchability requirements, transformer, and transmission lead times, remain significant barriers to scaling renewables like solar. These non-technological constraints can slow down project commissioning and increase costs, thereby hindering the rapid deployment needed to meet ambitious capacity targets. Addressing these issues is crucial for solar energy's continued growth.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-09"
+    },
+    {
+      "index": 9,
+      "title": "Flexible Financing Demands for Low-Carbon Projects",
+      "description": "Low-carbon capital projects like solar require flexible financing approaches due to unique characteristics such as higher equity weighting, phased investment strategies, and the need to invest before market certainty. This necessitates blending traditional loans, equity, government grants, green bonds, carbon credits, and public-private partnerships. The shift towards this complex financing structure is a fundamental change for solar project developers, impacting capital mobilization strategies.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-18"
+    },
+    {
+      "index": 10,
+      "title": "Increased Restructuring and M&A Activity in Energy Sector",
+      "description": "Two-thirds of energy executives anticipate increased portfolio restructuring, including divestments, consolidation, and closures, driven by market volatility, rising costs, and heightened competition. This trend creates both opportunities for solar companies to acquire assets or consolidate, and risks for smaller players. The energy sector's ongoing transformation reshapes competitive dynamics and strategic imperatives for solar players.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-19"
+    },
+    {
+      "index": 11,
+      "title": "Shift of Conventional Energy Producers Towards Renewables",
+      "description": "India's leading conventional energy producers are increasingly shifting their focus towards non-conventional resources, including solar, to meet sustainability goals and contribute to clean energy generation. This trend brings significant capital, expertise, and project development capabilities from large industrial players into the solar sector, accelerating capacity expansion and fostering a more dynamic and competitive market.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 12,
+      "title": "Uncertainty in Project Economics and Regulatory Frameworks",
+      "description": "Low-carbon projects, including solar, operate in an environment characterized by shifting incentives, emissions standards, and carbon pricing volatility. These regulatory and market changes can significantly impact the financial viability of projects, even after final investment decisions. Such uncertainties complicate long-term planning and can derail execution, posing a key risk for solar investments without robust adaptive strategies.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-18"
+    },
+    {
+      "index": 13,
+      "title": "Shift Towards Localized Supply Chains Amid Geopolitical Swings",
+      "description": "Geopolitical tensions and policy uncertainty are driving a trend towards localization, with executives prioritizing investments in their own regions and focusing on domestic supply chains. This structural change implies a potential shift in solar manufacturing and procurement strategies, favoring local production over global imports, potentially reducing reliance on specific foreign markets but also possibly increasing costs if local capacity is insufficient or less efficient.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-19"
+    },
+    {
+      "index": 14,
+      "title": "Decentralized Solar Power Initiatives (PM-KUSUM)",
+      "description": "Government programs like PM-KUSUM promote decentralized solar power, particularly for agricultural use. This initiative not only supports farmer incomes by reducing reliance on grid electricity for irrigation but also contributes to India's non-fossil power capacity targets. It fosters a robust market for distributed solar solutions, driving demand for solar pumps and micro-grids in rural and agricultural sectors, acting as a direct tailwind.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "India's Solar Sector Poised for Immense Growth to Meet Ambitious 2030 Targets",
+      "description": "IBEF highlights India's significant progress in renewable energy, having already achieved 100 GW of solar capacity and 47% non-fossil fuel power. The country possesses immense growth potential, particularly in solar, as it targets 500 GW of renewable capacity by 2030, with 280 GW specifically from solar. This reflects a strong positive outlook on the sector's expansion and its contribution to India's energy transition.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "c0f80035-98da-553e-81a7-3c8094118a4d"
+    },
+    {
+      "index": 2,
+      "title": "India Ascends to Third Largest Global Solar Energy Producer",
+      "description": "IBEF reports that India has surpassed Japan to become the world's third-largest solar energy producer, generating 108,494 GWh of solar power. This achievement underscores India's rapid growth and leadership in the global solar sector, driven by sustained capacity additions and policy support. The strong performance signals a positive trajectory for further expansion and establishes India as a key player in renewable energy.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "c0f80035-98da-553e-81a7-3c8094118a4d"
+    },
+    {
+      "index": 3,
+      "title": "Solar and Wind to Significantly Scale, Becoming Lowest-Cost Generation",
+      "description": "Bain's outlook forecasts solar and wind generation to increase dramatically across all scenarios, becoming the cheapest power option in many markets. Solar is projected to drive most of this renewable growth, tripling to septupling its share of the generation mix by 2040. Non-technological barriers like grid interconnection, transmission, and capital mobilization are key challenges, not technological viability, reinforcing its cost-effectiveness.",
+      "stance": "positive",
+      "source_firm": "Bain",
+      "source_date": "2026-04-09",
+      "source_doc_id": "7c460a56-8cd1-584c-8197-064dae6da69c"
+    },
+    {
+      "index": 4,
+      "title": "Land Cost, Existing Capacity, and Grid Key for Renewable Scaling",
+      "description": "BCG's analysis of US and Chinese renewable energy buildout highlights that beyond national policies, affordable land (20-21% of growth) and existing solar and wind capacity (12-15% of growth) are the most significant factors for scaling renewables. A robust grid and utility infrastructure investment are also crucial. This indicates that local economic and infrastructure factors are paramount for successful solar deployment.",
+      "stance": "cautious_positive",
+      "source_firm": "BCG Global",
+      "source_date": "2026-04-07",
+      "source_doc_id": "a436df06-332b-5f4d-a232-ba84ce246e6f"
+    },
+    {
+      "index": 5,
+      "title": "Abundant Renewable Energy Risking Value Cannibalization and Investment Decline",
+      "description": "BCG highlights that the abundance of renewable energy, including solar, is leading to self-cannibalization of its market value. High volumes entering grids simultaneously depress electricity prices when demand is low, reducing revenue for producers. This situation, especially in areas with high wind/solar generation and low local consumption, creates a significant risk that further investments in renewable energy might diminish if systemic flexibility issues are not addressed.",
+      "stance": "cautious_negative",
+      "source_firm": "BCG Global",
+      "source_date": "2026-02-25",
+      "source_doc_id": "2d4e1448-51d6-5106-af72-30d6641da299"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 143.6,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Policy Push",
+          "description": "Government initiatives and targets for renewable energy capacity, such as the 500 GW target by 2030, directly drive solar installations."
+        },
+        {
+          "driver": "Rooftop Solar Adoption",
+          "description": "Schemes like PM Surya Ghar incentivize household and decentralized solar installations, contributing to overall capacity growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Installed solar capacity across India as of February 2026.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 221.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Renewable Capacity Targets",
+          "description": "The ambitious target of 500 GW renewable energy capacity by 2030, with a significant portion from solar, necessitates substantial investment."
+        },
+        {
+          "driver": "Policy Support",
+          "description": "Government support through schemes like PLI for solar modules and solar parks incentivizes private and public investment."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Investment opportunities arising from India's target to achieve 500 GW of renewable energy capacity by 2030, with 280 GW expected from solar power.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "April 2025–February 2026",
+      "demand_drivers": [
+        {
+          "driver": "Rising Electricity Demand",
+          "description": "India's power demand is increasing, driven by population growth, electrification, and economic activities, creating a strong market for solar power."
+        },
+        {
+          "driver": "Policy Incentives for Rooftop Solar",
+          "description": "PM Surya Ghar scheme encourages rooftop solar installations, directly boosting distributed solar generation."
+        },
+        {
+          "driver": "Utility-Scale Project Development",
+          "description": "Development of solar parks and competitive bidding processes for large-scale projects contribute significantly to solar generation."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Cost of Silicon",
+          "description": "Primary raw material for solar cells; polysilicon price sets module cost floor (inverse correlation)."
+        },
+        {
+          "driver": "Cost of Glass-Solar",
+          "description": "Front and back glass for solar modules (inverse correlation)."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Estimated potential of 3,343.37 GWp across 27,571 sq km of wasteland, representing a significant untapped resource for utility-scale solar farms.",
+          "opportunity": "Ground-mounted Solar PV Potential"
+        },
+        {
+          "description": "Programs like PM-KUSUM for farmers boost incomes and help meet non-fossil power targets, indicating growth in off-grid and agricultural solar applications.",
+          "opportunity": "Decentralised Solar Power"
+        }
+      ],
+      "methodology": "Analysis of solar power generation and potential across India, highlighting growth trends and untapped capacity. While no explicit TAM/SAM/SOM figure is stated, the document emphasizes the significant potential and current generation.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "IBEF",
+    "Bain",
+    "BCG Global"
+  ]
+}

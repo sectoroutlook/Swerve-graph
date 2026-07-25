@@ -1,0 +1,388 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Strong foreign investment and government budget allocations for telecom",
+      "description": "The Indian telecom sector benefits from 100% FDI via the Automatic Route, signaling high investor confidence. The Union Budget 2026–27 allocated Rs. 73,990 crore (US$ 8.37 billion) to the Department of Telecommunications, with a total net outlay of Rs. 80,927 crore including USOF funding. This increased allocation, specifically a 39% rise from the revised estimate of 2025-26, underlines a continued governmental emphasis on rural connectivity and telecom infrastructure expansion, providing a robust financial impetus for Mobile & Wireless Telecom development.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 2,
+      "title": "Rapid 5G rollout and subscriber growth across India",
+      "description": "India has achieved widespread 5G coverage, with services available in 99.9% of districts and over 5.18 lakh 5G Base Transceiver Stations installed nationwide. By the end of 2025, India had over 400 million 5G subscribers, becoming the second-largest 5G market globally. Projections indicate surpassing one billion 5G subscriptions by the end of 2031, with average monthly mobile data usage per smartphone expected to reach 65 GB. This rapid adoption and network expansion create significant revenue growth opportunities for Mobile & Wireless Telecom operators.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 3,
+      "title": "Expansion of rural mobile and broadband connectivity projects",
+      "description": "Government initiatives such as the BharatNet project are actively expanding broadband connectivity to Gram Panchayats, with 217,805 GPs already service-ready. The 4G Saturation Project has commissioned 24,263 mobile towers in uncovered rural areas, significantly boosting rural tele-density. This focus on rural market expansion, supported by initiatives like the Amended BharatNet Programme in Andhra Pradesh, enhances last-mile connectivity and broadband access, creating a substantial growth opportunity for Mobile & Wireless Telecom operators to expand their subscriber base and revenue streams in underserved regions.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 4,
+      "title": "Rising mobile data usage driving demand and network upgrades",
+      "description": "Average monthly mobile data usage per smartphone is projected to reach 65 GB by 2031, reflecting a significant increase in consumer demand for data services. This trend forces Mobile & Wireless Telecom operators to continuously upgrade and expand their networks, particularly with 5G infrastructure, to handle the growing traffic. The increased usage directly translates to higher revenue potential for MNOs through data monetization, making it a powerful driver for continued investment in network capacity and advanced technologies.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 5,
+      "title": "Development of indigenous 4G-ready telecom stack and AI hub",
+      "description": "The launch of the Bharat Telecom Stack, an indigenous 4G-ready solution deployed across 100,000+ sites by BSNL in partnership with TCS, C-DOT, and Tejas Networks, marks India as the 5th country to develop a self-reliant telecom stack. Concurrently, Bharti Airtel's partnership with Google for India’s first AI hub involves a $15 billion investment in data centers, cable landing stations, and fiber networks. These developments signify a fundamental shift towards national self-sufficiency and advanced digital infrastructure, enhancing network security, scalability, and performance for Mobile & Wireless Telecom services.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 6,
+      "title": "Digitization of financial services driving mobile banking adoption",
+      "description": "Digital transactions have increased nearly 11 times, with UPI's share surging to ~80% between 2021 and 2025. Airtel Payments Bank surpassed one billion transactions in January 2025. This widespread adoption of mobile banking and digital payments platforms drives increased usage of mobile data and mobile network services. For Mobile & Wireless Telecom operators, this trend translates into higher data consumption, potentially boosting ARPU and reinforcing the essential role of mobile connectivity in daily economic activities.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 7,
+      "title": "MNOs face challenges in AI adoption for business assurance",
+      "description": "Despite MNOs allocating 36% of Revenue Assurance and Fraud Management (RAFM) budgets to AI, only 14% realize value at scale. The primary hurdles include 70% lacking data-lake readiness, and 76% believing in AI's potential while only 30% secure adequate budgets. This disconnect, driven by short-term managerial lenses, capability gaps, and skepticism about AI consistency, significantly constrains MNOs from leveraging AI effectively to mitigate revenue risks and improve operational performance. It represents a significant challenge in optimizing internal processes.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 8,
+      "title": "Growing demand for AI compute infrastructure drives data center expansion",
+      "description": "The unprecedented surge in AI demand is accelerating the need for computing power and data centers. '5G-driven network traffic' is explicitly identified as a key driver for global data center capacity expansion, projected to grow nearly 2.5x by 2030. This expansion, coupled with tax exemptions for data center services until March 2047, provides a robust and growing backend infrastructure for Mobile & Wireless Telecom operators. Improved data center capabilities ensure lower latency and higher capacity for the digital services delivered over mobile networks, enhancing the overall service quality and enabling new offerings for MNOs.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-26"
+    },
+    {
+      "index": 9,
+      "title": "Independent tower companies investing in telecom network expansion",
+      "description": "Independent telecom tower companies are projected to invest Rs. 21,000 crore (US$ 2.42 billion) between FY25 and FY26. This significant capital expenditure is dedicated to supporting telecom companies in expanding rural networks and enhancing service quality in urban areas. This investment by infrastructure providers directly benefits Mobile & Wireless Telecom operators by facilitating their network reach and density without requiring direct capital outlay from MNOs for passive infrastructure, thereby enabling faster expansion and improved service delivery.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 10,
+      "title": "Growth of IoT and Public Wi-Fi Networks expanding connectivity demand",
+      "description": "The proliferation of IoT devices and smart city projects drives demand for interconnected machines and data gathering, creating a natural increase in traffic for mobile networks. Simultaneously, the PM-WANI scheme for Public Wi-Fi Networks has seen significant uptake, with 409,403 hotspots operational and over 24 million users consuming 58.64 petabytes of data. These trends increase overall digital access and generate greater demand for underlying Mobile & Wireless Telecom infrastructure and services, offering new avenues for data monetization and connectivity solutions for operators.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 11,
+      "title": "Expansion of satellite communications with AI-enabled services",
+      "description": "The growth of Low Earth Orbit (LEO) constellations and direct-to-device satellite capabilities is democratizing AI-enabled connectivity, particularly for rural broadband, maritime, and aviation. Connectivity powered by AI-enabled services like real-time analytics and predictive maintenance offers advanced solutions. This expansion, coupled with India's strong AI developer base, presents a new opportunity for Mobile & Wireless Telecom by potentially integrating satellite-based mobile services, extending reach to remote areas, and offering value-added AI-driven services to subscribers beyond traditional terrestrial networks.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-01"
+    },
+    {
+      "index": 12,
+      "title": "Shift towards AI-driven, data-centric architectures in telecom operations",
+      "description": "The adoption of AI, particularly agentic AI systems within MNOs, necessitates a fundamental rethinking of data management. Traditional governance models are evolving from model-centric to data-centric approaches, requiring active controls at every stage of data lifecycle (ingestion, processing, consumption). This involves a transition to 'policy-as-code' and layered governance architectures. This shift impacts Mobile & Wireless Telecom operations by mandating modernized data platforms, real-time data integration, and continuous data quality monitoring to support autonomous agents and enhance business assurance.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-01"
+    },
+    {
+      "index": 13,
+      "title": "Advancements in electronic manufacturing services (EMS) for telecom infrastructure",
+      "description": "The global EMS industry, valued at $640–650 billion in 2025 and projected to exceed $1 trillion by the early 2030s, is significantly driven by demand for 'telecommunications infrastructure' and connected devices like smartphones. Although India's EMS sector faces structural constraints, government policies aim to strengthen domestic capabilities and supply chains. This growth in EMS, especially linked to telecom infrastructure, provides a more robust and potentially localized supply of hardware for Mobile & Wireless Telecom operators, supporting network expansion and technological upgrades.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 14,
+      "title": "Policy support and R&D for 5G/6G technologies",
+      "description": "Government policies like the Production-Linked Incentive (PLI) scheme for telecom and networking products, reduced Telecom Security Testing Laboratory (TSTL) fees, and the Telecom Technology Development Fund (TTDF) supporting 6G R&D (104 projects with Rs. 271 Crore approved) provide a strong foundation for technological advancement. These initiatives lower entry barriers, promote domestic manufacturing, and accelerate next-generation mobile technology development, ultimately benefiting Mobile & Wireless Telecom operators through a more innovative and cost-effective ecosystem for network deployment and service differentiation.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 15,
+      "title": "Increasing mobile phone manufacturing and exports",
+      "description": "India has emerged as the world's third-largest mobile phone exporter, with shipments worth Rs. 1,75,665 crore (US$ 20.5 billion) in CY24, driven by the Production-Linked Incentive (PLI) scheme. Mobile phone production more than doubled from FY19-20 to FY24-25, positioning India as the second-largest mobile manufacturer globally. This strong domestic manufacturing and export capability ensures greater availability and potentially lower costs of mobile devices for consumers, fostering higher subscriber additions and upgrades, which directly benefits Mobile & Wireless Telecom operators' subscriber base and ARPU.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 16,
+      "title": "Vodafone Idea's strategic spectrum investment for 4G/5G rollout",
+      "description": "Vodafone Idea invested Rs. 3,510 crore (US$ 409 million) to acquire 50 MHz of spectrum across low and mid bands in 11 circles in June 2024. This strategic investment is aimed at boosting 4G capacity and laying the essential groundwork for future 5G rollout. For Mobile & Wireless Telecom, this signifies a crucial step by a major operator to enhance network capabilities, improve service quality, and prepare for next-generation technology deployment, ensuring competitive positioning and continued subscriber satisfaction and growth.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "MNOs struggle to realize value from AI in business assurance despite investment",
+      "description": "KPMG's 2025 survey reveals that while mobile network operators (MNOs) allocate an average of 36% of their Revenue Assurance and Fraud Management (RAFM) budgets to AI, machine learning, and intelligent automation, only 14% are achieving scaled value. A significant 70% of respondents lack data-lake readiness for AI/ML deployment, indicating a gap between ambition and execution. This highlights the urgent need for structured transformation roadmaps and better data management strategies to unlock AI's full potential in combating revenue risks and fraud within MNOs.",
+      "stance": "cautious_negative",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "source_doc_id": "51664477-c64e-585e-a2bb-c5e3472f4fb4"
+    },
+    {
+      "index": 2,
+      "title": "Telcos show strong belief in AI, but face adoption and budget hurdles",
+      "description": "KPMG's 2025 survey indicates that 76% of global telcos view AI as a critical enabler for next-gen Business Assurance programs, demonstrating strong conviction in its transformative power. However, only 30% have secured the necessary budgetary commitment, highlighting a significant disconnect. This budgetary constraint, coupled with short-term managerial perspectives and capability gaps, limits the transition from belief to impactful implementation. Addressing these barriers is crucial for telcos to leverage AI effectively in revenue assurance and fraud management.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "source_doc_id": "51664477-c64e-585e-a2bb-c5e3472f4fb4"
+    },
+    {
+      "index": 3,
+      "title": "India poised for robust satellite communications growth with proactive government support",
+      "description": "Union Minister Mr. Jyotiraditya M. Scindia notes that India’s satellite communications (SATCOM) sector is expected to double in the coming years. This robust growth is attributed to the government's proactive stance, including the issuance of three SATCOM licenses and the formalization of regulatory frameworks and licensing processes. This positive outlook suggests a significant expansion of connectivity options, which will likely complement and potentially integrate with mobile and wireless telecom services, especially in underserved areas, enhancing overall digital inclusion.",
+      "stance": "positive",
+      "source_firm": "Union Minister for Communications Mr. Jyotiraditya M. Scindia",
+      "source_date": "2026-03-31",
+      "source_doc_id": "65df5e44-a27a-5210-931b-d6d1c7f2998d"
+    },
+    {
+      "index": 4,
+      "title": "India's growing global role as telecom exporter and innovation hub",
+      "description": "Union Minister Mr. Jyotiraditya Scindia highlighted India's increasing prominence as a global telecom exporter and innovation hub at Bharat Telecom 2025. This indicates a positive trajectory for the Indian telecom sector, moving beyond domestic consumption to become a significant player in the global supply chain and technology development. This position strengthens the ecosystem supporting mobile and wireless telecom operators, potentially leading to more advanced and cost-effective equipment and services, fostering innovation and competitive advantage for MNOs.",
+      "stance": "positive",
+      "source_firm": "Union Minister for Communications and Development of Northeast Region, Mr. Jyotiraditya Scindia",
+      "source_date": "2026-03-31",
+      "source_doc_id": "65df5e44-a27a-5210-931b-d6d1c7f2998d"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 372097.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increased subscriber base",
+          "description": "Growth in both wireless and broadband subscribers contributes to overall revenue."
+        },
+        {
+          "driver": "Higher data consumption",
+          "description": "Surging mobile data usage per smartphone drives revenue growth for operators."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Adjusted Gross Revenue (AGR) growth",
+          "description": "An 8.13% year-on-year increase in AGR reflects improved financial performance and profitability for telecom service providers."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Telecom industry gross revenue for FY25 and Adjusted Gross Revenue for Q4 2025, as reported by TRAI.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI-led disruptions in telecom",
+          "description": "Increasing need for MNOs to adapt to AI for competitive advantage and operational efficiency in RAFM."
+        },
+        {
+          "driver": "Transformative potential of AI",
+          "description": "76% of global telcos believe AI is critical for next-generation Business Assurance programs to mitigate revenue risks."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Budget allocation for AI",
+          "description": "36% of MNO RAFM budgets are allocated to AI, but only 30% of telcos have secured overall budgetary commitment for meaningful transformation."
+        },
+        {
+          "driver": "Value realization from AI",
+          "description": "Only 14% of MNOs realize value at scale from AI investments, indicating a low return on initial spend due to implementation challenges."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "70% of MNOs have yet to establish data-lake readiness, presenting a significant opportunity to build foundational infrastructure for effective AI deployment.",
+          "opportunity": "Data lake readiness for AI/ML"
+        },
+        {
+          "description": "Absence of structured roadmaps for AI transformation in RAFM points to a clear need for strategic guidance and execution planning.",
+          "opportunity": "Structured transformation roadmaps for AI"
+        },
+        {
+          "description": "A pragmatic, future-oriented framework is needed to help RAFM leaders design, build, deploy, and govern AI-driven capabilities systematically, leading to sustainable outcomes and stronger controls.",
+          "opportunity": "Cognitive business assurance"
+        }
+      ],
+      "methodology": "Analysis of MNOs' AI spending and value realization for Revenue Assurance and Fraud Management (RAFM).",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising mobile penetration",
+          "description": "Continuous growth in wireless subscriptions and tele-density indicates expanding market reach."
+        },
+        {
+          "driver": "Competitive operator offerings",
+          "description": "Major players like Reliance Jio, Bharti Airtel, and Vodafone Idea drive subscriber growth through service offerings."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total wireless subscriber base as of February 2026, including market share of top operators.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Digitalization and internet adoption",
+          "description": "Increasing demand for internet services drives broadband subscriber growth across both wired and wireless segments."
+        },
+        {
+          "driver": "Affordable internet access",
+          "description": "Availability of diverse plans from leading providers makes broadband accessible to a wider population."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Market consolidation",
+          "description": "The top five service providers account for 98.60% of the total subscriber base, indicating strong market control and potentially influencing pricing power."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Total broadband subscribers as of February 2026, including market concentration.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing population and digital adoption",
+          "description": "India has the second-largest telecom network and internet user base globally, driven by ongoing digital adoption."
+        },
+        {
+          "driver": "Rural connectivity initiatives",
+          "description": "Government schemes like BharatNet and 4G Saturation Project are expanding mobile and broadband access to underserved rural areas, boosting subscriber growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Reported number of subscribers and market position based on TRAI data.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2025-2031",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rapid 5G rollout",
+          "description": "Widespread availability of 5G services across nearly all districts drives rapid subscriber adoption."
+        },
+        {
+          "driver": "High mobile data usage",
+          "description": "Projected average monthly mobile data usage of 65 GB per smartphone by 2031 creates strong demand for high-speed 5G connectivity."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Reported number of 5G subscriptions.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "KPMG",
+    "Union Minister for Communications Mr. Jyotiraditya M. Scindia",
+    "Union Minister for Communications and Development of Northeast Region, Mr. Jyotiraditya Scindia",
+    "IBEF"
+  ]
+}

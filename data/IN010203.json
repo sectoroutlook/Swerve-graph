@@ -1,0 +1,319 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "AI integration revolutionizes refining operations and financial performance",
+      "description": "The adoption of AI across planning, operations, trading, and maintenance is fundamentally reshaping the refining industry. AI-powered real-time optimization leads to significant savings (e.g., $80M for a refiner), while enhanced scheduling boosts margins by $0.15-$0.30/barrel. It enables refiners to respond holistically to volatility, minimize demurrage, and optimize blending decisions. The shift to an 'AI-first' operating model is projected to enhance EBIT per barrel by $0.5 to $1.2 by 2030, creating a powerful competitive advantage.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-24"
+    },
+    {
+      "index": 2,
+      "title": "Sustained oil demand growth ensures market for refined products",
+      "description": "Despite energy transition efforts, global oil demand is projected to hold strong, growing to 108 Mb/d by 2040 in some scenarios and plateauing at 97 Mb/d in others. This sustained demand, driven by petrochemical feedstocks, aviation, shipping, and freight, provides a robust market for refined products. This acts as a tailwind for refiners, justifying continued investments and capacity expansions to meet the long-term needs of these critical sectors.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-09"
+    },
+    {
+      "index": 3,
+      "title": "India's refining capacity poised for significant expansion by 2030",
+      "description": "India's refining capacity, already at 258.12 MMTPA as of FY25, is set to increase substantially to 310 MMTPA by 2028 and potentially 400-450 MMTPA by 2040. This expansion solidifies India's position as a major global refining hub. The growth is driven by increasing domestic oil consumption, a strategic push towards petrochemicals integration, and continued product exports, ensuring ample throughput opportunities and economies of scale for refiners.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 4,
+      "title": "Geopolitical volatility and excise duty cuts pressure OMC profitability",
+      "description": "Sharp increases in crude oil prices (e.g., above $100/bbl) due to geopolitical tensions (West Asia conflict) combined with government excise duty cuts (e.g., Rs 10/litre) have significantly squeezed profitability for Indian OMCs. The break-even crude price for refining and retail operations shifted from ~$90/bbl to ~$106/bbl. While GRMs may rise with higher product cracks, losses from retail operations (due to stable pump prices) can exceed GRMs, highlighting the vulnerability to external shocks and regulatory interventions.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-27"
+    },
+    {
+      "index": 5,
+      "title": "Agentic AI deployment enhances liquidity and operational efficiency across value chain",
+      "description": "The deployment of Agentic AI is transforming the oil and gas sector's finance strategy, directly impacting refining. By acting as a 'digital cash operator,' AI can detect risks, make real-time decisions, and trigger corrective actions across ERP, AR automation, and CRM platforms. This results in dynamic credit exposure management, automated invoice reconciliation, and predictive order management, significantly accelerating cash conversion cycles and reducing working capital drag, providing a substantial upside in financial performance for refiners.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-24"
+    },
+    {
+      "index": 6,
+      "title": "Shift away from Russian crude reconfigures Indian refiners' sourcing strategy",
+      "description": "Geopolitical developments, including US sanctions on Russian entities and an India-US trade agreement, are compelling Indian refiners to reduce reliance on discounted Russian crude oil. This unwinding of the 'Russian pivot' means a shift towards a blend of Venezuelan, US, and Middle Eastern grades. This reconfigures crude sourcing strategies, likely increasing the weighted average cost by $1.5–$2.0 per barrel, compressing the GRM premium previously enjoyed. This represents a significant, medium-term structural shift in feedstock procurement.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-16"
+    },
+    {
+      "index": 7,
+      "title": "High refinery utilization and petrochemical integration drive growth",
+      "description": "India's refining industry is operating at high utilization rates (109% of nameplate capacity by FY2024–25) and aggressively expanding capacity. This, combined with deepening integration with petrochemicals (e.g., IOCL targeting 15% PII by 2030), creates a strong tailwind. Refineries are adapting their product mix, with petrol production increasing and naphtha decreasing due to competition from natural gas. This strategic flexibility and integration ensure sustained demand and profitability for the refining sector.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-03"
+    },
+    {
+      "index": 8,
+      "title": "Benign crude oil prices expected to support refining margins",
+      "description": "After significant volatility, Brent crude prices are expected to hover in a range-bound manner, potentially below $70/bbl. This benign crude price environment is advantageous for Indian OMCs as it supports refining margin expansion without triggering politically sensitive retail price adjustments. This cyclical change, coupled with recovering product cracks and stable marketing margins, contributes positively to the overall profitability outlook for the refining sector in the near term.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-02-16"
+    },
+    {
+      "index": 9,
+      "title": "Decarbonization efforts drive green hydrogen integration at refineries",
+      "description": "Decarbonization initiatives are leading to the integration of green hydrogen production within refining operations. For example, L&T will construct India’s largest green hydrogen plant at IOCL’s Panipat refinery to support the National Green Hydrogen Mission. This move aims to decarbonize refinery operations, reduce emissions, and potentially lower operational costs in the long run, offering a significant upside driver for environmental compliance and operational sustainability.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 10,
+      "title": "Crude oil import dependency poses strategic risks for refiners",
+      "description": "India's heavy reliance on crude oil imports (242 MT in FY2024–25 vs. 29 MT domestic production) exposes its refining sector to significant strategic risks. Volatile geopolitics can disrupt supply chains and inflate crude costs, directly impacting GRMs and profitability. The import bill, consistently in the range of US$133-137 billion, highlights this vulnerability. Strengthening domestic exploration and production is critical to mitigate this key risk and enhance energy security for refiners.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-03"
+    },
+    {
+      "index": 11,
+      "title": "Increased M&A activity in oil and gas sector driven by scale and integration needs",
+      "description": "The oil and gas sector is experiencing record levels of M&A, with companies consolidating to achieve scale, reduce unit costs, and integrate value chains. This trend, accelerated by AI adoption in dealmaking, means that refiners are likely to become part of larger, more integrated entities. Such consolidation can lead to rationalization of assets, optimization of logistics, and enhanced bargaining power for crude sourcing and product sales, fundamentally altering the competitive landscape.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-01-27"
+    },
+    {
+      "index": 12,
+      "title": "Export market for petroleum products remains robust",
+      "description": "India is a major exporter of refined products, with 56.94 MMT exported in FY26 (April 2025-February 2026). Key export products include HSD, motor spirit (MS), aviation turbine fuel (ATF), and naphtha. This strong export market provides a significant revenue stream and incentive for refiners to maintain high utilization rates and expand capacity, leveraging India's strategic location and refining capabilities to serve regional and global demand.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 13,
+      "title": "Fragile global supply chains and economic volatility complicate long-term planning",
+      "description": "Refining margins are depressed by swings in feedstock costs, rapid demand changes, and geopolitical instability. The industry faces heightened uncertainty due to supply chain shocks, wars impacting energy flows, and market volatility. These factors make long-term planning complex, forcing refiners to adopt agile strategies to navigate fluctuating crude costs, product demand, and arbitrage opportunities, while risking margin compression from uncoordinated decision-making or slow responses.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-24"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "AI adoption across refining value chain will significantly boost EBIT per barrel",
+      "description": "BCG projects that by 2030, a mid-sized refiner leveraging AI across planning, operations, trading, and maintenance could enhance EBIT per barrel by $0.5 to $1.2. This transformation is driven by AI's ability to coordinate decisions, allowing refiners to respond holistically to market volatility, optimize operations in real-time (saving over $80 million for a Latin American refiner), improve scheduling to boost margins (adding $0.15 to $0.30/barrel), and reduce distribution costs. The strategic adoption of AI creates a powerful competitive advantage in an industry prone to margin depression from feedstock costs and demand swings.",
+      "stance": "positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-04-24",
+      "source_doc_id": "2982b435-f9a5-5fe0-9a93-5f2380af0966"
+    },
+    {
+      "index": 2,
+      "title": "Oil demand to persist, supporting refining operations across diverse future scenarios",
+      "description": "Bain's analysis across three global scenarios (Perpetuate Present Dynamics, Divergent Pathways, Low-Carbon Scale) indicates that oil demand will remain significant through 2040. In the most conservative scenario, demand plateaus at 97 Mb/d, while in the less aggressive scenarios, it could reach 108 Mb/d. This persistence of oil demand, driven by petrochemicals and heavy transport, suggests that the refining industry will continue to have a critical role, supporting ongoing capital investments in fossil fuel technologies despite the energy transition.",
+      "stance": "cautious_positive",
+      "source_firm": "bain",
+      "source_date": "2026-04-09",
+      "source_doc_id": "7c460a56-8cd1-584c-8197-064dae6da69c"
+    },
+    {
+      "index": 3,
+      "title": "Indian refining capacity set for significant expansion to meet growing domestic and export demand",
+      "description": "India, already the second-largest refiner in Asia, plans substantial capacity expansion. Current capacity of 258.12 MMTPA (as of FY25) is projected to increase to 310 MMTPA by 2028 and further to 400-450 MMTPA by 2040. This growth is driven by India's position as the world's third-largest oil consumer and exporter of refinery products. Strategic investments, including potential Saudi Aramco participation and IOCL's petrochemical integration, underscore a robust future for the Indian refining sector, positioning it to meet surging domestic and international petroleum product needs.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "source_doc_id": "0376fe88-fd15-5b7c-845b-3c9db6c9cd9b"
+    },
+    {
+      "index": 4,
+      "title": "AI is becoming central to oil and gas finance strategy, unlocking liquidity and improving cash flow",
+      "description": "EY highlights that Agentic AI is transforming cash performance in oil and gas, including downstream, by acting as a 'digital cash operator.' This shift from automation to autonomy is unlocking liquidity at an unprecedented scale. Leaders are deploying AI for dynamic credit exposure calculation, automated invoice reconciliation, predictive collections, and eliminating billing errors. The integration of AI across ERP, AR automation, and CRM platforms is crucial for creating real-time cash intelligence and resolving systemic drags that have historically compounded across the value chain, leading to faster cash conversion cycles.",
+      "stance": "positive",
+      "source_firm": "ey",
+      "source_date": "2026-02-24",
+      "source_doc_id": "de10c5b9-e822-592f-bb5e-c1ac7de8bf47"
+    },
+    {
+      "index": 5,
+      "title": "Indian refining industry stretches capacity, integrates with petrochemicals amid rising fuel demand",
+      "description": "EY states that India's refining industry is undergoing significant transformation, operating at 109% utilization of nameplate capacity by FY2024–25. Capacity is set to expand from 258 MMTPA in 2025 to 310 MMTPA by 2030–31. The production mix is shifting, with petrol production growing rapidly and petrochemical integration deepening. Refineries are seen as a flexible backbone, supporting current fossil fuel demand while preparing for a future with bio-blends, gas, and cleaner fuels, reinforcing their central role in India’s dual energy architecture and economic expansion.",
+      "stance": "positive",
+      "source_firm": "ey",
+      "source_date": "2026-02-03",
+      "source_doc_id": "dd712017-b4ec-596f-8d3b-95ab8e57067a"
+    },
+    {
+      "index": 6,
+      "title": "OMCs' refining and retail operations break-even shifts due to excise duty cuts and crude price volatility",
+      "description": "CareEdge Ratings notes that recent excise duty cuts on petrol and diesel, combined with sharp increases in crude oil prices (above $100/bbl due to geopolitical tensions), have shifted the break-even point for OMCs' refining and retailing operations from ~$90/bbl to ~$106/bbl. While GRMs have increased due to higher fuel cracks, retail losses widened, exceeding refining margins. The government's absorption of excise duty cuts aims to stabilize retail prices and ensure fuel availability, indicating ongoing government intervention affecting OMC profitability dynamics.",
+      "stance": "neutral",
+      "source_firm": "careedge",
+      "source_date": "2026-03-27",
+      "source_doc_id": "09c37f21-243f-5013-a82c-ab95317ac408"
+    },
+    {
+      "index": 7,
+      "title": "Indian OMCs' GRMs expected to moderate following Russian crude unwinding, marketing margins to improve",
+      "description": "CareEdge Ratings anticipates that Gross Refining Margins (GRMs) for Indian OMCs will moderate from recent peak levels (USD 9-13/bbl in Q3FY26) to a more sustainable $6–$8/bbl. This is due to the unwinding of discounted Russian crude oil imports, which significantly supported margins previously. The shift away from Russian crude towards alternative grades (Venezuelan, US, Middle Eastern) is expected to increase crude sourcing costs by $1.5–2.0/bbl. However, marketing margins are likely to improve in the near term, supported by stable retail fuel prices and benign global crude oil prices (expected below $70/bbl).",
+      "stance": "cautious_positive",
+      "source_firm": "careedge",
+      "source_date": "2026-02-16",
+      "source_doc_id": "c658accc-43aa-5379-975c-2fa605c85322"
+    },
+    {
+      "index": 8,
+      "title": "Oil and gas companies consolidate in record numbers to achieve scale and integrate value chains",
+      "description": "Bain reports that oil and gas companies are consolidating in record numbers, driven by a need to capture scale, cut unit costs, and further integrate value chains. This M&A activity is a response to various pressures, including declining oil prices and high demand for natural gas. The adoption of AI is also playing a critical role in accelerating dealmaking, enabling faster integration planning and synergy realization. For refiners, this trend could mean larger, more integrated operations aiming for greater efficiency and resilience against market fluctuations.",
+      "stance": "cautious_positive",
+      "source_firm": "bain",
+      "source_date": "2026-01-27",
+      "source_doc_id": "88b1a352-af2f-5357-9b56-5f67eac67403"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Petroleum Product Demand",
+          "description": "Strong domestic consumption of petrol, diesel, and ATF drives revenue for refined products."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Crude Oil Price",
+          "description": "Crude is 80-85% of refinery cost; GRM = product realization minus crude cost. Volatility significantly impacts profitability."
+        },
+        {
+          "driver": "Product Cracks (e.g., Middle Distillates, Gasoline)",
+          "description": "Middle distillate (gasoil/diesel, jet fuel) crack spreads are the largest contributor to GRM, while petrol cracks also significantly impact margins."
+        },
+        {
+          "driver": "Discounted Crude Sourcing",
+          "description": "Ability to procure crude (e.g., Russian Urals) at discounts relative to benchmarks (Brent) provides a cost advantage, directly boosting GRMs."
+        },
+        {
+          "driver": "Refinery Transfer Pricing & Retail Price Stability",
+          "description": "Higher refinery transfer prices due to high GRMs can compress marketing margins if retail fuel prices are kept stagnant, as seen with Indian OMCs."
+        },
+        {
+          "driver": "Geopolitical Developments",
+          "description": "Geopolitical events (e.g., sanctions, conflicts) can cause rapid swings in crude oil prices and product cracks, impacting GRMs and sourcing strategies."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Analysis of factors impacting Gross Refining Margins (GRMs) and Marketing Margins (MMs) for Oil Marketing Companies (OMCs) in India.",
+      "source_firm": "careedge",
+      "source_date": "2026-02-16",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 258.12,
+      "tam_unit": "MMT",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing Oil Consumption",
+          "description": "India's oil consumption is projected to reach 7 million barrels per day in the near future and double to 11 million barrels by 2045, necessitating increased refining capacity."
+        },
+        {
+          "driver": "Petrochemicals Capex Push",
+          "description": "India plans a capex push of US$ 37 billion to become a petrochemicals powerhouse by 2030, which will drive demand for refinery feedstocks and integrated operations."
+        },
+        {
+          "driver": "Product Export Market",
+          "description": "India is a significant exporter of refined products, with HSD, MS, ATF, and Naphtha being major export items. The export market underpins the need for high refining capacity."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total installed refining capacity in India as of FY25. India is the second-largest refiner in Asia and fourth-largest crude oil refiner globally.",
+      "source_firm": "ibef",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 310.0,
+      "tam_unit": "MMT",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising Domestic Consumption",
+          "description": "Growing energy demand from a rapidly expanding economy and increasing industrial activity drives the need for more refined products."
+        },
+        {
+          "driver": "Petrochemical Integration",
+          "description": "Refineries are increasingly integrating with petrochemical complexes, requiring larger processing capabilities for feedstocks."
+        },
+        {
+          "driver": "Energy Security Mandate",
+          "description": "Government focus on reducing import dependency and ensuring a stable supply of refined products for strategic reserves."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "India's plan to invest heavily in petrochemicals offers opportunities for refiners to deepen integration and diversify product yield.",
+          "opportunity": "Petrochemicals Hub Development"
+        },
+        {
+          "description": "Upgrades to meet Euro VI emission standards and shift product mix (e.g., increased petrol, reduced naphtha) create opportunities for enhanced profitability and product yield optimization.",
+          "opportunity": "Complex Refinery Upgrades"
+        }
+      ],
+      "methodology": "Projected refining capacity in India by 2030. Long-term plans aim for 400–450 MMTPA. This is an increase from 258.12 MMTPA as of FY25.",
+      "source_firm": "ey",
+      "source_date": "2026-02-03",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "bcg_global",
+    "bain",
+    "ibef",
+    "ey",
+    "careedge"
+  ]
+}

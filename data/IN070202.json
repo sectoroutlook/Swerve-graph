@@ -1,0 +1,119 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Housing share softens within personal loan segment",
+      "description": "Mortgage loan growth, while steady at 11.4% y-o-y in April 2026, saw its share soften within the broader personal loan portfolio. This indicates a compositional shift in retail credit, with other segments like gold loans experiencing significantly higher growth (121.2% y-o-y). This trend could signal evolving consumer preferences or relative competitiveness, potentially impacting growth opportunities and market share for housing finance.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-08"
+    },
+    {
+      "index": 2,
+      "title": "MBS maintains significant share in retail securitisation market",
+      "description": "Mortgage-backed securities (MBS) constituted approximately 28% of the Indian retail securitisation market in FY26. This significant share highlights the continued importance of MBS as a funding mechanism for mortgage lenders, including housing finance companies. However, MBS showed a stronger presence in Direct Assignment transactions compared to Pass-Through Certificates (PTCs) within the declining overall retail securitisation market, indicating a preference for simpler securitisation structures.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-14"
+    },
+    {
+      "index": 3,
+      "title": "Retail securitisation volumes decline, impacting funding avenues",
+      "description": "The Indian retail securitisation market, a key funding avenue for mortgage lenders including HFCs, experienced its first post-pandemic decline in FY26, with overall volumes falling by 6% to Rs 2.53 trillion from Rs 2.68 trillion in FY25. This downturn was primarily attributed to reduced issuances by large originators who had sufficient liquidity. The overall decline suggests a tightening or less active securitisation market, which can be a headwind for housing finance companies relying on this avenue for funding and liquidity management.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-14"
+    },
+    {
+      "index": 4,
+      "title": "NBFCs increase reliance on bank funding due to market conditions",
+      "description": "Elevated corporate bond yields and subdued capital market activity have compelled NBFCs, including Housing Finance Companies (HFCs), to increasingly turn to bank borrowing for refinancing needs and incremental funding. This shift in funding preference is a response to less attractive alternative funding sources. While it supports liquidity for HFCs, this reliance on bank credit is driven by cyclical market dynamics rather than a fundamental surge in end-borrower demand.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-08"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Housing finance share softens amidst robust personal loan growth",
+      "description": "CareEdge observes that while mortgage loan growth remained steady at 11.4% year-on-year in April 2026, its share within the overall personal loan segment is softening. This trend is highlighted by the significantly faster growth in other segments like gold loans (121.2% y-o-y), indicating a compositional shift in retail credit. This suggests a cautious outlook on the relative standing and market penetration of housing finance within the broader retail lending landscape.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge",
+      "source_date": "2026-06-08",
+      "source_doc_id": "d3ddc6aa-1a10-513b-9336-a44f895deb63"
+    },
+    {
+      "index": 2,
+      "title": "NBFC credit growth driven by funding shifts, not underlying demand",
+      "description": "CareEdge highlights that the acceleration in bank lending to NBFCs, which includes HFCs, is largely due to evolving funding preferences rather than a sharp pickup in underlying end-borrower demand. Elevated bond yields made market borrowings less attractive, prompting NBFCs to increase reliance on bank credit for refinancing. This raises concerns about the sustainability of this credit growth if market funding conditions normalize.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge",
+      "source_date": "2026-06-08",
+      "source_doc_id": "d3ddc6aa-1a10-513b-9336-a44f895deb63"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 0.7084,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Investor preference for structured instruments",
+          "description": "PTCs remained preferred in overall retail securitization, implying a demand for structured products including MBS."
+        },
+        {
+          "driver": "Underlying mortgage loan origination",
+          "description": "The volume of MBS is directly dependent on the underlying mortgage loans originated by housing finance companies and banks."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Mortgage-backed securities (MBS) volume calculated as 28% of the total Indian retail securitisation market volume, which was Rs 2.53 trillion (2.53 lakh crore) in FY26. The methodology also notes a stronger presence of MBS in Direct Assignment transactions compared to Pass-Through Certificates (PTCs).",
+      "source_firm": "CareEdge",
+      "source_date": "2026-05-14",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 0.7504,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Investor preference for structured instruments",
+          "description": "PTCs remained preferred in overall retail securitization, implying a demand for structured products including MBS."
+        },
+        {
+          "driver": "Underlying mortgage loan origination",
+          "description": "The volume of MBS is directly dependent on the underlying mortgage loans originated by housing finance companies and banks."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Mortgage-backed securities (MBS) volume calculated as 28% of the total Indian retail securitisation market volume, which was Rs 2.68 trillion (2.68 lakh crore) in FY25.",
+      "source_firm": "CareEdge",
+      "source_date": "2026-05-14",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "CareEdge"
+  ]
+}

@@ -1,0 +1,382 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Regulatory frameworks strengthening fraud governance and reporting across financial sectors",
+      "description": "Regulatory bodies like RBI, SEBI, and IRDAI are imposing stronger controls, including secure onboarding, digital payment security, enhanced fraud reporting, and formal anti-fraud frameworks. The policy trend in India pushes institutions towards improved customer protection and formal anti-fraud measures. Globally, FATF emphasizes coordination across fraud prevention, AML, cyber resilience, and evidence quality, increasing scrutiny on financial institutions' capabilities, including investment banks and brokerage firms, to comply with evolving standards.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 2,
+      "title": "India improving cyber-financial fraud investigation speed and digital processability",
+      "description": "India has significantly enhanced its capacity to respond to cyber-financial fraud, particularly in the initial 24 hours. Mechanisms like I4C/NCRP/1930 for real-time complaint routing and fund-freezing (CFCFRMS) are improving recovery rates. The BSA 2023 now treats electronic records as primary evidence, and the new criminal law stack supports technology-enabled evidence capture. This strengthens the investigative framework, aiding recovery and prosecution, thereby bolstering trust in financial markets and potentially supporting brokerage operations.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 3,
+      "title": "AI reshaping financial services workforce, management, and capability building",
+      "description": "AI is profoundly impacting the financial services sector by shifting the role of human domain experts from execution to design and supervision. Leadership is crucial for maintaining quality and measuring outcomes beyond activity. Middle management roles are evolving from coordination to redesigning workflows using AI. This transformation presents challenges in capability building (hiring strategies) and defining human value in an AI-enabled environment, necessitating deliberate workforce design choices for investment banking and brokerage firms.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-04"
+    },
+    {
+      "index": 4,
+      "title": "Strong data foundations crucial for effective AI in financial services",
+      "description": "Fragmented, messy, and context-rich data (contracts, emails, call transcripts) holds much of the enterprise value. Reliable extraction for AI requires robust classification, metadata, permissions, lineage, and continuous quality monitoring. Structured data (databases, CRM, ERP) also presents a new pressure point as AI agents directly query systems, demanding stronger controls around access, query volumes, cost guardrails, and efficient data retrieval. This is a foundational challenge for investment banks and brokerage firms adopting AI.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-29"
+    },
+    {
+      "index": 5,
+      "title": "AI-driven capital expenditure fueling technology sector bond issuance globally",
+      "description": "The rapid expansion in AI-driven capital expenditure is expected to significantly increase bond issuance from the technology sector. Historically a small borrower, large tech companies are now turning to debt markets for the substantial upfront funding required for AI infrastructure, semiconductors, and clean energy. This trend is reshaping the composition and risk profile of global corporate credit markets and presents new opportunities for Debt Capital Markets (DCM) arrangers within investment banks.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-27"
+    },
+    {
+      "index": 6,
+      "title": "Geopolitical tensions driving market volatility, affecting investor sentiment and leveraged positions",
+      "description": "Persistent geopolitical tensions, particularly in the Middle East, contribute to heightened market volatility. This environment fosters a cautious stance among investors, impacting leveraged positions and overall trading activity, especially in the F&O segment. Any sustained increase in crude oil prices due to these tensions could further adversely affect investor sentiment, potentially moderating growth in MTF exposures and ADTO. This poses a key risk for brokerage firms reliant on trading volumes and leveraged positions.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-18"
+    },
+    {
+      "index": 7,
+      "title": "Policy support and innovation propelling India's financial services growth",
+      "description": "The Indian government's strong policy support, including banking reforms, UPI-based credit, AI-driven payments, and financial inclusion schemes, is enhancing access, efficiency, and stability in the financial services sector. Alongside innovation in AI, tokenization, and digital infrastructure, these factors are democratizing finance. This creates a favorable environment for investment banks and brokerage firms, positioning India as a global fintech leader and driving new opportunities in capital markets.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 8,
+      "title": "Cyber-enabled fraud becoming industrialised and highly sophisticated",
+      "description": "Fraudsters are leveraging AI, deepfakes, and automated hacking tools, operating in organised networks with specialised roles (e.g., technical specialists, money mules, laundering experts). This industrialisation makes traditional defenses insufficient. The rapid evolution of attack vectors, including those targeting BFSI and fintech, poses a significant and growing risk, demanding urgent and coordinated vigilance from policy-makers and enterprises, including investment banks and brokerage firms, to protect assets and client trust.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 9,
+      "title": "Pseudonymity and borderless nature of VDAs increase financial crime risks",
+      "description": "Virtual Digital Assets (VDAs), including cryptocurrencies and NFTs, attract cybercriminals due to their pseudonymity, borderless transfers, and speed. This facilitates fraud, money laundering, and sanctions evasion. Typologies include unregulated trading platforms, fraudulent investment schemes, compromised wallets, and 'rug pull' schemes. The lack of reliable identity linkage on blockchains poses significant investigative challenges for regulators and law enforcement, and potentially for capital market participants dealing with such assets.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 10,
+      "title": "Collaboration gaps between public and private sectors impede fraud investigation",
+      "description": "Critical data for cyber-financial crime investigation resides mainly in private sector systems (banks, payment platforms, telecom, cloud). Current legal processes for compelling disclosure are too slow compared to fraud velocity. Lack of real-time intelligence sharing mechanisms and technical/governance frameworks for anonymized data exchange between public and private entities creates a significant bottleneck, allowing attackers to remain operationally better aligned than institutions, affecting the ability to protect capital market participants.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01"
+    },
+    {
+      "index": 11,
+      "title": "India's corporate bond market undersized, reliant on bank credit, hindering capital mobilization",
+      "description": "India’s corporate bond market remains relatively small at USD 645 billion, with bank lending heavily dominating corporate financing. Issuance is concentrated among highly-rated financial institutions and public-sector entities. Elevated government borrowing absorbs significant domestic savings. This limits access to bond financing for many issuers, contrasting with the need for large-scale capital mobilization for India's growth aspirations and reducing the effectiveness of Debt Capital Market (DCM) activities by investment banks.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-27"
+    },
+    {
+      "index": 12,
+      "title": "Inclusion of Indian government bonds in global indices boosting foreign investor participation",
+      "description": "India's inclusion in major global bond indices (JPMorgan GBI-EM, Bloomberg EM Local Currency Index, FTSE Russell EM Government Bond Index from June 2024, January 2025, and September 2025 respectively) is a significant milestone. This development is expected to drive substantial passive inflows from foreign investors, enhancing the structural depth and global attractiveness of India's domestic bond market, thereby benefiting Debt Capital Markets (DCM) arrangers and other capital market participants.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-27"
+    },
+    {
+      "index": 13,
+      "title": "Increased STT on derivatives trading leading to easing turnover and higher costs",
+      "description": "The Union Budget 2026-27 announced increased Securities Transaction Tax (STT) rates on derivatives trading, leading to a sequential decline in overall Average Daily Turnover (ADTO) in April 2026. This regulatory change directly increases transaction costs in the F&O segment, dampening trading volumes and impacting brokerage firm revenues. The cautious market sentiment following this tax hike is expected to exert pressure on turnover levels in FY27, posing a challenge for brokerages.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-18"
+    },
+    {
+      "index": 14,
+      "title": "Rising investor participation and wealth creation in Indian equities",
+      "description": "India's stock markets are experiencing significant growth, with a record 2.32 crore new investors in 2024 and total demat accounts reaching 21 crore by November 2025. This surge, driven by a busy IPO season and retail investor engagement, has generated over INR 40,00,000 crore (USD 459.24 billion) in household wealth from equities. This trend signifies robust demand for brokerage and investment banking services, particularly IPO management and equity trading.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 15,
+      "title": "SEBI reforms boost shareholder rights and market confidence in India",
+      "description": "Reforms implemented by the Securities and Exchange Board of India (SEBI) have earned India a perfect 10 in protecting shareholders' rights in the World Bank's Ease of Doing Business 2020 report. This, coupled with India climbing to the fifth spot in global market capitalization rankings, reflects increasing investor faith and resilience. Such robust regulatory oversight and improved market confidence are positive for investment banking activities, particularly IPO management, and for brokerage services, attracting more participants.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Proactive forensic readiness essential against industrialised, complex financial fraud",
+      "description": "KPMG in India states that fraud has become a full-scale enterprise, threatening corporate reputations and economies. Traditional defenses are struggling to keep pace with evolving technology and geopolitical motivations. The firm emphasizes that proactive forensic readiness, involving transformative and evidence-led defenses, is now a critical leadership imperative to protect institutions from unprecedented risks and ensure trust and corporate values amidst this challenging landscape.",
+      "stance": "cautious_negative",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "source_doc_id": "ccc44e9c-af6b-534b-b14a-f19981b6af9d"
+    },
+    {
+      "index": 2,
+      "title": "Robust bond market essential for India's long-term economic growth and capital mobilization",
+      "description": "CareEdge Ratings believes a deep, resilient, and diversified financial system, particularly a robust bond market, is pivotal for India to achieve its USD30 trillion economy aspiration by 2047. It facilitates efficient resource allocation for investments, strengthens public participation, and reduces reliance on bank credit, lowering capital costs. Continued reforms are necessary to enhance market accessibility for both issuers and investors, supporting a higher and more sustainable growth trajectory.",
+      "stance": "positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-05-27",
+      "source_doc_id": "c21bf770-7c2b-5304-8fbf-e159a6fcaa9f"
+    },
+    {
+      "index": 3,
+      "title": "MTF segment and market turnover supported by investor participation, geopolitical risks persist",
+      "description": "CareEdge Ratings anticipates stable growth in India's MTF segment and overall market turnover, driven by steady investor participation and gradual regulatory changes. However, geopolitical tensions in the Middle East, particularly sustained increases in crude oil prices, are key monitorables. These external factors could heighten market volatility and adversely affect investor sentiment, potentially leading to a more cautious approach to leveraged positions and trading activity in the near term.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-05-18",
+      "source_doc_id": "89ecd15f-1ac6-53b3-bf5a-605e0f3c3cb2"
+    },
+    {
+      "index": 4,
+      "title": "India's financial services sector poised for growth via innovation, digital transformation",
+      "description": "IBEF highlights that India's financial services sector is positioned for significant growth through innovation and digital transformation. Anticipated budget boosts for fintech, improved credit access, and strengthened financial inclusion schemes are expected to cement India's status as a competitive, technology-driven financial hub. This positive outlook suggests expanding opportunities for investment banks and brokerage firms within a modernizing financial ecosystem, fueled by supportive government policies.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "e40fa7ac-c724-5a09-99f5-7614bab03a16"
+    },
+    {
+      "index": 5,
+      "title": "Indian equity market matches global pace, creates substantial household wealth",
+      "description": "IBEF reports that India's stock markets are growing at a global pace, with one-fifth of Indian households now connected to stock markets. The market capitalization of Indian companies has grown sixfold in the past decade, and new investor additions reached a record 2.32 crore in 2024. This surge in participation has led to over INR 40,00,000 crore (USD 459.24 billion) in household wealth from equity investments over five years, signaling robust market activity.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "e40fa7ac-c724-5a09-99f5-7614bab03a16"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 487.0,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong derivatives activity",
+          "description": "High volumes in Futures & Options contribute significantly to overall ADTO, driven by market conditions."
+        },
+        {
+          "driver": "Elevated market volatility",
+          "description": "Increased volatility encourages higher trading and hedging activity in derivatives, boosting turnover."
+        },
+        {
+          "driver": "Low base effect from prior year",
+          "description": "The strong annual growth is partly supported by a low base in April 2025 due to previous regulatory tightening impacts."
+        },
+        {
+          "driver": "Higher investor participation",
+          "description": "Improved retail and institutional engagement in the cash market contributes to ADTO growth and overall market liquidity."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Average Daily Turnover (ADTO) across Futures & Options (F&O) and equity for April 2026, registering a 31.9% y-o-y increase.",
+      "source_firm": "CareEdge",
+      "source_date": "2026-05-18",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": 4.0,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Robust IPO pipeline",
+          "description": "A strong pipeline indicates sustained interest from companies to raise capital through public offerings, signaling future deal volumes."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "IPO pipeline stated as 'over Rs. 4 lakh crore (US$ 45.5 billion) for 2026'. This is a forward-looking measure of potential capital raising.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 645.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increased AI-driven capital expenditure",
+          "description": "Rapid expansion in AI-driven capital expenditure is likely to increase technology-sector bond issuance, reshaping corporate credit market composition."
+        },
+        {
+          "driver": "Refinancing requirements",
+          "description": "A large share of bonds issued at lower interest rates during 2020-21 maturing over the next few years will drive higher corporate debt issuance for refinancing."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Corporate bond market value stated as 'around USD 645 billion and roughly 17% of GDP'. Implies total value of outstanding corporate bonds. As of September 2025 for similar data, so inferred this as 2025.",
+      "source_firm": "CareEdge",
+      "source_date": "2026-05-27",
+      "data_confidence": "medium"
+    },
+    {
+      "index": 4,
+      "tam_value": 1.14,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Sustained retail investor participation",
+          "description": "Continued strength in retail participation drives demand for leveraged equity exposure in the market."
+        },
+        {
+          "driver": "Increased interest in leveraged positions",
+          "description": "Despite intermittent market fluctuations, investors maintain strong interest in leveraged trading, contributing to MTF book growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total average Margin Trading Facility (MTF) book for April 2026, registering a sequential improvement of 1.6% from March 2026 and strong 60.0% y-o-y growth.",
+      "source_firm": "CareEdge",
+      "source_date": "2026-05-18",
+      "data_confidence": "high"
+    },
+    {
+      "index": 5,
+      "tam_value": 1.44,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Higher investor participation",
+          "description": "Increased retail and institutional engagement in the cash market drives ADTO growth and overall activity."
+        },
+        {
+          "driver": "MTF activity",
+          "description": "Margin Trading Facility activity supports cash market volumes, reflecting investor appetite for leveraged positions."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Cash market Average Daily Turnover (ADTO) for April 2026, rising 35.5% y-o-y.",
+      "source_firm": "CareEdge",
+      "source_date": "2026-05-18",
+      "data_confidence": "high"
+    },
+    {
+      "index": 6,
+      "tam_value": 1.95,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Financial services sector (NBFCs)",
+          "description": "NBFCs contributed to a record IPO year in 2025, indicating strong capital raising activity from this segment."
+        },
+        {
+          "driver": "Strong investor confidence",
+          "description": "High IPO mobilization reflects robust investor confidence in the market, encouraging more companies to list."
+        },
+        {
+          "driver": "Structural reforms (GST, digital inclusion)",
+          "description": "Structural reforms support the vibrant tech sector and unicorn boom, leading to increased IPO proliferation and market activity."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "IPO fundraising reaching 'about Rs. 1.95 lakh crore (US$ 22.55 billion) across 365 IPOs as of December 26, 2025'.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 7,
+      "tam_value": 168971.69,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Amount raised by IPOs in FY26 (April-February), stating 'a total of 100 IPOs were launched raising Rs. 168971.69 crore (US$ 19.21 billion).'",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "KPMG",
+    "CareEdge Ratings",
+    "IBEF",
+    "CareEdge"
+  ]
+}

@@ -1,0 +1,259 @@
+{
+  "forces": [
+    {
+      "index": 1,
+      "title": "Persistent Global Oil Demand Driven by Petrochemicals and Heavy Transport",
+      "description": "Global oil demand is expected to remain robust, reaching up to 108 Mb/d by 2040 in some scenarios. Key drivers are the continued growth in petrochemical feedstocks (16-19 Mb/d), aviation (8-10 Mb/d), shipping (2-6 Mb/d), and freight. This sustained demand, despite road transport electrification, provides a long-term tailwind for upstream crude oil producers.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-09"
+    },
+    {
+      "index": 2,
+      "title": "Exploration Activity Declines, Requires Capability Rebuild",
+      "description": "Oil and gas exploration and appraisal well counts have sharply decreased, with conventional reserve replacement rates falling from 30-40% in the 2010s to 10-20% in the 2020s. This decline is structural, not cyclical, driven by a shift in capital to unconventional development and constrained spending. Companies need to rebuild exploration capabilities and re-establish a culture of risk-taking and prospect ownership.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-04"
+    },
+    {
+      "index": 3,
+      "title": "Discovered Resources Fail to Become Investable Supply",
+      "description": "A significant portion of discovered oil and gas resources are failing to convert into commercially viable, investable supply. This is often due to identifiable barriers such as weak fiscal terms, lack of market access, inadequate infrastructure, and engineering limitations that are overlooked during sanctioning. This 'underdiscovery problem' highlights a disconnect between technical success and commercial reality, impacting reserve replenishment.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-04"
+    },
+    {
+      "index": 4,
+      "title": "Exploration Advantage to Early Acreage Holders, Not Fast-Followers",
+      "description": "The dynamics of exploration success have shifted, with the advantage now firmly with play openers or early acreage holders. Data shows 90% of resources in new plays since 2010 went to companies already holding acreage when the play opened, leaving only 10% for fast-followers. This structural change demands a re-evaluation of exploration strategies, emphasizing proactive acreage acquisition over reactive pursuit.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-04"
+    },
+    {
+      "index": 5,
+      "title": "Natural Gas Demand Volatility Due to Policy and Alternative Energy Costs",
+      "description": "The future of natural gas demand is highly uncertain, with potential swings of 20% across different scenarios. Its role as a flexible power source and industrial fuel is balanced against its growing security exposure for LNG-dependent countries. Gas demand is highly sensitive to macro conditions, national policy choices, and the competitiveness of alternative power sources like renewables with storage or nuclear. Stricter policy could increase the risk of stranded or underutilized assets for gas E&P projects, particularly with stricter policy environments.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-09"
+    },
+    {
+      "index": 6,
+      "title": "Rising Domestic Natural Gas Consumption in India",
+      "description": "India's natural gas consumption is projected to grow significantly, reaching 143.08 BCM by 2040, driven by rapid urbanization and economic expansion. Industrial users are expected to contribute 40% of this growth, alongside increased demand from residential, transport, and energy sectors. This robust domestic demand provides a strong and sustained tailwind for natural gas exploration and production within India.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 7,
+      "title": "Expanding Canadian Crude Oil Exports to Asia and Europe",
+      "description": "Canada, with abundant energy supplies and political stability, is well-positioned to expand its crude oil exports beyond the US to Asia and Europe. Asian buyers seek to reduce dependence on geopolitically exposed corridors like the Strait of Hormuz. Capturing even 1% of world crude market share requires significant infrastructure expansion, including new Trans Mountain-scale pipelines, offering substantial upside for Canadian E&P and related infrastructure.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-12"
+    },
+    {
+      "index": 8,
+      "title": "Significant Indian Government Investment in Upstream Oil and Gas",
+      "description": "The Indian government plans massive investments in the upstream oil and gas sector, including US$25 billion for exploration and production, and US$348-406 billion by 2035 for broader upstream reforms. An additional US$67 billion is earmarked for the gas sector to double production to 60 BCM and increase its share in the energy mix. These initiatives strongly support domestic E&P activity and energy security.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 9,
+      "title": "Offshore Production Dominates India's Crude Oil Output, Ageing Fields Impacting Share",
+      "description": "Historically, almost half of India's crude oil production originates from offshore fields. However, this share is gradually diminishing as output from large, aging fields like Mumbai High declines. In FY25, onshore accounted for 47% and offshore 53% of production. This structural shift highlights the challenges of maintaining production from mature offshore assets and the potential need for enhanced oil recovery or new discoveries.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31"
+    },
+    {
+      "index": 10,
+      "title": "Limited Pipeline Capacity Restricting Global Crude Export Opportunities for Canada",
+      "description": "Despite Canada's potential to become a reliable global crude supplier, less than 20% of its pipeline capacity can currently reach Rest-of-World markets through ports, with much of this already operating above 80% utilization. This infrastructure bottleneck, exacerbated by slow approval and execution processes for major projects, significantly constrains Canada's ability to capitalize on growing international demand and poses a key risk to its export ambition.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-12"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Traditional Exploration in Decline, Requiring Strategic Rebuild of Capabilities",
+      "description": "Traditional oil and gas exploration is not merely in a down cycle but in structural decline, with conventional reserve replacement falling significantly. While technical success rates remain stable, commercial conversion to investable supply is low due to weak fiscal terms, market access issues, and inadequate infrastructure. Companies need to rebuild exploration capabilities, focusing on strategic basin choice, acreage capture, prospect generation, and commercial framing, rather than just increasing spending, which is inefficient in the current system.",
+      "stance": "cautious_negative",
+      "source_firm": "Bain & Company",
+      "source_date": "2026-05-04",
+      "source_doc_id": "0778aa63-7aee-53fe-a6e9-cd57c773b5ec"
+    },
+    {
+      "index": 2,
+      "title": "Advantage in Exploration Shifts to Play Openers and Early Acreage Holders",
+      "description": "The landscape of oil and gas exploration has fundamentally changed, with a strong advantage now held by those who initially open a play or secure early acreage. Historically prudent 'fast-follower' strategies are yielding poor results, with 90% of discovered resources in new plays since 2010 going to original acreage holders. This highlights a need for companies to re-evaluate their exploration strategies and focus on gaining early access rather than reacting to discoveries.",
+      "stance": "cautious_negative",
+      "source_firm": "Bain & Company",
+      "source_date": "2026-05-04",
+      "source_doc_id": "0778aa63-7aee-53fe-a6e9-cd57c773b5ec"
+    },
+    {
+      "index": 3,
+      "title": "Oil Demand Persistence: No End in Sight, Driven by Petrochemicals and Heavy Transport",
+      "description": "Bain's 2026 outlook indicates that global oil demand will persist, growing to 108 million barrels per day (Mb/d) by 2040 in the 'perpetuate present dynamics' scenario and plateauing at 97 Mb/d in 'divergent pathways'. Only in the 'low-carbon scale' scenario does it decline to 80 Mb/d. This persistence is largely attributed to continued demand from petrochemical feedstocks and heavy transport sectors like aviation and shipping, even as electric vehicles reduce road fuel demand.",
+      "stance": "cautious_positive",
+      "source_firm": "Bain & Company",
+      "source_date": "2026-04-09",
+      "source_doc_id": "7c460a56-8cd1-584c-8197-064dae6da69c"
+    },
+    {
+      "index": 4,
+      "title": "Natural Gas Future Uncertain, Highly Sensitive to Policy and Alternatives",
+      "description": "Natural gas faces significant uncertainty, with demand swinging by roughly 20% across various scenarios. Its role as a flexible power source and industrial fuel is balanced against its growing security exposure for LNG-dependent countries. Gas demand is highly sensitive to macro conditions, national policy choices, and the cost-competitiveness of alternatives like storage-enabled renewables or nuclear. Stricter policy could increase the risk of stranded or underutilized gas assets.",
+      "stance": "cautious_negative",
+      "source_firm": "Bain & Company",
+      "source_date": "2026-04-09",
+      "source_doc_id": "7c460a56-8cd1-584c-8197-064dae6da69c"
+    },
+    {
+      "index": 5,
+      "title": "India's Oil & Gas Sector Poised for Significant Investment and Production Growth",
+      "description": "India's oil and gas sector is expected to attract substantial investment, with US$25 billion projected for exploration and production, and US$348-406 billion planned by 2035 for upstream reforms. The government also plans a US$67 billion investment in the gas sector to double natural gas production to 60 BCM and increase its share in the primary energy mix to 15% by 2030. These investments, alongside growing domestic demand, signal robust growth for the upstream segment.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "0376fe88-fd15-5b7c-845b-3c9db6c9cd9b"
+    },
+    {
+      "index": 6,
+      "title": "Growing Domestic Demand to Drive India's Natural Gas Consumption to 143 BCM by 2040",
+      "description": "India's natural gas consumption is projected for strong growth, reaching 143.08 BCM by 2040, driven by robust economic expansion and increasing urbanization. The International Energy Agency (IEA) expects solid medium-term growth for natural gas, with industrial consumers accounting for 40% of net demand growth, and further demand from residential, transport, and energy sectors. This sustained demand provides a tailwind for upstream gas production.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "source_doc_id": "0376fe88-fd15-5b7c-845b-3c9db6c9cd9b"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2040,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Petrochemical Feedstocks",
+          "description": "Expected to consume 16-19 Mb/d of oil."
+        },
+        {
+          "driver": "Aviation",
+          "description": "Projected to demand 8-10 Mb/d of oil."
+        },
+        {
+          "driver": "Shipping",
+          "description": "Expected to use 2-6 Mb/d of oil."
+        },
+        {
+          "driver": "Freight",
+          "description": "Contributes significantly to oil demand, especially in heavy transport."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projection based on Bain Intersect scenarios under 'perpetuate present dynamics' for global oil demand.",
+      "source_firm": "Bain & Company",
+      "source_date": "2026-04-09",
+      "data_confidence": "high"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Energy Security",
+          "description": "Government's focus on enhancing energy security drives investment in domestic production."
+        },
+        {
+          "driver": "Rising Demand",
+          "description": "India's growing energy consumption and projected growth in oil and gas demand necessitates higher domestic output."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Planned investment of US$ 2.86 billion to increase natural gas production to 60 BCM, requiring drilling of over 120 exploration wells.",
+          "opportunity": "Doubling Natural Gas Production"
+        }
+      ],
+      "methodology": "Projected investment in India's exploration and production (E&P) and gas sector.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 3,
+      "tam_value": 28.71,
+      "tam_unit": "MMT",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total crude oil production in India for FY25.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    },
+    {
+      "index": 4,
+      "tam_value": 672.07,
+      "tam_unit": "MMT",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's total crude oil reserves as of April 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high"
+    }
+  ],
+  "sources": [
+    "Bain & Company",
+    "IBEF"
+  ]
+}
