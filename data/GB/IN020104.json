@@ -1,0 +1,309 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "High UK Industrial Energy Costs Undermine Fertiliser Competitiveness",
+      "description": "Industrial electricity and gas prices in the UK are significantly higher than the G7 average, severely impacting energy-intensive industries like chemicals, which include fertiliser production. This high cost base, stemming from network charges, policy costs, and market design, directly increases operating expenses for UK fertiliser manufacturers, making them less competitive against international producers. This situation risks slowing reindustrialisation efforts and increasing reliance on imports for critical inputs like ammonia.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 2,
+      "title": "Geopolitical Instability and Supply Chain Disruptions Threaten Fertiliser Imports",
+      "description": "Global events, such as conflicts in the Middle East, intensify risks in energy and commodity markets, driving up prices and inflation. The UK's reliance on imports for energy and a significant portion of its food and fertiliser inputs exposes it to international disruptions. Geopolitical instability can lead to supply chain bottlenecks, increased transport and insurance costs, and export bans (as seen with rice from India), directly impacting the availability and affordability of fertilisers in the UK, posing a significant threat to food security.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 3,
+      "title": "Increased Reliance on Fertiliser Imports Due to Uncompetitive Domestic Production",
+      "description": "The UK has historically produced ammonia, a key nitrogenous fertiliser feedstock, using natural gas. However, high and increasingly volatile gas prices have undermined the economic competitiveness of domestic production. This has led to a greater reliance on imports for strategically important raw materials like ammonia, indicating a structural shift in the supply chain for UK fertilisers, away from domestic manufacturing and towards international sourcing, impacting national energy and food security.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 4,
+      "title": "Overcapacity and Sluggish Demand Suppress Fertiliser Margins",
+      "description": "The broader commodity chemical industry, including the fertiliser sub-sector, is experiencing a downturn characterized by persistent global overcapacity, notably from increased production in Asia, and sluggish demand. This supply-demand imbalance challenges operating rates, leads to underutilized production capacity, and compresses margins for commodity chemical players. These conditions result in subdued profitability for UK fertiliser manufacturers and increased insolvency risks for smaller firms, making the market highly competitive.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-19",
+      "source_doc_id": "4b2cf088-08a1-530b-8233-b39187da7b05",
+      "source_title": "Rewiring for growth in chemicals with advanced analytics and gen AI",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/chemicals/our-insights/rewiring-for-growth-in-chemicals-with-advanced-analytics-and-gen-ai",
+      "source_date": "2026-03-19"
+    },
+    {
+      "index": 5,
+      "title": "Climate Change Disruptions Threaten Global Fertiliser Supply and Food Security",
+      "description": "Climate change poses a significant threat to UK food security by impacting global supply chains, including those for fertiliser inputs. Hazards like floods, droughts, and heatwaves in climate-vulnerable regions can disrupt fertiliser production and transport, leading to higher prices and reduced availability. This vulnerability underscores the need for proactive adaptation measures, such as stress-testing global commodity markets, to ensure the resilience of the UK's food system against severe and prolonged climate shocks.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-20",
+      "source_doc_id": "4230d641-1595-541b-b06a-7d45abcff347",
+      "source_title": "A Well-Adapted UK",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/a-well-adapted-uk",
+      "source_date": "2026-05-20"
+    },
+    {
+      "index": 6,
+      "title": "AI Integration Offers Efficiency and Profitability Gains for Chemical Firms",
+      "description": "Advanced analytics and generative AI present a crucial opportunity for chemical companies, including those in the fertiliser sector, to improve efficiency and profitability amidst industry headwinds. AI can optimize operations, enhance R&D (e.g., molecule discovery), streamline procurement, and improve supply chain planning. Implementing AI-driven solutions is projected to unlock substantial EBITDA margin uplift (over 3%) by enabling continuous set point optimization, predictive maintenance, and data-driven decision-making across the value chain, fostering a stronger competitive position.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-02",
+      "source_doc_id": "b6e9169b-f4f8-58ce-a91a-fe0ac155df72",
+      "source_title": "The AI-First Chemical Company",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/the-ai-first-chemical-company-advantage",
+      "source_date": "2026-04-02"
+    },
+    {
+      "index": 7,
+      "title": "Diversification of Fertiliser Supply Chains Enhances Resilience to Shocks",
+      "description": "Diversifying fertiliser supply chains is identified as a critical adaptation action to spread risk and build resilience against short-term climate shocks and other non-climate pressures. By reducing single points of failure, such as international transport bottlenecks or regional production failures, a diversified supply chain can help maintain higher supply and mitigate price volatility. This strategic move, while potentially involving initial costs, is expected to offer long-term cost-effectiveness through avoided losses during inevitable disruptions, securing UK food supply.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-20",
+      "source_doc_id": "4230d641-1595-541b-b06a-7d45abcff347",
+      "source_title": "A Well-Adapted UK",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/a-well-adapted-uk",
+      "source_date": "2026-05-20"
+    },
+    {
+      "index": 8,
+      "title": "Structural Decline in UK Industrial Energy and Feedstock Use",
+      "description": "The UK has seen a consistent decline in total energy consumption since the early 1990s, with industrial energy consumption and non-energy use (feedstocks) falling significantly. This trend reflects ongoing deindustrialisation and the contraction of energy-intensive industrial activity, impacting the availability and economics of domestic feedstocks essential for fertiliser production. This structural shift highlights a long-term challenge for maintaining a robust domestic industrial base for chemical inputs, affecting the viability of domestic fertiliser manufacturing.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "UK Chemicals Sector Faces Subdued Profitability Amid High Costs and Weak Demand",
+      "description": "Kieron Franks, Sector Head for Chemicals, forecasts subdued profitability and rising insolvency risks for smaller firms within the UK chemicals sector. Key challenges include stable but underutilized capacity, persistent raw material and energy price volatility impacting margins, and constrained access to finance. Payment delays are expected to increase, further stressing liquidity. While innovation influences specialty chemicals, no significant policy or subsidy shifts are anticipated to alleviate these pressures for the broader chemicals industry, which includes fertilisers.",
+      "stance": "cautious_negative",
+      "source_firm": "Allianz UK",
+      "source_date": "2026-03-05",
+      "source_doc_id": "b53b8fdf-4ebc-50e8-99d9-42f82940e71a",
+      "source_title": "February 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-february-2026.html"
+    },
+    {
+      "index": 2,
+      "title": "UK Industrial Competitiveness Undermined by High Energy Prices and Feedstock Dependence",
+      "description": "The UK offshore energy sector report by OEUK highlights that industrial energy prices are significantly higher than the G7 average, severely undermining the competitiveness of energy-intensive industries like chemicals. This increases the risk of deindustrialisation and reliance on imports for critical feedstocks such as those needed for fertilisers, with domestic ammonia production already impacted by volatile gas prices. The current policy environment is seen as inadequate for securing affordable, reliable energy and competitive feedstocks for the chemicals sector.",
+      "stance": "negative",
+      "source_firm": "OEUK",
+      "source_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "index": 3,
+      "title": "European Chemicals Industry Faces Structural Challenges, Demanding Dual Transformation",
+      "description": "Europe's chemical industry, including upstream players relevant to fertilisers, is at a critical inflection point, with lagging performance and negative total shareholder returns. The challenges are structural, exacerbated by higher input costs, increased global competition, and an economic downturn affecting key customer industries. Incremental changes are insufficient; companies need a 'dual transformation' involving radical portfolio repositioning, footprint adjustment, and operational performance improvements to fund future growth. This analysis provides a relevant context for the UK chemicals sector.",
+      "stance": "negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-07-03",
+      "source_doc_id": "1e6d0852-8bac-52f8-9a89-00de25d7ce99",
+      "source_title": "A dual transformation agenda for Europe’s chemicals industry",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/chemicals/our-insights/a-dual-transformation-agenda-for-europes-chemicals-industry"
+    },
+    {
+      "index": 4,
+      "title": "Chemical Industry Downturn Requires AI Adoption for Profitability and Competitive Advantage",
+      "description": "The chemical industry is experiencing a downturn characterized by overcapacity, sluggish demand, and compressing margins. Customer sustainability expectations are raising investment needs while returns are weak. BCG suggests that AI and computing advances are critical to improve profitability and enhance competitive advantage. AI can reshape the value chain, scaling discovery, improving predictions, automating workflows, and driving efficiency to help chemical companies overcome the structural pressures and emerge stronger, offering a pathway for fertiliser producers.",
+      "stance": "cautious_positive",
+      "source_firm": "BCG",
+      "source_date": "2026-04-02",
+      "source_doc_id": "b6e9169b-f4f8-58ce-a91a-fe0ac155df72",
+      "source_title": "The AI-First Chemical Company",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/the-ai-first-chemical-company-advantage"
+    },
+    {
+      "index": 5,
+      "title": "Commodity Chemicals Grapple with Overcapacity, High Costs, and Geopolitical Instability",
+      "description": "The commodity chemicals sector, which encompasses fertilisers, faces significant headwinds leading to hampered growth and difficulty in optimizing pricing and managing margins. Key issues include persistent global overcapacity, particularly from increased Asian production, which has led to underutilized capacity. Trade uncertainty, tariffs, unpredictable markets disrupting supply chains, and rising input costs such as energy prices have eroded the competitiveness of commodity players. These structural factors continue to challenge the industry's profitability and outlook.",
+      "stance": "negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-03-19",
+      "source_doc_id": "4b2cf088-08a1-530b-8233-b39187da7b05",
+      "source_title": "Rewiring for growth in chemicals with advanced analytics and gen AI",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/chemicals/our-insights/rewiring-for-growth-in-chemicals-with-advanced-analytics-and-gen-ai"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Food Production",
+          "description": "Fertilisers are essential inputs for agriculture, directly supporting food production and ensuring food security in the UK. Maintaining domestic food supply drives underlying demand for fertilisers."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Natural Gas Prices",
+          "description": "High and volatile natural gas prices directly impact the production costs of nitrogenous fertilisers like ammonia, undermining the competitiveness of domestic production and affecting profit margins."
+        },
+        {
+          "driver": "Electricity Prices",
+          "description": "Elevated industrial electricity prices significantly increase operating costs for energy-intensive chemical processes involved in fertiliser manufacturing, thereby reducing investment returns and profitability."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Analysis of the UK's energy security and industrial competitiveness, focusing on the role of domestic energy supplies and feedstocks for strategic industries like chemicals, which produce fertilisers. The demand for fertilisers is tied to food production and agricultural needs, and the cost of production is heavily influenced by energy and feedstock prices.",
+      "source_firm": "OEUK",
+      "source_date": "2026-09-08",
+      "data_confidence": "medium",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Food Security",
+          "description": "The necessity to maintain UK food security drives demand for fertiliser inputs, regardless of whether they are domestically produced or imported. Climate change impacts heighten this demand's urgency."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Global Commodity Price Volatility",
+          "description": "Disruptions in global fertiliser supply chains due to climate hazards or geopolitical events (e.g., export bans) can rapidly increase prices, affecting the profitability of agricultural producers and thus the affordability of food."
+        },
+        {
+          "driver": "Transport and Insurance Costs",
+          "description": "Increased transport and insurance costs, resulting from supply chain disruptions (e.g., rerouting due to international bottlenecks), translate to higher fertiliser prices and reduced margins for downstream users in agriculture."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Investing in diversified sourcing and supply routes for fertilisers to build resilience against short-term climate shocks and avoid single points of failure, potentially leading to more stable supply and pricing in the long run.",
+          "opportunity": "Diversification of Fertiliser Supply Chains"
+        }
+      ],
+      "methodology": "Discussion on climate risks to UK food security, including impacts on global supply chains for fertiliser inputs and affordability of food. The analysis focuses on how disruptions to fertiliser supply and pricing influence the broader food system and highlights mitigation strategies.",
+      "source_firm": "CCC",
+      "source_date": "2026-05-20",
+      "data_confidence": "medium",
+      "source_doc_id": "4230d641-1595-541b-b06a-7d45abcff347",
+      "source_title": "A Well-Adapted UK",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/a-well-adapted-uk"
+    }
+  ],
+  "sources": [
+    "Allianz UK",
+    "OEUK",
+    "McKinsey",
+    "BCG",
+    "CCC"
+  ],
+  "documents": [
+    {
+      "doc_id": "b53b8fdf-4ebc-50e8-99d9-42f82940e71a",
+      "title": "February 2026 UK Sector Snippets",
+      "publisher": "allianz_uk",
+      "date": "2026-03-05",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-february-2026.html"
+    },
+    {
+      "doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "title": "Economic Report 2026",
+      "publisher": "oeuk",
+      "date": "2026-09-08",
+      "url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "doc_id": "1e6d0852-8bac-52f8-9a89-00de25d7ce99",
+      "title": "A dual transformation agenda for Europe’s chemicals industry",
+      "publisher": "mckinsey",
+      "date": "2026-07-03",
+      "url": "https://www.mckinsey.com/industries/chemicals/our-insights/a-dual-transformation-agenda-for-europes-chemicals-industry"
+    },
+    {
+      "doc_id": "b6e9169b-f4f8-58ce-a91a-fe0ac155df72",
+      "title": "The AI-First Chemical Company",
+      "publisher": "bcg_global",
+      "date": "2026-04-02",
+      "url": "https://www.bcg.com/publications/2026/the-ai-first-chemical-company-advantage"
+    },
+    {
+      "doc_id": "4b2cf088-08a1-530b-8233-b39187da7b05",
+      "title": "Rewiring for growth in chemicals with advanced analytics and gen AI",
+      "publisher": "mckinsey",
+      "date": "2026-03-19",
+      "url": "https://www.mckinsey.com/industries/chemicals/our-insights/rewiring-for-growth-in-chemicals-with-advanced-analytics-and-gen-ai"
+    },
+    {
+      "doc_id": "4230d641-1595-541b-b06a-7d45abcff347",
+      "title": "A Well-Adapted UK",
+      "publisher": "ccc",
+      "date": "2026-05-20",
+      "url": "https://www.theccc.org.uk/publication/a-well-adapted-uk"
+    }
+  ]
+}

@@ -1,0 +1,700 @@
+{
+  "geography": "IN",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Soaring Memory Chip ASPs Drive Up ESDM Input Costs",
+      "description": "Demand for memory, especially DRAM and HBM, has surged due to AI, far outstripping supply. DRAM prices increased sixfold since early 2023, erasing 15 years of declines. This shortage, combined with limited substitutes, translates into significantly higher Average Selling Prices (ASPs) for critical electronic components. This directly impacts ESDM players by increasing their bill of materials costs, potentially compressing margins or necessitating price adjustments for assembled products. Supply shortages are expected to persist for 3-5 years.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "source_date": "2026-09-18"
+    },
+    {
+      "index": 2,
+      "title": "INR Depreciation and Volatile Energy Prices Strain ESDM Profitability",
+      "description": "The volatile US-Iran conflict has led to spikes in global crude prices and significant depreciation of the Indian Rupee (INR) against the USD. While India has diversified crude sources, it remains vulnerable to supply disruptions. This currency depreciation and high energy costs directly increase the cost of imported components and freight for ESDM manufacturers, threatening to compress profit margins across the manufacturing sector, including electronics, necessitating aggressive monetary interventions to stabilize the rupee.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-17",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf",
+      "source_date": "2026-07-17"
+    },
+    {
+      "index": 3,
+      "title": "India's ESDM Faces 'Scale Without Depth' Constraint",
+      "description": "India's EMS sector is currently heavily concentrated in mobile and consumer electronics assembly, reflecting a 'scale without depth' paradox. While production volume is high, the industry primarily operates in lower-value segments like PCBA and basic box-build, lacking deep integration and higher complexity capabilities (automotive, industrial, telecom infrastructure). This structural constraint stems from India's historical services focus and ecosystem immaturity, leading to high import content (60-90% of BOM) and limiting domestic value-add and margin retention.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": null,
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "09966666-4bad-5f95-a501-252e756a86f2",
+      "source_title": "India's Electronic Manufacturing Services (EMS) opportunity",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/indias-electronic-manufacturing-services-ems-opportunity.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 4,
+      "title": "Deep Dependence on Imported Electronic Components",
+      "description": "India's EMS industry faces a significant structural vulnerability: the absence of a deep, domestic component supply chain. Manufacturers remain highly dependent on long-haul import supply chains for nearly all critical components, including semiconductors, displays, PCBs, passives, camera modules, and battery cells. This reliance means that domestically assembled products carry a high embedded import content (60-90% of Bill of Materials), severely constraining value capture and margin retention within India and making the sector susceptible to forex risks, import duties, and supply volatility.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "09966666-4bad-5f95-a501-252e756a86f2",
+      "source_title": "India's Electronic Manufacturing Services (EMS) opportunity",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/indias-electronic-manufacturing-services-ems-opportunity.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 5,
+      "title": "Higher Working Capital and Reduced NPI Agility for ESDM",
+      "description": "India's heavy reliance on imported electronic components leads to longer import lead times (4–8 weeks from China/Taiwan), necessitating high inventory buffers. This significantly increases working capital requirements for EMS players compared to their China-based peers. Additionally, component qualification lead times prolong new product introduction (NPI) cycles in India. These factors collectively diminish cost competitiveness due to import duties, freight costs, and currency risks, making fast-refresh consumer categories challenging and favoring segments with longer validation cycles.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "09966666-4bad-5f95-a501-252e756a86f2",
+      "source_title": "India's Electronic Manufacturing Services (EMS) opportunity",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/indias-electronic-manufacturing-services-ems-opportunity.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 6,
+      "title": "Labor Productivity Gaps Hinder ESDM Competitiveness",
+      "description": "Despite a large labor pool, India's EMS industry faces significant labor productivity gaps compared to established hubs like China and Vietnam. These gaps are driven by lower automation density, limited exposure to complex manufacturing programs, and an uneven availability of skilled technicians required for precision operations. This partially offsets India’s labor cost advantage, particularly in high-precision and high-reliability applications, posing a challenge to competing effectively in higher-value segments where quality and yields are paramount and contributing to overall cost pressures.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "09966666-4bad-5f95-a501-252e756a86f2",
+      "source_title": "India's Electronic Manufacturing Services (EMS) opportunity",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/indias-electronic-manufacturing-services-ems-opportunity.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 7,
+      "title": "Logistics Reliability Challenges Impact ESDM Operations",
+      "description": "While India's logistics infrastructure has improved, EMS operations, especially high-frequency and precision manufacturing, are sensitive to last-mile logistics performance, customs clearance efficiency, and cross-border coordination. Compared to established Asian EMS hubs, India still experiences higher variability in turnaround times and cost predictability. This increases friction for time-critical programs and hinders the ability of the ESDM sector to support complex, just-in-time manufacturing processes at scale, affecting overall operational efficiency, supply chain responsiveness, and global competitiveness.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "09966666-4bad-5f95-a501-252e756a86f2",
+      "source_title": "India's Electronic Manufacturing Services (EMS) opportunity",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/indias-electronic-manufacturing-services-ems-opportunity.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 8,
+      "title": "Limited Quality Certifications Constrain ESDM Market Access",
+      "description": "EMS quality certification is a crucial market access gate, with segment-specific standards like IATF 16949 (automotive), AS9100D (aerospace/defense), and ISO 13485 (medical devices) requiring significant, multi-year investment (3-7 years). India's current depth across these certifications is thin compared to the opportunities, especially in high-value segments. This lack of advanced certification creates a competitive moat for established players and limits India's EMS sector from penetrating complex, regulated markets, underscoring the need for proactive investment in achieving these standards.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "09966666-4bad-5f95-a501-252e756a86f2",
+      "source_title": "India's Electronic Manufacturing Services (EMS) opportunity",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/indias-electronic-manufacturing-services-ems-opportunity.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 9,
+      "title": "National Security Imperative Drives Domestic ESDM for Compute Sovereignty",
+      "description": "India's national security architecture increasingly emphasizes \"Atmanirbharta\" (self-reliance), particularly concerning AI-driven decision systems. The critical risk of dependency on foreign AI models and infrastructure necessitates \"compute sovereignty\" through indigenization and diversification of supply chains. This strategic imperative drives demand for domestic ESDM, encouraging local manufacturing and design of electronic systems and components to reduce reliance on foreign hardware and ensure sovereign control and auditability for national security applications.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "faf6c802-cbf1-5043-a088-977d3e7229a4",
+      "source_title": "Atmanirbharta in national security: The inevitable reform for Viksit Bharat",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/blogs/2026/06/atmanirbharta-in-national-security-the-inevitable-reform-for-viksit-bharat.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 10,
+      "title": "Geopolitical Shifts & Resilience Drive Multi-Node Manufacturing",
+      "description": "The traditional China-centric global electronics supply chain is undergoing a structural transformation. Geopolitical risk re-pricing, the critical need for resilience (highlighted by the COVID-19 pandemic and semiconductor shortages), and regulatory pressures (e.g., US/EU Chips Acts, India's PLI schemes) are compelling global OEMs to pivot towards diversified, multi-node manufacturing networks. This shift makes EMS providers strategic partners for OEMs seeking geographic diversification, directly benefiting emerging hubs like India's ESDM sector.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "09966666-4bad-5f95-a501-252e756a86f2",
+      "source_title": "India's Electronic Manufacturing Services (EMS) opportunity",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/indias-electronic-manufacturing-services-ems-opportunity.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 11,
+      "title": "ESDM Sector Structural Shift Towards Design and Integration",
+      "description": "The EMS industry is structurally evolving, moving beyond basic PCB assembly with thin margins to design-integrated manufacturing that offers significantly higher margins and strategic positioning. Global EMS leaders have expanded into design support and product development. For India's ESDM, this necessitates a critical shift from predominantly high-volume, low-margin assembly towards complex, design-integrated services, requiring deeper engineering capabilities and sophisticated supply chain management to capture greater value.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "09966666-4bad-5f95-a501-252e756a86f2",
+      "source_title": "India's Electronic Manufacturing Services (EMS) opportunity",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/indias-electronic-manufacturing-services-ems-opportunity.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 12,
+      "title": "Global Tech Firms Invest in India's High-End ESDM R&D",
+      "description": "Global technology firms like LG Electronics and Samsung Electronics are investing in major R&D efforts in India, focusing on semiconductor design, system-on-chip (SoC), and AI-enabled technologies. This signifies India's transition from merely cost arbitrage to high-end capability in ESDM, supported by government schemes such as the Semicon India Programme. Additionally, Foxconn's significant investment in Tamil Nadu (Rs. 13,000 crore / USD 1.50 billion) and its collaboration with STMicroelectronics for a semiconductor plant further strengthen the domestic manufacturing ecosystem, fostering advanced capabilities for the ESDM sector.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "884bc072-d432-57d5-b48d-820d2ea2caa7",
+      "source_title": "ESDM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electronics-system-design-manufacturing-esdm",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 13,
+      "title": "IT Hardware PLI Scheme Drives Production and Investment",
+      "description": "The Production-Linked Incentive (PLI) scheme for IT Hardware, covering laptops, tablets, and servers, has generated significant production (Rs. 10,014 crore / USD 1.14 billion) and attracted investments (Rs. 522 crore / USD 59.3 million) as of December 2024, creating 3,879 jobs. This policy support actively encourages domestic manufacturing of IT hardware, which often involves contract electronics manufacturing and PCB assembly services provided by the ESDM sector, contributing to its growth and capacity expansion in India.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 14,
+      "title": "Surge in Data Center Spending and Server Demand",
+      "description": "Global IT expenditure is forecast to hit US$ 6.15 trillion in 2026, with server expenditure anticipated to surge by 36.9% year-on-year and overall data center spending projected to climb 31.7%, exceeding US$ 650 billion. India's IT spending is also expected to reach US$ 176.3 billion in 2026, largely driven by data center expansion and AI-enabled software investments. This significant increase in demand for enterprise IT hardware directly translates into a strong tailwind for the ESDM sector involved in contract manufacturing and assembly of servers and data center equipment.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 15,
+      "title": "Promotion of Electronics Manufacturing Clusters (EMCs)",
+      "description": "The Government of India is actively promoting the development of Electronics Manufacturing Clusters (EMCs) across the country. These clusters are designed to provide world-class infrastructure and facilities, attracting investments and consolidating manufacturing activities. The presence of EMCs, combined with India's strong design and R&D capabilities in automotive and industrial electronics, creates a supportive ecosystem for the ESDM sector, paving the way for sustained growth and helping the nation achieve its ambitious electronics production targets.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "884bc072-d432-57d5-b48d-820d2ea2caa7",
+      "source_title": "ESDM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electronics-system-design-manufacturing-esdm",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 16,
+      "title": "Technology Transitions (5G, IoT) Drive Electronics Adoption",
+      "description": "Technology transitions, particularly the widespread rollout of 5G networks and the proliferation of IoT (Internet of Things) devices, are driving accelerated adoption of electronics products. These advancements create a significant and sustained demand for new electronic systems, components, and integrated solutions, directly benefiting the ESDM sector. The need for new and more sophisticated hardware for these evolving technologies acts as a strong tailwind, stimulating manufacturing and design activities within the Indian ESDM ecosystem.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "884bc072-d432-57d5-b48d-820d2ea2caa7",
+      "source_title": "ESDM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electronics-system-design-manufacturing-esdm",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 17,
+      "title": "India's Dominance in Mobile Phone Manufacturing and Exports",
+      "description": "India has emerged as the world’s second-largest mobile phone manufacturer, with production soaring from US$ 2.94 billion in 2014–15 to US$ 63.03 billion in 2024–25. Exports have simultaneously surged to US$ 23.13 billion, making smartphones India’s single-largest export category. This leadership, further underscored by India becoming the top smartphone exporter to the United States, represents a massive tailwind for the ESDM sector, particularly for contract manufacturers involved in mobile phone assembly and related electronic systems.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "884bc072-d432-57d5-b48d-820d2ea2caa7",
+      "source_title": "ESDM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electronics-system-design-manufacturing-esdm",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 18,
+      "title": "100% FDI in ESDM via Automatic Route",
+      "description": "The Indian government allows 100% Foreign Direct Investment (FDI) in the ESDM sector through an automatic route, a policy designed to attract significant investments from Original Equipment Manufacturers (OEMs) and Integrated Device Manufacturers (IDMs). This open investment framework targets diverse areas, including mobile phone manufacturing, LED/LCD, wearable devices, solar cells, R&D in emerging tech (AR/VR, drones, robotics), semiconductor wafer fabrication, medical electronic devices, and automotive/power electronics. This policy is a strong tailwind, facilitating capital infusion and technology transfer into India's ESDM sector.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "884bc072-d432-57d5-b48d-820d2ea2caa7",
+      "source_title": "ESDM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electronics-system-design-manufacturing-esdm",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 19,
+      "title": "Comprehensive Government Schemes Boost Domestic Semiconductor & Component Manufacturing",
+      "description": "The Indian government's comprehensive support through schemes like the Electronics Component Manufacturing Scheme (ECMS) and India Semiconductor Mission (ISM) 2.0 are driving significant investment and production in the electronics ecosystem. ECMS targets Rs. 59,350 crore (USD 7.02 billion) investment for Rs. 4,56,500 crore (USD 54 billion) production in components across various segments. ISM 2.0 (Rs. 1,000 crore for FY27) develops domestic capabilities in semiconductor equipment, materials, and chip design/fab. These initiatives aim to drastically reduce import dependence and foster a vertically integrated, robust local supply chain for the ESDM sector.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "884bc072-d432-57d5-b48d-820d2ea2caa7",
+      "source_title": "ESDM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electronics-system-design-manufacturing-esdm",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 20,
+      "title": "Diversification into High-Complexity, High-Margin EMS Segments",
+      "description": "While consumer electronics provide scale for India's EMS industry, sustained margin upside lies in diversifying into low-volume, high-complexity applications such as automotive, industrial, medical, and defense electronics. These segments offer stronger margins, longer product lifecycles, and higher barriers to entry due to specialized requirements and certifications. Strategic prioritization of these segments, coupled with building the necessary ecosystem readiness and capability, is crucial for India's ESDM sector to enhance its long-term profitability and value capture beyond basic assembly.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "09966666-4bad-5f95-a501-252e756a86f2",
+      "source_title": "India's Electronic Manufacturing Services (EMS) opportunity",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/indias-electronic-manufacturing-services-ems-opportunity.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 21,
+      "title": "Syrma SGS Investment in PCB and CCL Manufacturing",
+      "description": "Syrma SGS Technology is investing Rs. 1,800 crore (US$ 210.1 million) to establish India’s largest PCB (Printed Circuit Board) and CCL (Copper Clad Laminate) facility in Naidupeta, Andhra Pradesh. This significant investment directly addresses a critical gap in India's electronics component supply chain, enhancing domestic production capabilities for fundamental building blocks of electronic systems. It provides a substantial upside driver for the ESDM sector by improving local sourcing options, reducing import reliance for PCBs, and strengthening the overall electronics manufacturing ecosystem in India.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "884bc072-d432-57d5-b48d-820d2ea2caa7",
+      "source_title": "ESDM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electronics-system-design-manufacturing-esdm",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 22,
+      "title": "Skill Development Initiatives for ESDM Workforce",
+      "description": "Several initiatives, including the India Electronics and Semiconductor Association (IESA), Electronics Sector Skills Council of India (ESSCI), and NIELIT Ajmer, are actively focused on skill development within the ESDM sector. These programs aim to build a world-class, future-ready workforce by bridging the gap between academia and industry, providing financial assistance for training, and aligning with the product lifecycle from design to manufacturing. This concerted effort to enhance skill capacities is a crucial upside driver, addressing labor productivity gaps and supporting India's ambition to move into higher-value, complex electronics manufacturing.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "884bc072-d432-57d5-b48d-820d2ea2caa7",
+      "source_title": "ESDM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electronics-system-design-manufacturing-esdm",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 23,
+      "title": "Record Import Bill Accelerates Localization & Domestic ESDM Investment",
+      "description": "India's electronics import bill surged to a record US$ 116.17 billion in FY2025–26, driven by semiconductors, electronic components, and finished equipment. This increasing import dependency presents a key risk to economic stability but simultaneously serves as a strong upside driver. It reinforces the urgent strategic imperative for government policies and industry investments aimed at component-level indigenization and strengthening the local ESDM ecosystem, providing a compelling business case for domestic manufacturing to reduce reliance on foreign imports.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "884bc072-d432-57d5-b48d-820d2ea2caa7",
+      "source_title": "ESDM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electronics-system-design-manufacturing-esdm",
+      "source_date": "2026-05-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "India's ESDM Poised for Growth Amidst Global Supply Chain Realignments",
+      "description": "KPMG identifies India as a potential alternative node in the global electronics supply chain, transforming geopolitical challenges into strategic opportunities. The shift from China-centric manufacturing towards resilience-focused, multi-node networks, driven by geopolitical risk, supply chain fragilities (like the 2021-22 semiconductor shortage), and regulatory incentives (e.g., India's PLI schemes), places EMS providers at the center. India's expanding manufacturing base and policy support are key enablers for capturing this opportunity.",
+      "stance": "positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-06-01",
+      "source_doc_id": "09966666-4bad-5f95-a501-252e756a86f2",
+      "source_title": "India's Electronic Manufacturing Services (EMS) opportunity",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/indias-electronic-manufacturing-services-ems-opportunity.html"
+    },
+    {
+      "index": 2,
+      "title": "India's ESDM Sector: Strategic Hub Driven by Policy, Demand, and Digitalization",
+      "description": "IBEF projects India as a global hub for Electronics System Design & Manufacturing, aiming for electronics goods to rank among its top 2-3 exports by 2026. This positive outlook is underpinned by strong policy support (NPE 2019, Make in India), robust domestic demand, increasing digitalization, and significant export opportunities in emerging markets. Coupled with a thriving startup ecosystem and R&D focus, these factors collectively position India's ESDM for sustained growth and global competitiveness, driving its emergence as a digitizing economy.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "source_doc_id": "884bc072-d432-57d5-b48d-820d2ea2caa7",
+      "source_title": "ESDM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electronics-system-design-manufacturing-esdm"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 640.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 6.5,
+      "forecast_cagr_period": "2025-2030s",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Expansion of connected devices",
+          "description": "Proliferation of smartphones, laptops, IoT-enabled industrial systems driving demand for electronics manufacturing capacity."
+        },
+        {
+          "driver": "Electrification and automation",
+          "description": "Increasing electrification in automotive, energy, and manufacturing significantly expands demand for electronic components and systems."
+        },
+        {
+          "driver": "Outsourcing by OEMs",
+          "description": "OEMs increasingly outsource manufacturing to EMS providers due to product complexity and accelerating production cycles, seeking flexibility and reduced capital investment."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated global EMS market size. Ranges from USD640-650 billion.",
+      "source_firm": "kpmg",
+      "source_date": "2026-06-01",
+      "data_confidence": "high",
+      "source_doc_id": "09966666-4bad-5f95-a501-252e756a86f2",
+      "source_title": "India's Electronic Manufacturing Services (EMS) opportunity",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/indias-electronic-manufacturing-services-ems-opportunity.html"
+    },
+    {
+      "index": 2,
+      "tam_value": 40.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 30.6,
+      "historical_cagr_period": "FY20-FY25",
+      "demand_drivers": [
+        {
+          "driver": "Domestic demand",
+          "description": "Growing internal consumption for electronics products fuels local manufacturing."
+        },
+        {
+          "driver": "Export growth",
+          "description": "Increased shipments of electronics products to international markets."
+        },
+        {
+          "driver": "Outsourcing by OEMs",
+          "description": "Original Equipment Manufacturers increasingly outsourcing production to EMS providers in India."
+        },
+        {
+          "driver": "PLI driven infrastructure expansion",
+          "description": "Government Production-Linked Incentive schemes have catalyzed rapid capacity build-out, particularly in mobile phones."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's domestic EMS market size. Ranges from USD40-45 billion.",
+      "source_firm": "kpmg",
+      "source_date": "2026-06-01",
+      "data_confidence": "high",
+      "source_doc_id": "09966666-4bad-5f95-a501-252e756a86f2",
+      "source_title": "India's Electronic Manufacturing Services (EMS) opportunity",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/indias-electronic-manufacturing-services-ems-opportunity.html"
+    },
+    {
+      "index": 3,
+      "tam_value": 150.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 25.0,
+      "forecast_cagr_period": "FY25-FY30",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Surging domestic demand",
+          "description": "Strong internal market for electronics products provides a robust base for manufacturing growth."
+        },
+        {
+          "driver": "Robust policy incentives",
+          "description": "Government Production-Linked Incentive (PLI) schemes and other policies drive investment and production."
+        },
+        {
+          "driver": "Global supply chain realignment",
+          "description": "The 'China+1' strategy and diversification efforts by global OEMs channel manufacturing to alternative hubs like India."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projection for India's EMS market size.",
+      "source_firm": "kpmg",
+      "source_date": "2026-06-01",
+      "data_confidence": "high",
+      "source_doc_id": "09966666-4bad-5f95-a501-252e756a86f2",
+      "source_title": "India's Electronic Manufacturing Services (EMS) opportunity",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/indias-electronic-manufacturing-services-ems-opportunity.html"
+    },
+    {
+      "index": 4,
+      "tam_value": 220.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 16.1,
+      "historical_cagr_period": "FY19-FY25",
+      "demand_drivers": [
+        {
+          "driver": "Strong demand",
+          "description": "Overall high consumer and industrial demand for electronic products."
+        },
+        {
+          "driver": "Supportive government policies",
+          "description": "Initiatives and incentives promoting domestic electronics manufacturing and design."
+        },
+        {
+          "driver": "Increased digitalization",
+          "description": "Growing adoption of digital technologies across various sectors, increasing demand for electronic systems."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated size of the Indian Electronics System Design & Manufacturing (ESDM) market, which includes electronic hardware products and components relating to IT, office automation, telecom, consumer electronics, aviation, aerospace, defence, solar photovoltaic, nano electronics and medical electronics, as well as design-related activities (product, chip, VLSI, board, embedded systems).",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "884bc072-d432-57d5-b48d-820d2ea2caa7",
+      "source_title": "ESDM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electronics-system-design-manufacturing-esdm"
+    },
+    {
+      "index": 5,
+      "tam_value": 100.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Economic value generated by the ESDM sector. Ranges from USD100-130 billion.",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "884bc072-d432-57d5-b48d-820d2ea2caa7",
+      "source_title": "ESDM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electronics-system-design-manufacturing-esdm"
+    },
+    {
+      "index": 6,
+      "tam_value": 22.61,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 6.78,
+      "forecast_cagr_period": "2026-2031",
+      "historical_cagr": 6.8,
+      "historical_cagr_period": "2025-2026",
+      "demand_drivers": [
+        {
+          "driver": "Digital transformation",
+          "description": "Increasing digitalization initiatives across industries drive demand for IT hardware."
+        },
+        {
+          "driver": "Growth in IT services",
+          "description": "Expansion of IT services necessitates underlying hardware infrastructure."
+        },
+        {
+          "driver": "Increased enterprise and consumer demand",
+          "description": "Rising demand for computing devices and enterprise IT equipment."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's IT Hardware market, including enterprise and potentially consumer hardware that ESDM firms might assemble.",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "data_confidence": "medium",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india"
+    },
+    {
+      "index": 7,
+      "tam_value": 300.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Robust policies",
+          "description": "Government initiatives and incentives promoting domestic electronics manufacturing."
+        },
+        {
+          "driver": "Skilled workforce",
+          "description": "Availability of trained personnel to support manufacturing operations."
+        },
+        {
+          "driver": "Strong design and R&D capabilities",
+          "description": "Expertise in areas like automotive and industrial electronics design."
+        },
+        {
+          "driver": "Promotion of Electronics Manufacturing Clusters (EMCs)",
+          "description": "Development of dedicated clusters to provide infrastructure and facilities."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Target for India's electronics production.",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "884bc072-d432-57d5-b48d-820d2ea2caa7",
+      "source_title": "ESDM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electronics-system-design-manufacturing-esdm"
+    },
+    {
+      "index": 8,
+      "tam_value": 113.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing domestic demand for handset manufacturing",
+          "description": "Increasing internal consumption and production of mobile phones."
+        },
+        {
+          "driver": "Government support policies",
+          "description": "Policies promoting local handset production capabilities."
+        },
+        {
+          "driver": "Increasing smartphone exports",
+          "description": "Strong growth in international shipments of Indian-manufactured smartphones."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated addressable market for Original Equipment Manufacturers (OEMs) in handset manufacturing. Ranges from USD113-124 billion.",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "884bc072-d432-57d5-b48d-820d2ea2caa7",
+      "source_title": "ESDM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electronics-system-design-manufacturing-esdm"
+    },
+    {
+      "index": 9,
+      "tam_value": 8.03,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Cumulative FDI equity inflow in the Electronics industry for the period April 2000-March 2026.",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "884bc072-d432-57d5-b48d-820d2ea2caa7",
+      "source_title": "ESDM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electronics-system-design-manufacturing-esdm"
+    }
+  ],
+  "sources": [
+    "kpmg",
+    "ibef"
+  ],
+  "documents": [
+    {
+      "doc_id": "09966666-4bad-5f95-a501-252e756a86f2",
+      "title": "India's Electronic Manufacturing Services (EMS) opportunity",
+      "publisher": "kpmg",
+      "date": "2026-06-01",
+      "url": "https://kpmg.com/in/en/insights/2026/06/indias-electronic-manufacturing-services-ems-opportunity.html"
+    },
+    {
+      "doc_id": "884bc072-d432-57d5-b48d-820d2ea2caa7",
+      "title": "ESDM Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/electronics-system-design-manufacturing-esdm"
+    },
+    {
+      "doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "publisher": "mckinsey",
+      "date": "2026-09-18",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story"
+    },
+    {
+      "doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "title": "CareEdge FORESIGHTS - July 2026",
+      "publisher": "careedge",
+      "date": "2026-07-17",
+      "url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf"
+    },
+    {
+      "doc_id": "faf6c802-cbf1-5043-a088-977d3e7229a4",
+      "title": "Atmanirbharta in national security: The inevitable reform for Viksit Bharat",
+      "publisher": "kpmg",
+      "date": "2026-06-01",
+      "url": "https://kpmg.com/in/en/blogs/2026/06/atmanirbharta-in-national-security-the-inevitable-reform-for-viksit-bharat.html"
+    },
+    {
+      "doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "title": "Information Technology And BPM Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/information-technology-india"
+    }
+  ]
+}

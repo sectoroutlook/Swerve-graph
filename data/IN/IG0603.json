@@ -1,0 +1,729 @@
+{
+  "geography": "IN",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Medtech industry shifting to software-driven value creation and differentiation",
+      "description": "The medtech industry is undergoing a fundamental structural shift, with software emerging as a critical driver for value creation, differentiation, and patient impact. This transition enables new recurring revenue models (e.g., premium analytics, subscription services), integrates devices into broader clinical workflows, and facilitates novel care models like remote monitoring and data-driven decision support, extending value beyond traditional point-of-care.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-15",
+      "source_doc_id": "5c46ff7d-e1ce-548c-8e8e-a4000bee367f",
+      "source_title": "The future of delivering software as a medical device",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device",
+      "source_date": "2026-07-15"
+    },
+    {
+      "index": 2,
+      "title": "Asia-Pacific medtech manufacturing matures, fosters complex device co-development",
+      "description": "The Asia-Pacific region's manufacturing and engineering base for medtech has significantly matured. This evolution transcends its historical role as merely an assembly partner, repositioning the region as a co-developer of complex medical devices. This shift indicates a higher level of innovation and sophistication in the regional supply chain, enabling more advanced product development and local manufacturing capabilities for medical devices.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-07",
+      "source_doc_id": "f71cf8ad-c7db-5beb-8eb2-2f2b45fa4efb",
+      "source_title": "Building Global Champions: The Asia-Pacific Region’s Next Medtech Wave",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/building-global-champions-asia-pacific-regions-next-medtech-wave",
+      "source_date": "2026-07-07"
+    },
+    {
+      "index": 3,
+      "title": "Asia-Pacific rises as global medtech R&D and patent innovation hub",
+      "description": "The Asia-Pacific region has significantly increased its contribution to global medtech innovation. Its share of global medical device clinical research grew from 29% in 2012 to 36% in 2022, with China, Japan, and India leading this growth. Furthermore, regional medtech companies secured over two-thirds of global patent filings in 2023. This trend signifies a foundational shift towards the Asia-Pacific becoming a prominent global hub for medical device research and intellectual property development.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-07",
+      "source_doc_id": "f71cf8ad-c7db-5beb-8eb2-2f2b45fa4efb",
+      "source_title": "Building Global Champions: The Asia-Pacific Region’s Next Medtech Wave",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/building-global-champions-asia-pacific-regions-next-medtech-wave",
+      "source_date": "2026-07-07"
+    },
+    {
+      "index": 4,
+      "title": "India's risk-based medical device classification shapes regulation",
+      "description": "India's Health Ministry has established a four-tiered risk classification system for medical devices and in vitro diagnostics (IVD): Class A (low risk), Class B (low moderate risk), Class C (moderate high risk), and Class D (high risk). This regulatory framework structures the approval process and compliance requirements for manufacturers. It ensures that devices are assessed based on their potential harm, influencing development pathways, market entry strategies, and overall quality standards within the medical device industry.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "f68fe105-b250-534e-9f52-22a64b4e2c60",
+      "source_title": "Medical Devices Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/medical-devices",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 5,
+      "title": "Fragmented Indian medtech market dominated by small manufacturers",
+      "description": "The Indian medical devices market is highly fragmented, comprising over 800 manufacturers. A significant majority, 65%, have an annual turnover below Rs. 10 crore (US$ 1.5 million), while another 25% fall within the Rs. 10-50 crore range. Only a small fraction (2%) achieve turnovers exceeding Rs. 500 crore (US$ 73 million). This structure indicates a market dominated by numerous small-scale players, which can impact economies of scale, R&D investment, and overall global competitiveness.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "f68fe105-b250-534e-9f52-22a64b4e2c60",
+      "source_title": "Medical Devices Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/medical-devices",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 6,
+      "title": "AI advancements boost medtech innovation, productivity and quality assurance",
+      "description": "Advances in Artificial Intelligence (AI) are significantly enhancing software development productivity and quality assurance in medtech, with 30-70% efficiency gains. AI-enabled insights improve medical device functionality (e.g., polyp detection) and optimize SaMD development by accelerating documentation, testing, traceability, and risk analysis. This integration ensures consistent and scalable application of quality and regulatory requirements, driving innovation while maintaining high standards.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-15",
+      "source_doc_id": "5c46ff7d-e1ce-548c-8e8e-a4000bee367f",
+      "source_title": "The future of delivering software as a medical device",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device",
+      "source_date": "2026-07-15"
+    },
+    {
+      "index": 7,
+      "title": "Government policies boost India's medical device manufacturing, exports, and innovation",
+      "description": "India's Production Linked Incentive (PLI) Scheme and the National Medical Devices Policy 2023 are accelerating investments, strengthening manufacturing, and boosting exports for the medical devices sector. The PLI scheme has commissioned 22 greenfield plants, driving a significant increase in domestic production. The policy provides a holistic framework through regulatory streamlining and investment support, leading to a rise in exports from US$ 2.9 billion in FY22 to US$ 4.1 billion in FY25, and aiming for US$ 50 billion market by 2030.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "f68fe105-b250-534e-9f52-22a64b4e2c60",
+      "source_title": "Medical Devices Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/medical-devices",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 8,
+      "title": "Favorable investment environment attracts capital to Indian healthcare and medtech",
+      "description": "India's healthcare sector benefits from a conducive investment environment, characterized by supportive FDI policies, including 100% FDI under the automatic route for medical devices, increased public healthcare allocations, and expanding infrastructure. This robust landscape is attracting substantial private equity (PE), venture capital (VC), and global investors, totaling US$ 4.28 billion in FDI for medical and surgical appliances (2000-2026). This translates to increased funding opportunities for medical device companies.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "75147d56-debd-5934-9b38-02089894a02d",
+      "source_title": "Healthcare Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/healthcare-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 9,
+      "title": "Domestic medtech production reduces import reliance, offers cost advantage",
+      "description": "India's domestic medical device production has significantly increased its market share from 10% to 30% of domestic requirements over the last five years. Notably, for advanced Class-C medical devices, India now manufactures 20% domestically at 10-40% cheaper costs. This growing self-reliance not only reduces the country's import dependency but also provides a substantial cost advantage, positioning Indian-made devices more competitively in both domestic and international markets, driving overall sector growth.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "f68fe105-b250-534e-9f52-22a64b4e2c60",
+      "source_title": "Medical Devices Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/medical-devices",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 10,
+      "title": "Ayushman Bharat scheme drives demand for advanced medical devices",
+      "description": "The expansion of the Ayushman Bharat: Pradhan Mantri Jan Arogya Yojana (PM-JAY) significantly boosts demand for medical devices in India. By providing Rs. 5 lakh (US$ 5,719) annual health coverage to 50 crore beneficiaries, the scheme expands access to both private and public hospitals. This increased insurance penetration directly translates into higher utilization of diagnostic imaging, monitoring, and surgical interventions, thereby generating substantial demand for advanced medical devices and equipment across hospital networks nationwide.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "f68fe105-b250-534e-9f52-22a64b4e2c60",
+      "source_title": "Medical Devices Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/medical-devices",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 11,
+      "title": "Point-of-care diagnostics expand access, reduce emergency room overcrowding",
+      "description": "The increasing adoption of point-of-care (POC) treatment, encompassing tests performed at or near the patient, is a significant tailwind for the medical devices sector. POC tests, such as blood glucose monitoring and rapid strep tests, provide quick results, enabling immediate action. This technology expands healthcare access, particularly in remote areas, speeds up patient treatment decisions, and helps alleviate emergency room overcrowding by shortening patient stays and improving efficiency in care delivery.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "75147d56-debd-5934-9b38-02089894a02d",
+      "source_title": "Healthcare Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/healthcare-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 12,
+      "title": "Access-led design fosters global success for medtech innovations",
+      "description": "The 'local-first, access-led pathway' is proving a successful strategy for medtech companies to achieve global expansion. By designing products specifically for resource-constrained local market conditions—such as high patient volumes, limited infrastructure, and cost sensitivity—companies create genuine differentiation. These simpler, more accessible, or lower-cost alternatives, like GE Healthcare India's portable ECG and ultrasound systems, can then be successfully exported and scaled into more mature healthcare markets worldwide, demonstrating global appeal.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-07",
+      "source_doc_id": "f71cf8ad-c7db-5beb-8eb2-2f2b45fa4efb",
+      "source_title": "Building Global Champions: The Asia-Pacific Region’s Next Medtech Wave",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/building-global-champions-asia-pacific-regions-next-medtech-wave",
+      "source_date": "2026-07-07"
+    },
+    {
+      "index": 13,
+      "title": "Cybersecurity risks escalate for connected, AI-enabled medtech devices",
+      "description": "The expansion of connected devices, digital ecosystems, and AI-enabled capabilities in medtech significantly increases cybersecurity vulnerabilities. Organizations must proactively integrate robust cybersecurity measures throughout the entire development life cycle to meet evolving regulatory expectations and safeguard patient safety and trust. Rapid AI-driven vulnerability discovery further shortens the window for identifying and remediating software risks, creating continuous pressure on manufacturers.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-15",
+      "source_doc_id": "5c46ff7d-e1ce-548c-8e8e-a4000bee367f",
+      "source_title": "The future of delivering software as a medical device",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device",
+      "source_date": "2026-07-15"
+    },
+    {
+      "index": 14,
+      "title": "Medtech talent gap hinders rapid, quality SaMD and hardware integration",
+      "description": "The medtech industry faces a significant capability gap in delivering Software as a Medical Device (SaMD) rapidly while maintaining regulatory-grade quality and seamless integration with hardware. This challenge is compounded by a structural inability to attract and retain digital, technology, and analytics talent. Medtech organizations are often perceived as less attractive employers compared to adjacent industries, limiting access to critical technical skills, particularly in application development.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-15",
+      "source_doc_id": "5c46ff7d-e1ce-548c-8e8e-a4000bee367f",
+      "source_title": "The future of delivering software as a medical device",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device",
+      "source_date": "2026-07-15"
+    },
+    {
+      "index": 15,
+      "title": "Medtech early-stage innovation hampered by capital concentration in later rounds",
+      "description": "Medtech innovation, particularly in its early and translational stages, is significantly underfunded due to capital concentration in later-stage rounds. Venture capital rounds exceeding USD $50 million dominate, while sub-USD $50 million rounds have declined to their lowest levels since 2021. Although private equity investment in Asia-Pacific medtech reached USD $2.3 billion in 2025, it primarily targeted large, scaled platforms rather than growth-stage companies. This funding gap impedes the development and commercialization of nascent medtech innovations.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-07",
+      "source_doc_id": "f71cf8ad-c7db-5beb-8eb2-2f2b45fa4efb",
+      "source_title": "Building Global Champions: The Asia-Pacific Region’s Next Medtech Wave",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/building-global-champions-asia-pacific-regions-next-medtech-wave",
+      "source_date": "2026-07-07"
+    },
+    {
+      "index": 16,
+      "title": "Asia-Pacific medtech faces scarcity of global regulatory and clinical talent",
+      "description": "Emerging medtech companies in the Asia-Pacific region struggle with a scarcity of professionals experienced in navigating global regulatory hurdles like FDA De Novo/PMA submissions and ISO standards (14155, 13485). This talent gap leads to significant development setbacks, measured in years, and complicates market entry. Smaller firms rely on specialist consultants, while larger ones build in-house teams, but both approaches demand early clarity on priority markets and specific clinical evidence requirements to build a competitive moat.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-07",
+      "source_doc_id": "f71cf8ad-c7db-5beb-8eb2-2f2b45fa4efb",
+      "source_title": "Building Global Champions: The Asia-Pacific Region’s Next Medtech Wave",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/building-global-champions-asia-pacific-regions-next-medtech-wave",
+      "source_date": "2026-07-07"
+    },
+    {
+      "index": 17,
+      "title": "Late IP strategies limit global competitiveness and valuation for medtechs",
+      "description": "Emerging medtech companies often delay global intellectual property (IP) filing strategies, which severely constrains their strategic options and global competitiveness. While this might suffice for 'me-better' devices competing on cost, it poses significant risks for genuinely novel products. Gaps in patent coverage in key markets like the US, EU, or Japan can compress company valuations and narrow exit opportunities during critical licensing, partnership, or acquisition negotiations, hindering global scaling and financial returns.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-07",
+      "source_doc_id": "f71cf8ad-c7db-5beb-8eb2-2f2b45fa4efb",
+      "source_title": "Building Global Champions: The Asia-Pacific Region’s Next Medtech Wave",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/building-global-champions-asia-pacific-regions-next-medtech-wave",
+      "source_date": "2026-07-07"
+    },
+    {
+      "index": 18,
+      "title": "Asia-Pacific medtech lacks global commercial and KOL infrastructure",
+      "description": "Emerging medtech companies from the Asia-Pacific region often lack the commercial foundations necessary for international expansion, including global market prioritization, effective entry models, robust channel infrastructure, and established Key Opinion Leader (KOL) networks. This deficiency is particularly acute for novel 'me-first' devices, which require extensive market development, physician training, reimbursement pathways, and clinical champions to gain global adoption. The absence of this infrastructure impedes successful penetration into competitive international markets.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-07",
+      "source_doc_id": "f71cf8ad-c7db-5beb-8eb2-2f2b45fa4efb",
+      "source_title": "Building Global Champions: The Asia-Pacific Region’s Next Medtech Wave",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/building-global-champions-asia-pacific-regions-next-medtech-wave",
+      "source_date": "2026-07-07"
+    },
+    {
+      "index": 19,
+      "title": "Reimbursement hurdles impede commercialization of novel medtech devices",
+      "description": "Despite regulatory approval, novel medical devices face significant reimbursement challenges, often taking years to secure coverage. For instance, only 44% of FDA-authorized devices between 2016-2019 achieved Medicare coverage, with a median wait of 5.7 years. This is compounded by evolving Health Technology Assessment (HTA) frameworks in the EU and Japan, which demand rigorous comparative effectiveness data, a requirement many Asia-Pacific clinical programs are currently unprepared to meet, thus hindering commercial success.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-07",
+      "source_doc_id": "f71cf8ad-c7db-5beb-8eb2-2f2b45fa4efb",
+      "source_title": "Building Global Champions: The Asia-Pacific Region’s Next Medtech Wave",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/building-global-champions-asia-pacific-regions-next-medtech-wave",
+      "source_date": "2026-07-07"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Software and AI are reshaping medtech value creation and product differentiation",
+      "description": "The medtech industry is undergoing a structural shift where software is becoming critical for differentiation, growth, and patient impact. It enables new recurring revenue models, embeds devices into clinical workflows, and unlocks care models like remote monitoring and data-driven decision support. Advances in AI further improve software productivity, creating an imperative for medtech organizations to harness these gains while upholding quality and regulatory compliance.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-07-15",
+      "source_doc_id": "5c46ff7d-e1ce-548c-8e8e-a4000bee367f",
+      "source_title": "The future of delivering software as a medical device",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device"
+    },
+    {
+      "index": 2,
+      "title": "Early adopters of software excellence will lead next-gen medtech innovation",
+      "description": "Medtech organizations that proactively adopt operating models enabling high-quality, rapid software delivery are best positioned for future leadership. This involves transitioning from compliance-first mindsets to integrating quality throughout development workflows without compromising regulatory rigor. Senior leadership support, clear communication, and equipping teams with agile practices and modern tools are crucial for successful change management. Early movers will define the next generation of medtech innovation.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-07-15",
+      "source_doc_id": "5c46ff7d-e1ce-548c-8e8e-a4000bee367f",
+      "source_title": "The future of delivering software as a medical device",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device"
+    },
+    {
+      "index": 3,
+      "title": "Asia-Pacific medtech transitions from innovation absorber to global exporter",
+      "description": "The Asia-Pacific medtech industry is undergoing a structural transformation, shifting from merely absorbing global innovations to actively creating, validating, and exporting its own novel, globally competitive products. Countries like China and India are moving beyond volume manufacturing, and South Korea is emerging in software-only medtech. This broadened capacity for innovation positions the region to become a leading medtech exporter, fueled by significant institutional capital and global regulatory approvals.",
+      "stance": "positive",
+      "source_firm": "Bain",
+      "source_date": "2026-07-07",
+      "source_doc_id": "f71cf8ad-c7db-5beb-8eb2-2f2b45fa4efb",
+      "source_title": "Building Global Champions: The Asia-Pacific Region’s Next Medtech Wave",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/building-global-champions-asia-pacific-regions-next-medtech-wave"
+    },
+    {
+      "index": 4,
+      "title": "Asia-Pacific medtech shifts from incremental to breakthrough innovation leadership",
+      "description": "The Asia-Pacific medtech industry is evolving beyond incremental innovation to a focus on breakthrough products. This shift is evidenced by China's accelerating approvals for innovative medical devices and fast-track pathways, Singapore's streamlined regulatory consultations, and South Korea's pioneering Digital Medical Products Act specifically for software-based devices. This strategic evolution signifies the region's increasing capacity to lead global medtech advancements, driving the creation of novel technologies.",
+      "stance": "positive",
+      "source_firm": "Bain",
+      "source_date": "2026-07-07",
+      "source_doc_id": "f71cf8ad-c7db-5beb-8eb2-2f2b45fa4efb",
+      "source_title": "Building Global Champions: The Asia-Pacific Region’s Next Medtech Wave",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/building-global-champions-asia-pacific-regions-next-medtech-wave"
+    },
+    {
+      "index": 5,
+      "title": "Western MNCs must shift to co-creation with Asia-Pacific medtechs for innovation",
+      "description": "To maintain competitiveness in the coming decade, Western multinational corporations (MNCs) in medtech need to fundamentally change their engagement model with Asia-Pacific companies. Instead of merely 'selling in,' they must transition to 'buying from' or co-creating with regional medtech firms. This shift is crucial for leveraging the Asia-Pacific's growing capacity as an innovation engine and a proving ground for new medical technologies, fostering mutual growth and strategic advantage.",
+      "stance": "positive",
+      "source_firm": "Bain",
+      "source_date": "2026-07-07",
+      "source_doc_id": "f71cf8ad-c7db-5beb-8eb2-2f2b45fa4efb",
+      "source_title": "Building Global Champions: The Asia-Pacific Region’s Next Medtech Wave",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/building-global-champions-asia-pacific-regions-next-medtech-wave"
+    },
+    {
+      "index": 6,
+      "title": "India's medical device industry eyes global market share surge by 2030",
+      "description": "India's medical device industry, currently valued at US$ 11-12 billion (FY24) and holding 1.6% of the global market, is projected for significant expansion to US$ 50 billion by 2030. Policy-makers anticipate its global market share to rise from 1.65% (2023-24) to 10-12% within 25 years. This growth is driven by the adoption of new-generation technologies like AI, predictive diagnostics, and personalized medicine, strengthening its global presence and fostering innovation.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "source_doc_id": "f68fe105-b250-534e-9f52-22a64b4e2c60",
+      "source_title": "Medical Devices Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/medical-devices"
+    },
+    {
+      "index": 7,
+      "title": "India positioned to become global medtech leader with strategic growth",
+      "description": "India is well-positioned to strengthen its MedTech industry and reduce import dependency, aiming to become a global leader in the sector. This outlook is based on strategic growth, continuous innovation, and sustained government support. Despite being the 4th largest Asian market, India has the potential to surpass its peers in scale, driven by initiatives like Medical Device Parks and the PRIP Scheme, which boost domestic manufacturing and global ambitions.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "source_doc_id": "f68fe105-b250-534e-9f52-22a64b4e2c60",
+      "source_title": "Medical Devices Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/medical-devices"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 94.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 6.9,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Aging populations",
+          "description": "Increasing number of elderly individuals requiring medical care."
+        },
+        {
+          "driver": "Expanding chronic disease burden",
+          "description": "Rising prevalence of chronic illnesses necessitating ongoing medical device usage."
+        },
+        {
+          "driver": "Severe shortage of healthcare workers",
+          "description": "Providers seeking medical devices and technologies to improve efficiency and do more with less manpower."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Asia-Pacific regional medical device market size, excluding in vitro diagnostics (IVD) and laboratory equipment. Represents 16% of the USD $583 billion global market.",
+      "source_firm": "Bain",
+      "source_date": "2026-07-07",
+      "data_confidence": "high",
+      "source_doc_id": "f71cf8ad-c7db-5beb-8eb2-2f2b45fa4efb",
+      "source_title": "Building Global Champions: The Asia-Pacific Region’s Next Medtech Wave",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/building-global-champions-asia-pacific-regions-next-medtech-wave"
+    },
+    {
+      "index": 2,
+      "tam_value": 132.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 6.9,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Aging populations",
+          "description": "Increasing number of elderly individuals requiring medical care."
+        },
+        {
+          "driver": "Expanding chronic disease burden",
+          "description": "Rising prevalence of chronic illnesses necessitating ongoing medical device usage."
+        },
+        {
+          "driver": "Severe shortage of healthcare workers",
+          "description": "Providers seeking medical devices and technologies to improve efficiency and do more with less manpower."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected Asia-Pacific regional medical device market demand, growing at a 6.9% CAGR from USD $94 billion in 2025, excluding in vitro diagnostics (IVD) and laboratory equipment.",
+      "source_firm": "Bain",
+      "source_date": "2026-07-07",
+      "data_confidence": "high",
+      "source_doc_id": "f71cf8ad-c7db-5beb-8eb2-2f2b45fa4efb",
+      "source_title": "Building Global Champions: The Asia-Pacific Region’s Next Medtech Wave",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/building-global-champions-asia-pacific-regions-next-medtech-wave"
+    },
+    {
+      "index": 3,
+      "tam_value": 4.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's total medical device exports for fiscal year 2025.",
+      "source_firm": "Bain",
+      "source_date": "2026-07-07",
+      "data_confidence": "high",
+      "source_doc_id": "f71cf8ad-c7db-5beb-8eb2-2f2b45fa4efb",
+      "source_title": "Building Global Champions: The Asia-Pacific Region’s Next Medtech Wave",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/building-global-champions-asia-pacific-regions-next-medtech-wave"
+    },
+    {
+      "index": 4,
+      "tam_value": 11.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Indian medical device industry valuation, stated to be between US$ 11-12 billion in FY24, accounting for approximately 1.6% of the global market.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "f68fe105-b250-534e-9f52-22a64b4e2c60",
+      "source_title": "Medical Devices Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/medical-devices"
+    },
+    {
+      "index": 5,
+      "tam_value": 15.2,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising healthcare demand",
+          "description": "Increasing need for medical interventions and treatments."
+        },
+        {
+          "driver": "Better insurance coverage",
+          "description": "Improved financial accessibility to healthcare services and devices."
+        },
+        {
+          "driver": "Improved infrastructure",
+          "description": "Expansion and modernization of healthcare facilities requiring medical equipment."
+        },
+        {
+          "driver": "Supportive government policies",
+          "description": "Government initiatives promoting the medical devices sector."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Indian medical devices market value in 2025, projected to reach US$ 50.1 billion by 2030.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "f68fe105-b250-534e-9f52-22a64b4e2c60",
+      "source_title": "Medical Devices Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/medical-devices"
+    },
+    {
+      "index": 6,
+      "tam_value": 3.18,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Sustained global demand",
+          "description": "Continuous international need for Indian medical devices."
+        },
+        {
+          "driver": "Strengthening manufacturing and export ecosystem",
+          "description": "Improved domestic production capabilities and export infrastructure."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's medical device exports for FY26 (April-December), equivalent to Rs. 28,106 crore, representing 79.3% of FY25's full-year exports.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "f68fe105-b250-534e-9f52-22a64b4e2c60",
+      "source_title": "Medical Devices Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/medical-devices"
+    },
+    {
+      "index": 7,
+      "tam_value": 4.28,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "100% FDI allowed in medical devices",
+          "description": "Government policy facilitating full foreign ownership in the sector."
+        },
+        {
+          "driver": "Attractive categories for FDI",
+          "description": "Equipment, instruments, consumables, and implants are drawing significant foreign investment."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total Foreign Direct Investment (FDI) inflow into India's medical and surgical appliances sector between April 2000 and March 2026. This represents cumulative investment, not market size, but is a key indicator of market attractiveness.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "f68fe105-b250-534e-9f52-22a64b4e2c60",
+      "source_title": "Medical Devices Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/medical-devices"
+    },
+    {
+      "index": 8,
+      "tam_value": 20.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "FTAs and regulatory reforms",
+          "description": "Trade agreements and streamlined regulations facilitating easier market access."
+        },
+        {
+          "driver": "High-value manufacturing",
+          "description": "Shift towards producing more complex and advanced medical devices."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "India's strengthening manufacturing capabilities and policy support open new avenues for international market penetration.",
+          "opportunity": "Global export opportunities"
+        }
+      ],
+      "methodology": "Projected medical technology industry exports from India by FY30, as estimated by the Confederation of Indian Industry (CII).",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "medium",
+      "source_doc_id": "f68fe105-b250-534e-9f52-22a64b4e2c60",
+      "source_title": "Medical Devices Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/medical-devices"
+    },
+    {
+      "index": 9,
+      "tam_value": 66.33,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2031,
+      "forecast_cagr": 12.8,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected global market size for remote patient monitoring by 2031, growing at a CAGR of 12.8%. Remote patient monitoring involves wearable medical hardware (IN060301).",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "medium",
+      "source_doc_id": "75147d56-debd-5934-9b38-02089894a02d",
+      "source_title": "Healthcare Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/healthcare-india"
+    },
+    {
+      "index": 10,
+      "tam_value": 1.43,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "PLI Scheme incentives",
+          "description": "Government financial incentives encouraging domestic production and reducing import reliance."
+        },
+        {
+          "driver": "Commissioned projects and devices",
+          "description": "22 projects commissioned and 55 devices under production boosting output."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total sales recorded by beneficiaries of India's Production Linked Incentive (PLI) Scheme for Medical Devices by September 2025. This reflects increased domestic manufacturing output.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "f68fe105-b250-534e-9f52-22a64b4e2c60",
+      "source_title": "Medical Devices Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/medical-devices"
+    },
+    {
+      "index": 11,
+      "tam_value": 1.6,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 40.6,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI-driven diagnostics",
+          "description": "Transformation of healthcare with faster, more accurate diagnoses and improved patient outcomes through AI-enabled devices."
+        },
+        {
+          "driver": "Bridging urban-rural divide",
+          "description": "AI solutions improving healthcare accessibility and quality in underserved areas."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s AI in healthcare market projected to reach this value by 2025, growing at a 40.6% CAGR. This market includes AI-driven diagnostics relevant to medical devices.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "f68fe105-b250-534e-9f52-22a64b4e2c60",
+      "source_title": "Medical Devices Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/medical-devices"
+    }
+  ],
+  "sources": [
+    "McKinsey",
+    "Bain",
+    "IBEF"
+  ],
+  "documents": [
+    {
+      "doc_id": "5c46ff7d-e1ce-548c-8e8e-a4000bee367f",
+      "title": "The future of delivering software as a medical device",
+      "publisher": "mckinsey",
+      "date": "2026-07-15",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device"
+    },
+    {
+      "doc_id": "f71cf8ad-c7db-5beb-8eb2-2f2b45fa4efb",
+      "title": "Building Global Champions: The Asia-Pacific Region’s Next Medtech Wave",
+      "publisher": "bain",
+      "date": "2026-07-07",
+      "url": "https://www.bain.com/insights/building-global-champions-asia-pacific-regions-next-medtech-wave"
+    },
+    {
+      "doc_id": "f68fe105-b250-534e-9f52-22a64b4e2c60",
+      "title": "Medical Devices Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/medical-devices"
+    },
+    {
+      "doc_id": "75147d56-debd-5934-9b38-02089894a02d",
+      "title": "Healthcare Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/healthcare-india"
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Telco AI scaling risks cost-creep without productivity gains",
+      "description": "The scaling up of AI in telecom operations carries a significant risk of simply adding token costs to already-heavy legacy operating expenses without proportional gains in productivity or customer experience. Telcos must navigate complex legacy systems, outsourced workforces, and vendor relationships while shifting the capex/opex balance, making effective cost management of AI a critical challenge to avoid dangerous financial strain.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "2b91867f-70ab-59e5-877c-d5dc2005a422",
+      "source_title": "AI in Telecom: The Opex Reckoning",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/ai-in-telecom-the-opex-reckoning",
+      "source_date": "2026-09-10",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "AI shifts traditional capex/opex balance for telecom operators",
+      "description": "AI is beginning to fundamentally alter the traditional balance between capital expenditures (capex) and operating expenditures (opex) for telecom operators. As software stacks evolve with intelligent agent layers, a new agentic operating model is emerging, where AI agent and token costs will account for a growing share of opex. This necessitates telcos to modernize while managing complex legacy operations, representing a significant structural shift in their financial and operational models.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "2b91867f-70ab-59e5-877c-d5dc2005a422",
+      "source_title": "AI in Telecom: The Opex Reckoning",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/ai-in-telecom-the-opex-reckoning",
+      "source_date": "2026-09-10",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "AI drives end-to-end network automation and incident resolution",
+      "description": "AI is enabling telecom operators to redesign workflows from end to end, moving beyond isolated task optimization to comprehensive process automation. Examples include AI-driven, closed-loop network operations that detect anomalies, diagnose causes, execute corrective actions, and validate outcomes autonomously. This shift towards autonomous network incident resolution represents a significant tailwind for the development and adoption of AI-integrated network equipment and management software, improving efficiency and reducing manual intervention.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "2b91867f-70ab-59e5-877c-d5dc2005a422",
+      "source_title": "AI in Telecom: The Opex Reckoning",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/ai-in-telecom-the-opex-reckoning",
+      "source_date": "2026-09-10",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Continued investment in 5G Standalone and fibre by telcos",
+      "description": "European telecom operators are expected to maintain high levels of investment in 2026, driven by the critical need to upgrade mobile networks to 5G Standalone (5G SA) and extend fibre connectivity to more customers. This sustained capital expenditure, with a projected median capex-to-sales ratio around 20%, represents a strong tailwind for manufacturers of telecom network equipment and providers of passive infrastructure.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-01-26",
+      "source_doc_id": "3003d789-48b7-56c3-975b-a1b793227d80",
+      "source_title": "European telecoms set to see modest growth in 2026",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-telecoms-set-to-see-modest-growth-in-2026",
+      "source_date": "2026-01-26",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Telco profitability struggles delay 5G leadership investments",
+      "description": "European telecom companies are struggling to grow profitability, which is delaying investments necessary to achieve technological leadership in 5G. This creates a headwind for advanced telecom network equipment manufacturers, as operators defer or reduce spending on cutting-edge 5G deployments. Consequently, Europe risks falling behind other regions like Asia and the USA in 5G capabilities, potentially impacting broader economic productivity.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-01-26",
+      "source_doc_id": "4cf248d5-051c-5842-9412-946b9ff2a816",
+      "source_title": "European mobile networks lose ground in the global 5G race",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-mobile-networks-lose-ground-in-global-5g-race",
+      "source_date": "2026-01-26",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Investment priority shifts from fibre to mobile 5G Standalone",
+      "description": "There is an expected shift in investment priorities for European telecom operators in 2026, moving from an emphasis on fibre rollouts to increased focus on 5G Standalone (5G SA) networks. This structural change means that while fibre investments may trail off in some areas, there will be a new surge in demand for equipment related to 5G SA capabilities, including new mobile sites and upgraded antennas, benefiting specific segments of telecom network equipment manufacturers.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-01-26",
+      "source_doc_id": "3003d789-48b7-56c3-975b-a1b793227d80",
+      "source_title": "European telecoms set to see modest growth in 2026",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-telecoms-set-to-see-modest-growth-in-2026",
+      "source_date": "2026-01-26",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Network automation and AI drive telco operational efficiency",
+      "description": "Telecom operators are increasingly leveraging network automation and artificial intelligence to cut operating costs, leading to improved EBITDA growth. Initiatives include copper switch-off, enhanced network automation, and more efficient customer service through AI. This focus on operational efficiency is a tailwind for telecom network equipment providers that offer solutions integrating AI and automation capabilities, as telcos seek to modernize their infrastructure and reduce manual intervention.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-01-26",
+      "source_doc_id": "3003d789-48b7-56c3-975b-a1b793227d80",
+      "source_title": "European telecoms set to see modest growth in 2026",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-telecoms-set-to-see-modest-growth-in-2026",
+      "source_date": "2026-01-26",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "5G Standalone adoption enables new enterprise and consumer services",
+      "description": "The increasing adoption of 5G Standalone (5G SA) in Europe is enabling the development of new service categories such as Enhanced Mobile Broadband (eMBB) for Fixed Wireless Access (FWA), Ultra-Reliable Low-Latency Communications (URLLC), and Massive Machine-Type Communications (mMTC/IoT). These capabilities open new revenue streams for telecom operators and drive demand for 5G SA compatible network equipment from manufacturers, particularly for applications in logistics, transportation, location services, high-resolution video, and AR/VR.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-01-26",
+      "source_doc_id": "4cf248d5-051c-5842-9412-946b9ff2a816",
+      "source_title": "European mobile networks lose ground in the global 5G race",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-mobile-networks-lose-ground-in-global-5g-race",
+      "source_date": "2026-01-26",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "title": "Regulatory constraints limit telco pricing and differentiation",
+      "description": "The European telecom sector faces significant headwinds from regulatory frameworks that limit operators' ability to differentiate products, set prices, and sell advertisements. These constraints suppress revenue growth and profitability for telcos, which in turn can restrict their capacity and willingness to invest in new network equipment and infrastructure, potentially impacting the order books of equipment manufacturers.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-26",
+      "source_doc_id": "3003d789-48b7-56c3-975b-a1b793227d80",
+      "source_title": "European telecoms set to see modest growth in 2026",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-telecoms-set-to-see-modest-growth-in-2026",
+      "source_date": "2026-01-26",
+      "country_focus": "EU"
+    },
+    {
+      "index": 10,
+      "title": "Competition hinders telco price increases for network improvements",
+      "description": "Despite increasing regulatory scrutiny on network reliability, intense competition in the telecom sector makes it difficult for operators to increase prices sufficiently to fund necessary improvements in speed and reliability. This creates a key risk for telecom equipment providers, as telcos' constrained revenue generation directly impacts their budgets for network upgrades and expansion, potentially leading to lower investment in new equipment.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-01-26",
+      "source_doc_id": "4cf248d5-051c-5842-9412-946b9ff2a816",
+      "source_title": "European mobile networks lose ground in the global 5G race",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-mobile-networks-lose-ground-in-global-5g-race",
+      "source_date": "2026-01-26",
+      "country_focus": "EU"
+    },
+    {
+      "index": 11,
+      "title": "Network overbuild and debt challenge Dutch fibre operators",
+      "description": "Dutch fibre operators face significant challenges due to network overbuild, where multiple companies deploy fibre in the same areas, and substantial debt burdens. This intense competition and financial pressure make it difficult to gain market share from incumbents and could be exacerbated by rising interest rates, potentially leading some operators to scale back rollout ambitions or seek wholesale agreements, creating a headwind for continued fibre network equipment demand in overbuilt regions.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2025-10-14",
+      "source_doc_id": "bb79f5dd-988e-51ad-915f-ca6c7ebd9090",
+      "source_title": "Fibre will not be the sole broadband technology in the Netherlands",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/fibre-will-not-be-the-sole-broadband-technology-in-the-netherlands",
+      "source_date": "2025-10-14",
+      "country_focus": "NL"
+    },
+    {
+      "index": 12,
+      "title": "Rising 5G subscriptions in Ireland drive network equipment demand",
+      "description": "Ireland is experiencing a rapid increase in 5G subscriptions, with a 26% year-on-year rise to 2.16 million subscribers by Q2 2025, and a projected 182% increase in penetration by 2029. This strong and accelerating adoption of 5G services creates a significant tailwind for telecom network equipment manufacturers, driving demand for new 5G radios, core network upgrades, and associated infrastructure to support expanding coverage and capacity requirements.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2025-09-26",
+      "source_doc_id": "739fae2c-8c19-59b0-aade-0fd1ca8571e3",
+      "source_title": "Bank of Ireland Sectors Team — Technology, Media and Telecoms (TMT) H1 2025 Insights / H2 2025 Outlook September 2025",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2025/09/TMT-Insights-and-Outlook-H2-2025.pdf",
+      "source_date": "2025-09-26",
+      "country_focus": "IE"
+    },
+    {
+      "index": 13,
+      "title": "Direct-to-device satellite services expand connectivity to underserved areas",
+      "description": "New direct-to-device satellite service networks, such as those planned by Vodafone/AST SpaceMobile across Europe and ground stations being set up by Starlink/Amazon in Ireland, are emerging to provide connectivity in areas lacking traditional mobile or fixed alternatives. This innovation represents an upside driver for the telecom equipment and infrastructure sector, creating demand for satellite ground station equipment and associated network integration services, particularly as operators seek to expand coverage in challenging geographies.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2025-09-26",
+      "source_doc_id": "739fae2c-8c19-59b0-aade-0fd1ca8571e3",
+      "source_title": "Bank of Ireland Sectors Team — Technology, Media and Telecoms (TMT) H1 2025 Insights / H2 2025 Outlook September 2025",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2025/09/TMT-Insights-and-Outlook-H2-2025.pdf",
+      "source_date": "2025-09-26",
+      "country_focus": "IE"
+    },
+    {
+      "index": 14,
+      "title": "AI and IoT integration drives new personalized telco services",
+      "description": "The rapid pace of Generative AI developments, coupled with 5G bandwidth and IoT, is enabling telecom operators in Ireland to reimagine core business models and deploy customer-centric, personalized services. This integration of AI and IoT into new and existing customer segments creates a significant tailwind for telecom network equipment manufacturers, as operators require advanced infrastructure to support these intelligent, data-driven services and capitalize on hyper-personalization opportunities.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2025-09-26",
+      "source_doc_id": "739fae2c-8c19-59b0-aade-0fd1ca8571e3",
+      "source_title": "Bank of Ireland Sectors Team — Technology, Media and Telecoms (TMT) H1 2025 Insights / H2 2025 Outlook September 2025",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2025/09/TMT-Insights-and-Outlook-H2-2025.pdf",
+      "source_date": "2025-09-26",
+      "country_focus": "IE"
+    },
+    {
+      "index": 15,
+      "title": "AI enhances telco operational efficiency and capex optimization",
+      "description": "Artificial intelligence is a significant tailwind for European telecom operators, offering dual benefits of reducing costs and enhancing revenue opportunities. AI is increasingly applied to network efficiency, predictive maintenance (e.g., predicting hardware failures), and smarter capital expenditure strategies (e.g., efficient network expansion planning). This drives demand for AI-integrated network equipment and software solutions, as telcos seek to improve their bottom lines and build more intelligent and sustainable networks.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2025-01-15",
+      "source_doc_id": "857167d4-5ece-56c0-a172-060503928def",
+      "source_title": "How AI could drive growth in European telecoms",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-ai-could-drive-growth-in-european-telecoms",
+      "source_date": "2025-01-15",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "AI adoption holds significant value but faces complex integration challenges for telcos",
+      "description": "Bain views AI as a highly valuable but difficult transition for the telecom industry due to complex legacy operations, outsourced workforces, and regulatory constraints. Scaling AI without increasing operating expenses and avoiding cost traps like bolting AI onto existing processes or mistaking demos for transformation is a major challenge. Strategic, end-to-end workflow redesign and dedicated AI budgeting are crucial to unlock the P&L upside and achieve autonomous network operations and enhanced customer solutions, preventing dangerous cost-creep scenarios.",
+      "stance": "cautious_positive",
+      "source_firm": "bain",
+      "source_date": "2026-09-10",
+      "source_doc_id": "2b91867f-70ab-59e5-877c-d5dc2005a422",
+      "source_title": "AI in Telecom: The Opex Reckoning",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/ai-in-telecom-the-opex-reckoning",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Ireland leads EU in AI adoption, but governance and skills remain key challenges",
+      "description": "Bank of Ireland indicates that AI adoption in Irish workplaces surpasses the EU average, with widespread active use across organization sizes and sectors. While this marks a shift from intention to execution, a significant challenge remains in AI governance and oversight, with less than half of organizations having a formal AI policy. Recruitment strategies are also evolving to prioritize AI-related capabilities, suggesting a rebalancing of roles rather than widespread job losses.",
+      "stance": "cautious_positive",
+      "source_firm": "Bank of Ireland",
+      "source_date": "2026-05-19",
+      "source_doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "source_title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 3,
+      "title": "Modest growth expected for European telecom operators despite ongoing investment needs",
+      "description": "ING Think projects a modest 2% revenue growth for the European telecom sector in 2026, driven by new services and price increases, with EBITDA growing slightly faster due to cost rationalisation efforts. However, this growth is accompanied by persistently high capital expenditure (around 20% of sales) needed for 5G Standalone upgrades and fibre expansion. The sector also faces competition from new satellite and fibre operators, and regulatory frameworks that limit pricing flexibility, tempering overall enthusiasm.",
+      "stance": "cautious_positive",
+      "source_firm": "ing_think",
+      "source_date": "2026-01-26",
+      "source_doc_id": "3003d789-48b7-56c3-975b-a1b793227d80",
+      "source_title": "European telecoms set to see modest growth in 2026",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-telecoms-set-to-see-modest-growth-in-2026",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Europe risks falling behind in global 5G race due to investment delays",
+      "description": "ING Think expresses a cautious-negative outlook on Europe's position in the global 5G race, noting that it risks falling behind Asia, the USA, and the Middle East in technological leadership. This lag is attributed to telecom companies' struggles with profitability, which leads to delayed investments in state-of-the-art networks. While 5G availability is improving across Europe, leading operators still lag in 5G speeds and the implementation of advanced 5G capabilities for productivity enhancements, hindering overall European productivity growth.",
+      "stance": "cautious_negative",
+      "source_firm": "ing_think",
+      "source_date": "2026-01-26",
+      "source_doc_id": "4cf248d5-051c-5842-9412-946b9ff2a816",
+      "source_title": "European mobile networks lose ground in the global 5G race",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-mobile-networks-lose-ground-in-global-5g-race",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Dutch broadband market competitive with fibre expansion facing overbuild and debt challenges",
+      "description": "ING Think highlights that fibre has become the dominant broadband technology in the Netherlands, with significant expansion by players like KPN, ODF, and Delta Fiber. However, the market remains intensely competitive, with network overbuild (where multiple operators deploy fibre in the same areas) posing challenges. Fibre operators, including ODF and Delta Fiber, are reportedly carrying substantial debt, raising concerns about their ability to manage rising interest costs and gain market share from incumbents like KPN and VodafoneZiggo.",
+      "stance": "cautious_positive",
+      "source_firm": "ing_think",
+      "source_date": "2025-10-14",
+      "source_doc_id": "bb79f5dd-988e-51ad-915f-ca6c7ebd9090",
+      "source_title": "Fibre will not be the sole broadband technology in the Netherlands",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/fibre-will-not-be-the-sole-broadband-technology-in-the-netherlands",
+      "country_focus": "NL"
+    },
+    {
+      "index": 6,
+      "title": "Ireland's connectivity strengthens with rising 5G and emerging satellite services",
+      "description": "Bank of Ireland notes robust advancements in Ireland's telecommunications infrastructure, with gigabit broadband available to 88% of premises and 5G subscriptions rapidly increasing by 26% year-on-year to 2.16 million by Q2 2025. This growth signifies strong demand for network equipment. Additionally, new direct-to-device satellite service networks from Vodafone/AST SpaceMobile and satellite base station applications from Starlink/Amazon are poised to address connectivity gaps in remote areas, introducing new opportunities and competitive dynamics in the market.",
+      "stance": "positive",
+      "source_firm": "Bank of Ireland",
+      "source_date": "2025-09-26",
+      "source_doc_id": "739fae2c-8c19-59b0-aade-0fd1ca8571e3",
+      "source_title": "Bank of Ireland Sectors Team — Technology, Media and Telecoms (TMT) H1 2025 Insights / H2 2025 Outlook September 2025",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2025/09/TMT-Insights-and-Outlook-H2-2025.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 7,
+      "title": "AI poised to drive European telecom growth through efficiency and new revenue",
+      "description": "ING Think is highly positive on the transformative potential of AI for European telecom operators, seeing it as a crucial driver for both cost reduction and revenue enhancement. AI applications are expanding beyond customer service to encompass network efficiency, predictive maintenance, and optimizing capital expenditure strategies. The ability of AI to analyze data for hyper-personalized services, anticipate hardware failures, and inform network expansion planning positions operators with clear AI strategies, like Deutsche Telekom and Swisscom, to lead the sector's evolution towards smarter networks and sustainable growth.",
+      "stance": "positive",
+      "source_firm": "ing_think",
+      "source_date": "2025-01-15",
+      "source_doc_id": "857167d4-5ece-56c0-a172-060503928def",
+      "source_title": "How AI could drive growth in European telecoms",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-ai-could-drive-growth-in-european-telecoms",
+      "country_focus": "EU"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "New Telecom Services",
+          "description": "The sale of new services (e.g., bigger bundles, higher speeds, low-latency gaming packages) contributes to revenue growth for telecom operators, fueling their capex for enabling equipment."
+        },
+        {
+          "driver": "5G Standalone and Fibre Rollout",
+          "description": "Continued investment in upgrading mobile networks to 5G Standalone and extending fibre to more customers is a critical driver for sustained, high capex from telecom operators."
+        },
+        {
+          "driver": "Network Automation and AI",
+          "description": "Telcos are implementing cost rationalisation efforts through network automation (e.g., copper switch-off) and more efficient customer service via AI, requiring new or upgraded equipment and software."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Operating Cost Reductions",
+          "description": "Automation, copper switch-off, and AI in customer service are expected to reduce operating costs for telecom operators, leading to EBITDA growth outpacing revenue growth by about 0.5%."
+        },
+        {
+          "driver": "Increased AI Investment Costs",
+          "description": "Higher costs stemming from investments in AI tools, reorganisation, and developing new 5G services can offset some operational savings, impacting profitability."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "The European telecom sector is forecast to achieve a 2% revenue growth, driven by new services and price increases. EBITDA growth is anticipated to be slightly higher due to cost rationalisation efforts including copper switch-off, network automation, and AI implementation in customer service. This indicates a stable financial environment for telecom operators, which supports continued, albeit prudent, investment in network equipment and infrastructure.",
+      "source_firm": "ing_think",
+      "source_date": "2026-01-26",
+      "data_confidence": "high",
+      "source_doc_id": "3003d789-48b7-56c3-975b-a1b793227d80",
+      "source_title": "European telecoms set to see modest growth in 2026",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-telecoms-set-to-see-modest-growth-in-2026",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Fibre Infrastructure Expansion",
+          "description": "The ongoing significant expansion of fibre infrastructure across the Netherlands by operators like KPN, ODF, and Delta Fiber drives demand for fibre network equipment and deployment services."
+        },
+        {
+          "driver": "Copper xDSL Network Decline",
+          "description": "The sharp decline in xDSL users due to fibre uptake necessitates investment in fibre to replace legacy copper networks."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "In the Netherlands, fibre connectivity has surpassed cable as the dominant broadband technology in Q1 2025. KPN passes 5.51 million homes (4.3 million connected, including Glaspoort JV) and aims to pass 80% of Dutch homes (approx. 6.7 million) by 2028. Open Dutch Fiber (ODF) passes over 1 million homes (targeting 1.5 million by YE25) and Delta Fiber passes 1.7 million homes. This data indicates the scale of fibre infrastructure deployment and future expansion targets.",
+      "source_firm": "ing_think",
+      "source_date": "2025-10-14",
+      "data_confidence": "high",
+      "source_doc_id": "bb79f5dd-988e-51ad-915f-ca6c7ebd9090",
+      "source_title": "Fibre will not be the sole broadband technology in the Netherlands",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/fibre-will-not-be-the-sole-broadband-technology-in-the-netherlands",
+      "country_focus": "NL"
+    },
+    {
+      "index": 3,
+      "tam_value": 2.16,
+      "tam_unit": "mn_units",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increasing 5G Subscriptions",
+          "description": "The rapid growth in 5G subscriptions (26% YoY increase to 2.16 million in Q2 2025) directly drives demand for 5G network equipment and infrastructure upgrades."
+        },
+        {
+          "driver": "Gigabit Broadband Availability",
+          "description": "High availability of gigabit broadband (88% of premises) and active FTTP services indicates significant prior investment in, and ongoing need for, high-capacity fibre and fixed-line network equipment."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total 5G subscriptions in Ireland reached 2.16 million by Q2 2025, representing a 26% year-on-year increase. Additionally, gigabit broadband is available at 88% of all premises, with 50% of Fibre-to-the-Premises (FTTP) connections having active service. The strong growth in 5G adoption and high broadband availability signify robust demand for telecom network equipment.",
+      "source_firm": "Bank of Ireland",
+      "source_date": "2025-09-26",
+      "data_confidence": "high",
+      "source_doc_id": "739fae2c-8c19-59b0-aade-0fd1ca8571e3",
+      "source_title": "Bank of Ireland Sectors Team — Technology, Media and Telecoms (TMT) H1 2025 Insights / H2 2025 Outlook September 2025",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2025/09/TMT-Insights-and-Outlook-H2-2025.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 4,
+      "tam_value": 50.0,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "5G and Fibre Rollouts",
+          "description": "Continued investments in 5G and fibre network deployments are major components of telecom operators' capex, directly driving demand for network equipment."
+        },
+        {
+          "driver": "AI-driven Capex Optimization",
+          "description": "The adoption of AI for predictive maintenance and efficient network expansion planning influences how and where capex is allocated, potentially leading to more strategic investment in specific equipment."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "AI systems analyzing real-time data to predict hardware failures before they occur can lead to more efficient equipment replacement and reduced downtime for telcos.",
+          "opportunity": "AI-enabled Predictive Maintenance"
+        },
+        {
+          "description": "Machine learning models analyzing traffic patterns, user behavior, and infrastructure performance can identify optimal areas for network investment, leading to smarter capex allocation.",
+          "opportunity": "AI for Network Expansion Planning"
+        }
+      ],
+      "methodology": "European telecom operators' capital expenditure (capex) was approximately EUR 50 billion in 2024. This figure represents the direct investment by telcos into network infrastructure, including 5G and fibre rollouts. AI is expected to play a crucial role in optimizing these expenditures through predictive maintenance and more efficient network expansion planning, impacting future capex levels.",
+      "source_firm": "ing_think",
+      "source_date": "2025-01-15",
+      "data_confidence": "high",
+      "source_doc_id": "857167d4-5ece-56c0-a172-060503928def",
+      "source_title": "How AI could drive growth in European telecoms",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-ai-could-drive-growth-in-european-telecoms",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "bain",
+    "Bank of Ireland",
+    "ing_think"
+  ],
+  "documents": [
+    {
+      "doc_id": "2b91867f-70ab-59e5-877c-d5dc2005a422",
+      "title": "AI in Telecom: The Opex Reckoning",
+      "publisher": "bain",
+      "date": "2026-09-10",
+      "url": "https://www.bain.com/insights/ai-in-telecom-the-opex-reckoning"
+    },
+    {
+      "doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "publisher": "bank_of_ireland",
+      "date": "2026-05-19",
+      "url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf"
+    },
+    {
+      "doc_id": "3003d789-48b7-56c3-975b-a1b793227d80",
+      "title": "European telecoms set to see modest growth in 2026",
+      "publisher": "ing_think",
+      "date": "2026-01-26",
+      "url": "https://think.ing.com/articles/european-telecoms-set-to-see-modest-growth-in-2026"
+    },
+    {
+      "doc_id": "4cf248d5-051c-5842-9412-946b9ff2a816",
+      "title": "European mobile networks lose ground in the global 5G race",
+      "publisher": "ing_think",
+      "date": "2026-01-26",
+      "url": "https://think.ing.com/articles/european-mobile-networks-lose-ground-in-global-5g-race"
+    },
+    {
+      "doc_id": "bb79f5dd-988e-51ad-915f-ca6c7ebd9090",
+      "title": "Fibre will not be the sole broadband technology in the Netherlands",
+      "publisher": "ing_think",
+      "date": "2025-10-14",
+      "url": "https://think.ing.com/articles/fibre-will-not-be-the-sole-broadband-technology-in-the-netherlands"
+    },
+    {
+      "doc_id": "739fae2c-8c19-59b0-aade-0fd1ca8571e3",
+      "title": "Bank of Ireland Sectors Team — Technology, Media and Telecoms (TMT) H1 2025 Insights / H2 2025 Outlook September 2025",
+      "publisher": "bank_of_ireland",
+      "date": "2025-09-26",
+      "url": "https://www.thinkbusiness.ie/app/uploads/2025/09/TMT-Insights-and-Outlook-H2-2025.pdf"
+    },
+    {
+      "doc_id": "857167d4-5ece-56c0-a172-060503928def",
+      "title": "How AI could drive growth in European telecoms",
+      "publisher": "ing_think",
+      "date": "2025-01-15",
+      "url": "https://think.ing.com/articles/how-ai-could-drive-growth-in-european-telecoms"
+    }
+  ]
+}

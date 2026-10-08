@@ -1,0 +1,180 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Geopolitical instability drives increased European coal-fired generation",
+      "description": "Ongoing geopolitical tensions and disruptions to natural gas supplies have compelled European countries to increase their coal-fired electricity generation. This is a direct measure to compensate for reduced gas imports, underscoring coal's critical role as a readily available fallback fuel to ensure energy security across the continent in volatile times.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
+      "source_date": "2026-09-17",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Delayed retirement of European coal plants for enhanced energy security",
+      "description": "Several European countries are actively reviewing or delaying the scheduled retirement of their existing coal power plants for an extended period. This strategic policy shift aims to maintain essential spare capacity, providing a crucial buffer against future energy supply shocks and reinforcing national energy resilience, thereby prolonging the operational life of coal infrastructure.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
+      "source_date": "2026-09-17",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Coal's economic advantage over expensive gas in power generation",
+      "description": "Coal-fired power generation gains a significant economic advantage over gas when natural gas prices are high, particularly above €45 per megawatt-hour, even after factoring in carbon costs. This price dynamic incentivizes the substitution of gas with coal, driving increased demand for consumable fuels to ensure cost-effective power generation across Europe.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-09",
+      "source_doc_id": "e89b8990-e430-54a5-8122-a27a4c9746fe",
+      "source_title": "How Europe can reduce reliance on imported gas and what it means for business…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-europe-can-reduce-reliance-on-imported-gas-and-what-it-means-for-business-leaders",
+      "source_date": "2026-04-09",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Rising EU ETS prices increase carbon costs for coal usage",
+      "description": "The EU Emissions Trading System (ETS) places a cap on total emissions. Increased coal demand, serving as a substitute for gas, directly boosts the demand for carbon allowances, leading to higher ETS prices. This raises the operational costs for coal power plants and can negatively affect the competitiveness of energy-intensive EU exports.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-09",
+      "source_doc_id": "e89b8990-e430-54a5-8122-a27a4c9746fe",
+      "source_title": "How Europe can reduce reliance on imported gas and what it means for business…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-europe-can-reduce-reliance-on-imported-gas-and-what-it-means-for-business-leaders",
+      "source_date": "2026-04-09",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Underutilized coal capacity enables rapid gas substitution buffer",
+      "description": "Historical economic factors made gas-fired plants more attractive, leading to substantial underutilization of Europe's existing coal-fired capacity. This readily available capacity, found in countries like Germany, Poland, and the Netherlands, can be quickly ramped up without new investment, providing an immediate and flexible buffer against disruptions in natural gas supply.",
+      "type": "cyclical_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-09",
+      "source_doc_id": "e89b8990-e430-54a5-8122-a27a4c9746fe",
+      "source_title": "How Europe can reduce reliance on imported gas and what it means for business…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-europe-can-reduce-reliance-on-imported-gas-and-what-it-means-for-business-leaders",
+      "source_date": "2026-04-09",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Increased coal-fired generation offsets European gas import losses",
+      "description": "In the first half of 2026, European countries marginally increased coal-fired electricity generation to compensate for shortfalls in natural gas imports. Furthermore, some nations are deliberately delaying or reviewing the retirement of existing coal plants for several years, retaining this spare capacity to enhance energy security. This reflects a strategic, albeit temporary, reliance on coal amidst geopolitical energy disruptions.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-17",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Coal offers immediate, temporary solution for Europe's gas supply disruptions",
+      "description": "Coal stands as the quickest alternative to replace natural gas in European power generation, leveraging existing, underutilised capacity without requiring new infrastructure investments. Countries like Germany, Poland, and the Netherlands maintain significant operational coal-fired capacity. This enables a rapid increase in coal generation to effectively reduce gas usage across the continent, particularly when gas prices exceed carbon costs, providing a crucial short-term buffer.",
+      "stance": "cautious_positive",
+      "source_firm": "ING Think",
+      "source_date": "2026-04-09",
+      "source_doc_id": "e89b8990-e430-54a5-8122-a27a4c9746fe",
+      "source_title": "How Europe can reduce reliance on imported gas and what it means for business…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-europe-can-reduce-reliance-on-imported-gas-and-what-it-means-for-business-leaders",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Increased carbon costs challenge businesses switching from gas to coal",
+      "description": "While coal can buffer against gas supply disruptions, businesses switching from gas face the risk of increased carbon costs under the EU Emissions Trading System (ETS). Higher coal usage elevates demand for carbon allowances, potentially driving up ETS prices. This impacts energy procurement costs and can reduce the competitiveness of EU exports, pushing investment strategies towards energy efficiency and electrification rather than short-term fuel substitutions.",
+      "stance": "cautious_negative",
+      "source_firm": "ING Think",
+      "source_date": "2026-04-09",
+      "source_doc_id": "e89b8990-e430-54a5-8122-a27a4c9746fe",
+      "source_title": "How Europe can reduce reliance on imported gas and what it means for business…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-europe-can-reduce-reliance-on-imported-gas-and-what-it-means-for-business-leaders",
+      "country_focus": "EU"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2022,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Natural Gas Supply Disruptions",
+          "description": "Geopolitical crises and volatility in gas markets force European countries to seek alternative power generation fuels, with coal serving as a readily available substitute due to existing capacity."
+        },
+        {
+          "driver": "Economic Competitiveness",
+          "description": "When natural gas prices (e.g., exceeding €45/MWh) make gas-fired power generation uneconomical compared to coal, coal demand increases as it becomes a more cost-effective fuel source."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "EU Emissions Trading System (ETS) Prices",
+          "description": "Increased coal usage boosts demand for carbon allowances under the ETS, which can lead to higher ETS prices. This directly increases the operating costs and reduces the profitability of coal-fired power plants."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Analysis of coal's share in Europe's power mix and its use as a substitute for natural gas, driven by energy security and economic factors.",
+      "source_firm": "ING Think",
+      "source_date": "2026-04-09",
+      "data_confidence": "medium",
+      "source_doc_id": "e89b8990-e430-54a5-8122-a27a4c9746fe",
+      "source_title": "How Europe can reduce reliance on imported gas and what it means for business…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-europe-can-reduce-reliance-on-imported-gas-and-what-it-means-for-business-leaders",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "McKinsey",
+    "ING Think"
+  ],
+  "documents": [
+    {
+      "doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "publisher": "mckinsey",
+      "date": "2026-09-17",
+      "url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis"
+    },
+    {
+      "doc_id": "e89b8990-e430-54a5-8122-a27a4c9746fe",
+      "title": "How Europe can reduce reliance on imported gas and what it means for business…",
+      "publisher": "ing_think",
+      "date": "2026-04-09",
+      "url": "https://think.ing.com/articles/how-europe-can-reduce-reliance-on-imported-gas-and-what-it-means-for-business-leaders"
+    }
+  ]
+}

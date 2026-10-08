@@ -1,0 +1,425 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Payment infrastructure fragments into regional multi-rail competitive arenas",
+      "description": "Global payment infrastructure is undergoing a structural shift, fragmenting into distinct regional, multi-rail competitive arenas rather than converging. This forces payment infrastructure providers to navigate complex environments with competing systems like zero-fee domestic real-time A2A networks, legacy card perimeters (relevant to the UK), and emerging wholesale stablecoin corridors for cross-border settlement. This requires significant strategic adaptation.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25"
+    },
+    {
+      "index": 2,
+      "title": "AI agents enable dynamic routing across payment rails",
+      "description": "The rise of agentic AI is a structural game-changer, allowing autonomous software agents to dynamically route transactions through optimal payment rails based on real-time cost, speed, and trust parameters. This capability profoundly pressures traditional payment mechanisms and highlights the increasing need for flexible, machine-accessible infrastructure that can be seamlessly integrated into evolving agentic commerce protocols, driving efficiency and competition.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25"
+    },
+    {
+      "index": 3,
+      "title": "Regulatory and competitive pressure from low-cost rails compresses monetization",
+      "description": "The payment infrastructure sector faces a significant headwind from increasing regulatory and competitive pressure from low-cost payment rails. This environment compresses monetization opportunities for existing infrastructure providers, especially as cash displacement plateaus. Providers must now prioritize operational discipline, pricing sophistication, and value-added services over volume growth, directly impacting revenue models for traditional payment systems.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25"
+    },
+    {
+      "index": 4,
+      "title": "Digital assets disintermediate traditional bank and card economics",
+      "description": "The emergence and scaling of digital assets like stablecoins and tokenized deposits represent a structural shift that could disintermediate traditional bank and card economics. These new payment infrastructures bypass conventional interchange fees and foreign-exchange (FX) conversion markups, and shift float income away from commercial bank deposits. This poses direct margin pressure on existing card networks and correspondent banking services, especially in cross-border corridors.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25"
+    },
+    {
+      "index": 5,
+      "title": "Accelerating shift to machine-to-machine micropayments optimizes for efficiency",
+      "description": "An accelerating trend toward machine-to-machine (M2M) transactions, particularly micropayments in B2B and developer-led flows, is a structural change for payment infrastructure. Machines optimize purely for speed, yield, and fee structure, driving demand for highly efficient, low-cost payment rails. This bypasses traditional human-centric payment processes, necessitating infrastructure capable of handling autonomous, high-volume, and granular transactions at unprecedented speeds.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25"
+    },
+    {
+      "index": 6,
+      "title": "Geopolitical fragmentation creates supervisory divergence for payment rails",
+      "description": "Geopolitical and regulatory fragmentation presents a key risk to the evolution of payment rails. National supervisory frameworks, driven by desires for monetary sovereignty, are leading to divergence rather than convergence of global payment standards. This fragmentation adds complexity for payment infrastructure innovation, particularly for cross-border transactions, raising questions about legal and financial responsibility when autonomous, cross-border payments encounter failures across jurisdictions, including for UK-based entities.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25"
+    },
+    {
+      "index": 7,
+      "title": "Robust fraud mitigation critical for advanced payment rails adoption",
+      "description": "The rise of adversarial AI poses a key risk to the adoption and security of advanced payment rails. Robust fraud mitigation is becoming the ultimate gatekeeper, as legacy human-centric screening methods are ineffective against software agents executing transactions in milliseconds. Payment infrastructure providers must develop real-time trust-scoring systems that evaluate machine identity and policy compliance within microseconds to ensure the integrity and widespread trust in new payment mechanisms.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25"
+    },
+    {
+      "index": 8,
+      "title": "UK PRA prioritizes innovation in regulated stablecoins and e-money",
+      "description": "The Bank of England’s Prudential Regulation Authority (PRA) has identified innovation in deposits, e-money, and regulated stablecoins as a supervisory priority in the UK. This structural change signifies increased regulatory attention and potential for new frameworks governing these emerging payment infrastructures. It suggests a commitment to fostering innovation while ensuring stability, which will shape the development and adoption trajectory of these payment mechanisms in the UK.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 9,
+      "title": "Agentic AI drives yield seeking, accelerating deposit migration to new instruments",
+      "description": "Agentic AI, coupled with the maturation of tokenised deposits and stablecoins, is driving a structural shift towards 'yield seeking' behavior. This will increasingly move idle retail and corporate balances into higher-yield products. Consequently, banks will need to adapt their strategies to compete for deposits that have historically remained in place due to inertia, as these new payment infrastructures facilitate more fluid and optimized money flows.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 10,
+      "title": "AI agents may default to lower-margin payment methods",
+      "description": "AI agents, driven by their inherent optimization for efficiency and cost, are likely to increasingly default to lower-margin payment methods, such as debit cards and account-to-account (A2A) payments. This trend presents a significant headwind for the profitability of higher-margin payment rails, particularly credit card networks, by eroding the revenue streams generated from interchange and other associated fees across card-heavy markets like the UK.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "1024db06-ba92-5764-8196-ef48a5eee57f",
+      "source_title": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/how-card-issuers-and-banks-can-avoid-being-shut-out-of-agentic-commerce",
+      "source_date": "2026-09-10"
+    },
+    {
+      "index": 11,
+      "title": "AI agents compress credit card economics via optimization",
+      "description": "The economic model of credit card networks faces significant compression as AI agents become more sophisticated. These agents will help consumers optimize card usage to maximize rewards and redemptions, potentially circumventing traditional fee structures and reducing overall spend on specific cards. This forces credit card infrastructure providers to fundamentally rethink their product designs and value capture mechanisms in a card-resilient market like the UK.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "1024db06-ba92-5764-8196-ef48a5eee57f",
+      "source_title": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/how-card-issuers-and-banks-can-avoid-being-shut-out-of-agentic-commerce",
+      "source_date": "2026-09-10"
+    },
+    {
+      "index": 12,
+      "title": "Payment methods must be AI-readable for optimal routing",
+      "description": "For payment methods to remain competitive in the era of agentic commerce, a structural change is required: their terms, benefits, and key information must be fully visible and enabled for AI processing. This necessitates that payment infrastructure providers offer AI-readable data, allowing agents to make optimal routing decisions early in the shopping journey, rather than just at checkout, thus influencing preferred-card placement and usage.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "1024db06-ba92-5764-8196-ef48a5eee57f",
+      "source_title": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/how-card-issuers-and-banks-can-avoid-being-shut-out-of-agentic-commerce",
+      "source_date": "2026-09-10"
+    },
+    {
+      "index": 13,
+      "title": "Cross-border payment execution becoming a commodity",
+      "description": "The global cross-border payments industry is experiencing a structural shift towards commoditization. Capabilities such as security, speed, and cost, once key differentiators for payment infrastructure providers, are rapidly becoming baseline expectations ('table stakes'). This trend, driven by the modernization of traditional rails and the emergence of new settlement networks, erodes infrastructure-based competitive advantages and pushes execution margins toward unsustainable levels.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future",
+      "source_date": "2026-08-26"
+    },
+    {
+      "index": 14,
+      "title": "Instant cross-border payments emerge as market standard",
+      "description": "A structural change is making instant and near-real-time cross-border payments the new market standard. This is propelled by specialist providers innovating the correspondent banking model, domestic real-time payment systems gaining cross-border connections (e.g., Buna, Project Nexus), Swift's new retail-payments scheme, and the emergence of digital-asset-based settlement models like stablecoins and tokenized deposits. This evolution reshapes global payment corridors.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future",
+      "source_date": "2026-08-26"
+    },
+    {
+      "index": 15,
+      "title": "Regulatory transparency accelerates cross-border payment commoditization",
+      "description": "Regulatory mandates, such as the EU’s Cross-Border Payments Regulation, have significantly increased pricing transparency in cross-border payments. This serves as a headwind, empowering customers to easily compare and switch providers, intensifying competition among payment infrastructure operators. This transparency makes it increasingly difficult to sustain hidden margins through opaque fee structures or foreign-exchange spreads, thereby accelerating the commoditization of payment execution services.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future",
+      "source_date": "2026-08-26"
+    },
+    {
+      "index": 16,
+      "title": "Increasing compliance complexity raises cross-border payment costs",
+      "description": "As cross-border payments evolve beyond traditional bank-to-bank networks into interconnected ecosystems involving banks, fintechs, and wallet networks, managing compliance obligations for AML, sanctions, and fraud monitoring becomes significantly more complex. This increased complexity translates into higher operational costs for payment infrastructure providers, creating a headwind that offsets potential gains from increased transaction volumes and pressures overall profitability.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future",
+      "source_date": "2026-08-26"
+    },
+    {
+      "index": 17,
+      "title": "Orchestration layer emerges as value shifts in payment infrastructure",
+      "description": "A structural change in the cross-border payments landscape sees value shifting to an 'orchestration layer.' These providers aggregate access to diverse payment mechanisms—including correspondent banking, domestic real-time systems, cards, digital wallets, and emerging digital assets—behind a single integration. This allows clients to rapidly expand global reach and optimize delivery across various payment endpoints, shifting competitive advantage from owning rails to intelligent routing capabilities.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future",
+      "source_date": "2026-08-26"
+    },
+    {
+      "index": 18,
+      "title": "Instant payment systems gain scale, displacing cash and expanding regions",
+      "description": "Instant payment systems, such as India's UPI and Brazil's Pix, represent a significant structural change. By offering zero fees, broad interoperability, and strong user experiences, these systems achieve massive public scale and rapidly displace cash as a primary retail payment method. Their successful models are expanding globally, including into the Middle East and Southeast Asia, driving a fundamental shift in payment infrastructure adoption and usage patterns worldwide.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-13",
+      "source_doc_id": "ad1492c7-0519-5ab6-9f81-8709dee59bb4",
+      "source_title": "How instant payments are transforming the financial landscape",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/how-instant-payments-are-transforming-the-financial-landscape",
+      "source_date": "2026-08-13"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Payments value shifts to invisible control layer of trust and dynamic routing",
+      "description": "As transaction clearing becomes increasingly commoditized and front-end checkouts dissolve into software, payments value is relocating. The new value pool lies in the invisible 'control layer' of the payment infrastructure, which includes back-end trust, machine identity, consent engines, and dynamic routing protocols. Organizations that can anchor this emerging control layer will be best equipped to capture value in the future payments landscape, impacting payment mechanism design.",
+      "stance": "positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    },
+    {
+      "index": 2,
+      "title": "Stablecoins seen as efficient wholesale settlement, not retail currency",
+      "description": "A majority of payment executives view stablecoins and tokenized commercial bank deposits primarily as highly efficient wholesale settlement tools for cross-border transactions, particularly in illiquid or currency-constrained B2B corridors. They are seen as operating alongside instant payment networks to replace slow correspondent interbank settlement, rather than serving as consumer-facing retail currencies. This clarifies their strategic role in payment infrastructure.",
+      "stance": "neutral",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    },
+    {
+      "index": 3,
+      "title": "UK card networks resilient despite A2A growth, supported by agents",
+      "description": "The United Kingdom, alongside North America and Western Europe, is identified as a 'card-resilient' market with mature credit and debit card infrastructure. Entrenched merchant acceptance, high-value consumer rewards, and built-in dispute resolution help preserve the card perimeter. Automated software agents operating in these markets are likely to route transactions through established card rails, leveraging their strong consumer protection and liability management features.",
+      "stance": "cautious_positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    },
+    {
+      "index": 4,
+      "title": "Credit and debit cards currently preferred for AI shopping journeys",
+      "description": "Based on a May 2026 US consumer survey, credit and debit cards are presently the preferred payment methods for the AI shopping journey. This indicates an initial advantage for established card networks as agentic commerce evolves, suggesting their infrastructure remains relevant. However, the preference is stated as 'for now,' implying that this could change as AI platforms and other payment methods adapt.",
+      "stance": "cautious_positive",
+      "source_firm": "bain",
+      "source_date": "2026-09-10",
+      "source_doc_id": "1024db06-ba92-5764-8196-ef48a5eee57f",
+      "source_title": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/how-card-issuers-and-banks-can-avoid-being-shut-out-of-agentic-commerce"
+    },
+    {
+      "index": 5,
+      "title": "UK regulatory focus on deposits, e-money, and stablecoins innovation",
+      "description": "The Bank of England’s Prudential Regulation Authority (PRA) has designated innovation in deposits, e-money, and regulated stablecoins as a supervisory priority within the United Kingdom. This proactive regulatory stance signals the growing importance of these emerging payment infrastructures and the need to develop robust frameworks. Such focus aims to ensure safe development and integration while managing associated risks for new payment mechanisms.",
+      "stance": "neutral",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking"
+    },
+    {
+      "index": 6,
+      "title": "Cross-border infrastructure advantages eroding amidst modernization and fintech",
+      "description": "Competitive advantages derived from payment infrastructure in the cross-border payments industry are steadily eroding. This is primarily due to the ongoing modernization of traditional payment rails, the proliferation of globally connected and licensed providers, and the emergence of new settlement networks. Capabilities like security, speed, and cost, once key differentiators, are increasingly becoming table stakes, exerting pressure on traditional cross-border payment corridors and their profit models.",
+      "stance": "cautious_negative",
+      "source_firm": "mckinsey",
+      "source_date": "2026-08-26",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future"
+    },
+    {
+      "index": 7,
+      "title": "Multirail orchestrators central for fragmented payment infrastructure",
+      "description": "In an increasingly fragmented payments ecosystem, the competitive advantage is shifting from owning specific payment rails to intelligently orchestrating across them. Multirail orchestrators, exemplified by providers like Thunes and Nium, add value by dynamically routing transactions across diverse mechanisms—including correspondent banking, instant payment systems, card networks, and digital assets. This optimization is based on factors such as cost, speed, liquidity, and regulatory requirements, offering a single integration layer for clients.",
+      "stance": "positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-08-26",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 10.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Payment Rail Substitution",
+          "description": "Agentic AI promotes switching from credit cards to other payment rails, reducing card network revenue."
+        },
+        {
+          "driver": "Automated Repayment Optimization",
+          "description": "AI optimizes credit card repayments, leading to reduced interest income and fee generation for issuers."
+        },
+        {
+          "driver": "Fee Avoidance",
+          "description": "AI agents help consumers avoid fees, directly impacting fee-based revenue streams for card networks."
+        },
+        {
+          "driver": "Real-Time Foreign Exchange Routing",
+          "description": "AI-driven FX routing minimizes costs, impacting FX-related revenues from cross-border card transactions."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Under a baseline adoption scenario, agentic AI could put approximately $10 billion of global consumer credit card revenues at risk by 2030. This figure is derived from the projected 2030 net interchange pool (gross interchange minus rewards) and considers mechanisms such as payment rail substitution, automated repayment optimization, fee avoidance, and real-time foreign-exchange routing. The risk percentage ranges from 30% to 75% for card-heavy markets.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-25",
+      "data_confidence": "medium",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    }
+  ],
+  "sources": [
+    "mckinsey",
+    "bain"
+  ],
+  "documents": [
+    {
+      "doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "publisher": "mckinsey",
+      "date": "2026-09-25",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    },
+    {
+      "doc_id": "1024db06-ba92-5764-8196-ef48a5eee57f",
+      "title": "How Card Issuers and Banks Can Avoid Being Shut Out of Agentic Commerce",
+      "publisher": "bain",
+      "date": "2026-09-10",
+      "url": "https://www.bain.com/insights/how-card-issuers-and-banks-can-avoid-being-shut-out-of-agentic-commerce"
+    },
+    {
+      "doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "title": "The decade to redefine UK banking",
+      "publisher": "mckinsey",
+      "date": "2026-09-16",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking"
+    },
+    {
+      "doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "title": "Cross-border payments: Out of the commodity trap, into the future",
+      "publisher": "mckinsey",
+      "date": "2026-08-26",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future"
+    },
+    {
+      "doc_id": "ad1492c7-0519-5ab6-9f81-8709dee59bb4",
+      "title": "How instant payments are transforming the financial landscape",
+      "publisher": "mckinsey",
+      "date": "2026-08-13",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/how-instant-payments-are-transforming-the-financial-landscape"
+    }
+  ]
+}

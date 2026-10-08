@@ -1,0 +1,349 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Strait of Hormuz disruption severely limits global LNG and oil transit",
+      "description": "The conflict in the Middle East has caused significant disruption in the Strait of Hormuz, a critical chokepoint through which 20% of global oil and gas supplies normally pass. Combined exports from Qatar and the UAE, which averaged 100 LNG cargoes monthly before the conflict, fell to just 33 cargoes, directly curtailing global LNG and oil transport flows and creating supply uncertainty for the UK's diversified import portfolio.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 2,
+      "title": "UKCS production decline threatens midstream asset utilisation and economics",
+      "description": "Declining domestic oil and gas production from the UK Continental Shelf (UKCS), exacerbated by current fiscal and regulatory regimes (e.g., ban on new licences, record-low exploration drilling), is a major headwind. This reduces throughput for pipelines, processing facilities, and terminals, making it harder for UK midstream companies like Kellas Midstream, Shell, and Ancala Midstream to maintain competitive operating costs and justify asset maintenance and investment.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 3,
+      "title": "Severe underinvestment in UK gas storage creates national scarcity",
+      "description": "The UK gas storage infrastructure has experienced severe underinvestment, leading to a significant scarcity of storage capacity compared to neighbouring European countries. This underinvestment reduces the UK's ability to absorb supply shocks, manage seasonal demand peaks, and maintain system flexibility, posing a direct threat to gas security of supply and increasing reliance on volatile international LNG markets.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 4,
+      "title": "Rising freight and fuel costs increase import expenses for UK",
+      "description": "Reports indicate continued higher freight and fuel costs, alongside longer delivery times for imports into the UK. This general increase in logistics expenses directly impacts the profitability and operational costs for companies involved in LNG shipping and other maritime transport aspects of the Oil & Gas Midstream sector, contributing to overall supply chain unpredictability for fuels.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "2708542c-828f-5523-a577-e61f06ad2916",
+      "source_title": "Agents' summary of business conditions - September 2026",
+      "source_publisher": "boe_agents",
+      "source_url": "https://www.bankofengland.co.uk/agents-summary/2026/september-2026",
+      "source_date": "2026-09-11"
+    },
+    {
+      "index": 5,
+      "title": "UK midstream infrastructure faces rationalisation from declining domestic volumes",
+      "description": "A significant risk for the UK's Oil & Gas Midstream sector is a self-fulfilling cycle where lower UKCS production volumes undermine the economic viability of critical infrastructure. This could accelerate rationalisation across the system, potentially leading to asset closures (like ExxonMobil's Fife Ethylene Plant) and further reducing the UK's system resilience and flexibility, increasing exposure to global market volatility.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 6,
+      "title": "Norwegian gas export routes may bypass UK infrastructure",
+      "description": "Future Norwegian piped imports into the UK cannot be taken for granted due to increasing competition from European markets for gas molecules. As UKCS production declines, uncertainty surrounding the future use of UK offshore infrastructure grows, potentially influencing Norwegian producers to favour alternative export routes directly to mainland Europe, thereby reducing throughput and demand for UK gas transmission infrastructure.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 7,
+      "title": "Global LNG procurement prioritises security of supply over cost",
+      "description": "The effective closure of the Strait of Hormuz has triggered a structural shift in global LNG procurement strategies, with buyers moving away from sole cost minimization to prioritize security of supply. This change will drive long-term decisions on sourcing, logistics, and investment in diversified LNG infrastructure globally, indirectly influencing the UK's approach to securing its LNG imports and associated midstream assets.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "8e80a468-b70d-5c32-a0ae-06a991df360f",
+      "source_title": "LNG buyers’ sentiment: Disruption and implications for procurement",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement",
+      "source_date": "2026-09-11"
+    },
+    {
+      "index": 8,
+      "title": "Geographic diversification of LNG supply becomes top buyer priority",
+      "description": "Following disruptions, geographic diversification of LNG supply has become a top priority for 93% of global LNG buyers, including those in Europe. This structural shift aims to mitigate supply chain disruption risk by increasing suppliers and expanding sourcing locations. This will likely lead to investments in new LNG export and import terminals and associated shipping routes globally, creating new trade corridors that the UK can leverage.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "8e80a468-b70d-5c32-a0ae-06a991df360f",
+      "source_title": "LNG buyers’ sentiment: Disruption and implications for procurement",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement",
+      "source_date": "2026-09-11"
+    },
+    {
+      "index": 9,
+      "title": "Investment in LNG resilience infrastructure (storage, shipping, FSRUs) grows",
+      "description": "Global LNG buyers are increasing investment in resilience measures, with 66% planning to do so. Key focus areas directly impacting midstream include storage infrastructure (30% of buyers), shipping (19%), floating storage and regasification units (FSRUs) (15%), and regasification facilities (13%). This trend represents a tailwind for companies operating or developing these types of LNG midstream assets, including in the UK and its supply partners.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "8e80a468-b70d-5c32-a0ae-06a991df360f",
+      "source_title": "LNG buyers’ sentiment: Disruption and implications for procurement",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement",
+      "source_date": "2026-09-11"
+    },
+    {
+      "index": 10,
+      "title": "Increased global focus on building bypass pipelines for energy security",
+      "description": "The Strait of Hormuz crisis highlights the strategic importance of energy security, prompting regions to consider building additional pipelines to circumvent chokepoints. New pipelines are identified as the cheapest option for offsetting disrupted flows. While this is a global response, it reinforces the value proposition for pipeline infrastructure and could inspire similar strategic infrastructure planning to enhance the UK's energy supply resilience.",
+      "type": "tailwind",
+      "impact_magnitude": "low",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 11,
+      "title": "UK fiscal reform can unlock significant upstream investment, boosting midstream throughput",
+      "description": "OEUK's analysis shows that a more competitive and predictable investment environment, particularly fiscal reform from 2027 and a pragmatic approach to licensing, could unlock 111 additional UKCS projects. This would extend the productive life of existing infrastructure, adding 1.1 billion boe over the next decade. Such increased domestic production would provide much-needed throughput for the UK's oil and gas midstream infrastructure, improving its economic viability.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 12,
+      "title": "UK's rising reliance on LNG imports from global markets, notably US",
+      "description": "Europe, including the UK, is increasingly reliant on LNG imports, which now account for about 45% of EU gas imports, up from 12% in 2025. This trend, driven by geopolitical events and diversification away from Russian pipeline gas, is a tailwind for LNG transport and regasification. Last year, UK LNG imports from the US rose by over a third, indicating a growing demand for LNG midstream services in the UK.",
+      "type": "cyclical_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "UK midstream assets are crucial for national energy resilience and flexible supply",
+      "description": "OEUK highlights that terminals and midstream assets are fundamental to the UK's energy resilience. They enable flexible supply, support system balancing during stress, and reduce vulnerability to international disruption. This perspective underscores the strategic importance of the Oil & Gas Midstream sector, suggesting a positive outlook for its continued role in the UK's evolving energy landscape, despite broader decarbonisation goals and declining domestic production.",
+      "stance": "positive",
+      "source_firm": "OEUK",
+      "source_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "index": 2,
+      "title": "Declining UKCS production imperils midstream infrastructure viability and resilience",
+      "description": "OEUK states that declining domestic oil and gas production from the UK Continental Shelf (UKCS) directly impacts the resilience of the UK's energy infrastructure. As production falls, infrastructure utilisation decreases, making assets progressively harder to maintain and justify economically. This creates a self-reinforcing cycle where lower volumes weaken midstream infrastructure economics, accelerating rationalisation and placing pressure on operators like Kellas Midstream, Shell, and Ancala Midstream.",
+      "stance": "cautious_negative",
+      "source_firm": "OEUK",
+      "source_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "index": 3,
+      "title": "Severe underinvestment leaves UK gas storage scarce, jeopardizing system resilience",
+      "description": "OEUK identifies severe underinvestment in UK gas storage, leading to significant scarcity compared to neighbouring countries. This lack of storage capacity is a critical vulnerability for the UK's gas system. A resilient system, according to OEUK, requires a balance of domestic supply, flexible import options (like LNG), and robust gas storage. The current deficit in storage is seen as a key area for improvement to enhance overall energy security.",
+      "stance": "cautious_negative",
+      "source_firm": "OEUK",
+      "source_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Policy decisions on domestic gas production",
+          "description": "Government policy regarding fiscal regimes and licensing for UKCS directly influences domestic gas supply, which in turn determines the reliance on LNG imports and thus demand for LNG transport and regasification."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Based on OEUK modelling, under a high import scenario, UK's reliance on LNG imports could reach 46% of total gas supply by 2035. Conversely, if domestic supply is prioritised, LNG reliance could fall to 6% in the same year. This illustrates the potential range of throughput for UK LNG regasification terminals and associated infrastructure based on policy choices.",
+      "source_firm": "OEUK",
+      "source_date": "2026-09-08",
+      "data_confidence": "medium",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "30% of global LNG buyers plan to invest in storage infrastructure to enhance resilience against supply disruptions.",
+          "opportunity": "Investment in storage infrastructure"
+        },
+        {
+          "description": "19% of global LNG buyers plan to invest in shipping to ensure flexibility and security of LNG transport.",
+          "opportunity": "Investment in LNG shipping capacity"
+        },
+        {
+          "description": "15% of global LNG buyers plan to invest in FSRUs, which provide flexible regasification and storage solutions.",
+          "opportunity": "Investment in Floating Storage and Regasification Units (FSRUs)"
+        },
+        {
+          "description": "13% of global LNG buyers plan to invest in regasification capabilities to manage increased LNG imports and supply diversification.",
+          "opportunity": "Investment in regasification facilities"
+        },
+        {
+          "description": "6% of global LNG buyers plan to invest in gas interconnectors to improve regional gas system flexibility and supply security.",
+          "opportunity": "Investment in interconnectors"
+        }
+      ],
+      "methodology": "McKinsey's LNG Buyers' Pulse Survey (April 2026, n=30) found that 66% of respondents globally are planning to increase investment in resilience measures. Specific measures include storage infrastructure (30% of respondents), shipping (19%), floating storage and regasification units (FSRUs) (15%), regasification (13%), and interconnectors (6%). This indicates a strong global investment trend in LNG midstream assets.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-11",
+      "data_confidence": "high",
+      "source_doc_id": "8e80a468-b70d-5c32-a0ae-06a991df360f",
+      "source_title": "LNG buyers’ sentiment: Disruption and implications for procurement",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Fiscal and regulatory reforms",
+          "description": "More competitive and predictable investment frameworks are needed to unlock 111 additional projects, attracting £50 billion in private capital investment and extending the productive life of existing infrastructure."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Maintaining higher production levels (around 400 million boe annually) well into the 2030s would increase utilisation for UK pipelines, processing facilities, and terminals, improving their economics.",
+          "opportunity": "Increased throughput for existing infrastructure"
+        }
+      ],
+      "methodology": "OEUK modelling based on operator data suggests that with fiscal regime reform from 2027, an additional 1.1 billion boe of production could be added to the UKCS over the next decade. This would maintain production levels around 400 million boe (>1 million boe per day) well into the 2030s, almost doubling the UKCS's output over the next 25 years compared to current trajectories.",
+      "source_firm": "OEUK",
+      "source_date": "2026-09-08",
+      "data_confidence": "medium",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    }
+  ],
+  "sources": [
+    "OEUK",
+    "McKinsey"
+  ],
+  "documents": [
+    {
+      "doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "title": "Economic Report 2026",
+      "publisher": "oeuk",
+      "date": "2026-09-08",
+      "url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "doc_id": "2708542c-828f-5523-a577-e61f06ad2916",
+      "title": "Agents' summary of business conditions - September 2026",
+      "publisher": "boe_agents",
+      "date": "2026-09-11",
+      "url": "https://www.bankofengland.co.uk/agents-summary/2026/september-2026"
+    },
+    {
+      "doc_id": "8e80a468-b70d-5c32-a0ae-06a991df360f",
+      "title": "LNG buyers’ sentiment: Disruption and implications for procurement",
+      "publisher": "mckinsey",
+      "date": "2026-09-11",
+      "url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement"
+    },
+    {
+      "doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "publisher": "mckinsey",
+      "date": "2026-09-17",
+      "url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis"
+    }
+  ]
+}

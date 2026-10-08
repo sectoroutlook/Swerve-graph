@@ -1,0 +1,811 @@
+{
+  "geography": "IN",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Rapid scaling of BESS tender pipeline signals strong market demand",
+      "description": "India's Battery Energy Storage System (BESS) tender pipeline has scaled rapidly, with project count rising by ~190% from 24 in 2023 to 69 in 2025. This indicates strong procurement momentum and a shift from pilot projects to broad-based adoption across standalone, RTC, FDRE, and solar-plus-storage tenders. This robust pipeline, anchored by the National Electricity Plan's storage targets, provides a clear demand signal for developers and investors in grid-scale energy storage.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects",
+      "source_date": "2026-08-07"
+    },
+    {
+      "index": 2,
+      "title": "BESS project execution challenges constrain operational capacity conversion",
+      "description": "Despite a rapidly growing BESS tender pipeline of ~111 GWh, less than 1% has translated into operational capacity. A significant ~30% has not progressed due to cancellations, delays, or lack of Power Purchase Agreements (PSAs), with ~70% remaining in RFP, awarded, or construction stages. This highlights that near-term BESS deployment is constrained by execution risks, including PSA closure, financing, and commissioning, posing a critical challenge to realizing India's storage ambitions and requiring focused interventions.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects",
+      "source_date": "2026-08-07"
+    },
+    {
+      "index": 3,
+      "title": "Declining battery costs improve BESS project economics and bankability",
+      "description": "Sharp correction in battery raw material prices, particularly lithium, has led to a ~35% decline in Li-ion pack prices, which are expected to stabilize at lower levels. Since the DC package is the largest cost component in BESS, this reduction significantly improves project economics and supports financial closure. This favorable cost environment acts as a deployment window, making BESS tariffs more viable and enhancing the overall bankability of energy storage projects, crucial for their conversion from award to execution.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects",
+      "source_date": "2026-08-07"
+    },
+    {
+      "index": 4,
+      "title": "Significant value-chain gaps hinder domestic BESS supply competitiveness",
+      "description": "While India's cell-to-pack manufacturing capacity for BESS is rapidly expanding, critical gaps persist across the upstream and midstream battery value chain. Acute shortages are observed in critical minerals, battery-grade refining, cathode/anode active materials, and electrolyte salts, which represent 60-70% of battery costs. Without targeted policy support for mineral security, processing infrastructure, technology partnerships, and duty rationalization, India risks building downstream assembly capacity while remaining dependent on imported inputs for strategically sensitive components, impacting long-term BESS competitiveness.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects",
+      "source_date": "2026-08-07"
+    },
+    {
+      "index": 5,
+      "title": "Evolving BESS regulatory frameworks foster market enablement and bankability",
+      "description": "India's BESS regulatory landscape has evolved from market enablement to bankability support. Central agencies established core frameworks through VGF, ISTS waivers, and procurement guidelines, clarifying storage as a recognized grid resource. More recently, state-level policies and regulations are driving implementation, focusing on improving project economics, regulated cost recovery, and localization. This shift from policy intent to execution-focused regulation provides a clearer, more consistent environment for developers and lenders, accelerating financial closure and commissioned BESS capacity.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects",
+      "source_date": "2026-08-07"
+    },
+    {
+      "index": 6,
+      "title": "Rebounding BESS tariffs highlight underpriced lifecycle costs and market competition",
+      "description": "Standalone BESS tariffs in India, after declining ~85% over three years due to falling battery costs and competition, have recently rebounded despite stable battery prices. This trend suggests that earlier bids likely underpriced lifecycle costs, including financing, degradation, augmentation, and execution risks, or were driven by aggressive competition. This re-assessment of sustainable pricing indicates a transition from initial tariff discovery towards a more bankable pricing phase, which may impact future bid competitiveness and the financial viability of BESS projects if not carefully managed.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects",
+      "source_date": "2026-08-07"
+    },
+    {
+      "index": 7,
+      "title": "Geopolitical conflicts threaten India's energy security and macroeconomic stability",
+      "description": "India's deep structural dependence on West Asian energy corridors, particularly for natural gas, exposes it to significant geopolitical risks. Sudden blockades or disruptions, as seen with the Strait of Hormuz, can immediately squeeze supply, threatening domestic inflation and compressing profit margins across industrial sectors. This vulnerability necessitates an aggressive rewriting of economic, energy, and monetary playbooks, including a focus on developing alternative domestic energy sources like coal gasification and nuclear power, to insulate India from persistent external shocks.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-17",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf",
+      "source_date": "2026-07-17"
+    },
+    {
+      "index": 8,
+      "title": "SHANTI Act liberalizes nuclear sector, opening to private and foreign participation",
+      "description": "The landmark SHANTI Act (December 2025) structurally transformed India's civil nuclear market by opening it to private and foreign participation at scale. This allows private entities to build, own, operate, and decommission nuclear plants while retaining state control over the fuel cycle. The Act also enabled foreign equity in India-incorporated nuclear joint ventures, providing global players a formal route for participation. This policy shift creates a once-in-a-generation opportunity for deeper engagement across technology, project development, financing, and lifecycle services.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-14",
+      "source_doc_id": "00900df2-fa72-56bf-83d6-196d2c7c2d9d",
+      "source_title": "How India’s nuclear ambition can power the next global clean energy push",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/how-indias-nuclear-ambition-can-power-the-next-global-clean-energy-push",
+      "source_date": "2026-07-14"
+    },
+    {
+      "index": 9,
+      "title": "Ambitious nuclear targets and budgetary push drive sector expansion",
+      "description": "India's Nuclear Energy Mission sets an ambitious target of 100 GW nuclear capacity by 2047, representing a tenfold scale-up from current levels, positioning it as a mainstream clean baseload energy pillar. This ambition is backed by a significant INR 20,000 crore national budgetary commitment for research and innovation in Small Modular Reactors (SMRs), Bharat Small Reactors (BSRs), and advanced reactor technologies, along with localization efforts. This coordinated push provides financial and institutional foundation for a future-ready nuclear ecosystem.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-14",
+      "source_doc_id": "00900df2-fa72-56bf-83d6-196d2c7c2d9d",
+      "source_title": "How India’s nuclear ambition can power the next global clean energy push",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/how-indias-nuclear-ambition-can-power-the-next-global-clean-energy-push",
+      "source_date": "2026-07-14"
+    },
+    {
+      "index": 10,
+      "title": "Favorable BSR economics and blended financing models de-risk nuclear investments",
+      "description": "India’s 220 MWe Bharat Small Reactor (BSR) offers an investable cost structure with CAPEX at approximately INR15 Cr/MW, significantly lower than other global designs. Coupled with stable O&M costs (INR50 lakh/MWe, 6% annual escalation) and predictable long-term cash flows from a 40-year life and ~70% Plant Load Factor, nuclear investments are materially de-risked. International players can leverage blended financing structures, combining sovereign, corporate, and institutional capital, to achieve bankable Weighted Average Cost of Capital (WACC), further enhancing the attractiveness of these infrastructure-grade opportunities.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-14",
+      "source_doc_id": "00900df2-fa72-56bf-83d6-196d2c7c2d9d",
+      "source_title": "How India’s nuclear ambition can power the next global clean energy push",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/how-indias-nuclear-ambition-can-power-the-next-global-clean-energy-push",
+      "source_date": "2026-07-14"
+    },
+    {
+      "index": 11,
+      "title": "Increasing investment in renewable energy drives capacity expansion and infrastructure",
+      "description": "India's renewable energy sector is attracting substantial investment, with the Union Budget 2026-27 significantly increasing MNRE allocation by 40.52% to US$ 5.05 billion. Beyond this, the sector is projected to attract over US$ 250 billion by 2030, with an additional US$ 150-170 billion for electricity transmission, distribution, and storage. Major players like NTPC and ReNew Energy are committing multi-billion dollar investments in solar, wind, and pumped hydro projects, accelerating India's progress towards its 500 GW renewable energy target by 2030.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 12,
+      "title": "Transmission infrastructure expansion hampered by execution challenges",
+      "description": "The Indian power transmission sector, despite a planned CAPEX outlay of Rs 9.16 lakh crore (US$ 109.50 billion) under NEP 2022-32, continues to miss its targets. Annual transmission line additions have been 42% below target in FY25, primarily due to recurring challenges in right-of-way acquisition, forest clearances, and land acquisition for substations. This slower pace, leading to time overruns for a majority of projects, poses a key risk to the timely integration of new renewable energy capacity and meeting future peak power demand, impacting grid stability.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-01",
+      "source_doc_id": "a19fe87f-f068-5126-b374-f5f5d421e3b3",
+      "source_title": "Indian Power Transmission Sector",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1775028048_Indian%20Power%20Transmission%20Sector.pdf",
+      "source_date": "2026-04-01"
+    },
+    {
+      "index": 13,
+      "title": "Digitalisation and AI enhance thermal power plant efficiency and flexibility",
+      "description": "Digitalisation and Artificial Intelligence are fundamentally reshaping thermal power plant (TPP) operations, moving towards 'Power Plant 4.0'. The integration of advanced analytics, automation, and tools like drones, predictive maintenance, and digital twins improves operational efficiency, enhances reliability, and enables flexible operations. These technologies facilitate real-time monitoring, early fault detection (e.g., boiler tube leakages), optimal combustion, and simulated performance at varying loads, which is crucial for TPPs to adapt to a grid increasingly dominated by renewable energy and maintain economic viability.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01",
+      "source_doc_id": "7b374a06-3d29-5860-bf99-a449bb98dd41",
+      "source_title": "Smarter operations: Improving efficiency in thermal power plants through digitalisation",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/blogs/2026/05/smarter-operations-improving-efficiency-in-thermal-power-plants-through-digitalisation.html",
+      "source_date": "2026-05-01"
+    },
+    {
+      "index": 14,
+      "title": "Growing demand for round-the-clock, low-carbon power spurs hybrid solutions",
+      "description": "India's energy transition prioritizes securing reliable, round-the-clock (RTC), low-carbon power at a national scale, driven by rapidly growing primary energy demand and decarbonization imperatives. This creates a significant upside for technologies that can complement intermittent renewables, such as nuclear energy, large hydro, pumped-storage hydro, and battery energy storage systems (BESS). The development of RTC supply mechanisms, bundling conventional and non-conventional sources, is essential to overcome natural limitations of solar and wind and ensure stable power grids, eliminating the need for DISCOMs to balance power.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-14",
+      "source_doc_id": "00900df2-fa72-56bf-83d6-196d2c7c2d9d",
+      "source_title": "How India’s nuclear ambition can power the next global clean energy push",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/how-indias-nuclear-ambition-can-power-the-next-global-clean-energy-push",
+      "source_date": "2026-07-14"
+    },
+    {
+      "index": 15,
+      "title": "Rooftop solar expansion accelerates distributed renewable energy adoption",
+      "description": "The Government of India is accelerating rooftop solar adoption under schemes like PM Surya Ghar Muft Bijli Yojana, targeting installations in one crore households by 2026-27. Over 33 lakh rooftop solar systems, with a cumulative capacity exceeding 12 GW, were installed by May 2026, demonstrating strong momentum towards energy self-reliance and distributed renewable energy. This rapid expansion not only contributes significantly to India's 500 GW renewable target but also empowers consumers and improves the financial viability of distribution companies by reducing grid load.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy",
+      "source_date": "2026-05-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "India's BESS growth transitioning from policy to bankable execution post-2026",
+      "description": "India's Battery Energy Storage Systems (BESS) landscape is moving from early experimentation and policy-led procurement to a phase of bankable execution post-2026. While policy frameworks and declining battery costs have accelerated tender issuance, actual deployment will hinge on project viability, supply readiness, and lifecycle economics. The current challenge is converting the rapidly expanding tender pipeline into operational assets, requiring stronger execution, financial closure, and commissioning capabilities to meet projected demand.",
+      "stance": "cautious_positive",
+      "source_firm": "EY-Parthenon",
+      "source_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects"
+    },
+    {
+      "index": 2,
+      "title": "India must diversify energy mix to mitigate geopolitical supply chain risks",
+      "description": "India faces acute economic vulnerability due to its structural dependence on West Asian energy corridors, particularly natural gas supply chains, which are susceptible to geopolitical conflicts. To enhance macroeconomic stability and energy security, India must aggressively diversify its energy mix. This includes focusing on alternative domestic sources like syngas from coal gasification and nuclear energy, which account for significant energy shares in other major economies, to reduce reliance on imported oil and gas.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-07-17",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf"
+    },
+    {
+      "index": 3,
+      "title": "Nuclear energy poised for significant growth as a strategic baseload pillar",
+      "description": "India's nuclear energy sector is re-emerging as a strategic pillar, moving from a marginal contributor to a core component of the energy mix. This is driven by its ability to provide firm, low-carbon baseload power, essential for national energy security, industrial growth, and grid stability amidst rising demand and decarbonization goals. Policy reforms like the SHANTI Act opening the sector to private and foreign participation, coupled with a 100 GW target by 2047 and substantial budgetary commitments, signal a transformative opportunity for global collaboration.",
+      "stance": "positive",
+      "source_firm": "EY-Parthenon",
+      "source_date": "2026-07-14",
+      "source_doc_id": "00900df2-fa72-56bf-83d6-196d2c7c2d9d",
+      "source_title": "How India’s nuclear ambition can power the next global clean energy push",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/how-indias-nuclear-ambition-can-power-the-next-global-clean-energy-push"
+    },
+    {
+      "index": 4,
+      "title": "Indian power transmission sector faces execution risks despite substantial growth potential",
+      "description": "The Indian power transmission sector has substantial opportunity with a CAPEX outlay of ~Rs 4.86 lakh crore from FY26-FY32, driven by rising peak power demand and renewable energy additions. However, execution risks remain elevated during the construction phase due to persistent challenges in right-of-way acquisition, forest clearances, land acquisition for substations, and coordination delays, leading to time overruns. While policy interventions are expected to mitigate these risks, achieving ambitious targets will require overcoming resource scaling constraints, despite the inherent resilience and stable cash flow profile of operational assets.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-01",
+      "source_doc_id": "a19fe87f-f068-5126-b374-f5f5d421e3b3",
+      "source_title": "Indian Power Transmission Sector",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1775028048_Indian%20Power%20Transmission%20Sector.pdf"
+    },
+    {
+      "index": 5,
+      "title": "Digitalisation is critical for improving efficiency and flexibility in thermal power plants",
+      "description": "Digitalisation and AI are rapidly reshaping the power sector, offering critical levers for improving operational efficiency, enhancing reliability, and enabling flexible operations in thermal power plants (TPPs). The concept of 'Power Plant 4.0' integrates digital technologies for real-time monitoring, predictive maintenance, and optimisation, addressing environmental and economic outcomes. Tools like drones, predictive analytics, machine learning, and digital twins are crucial for early fault detection, optimised resource management, and simulated operational flexibility, especially as grids become more dominated by renewable energy.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "source_doc_id": "7b374a06-3d29-5860-bf99-a449bb98dd41",
+      "source_title": "Smarter operations: Improving efficiency in thermal power plants through digitalisation",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/blogs/2026/05/smarter-operations-improving-efficiency-in-thermal-power-plants-through-digitalisation.html"
+    },
+    {
+      "index": 6,
+      "title": "India's renewable energy sector shows immense growth potential towards ambitious targets",
+      "description": "India's renewable energy sector is on a strong growth trajectory, surpassing climate targets and demonstrating immense potential, particularly in solar and wind power. With an ambitious target of 500 GW of renewable energy capacity by 2030 and a net-zero goal by 2070, significant government support, increased budgetary allocations (e.g., MNRE budget up 40.52% for 2026-27), and substantial investment plans are driving capacity expansion across all segments. The rapid growth in installed capacity and generation, coupled with policy incentives, reinforces a positive outlook for the sector.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2032,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Grid-scale procurement",
+          "description": "Integration with renewable energy, grid reliability, and ancillary services, enabled by VGF-backed tenders, ISTS waivers, and formal procurement frameworks."
+        },
+        {
+          "driver": "Distributed end-use applications",
+          "description": "Behind-the-meter adoption across C&I users, data centers, telecom, UPS, and rooftop solar, expanding from backup to power quality, cost optimization, and resilience."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Requirement identified by CEA’s National Electricity Plan (NEP) for energy storage systems.",
+      "source_firm": "EY-Parthenon",
+      "source_date": "2026-08-07",
+      "data_confidence": "high",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2032,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Accelerating FTM tenders",
+          "description": "Anchored in the NEP target of 236 GWh by FY2032 and reflected in scaling standalone, RTC, FDRE, and solar-plus-storage tenders."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected cumulative Front-of-the-Meter (FTM) BESS installation under an optimistic trajectory, broadly aligning with NEP target.",
+      "source_firm": "EY-Parthenon",
+      "source_date": "2026-08-07",
+      "data_confidence": "medium",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 130.0,
+      "forecast_cagr_period": "2023-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Domestic BESS deployment",
+          "description": "Growing demand for both Front-of-the-Meter (FTM) and Behind-the-Meter (BTM) BESS applications, supported by policy and falling battery costs."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's announced cell-to-pack manufacturing capacity for stationary Battery Energy Storage Systems (BESS).",
+      "source_firm": "EY-Parthenon",
+      "source_date": "2026-08-07",
+      "data_confidence": "medium",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects"
+    },
+    {
+      "index": 4,
+      "tam_value": 214.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2047,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "National nuclear target",
+          "description": "India's ambition to scale nuclear capacity to 100 GW by 2047 from the current 8.9 GW, signaling a tenfold scale-up."
+        },
+        {
+          "driver": "Policy reforms",
+          "description": "The SHANTI Act opened the civil nuclear market to private and foreign participation, enabling new models for project development and financing."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Market valuation for India's nuclear sector based on the 100 GW target by 2047.",
+      "source_firm": "EY-Parthenon",
+      "source_date": "2026-07-14",
+      "data_confidence": "high",
+      "source_doc_id": "00900df2-fa72-56bf-83d6-196d2c7c2d9d",
+      "source_title": "How India’s nuclear ambition can power the next global clean energy push",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/how-indias-nuclear-ambition-can-power-the-next-global-clean-energy-push"
+    },
+    {
+      "index": 5,
+      "tam_value": 15.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "India's nuclear expansion",
+          "description": "The national ambition to scale nuclear capacity, with BSRs providing a cost-effective solution."
+        },
+        {
+          "driver": "Competitive CAPEX",
+          "description": "BSRs offer some of the lowest CAPEX compared to other global designs (US$1.6M/MW vs France EPR: US$8M/MW; USA Vogtle: US$15M/MW)."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "CAPEX breakdown",
+          "description": "Approximately 35% for civil works, 20% for nuclear island, 20% for turbine island, highlighting white-space opportunities in EPC and the nuclear value chain."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Significant underpenetrated segments exist across the capital expenditure components of BSRs, particularly in civil works, nuclear island, and turbine island.",
+          "opportunity": "EPC and nuclear value chain opportunities"
+        }
+      ],
+      "methodology": "Estimated CAPEX per MWe for India's 220 MWe Bharat Small Reactor (BSR).",
+      "source_firm": "EY-Parthenon",
+      "source_date": "2026-07-14",
+      "data_confidence": "high",
+      "source_doc_id": "00900df2-fa72-56bf-83d6-196d2c7c2d9d",
+      "source_title": "How India’s nuclear ambition can power the next global clean energy push",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/how-indias-nuclear-ambition-can-power-the-next-global-clean-energy-push"
+    },
+    {
+      "index": 6,
+      "tam_value": 44614.67,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "India's renewable energy push",
+          "description": "Driven by flagship schemes like PM Surya Ghar, enhanced support for solar deployment, energy storage, and domestic manufacturing, reinforcing commitment to large-scale renewable capacity expansion."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Allocation for the Ministry of New and Renewable Energy (MNRE) in the Union Budget 2026-27.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 7,
+      "tam_value": 230780.0,
+      "tam_unit": "MW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 16.84,
+      "historical_cagr_period": "FY16-FY26",
+      "demand_drivers": [
+        {
+          "driver": "Ambitious renewable energy targets",
+          "description": "India aims to achieve 500 gigawatts of renewable energy capacity by 2030, supported by significant policy push and investments."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Combined installed capacity of renewable energy sources, including Small Hydro Power, Wind Power, Solar Power, and Bio-Power, as of May 2026.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 8,
+      "tam_value": 22480.0,
+      "tam_unit": "MW",
+      "sam_value": null,
+      "as_of_year": 2032,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing energy demands",
+          "description": "India's rapid economic growth and increasing electricity consumption drive the need for expanded power generation."
+        },
+        {
+          "driver": "Environmental goals",
+          "description": "Nuclear power provides low-carbon baseload electricity, supporting decarbonization efforts and energy transition goals."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Government initiated steps to increase nuclear power capacity from 8,780 MW in 2026-27 to this target by 2031-32.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 9,
+      "tam_value": 221.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Renewable energy capacity expansion",
+          "description": "The ambitious target of 500 GW renewable energy capacity necessitates significant capital investment across generation, transmission, and associated infrastructure."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Investment opportunities arising from India's target to reach 500 GW of installed renewable energy capacity by 2030, with 280 GW expected from solar power.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 10,
+      "tam_value": 542.35,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Record capacity expansion",
+          "description": "Driven by the highest-ever annual capacity addition of over 58 GW, reflecting sustained growth in the country's power infrastructure."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total installed capacity of the power sector as of May 2026.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 11,
+      "tam_value": 157.04,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government schemes and policies",
+          "description": "PM Surya Ghar: Muft Bijli Yojana, which aims for 75 lakh rooftop solar installations by December 2026, and continuous expansion in solar energy capacity."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s total installed solar capacity as of May 2026.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 12,
+      "tam_value": 67.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2032,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Hydro projects under construction",
+          "description": "15 GW of hydroelectric projects currently being built will significantly boost the country's capacity."
+        },
+        {
+          "driver": "Government support and rainfall predictions",
+          "description": "Proactive government stance towards accelerated hydropower development and IMD's prediction of higher rainfall."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected total hydro capacity, including 15 GW of projects under construction, which will increase the country's total hydro capacity from 42 GW.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 13,
+      "tam_value": 3600.0,
+      "tam_unit": "MW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Clean energy portfolio expansion",
+          "description": "Part of Avaada Group's broader investment plan to expand its clean energy portfolio, including hybrid renewable projects, solar manufacturing, and green hydrogen/ammonia facilities."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Combined capacity of two pumped storage projects announced by Avaada Group in Maharashtra.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 14,
+      "tam_value": 900.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Abundant natural resources",
+          "description": "India possesses vast potential from solar energy (750 GW), wind power (102 GW), bio-energy (25 GW), and small hydro (20 GW)."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated renewable energy potential from commercially exploitable sources in India.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 15,
+      "tam_value": 1000.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising population and electrification",
+          "description": "Widespread electrification in rural homes and increasing energy needs for homes, businesses, and communities fuel the demand for energy."
+        },
+        {
+          "driver": "Economic activities",
+          "description": "An uptick in economic activities in the country contributes to higher electricity consumption."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Central Electricity Authority (CEA) projection for India's installed power capacity.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "medium",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 16,
+      "tam_value": 9.16,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2032,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising peak power demand",
+          "description": "Projected increase to 458 GW by FY32 from ~275 GW as of mid-FY25."
+        },
+        {
+          "driver": "Rapid renewable energy additions",
+          "description": "Target of about 500 GW by 2030, necessitating robust transmission infrastructure for integration."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total capital outlay for transmission expansion plan under the National Electricity Policy (NEP) 2022–32.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-01",
+      "data_confidence": "high",
+      "source_doc_id": "a19fe87f-f068-5126-b374-f5f5d421e3b3",
+      "source_title": "Indian Power Transmission Sector",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1775028048_Indian%20Power%20Transmission%20Sector.pdf"
+    }
+  ],
+  "sources": [
+    "EY-Parthenon",
+    "CareEdge Ratings",
+    "KPMG",
+    "IBEF"
+  ],
+  "documents": [
+    {
+      "doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "title": "Why India's BESS growth story depends on delivering bankable projects",
+      "publisher": "ey",
+      "date": "2026-08-07",
+      "url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects"
+    },
+    {
+      "doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "title": "CareEdge FORESIGHTS - July 2026",
+      "publisher": "careedge",
+      "date": "2026-07-17",
+      "url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf"
+    },
+    {
+      "doc_id": "00900df2-fa72-56bf-83d6-196d2c7c2d9d",
+      "title": "How India’s nuclear ambition can power the next global clean energy push",
+      "publisher": "ey",
+      "date": "2026-07-14",
+      "url": "https://www.ey.com/en_in/insights/energy-resources/how-indias-nuclear-ambition-can-power-the-next-global-clean-energy-push"
+    },
+    {
+      "doc_id": "a19fe87f-f068-5126-b374-f5f5d421e3b3",
+      "title": "Indian Power Transmission Sector",
+      "publisher": "careedge",
+      "date": "2026-04-01",
+      "url": "https://www.careratings.com/uploads/newsfiles/1775028048_Indian%20Power%20Transmission%20Sector.pdf"
+    },
+    {
+      "doc_id": "7b374a06-3d29-5860-bf99-a449bb98dd41",
+      "title": "Smarter operations: Improving efficiency in thermal power plants through digitalisation",
+      "publisher": "kpmg",
+      "date": "2026-05-01",
+      "url": "https://kpmg.com/in/en/blogs/2026/05/smarter-operations-improving-efficiency-in-thermal-power-plants-through-digitalisation.html"
+    },
+    {
+      "doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "title": "Renewable Energy Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/renewable-energy"
+    }
+  ]
+}

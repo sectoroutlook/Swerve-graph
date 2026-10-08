@@ -590,6 +590,39 @@
   #intel-content .intel-pill.neg { background: rgba(248,113,113,0.14); color: var(--color-negative); border: 1px solid rgba(248,113,113,0.25); }
   #intel-content .intel-pill.warn { background: rgba(251,191,36,0.14); color: var(--color-warning); border: 1px solid rgba(251,191,36,0.25); }
   #intel-content .intel-pill.neutral { background: rgba(255,255,255,0.06); color: var(--fg3); border: 1px solid var(--border); }
+  #intel-content .intel-pills {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 4px;
+    flex-shrink: 0;
+  }
+  #intel-content .intel-geo-tag {
+    font-size: 9px;
+    letter-spacing: 0.04em;
+    padding: 3px 7px;
+    border-radius: var(--radius-pill);
+    background: rgba(255,255,255,0.04);
+    color: var(--fg2);
+    border: 1px solid var(--border);
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  #intel-content .intel-meta a {
+    color: inherit;
+    text-decoration: underline dotted;
+    text-underline-offset: 2px;
+  }
+  #intel-content .intel-meta a:hover { color: var(--fg1); }
+  #node-info .geo-badge {
+    display: inline-block;
+    font-size: 10px;
+    padding: 1px 7px;
+    margin-left: 4px;
+    border-radius: var(--radius-pill);
+    border: 1px solid var(--border);
+    color: var(--fg2);
+  }
   #intel-content .intel-desc {
     font-size: 11.5px;
     line-height: 1.5;
@@ -1130,6 +1163,11 @@
 <div id="topbar">
   <h1>Swerve Graph</h1>
   <div id="filterbar">
+    <select id="geo-select" aria-label="Outlook country" title="Outlook country">
+      <option value="IN">India</option>
+      <option value="GB">United Kingdom</option>
+      <option value="EU">Europe</option>
+    </select>
     <select id="sector-select">
       <option value="">All Sectors</option>
     </select>
@@ -1480,6 +1518,10 @@ async function loadGraph() {
         style: { "width": 0.75, "opacity": 0.25 }
       },
       {
+        selector: "node.no-outlook",
+        style: { "background-opacity": 0.3, "border-style": "dashed", "border-color": "#6e7681" }
+      },
+      {
         selector: "node.dimmed",
         style: { "opacity": 0.12 }
       },
@@ -1539,6 +1581,7 @@ async function loadGraph() {
 
   renderSectorLegend();
   renderSectorFilterPanel();
+  applyOutlookMarks();
 
   document.getElementById("last-updated").textContent =
     `${data.nodes.length} nodes · ${data.relationships.length} relationships`;
@@ -1795,6 +1838,7 @@ function applySectorFilter(opts = {}) {
 
   cy.elements().remove();
   cy.add(elements);
+  applyOutlookMarks();
 
   // A filter change removes/restores nodes, so positions from the full
   // graph's layout no longer necessarily avoid overlap among the visible
@@ -1944,7 +1988,7 @@ function showNodeInfo(node) {
         <div class="node-dot" style="background:${colorFor(node.data("group"))}"></div>
         <div>
           <div class="node-title">${node.data("label")}</div>
-          <div class="node-code">${node.data("group")}${node.data("code") ? " · " + node.data("code") : ""}</div>
+          <div class="node-code">${node.data("group")}${node.data("code") ? " · " + node.data("code") : ""}<span class="geo-badge" title="Outlook country">${geoLabels[currentGeo]}</span></div>
         </div>
       </div>
     </div>
@@ -1969,11 +2013,13 @@ function showNodeInfo(node) {
     </div>
   `;
 
+  currentInfoNodeId = id;
   loadNodeIntel(id);
   autoCollapseLegendOnce();
 }
 
 function clearNodeInfo() {
+  currentInfoNodeId = null;
   document.getElementById("node-info").innerHTML = '<div class="empty">Click a node, or search above, to see details</div>';
 }
 
@@ -2022,22 +2068,90 @@ function setupNodeInfoClicks() {
 let currentIntelTab = "forces";
 let currentIntelData = null;
 let intelRequestId = 0;
+// "loading" while a fetch is in flight, "none" when the selected country has
+// no file for this node (404 / not listed in data/index.json), else "ok".
+let currentIntelStatus = "loading";
+
+// ---------- Outlook country (data/<GEO>/<id>.json) ----------
+
+// Which country's outlook the sidebar shows. data/index.json (written by
+// export_outlook_supabase.py) lists, per country, the sector codes that have
+// a file — used to skip the fetch and to grey out nodes with no outlook.
+const geoLabels = { IN: "India", GB: "United Kingdom", EU: "Europe" };
+let currentGeo = "IN";
+let currentInfoNodeId = null;
+let outlookCodes = null; // { IN: Set, GB: Set, EU: Set } once data/index.json loads
+
+const outlookIndexPromise = fetch("data/index.json", { cache: "no-store" })
+  .then(res => (res.ok ? res.json() : null))
+  .then(idx => {
+    if (!idx || !idx.geographies) return;
+    outlookCodes = {};
+    Object.entries(idx.geographies).forEach(([geo, g]) => { outlookCodes[geo] = new Set(g.codes || []); });
+    applyOutlookMarks();
+  })
+  .catch(() => {});
+
+function hasOutlook(nodeId) {
+  return !outlookCodes || (outlookCodes[currentGeo] ? outlookCodes[currentGeo].has(nodeId) : false);
+}
+
+function applyOutlookMarks() {
+  if (!cy || canvasMode !== "sector" || !outlookCodes) return;
+  cy.nodes().forEach(n => n.toggleClass("no-outlook", !hasOutlook(n.id())));
+}
+
+function setupGeoSelect() {
+  const sel = document.getElementById("geo-select");
+  sel.value = currentGeo;
+  sel.addEventListener("change", () => {
+    currentGeo = sel.value;
+    applyOutlookMarks();
+    if (canvasMode === "sector" && currentInfoNodeId && cy) {
+      const node = cy.getElementById(currentInfoNodeId);
+      if (node && !node.empty()) showNodeInfo(node);
+    }
+  });
+}
+
+// Small country tag for Europe rows: the country_focus code, or
+// "Europe-wide" when it's EU or missing. Other countries show no tag.
+function geoTagHtml(row) {
+  if (currentIntelData?.geography !== "EU") return "";
+  const cf = row.country_focus;
+  const text = !cf || cf === "EU" ? "Europe-wide" : cf;
+  return `<span class="intel-geo-tag">${escapeHtmlG(text)}</span>`;
+}
+
+function sourceHtml(row) {
+  const name = row.source_firm || row.source_publisher || "";
+  if (!name) return "";
+  if (!row.source_url || !/^https?:\/\//.test(row.source_url)) return escapeHtmlG(name);
+  return `<a href="${escapeHtmlG(row.source_url)}" target="_blank" rel="noopener noreferrer"${row.source_title ? ` title="${escapeHtmlG(row.source_title)}"` : ""}>${escapeHtmlG(name)}</a>`;
+}
 
 const intelTabLabels = { forces: "Forces", viewpoints: "Viewpoints", market_sizing: "Sizing" };
 
 async function loadNodeIntel(nodeId) {
   const requestId = ++intelRequestId;
+  const geo = currentGeo;
   currentIntelData = null;
+  currentIntelStatus = "loading";
 
-  try {
-    const res = await fetch(`data/${nodeId}.json`, { cache: "no-store" });
-    const data = res.ok ? await res.json() : null;
-    if (requestId !== intelRequestId) return; // a newer node was selected meanwhile
-    currentIntelData = data;
-  } catch (err) {
-    if (requestId !== intelRequestId) return;
-    currentIntelData = null;
+  await outlookIndexPromise;
+  if (requestId !== intelRequestId) return;
+  let data = null;
+  if (hasOutlook(nodeId)) {
+    try {
+      const res = await fetch(`data/${geo}/${nodeId}.json`, { cache: "no-store" });
+      data = res.ok ? await res.json() : null;
+    } catch (err) {
+      data = null;
+    }
   }
+  if (requestId !== intelRequestId) return; // a newer node/country was selected meanwhile
+  currentIntelData = data;
+  currentIntelStatus = data ? "ok" : "none";
 
   renderIntelTabCounts();
   renderIntelContent();
@@ -2073,6 +2187,10 @@ function renderIntelContent() {
   const el = document.getElementById("intel-content");
   if (!el) return;
 
+  if (currentIntelStatus === "none") {
+    el.innerHTML = `<div class="intel-empty">No outlook for this sector in ${escapeHtmlG(geoLabels[currentGeo])} yet</div>`;
+    return;
+  }
   if (currentIntelData === null) {
     el.innerHTML = '<div class="intel-loading">Loading…</div>';
     return;
@@ -2085,7 +2203,10 @@ function renderIntelContent() {
           <div class="intel-card">
             <div class="intel-card-head">
               <span class="intel-card-title">${escapeHtmlG(f.title || "Untitled")}</span>
-              ${f.type ? `<span class="intel-pill ${forceTypePillClass[f.type] || "neutral"}">${escapeHtmlG(f.type.replace(/_/g, " "))}</span>` : ""}
+              <span class="intel-pills">
+                ${geoTagHtml(f)}
+                ${f.type ? `<span class="intel-pill ${forceTypePillClass[f.type] || "neutral"}">${escapeHtmlG(f.type.replace(/_/g, " "))}</span>` : ""}
+              </span>
             </div>
             ${f.description ? `<p class="intel-desc">${escapeHtmlG(f.description)}</p>` : ""}
             ${(f.impact_magnitude || f.time_horizon) ? `
@@ -2105,12 +2226,15 @@ function renderIntelContent() {
           <div class="intel-card">
             <div class="intel-card-head">
               <span class="intel-card-title">${escapeHtmlG(v.title || "Untitled")}</span>
-              ${v.stance ? `<span class="intel-pill ${stancePillClass[v.stance] || "neutral"}">${escapeHtmlG(v.stance.replace(/_/g, " "))}</span>` : ""}
+              <span class="intel-pills">
+                ${geoTagHtml(v)}
+                ${v.stance ? `<span class="intel-pill ${stancePillClass[v.stance] || "neutral"}">${escapeHtmlG(v.stance.replace(/_/g, " "))}</span>` : ""}
+              </span>
             </div>
             ${v.description ? `<p class="intel-desc">${escapeHtmlG(v.description)}</p>` : ""}
             ${(v.source_firm || v.source_date) ? `
               <div class="intel-meta">
-                <span>${escapeHtmlG(v.source_firm || "")}</span>
+                <span>${sourceHtml(v)}</span>
                 <span>${escapeHtmlG(v.source_date || "")}</span>
               </div>
             ` : ""}
@@ -2143,7 +2267,12 @@ function renderSizingCard(s) {
 
   return `
     <div class="intel-card">
-      ${s.as_of_year ? `<div class="intel-card-title" style="margin-bottom:8px;">As of ${escapeHtmlG(s.as_of_year)}</div>` : ""}
+      ${(s.as_of_year || geoTagHtml(s)) ? `
+        <div class="intel-card-head" style="margin-bottom:8px;">
+          <span class="intel-card-title">${s.as_of_year ? `As of ${escapeHtmlG(s.as_of_year)}` : ""}</span>
+          <span class="intel-pills">${geoTagHtml(s)}</span>
+        </div>
+      ` : ""}
       ${stats.length ? `
         <div class="intel-stats">
           ${stats.map(st => `<div><div class="intel-stat-label">${st.label}</div><div class="intel-stat-value">${escapeHtmlG(st.value)}</div></div>`).join("")}
@@ -2154,7 +2283,7 @@ function renderSizingCard(s) {
       ${driverGroup("New opportunities", s.new_opportunities)}
       ${(s.methodology || s.source_firm || s.data_confidence) ? `
         <div class="intel-meta">
-          <span>${escapeHtmlG(s.source_firm || "")}${s.data_confidence ? ` · ${escapeHtmlG(s.data_confidence)} confidence` : ""}</span>
+          <span>${sourceHtml(s)}${s.data_confidence ? ` · ${escapeHtmlG(s.data_confidence)} confidence` : ""}</span>
           <span>${escapeHtmlG(s.source_date || "")}</span>
         </div>
       ` : ""}
@@ -2837,6 +2966,7 @@ setupSidebarTopTabs();
 setupCompanySelector();
 setupCompanyPanelClicks();
 setupFilterPanels();
+setupGeoSelect();
 
 loadGraph().catch(err => {
   document.getElementById("last-updated").textContent = "Failed to load graph-data.json";

@@ -1,0 +1,205 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Digital assets eroding traditional payment and deposit revenues",
+      "description": "Stablecoins and tokenized deposits, if scaled, pose a headwind to traditional payments and deposit revenues. They bypass traditional interchange fees and foreign-exchange conversion markups, and shift float income away from commercial bank deposits. Corporate adoption of tokenized settlement in cross-border corridors will exert direct margin pressure on FX spreads and correspondent banking fees for incumbent providers.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Stablecoins emerging as efficient wholesale settlement tools",
+      "description": "Stablecoins and tokenized commercial bank deposits are increasingly viewed as highly efficient wholesale settlement tools rather than retail currencies. They are operating alongside instant payment networks to replace slower correspondent interbank settlement in illiquid or currency-constrained business-to-business corridors, marking a fundamental shift in cross-border liquidity management.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Regulatory fragmentation hinders European digital asset innovation",
+      "description": "Geopolitical and regulatory fragmentation, particularly concerning national supervisory frameworks, is identified as a primary pacing variable for payment rail innovation in Europe. Rather than global standards, major markets are pursuing paths to preserve monetary sovereignty, leading to supervisory divergence and challenges in legal and financial responsibility for autonomous cross-border transactions involving digital assets.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Multi-rail orchestration integrates digital assets for optimized routing",
+      "description": "A key strategic direction for fintechs is to become multi-rail orchestrators, abstracting complexity by dynamically routing transactions across various systems, including digital assets. This allows clients to expand global reach, diversify execution, and deliver funds to the most suitable payment endpoint while continuously optimizing for cost, speed, liquidity, and regulatory requirements.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future",
+      "source_date": "2026-08-26",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Banks forming digital-asset consortia for new payment rails",
+      "description": "For banks, creating new rails, such as bank-led digital-asset consortia, is an important strategic move beyond modernizing existing payments infrastructure. This initiative aims to establish new competitive advantages and defend against disintermediation by evolving payment execution and value capture in the cross-border payments landscape.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future",
+      "source_date": "2026-08-26",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Digital asset settlement models emerging for cross-border value transfer",
+      "description": "Digital asset-based settlement models are ushering in a third wave of innovation for cross-border payments. Stablecoins and tokenized deposits offer alternative mechanisms for value transfer, promising instant settlement within and between financial institutions via interoperable tokenized networks. While currently relevant for treasury and wholesale use cases, they signal a structural shift.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future",
+      "source_date": "2026-08-26",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Trust infrastructure limits agentic digital asset transaction adoption",
+      "description": "The adoption pace of agentic commerce, including transactions potentially involving digital assets, is primarily constrained by the lack of robust trust infrastructure. Binding constraints include verifiable machine credentials, dynamic consent standards, revocation mechanisms, and clear supervisory liability frameworks, which currently gate the widespread deployment of agent-initiated transactions.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Stablecoins viewed as efficient wholesale B2B settlement tools",
+      "description": "Roughly two-thirds of interviewed payment executives view stablecoins and tokenized commercial bank deposits as highly efficient tools for wholesale settlement, particularly in illiquid or currency-constrained B2B corridors. They are seen as replacing slow correspondent interbank settlement rather than serving as consumer-facing retail currencies. This indicates a targeted, B2B-focused utility for digital assets.",
+      "stance": "cautious_positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Stablecoin domestic retail adoption expected to remain marginal in Europe",
+      "description": "In card-resilient markets like Western Europe, stablecoin and local account-to-account (A2A) rail adoption is projected to lag significantly through 2035. Entrenched merchant acceptance, high consumer rewards, and built-in dispute resolution for cards preserve the traditional perimeter, making stablecoins marginal for domestic retail payments.",
+      "stance": "cautious_negative",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Digital asset settlement emerging for niche cross-border uses, broader adoption pending",
+      "description": "Digital asset-based settlement models, including stablecoins and tokenized deposits, represent an emerging wave of innovation for cross-border value transfer. These models are currently relevant for treasury, wholesale, and niche use cases due to their potential for instant settlement. However, broader adoption across the payments ecosystem is yet to materialize, indicating a nascent but promising stage.",
+      "stance": "cautious_positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-08-26",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future",
+      "country_focus": "EU"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Efficiency in illiquid corridors",
+          "description": "Stablecoins and tokenized deposits offer highly efficient wholesale settlement in cross-border corridors facing illiquidity or currency constraints."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Digital assets can replace slow correspondent interbank settlement for corporate treasury flows, providing faster and more efficient liquidity bridges.",
+          "opportunity": "Replacing correspondent banking"
+        }
+      ],
+      "methodology": "Qualitative assessment based on interviews with over 20 senior payment executives in early 2026. Roughly two-thirds of these executives report deploying stablecoins and tokenized commercial bank deposits as wholesale liquidity bridges in thin, capital-constrained, or high-inflation cross-border corridors.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-25",
+      "data_confidence": "medium",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "mckinsey"
+  ],
+  "documents": [
+    {
+      "doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "publisher": "mckinsey",
+      "date": "2026-09-25",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    },
+    {
+      "doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "title": "Cross-border payments: Out of the commodity trap, into the future",
+      "publisher": "mckinsey",
+      "date": "2026-08-26",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future"
+    }
+  ]
+}

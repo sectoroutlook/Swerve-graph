@@ -1,0 +1,461 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "UK aviation emissions double, current decarbonisation policies insufficient",
+      "description": "UK aviation's GHG emissions have more than doubled since 1990, while other sectors have halved theirs. Current government policy is insufficient to decarbonise aviation, with emissions projected to not fall from 2025 levels by 2050, putting Net Zero targets at risk. This lack of credible plans for emissions reductions (only 32% of required cuts supported by plans for 2033-2037) poses a significant challenge for the sector.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "77306d7d-24be-5972-a5ee-311bddd4aed8",
+      "source_title": "Advice to the UK Government on proposed Heathrow Airport expansion",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/advice-to-the-uk-government-on-proposed-heathrow-airport-expansion",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 2,
+      "title": "Heathrow expansion complicates UK's Net Zero and carbon budgets",
+      "description": "The proposed Heathrow expansion would compound the problem of insufficient aviation decarbonisation, adding 2.4 MtCO2e to emissions in 2050 and 4.5 MtCO2e by 2054, increasing whole-economy residual CO2 emissions by 6.9% of expected 2050 levels. This makes it harder for the UK to meet its Seventh Carbon Budget and the 2050 Net Zero target, requiring robust and explicit policies to ensure consistency with climate obligations.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "77306d7d-24be-5972-a5ee-311bddd4aed8",
+      "source_title": "Advice to the UK Government on proposed Heathrow Airport expansion",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/advice-to-the-uk-government-on-proposed-heathrow-airport-expansion",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 3,
+      "title": "Global air passenger traffic growth forecast significantly slows in 2026",
+      "description": "Global air passenger traffic is now forecast to grow just 2.1% in 2026, less than half the rate projected at the start of the year. This slowdown signals a shift from supply-side constraints to emerging demand-side risks in the commercial aerospace industry. This reduced growth trajectory will impact airlines' revenue and capacity planning, requiring them to reassess route profitability and fleet strategies.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-15",
+      "source_doc_id": "39824ff0-619a-5f6c-bf68-d0802841c740",
+      "source_title": "Untitled",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/is-commercial-aerospace-ready-for-a-demand-reckoning",
+      "source_date": "2026-07-15"
+    },
+    {
+      "index": 4,
+      "title": "Escalating jet fuel costs halve airline profits and squeeze margins",
+      "description": "Rapid escalation of fuel costs is projected to halve airline net profits and margins in 2026, pushing the industry's net margin to around 2%. Geopolitical disruptions, such as the Strait of Hormuz conflict, have exposed how quickly jet fuel prices can rise due to crude oil price increases and constrained refinery production (crack spread potentially averaging >$50/barrel). This significantly impacts airline operating costs, despite historical pass-through rates to consumers.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-15",
+      "source_doc_id": "39824ff0-619a-5f6c-bf68-d0802841c740",
+      "source_title": "Untitled",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/is-commercial-aerospace-ready-for-a-demand-reckoning",
+      "source_date": "2026-07-15"
+    },
+    {
+      "index": 5,
+      "title": "Aircraft and engine shortage persists, complicating airline fleet planning",
+      "description": "The shortage of aircraft and engines is expected to persist for at least another year, with 41% of industry respondents anticipating it will last three or more years. This supply constraint forces airlines to keep older aircraft in service longer, which in turn benefits MROs. However, it hinders fleet modernization, potentially increasing fuel burn and maintenance costs for airlines, and making it difficult to expand capacity even if demand were to pick up.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-15",
+      "source_doc_id": "39824ff0-619a-5f6c-bf68-d0802841c740",
+      "source_title": "Untitled",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/is-commercial-aerospace-ready-for-a-demand-reckoning",
+      "source_date": "2026-07-15"
+    },
+    {
+      "index": 6,
+      "title": "High fuel costs compound for UK/EU airlines due to foreign exchange",
+      "description": "Airlines generating most of their revenue in euros or pounds face a heightened impact from rising fuel costs when these are compounded by unfavorable foreign exchange movements. This specific currency dynamic means that UK and other European airlines are more affected than some global peers, adding another layer of financial pressure and making it harder for them to protect margins compared to periods with more stable FX rates.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-17",
+      "source_doc_id": "b1932d48-135c-5296-920d-c6c5dc5fd7bd",
+      "source_title": "What could rising fuel costs mean for airlines?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/travel/our-insights/what-could-rising-fuel-costs-mean-for-airlines",
+      "source_date": "2026-06-17"
+    },
+    {
+      "index": 7,
+      "title": "Fuel price pass-through dampens demand, especially for leisure travel",
+      "description": "While airlines typically pass on about 70% of jet fuel price increases to consumers, leading to potential fare increases of 20-25% from doubled fuel costs, this invariably dampens demand for air travel. The impact is particularly pronounced in more price-elastic segments like short-haul leisure. This creates a challenging trade-off for airlines: protecting margins through price hikes risks reducing passenger volumes and load factors, especially for unhedged carriers.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-17",
+      "source_doc_id": "b1932d48-135c-5296-920d-c6c5dc5fd7bd",
+      "source_title": "What could rising fuel costs mean for airlines?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/travel/our-insights/what-could-rising-fuel-costs-mean-for-airlines",
+      "source_date": "2026-06-17"
+    },
+    {
+      "index": 8,
+      "title": "Premium cabins drive increasing revenue and higher margins for airlines",
+      "description": "Premium cabins (business, first, premium-economy) are an increasingly vital component of airline profitability. They account for a growing percentage of total seats, passengers, and revenue, especially on heavily trafficked transatlantic routes where a business-class cabin can contribute as much as economy. These cabins deliver significantly higher margins (15 percentage points above economy for Delta in 2024), offering unit revenue gains of 1-3% with effective management.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "4c9168e0-0816-5c03-a440-71cf957e7215",
+      "source_title": "Airline premium cabins: Profitability at the front of the plane",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/travel/our-insights/airline-premium-cabins-profitability-at-the-front-of-the-plane",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 9,
+      "title": "Shift to premium leisure demand enhances cabin resilience",
+      "description": "The composition of premium travelers has evolved to include more leisure, remote/hybrid workers, and 'treat yourself' customers, altering booking patterns. This 'premium leisure' demand segment has proven more inelastic than standard leisure demand during downturns, bolstering the resilience of premium cabins. This structural shift necessitates airlines to adapt pricing, forecasting, and product unbundling strategies (e.g., 'business light' fares) to cater to this less price-sensitive, earlier-booking customer base.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "4c9168e0-0816-5c03-a440-71cf957e7215",
+      "source_title": "Airline premium cabins: Profitability at the front of the plane",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/travel/our-insights/airline-premium-cabins-profitability-at-the-front-of-the-plane",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 10,
+      "title": "Forecasting errors and complex pricing structures challenge premium revenue optimization",
+      "description": "Managing premium cabins is complex due to the high value of each seat, making forecasting errors costly (e.g., +/- 5 seats impacts 12.5% of transatlantic business capacity). A lack of clear pricing comparables across airlines, coupled with the intricate interplay of loyalty programs, upgrades, and corporate agreements, creates inconsistencies and difficulties in optimizing premium-cabin revenue. Without streamlined processes and coordination, airlines risk misallocating seats and losing substantial revenue.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "4c9168e0-0816-5c03-a440-71cf957e7215",
+      "source_title": "Airline premium cabins: Profitability at the front of the plane",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/travel/our-insights/airline-premium-cabins-profitability-at-the-front-of-the-plane",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 11,
+      "title": "AI-powered tools enhance airline revenue management and operational efficiency",
+      "description": "AI-based systems offer significant opportunities for airlines to improve profitability and efficiency. In revenue management, AI can automate routine pricing tasks, conduct A/B tests for pricing changes, and provide data-driven recommendations, leading to more accurate pricing and captured value. In operations, AI can optimize planning, routing, procurement, and even automate tasks like cargo status updates and quote generation, reducing labor costs and boosting productivity (e.g., 40% for one transportation company).",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-24",
+      "source_doc_id": "95c69283-6054-56f5-9a9a-e0822823bbe8",
+      "source_title": "AI Hasn’t Fully Paid Off Yet in Logistics. But It Will.",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/why-ai-isnt-delivering-roi-logistics",
+      "source_date": "2026-08-24"
+    },
+    {
+      "index": 12,
+      "title": "Decarbonisation and Net Zero imperative for aviation sector",
+      "description": "The aviation sector is under increasing pressure to reach Net Zero CO2 emissions by 2050. This requires deep reductions in emissions either directly or by purchasing engineered removals, and for the cost of decarbonizing to be reflected in the cost of flying. Early, long-term, and stable policy is needed to provide confidence for supply chains to invest in sustainable aviation fuels (SAF) and engineered removal technologies.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "77306d7d-24be-5972-a5ee-311bddd4aed8",
+      "source_title": "Advice to the UK Government on proposed Heathrow Airport expansion",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/advice-to-the-uk-government-on-proposed-heathrow-airport-expansion",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 13,
+      "title": "Industry overconfidence in agility hinders adaptation to slowdown",
+      "description": "Despite 77% of survey respondents believing they could adjust strategies within six months to a demand slowdown, the industry may be overconfident in its agility. The slow pace of production ramps reflects genuine difficulty in executing rapid change. Misaligned incentives across the value chain (OEMs rewarded for volume, lessors under-weighting risk) mean the industry could be slow to register a turning point, increasing exposure for individual companies without deliberate flexibility built in.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-15",
+      "source_doc_id": "39824ff0-619a-5f6c-bf68-d0802841c740",
+      "source_title": "Untitled",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/is-commercial-aerospace-ready-for-a-demand-reckoning",
+      "source_date": "2026-07-15"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Heathrow expansion risks UK Net Zero, current aviation decarbonisation policy insufficient",
+      "description": "The Climate Change Committee advises that proposed Heathrow expansion is inconsistent with the UK's legislated 2050 Net Zero target under current policy. Existing aviation policy is insufficient to decarbonise the sector, with emissions projected to not fall from 2025 levels by 2050. The aviation sector must take responsibility for reaching Net Zero itself, either directly or through purchasing engineered removals, and policies must reflect the cost of decarbonising aviation in flying prices.",
+      "stance": "cautious_negative",
+      "source_firm": "Climate Change Committee (CCC)",
+      "source_date": "2026-09-16",
+      "source_doc_id": "77306d7d-24be-5972-a5ee-311bddd4aed8",
+      "source_title": "Advice to the UK Government on proposed Heathrow Airport expansion",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/advice-to-the-uk-government-on-proposed-heathrow-airport-expansion"
+    },
+    {
+      "index": 2,
+      "title": "Commercial aerospace faces demand risk inflection point, airlines feel pressure",
+      "description": "McKinsey's survey reveals the commercial aerospace industry is at an inflection point, with airlines already experiencing significant pressure from a slowing demand environment, while other segments of the supply chain have not yet fully registered this shift. Global air passenger traffic is forecast to grow only 2.1% in 2026, less than half initial projections, impacting airline profitability and signaling a broader industry slowdown ahead.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey & Company",
+      "source_date": "2026-07-15",
+      "source_doc_id": "39824ff0-619a-5f6c-bf68-d0802841c740",
+      "source_title": "Untitled",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/is-commercial-aerospace-ready-for-a-demand-reckoning"
+    },
+    {
+      "index": 3,
+      "title": "Airline profits to halve in 2026 due to escalating fuel costs",
+      "description": "IATA projects a significant downturn in airline profitability for 2026, with global airline net profit expected to halve from $45 billion in 2025 to approximately $23 billion. This sharp decline is primarily attributed to the rapid escalation of fuel costs, pushing the industry's net margin to around 2%, its weakest outcome since the pandemic years. This highlights the high sensitivity of airline economics to external cost pressures.",
+      "stance": "negative",
+      "source_firm": "IATA via McKinsey & Company",
+      "source_date": "2026-07-15",
+      "source_doc_id": "39824ff0-619a-5f6c-bf68-d0802841c740",
+      "source_title": "Untitled",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/is-commercial-aerospace-ready-for-a-demand-reckoning"
+    },
+    {
+      "index": 4,
+      "title": "Airlines must adapt fleet strategies to manage demand slowdown",
+      "description": "In response to an anticipated demand slowdown, airlines are prioritizing parking or retiring older, less fuel-efficient aircraft over deferring new deliveries. This reflects a strategic focus on optimizing operating costs and fleet efficiency amidst market pressures. The ability of airlines to demonstrate discipline in following through on these fleet adjustments, even when market share pressures exist, will differentiate those that emerge strongly from a downturn.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey & Company",
+      "source_date": "2026-07-15",
+      "source_doc_id": "39824ff0-619a-5f6c-bf68-d0802841c740",
+      "source_title": "Untitled",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/is-commercial-aerospace-ready-for-a-demand-reckoning"
+    },
+    {
+      "index": 5,
+      "title": "Geopolitical shocks increase jet fuel volatility, but airlines can mitigate risks",
+      "description": "Geopolitical disruptions, such as tanker traffic issues in the Strait of Hormuz, can rapidly escalate jet fuel prices and significantly impact airline economics. While such volatility poses familiar challenges, airlines have proven strategies to mitigate these effects. These include retiring older aircraft, prioritizing load factors, implementing fuel conservation measures, carefully reviewing pricing, consolidating flights, and preparing for potential industry consolidation, enabling them to protect margins over time.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey & Company",
+      "source_date": "2026-06-17",
+      "source_doc_id": "b1932d48-135c-5296-920d-c6c5dc5fd7bd",
+      "source_title": "What could rising fuel costs mean for airlines?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/travel/our-insights/what-could-rising-fuel-costs-mean-for-airlines"
+    },
+    {
+      "index": 6,
+      "title": "European airlines more vulnerable to fuel price hikes due to currency effects",
+      "description": "Airlines generating most of their revenue in euros or pounds face compounded financial pressure when higher fuel costs coincide with adverse foreign exchange effects. Unlike previous fuel spikes, the current currency dynamics amplify the impact for these carriers, potentially eroding profitability more severely than for airlines operating primarily in USD. This highlights a particular vulnerability for UK and European airlines in managing fuel cost volatility.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey & Company",
+      "source_date": "2026-06-17",
+      "source_doc_id": "b1932d48-135c-5296-920d-c6c5dc5fd7bd",
+      "source_title": "What could rising fuel costs mean for airlines?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/travel/our-insights/what-could-rising-fuel-costs-mean-for-airlines"
+    },
+    {
+      "index": 7,
+      "title": "Premium cabins increasingly vital for airline profitability and resilience",
+      "description": "Premium cabins (business, first, premium-economy) are increasingly accounting for a larger share of seats, passengers, and revenue for airlines, particularly in North America and Europe, significantly boosting profitability. These cabins often generate higher margins than economy, and their demand has shown resilience during downturns, driven by a more inelastic 'premium leisure' segment. Airlines that strategically manage premium offerings can achieve unit revenue gains of 1-3%.",
+      "stance": "positive",
+      "source_firm": "McKinsey & Company",
+      "source_date": "2026-06-01",
+      "source_doc_id": "4c9168e0-0816-5c03-a440-71cf957e7215",
+      "source_title": "Airline premium cabins: Profitability at the front of the plane",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/travel/our-insights/airline-premium-cabins-profitability-at-the-front-of-the-plane"
+    },
+    {
+      "index": 8,
+      "title": "Strategic management of premium offerings is crucial for maximizing airline returns",
+      "description": "Airlines can significantly improve premium-cabin returns by rethinking traditional revenue management. This includes sharpening forecasting with 'event calendars' and willingness-to-pay models, implementing automated AI-based pricing systems for continuous optimization, adopting a structured approach to managing upgrades and loyalty redemptions, and integrating corporate account dynamics into decision-making. Aligning commercial, loyalty, and sales functions around a single view of value is essential to capture maximum profitability from these high-value assets.",
+      "stance": "positive",
+      "source_firm": "McKinsey & Company",
+      "source_date": "2026-06-01",
+      "source_doc_id": "4c9168e0-0816-5c03-a440-71cf957e7215",
+      "source_title": "Airline premium cabins: Profitability at the front of the plane",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/travel/our-insights/airline-premium-cabins-profitability-at-the-front-of-the-plane"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 299.0,
+      "tam_unit": "mn_units",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "1990-2025",
+      "demand_drivers": [
+        {
+          "driver": "International Short-Haul Travel",
+          "description": "Accounted for 71% of the total increase in UK aviation passenger demand between 1990 and 2025."
+        },
+        {
+          "driver": "Long-Haul International Travel",
+          "description": "Accounted for 23% of the total increase in UK aviation passenger demand between 1990 and 2025."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total UK aviation passenger demand, including inbound, outbound, and transit passengers. Increased by 192% between 1990 and 2025.",
+      "source_firm": "Civil Aviation Authority",
+      "source_date": "2026-09-16",
+      "data_confidence": "high",
+      "source_doc_id": "77306d7d-24be-5972-a5ee-311bddd4aed8",
+      "source_title": "Advice to the UK Government on proposed Heathrow Airport expansion",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/advice-to-the-uk-government-on-proposed-heathrow-airport-expansion"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "1990-2025",
+      "demand_drivers": [
+        {
+          "driver": "Growth in Demand for Flying",
+          "description": "Overall increase in passenger numbers and average flight distances drives higher fuel consumption and thus emissions."
+        },
+        {
+          "driver": "Long-Haul International Flights",
+          "description": "Account for approximately 62% of aviation emissions despite making up 23% of passengers, due to longer distances and higher fuel use."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Provisional estimate for UK civil aviation emissions, representing 119% higher than 1990 levels. Emissions returned to pre-COVID-19 levels in 2024. Approximately half of these emissions originated from Heathrow Airport.",
+      "source_firm": "Department for Energy Security and Net Zero (DESNZ)",
+      "source_date": "2026-09-16",
+      "data_confidence": "high",
+      "source_doc_id": "77306d7d-24be-5972-a5ee-311bddd4aed8",
+      "source_title": "Advice to the UK Government on proposed Heathrow Airport expansion",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/advice-to-the-uk-government-on-proposed-heathrow-airport-expansion"
+    },
+    {
+      "index": 3,
+      "tam_value": 23.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Fuel Costs",
+          "description": "Rapid escalation of jet fuel costs is projected to halve airline profits and margins in 2026."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Forecast for airline net profit based on IATA's Annual Review, indicating a significant reduction from 2025 levels.",
+      "source_firm": "IATA via McKinsey & Company",
+      "source_date": "2026-07-15",
+      "data_confidence": "medium",
+      "source_doc_id": "39824ff0-619a-5f6c-bf68-d0802841c740",
+      "source_title": "Untitled",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/is-commercial-aerospace-ready-for-a-demand-reckoning"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increased Leisure Travel in Premium Cabins",
+          "description": "More leisure travelers, remote/hybrid workers, and 'treat yourself' customers are purchasing premium seats, blurring lines between business and leisure demand and boosting resilience during downturns due to inelasticity."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Higher Margins in Premium Cabins",
+          "description": "Premium cabins generate significantly higher margins; Delta reported premium margins 15 percentage points higher than economy in 2024."
+        },
+        {
+          "driver": "Unit Revenue Gains from Strategic Management",
+          "description": "Networkwide shifts in premium revenue management can drive unit revenue gains in the range of 1-3%."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Airlines can achieve substantial revenue increases by implementing sharpened forecasting (event calendars, WTP models), automated AI-based pricing, structured upgrade systems, and integrating corporate account dynamics into decision-making.",
+          "opportunity": "Optimizing Premium Cabin Revenue"
+        }
+      ],
+      "methodology": "Analysis of premium cabin contributions to airline revenue and profitability.",
+      "source_firm": "McKinsey & Company",
+      "source_date": "2026-06-01",
+      "data_confidence": "high",
+      "source_doc_id": "4c9168e0-0816-5c03-a440-71cf957e7215",
+      "source_title": "Airline premium cabins: Profitability at the front of the plane",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/travel/our-insights/airline-premium-cabins-profitability-at-the-front-of-the-plane"
+    }
+  ],
+  "sources": [
+    "Climate Change Committee (CCC)",
+    "McKinsey & Company",
+    "IATA via McKinsey & Company",
+    "Civil Aviation Authority",
+    "Department for Energy Security and Net Zero (DESNZ)"
+  ],
+  "documents": [
+    {
+      "doc_id": "77306d7d-24be-5972-a5ee-311bddd4aed8",
+      "title": "Advice to the UK Government on proposed Heathrow Airport expansion",
+      "publisher": "ccc",
+      "date": "2026-09-16",
+      "url": "https://www.theccc.org.uk/publication/advice-to-the-uk-government-on-proposed-heathrow-airport-expansion"
+    },
+    {
+      "doc_id": "39824ff0-619a-5f6c-bf68-d0802841c740",
+      "title": "Untitled",
+      "publisher": "mckinsey",
+      "date": "2026-07-15",
+      "url": "https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/is-commercial-aerospace-ready-for-a-demand-reckoning"
+    },
+    {
+      "doc_id": "b1932d48-135c-5296-920d-c6c5dc5fd7bd",
+      "title": "What could rising fuel costs mean for airlines?",
+      "publisher": "mckinsey",
+      "date": "2026-06-17",
+      "url": "https://www.mckinsey.com/industries/travel/our-insights/what-could-rising-fuel-costs-mean-for-airlines"
+    },
+    {
+      "doc_id": "4c9168e0-0816-5c03-a440-71cf957e7215",
+      "title": "Airline premium cabins: Profitability at the front of the plane",
+      "publisher": "mckinsey",
+      "date": "2026-06-01",
+      "url": "https://www.mckinsey.com/industries/travel/our-insights/airline-premium-cabins-profitability-at-the-front-of-the-plane"
+    },
+    {
+      "doc_id": "95c69283-6054-56f5-9a9a-e0822823bbe8",
+      "title": "AI Hasn’t Fully Paid Off Yet in Logistics. But It Will.",
+      "publisher": "bcg_global",
+      "date": "2026-08-24",
+      "url": "https://www.bcg.com/publications/2026/why-ai-isnt-delivering-roi-logistics"
+    }
+  ]
+}

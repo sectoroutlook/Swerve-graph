@@ -1,0 +1,435 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Biomethane growth constrained by policy uncertainty and grid barriers",
+      "description": "The substantial potential for biomethane growth, critical for decarbonising GB's energy system, is currently reliant on clear policy direction and continued production support. Overcoming barriers to gas grid injection is essential, as existing infrastructure constraints or regulatory hurdles could hinder its scale-up and wider adoption across various end-use sectors like industry and transport.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download",
+      "source_date": "2026-09-15"
+    },
+    {
+      "index": 2,
+      "title": "Biomethane injection into gas grid offers decarbonisation and cost benefits",
+      "description": "Increased biomethane production and injection into the gas grid can significantly contribute to GB's decarbonisation goals by replacing natural gas. It offers a low-carbon, dispatchable power option and a transitional/long-term solution for hard-to-electrify industries and transport. This also lowers overall power system costs by reducing the need for new generation assets and related infrastructure, benefiting consumers.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download",
+      "source_date": "2026-09-15"
+    },
+    {
+      "index": 3,
+      "title": "Methane leakage risks could offset biomethane transport emission savings",
+      "description": "While biomethane offers emissions reductions compared to conventional transport fuels, significant concerns exist regarding methane leakage. Leakage can occur from vehicle engines, especially at low loads, and from LNG storage for shipping. These emissions risks have led to limited roles for biomethane in some long-term decarbonisation pathways, potentially undermining its environmental benefits and future adoption in the transport sector.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download",
+      "source_date": "2026-09-15"
+    },
+    {
+      "index": 4,
+      "title": "Renewable Transport Fuel Obligation drives biomethane uptake in HGVs",
+      "description": "The Renewable Transport Fuel Obligation (RTFO) is a key UK policy promoting renewable fuels, including biomethane, in transport. It requires fuel providers to incorporate a certain portion of renewable fuel, thereby creating a market and encouraging uptake, particularly in heavy goods vehicles (HGVs). This policy, alongside reduced fuel duty for methane, supports organisations aiming to reduce their operational emissions.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download",
+      "source_date": "2026-09-15"
+    },
+    {
+      "index": 5,
+      "title": "Declining gas demand necessitates network transition and regulatory adaptation",
+      "description": "Great Britain's gas market is undergoing a fundamental structural shift with declining gas demand due to decarbonisation efforts. This requires existing network arrangements, designed for high throughput, to adapt. Challenges include evolving charging and cost recovery mechanisms, managing gas disconnections, and planning for asset repurposing or decommissioning, all of which impact the long-term viability and operational models of gas distribution networks.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-14",
+      "source_doc_id": "38ce63f2-6f86-5227-904a-b495c51b57a6",
+      "source_title": "Gas Market Roadmap",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/385036/download",
+      "source_date": "2026-09-14"
+    },
+    {
+      "index": 6,
+      "title": "Declining consumer base increases per-user gas network costs",
+      "description": "As the gas market transitions and the number of connected users declines due to decarbonisation, the fixed and operational costs of maintaining gas distribution networks will be recovered from a smaller customer base. This will increase the per-user costs, potentially impacting affordability for remaining consumers and influencing their decisions regarding low-carbon alternatives, creating a challenge for network operators.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-14",
+      "source_doc_id": "38ce63f2-6f86-5227-904a-b495c51b57a6",
+      "source_title": "Gas Market Roadmap",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/385036/download",
+      "source_date": "2026-09-14"
+    },
+    {
+      "index": 7,
+      "title": "Increased gas disconnections driven by heat decarbonisation strategies",
+      "description": "Gas network disconnections are projected to increase significantly as part of Great Britain's heat decarbonisation efforts, particularly affecting piped gas to households (PNG). This trend necessitates a coherent, long-term approach to manage costs, processes, and responsibilities associated with large-scale disconnections, requiring coordination across consumers, networks, and regulatory bodies, fundamentally altering the gas distribution landscape.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-14",
+      "source_doc_id": "38ce63f2-6f86-5227-904a-b495c51b57a6",
+      "source_title": "Gas Market Roadmap",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/385036/download",
+      "source_date": "2026-09-14"
+    },
+    {
+      "index": 8,
+      "title": "Regulatory frameworks must adapt to changing gas network roles",
+      "description": "Ofgem’s Future Systems and Network Regulation (FSNR) programme highlights the need for more flexible regulatory frameworks for gas networks beyond RIIO-3. This adaptability is crucial to reflect changing patterns of system use, the evolving role of gas, and to support innovation and efficient use of assets during the energy transition, impacting how gas distribution networks are incentivised and funded.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-14",
+      "source_doc_id": "38ce63f2-6f86-5227-904a-b495c51b57a6",
+      "source_title": "Gas Market Roadmap",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/385036/download",
+      "source_date": "2026-09-14"
+    },
+    {
+      "index": 9,
+      "title": "Elevated and volatile gas prices impact affordability and investment",
+      "description": "UK gas prices remain elevated compared to historical averages, with ongoing volatility influenced by geopolitical uncertainty. This impacts consumer affordability for piped gas (PNG) and operational costs for gas distribution companies. While larger energy producers may benefit, smaller retail suppliers face increased risk, potentially affecting investment in network upgrades and the overall stability of the gas distribution sector.",
+      "type": "cyclical_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 10,
+      "title": "Declining throughput strains gas network charging and cost recovery models",
+      "description": "As gas demand declines in Great Britain, existing transmission and distribution network charging mechanisms, designed for high throughput, will be significantly impacted. This challenges the recovery of allowed revenues under the RIIO framework. A smaller customer base will lead to higher costs per remaining user, impacting affordability and potentially slowing the transition to low-carbon alternatives, posing a major financial hurdle for gas distribution.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-14",
+      "source_doc_id": "38ce63f2-6f86-5227-904a-b495c51b57a6",
+      "source_title": "Gas Market Roadmap",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/385036/download",
+      "source_date": "2026-09-14"
+    },
+    {
+      "index": 11,
+      "title": "Gas vital for system flexibility and balancing renewable energy output",
+      "description": "Despite decarbonisation trends, natural gas (and thus its distribution) will continue to play a critical role in the UK energy system. It is essential for meeting peak energy demand, providing security of power supply during periods of low renewable energy output, and balancing the electricity system. This enduring need ensures a foundational demand for gas distribution infrastructure, albeit with evolving usage patterns.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-14",
+      "source_doc_id": "38ce63f2-6f86-5227-904a-b495c51b57a6",
+      "source_title": "Gas Market Roadmap",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/385036/download",
+      "source_date": "2026-09-14"
+    },
+    {
+      "index": 12,
+      "title": "Geopolitical instability elevates energy security, boosting domestic gas focus",
+      "description": "Escalating tensions in the Middle East and global supply chain disruptions have heightened concerns over energy security and geopolitical risk. This reinforces the strategic importance of domestic energy production and resilient infrastructure. For gas distribution, it could translate into policies that prioritize sustaining domestic gas supplies and infrastructure to reduce reliance on volatile international markets, potentially influencing investment in local networks.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 13,
+      "title": "Uncertainties in heat decarbonisation impact future gas demand trajectory",
+      "description": "The pace and scale of future gas demand decline in Great Britain remain uncertain, influenced by policy decisions on heat decarbonisation, industrial demand shifts, and consumer choices for alternative heating solutions. This variability creates significant challenges for long-term planning, investment decisions, and the regulatory framework of gas distribution networks, requiring flexibility and coordinated action.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-14",
+      "source_doc_id": "38ce63f2-6f86-5227-904a-b495c51b57a6",
+      "source_title": "Gas Market Roadmap",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/385036/download",
+      "source_date": "2026-09-14"
+    },
+    {
+      "index": 14,
+      "title": "Hydrogen market development offers future repurposing opportunities for gas networks",
+      "description": "The development of hydrogen markets, including blending into existing gas networks and dedicated hydrogen infrastructure, presents a significant upside for gas distribution companies. This offers potential for repurposing existing gas assets and pipelines for low-carbon hydrogen transport, extending asset life and aligning with net-zero goals. However, it requires maturing support frameworks, infrastructure decisions, and system coordination.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-14",
+      "source_doc_id": "38ce63f2-6f86-5227-904a-b495c51b57a6",
+      "source_title": "Gas Market Roadmap",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/385036/download",
+      "source_date": "2026-09-14"
+    },
+    {
+      "index": 15,
+      "title": "CCUS market development creates new revenue streams from biomethane",
+      "description": "The development of Carbon Capture, Utilisation & Storage (CCUS) markets provides a significant opportunity for biomethane producers and, indirectly, gas distribution. Capturing CO2 from biomethane production for permanent storage or utilisation (e.g., in e-fuels like SAF) enables greenhouse gas removals and creates new revenue streams. This enhances the economic viability of biomethane, increasing its supply for injection into gas distribution networks.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download",
+      "source_date": "2026-09-15"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Biomethane's significant potential in UK gas distribution requires policy and grid support",
+      "description": "NESO sees biomethane playing a growing and important role in Great Britain's energy system, contributing to decarbonisation in industry and transport. Production could substantially increase from 6 TWh to around 30 TWh per year by 2050 without significant feedstock dependencies or risks. However, this growth is reliant on consistent policy support, addressing existing barriers to gas grid injection, and strategic cross-sector collaboration to maximize its value.",
+      "stance": "cautious_positive",
+      "source_firm": "neso",
+      "source_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download"
+    },
+    {
+      "index": 2,
+      "title": "UK gas market faces structural challenges from declining demand and decarbonisation",
+      "description": "NESO highlights that gas will remain important for Great Britain’s energy system, particularly for peak demand, heating, industry, and electricity system flexibility. However, existing gas market arrangements were designed for high throughput and a large consumer base. They must adapt to anticipate declining demand, evolving consumer behaviors, and the decarbonisation transition, presenting significant challenges for cost recovery, regulation, and asset management.",
+      "stance": "cautious_negative",
+      "source_firm": "neso",
+      "source_date": "2026-09-14",
+      "source_doc_id": "38ce63f2-6f86-5227-904a-b495c51b57a6",
+      "source_title": "Gas Market Roadmap",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/385036/download"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 6.0,
+      "tam_unit": "TWh",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Decarbonisation Goals",
+          "description": "Increasing policy emphasis on reducing greenhouse gas emissions drives demand for low-carbon alternatives like biomethane."
+        },
+        {
+          "driver": "Policy Support Schemes",
+          "description": "Government incentives like the Green Gas Support Scheme (GGSS) actively encourage the production and injection of biomethane into the gas grid."
+        },
+        {
+          "driver": "Hard-to-Decarbonise Sectors",
+          "description": "Demand from industries and transport sectors where electrification or other low-carbon alternatives are not yet viable or cost-effective."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Policy Subsidies (GGSS)",
+          "description": "Tariff payments to biomethane producers under schemes like GGSS bridge the cost gap with natural gas, improving profitability."
+        },
+        {
+          "driver": "Cost Reductions from Scale",
+          "description": "Development of larger anaerobic digestion (AD) assets can push production costs lower, enhancing economic viability."
+        },
+        {
+          "driver": "Secondary Revenue Streams",
+          "description": "Additional revenues from green gas certificates, gate fees for waste treatment, and CO2 utilisation or storage markets improve overall profitability."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Biomethane can reduce future power system costs by providing flexible generation, lessening the need for new generation assets.",
+          "opportunity": "Low Carbon Dispatchable Power"
+        },
+        {
+          "description": "Valuable role in decarbonising industrial sites outside major clusters where hydrogen and CCS infrastructure may be unavailable.",
+          "opportunity": "Hard-to-Electrify Industry"
+        },
+        {
+          "description": "Growing uptake as a transitional fuel (CNG/bioLNG) for long-haul HGVs and ships, where electrification faces significant challenges.",
+          "opportunity": "Heavy Goods Vehicles (HGVs) & Shipping"
+        },
+        {
+          "description": "Capturing and permanently storing CO2 from biomethane production offers a relatively low-cost route to achieving GGRs.",
+          "opportunity": "Greenhouse Gas Removals (GGRs)"
+        }
+      ],
+      "methodology": "Amount of biomethane injected into the GB gas grid in 2025, representing less than 1% of total gas demand. Potential to scale up to around 30 TWh per year by 2050 without significant dependencies, and up to 64 TWh by 2050 is feasible but requires cross-sector assessment.",
+      "source_firm": "neso",
+      "source_date": "2026-09-15",
+      "data_confidence": "high",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download"
+    },
+    {
+      "index": 2,
+      "tam_value": 1.0,
+      "tam_unit": "TWh",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Organisational Emission Reduction Ambitions",
+          "description": "Major supermarket chains and other organisations with internal decarbonisation targets are driving uptake in gas-powered HGVs running on biomethane."
+        },
+        {
+          "driver": "Policy Drivers",
+          "description": "Supportive policies such as the Renewable Transport Fuel Obligation (RTFO) and reduced fuel duty for methane encourage the use of biomethane in transport."
+        },
+        {
+          "driver": "Challenges for Electric HGVs",
+          "description": "Ongoing issues with electric HGVs regarding range, charging infrastructure, and upfront cost make gas-powered alternatives more attractive in the near-to-medium term."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Cost-Effectiveness",
+          "description": "The cost of biomethane relative to other low-carbon fuels and the incentives provided by policies like RTFO influence profitability."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Biomethane serves as a viable solution for decarbonising sectors like long-haul, heavy-duty HGVs, shipping, and certain industrial/agricultural vehicles until other alternatives mature.",
+          "opportunity": "Transitional Fuel for Hard-to-Electrify Transport"
+        }
+      ],
+      "methodology": "Amount of biomethane used in heavy goods vehicles (HGVs) in Great Britain in 2025, representing approximately 1% of total HGV fuel demand.",
+      "source_firm": "neso",
+      "source_date": "2026-09-15",
+      "data_confidence": "medium",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download"
+    },
+    {
+      "index": 3,
+      "tam_value": 3.7,
+      "tam_unit": "GBP_bn",
+      "sam_value": null,
+      "as_of_year": 2050,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Residual Gas Demand",
+          "description": "Continued need for gas to meet peak energy demand, provide electricity system flexibility, and supply hard-to-electrify industrial processes necessitates maintaining some gas network infrastructure."
+        },
+        {
+          "driver": "Network Maintenance and Upgrades",
+          "description": "Ongoing investment required to ensure the safety, reliability, and efficient operation of the remaining gas distribution network assets."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Regulatory Asset Value (RAV)",
+          "description": "The regulated asset base determines the capital on which network companies can earn a return, influencing cost recovery."
+        },
+        {
+          "driver": "Accelerated Depreciation",
+          "description": "Ofgem's policy of accelerating depreciation for new investments helps pay off assets by 2050, but a significant RAV may still remain."
+        },
+        {
+          "driver": "Network Charges",
+          "description": "The ability to recover costs through charges paid by a declining consumer base will critically impact financial performance."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Existing gas network assets could be repurposed for hydrogen distribution, extending their productive life and generating new revenue streams.",
+          "opportunity": "Asset Repurposing for Hydrogen"
+        }
+      ],
+      "methodology": "Projected closing gas distribution Regulatory Asset Value (RAV) by 2050, in £ million at 2023/24 prices, across FES 2025 pathways. The range is approximately £3.7bn to £4.3bn. Assumes Ofgem’s proposed accelerated depreciation of new investment continues beyond RIIO-3.",
+      "source_firm": "neso",
+      "source_date": "2026-09-14",
+      "data_confidence": "high",
+      "source_doc_id": "38ce63f2-6f86-5227-904a-b495c51b57a6",
+      "source_title": "Gas Market Roadmap",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/385036/download"
+    }
+  ],
+  "sources": [
+    "neso"
+  ],
+  "documents": [
+    {
+      "doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "title": "Biomethane report",
+      "publisher": "neso",
+      "date": "2026-09-15",
+      "url": "https://www.neso.energy/document/384986/download"
+    },
+    {
+      "doc_id": "38ce63f2-6f86-5227-904a-b495c51b57a6",
+      "title": "Gas Market Roadmap",
+      "publisher": "neso",
+      "date": "2026-09-14",
+      "url": "https://www.neso.energy/document/385036/download"
+    },
+    {
+      "doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "title": "September 2026 UK Sector Snippets",
+      "publisher": "allianz_uk",
+      "date": "2026-09-17",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "title": "Economic Report 2026",
+      "publisher": "oeuk",
+      "date": "2026-09-08",
+      "url": "https://oeuk.org.uk/product/economic-report-2026"
+    }
+  ]
+}

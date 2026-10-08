@@ -1,0 +1,565 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "AI accelerates early drug discovery timelines by 15-80%",
+      "description": "Artificial intelligence tools are significantly compressing early drug discovery timelines, with preclinical milestones for selected programs achieved 15 to 80 percent faster than large-pharma medians. This acceleration is evident in molecules developed by AI-native companies, highlighting AI's potential to boost efficiency in the initial stages of drug development for pharmaceutical firms.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-21",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "source_date": "2026-09-21"
+    },
+    {
+      "index": 2,
+      "title": "Clinical trial failures due to wrong disease mechanisms persist",
+      "description": "Despite advancements in AI for molecule design, the industry's critical bottleneck remains the accurate identification and validation of disease mechanisms. Getting the target, biomarker, or patient population wrong leads to significant Phase II and Phase III failures, with even well-optimized molecules failing clinical trials. This structural issue prevents early AI gains from translating into clinical success.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-21",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "source_date": "2026-09-21"
+    },
+    {
+      "index": 3,
+      "title": "Pharma deals for AI drug discovery shift to risk-mitigated structures",
+      "description": "Headline deal sizes for AI-enabled drug discovery doubled to $29.5 billion in 2025, yet deal structures reflect heavy risk mitigation. Up-front cash payments represented only 2 percent of deal value, with 60 to 90 percent contingent on downstream clinical and commercial milestones. This indicates pharma's caution regarding unproven science and a structural shift in how R&D value is attributed and paid out.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-21",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "source_date": "2026-09-21"
+    },
+    {
+      "index": 4,
+      "title": "Preclinical translation remains low maturity for AI",
+      "description": "The preclinical and translational research domain is the least mature for AI integration, facing significant complexity from species differences, variable disease models, and sparse human-linked data. Approximately one-quarter of Phase II and III failures stem from unpredicted safety issues, highlighting AI's current limitations in accurately modeling systemic toxicity and off-target effects in early development stages.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-21",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "source_date": "2026-09-21"
+    },
+    {
+      "index": 5,
+      "title": "End-to-end AI integration promises enhanced clinical success",
+      "description": "The largest potential returns from AI in drug discovery lie in end-to-end integration, connecting target validation through molecular design to translational readouts. This holistic approach aims to ensure that gains in one stage directly inform the next, transforming early research speed into higher clinical success rates. It requires focus on strengthening target identification through better data and causal evidence.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-21",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "source_date": "2026-09-21"
+    },
+    {
+      "index": 6,
+      "title": "Persistent pricing pressure and elevated input costs challenge pharma",
+      "description": "The UK pharmaceutical sector, while resilient, faces ongoing challenges from pricing pressure across major markets and elevated input costs. These factors strain margins and operational profitability for pharmaceutical companies. Smaller firms are particularly vulnerable to these cost pressures and associated liquidity and financing constraints, highlighting a need for careful financial management.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 7,
+      "title": "Biomanufacturing productivity plateaus as complexity increases",
+      "description": "After a decade of strong cost improvements and productivity gains, biomanufacturing momentum has stalled, with productivity declining 5% since 2018 and unit costs plateauing. This occurs as manufacturing becomes more complex due to increasing modality diversity, competitive pipelines, and a growing number of product launches, creating a significant challenge for pharmaceutical production efficiency.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "2146f442-b4ae-5660-8186-8bd6d7659bc6",
+      "source_title": "Backbones and networks: A blueprint for the biopharma plant of the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/backbones-and-networks-a-blueprint-for-the-biopharma-plant-of-the-future",
+      "source_date": "2026-09-15"
+    },
+    {
+      "index": 8,
+      "title": "Digital and AI offer significant gains in biopharma manufacturing",
+      "description": "Early digital adopters in biomanufacturing have achieved meaningful gains, including 10 percent improvements in overall equipment effectiveness, 20 percent reductions in conversion costs, and faster time to market. Scaling these digital and AI technologies, particularly through end-to-end workflow redesign and agentic AI for knowledge work, offers significant potential to boost productivity, resilience, and sustainability for pharmaceutical manufacturers.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "2146f442-b4ae-5660-8186-8bd6d7659bc6",
+      "source_title": "Backbones and networks: A blueprint for the biopharma plant of the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/backbones-and-networks-a-blueprint-for-the-biopharma-plant-of-the-future",
+      "source_date": "2026-09-15"
+    },
+    {
+      "index": 9,
+      "title": "Rising clinical trial complexity strains sponsor and site capacity",
+      "description": "Clinical trial complexity continues to increase, with 82% of respondents finding trials more complex than three years ago. This leads to more frequent timeline delays (54% of trials delayed by over 20%). Patient recruitment, site activation, and protocol amendments remain top causes for delays, compounded by intensifying competition for patient populations and worsening site bandwidth constraints.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-02",
+      "source_doc_id": "8203bb9b-8243-5905-9c44-0d32d529db93",
+      "source_title": "Clinical Trials Face Persistent Challenges—and New Opportunities",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/clinical-trials-face-persistent-challenges-and-new-opportunities",
+      "source_date": "2026-09-02"
+    },
+    {
+      "index": 10,
+      "title": "AI adoption in clinical trials accelerates efficiency and redesign",
+      "description": "AI and machine learning adoption is growing in clinical trials, with 65% of sponsors and CROs piloting tools and 16% reshaping roles and workflows around AI. Organizations actively redesigning processes around AI capabilities report the greatest performance gains. The primary impact areas are data management, cleaning, trial monitoring, and patient recruitment, offering significant opportunities to alleviate operational bottlenecks.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-02",
+      "source_doc_id": "8203bb9b-8243-5905-9c44-0d32d529db93",
+      "source_title": "Clinical Trials Face Persistent Challenges—and New Opportunities",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/clinical-trials-face-persistent-challenges-and-new-opportunities",
+      "source_date": "2026-09-02"
+    },
+    {
+      "index": 11,
+      "title": "Slower cash conversion for UK pharmaceutical businesses",
+      "description": "Despite being a low-risk sector, UK pharmaceuticals exhibit slower cash conversion, with an average Days Sales Outstanding (DSO) of 83 days. This is considerably higher than the Western European average of 69 days and the global average of 66 days. This extended payment cycle means pharmaceutical businesses must prioritize strong credit management to ensure timely cash generation and maintain liquidity.",
+      "type": "headwind",
+      "impact_magnitude": "low",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-01",
+      "source_doc_id": "3bc3246a-d1e3-5573-af6a-5fbf16a28a14",
+      "source_title": "Mind the cash gap: The state of UK working capital",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/mind-the-cash-gap-the-state-of-uk-working-capital.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "index": 12,
+      "title": "Expanding GLP-1 indications and market access drive growth",
+      "description": "GLP-1 medications are expanding into new indications, including sleep apnea, MASH, and cardiovascular risk, alongside existing uses for type 2 diabetes and obesity. Increased market access through direct fulfillment platforms, growing employer coverage, broader telehealth collaborations, and anticipated Medicare coverage for obesity from 2026 are significantly driving the user base and revenue potential for branded pharmaceutical companies.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-06",
+      "source_doc_id": "b851c88f-f46b-56e1-ba03-f4e8a3515ea2",
+      "source_title": "The Unexpected Ways GLP-1s Are Transforming Consumer Behavior",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/glp-1-consumer-behavior-shift",
+      "source_date": "2026-08-06"
+    },
+    {
+      "index": 13,
+      "title": "US pricing pressure erodes pharma's historical margin structures",
+      "description": "The US pricing umbrella for pharmaceuticals is under unprecedented pressure, which is beginning to affect launch decisions in other geographies. This erosion of historically wide US margins forces the industry to innovate operationally. Pharma's legacy of slow adaptation now faces intensified pressure to transform due to demanding economics, a significant shift from its decades-long reliance on stable returns.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-03",
+      "source_doc_id": "025b0ea1-e5c4-57c7-842a-586a9a524dd0",
+      "source_title": "Why Pharma Transformations Stall—and How to Fix Them",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/why-pharma-transformations-stall-and-how-to-fix-them",
+      "source_date": "2026-08-03"
+    },
+    {
+      "index": 14,
+      "title": "Pharma market unbundling by geography and therapeutic area",
+      "description": "The pharmaceutical market is fragmenting along two dimensions: geography and therapeutic area. A swelling pipeline of tailored therapies and increasing disease awareness are squeezing payer budgets, leading to diverging approaches to pricing and access globally. This unbundling creates more complex trade-offs in R&D, commercialization, and patient support, requiring a fundamental redesign of operating models.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-08-03",
+      "source_doc_id": "025b0ea1-e5c4-57c7-842a-586a9a524dd0",
+      "source_title": "Why Pharma Transformations Stall—and How to Fix Them",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/why-pharma-transformations-stall-and-how-to-fix-them",
+      "source_date": "2026-08-03"
+    },
+    {
+      "index": 15,
+      "title": "AI-native competitors threaten legacy pharma models",
+      "description": "A significant risk for pharmaceutical companies is the emergence of AI-native competitors who could reach physicians and patients faster and more precisely than traditional legacy models. Additionally, the algorithms powering treatment decisions might end up owned by electronic health record companies, payers, and consumer tech, potentially disintermediating pharmaceutical companies from key patient pathways and data insights.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-03",
+      "source_doc_id": "025b0ea1-e5c4-57c7-842a-586a9a524dd0",
+      "source_title": "Why Pharma Transformations Stall—and How to Fix Them",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/why-pharma-transformations-stall-and-how-to-fix-them",
+      "source_date": "2026-08-03"
+    },
+    {
+      "index": 16,
+      "title": "UK secures £3 billion life sciences investment, boosts manufacturing",
+      "description": "The UK has attracted over £3 billion in life sciences investment since the launch of its Sector Plan, with interventions like the Life Sciences Innovative Manufacturing Fund unlocking significant private capital. This investment supports manufacturing capabilities and safeguards high-skilled jobs, indicating a strong commitment to growing the sector and providing a robust environment for pharmaceutical companies.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-09",
+      "source_doc_id": "66894df7-5992-5683-bb01-4e574eb0de16",
+      "source_title": "Life Sciences Sector Plan: One Year On",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/life-sciences-sector-plan-one-year-on",
+      "source_date": "2026-07-09"
+    },
+    {
+      "index": 17,
+      "title": "Clinical trial set-up times reduced by 28% in UK",
+      "description": "The median set-up time for commercial interventional clinical trials in the UK has significantly decreased from 169 days to 122 days in the first half of 2025/26, a 28% reduction. This acceleration, driven by streamlined processes and reduced red tape, brings innovative treatments to patients faster and enhances the UK's attractiveness as a global location for pharmaceutical research and development.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-09",
+      "source_doc_id": "66894df7-5992-5683-bb01-4e574eb0de16",
+      "source_title": "Life Sciences Sector Plan: One Year On",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/life-sciences-sector-plan-one-year-on",
+      "source_date": "2026-07-09"
+    },
+    {
+      "index": 18,
+      "title": "Government commits to double spending on innovative medicines",
+      "description": "The UK government has committed to doubling spending on innovative medicines as a proportion of GDP, increasing from 0.3% to 0.6% over the next 10 years. This strategic commitment aims to support faster patient access to cutting-edge treatments, including for cancer and life-limiting conditions, and signals to global investors that the UK is a serious, long-term partner for the pharmaceutical industry.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-09",
+      "source_doc_id": "66894df7-5992-5683-bb01-4e574eb0de16",
+      "source_title": "Life Sciences Sector Plan: One Year On",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/life-sciences-sector-plan-one-year-on",
+      "source_date": "2026-07-09"
+    },
+    {
+      "index": 19,
+      "title": "Aligned regulatory pathway speeds medicine access",
+      "description": "An aligned pathway between NICE and MHRA is now in place, enabling same-time decisions and potentially bringing new medicines to patients up to three to six months sooner. This streamlined regulatory and market access process reduces delays, improving the efficiency of launching new pharmaceutical products in the UK market and ultimately enhancing patient outcomes.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-09",
+      "source_doc_id": "66894df7-5992-5683-bb01-4e574eb0de16",
+      "source_title": "Life Sciences Sector Plan: One Year On",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/life-sciences-sector-plan-one-year-on",
+      "source_date": "2026-07-09"
+    },
+    {
+      "index": 20,
+      "title": "UK trails top European peers in patient access to medicines",
+      "description": "While England and Scotland rank within the top ten in Europe for speed of access to medicines, the UK currently sits mid-range and outside the top three. This indicates a need for further progress to achieve the Life Sciences Sector Plan's target of becoming one of the top three fastest places in Europe for patient access by 2030, presenting a challenge for market penetration.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-09",
+      "source_doc_id": "66894df7-5992-5683-bb01-4e574eb0de16",
+      "source_title": "Life Sciences Sector Plan: One Year On",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/life-sciences-sector-plan-one-year-on",
+      "source_date": "2026-07-09"
+    },
+    {
+      "index": 21,
+      "title": "US significantly outpaces UK in life sciences venture capital funding",
+      "description": "The global landscape for life sciences investment remains highly competitive, with the US securing notably higher Foreign Direct Investment and equity finance compared to all competitors. Specifically, the US raised 1.5 times more venture capital than the UK on a relative basis between 2022 and 2024. This large funding gap presents a challenge for UK pharmaceutical companies seeking growth and scale-up capital.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-09",
+      "source_doc_id": "66894df7-5992-5683-bb01-4e574eb0de16",
+      "source_title": "Life Sciences Sector Plan: One Year On",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/life-sciences-sector-plan-one-year-on",
+      "source_date": "2026-07-09"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "AI investments in drug discovery concentrated where tools are mature, not bottlenecks",
+      "description": "McKinsey's Life Sciences Practice views AI investment in drug discovery as misaligned. While AI accelerates early timelines, most capital concentrates on molecule design due to mature tools and structured data. However, the true bottleneck and source of clinical failure lies in identifying and validating disease mechanisms. This concentration risks accelerating assets toward downstream failures if the foundational biology is incorrect.",
+      "stance": "cautious_negative",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-21",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most"
+    },
+    {
+      "index": 2,
+      "title": "UK pharmaceutical sector resilient but faces pricing and cost pressures",
+      "description": "Allianz UK views the UK pharmaceutical sector as a resilient pillar of the economy, driven by strong demand and ongoing innovation. However, it faces challenges from persistent pricing pressure and elevated input costs. Smaller firms within the sector are particularly vulnerable to liquidity and financing constraints, requiring careful monitoring to ensure sustained competitiveness.",
+      "stance": "cautious_positive",
+      "source_firm": "allianz_uk",
+      "source_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "index": 3,
+      "title": "Pharmaceuticals low-risk but cash conversion lags European and global averages",
+      "description": "Allianz UK identifies the Pharmaceuticals sector as low-risk within the UK, indicating fundamental stability. Despite this, the sector experiences slower cash conversion, evidenced by a Days Sales Outstanding (DSO) of 83 days, notably higher than Western European (69 days) and global (66 days) averages. This highlights a need for businesses to actively manage credit to translate strong trading into timely cash flow.",
+      "stance": "cautious_positive",
+      "source_firm": "allianz_uk",
+      "source_date": "2026-09-01",
+      "source_doc_id": "3bc3246a-d1e3-5573-af6a-5fbf16a28a14",
+      "source_title": "Mind the cash gap: The state of UK working capital",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/mind-the-cash-gap-the-state-of-uk-working-capital.html"
+    },
+    {
+      "index": 4,
+      "title": "Pharma's legacy operating model unprepared for simultaneous market changes",
+      "description": "Bain asserts that the pharmaceutical industry's historical operating model is ill-equipped for the concurrent pressures of US pricing, market unbundling, and rapid AI advancement. The sector's low success rate in transformations (11% fully achieve targets) and reliance on incremental adaptation expose it to significant risks, as the cost of these operational gaps is rapidly increasing. Pharma must build a muscle for continuous change.",
+      "stance": "cautious_negative",
+      "source_firm": "bain",
+      "source_date": "2026-08-03",
+      "source_doc_id": "025b0ea1-e5c4-57c7-842a-586a9a524dd0",
+      "source_title": "Why Pharma Transformations Stall—and How to Fix Them",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/why-pharma-transformations-stall-and-how-to-fix-them"
+    },
+    {
+      "index": 5,
+      "title": "UK Life Sciences sector delivers tangible results, strengthens global competitiveness",
+      "description": "The UK government views the life sciences sector, including pharmaceuticals, as a national asset driving innovation, investment, and job creation. One year into its sector plan, significant progress is noted, including over £3 billion in new investment, accelerated clinical trial setup times, and improved regulatory pathways. These achievements strengthen the UK's global competitiveness in a challenging international environment.",
+      "stance": "positive",
+      "source_firm": "govuk_is",
+      "source_date": "2026-07-09",
+      "source_doc_id": "66894df7-5992-5683-bb01-4e574eb0de16",
+      "source_title": "Life Sciences Sector Plan: One Year On",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/life-sciences-sector-plan-one-year-on"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 8.4,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 43.0,
+      "historical_cagr_period": "2023-2025",
+      "demand_drivers": [
+        {
+          "driver": "Accelerated drug discovery timelines",
+          "description": "AI-enabled platforms are compressing early research timelines, showing 15-80% faster preclinical milestones, driving investment in these technologies."
+        },
+        {
+          "driver": "Biopharma partnerships with technology companies",
+          "description": "Large pharma companies are increasing deals with AI-native technology firms to leverage AI capabilities, driving funding into the AIDD space, albeit with risk-mitigating deal structures."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total investor funding in AI-enabled drug discovery (AIDD). Figure represents total funding, not market revenue or TAM of pharma products. It measures investment in drug discovery tools and platforms.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-21",
+      "data_confidence": "high",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Expanded reimbursement and commercial coverage",
+          "description": "Continued expansion of reimbursement, including Medicare coverage for obesity starting in 2026, and deepening commercial coverage via employer plans and fewer restrictions, will increase patient access and uptake."
+        },
+        {
+          "driver": "Increased uptake and consumer acceptance",
+          "description": "Growing physician adoption, higher consumer acceptance, lower out-of-pocket costs, and improved side-effect management contribute to greater patient willingness to use GLP-1s."
+        },
+        {
+          "driver": "Expansion into new segments and formats",
+          "description": "Introduction of new GLP-1 formats, such as orals and lower-cost injectables, alongside expansion into new indications (e.g., sleep apnea, MASH, cardiovascular risk), will broaden the addressable patient population."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Expansion of GLP-1s into new therapeutic areas like sleep apnea, MASH, and cardiovascular risk, alongside existing diabetes and obesity uses, presents significant growth avenues for pharmaceutical manufacturers.",
+          "opportunity": "New GLP-1 indications"
+        },
+        {
+          "description": "The emergence of direct fulfillment digital platforms by pharmaceutical companies (e.g., Lilly) and broader collaboration with telehealth providers and pharmacy benefit managers can expand market reach and access for GLP-1 products.",
+          "opportunity": "Direct-to-consumer access models"
+        }
+      ],
+      "methodology": "User base of GLP-1 medications in the US adult population, with projections for future growth and key assumptions affecting adoption. While not a monetary value, it indicates significant market expansion for a specific class of branded pharmaceutical products.",
+      "source_firm": "bcg_global",
+      "source_date": "2026-08-06",
+      "data_confidence": "high",
+      "source_doc_id": "b851c88f-f46b-56e1-ba03-f4e8a3515ea2",
+      "source_title": "The Unexpected Ways GLP-1s Are Transforming Consumer Behavior",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/glp-1-consumer-behavior-shift"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2023,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong underlying research capability",
+          "description": "The UK's historical scientific strengths and robust intellectual property regime provide a strong foundation for pharmaceutical R&D investment."
+        },
+        {
+          "driver": "Government support for life sciences",
+          "description": "Strategic initiatives like the Life Sciences Sector Plan and public R&D investment aim to maintain and enhance the UK's leading position in commercial pharmaceutical R&D."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Comparative ranking of commercial pharmaceutical R&D investment across European economies.",
+      "source_firm": "govuk_is",
+      "source_date": "2026-07-09",
+      "data_confidence": "high",
+      "source_doc_id": "66894df7-5992-5683-bb01-4e574eb0de16",
+      "source_title": "Life Sciences Sector Plan: One Year On",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/life-sciences-sector-plan-one-year-on"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "UK's attractiveness for life sciences investment",
+          "description": "The UK's strong ecosystem for life sciences, supported by government initiatives and a robust research base, attracts significant equity finance."
+        },
+        {
+          "driver": "Global competition for capital",
+          "description": "Despite strong performance, the market for life sciences equity finance is competitive and subject to wider economic conditions, with the US attracting significantly more capital."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Comparative ranking of life sciences equity finance raised globally and across Europe. This indicates the availability of capital for companies, including pharmaceuticals.",
+      "source_firm": "govuk_is",
+      "source_date": "2026-07-09",
+      "data_confidence": "high",
+      "source_doc_id": "66894df7-5992-5683-bb01-4e574eb0de16",
+      "source_title": "Life Sciences Sector Plan: One Year On",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/life-sciences-sector-plan-one-year-on"
+    }
+  ],
+  "sources": [
+    "mckinsey",
+    "allianz_uk",
+    "bain",
+    "govuk_is",
+    "bcg_global"
+  ],
+  "documents": [
+    {
+      "doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "title": "AI drug discovery: Focusing on what matters most",
+      "publisher": "mckinsey",
+      "date": "2026-09-21",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most"
+    },
+    {
+      "doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "title": "September 2026 UK Sector Snippets",
+      "publisher": "allianz_uk",
+      "date": "2026-09-17",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "doc_id": "3bc3246a-d1e3-5573-af6a-5fbf16a28a14",
+      "title": "Mind the cash gap: The state of UK working capital",
+      "publisher": "allianz_uk",
+      "date": "2026-09-01",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/mind-the-cash-gap-the-state-of-uk-working-capital.html"
+    },
+    {
+      "doc_id": "025b0ea1-e5c4-57c7-842a-586a9a524dd0",
+      "title": "Why Pharma Transformations Stall—and How to Fix Them",
+      "publisher": "bain",
+      "date": "2026-08-03",
+      "url": "https://www.bain.com/insights/why-pharma-transformations-stall-and-how-to-fix-them"
+    },
+    {
+      "doc_id": "66894df7-5992-5683-bb01-4e574eb0de16",
+      "title": "Life Sciences Sector Plan: One Year On",
+      "publisher": "govuk_is",
+      "date": "2026-07-09",
+      "url": "https://www.gov.uk/government/publications/life-sciences-sector-plan-one-year-on"
+    },
+    {
+      "doc_id": "2146f442-b4ae-5660-8186-8bd6d7659bc6",
+      "title": "Backbones and networks: A blueprint for the biopharma plant of the future",
+      "publisher": "mckinsey",
+      "date": "2026-09-15",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/backbones-and-networks-a-blueprint-for-the-biopharma-plant-of-the-future"
+    },
+    {
+      "doc_id": "8203bb9b-8243-5905-9c44-0d32d529db93",
+      "title": "Clinical Trials Face Persistent Challenges—and New Opportunities",
+      "publisher": "bain",
+      "date": "2026-09-02",
+      "url": "https://www.bain.com/insights/clinical-trials-face-persistent-challenges-and-new-opportunities"
+    },
+    {
+      "doc_id": "b851c88f-f46b-56e1-ba03-f4e8a3515ea2",
+      "title": "The Unexpected Ways GLP-1s Are Transforming Consumer Behavior",
+      "publisher": "bcg_global",
+      "date": "2026-08-06",
+      "url": "https://www.bcg.com/publications/2026/glp-1-consumer-behavior-shift"
+    }
+  ]
+}

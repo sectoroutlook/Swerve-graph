@@ -1,0 +1,446 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Global payments revenue growth significantly moderating",
+      "description": "Global payments revenue growth is moderating from an average annual rate of 9 percent (2020-25) to a projected 4 percent (2025-30). This slowdown reflects fading tailwinds such as cash displacement plateauing and growth normalizing, reducing the overall market momentum that banks have historically benefited from. This moderation will put pressure on banking revenues, especially given payments represent a large portion of total banking income.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Softening interest rate tailwinds reducing net interest income",
+      "description": "The elevated interest rate environment, which previously served as a strong cyclical tailwind driving rapid growth in net interest income (NII) for banks, is now softening. This dampens net interest margins and reduces the NII component of payments revenue, forcing banks to rely more on fee-based income. While a sustained 25-basis-point rate increase could add $100 billion to global revenues by 2030, the general trend is for rates to ease, impacting profitability.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Generative AI and agentic commerce threatening deposit yields and card fees",
+      "description": "Generative AI and agentic commerce pose a significant threat to banks' traditional revenue streams, specifically deposit yields and card fee pools. Agentic AI could automatically sweep idle cash to higher-yielding accounts, causing balance migration and yield compression. It can also erode consumer credit card revenues through payment rail substitution, automated repayment optimization, and fee avoidance. This technology is expected to put $75 billion to $160 billion of global payments revenue at risk by 2030, compelling banks to adapt their business models.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Fragmentation of payment infrastructure into regional multi-rail arenas",
+      "description": "Contrary to theoretical convergence, payment infrastructure is fragmenting into regional, multi-rail competitive arenas. Institutions must navigate competing pressures from zero-fee domestic real-time account-to-account (A2A) networks, legacy card perimeters, and wholesale stablecoin corridors for cross-border settlement. This fragmentation increases operational complexity and demands significant investment from banks to support diverse payment mechanisms, while also creating opportunities for specialized service providers.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Emergence of invisible payments shifting value to trust infrastructure",
+      "description": "As checkout processes dissolve into software and transactions become 'invisible', payment value is shifting from front-end screens and branded interfaces to the invisible control layer of trust, dynamic routing, and agentic rails. This includes credentials, consent engines, machine identity, and policy control. Banks that build and own this underlying infrastructure will be better positioned to capture value, as the strategic question shifts from payment visibility to infrastructure ownership.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Digital assets bypassing traditional bank and card economics",
+      "description": "Digital assets like stablecoins and tokenized deposits pose an additional headwind to payments and deposit revenues. They bypass traditional interchange and foreign-exchange (FX) conversion markups and shift float income out of commercial bank deposits. As cross-border corporate corridors adopt tokenized settlement, providers will face direct margin pressure on foreign-exchange spreads and correspondent banking fees, requiring banks to integrate or compete with these new forms of settlement.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Accelerating shift to machine-to-machine transactions",
+      "description": "There is an accelerating shift towards machine-to-machine (M2M) transactions, particularly in business-to-business and developer-led flows, driven by autonomous algorithms. Machines optimize purely for speed, yield, and fee structure, which will impact how payments are routed and monetized. Banks need to scale M2M applications and integrate them into treasury workflows to optimize total payment costs, or risk being bypassed by more efficient, automated systems.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "Geopolitical and regulatory fragmentation hindering payment rail innovation",
+      "description": "National supervisory frameworks are becoming the primary pacing variable for payment rail innovation, with major markets pursuing paths to preserve monetary sovereignty rather than converging on global standards. This geopolitical and regulatory fragmentation creates challenges for cross-border payment solutions and increases the complexity of compliance for banks. It also raises questions about legal and financial responsibility for autonomous, cross-border transactions, demanding robust frameworks and international coordination.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "title": "Asymmetric economics driving consolidation in payments sector",
+      "description": "Structural consolidation in the payments sector is deemed inevitable due to a financial imbalance where IT expenditures are compounding at roughly 9 percent annually, while global payments revenue growth moderates to just 4 percent. This asymmetry puts severe pressure on margins, making massive scale or direct rail control primary defenses. Banks and payment providers will need to pursue consolidation or form strategic partnerships with domestic payment champions to survive and achieve competitive advantage.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 10,
+      "title": "Adversarial AI requires robust, real-time fraud mitigation",
+      "description": "The rise of adversarial AI necessitates robust fraud mitigation systems as legacy fraud screening, designed for human interaction, is ineffective against software agents executing transactions in milliseconds. For transactions occurring at machine-to-machine speeds under delegated policies, human-in-the-loop dispute resolution becomes economically untenable. Banks must invest in building real-time trust-scoring systems that evaluate machine identity and policy compliance within microseconds to safeguard advanced payment rails.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 11,
+      "title": "Western Europe maintaining 'card-resilient' payment market",
+      "description": "Western Europe, along with North America and the UK, is identified as a 'card-resilient' market with mature credit and debit card infrastructure. Entrenched merchant acceptance, high-value consumer rewards, and built-in dispute resolution preserve the card perimeter. This means automated software agents in these markets are highly likely to route transactions through established card rails, providing a continued foundation for existing card-centric banking operations, despite the rise of alternative payment methods.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 12,
+      "title": "Agentic commerce becoming strategic priority for future payments",
+      "description": "Agentic commerce is emerging as a strategic priority because the infrastructure battle for how machines authenticate, consent, and route transactions is happening now. Autonomous software agents will dynamically route transactions based on cost, speed, and trust, shifting the competitive edge. Banks and operators must build positions in the 'trust layer' immediately, as major networks and tech firms are drafting emerging agentic protocols, making early adoption critical for future market leadership.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 13,
+      "title": "Fluid client loyalty with significant annual wallet share rotation",
+      "description": "Banking client loyalty is no longer static, with 12 to 25 percent of banking wallet share rotating among providers annually across different segments (corporates, institutional investors, financial sponsors). This means banks constantly face the risk of losing profitable business to competitors who can offer better pricing, execution, novel ideas, or more favorable terms. Banks must continuously demonstrate value and proactively engage clients to retain and grow their wallet share, rather than relying on historical relationships.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "source_date": "2026-09-16",
+      "country_focus": "EU"
+    },
+    {
+      "index": 14,
+      "title": "Achieving anchor bank status drives disproportionately higher wallet share",
+      "description": "Securing 'house bank' or 'anchor bank' status with clients drives disproportionately higher wallet share. Corporates consolidate approximately 73 percent of their wallet with primary banks, while institutional investors and financial sponsors consolidate 60 percent and 55 percent respectively. Anchor banks are rewarded with high-yield, complex mandates (e.g., global liquidity, M&A, capital markets), offering a massive upside compared to being relegated to utility roles. This incentivizes banks to strategically choose where to compete and differentiate to attain this coveted status.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "source_date": "2026-09-16",
+      "country_focus": "EU"
+    },
+    {
+      "index": 15,
+      "title": "Weaker mortgage lending and higher interest rates persist",
+      "description": "The Belgian housing market is facing a challenging environment characterized by persistently weaker mortgage lending and higher interest rates. The number of new mortgages remains around 10 percent below the previous year's level, and long-term interest rates continue to rise due to ongoing geopolitical tensions. These factors create restrictive financing conditions, directly impacting banks' profitability in the commercial and retail banking segments through reduced mortgage originations and potential for increased credit risk.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-23",
+      "source_doc_id": "b9cd6120-65ad-54cd-b00f-818b134419f2",
+      "source_title": "Second-quarter resilience masks a more challenging outlook for Belgian housing",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/second-quarter-resilience-masks-a-more-challenging-outlook-for-belgian-housing",
+      "source_date": "2026-09-23",
+      "country_focus": "BE"
+    },
+    {
+      "index": 16,
+      "title": "Higher energy prices boosting demand for efficient homes",
+      "description": "Rising energy prices are widening the price gap between energy-efficient and energy-intensive homes, increasing the value premium for energy-efficient properties. This trend reinforces the financial benefits of investments in insulation and efficient heating systems, shortening payback periods. For banks, this presents an upside driver for green mortgage products and loans for energy-efficient renovations, aligning with growing consumer demand and potentially offering new revenue streams in the retail banking sector.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-23",
+      "source_doc_id": "b9cd6120-65ad-54cd-b00f-818b134419f2",
+      "source_title": "Second-quarter resilience masks a more challenging outlook for Belgian housing",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/second-quarter-resilience-masks-a-more-challenging-outlook-for-belgian-housing",
+      "source_date": "2026-09-23",
+      "country_focus": "BE"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Global payments revenue moderation signals structural industry transition",
+      "description": "Global payments revenue growth is moderating from 9 percent to 4 percent annually, signaling a structural transition across the global payments landscape. This moderation implies that future growth will depend less on broad market momentum and more on deliberate competitive advantages like operational discipline and technological leadership. As payments represent 41 percent of total banking revenues, this shift has significant implications for banks' overall financial performance and strategic priorities.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "EMEA payments market faces margin compression and slow growth",
+      "description": "The EMEA region's payments market is projected to experience significant margin compression and slow growth, with annual growth decelerating from 14 percent (2020-25) to 3 percent (2025-30). This is attributed to lower interest rates compressing treasury and deposit margins, which is prompting a rapid shift toward fee-based structures. This outlook presents a challenging environment for banks operating in EMEA payments, requiring strategic adjustments to maintain profitability.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Traditional card models facing collision with zero-fee real-time networks",
+      "description": "Senior payment executives report a 'head-on collision' between zero-fee domestic real-time networks and the legacy interchange model of card issuers. This indicates significant competitive pressure on traditional card-based revenue streams, which card issuers are actively trying to protect. Banks heavily reliant on card economics will face increasing challenges to maintain their margins and market position as real-time payment systems gain traction.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Belgian housing market outlook challenging with weaker mortgage lending",
+      "description": "The Belgian housing market, despite some recent resilience, faces a challenging outlook due to weaker mortgage production and sustained higher interest rates. The number of new mortgages is significantly below previous year levels, suggesting a likely slowdown in demand. This directly impacts the commercial and retail banking sector's mortgage lending business, leading to reduced credit growth and potential pressure on related revenue streams.",
+      "stance": "cautious_negative",
+      "source_firm": "ING Think",
+      "source_date": "2026-09-23",
+      "source_doc_id": "b9cd6120-65ad-54cd-b00f-818b134419f2",
+      "source_title": "Second-quarter resilience masks a more challenging outlook for Belgian housing",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/second-quarter-resilience-masks-a-more-challenging-outlook-for-belgian-housing",
+      "country_focus": "BE"
+    },
+    {
+      "index": 5,
+      "title": "Client loyalty in banking is fluid, demanding continuous relationship re-earning",
+      "description": "Banking relationships are no longer evergreen, with clients continuously optimizing their provider ecosystems. Surveyed corporates reassess allocations annually, with 12 to 13 percent of wallet share rotating per cycle. Institutional investors and financial sponsors show even greater volatility, reallocating 17 percent and 25 percent, respectively. This fluid environment means banks cannot assume client relationships are guaranteed and must actively re-earn their wallet share each year, especially for contestable flow and event products.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-16",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "country_focus": "EU"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 2.6,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 0.04,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": 0.09,
+      "historical_cagr_period": "2020-2025",
+      "demand_drivers": [
+        {
+          "driver": "Digital Transition",
+          "description": "Continued shift from cash to digital rails driving transaction volumes."
+        },
+        {
+          "driver": "Deepening Financial Flows",
+          "description": "Payment transaction value growing faster than nominal global GDP."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Net Interest Income (NII)",
+          "description": "Elevated interest rate environment historically drove NII growth, but softening rates will reduce this contribution. Future NII depends on sustained rate increases."
+        },
+        {
+          "driver": "Fee Income",
+          "description": "Expansion of value-added services and regulatory/competitive pressure on NII drive a shift towards fee-based revenue, expected to reach 56% of global payments revenue by 2030."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Global payments revenue, which represents roughly 41 percent of total banking revenues, and includes both fee and interest income. Forecast to grow to $3.2 trillion by 2030.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "data_confidence": "high",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Interest Rate Environment",
+          "description": "Elevated interest rates drove NII, but as they ease, NII share is projected to decline from 46% in 2025 to 44% by 2030."
+        },
+        {
+          "driver": "Value-Added Services",
+          "description": "Increasing monetization of value-added software, fraud mitigation, and specialized treasury services drives fee income, expected to rise from 54% in 2025 to 56% by 2030."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Analysis of global payments revenue mix split between net interest income (NII) and fee income.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "data_confidence": "high",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "tam_value": 75.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Deposit Net Interest Income (NII)",
+          "description": "Agentic AI will automatically sweep idle cash to higher-yielding accounts, causing balance migration and yield compression, putting $65 billion of deposit NII at risk."
+        },
+        {
+          "driver": "Consumer Credit Card Revenues",
+          "description": "Agentic AI can erode revenues through payment rail substitution, automated repayment optimization, fee avoidance, and real-time foreign-exchange routing, putting $10 billion at risk."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Baseline adoption scenario for agentic AI's impact on global payments revenue, specifically from retail and commercial deposits and consumer credit card revenues. Aggressive scenario could see this risk rise to $160 billion.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "data_confidence": "medium",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "McKinsey",
+    "ING Think"
+  ],
+  "documents": [
+    {
+      "doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "publisher": "mckinsey",
+      "date": "2026-09-25",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    },
+    {
+      "doc_id": "b9cd6120-65ad-54cd-b00f-818b134419f2",
+      "title": "Second-quarter resilience masks a more challenging outlook for Belgian housing",
+      "publisher": "ing_think",
+      "date": "2026-09-23",
+      "url": "https://think.ing.com/articles/second-quarter-resilience-masks-a-more-challenging-outlook-for-belgian-housing"
+    },
+    {
+      "doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "publisher": "mckinsey",
+      "date": "2026-09-16",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026"
+    }
+  ]
+}

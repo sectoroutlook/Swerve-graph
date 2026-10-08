@@ -1,0 +1,574 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Elevated Oil & Gas Prices Drive Sector Revenue for Producers",
+      "description": "Oil and gas prices remain elevated compared with historical averages, largely sustained by ongoing geopolitical uncertainty. This market condition generally benefits larger oil and gas producers, who leverage stronger balance sheets to absorb volatility and continue investing. However, smaller players, particularly retail suppliers, face elevated risks due to potential cost shocks, highlighting a widening divide within the sector.",
+      "type": "cyclical_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 2,
+      "title": "Strait of Hormuz Disruption Stresses Global Energy Supply Chains",
+      "description": "The ongoing disruption in the Strait of Hormuz, a critical chokepoint for about 20% of global oil and LNG trade, is a significant energy supply shock. While temporary buffers like bypass pipelines and strategic reserves have cushioned the immediate blow, the global refining system is notably stressed, and product inventories are thinning. This disruption underscores a persistent vulnerability and reshapes long-term energy security strategies for countries and companies.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 3,
+      "title": "Global Oil Trade Rewires Amid Geopolitical Shocks and Supply Shifts",
+      "description": "Geopolitical events, particularly the Strait of Hormuz disruption, have caused a significant rewiring of global oil trade flows. Over 20% of seaborne oil traded in Q2 2026 was rerouted compared to pre-crisis flows, with the US increasing exports and China adjusting imports and drawing down inventories. This demonstrates a fundamental shift in supply routes and trading patterns, impacting midstream logistics and market dynamics globally.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 4,
+      "title": "Refining System Under Severe Pressure from Disruptions and Suboptimal Yields",
+      "description": "The global refining system is experiencing significant stress due to disruptions in key regions, including over a quarter cut in Gulf refinery output and approximately 2 MMb/d of Russian capacity offline. Refineries in other regions are running near full capacity but face efficiency losses from adapting to suboptimal crude grades, leading to lower yields of high-demand products like jet fuel and diesel. This pressure, combined with low product inventories, drives higher prices.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 5,
+      "title": "Biomethane Production Scaling Up as Natural Gas Substitute",
+      "description": "Biomethane is increasingly positioned as a low-carbon alternative to natural gas in Great Britain, with production potential growing significantly (from 6 TWh to 30-64 TWh by 2050). This development represents a structural shift toward decarbonizing parts of the gas system, particularly for industry and transport. However, its growth is reliant on continued policy support and overcoming current barriers to gas grid injection, posing a long-term headwind for conventional natural gas demand.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download",
+      "source_date": "2026-09-15"
+    },
+    {
+      "index": 6,
+      "title": "Methane Leakage Threatens Biomethane's Low-Carbon Status in Transport",
+      "description": "Methane leakage during biomethane production and, critically, from gas-powered vehicles and LNG shipping, poses a significant risk to biomethane's low-carbon credentials. As methane is a potent greenhouse gas, even small leakages can undermine the climate benefits. This concern, highlighted in reports, particularly affects the growing use of biomethane/bioLNG in HGVs and shipping, challenging its role in transport decarbonisation pathways.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download",
+      "source_date": "2026-09-15"
+    },
+    {
+      "index": 7,
+      "title": "LNG Procurement Shifts to Geographic Diversification and Contract Flexibility",
+      "description": "LNG buyers are making structural shifts in their procurement strategies, driven by increased geopolitical uncertainty and supply chain disruptions like the Strait of Hormuz crisis. A vast majority prioritize geographic diversification of supply, while also seeking greater flexibility and strengthening contractual protections, especially force majeure clauses. This strategic reorientation moves beyond pure cost minimization to ensure security of supply and manage heightened market volatility for LNG.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "8e80a468-b70d-5c32-a0ae-06a991df360f",
+      "source_title": "LNG buyers’ sentiment: Disruption and implications for procurement",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement",
+      "source_date": "2026-09-11"
+    },
+    {
+      "index": 8,
+      "title": "Increased Investment in LNG Supply Chain Resilience",
+      "description": "Amid market volatility, LNG buyers are significantly increasing investment in resilience measures. This includes capital allocation to storage infrastructure, shipping, upstream equity, floating storage and regasification units (FSRUs), regasification terminals, and interconnectors. This broad-based investment reflects a strategic push to enhance security of supply and operational flexibility across the entire LNG value chain, ensuring robust procurement capabilities.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "8e80a468-b70d-5c32-a0ae-06a991df360f",
+      "source_title": "LNG buyers’ sentiment: Disruption and implications for procurement",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement",
+      "source_date": "2026-09-11"
+    },
+    {
+      "index": 9,
+      "title": "Oil & Gas Operators Internalize Services, Shift Power Dynamics",
+      "description": "National oil companies and major operators are increasingly building internal capabilities and taking back functions previously outsourced to oilfield services firms. This includes developing deepwater expertise and integrated drilling services. This shift signifies a structural change in the operator-supplier relationship, with operators gaining more project management and strategic control, and suppliers often carrying more project risk, impacting the commercial models for both segments.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 10,
+      "title": "Policy and Regulatory Uncertainty Constrains UK North Sea Investment",
+      "description": "The pipeline of future oil and gas developments in the UK Continental Shelf (UKCS) is severely constrained by the current fiscal and regulatory regimes. This uncertainty, coupled with a ban on new licenses and record-low well activity (no exploration wells drilled in 2025), is driving down production outlooks and diverting investment to more competitive basins globally. Without significant reform, domestic production will continue its accelerated decline.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 11,
+      "title": "High UK Energy Import Dependence Poses Strategic Vulnerability",
+      "description": "The UK's reliance on imports to meet over 40% of its energy needs, alongside a net spend of £84 billion on imported oil, gas, and electricity in 2025, represents a significant strategic vulnerability. This exposure to international commodity markets and geopolitical disruption increases costs, weakens economic resilience, and transfers economic value overseas, emphasizing the critical need for strengthened domestic energy production and infrastructure.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 12,
+      "title": "Fiscal Reform and Pragmatic Licensing Could Unlock UKCS Potential",
+      "description": "A more competitive and predictable investment environment, particularly fiscal reform from 2027 and a pragmatic approach to licensing, could unlock substantial investment in the UK Continental Shelf. OEUK modeling suggests this could enable 111 additional projects, £50 billion in private capital, and 3.25 billion boe of production, sustaining domestic output above 1 million boe/day into the 2030s and significantly enhancing long-term energy security.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 13,
+      "title": "Declining UK Industrial Energy Consumption Signals Deindustrialisation",
+      "description": "Total UK energy consumption has been in consistent decline, falling by 0.5% in 2025, with industrial energy consumption at its lowest level in over 50 years. This reflects not just efficiency gains but also a significant contraction of energy-intensive industrial activity, leading to deindustrialisation. This trend acts as a headwind for the domestic oil and gas sector by reducing a core segment of demand for fuels and feedstocks.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 14,
+      "title": "Natural Gas Remains Critical for UK Electricity System Balancing",
+      "description": "Despite increasing renewable power generation, natural gas continues to play a critical and important role in balancing the UK's electricity system. It provides flexible and dispatchable energy supply during periods of low renewable output, seasonal demand peaks, and wider system stress. This ongoing necessity underscores natural gas's importance for energy security and system reliability, providing a sustained tailwind for the gas sector.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 15,
+      "title": "Underinvestment in UK Gas Storage Increases Volatility Exposure",
+      "description": "The UK's gas storage capacity has seen severe underinvestment, resulting in a significant scarcity relative to neighboring countries. This lack of robust storage infrastructure, combined with growing reliance on imported LNG (especially from the US, which rose by over a third last year), exposes the UK to greater global market volatility and geopolitical risk. A resilient system requires a balance of domestic supply, flexible imports, and adequate storage.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 16,
+      "title": "Declining Domestic Production Undermines UK Midstream Infrastructure Viability",
+      "description": "As UKCS oil and gas production declines, the utilization of critical midstream infrastructure (pipelines, processing facilities, terminals) also falls. This means fixed operating and maintenance costs are spread across fewer molecules, increasing marginal throughput costs and placing severe pressure on asset economics for operators like Kellas Midstream and Shell. This threatens the long-term viability of the UK's integrated North Sea energy system and its ability to secure future supplies.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 17,
+      "title": "Continued Need for Oil & Gas as Critical Chemical Feedstocks",
+      "description": "The UK's chemicals sector, a strategic national asset, will continue to require oil and gas, alongside alternative feedstocks, for decades. Natural gas, ethane, propane, and naphtha are fundamental building blocks for essential chemical products. Domestic North Sea production is crucial for ensuring access to these feedstocks, reducing exposure to import disruption, and managing price volatility, thereby supporting the competitiveness of wider UK manufacturing industries.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 18,
+      "title": "AI Enhances Commodity Trading Efficiency and Risk Management",
+      "description": "The adoption of AI-driven models in commodity trading offers significant advantages for the oil and gas sector. AI can accelerate and refine crude oil price trend analysis by integrating diverse data sources, leading to more informed trading decisions. Furthermore, AI supports continuous exposure monitoring, exception-based controls, scenario testing, and improved governance, bolstering risk management capabilities and enabling firms to scale confidently in volatile markets.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-28",
+      "source_doc_id": "72a5493a-1b59-5e7d-b608-13825b4093ec",
+      "source_title": "Unlock the AI advantage in commodity trading: How AI creates value",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/energy-chemicals/perspectives/unlock-the-ai-advantage-in-commodity-trading-how-ai-creates-value.html",
+      "source_date": "2026-08-28"
+    },
+    {
+      "index": 19,
+      "title": "British Gas Prices Tied to European Market, Limiting Domestic Influence",
+      "description": "British gas prices are predominantly determined by the wider, interconnected European gas market rather than solely by domestic production levels. This structural reality means that increasing North Sea exploration is unlikely to significantly impact UK electricity bills, as domestic production (already less than half of demand and declining) cannot dictate prices independently. This underscores the external market's persistent influence on UK gas costs.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "c96312a0-006f-538a-8156-4ae575a7b143",
+      "source_title": "To Cut Electricity Bills, Britain Needs to Use More, Not Less",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/united-kingdom/centre-for-growth/insights/to-cut-electricity-bills-britain-needs-to-use-more-not-less",
+      "source_date": "2026-08-26"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Energy System More Resilient to Hormuz Disruption, but Refining Stressed",
+      "description": "McKinsey assesses that the global energy system has shown greater resilience than anticipated to the Strait of Hormuz disruption, largely due to temporary buffers like bypass pipelines and strategic oil inventories. However, the refining system remains particularly stressed. Energy security concerns are now a central focus, prompting investments in resilience measures beyond immediate crisis response.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-17",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis"
+    },
+    {
+      "index": 2,
+      "title": "Biomethane Key for GB Decarbonisation, Offers Low-Cost GHG Removals",
+      "description": "NESO highlights biomethane's significant potential as a low-carbon gas in Great Britain, capable of decarbonizing hard-to-electrify industry and transport sectors where electrification is not viable. It also offers a relatively low-cost pathway for permanent greenhouse gas removals through carbon capture during its production. Realizing this value requires strategic cross-sector collaboration and sustained policy support to overcome cost gaps and grid integration barriers.",
+      "stance": "positive",
+      "source_firm": "NESO",
+      "source_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download"
+    },
+    {
+      "index": 3,
+      "title": "UK North Sea Potential Dependent on Supportive Policy and Fiscal Regime",
+      "description": "OEUK asserts that the UK North Sea still holds vast domestic oil and gas resources, critical for energy security, economic value, and industrial feedstocks, but its future potential is being undermined by current fiscal and regulatory policies. The industry body argues that investor confidence, not geology, is driving declining production forecasts, and calls for a more competitive and predictable investment environment to unlock significant new projects and sustain output.",
+      "stance": "cautious_positive",
+      "source_firm": "OEUK",
+      "source_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "index": 4,
+      "title": "UK Midstream Viability Linked to Domestic Production Volumes",
+      "description": "OEUK highlights that the viability of the UK’s critical midstream infrastructure (pipelines, processing facilities, terminals) is directly tied to domestic oil and gas production volumes. Declining UKCS output leads to lower infrastructure utilization, increasing marginal operating costs for companies like Kellas Midstream and Shell, and potentially accelerating asset rationalization. This situation risks broader consequences for UK energy security and industrial competitiveness due to reduced feedstock availability.",
+      "stance": "cautious_negative",
+      "source_firm": "OEUK",
+      "source_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "index": 5,
+      "title": "UK Chemicals Sector Requires Continued Oil & Gas Feedstocks",
+      "description": "The Chemical Industries Association (CIA) emphasizes the enduring need for oil and gas as essential feedstocks for the UK's strategic chemicals sector for decades to come, alongside alternative sources. They advocate for continued North Sea oil and gas production to support industrial competitiveness, protect jobs, and reduce reliance on imports, mitigating exposure to geopolitical risks and price volatility for critical manufacturing inputs.",
+      "stance": "positive",
+      "source_firm": "Chemical Industries Association (CIA)",
+      "source_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "index": 6,
+      "title": "North Sea Exploration Benefits Beyond Reducing UK Electricity Bills",
+      "description": "BCG Global suggests that while further North Sea oil and gas exploration is unlikely to significantly reduce UK electricity bills (as gas prices are set by the broader European market), it remains valuable for other strategic reasons. These include enhancing energy security by providing more reliable domestic supply, contributing to lower upstream emissions compared to imported LNG, and potentially generating useful fiscal windfalls for the government.",
+      "stance": "neutral",
+      "source_firm": "BCG Global",
+      "source_date": "2026-08-26",
+      "source_doc_id": "c96312a0-006f-538a-8156-4ae575a7b143",
+      "source_title": "To Cut Electricity Bills, Britain Needs to Use More, Not Less",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/united-kingdom/centre-for-growth/insights/to-cut-electricity-bills-britain-needs-to-use-more-not-less"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Energy Security Diversification",
+          "description": "Global efforts to reduce reliance on vulnerable chokepoints by developing alternative oil and gas supply and new pipeline infrastructure."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Coal conversion and new oil supply capacity (including from countries like Venezuela) could contribute 5-7 MMb/d by 2030.",
+          "opportunity": "Enhanced Oil Supply Capacity"
+        }
+      ],
+      "methodology": "Assessment of potential offset of pre-crisis oil flows through the Strait of Hormuz by 2030, based on measures underway or under discussion (e.g., alternative oil and gas supply, new pipelines). Pre-crisis oil flows were 21 MMb/d.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-17",
+      "data_confidence": "medium",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis"
+    },
+    {
+      "index": 2,
+      "tam_value": 64.0,
+      "tam_unit": "TWh",
+      "sam_value": null,
+      "as_of_year": 2050,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "2025-2050",
+      "demand_drivers": [
+        {
+          "driver": "Decarbonization of Industry and Transport",
+          "description": "Biomethane serves as a low-carbon gas solution for hard-to-electrify industrial processes and transport sectors (e.g., HGVs, shipping) where alternatives are not yet viable."
+        },
+        {
+          "driver": "Greenhouse Gas Removals",
+          "description": "Carbon capture from biomethane production offers a relatively low-cost route to permanent CO2 removals, increasing demand for biomethane in a net-zero economy."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Future Energy Scenarios (FES) 2025 pathways for biomethane production in Great Britain. Current annual production is 6 TWh.",
+      "source_firm": "NESO",
+      "source_date": "2026-09-15",
+      "data_confidence": "medium",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "UK Energy Security",
+          "description": "The sector underpins national energy security, reducing reliance on imports amid global volatility."
+        },
+        {
+          "driver": "Industrial Feedstock Supply",
+          "description": "Domestic energy supplies provide essential feedstocks for strategic UK industries like chemicals, steel, and advanced engineering."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Job Creation",
+          "description": "The sector supports approximately 245,000 jobs across the UK economy."
+        },
+        {
+          "driver": "Economic Value Added",
+          "description": "It generates around £36.7 billion in Gross Value Added (GVA) annually for the UK economy."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "OEUK's assessment of the UK offshore energy sector's economic contribution. Includes oil and gas, offshore wind, hydrogen, and CCS activities.",
+      "source_firm": "OEUK",
+      "source_date": "2026-09-08",
+      "data_confidence": "high",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "index": 4,
+      "tam_value": 50.0,
+      "tam_unit": "GBP_bn",
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Enhanced Fiscal and Regulatory Environment",
+          "description": "A more competitive and predictable investment framework is projected to unlock significant private capital."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "These investments could lead to 3.25 billion boe of additional production and maintain output above 1 million boe/day into the 2030s, almost doubling UKCS output over 25 years.",
+          "opportunity": "Increased Domestic Production"
+        }
+      ],
+      "methodology": "OEUK modelling of the UKCS 'Upside Potential' scenario, assuming fiscal reform from 2027 and a renewed licensing approach. This forecast includes an additional 111 projects.",
+      "source_firm": "OEUK",
+      "source_date": "2026-09-08",
+      "data_confidence": "medium",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "index": 5,
+      "tam_value": 561.0,
+      "tam_unit": "BCM",
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Persistent Energy Demand",
+          "description": "The UK's ongoing need for natural gas despite electrification trends."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated UK natural gas requirement over the period 2025-2035. Compared with NSTA's current production projections and OEUK's 'Upside Potential' scenario.",
+      "source_firm": "OEUK",
+      "source_date": "2026-09-08",
+      "data_confidence": "high",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    }
+  ],
+  "sources": [
+    "McKinsey",
+    "NESO",
+    "OEUK",
+    "Chemical Industries Association (CIA)",
+    "BCG Global"
+  ],
+  "documents": [
+    {
+      "doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "publisher": "mckinsey",
+      "date": "2026-09-17",
+      "url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis"
+    },
+    {
+      "doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "title": "Biomethane report",
+      "publisher": "neso",
+      "date": "2026-09-15",
+      "url": "https://www.neso.energy/document/384986/download"
+    },
+    {
+      "doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "title": "Economic Report 2026",
+      "publisher": "oeuk",
+      "date": "2026-09-08",
+      "url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "doc_id": "c96312a0-006f-538a-8156-4ae575a7b143",
+      "title": "To Cut Electricity Bills, Britain Needs to Use More, Not Less",
+      "publisher": "bcg_global",
+      "date": "2026-08-26",
+      "url": "https://www.bcg.com/united-kingdom/centre-for-growth/insights/to-cut-electricity-bills-britain-needs-to-use-more-not-less"
+    },
+    {
+      "doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "title": "September 2026 UK Sector Snippets",
+      "publisher": "allianz_uk",
+      "date": "2026-09-17",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "doc_id": "8e80a468-b70d-5c32-a0ae-06a991df360f",
+      "title": "LNG buyers’ sentiment: Disruption and implications for procurement",
+      "publisher": "mckinsey",
+      "date": "2026-09-11",
+      "url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement"
+    },
+    {
+      "doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "title": "Restoring Value Creation in Oilfield Services",
+      "publisher": "bcg_global",
+      "date": "2026-09-08",
+      "url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value"
+    },
+    {
+      "doc_id": "72a5493a-1b59-5e7d-b608-13825b4093ec",
+      "title": "Unlock the AI advantage in commodity trading: How AI creates value",
+      "publisher": "deloitte_uk",
+      "date": "2026-08-28",
+      "url": "https://www.deloitte.com/uk/en/Industries/energy-chemicals/perspectives/unlock-the-ai-advantage-in-commodity-trading-how-ai-creates-value.html"
+    }
+  ]
+}

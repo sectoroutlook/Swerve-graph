@@ -1,0 +1,540 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Data centre buildout drives economic activity and investment in Norway",
+      "description": "Data centre buildout is identified as a significant growth driver across Norway, stimulating demand for energy supply equipment and boosting activity in manufacturing. This trend is expected to accelerate investment growth in 2026 and 2027, particularly among service contacts, and positively impacts economic conditions in several regions, including South-West Norway, showcasing its role in regional economic development.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "119fa0f7-5585-551c-b712-53ee7e798c9b",
+      "source_title": "Regional Network report 3/2026: Minor changes in growth prospects",
+      "source_publisher": "norges_bank",
+      "source_url": "https://www.norges-bank.no/contentassets/5cf2ad95ea9249e4951e145f7c2591de/regional-network-3-26.pdf",
+      "source_date": "2026-09-17",
+      "country_focus": "NO"
+    },
+    {
+      "index": 2,
+      "title": "Rising energy costs erode data centre margins and delay investment",
+      "description": "For data centre companies in Ireland, energy costs are a core input. Significant increases in European gas prices are directly translating into higher electricity costs, which erode margins and can lead to delays in investment decisions. This dampens expansion appetite, making energy price volatility a critical financial risk for the sector, potentially slowing the pace of new developments.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-19",
+      "source_doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "source_title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf",
+      "source_date": "2026-05-19",
+      "country_focus": "IE"
+    },
+    {
+      "index": 3,
+      "title": "Spiking commodity costs increase data centre build expenses",
+      "description": "The rapid increase in prices for key commodities like DRAM chips (up 1360% since April 2025) and Lithium (due to demand from EVs and AI-driven data centers) is having a direct knock-on impact on data centre build costs. These elevated input prices create a significant headwind for new construction and expansion projects across the sector, compressing development margins.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-02-10",
+      "source_doc_id": "6ad627ab-8a1f-595d-8015-45b29f92b2aa",
+      "source_title": "Bank of Ireland Sectors Team — Manufacturing Sector H2 2025 Insights and H1 2026 Outlook",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/02/D15695-BOI-Sectors-Manufactuing-Sector-H2-2025-Insights-and-H1-2026-Outlook-FINAL-Jan-26.pdf",
+      "source_date": "2026-02-10",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "AI demand drives surge in hyperscale data centre development",
+      "description": "The AI boom is fundamentally reshaping the data centre industry, leading to a surge in demand for hyperscale facilities. This growth is primarily driven by increasing AI investment and adoption, which favors larger, more powerful data centres over smaller, traditional types, indicating a structural shift towards larger-scale infrastructure to meet compute needs and support advanced AI workloads.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2025-11-25",
+      "source_doc_id": "232e7575-c6f6-5560-9c7f-2eb809bbdaf7",
+      "source_title": "The data centre divide: Why Europe's shortfall threatens future economic…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/data-centre-divide-why-europes-shortfall-threatens-future-economic-growth",
+      "source_date": "2025-11-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "New Irish policy requires onsite generation for data centre connections",
+      "description": "Ireland's regulatory body (CRU) has implemented a policy requiring new data centre projects to include onsite dispatchable generation (and/or storage) equivalent to their peak demand to secure grid connection. This significant structural change addresses electricity supply security and network constraints, making self-sufficiency in power a prerequisite for future data centre development in Ireland and altering investment models.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-02-26",
+      "source_doc_id": "318cd0fd-2dc4-524d-8e00-b6fb65c1514d",
+      "source_title": "All-Island Resource Adequacy Assessment 2026-2035 Main Report (Ireland)",
+      "source_publisher": "eirgrid",
+      "source_url": "https://www.eirgrid.ie/sites/default/files/publications/AIRAA-2026-2035_Ireland.pdf",
+      "source_date": "2026-02-26",
+      "country_focus": "IE"
+    },
+    {
+      "index": 6,
+      "title": "Limited power grid capacity constrains data centre expansion in Dublin",
+      "description": "The greater Dublin region, a key hub for data centres in Ireland, faces significant constraints due to limited transmission and 110 kV distribution level power capacity. This congestion restricts the ability for new data centre projects to connect and existing ones to expand towards their full contracted load, posing a major risk to future growth in this critical market, necessitating strategic planning for power supply.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-26",
+      "source_doc_id": "318cd0fd-2dc4-524d-8e00-b6fb65c1514d",
+      "source_title": "All-Island Resource Adequacy Assessment 2026-2035 Main Report (Ireland)",
+      "source_publisher": "eirgrid",
+      "source_url": "https://www.eirgrid.ie/sites/default/files/publications/AIRAA-2026-2035_Ireland.pdf",
+      "source_date": "2026-02-26",
+      "country_focus": "IE"
+    },
+    {
+      "index": 7,
+      "title": "Data centres exploring demand side flexibility for grid stability",
+      "description": "Data centres in Ireland are exploring demand side flexibility, with a small number of sites already able to reduce demand to prevent system alerts. While not yet fully factored into system adequacy, this capability, alongside mandatory demand curtailment in emergencies, represents an upside driver for grid integration. It could enable faster connection of new sites by offering 'some power' over 'no power' in constrained grid conditions.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-26",
+      "source_doc_id": "318cd0fd-2dc4-524d-8e00-b6fb65c1514d",
+      "source_title": "All-Island Resource Adequacy Assessment 2026-2035 Main Report (Ireland)",
+      "source_publisher": "eirgrid",
+      "source_url": "https://www.eirgrid.ie/sites/default/files/publications/AIRAA-2026-2035_Ireland.pdf",
+      "source_date": "2026-02-26",
+      "country_focus": "IE"
+    },
+    {
+      "index": 8,
+      "title": "Community opposition increasingly delays data centre development",
+      "description": "Community pushback is emerging as a force restricting data centre development, leading to the postponement of several projects due to local action. While the immediate context of the source refers to US, the issue of community concerns regarding environmental impact, resource strain, and data privacy is a general risk that increasingly applies to European regions. This necessitates careful planning and engagement to mitigate project delays.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-31",
+      "source_doc_id": "a527b6f0-e923-5cde-a6a2-3d9468204534",
+      "source_title": "Powering AI: How real is the risk of overbuilding?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/powering-ai-how-real-is-the-risk-of-overbuilding",
+      "source_date": "2026-07-31",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "title": "Europe's power grid congestion limits data centre expansion",
+      "description": "Several core European data centre markets, including Dublin and Amsterdam, are experiencing significant congestion in their power grids. This limitation on available electricity infrastructure directly restricts the capacity for new data centre buildouts and expansions. The grid constraints create a substantial headwind for regional growth and contribute to Europe's widening capacity gap compared to other global regions.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2025-11-25",
+      "source_doc_id": "232e7575-c6f6-5560-9c7f-2eb809bbdaf7",
+      "source_title": "The data centre divide: Why Europe's shortfall threatens future economic…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/data-centre-divide-why-europes-shortfall-threatens-future-economic-growth",
+      "source_date": "2025-11-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 10,
+      "title": "Tier 2 European markets offer new data centre investment opportunities",
+      "description": "Beyond established hubs, emerging Tier 2 markets such as Madrid, Milan, and Helsinki are projected to add significant combined data centre capacity (approximately 2.0 GW) in the coming years. These cities are attracting substantial investment from consortia and are poised for rapid growth in digital services and innovative companies, offering new geographic opportunities for data centre real estate development and diversification.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2025-11-25",
+      "source_doc_id": "232e7575-c6f6-5560-9c7f-2eb809bbdaf7",
+      "source_title": "The data centre divide: Why Europe's shortfall threatens future economic…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/data-centre-divide-why-europes-shortfall-threatens-future-economic-growth",
+      "source_date": "2025-11-25",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Moderate output growth driven by data centre buildout in Norway",
+      "description": "Norges Bank's Regional Network contacts anticipate moderate output growth through H2 2026, with data centre buildout identified as an important growth driver. This trend increases demand for energy supply equipment, boosting activity for domestic manufacturers and contributing to accelerating investment growth in 2026 and 2027 among service contacts. The buildout particularly supports economic conditions in regions like South-West Norway.",
+      "stance": "positive",
+      "source_firm": "Norges Bank",
+      "source_date": "2026-09-17",
+      "source_doc_id": "119fa0f7-5585-551c-b712-53ee7e798c9b",
+      "source_title": "Regional Network report 3/2026: Minor changes in growth prospects",
+      "source_publisher": "norges_bank",
+      "source_url": "https://www.norges-bank.no/contentassets/5cf2ad95ea9249e4951e145f7c2591de/regional-network-3-26.pdf",
+      "country_focus": "NO"
+    },
+    {
+      "index": 2,
+      "title": "Data centers emerging as a key industrial growth sector",
+      "description": "Data centers are increasingly recognized as an emerging industrial growth sector within manufacturing, indicating a shift towards more tailored and integrated solutions for customers. Capital flows into new clusters like data centers present significant growth opportunities, underscoring their rising importance. This redefines commercial models and requires new strategies to capture value beyond existing relationships.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-08-11",
+      "source_doc_id": "e7ccb42c-b8fc-5d90-886f-2f377f664e2d",
+      "source_title": "How AI-led commercial transformation can power industrial growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/capabilities/transformation/our-insights/how-ai-led-commercial-transformation-can-power-industrial-growth",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Data centres diversifying European real estate investments and growing",
+      "description": "Data Centres, alongside Hotels and Healthcare, have become a growing segment contributing to greater diversification within the European real estate sector. This trend is expected to continue in 2026, with increasing scope for larger investments and transactions. More companies are likely to consider the data centre route, indicating a strategic shift in capital allocation towards growth-oriented platforms within real estate.",
+      "stance": "positive",
+      "source_firm": "ING Think",
+      "source_date": "2026-02-03",
+      "source_doc_id": "e018cba2-b9e0-54b6-bdcf-6e6ece031b11",
+      "source_title": "European real estate now has real momentum as liquidity and sentiment improve",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-real-estate-2026-gearing-up-for-the-next-cycle-in-2026",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Europe's data centre investment growth lags behind US and China",
+      "description": "Despite strong production growth in the EU tech sector and continued double-digit IT spending, investment growth for data centres in the EU is not keeping pace with the US and China. This disparity is a concern, as it could hinder Europe's ability to capitalize on AI-driven growth and innovation. The EU needs to accelerate its data centre investment to remain competitive globally.",
+      "stance": "cautious_negative",
+      "source_firm": "ING Think",
+      "source_date": "2026-01-22",
+      "source_doc_id": "e9d993f7-21d2-5bf3-811e-65d5cc4af21c",
+      "source_title": "3 calls for EU sectors in 2026: Tech outperformance, manufacturing growth…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/3-calls-for-eu-sectors-in-2026-tech-outperformance-manufacturing-growth-gaps-small-consumer-gains",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Europe's widening data centre capacity gap threatens future economic growth",
+      "description": "Europe's data centre capacity significantly lags behind China and the US, and this gap is projected to widen substantially by 2030. This shortfall is critical because data centres provide the essential computing power for AI and digital innovation. Without decisive action, Europe risks missing out on the economic gains and productivity increases offered by artificial intelligence, impacting future economic competitiveness.",
+      "stance": "negative",
+      "source_firm": "ING Think",
+      "source_date": "2025-11-25",
+      "source_doc_id": "232e7575-c6f6-5560-9c7f-2eb809bbdaf7",
+      "source_title": "The data centre divide: Why Europe's shortfall threatens future economic…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/data-centre-divide-why-europes-shortfall-threatens-future-economic-growth",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Dublin's congested power grid limits data centre expansion capacity",
+      "description": "Dublin, a core European data centre market, faces significant constraints due to its congested power grid, which limits room for expansion. This poses a headwind for further data centre development in the region, especially compared to the rapid buildout observed in US markets like Virginia. Addressing grid capacity issues is crucial for future growth in this key hub.",
+      "stance": "cautious_negative",
+      "source_firm": "ING Think",
+      "source_date": "2025-11-25",
+      "source_doc_id": "232e7575-c6f6-5560-9c7f-2eb809bbdaf7",
+      "source_title": "The data centre divide: Why Europe's shortfall threatens future economic…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/data-centre-divide-why-europes-shortfall-threatens-future-economic-growth",
+      "country_focus": "IE"
+    },
+    {
+      "index": 7,
+      "title": "New Irish data centre connection policy requires onsite dispatchable generation",
+      "description": "Ireland's CRU has stipulated that new data centre projects will only be permitted grid connection if they demonstrate the ability to provide onsite dispatchable generation and/or storage equivalent to or greater than their peak demand. This policy aims to address electricity supply security and network constraints, fundamentally altering the requirements for future data centre development and investment in Ireland.",
+      "stance": "cautious_negative",
+      "source_firm": "EirGrid",
+      "source_date": "2026-02-26",
+      "source_doc_id": "318cd0fd-2dc4-524d-8e00-b6fb65c1514d",
+      "source_title": "All-Island Resource Adequacy Assessment 2026-2035 Main Report (Ireland)",
+      "source_publisher": "eirgrid",
+      "source_url": "https://www.eirgrid.ie/sites/default/files/publications/AIRAA-2026-2035_Ireland.pdf",
+      "country_focus": "IE"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Contracted Load Build-out",
+          "description": "Existing data centre customers are building out their facilities towards their already contracted demand capacity, driving an increase in electricity consumption."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Demand capacity contracted to data centres and other new technology loads at the transmission level in Ireland. This figure is based on EirGrid's review of projects with existing contracts as of the study's freeze date (February 2026), excluding small-scale data centres connected at lower voltage levels.",
+      "source_firm": "EirGrid",
+      "source_date": "2026-02-26",
+      "data_confidence": "high",
+      "source_doc_id": "318cd0fd-2dc4-524d-8e00-b6fb65c1514d",
+      "source_title": "All-Island Resource Adequacy Assessment 2026-2035 Main Report (Ireland)",
+      "source_publisher": "eirgrid",
+      "source_url": "https://www.eirgrid.ie/sites/default/files/publications/AIRAA-2026-2035_Ireland.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Data Centres & New Technology Loads Growth",
+          "description": "Strong growth in data centres and new technology loads is the primary driver for increased electricity demand, particularly in the short to medium term."
+        },
+        {
+          "driver": "Electrification of Heat and Transport",
+          "description": "Increased uptake of electric vehicles and heat pumps will contribute significantly to electricity demand, particularly later in the decade."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecasted share of total electricity demand attributed to data centres and new technology loads. The overall peak demand for Ireland is projected to increase 19% by 2035 from 2024 levels, largely driven by these sectors. This includes 17 transmission-level and 5 distribution-level data centre projects with signed connection agreements.",
+      "source_firm": "EirGrid",
+      "source_date": "2026-02-26",
+      "data_confidence": "high",
+      "source_doc_id": "318cd0fd-2dc4-524d-8e00-b6fb65c1514d",
+      "source_title": "All-Island Resource Adequacy Assessment 2026-2035 Main Report (Ireland)",
+      "source_publisher": "eirgrid",
+      "source_url": "https://www.eirgrid.ie/sites/default/files/publications/AIRAA-2026-2035_Ireland.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 45.0,
+      "forecast_cagr_period": "2023-2034",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Data Centres & New Technology Loads",
+          "description": "These sectors represent the largest growth area, underpinning the digitization of economies and aligning with government policy."
+        },
+        {
+          "driver": "Electrification of Heat and Transport",
+          "description": "This will become a more significant factor towards the end of the decade, driving further electricity demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecasted share of total electricity demand from data centres and new technology loads (NTLs) for Ireland. Overall electricity demand is forecasted to increase 45% by 2034 from 2023 levels in the median scenario.",
+      "source_firm": "EirGrid",
+      "source_date": "2025-03-26",
+      "data_confidence": "high",
+      "source_doc_id": "0a196b95-6158-5505-b55c-1c83402cf185",
+      "source_title": "AIRAA 2025-2034 Main Report",
+      "source_publisher": "eirgrid",
+      "source_url": "https://www.eirgrid.ie/sites/default/files/publications/AIRAA-2025-2034.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 15.0,
+      "forecast_cagr_period": "until 2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI Investment and Adoption",
+          "description": "Increasing investment and widespread adoption of AI technologies are boosting demand, particularly for hyperscale data centres, driving overall capacity growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Global data centre capacity is extrapolated from the International Energy Agency (IEA) base case energy forecast. Europe is expected to add roughly 75% of its current capacity by 2030, significantly less than the US (double capacity) and China (2.5 times current capacity).",
+      "source_firm": "ING Think",
+      "source_date": "2025-11-25",
+      "data_confidence": "medium",
+      "source_doc_id": "232e7575-c6f6-5560-9c7f-2eb809bbdaf7",
+      "source_title": "The data centre divide: Why Europe's shortfall threatens future economic…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/data-centre-divide-why-europes-shortfall-threatens-future-economic-growth",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI Boom & Hyperscale Demand",
+          "description": "The rapid expansion of AI technologies is driving increased data centre power consumption, leading to a focus on constructing larger, hyperscale facilities."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Required construction expenditure (excluding IT hardware) for data centres to meet energy growth forecasts, derived from IEA data. The estimate assumes 1 MW of capacity costs approximately 10 million euros to construct, with a Power Usage Effectiveness (PUE) of 1.3 for newly built hyperscalers.",
+      "source_firm": "ING Think",
+      "source_date": "2025-11-25",
+      "data_confidence": "medium",
+      "source_doc_id": "232e7575-c6f6-5560-9c7f-2eb809bbdaf7",
+      "source_title": "The data centre divide: Why Europe's shortfall threatens future economic…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/data-centre-divide-why-europes-shortfall-threatens-future-economic-growth",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 165.0,
+      "forecast_cagr_period": "2023-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI-driven Data Centres",
+          "description": "The rapid expansion and adoption of artificial intelligence are driving a significant increase in power demand from data centres globally."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecasted growth in global power demand by data centres from 2023 levels, as reported by Goldman Sachs Research.",
+      "source_firm": "Bank of Ireland",
+      "source_date": "2025-09-26",
+      "data_confidence": "medium",
+      "source_doc_id": "739fae2c-8c19-59b0-aade-0fd1ca8571e3",
+      "source_title": "Bank of Ireland Sectors Team — Technology, Media and Telecoms (TMT) H1 2025 Insights / H2 2025 Outlook September 2025",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2025/09/TMT-Insights-and-Outlook-H2-2025.pdf",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "tam_value": 2.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growth in Digital Services",
+          "description": "These emerging Tier 2 markets can expect rapid growth in digital services industry and more innovative companies making use of data centre capacity."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Combined capacity that is planned to be added in Tier 2 European data centre markets (Madrid, Milan, and Helsinki) in the coming years. This represents significant new build-outs in these emerging hubs.",
+      "source_firm": "ING Think",
+      "source_date": "2025-11-25",
+      "data_confidence": "medium",
+      "source_doc_id": "232e7575-c6f6-5560-9c7f-2eb809bbdaf7",
+      "source_title": "The data centre divide: Why Europe's shortfall threatens future economic…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/data-centre-divide-why-europes-shortfall-threatens-future-economic-growth",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "Norges Bank",
+    "McKinsey",
+    "ING Think",
+    "EirGrid",
+    "Bank of Ireland"
+  ],
+  "documents": [
+    {
+      "doc_id": "119fa0f7-5585-551c-b712-53ee7e798c9b",
+      "title": "Regional Network report 3/2026: Minor changes in growth prospects",
+      "publisher": "norges_bank",
+      "date": "2026-09-17",
+      "url": "https://www.norges-bank.no/contentassets/5cf2ad95ea9249e4951e145f7c2591de/regional-network-3-26.pdf"
+    },
+    {
+      "doc_id": "e7ccb42c-b8fc-5d90-886f-2f377f664e2d",
+      "title": "How AI-led commercial transformation can power industrial growth",
+      "publisher": "mckinsey",
+      "date": "2026-08-11",
+      "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/how-ai-led-commercial-transformation-can-power-industrial-growth"
+    },
+    {
+      "doc_id": "e018cba2-b9e0-54b6-bdcf-6e6ece031b11",
+      "title": "European real estate now has real momentum as liquidity and sentiment improve",
+      "publisher": "ing_think",
+      "date": "2026-02-03",
+      "url": "https://think.ing.com/articles/european-real-estate-2026-gearing-up-for-the-next-cycle-in-2026"
+    },
+    {
+      "doc_id": "e9d993f7-21d2-5bf3-811e-65d5cc4af21c",
+      "title": "3 calls for EU sectors in 2026: Tech outperformance, manufacturing growth…",
+      "publisher": "ing_think",
+      "date": "2026-01-22",
+      "url": "https://think.ing.com/articles/3-calls-for-eu-sectors-in-2026-tech-outperformance-manufacturing-growth-gaps-small-consumer-gains"
+    },
+    {
+      "doc_id": "232e7575-c6f6-5560-9c7f-2eb809bbdaf7",
+      "title": "The data centre divide: Why Europe's shortfall threatens future economic…",
+      "publisher": "ing_think",
+      "date": "2025-11-25",
+      "url": "https://think.ing.com/articles/data-centre-divide-why-europes-shortfall-threatens-future-economic-growth"
+    },
+    {
+      "doc_id": "318cd0fd-2dc4-524d-8e00-b6fb65c1514d",
+      "title": "All-Island Resource Adequacy Assessment 2026-2035 Main Report (Ireland)",
+      "publisher": "eirgrid",
+      "date": "2026-02-26",
+      "url": "https://www.eirgrid.ie/sites/default/files/publications/AIRAA-2026-2035_Ireland.pdf"
+    },
+    {
+      "doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "publisher": "bank_of_ireland",
+      "date": "2026-05-19",
+      "url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf"
+    },
+    {
+      "doc_id": "6ad627ab-8a1f-595d-8015-45b29f92b2aa",
+      "title": "Bank of Ireland Sectors Team — Manufacturing Sector H2 2025 Insights and H1 2026 Outlook",
+      "publisher": "bank_of_ireland",
+      "date": "2026-02-10",
+      "url": "https://www.thinkbusiness.ie/app/uploads/2026/02/D15695-BOI-Sectors-Manufactuing-Sector-H2-2025-Insights-and-H1-2026-Outlook-FINAL-Jan-26.pdf"
+    },
+    {
+      "doc_id": "a527b6f0-e923-5cde-a6a2-3d9468204534",
+      "title": "Powering AI: How real is the risk of overbuilding?",
+      "publisher": "mckinsey",
+      "date": "2026-07-31",
+      "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/powering-ai-how-real-is-the-risk-of-overbuilding"
+    },
+    {
+      "doc_id": "0a196b95-6158-5505-b55c-1c83402cf185",
+      "title": "AIRAA 2025-2034 Main Report",
+      "publisher": "eirgrid",
+      "date": "2025-03-26",
+      "url": "https://www.eirgrid.ie/sites/default/files/publications/AIRAA-2025-2034.pdf"
+    },
+    {
+      "doc_id": "739fae2c-8c19-59b0-aade-0fd1ca8571e3",
+      "title": "Bank of Ireland Sectors Team — Technology, Media and Telecoms (TMT) H1 2025 Insights / H2 2025 Outlook September 2025",
+      "publisher": "bank_of_ireland",
+      "date": "2025-09-26",
+      "url": "https://www.thinkbusiness.ie/app/uploads/2025/09/TMT-Insights-and-Outlook-H2-2025.pdf"
+    }
+  ]
+}

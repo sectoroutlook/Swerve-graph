@@ -1,0 +1,743 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "High Production Costs Hinder Green Hydrogen Project Economics",
+      "description": "Green hydrogen production, particularly, continues to face significant challenges due to high capital and operating costs. These elevated expenses, coupled with emerging business models that lack sufficient long-term funding mechanisms, make it difficult for many UK projects to achieve financial investment decisions (FIDs). This economic hurdle is a primary reason for the sector lagging behind expectations.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-27",
+      "source_doc_id": "155bab12-0eec-5642-b7d1-a354c794f39d",
+      "source_title": "Business Outlook Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/business-outlook-report-2026",
+      "source_date": "2026-03-27"
+    },
+    {
+      "index": 2,
+      "title": "Weak Demand Signals Create Uncertainty for Hydrogen Offtake",
+      "description": "Despite numerous hydrogen projects in development, there is limited clarity regarding the emergence of large-scale, bankable demand. Industrial users, who are key potential off-takers for low-carbon hydrogen, face their own cost constraints and uncertainties, which significantly slow the pace at which commercial off-take agreements can be secured. This lack of robust, long-term demand signals prevents market scaling.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-27",
+      "source_doc_id": "155bab12-0eec-5642-b7d1-a354c794f39d",
+      "source_title": "Business Outlook Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/business-outlook-report-2026",
+      "source_date": "2026-03-27"
+    },
+    {
+      "index": 3,
+      "title": "Inadequate Transport and Storage Infrastructure Limits Hydrogen Economy",
+      "description": "The UK's ambition to build a meaningful hydrogen economy is severely constrained by the current lack of dedicated transport and storage infrastructure. Without the ability to move hydrogen at scale or store it for long-duration flexibility, producers and off-takers cannot connect efficiently. Progress on significant pipeline repurposing and new capacity development remains slow and fragmented, undermining investor confidence and market integration.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-27",
+      "source_doc_id": "155bab12-0eec-5642-b7d1-a354c794f39d",
+      "source_title": "Business Outlook Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/business-outlook-report-2026",
+      "source_date": "2026-03-27"
+    },
+    {
+      "index": 4,
+      "title": "Delays in Government Funding and Allocation Rounds Impede Projects",
+      "description": "The hydrogen sector faces significant headwind from persistent delays in government funding allocations and the launch of future Hydrogen Allocation Rounds (HAR2, HAR3). Decisions on HAR2 shortlisted projects are overdue, and timelines for subsequent rounds are tight and often slip. These delays create uncertainty for investors and project developers, contributing to project cancellations and hindering the rapid deployment required for the sector.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-24",
+      "source_doc_id": "f465f474-3556-58b4-89d5-eb4292711833",
+      "source_title": "Progress in reducing emissions 2026 report to Parliament",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/progress-in-reducing-emissions-2026-report-to-parliament",
+      "source_date": "2026-06-24"
+    },
+    {
+      "index": 5,
+      "title": "Prolonged Pay-back Periods Deter Investment in Hydrogen Projects",
+      "description": "Hydrogen projects, similar to offshore wind, are characterised by prolonged pay-back periods, often exceeding 10-15 years to become net positive. This extended return horizon presents a significant challenge for attracting private investment, especially in a market with evolving policy and technology. Investors seek quicker returns, making the long lead times and cost recovery a key risk for the sector's growth.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2025-09-01",
+      "source_doc_id": "fc168d2f-ca0a-506f-938e-13b26fdce49c",
+      "source_title": "Economic Report 2025",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2025",
+      "source_date": "2025-09-01"
+    },
+    {
+      "index": 6,
+      "title": "EV Cost-Effectiveness Undermines Hydrogen Fuel Cells in Road Transport",
+      "description": "The increasing cost-effectiveness of battery-electric vehicles (EVs), driven by rapidly falling battery prices, poses a significant competitive threat to hydrogen fuel cell vehicles in the road transport sector, particularly for HGVs. While hydrogen was previously anticipated to play a substantial role, EVs are now emerging as the dominant and more cost-efficient low-carbon technology, reducing the projected market share for hydrogen in mobility.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2025-05-21",
+      "source_doc_id": "604f81a4-6c9a-55d1-b2af-e3cc118034f4",
+      "source_title": "Methodology report – UK, Northern Ireland, Wales, and Scotland carbon budget advice",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/methodology-report-uk-northern-ireland-wales-and-scotland-carbon-budget-advice",
+      "source_date": "2025-05-21"
+    },
+    {
+      "index": 7,
+      "title": "Hydrogen Leakage Poses Environmental and Safety Concerns",
+      "description": "Studies indicate that hydrogen leaks at rates comparable to natural gas in typical low-pressure infrastructure, raising concerns about its environmental impacts. Although hydrogen does not directly contribute to global warming, its indirect effects on atmospheric chemistry can influence the lifespan of other greenhouse gases. Addressing leakage rates and their climate consequences is a critical challenge for the long-term sustainability and public acceptance of a hydrogen economy.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2025-05-21",
+      "source_doc_id": "604f81a4-6c9a-55d1-b2af-e3cc118034f4",
+      "source_title": "Methodology report – UK, Northern Ireland, Wales, and Scotland carbon budget advice",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/methodology-report-uk-northern-ireland-wales-and-scotland-carbon-budget-advice",
+      "source_date": "2025-05-21"
+    },
+    {
+      "index": 8,
+      "title": "Revised Hydrogen Strategy and Policy Support Boost Sector Confidence",
+      "description": "The UK government's commitment to publishing a revised Hydrogen Strategy in 2025 is a significant tailwind. This strategy is expected to coordinate hydrogen production, transportation, and usage support mechanisms, providing clearer long-term funding mechanisms and realistic deployment targets. This improved policy environment is crucial for unlocking investment, supporting the project pipeline, and accelerating the development of the UK hydrogen economy and supply chain.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2025-06-23",
+      "source_doc_id": "bb453dfa-b76e-58e6-82b2-fc8c8834786a",
+      "source_title": "Clean Energy Industries Sector Plan",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/clean-energy-industries-sector-plan",
+      "source_date": "2025-06-23"
+    },
+    {
+      "index": 9,
+      "title": "Integrated Energy Planning for Hydrogen Infrastructure Drives Optimisation",
+      "description": "The Strategic Spatial Energy Plan (SSEP) integrates hydrogen system planning for the first time, modelling electrolytic, natural gas-based, and biomass-derived hydrogen. This holistic approach optimises production, hydrogen-to-power, transport, and storage across Great Britain, aligning hydrogen with electricity and gas system planning. This structural shift moves away from piecemeal project expansion, preventing stranded assets and accelerating the transition to net zero through coordinated infrastructure build-out.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-01",
+      "source_doc_id": "3e6a525c-0260-5d3f-a0fe-12147ca895d3",
+      "source_title": "Offshore Wind Insight 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/offshore-wind-insight-2026",
+      "source_date": "2026-05-01"
+    },
+    {
+      "index": 10,
+      "title": "Potential Expansion of Clean Industry Bonus to Hydrogen Sector",
+      "description": "The government is considering expanding the Contracts for Difference (CfD) Clean Industry Bonus (CIB) to the hydrogen sector. Currently successful in fixed and floating offshore wind, the CIB provides additional revenue support for investments in domestic supply chain infrastructure and cleaner manufacturing. Its potential extension to hydrogen would offer stronger incentives for UK-based manufacturing and local content, driving investment and job creation within the hydrogen supply chain.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2025-06-23",
+      "source_doc_id": "bb453dfa-b76e-58e6-82b2-fc8c8834786a",
+      "source_title": "Clean Energy Industries Sector Plan",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/clean-energy-industries-sector-plan",
+      "source_date": "2025-06-23"
+    },
+    {
+      "index": 11,
+      "title": "Climate Change Levy Exemption Improves Green Hydrogen Economics",
+      "description": "The removal of the Climate Change Levy Liability on electricity used in electrolysis for hydrogen production is a significant tailwind. This policy change directly improves the economics of fuel-switching from natural gas to green hydrogen. By reducing operational costs for electrolytic hydrogen, it enhances the financial attractiveness of green hydrogen projects, encouraging investment and accelerating its adoption in industrial and other sectors.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2025-06-23",
+      "source_doc_id": "bb453dfa-b76e-58e6-82b2-fc8c8834786a",
+      "source_title": "Clean Energy Industries Sector Plan",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/clean-energy-industries-sector-plan",
+      "source_date": "2025-06-23"
+    },
+    {
+      "index": 12,
+      "title": "Hydrogen as Key Enabler for Industrial Decarbonisation",
+      "description": "Affordable low-carbon hydrogen is crucial for decarbonising several industrial sectors, particularly those requiring gaseous or liquid fuels for high-temperature processes like refining, glass, chemicals, and ceramics. Many industrial users may find hydrogen their only viable decarbonisation option due to practical challenges like space constraints or retrofit issues. This creates significant and sustained demand opportunities for green hydrogen producers.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2025-07-11",
+      "source_doc_id": "62bf929e-5e86-5856-9e04-74abb8bf776a",
+      "source_title": "FES: NESO Pathways to Net Zero 2025",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/364541/download",
+      "source_date": "2025-07-11"
+    },
+    {
+      "index": 13,
+      "title": "Hydrogen Offers Long-Duration Energy Storage and Grid Balancing",
+      "description": "Hydrogen offers superior long-duration energy storage capabilities compared to batteries, providing a flexible solution for balancing seasonal fluctuations and grid intermittency. When surplus wind power is available, it can be converted into hydrogen via electrolysis and stored for future use, including dispatchable power generation. This positions hydrogen as a key enabler for integrating offshore wind into a broader, sustainable and reliable energy system.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-01",
+      "source_doc_id": "3e6a525c-0260-5d3f-a0fe-12147ca895d3",
+      "source_title": "Offshore Wind Insight 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/offshore-wind-insight-2026",
+      "source_date": "2026-05-01"
+    },
+    {
+      "index": 14,
+      "title": "Electrolyser Cost Reductions Driven by Learning Rates",
+      "description": "Electrolysers, as an emerging and modular technology, are expected to benefit from strong learning rates as their global deployment increases. Similar to batteries and solar panels, economies of scale and 'learning by doing' will drive significant cost reductions over time. This falling cost trajectory enhances the economic viability of green hydrogen production, making it more competitive and attractive for investment in the medium to long term.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2025-05-21",
+      "source_doc_id": "604f81a4-6c9a-55d1-b2af-e3cc118034f4",
+      "source_title": "Methodology report – UK, Northern Ireland, Wales, and Scotland carbon budget advice",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/methodology-report-uk-northern-ireland-wales-and-scotland-carbon-budget-advice",
+      "source_date": "2025-05-21"
+    },
+    {
+      "index": 15,
+      "title": "Workforce Development Initiatives for Hydrogen and CCUS",
+      "description": "Government is collaborating with industry to design a comprehensive hydrogen and CCUS curriculum and build a robust network of provider expertise, supported by seed funding. This initiative aims to address potential skills gaps and ensure a skilled workforce is available to support the growth of the hydrogen sector. Investing in human capital is a critical structural change that will drive sector growth and enhance UK industrial capability.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2025-06-23",
+      "source_doc_id": "bb453dfa-b76e-58e6-82b2-fc8c8834786a",
+      "source_title": "Clean Energy Industries Sector Plan",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/clean-energy-industries-sector-plan",
+      "source_date": "2025-06-23"
+    },
+    {
+      "index": 16,
+      "title": "Regulatory and Planning Uncertainty Delays Hydrogen Projects",
+      "description": "Regulatory and planning uncertainty continues to create significant delays for hydrogen projects seeking investment and onward development in the UK. This uncertainty hampers companies' ability to plan activities effectively, leading to slower deployment. Unclear guidance on aspects like transport and storage, and the pace of allocation rounds, contributes to a less attractive investment landscape compared to other international markets.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2025-03-24",
+      "source_doc_id": "955b85d1-837a-5a09-b02e-0b4c9bf02b62",
+      "source_title": "Business Outlook Report 2025",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/business-outlook-report-2025",
+      "source_date": "2025-03-24"
+    },
+    {
+      "index": 17,
+      "title": "Reduced Planned Reliance on Hydrogen in Industrial Decarbonisation",
+      "description": "The government's updated Carbon Budget Delivery Plan (CBGDP) involves more emissions reduction from the electrification of industry and less from CCS and hydrogen compared to previous plans. While hydrogen still has a role, this shift reflects updated evidence on industrial decarbonisation technologies, implying a potentially smaller market share for hydrogen in some industrial applications than previously anticipated, especially for unfunded projects carrying significant risks.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-24",
+      "source_doc_id": "f465f474-3556-58b4-89d5-eb4292711833",
+      "source_title": "Progress in reducing emissions 2026 report to Parliament",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/progress-in-reducing-emissions-2026-report-to-parliament",
+      "source_date": "2026-06-24"
+    },
+    {
+      "index": 18,
+      "title": "Long Lead Times for Large-Scale Hydrogen Storage Development",
+      "description": "Developing sufficient hydrogen storage capacity, particularly large-scale salt cavern storage, faces challenges due to lead times that can extend up to ten years. This lengthy development cycle for critical infrastructure creates a key risk in matching storage availability with future supply and demand needs, especially for electrolytic hydrogen produced during periods of high renewable generation. Delays in storage could hinder efficient system balancing.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2025-07-11",
+      "source_doc_id": "62bf929e-5e86-5856-9e04-74abb8bf776a",
+      "source_title": "FES: NESO Pathways to Net Zero 2025",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/364541/download",
+      "source_date": "2025-07-11"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "UK Green Hydrogen Faces Economic Competitiveness Challenges Despite Advantages",
+      "description": "OEUK indicates that green hydrogen and ammonia are critical feedstocks with growing demand by 2050. The UK possesses advantages like offshore wind and research capability, but economic competitiveness at scale remains challenging. Affordable electricity, robust infrastructure, and stable policy frameworks are crucial. Without these, the UK risks continued reliance on imports, missing out on domestic economic and energy security benefits.",
+      "stance": "cautious_negative",
+      "source_firm": "OEUK",
+      "source_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "index": 2,
+      "title": "Integrated Hydrogen Planning Critical for Net Zero Transition and Investment",
+      "description": "NESO views the Strategic Spatial Energy Plan's integration of hydrogen system planning as a positive structural shift. By including electrolytic, natural gas-based, and biomass-derived hydrogen, along with power, transport, and storage, the plan optimises deployment, avoids stranded assets, and supports whole-system efficiency. This coordinated approach is expected to accelerate the transition to net zero and unlock private investment.",
+      "stance": "positive",
+      "source_firm": "NESO",
+      "source_date": "2025-07-11",
+      "source_doc_id": "62bf929e-5e86-5856-9e04-74abb8bf776a",
+      "source_title": "FES: NESO Pathways to Net Zero 2025",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/364541/download"
+    },
+    {
+      "index": 3,
+      "title": "UK Hydrogen Sector Lags Expectations Due to High Costs and Weak Demand",
+      "description": "OEUK expresses concern that the UK's hydrogen sector is falling behind, with structural barriers overshadowing early ambitions. High production costs, especially for green hydrogen, and expensive capital/operating costs hinder project financing. Furthermore, demand is weaker than anticipated, with limited clarity on large-scale offtake agreements. Delays in infrastructure and policy uncertainty exacerbate these issues, risking the UK's competitive position.",
+      "stance": "negative",
+      "source_firm": "OEUK",
+      "source_date": "2026-03-27",
+      "source_doc_id": "155bab12-0eec-5642-b7d1-a354c794f39d",
+      "source_title": "Business Outlook Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/business-outlook-report-2026"
+    },
+    {
+      "index": 4,
+      "title": "UK Poised for Global Leadership in Hydrogen Despite Upfront Costs",
+      "description": "The UK government maintains a positive outlook on the nation's potential to lead globally in hydrogen deployment and supply chains. Leveraging existing oil and gas expertise, strong innovation, and a supportive policy environment, the UK aims to overcome high upfront costs. Strategic plans include driving down costs, providing public finance, and expanding incentives like the Clean Industry Bonus, to capitalise on a first-mover advantage.",
+      "stance": "positive",
+      "source_firm": "GOVUK_IS",
+      "source_date": "2025-06-23",
+      "source_doc_id": "bb453dfa-b76e-58e6-82b2-fc8c8834786a",
+      "source_title": "Clean Energy Industries Sector Plan",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/clean-energy-industries-sector-plan"
+    },
+    {
+      "index": 5,
+      "title": "Hydrogen's Limited Role in Scottish Building Heating Decarbonization",
+      "description": "The Climate Change Committee (CCC) for Scotland foresees hydrogen playing a minor role in industrial processes and off-road vehicles in agriculture. However, for residential heating, the CCC's Balanced Pathway specifically indicates no role for hydrogen in buildings. This contrasts with broader UK discussions and highlights regional variations in decarbonization strategies, prioritizing electrification for heat in Scotland.",
+      "stance": "cautious_negative",
+      "source_firm": "CCC",
+      "source_date": "2025-05-21",
+      "source_doc_id": "b19d1a2a-77b5-53ff-a19f-555867ad2ecc",
+      "source_title": "Scotland’s Carbon Budgets",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/scotlands-carbon-budgets"
+    },
+    {
+      "index": 6,
+      "title": "EVs Outcompete Hydrogen Fuel Cells in UK Road Transport Decarbonization",
+      "description": "The CCC's updated analysis indicates that hydrogen fuel cell vehicles no longer hold a significant role in the UK's road transport decarbonization pathway. Battery-electric vehicles (EVs) have become the most cost-effective option, particularly for HGVs, due to rapidly falling battery prices. While some uncertainty remains for specific long-distance or heavy-cargo applications, the dominant trend favors electrification over hydrogen fuel cells for road mobility.",
+      "stance": "negative",
+      "source_firm": "CCC",
+      "source_date": "2025-05-21",
+      "source_doc_id": "604f81a4-6c9a-55d1-b2af-e3cc118034f4",
+      "source_title": "Methodology report – UK, Northern Ireland, Wales, and Scotland carbon budget advice",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/methodology-report-uk-northern-ireland-wales-and-scotland-carbon-budget-advice"
+    },
+    {
+      "index": 7,
+      "title": "Hydrogen Production Investment Poorly Regarded by UK Operators",
+      "description": "Operators and developers in the UK offshore energy sector view hydrogen production as a poorly regarded investment proposition in the current landscape. This sentiment is driven by perceptions that existing funding mechanisms for new energies are insufficient and unsuitable. Major concerns include delays in Track-1 expansion, uncertainty for Track-1 and Track-2 projects, and issues with Hydrogen Allocation Round 2 (HAR2), deterring investment in these transition technologies.",
+      "stance": "negative",
+      "source_firm": "OEUK",
+      "source_date": "2025-03-24",
+      "source_doc_id": "955b85d1-837a-5a09-b02e-0b4c9bf02b62",
+      "source_title": "Business Outlook Report 2025",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/business-outlook-report-2025"
+    },
+    {
+      "index": 8,
+      "title": "Low-Carbon Hydrogen Progress Positive but Faces Significant Risks",
+      "description": "The CCC acknowledges positive progress in developing the low-carbon hydrogen sector but warns of significant risks. Government timelines are tight and have been slipping for initial hydrogen production from HAR1 projects, decisions on future allocation rounds, and the publication of an overarching hydrogen strategy. These delays, combined with uncertainties in transport and storage decisions, pose a threat to meeting sector ambitions.",
+      "stance": "cautious_positive",
+      "source_firm": "CCC",
+      "source_date": "2026-06-24",
+      "source_doc_id": "f465f474-3556-58b4-89d5-eb4292711833",
+      "source_title": "Progress in reducing emissions 2026 report to Parliament",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/progress-in-reducing-emissions-2026-report-to-parliament"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 10.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Government ambition for overall hydrogen production capacity, with at least half expected to come from electrolytic (green) hydrogen.",
+      "source_firm": "Deloitte UK",
+      "source_date": "2026-06-30",
+      "data_confidence": "high",
+      "source_doc_id": "6c21b4ea-6c8c-5b82-b172-a7f45f0ac7fc",
+      "source_title": "UK energy transition journey",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/energy/analysis/uk-energy-transition.html"
+    },
+    {
+      "index": 2,
+      "tam_value": 45.0,
+      "tam_unit": "TWh",
+      "sam_value": null,
+      "as_of_year": 2050,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Industrial decarbonisation",
+          "description": "Hydrogen is vital for hard-to-electrify industrial sectors requiring gaseous or liquid fuels for high-temperature processes, such as refining, glass, chemicals, and ceramics."
+        },
+        {
+          "driver": "Dispatchable power generation",
+          "description": "Hydrogen can fuel power plants, providing dispatchable power and system flexibility, particularly during periods of low renewable output."
+        },
+        {
+          "driver": "Sustainable aviation fuel (SAF) production",
+          "description": "Hydrogen is a key component in the production of synthetic sustainable aviation fuels, contributing to the decarbonisation of the aviation sector."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected electrolytic hydrogen production for energy in the Electric Engagement pathway. Other pathways show 88 TWh (Holistic Transition) and 104 TWh (Hydrogen Evolution).",
+      "source_firm": "NESO",
+      "source_date": "2025-07-11",
+      "data_confidence": "high",
+      "source_doc_id": "62bf929e-5e86-5856-9e04-74abb8bf776a",
+      "source_title": "FES: NESO Pathways to Net Zero 2025",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/364541/download"
+    },
+    {
+      "index": 3,
+      "tam_value": 8.0,
+      "tam_unit": "TWh",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Industrial decarbonisation",
+          "description": "Early hydrogen projects will primarily serve industrial users for decarbonization needs, particularly in clusters."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected electrolytic hydrogen production for energy in the Electric Engagement pathway. Other pathways show 11 TWh (Holistic Transition) and 11 TWh (Hydrogen Evolution).",
+      "source_firm": "NESO",
+      "source_date": "2025-07-11",
+      "data_confidence": "high",
+      "source_doc_id": "62bf929e-5e86-5856-9e04-74abb8bf776a",
+      "source_title": "FES: NESO Pathways to Net Zero 2025",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/364541/download"
+    },
+    {
+      "index": 4,
+      "tam_value": 2.5,
+      "tam_unit": "TWh",
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Industrial and agricultural machinery",
+          "description": "Hydrogen will be used to decarbonise heavy machinery in industrial and agricultural sectors in Scotland."
+        },
+        {
+          "driver": "Synthetic fuels production",
+          "description": "A significant portion of hydrogen produced will be directed towards creating synthetic fuels, for example, for aviation."
+        },
+        {
+          "driver": "Industrial processes (chemical & glass manufacturing)",
+          "description": "Hydrogen will be integrated into high-temperature processes within chemical and glass manufacturing sectors."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total low-carbon hydrogen available in Scotland in 2035 (2.7 TWh), with 93% predominantly produced via electrolysis.",
+      "source_firm": "CCC",
+      "source_date": "2025-05-21",
+      "data_confidence": "medium",
+      "source_doc_id": "b19d1a2a-77b5-53ff-a19f-555867ad2ecc",
+      "source_title": "Scotland’s Carbon Budgets",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/scotlands-carbon-budgets"
+    },
+    {
+      "index": 5,
+      "tam_value": 0.9,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total low-carbon hydrogen capacity in Scotland by 2035, predominantly produced via electrolysis (93%).",
+      "source_firm": "CCC",
+      "source_date": "2025-05-21",
+      "data_confidence": "medium",
+      "source_doc_id": "b19d1a2a-77b5-53ff-a19f-555867ad2ecc",
+      "source_title": "Scotland’s Carbon Budgets",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/scotlands-carbon-budgets"
+    },
+    {
+      "index": 6,
+      "tam_value": 0.2,
+      "tam_unit": "TWh",
+      "sam_value": null,
+      "as_of_year": 2033,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Industrial decarbonisation",
+          "description": "Hydrogen will be used in industrial processes within the South Wales Industrial Cluster to reduce emissions."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Low-carbon hydrogen available in 2033 from the South Wales Industrial Cluster, predominantly produced via electrolysis using surplus zero-carbon electricity.",
+      "source_firm": "CCC",
+      "source_date": "2025-05-14",
+      "data_confidence": "medium",
+      "source_doc_id": "74ddc488-15d9-5e48-821e-2cfb524c3eef",
+      "source_title": "Wales’ Fourth Carbon Budget",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/wales-fourth-carbon-budget"
+    },
+    {
+      "index": 7,
+      "tam_value": 37.0,
+      "tam_unit": "MW",
+      "sam_value": null,
+      "as_of_year": 2033,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Low-carbon hydrogen capacity reaching 37 MW by 2033 from the South Wales Industrial Cluster, predominantly produced via electrolysis.",
+      "source_firm": "CCC",
+      "source_date": "2025-05-14",
+      "data_confidence": "medium",
+      "source_doc_id": "74ddc488-15d9-5e48-821e-2cfb524c3eef",
+      "source_title": "Wales’ Fourth Carbon Budget",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/wales-fourth-carbon-budget"
+    },
+    {
+      "index": 8,
+      "tam_value": 0.8,
+      "tam_unit": "GBP_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Global hydrogen market growth",
+          "description": "Increasing global demand for low-carbon hydrogen drives demand for production equipment and fuel cells from UK manufacturers."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The UK has internationally recognised capability in electrolysis technologies, positioning it well to supply global markets.",
+          "opportunity": "Export of electrolyser manufacturing equipment"
+        }
+      ],
+      "methodology": "Projected export market value for UK manufacturers of CCUS-enabled and electrolytic hydrogen production equipment and fuel cells. The range is £0.8 billion to £2.2 billion.",
+      "source_firm": "GOVUK_IS",
+      "source_date": "2025-06-23",
+      "data_confidence": "high",
+      "source_doc_id": "bb453dfa-b76e-58e6-82b2-fc8c8834786a",
+      "source_title": "Clean Energy Industries Sector Plan",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/clean-energy-industries-sector-plan"
+    },
+    {
+      "index": 9,
+      "tam_value": 400.0,
+      "tam_unit": "GBP_mn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Private capital investment committed by projects from the first Hydrogen Allocation Round (HAR1). These projects are green hydrogen focused.",
+      "source_firm": "GOVUK_IS",
+      "source_date": "2025-06-23",
+      "data_confidence": "high",
+      "source_doc_id": "bb453dfa-b76e-58e6-82b2-fc8c8834786a",
+      "source_title": "Clean Energy Industries Sector Plan",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/clean-energy-industries-sector-plan"
+    },
+    {
+      "index": 10,
+      "tam_value": 1.0,
+      "tam_unit": "USD_trillion",
+      "sam_value": null,
+      "as_of_year": 2050,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Decarbonization of various sectors",
+          "description": "Hydrogen serves as an important enabler for achieving net-zero emissions across multiple hard-to-abate sectors globally."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Global hydrogen market size projection by Deloitte.",
+      "source_firm": "GOVUK_IS",
+      "source_date": "2025-06-23",
+      "data_confidence": "medium",
+      "source_doc_id": "bb453dfa-b76e-58e6-82b2-fc8c8834786a",
+      "source_title": "Clean Energy Industries Sector Plan",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/clean-energy-industries-sector-plan"
+    },
+    {
+      "index": 11,
+      "tam_value": 117.0,
+      "tam_unit": "MW",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Installed capacity from green hydrogen projects awarded contracts through Hydrogen Allocation Round 1 (HAR1), once fully operational.",
+      "source_firm": "CCC",
+      "source_date": "2026-06-24",
+      "data_confidence": "high",
+      "source_doc_id": "f465f474-3556-58b4-89d5-eb4292711833",
+      "source_title": "Progress in reducing emissions 2026 report to Parliament",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/progress-in-reducing-emissions-2026-report-to-parliament"
+    }
+  ],
+  "sources": [
+    "OEUK",
+    "NESO",
+    "GOVUK_IS",
+    "CCC",
+    "Deloitte UK"
+  ],
+  "documents": [
+    {
+      "doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "title": "Economic Report 2026",
+      "publisher": "oeuk",
+      "date": "2026-09-08",
+      "url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "doc_id": "62bf929e-5e86-5856-9e04-74abb8bf776a",
+      "title": "FES: NESO Pathways to Net Zero 2025",
+      "publisher": "neso",
+      "date": "2025-07-11",
+      "url": "https://www.neso.energy/document/364541/download"
+    },
+    {
+      "doc_id": "155bab12-0eec-5642-b7d1-a354c794f39d",
+      "title": "Business Outlook Report 2026",
+      "publisher": "oeuk",
+      "date": "2026-03-27",
+      "url": "https://oeuk.org.uk/product/business-outlook-report-2026"
+    },
+    {
+      "doc_id": "bb453dfa-b76e-58e6-82b2-fc8c8834786a",
+      "title": "Clean Energy Industries Sector Plan",
+      "publisher": "govuk_is",
+      "date": "2025-06-23",
+      "url": "https://www.gov.uk/government/publications/clean-energy-industries-sector-plan"
+    },
+    {
+      "doc_id": "b19d1a2a-77b5-53ff-a19f-555867ad2ecc",
+      "title": "Scotland’s Carbon Budgets",
+      "publisher": "ccc",
+      "date": "2025-05-21",
+      "url": "https://www.theccc.org.uk/publication/scotlands-carbon-budgets"
+    },
+    {
+      "doc_id": "604f81a4-6c9a-55d1-b2af-e3cc118034f4",
+      "title": "Methodology report – UK, Northern Ireland, Wales, and Scotland carbon budget advice",
+      "publisher": "ccc",
+      "date": "2025-05-21",
+      "url": "https://www.theccc.org.uk/publication/methodology-report-uk-northern-ireland-wales-and-scotland-carbon-budget-advice"
+    },
+    {
+      "doc_id": "955b85d1-837a-5a09-b02e-0b4c9bf02b62",
+      "title": "Business Outlook Report 2025",
+      "publisher": "oeuk",
+      "date": "2025-03-24",
+      "url": "https://oeuk.org.uk/product/business-outlook-report-2025"
+    },
+    {
+      "doc_id": "f465f474-3556-58b4-89d5-eb4292711833",
+      "title": "Progress in reducing emissions 2026 report to Parliament",
+      "publisher": "ccc",
+      "date": "2026-06-24",
+      "url": "https://www.theccc.org.uk/publication/progress-in-reducing-emissions-2026-report-to-parliament"
+    },
+    {
+      "doc_id": "fc168d2f-ca0a-506f-938e-13b26fdce49c",
+      "title": "Economic Report 2025",
+      "publisher": "oeuk",
+      "date": "2025-09-01",
+      "url": "https://oeuk.org.uk/product/economic-report-2025"
+    },
+    {
+      "doc_id": "3e6a525c-0260-5d3f-a0fe-12147ca895d3",
+      "title": "Offshore Wind Insight 2026",
+      "publisher": "oeuk",
+      "date": "2026-05-01",
+      "url": "https://oeuk.org.uk/product/offshore-wind-insight-2026"
+    },
+    {
+      "doc_id": "6c21b4ea-6c8c-5b82-b172-a7f45f0ac7fc",
+      "title": "UK energy transition journey",
+      "publisher": "deloitte_uk",
+      "date": "2026-06-30",
+      "url": "https://www.deloitte.com/uk/en/Industries/energy/analysis/uk-energy-transition.html"
+    },
+    {
+      "doc_id": "74ddc488-15d9-5e48-821e-2cfb524c3eef",
+      "title": "Wales’ Fourth Carbon Budget",
+      "publisher": "ccc",
+      "date": "2025-05-14",
+      "url": "https://www.theccc.org.uk/publication/wales-fourth-carbon-budget"
+    }
+  ]
+}

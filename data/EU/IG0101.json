@@ -1,0 +1,952 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Current upcycle drives ultra-deepwater day rates and contract backlogs",
+      "description": "The oilfield services and equipment (OFSE) sector is experiencing a cyclical upswing, with ultra-deepwater day rates recovering to $450,000 to $500,000, levels not seen since 2017. Leading drillers are reporting strong contract backlogs, indicating robust demand for asset-heavy services. This recovery provides a supportive demand backdrop, but industry experts caution it may mask deeper structural issues that still need addressing for sustainable value creation.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value",
+      "source_date": "2026-09-08",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Persistent overcapacity challenges asset-heavy OFSE segments",
+      "description": "Overcapacity remains a core structural challenge for asset-heavy segments of the OFSE sector, such as drillships, supply vessels, and seismic ships. Their long economic lives (20-30 years) and low cold-stacking/reactivation costs relative to scrapping mean capacity exits slowly. This results in a multiyear overhang of latent capacity after downturns, depressing pricing well into recoveries. The industry struggles with rationalization, with supply adjusting through bankruptcies over years, rather than efficient pricing mechanisms.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value",
+      "source_date": "2026-09-08",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Broken commercial models hinder OFSE innovation and value capture",
+      "description": "The prevailing commercial models in OFSE, such as fixed day rates, unit prices per hour/foot drilled, and lump-sum EPC contracts, decouple supplier activities from client value. This structure provides clients with no incentive to pay for innovation that reduces cycle time and leaves suppliers with insufficient margins to fund it. OFSE companies bear the costs of inefficiency but rarely share in productivity upsides, creating a structural ceiling on growth and profitability, which became acute once industry growth flattened.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value",
+      "source_date": "2026-09-08",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Growing operator dominance shifts power dynamics in OFSE value chain",
+      "description": "Power has increasingly migrated to operators over the past 15 years, with many National Oil Companies (NOCs) building internal capabilities and insourcing functions previously outsourced. This trend, exemplified by ADNOC Drilling, Petrobras, and Saudi Aramco, means operators concentrate spending with fewer preferred suppliers, dictating terms that often transfer project risk to OFSE providers. This fundamentally alters the supplier-operator relationship, resembling an OEM-supplier dynamic rather than a peer-to-peer value chain.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value",
+      "source_date": "2026-09-08",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "AI efficiency gains risk OFSE revenue loss under traditional commercial models",
+      "description": "AI-driven efficiency, while beneficial for operators through faster wells, fewer failures, and reduced downtime, poses a significant revenue exposure risk for OFSE companies. Under traditional day-rate or activity-based contracts, efficiency gains can reduce billable rig days, service hours, or maintenance events, leading to revenue loss. At current deployment levels, $17 billion of OFSE revenue is exposed, potentially reaching $60 billion at full AI potential, underscoring the urgent need for new value-sharing commercial models.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-25",
+      "source_doc_id": "7997f6ad-c438-53e2-9c9a-a738b981d89b",
+      "source_title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone",
+      "source_date": "2026-08-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Industrialized AI promises significant productivity and value creation for OFSE",
+      "description": "Industrialized AI is a transformative upside driver for OFSE, enabling advancements in productivity like faster seismic processing, optimized maintenance strategies, and lower nonproductive drilling time. The frontier is expanding to autonomous drilling, AI-driven engineering design, and digital rehearsal of construction sequences. This capability directly addresses the broken commercial model by enabling outcome-based contracts and more accurate risk/reward compensation, potentially improving internal OFSE efficiency by $10-20 billion and creating new revenue streams.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value",
+      "source_date": "2026-09-08",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Shift towards outcome-based and gain-sharing commercial models with AI",
+      "description": "The imperative to address misaligned commercial models in OFSE is driving a structural shift towards new value exchange mechanisms, including AI product businesses (SaaS), performance-based services, and gain-sharing models. These models, exemplified by Baker Hughes' Leucipa™ and Helmerich & Payne's performance contracts, incentivize both operators and OFSE providers to adopt AI by aligning rewards with outcomes (e.g., drilling cycle time, uptime, production uplift), rather than activity volumes. This rewiring is crucial for scaling AI's value.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-25",
+      "source_doc_id": "7997f6ad-c438-53e2-9c9a-a738b981d89b",
+      "source_title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone",
+      "source_date": "2026-08-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "Insufficient change management and value tracking hinder AI scaling in upstream",
+      "description": "The scaling of AI in upstream oil and gas, including OFSE, is significantly hampered by non-technological barriers. These include inadequate change management, where user trust and workflow redesign are underestimated, leading to model failure despite technical correctness. Additionally, weak value tracking, with less than 20% of deployments measuring AI-generated value, fosters skepticism and impedes broad adoption. Overly broad prioritization and internal build-versus-buy decisions also dilute investment and slow progress, posing key risks to realizing AI's full potential.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-25",
+      "source_doc_id": "7997f6ad-c438-53e2-9c9a-a738b981d89b",
+      "source_title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone",
+      "source_date": "2026-08-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "title": "Weakened owner teams and increased risk transfer in EPC contracts",
+      "description": "Attrition, outsourcing, and cost reduction have weakened owner teams in managing upstream capital projects, making them less capable of distinguishing project risks from contractor risks. This shift means Engineering, Procurement, and Construction (EPC) contractors are increasingly unwilling to absorb undefined risks, leading to higher premiums, claims, or change orders for owners. Effective risk-sharing now demands that owner teams possess robust capabilities to honestly price and manage these complex contractual structures, otherwise project value erosion persists.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-31",
+      "source_doc_id": "267bfa6d-a5a0-581b-be3b-9f24f46fbd3e",
+      "source_title": "A Risk-Balanced Approach to Upstream Capital Projects",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/a-risk-balanced-approach-to-upstream-capital-projects",
+      "source_date": "2026-07-31",
+      "country_focus": "EU"
+    },
+    {
+      "index": 10,
+      "title": "Technological innovation enhances offshore recovery and operational flexibility",
+      "description": "Advances in equipment, such as smaller and more mobile surface infrastructure, floating production, storage, and offloading (FPSO) units, and multiphase subsea boosting pumps, are transforming the economics of offshore recovery. These innovations allow for greater flexibility in development, extend the economic life of fields, and improve overall resource extraction. This directly benefits OFSE companies specializing in subsea equipment, well services, and advanced production technologies, creating new demand and opportunities for value creation in complex offshore environments.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-07",
+      "source_doc_id": "3c31abe9-f105-5dcc-9e6a-64ab2356d117",
+      "source_title": "Securing the Oil and Gas Resources of the Future",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/upstream-oil-gas-portfolio-longevity",
+      "source_date": "2026-07-07",
+      "country_focus": "EU"
+    },
+    {
+      "index": 11,
+      "title": "Increased focus on protecting critical subsea infrastructure drives demand",
+      "description": "Increased geopolitical tensions in areas surrounding Norwegian waters have led to greater attention on the protection of critical infrastructure, including oil and gas installations, pipelines, and subsea cables. This heightened focus translates into increased demand for specialized monitoring, maintenance, and repair services for subsea assets. For OFSE companies providing subsea equipment and services, this represents an upside driver, as authorities seek to enhance resilience and security of vital offshore energy infrastructure, including through civilian fleet capabilities.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-19",
+      "source_doc_id": "7c769efc-2449-5c8b-bfb2-2a94ca6abe0f",
+      "source_title": "Maritime Outlook 2026",
+      "source_publisher": "nor_shipowners",
+      "source_url": "https://www.rederi.no/en/reports/maritime-outlook-2026",
+      "source_date": "2026-03-19",
+      "country_focus": "NO"
+    },
+    {
+      "index": 12,
+      "title": "High oil production and stable gas output on NCS drive sustained OFSE demand",
+      "description": "The Norwegian Continental Shelf (NCS) experienced its highest oil production since 2009 in 2025, and gas production is expected to remain stable at high levels for the next three to four years. This robust output, with Norway being Europe's largest gas supplier, ensures sustained demand for oilfield services and equipment necessary for maintaining production, field operations, and infill drilling. New fields like Johan Castberg coming on stream further contribute to this sustained activity, benefiting the OFSE sector.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-01-08",
+      "source_doc_id": "f86fb2e3-fead-5394-acbb-afbf6e7d9250",
+      "source_title": "The Shelf in 2025",
+      "source_publisher": "sodir",
+      "source_url": "https://www.sodir.no/en/whats-new/publications/reports/the-shelf/the-shelf-in-2025",
+      "source_date": "2026-01-08",
+      "country_focus": "NO"
+    },
+    {
+      "index": 13,
+      "title": "Concentrated player landscape on NCS reduces diversity and competition",
+      "description": "The number of companies operating on the Norwegian Continental Shelf (NCS) has more than halved since 2013, with international majors pulling out, leading to a landscape dominated by Norwegian-based players like Equinor, Aker BP, and Vår Energi. While this provides local leadership, it risks diminishing geoscientific diversity of ideas and competition for attractive acreage, which historically drove large discoveries. This consolidation represents a structural shift in the competitive environment for OFSE providers, favoring strong ties with dominant local players.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-01-01",
+      "source_doc_id": "301847ac-8869-5d0a-9663-9b5c6e114910",
+      "source_title": "The Resource report 2026",
+      "source_publisher": "sodir",
+      "source_url": "https://www.sodir.no/en/whats-new/publications/reports/resource-report/resource-report-2026",
+      "source_date": "2026-01-01",
+      "country_focus": "NO"
+    },
+    {
+      "index": 14,
+      "title": "Declining NCS investments post-2026 threaten industry dismantling",
+      "description": "The Norwegian Offshore Directorate forecasts a gradual decline in investment levels on the Norwegian Continental Shelf (NCS) post-2026, primarily due to the completion of existing development projects without sufficient replacement. Without new field development decisions and sustained high exploration activity, production is expected to decline significantly towards the end of the 2020s. A lack of investment is identified as a critical risk that could lead to a substantial dismantling of Norway's petroleum industry, posing a major headwind for OFSE.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-01-08",
+      "source_doc_id": "f86fb2e3-fead-5394-acbb-afbf6e7d9250",
+      "source_title": "The Shelf in 2025",
+      "source_publisher": "sodir",
+      "source_url": "https://www.sodir.no/en/whats-new/publications/reports/the-shelf/the-shelf-in-2025",
+      "source_date": "2026-01-08",
+      "country_focus": "NO"
+    },
+    {
+      "index": 15,
+      "title": "EU policy of 'managed decline' for offshore gas creates investment uncertainty",
+      "description": "Current EU policy, including the UK's decision to no longer grant new offshore oil and gas exploration licenses, is driving a 'managed decline' in European offshore gas production. This trajectory projects a significant fall in output from 180 bcm/year to 30 bcm/year by mid-century. Despite substantial proven reserves in Norwegian waters, these policy decisions mean resources remain largely untapped, creating a headwind for OFSE companies in Europe reliant on exploration and development activities.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-09",
+      "source_doc_id": "e89b8990-e430-54a5-8122-a27a4c9746fe",
+      "source_title": "How Europe can reduce reliance on imported gas and what it means for business…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-europe-can-reduce-reliance-on-imported-gas-and-what-it-means-for-business-leaders",
+      "source_date": "2026-04-09",
+      "country_focus": "EU"
+    },
+    {
+      "index": 16,
+      "title": "Suspension of power-from-shore projects on NCS due to profitability challenges",
+      "description": "Several planned projects on the Norwegian Continental Shelf (NCS) aimed at reducing greenhouse gas emissions through power-from-shore operations have been suspended. These projects, which were substantial in investment, faced challenging profitability, leading to their deferral. This represents a headwind for OFSE companies that provide solutions and services for offshore electrification and emission reduction, impacting a potential area of growth within the energy transition efforts in Norway.",
+      "type": "headwind",
+      "impact_magnitude": "low",
+      "time_horizon": "near",
+      "as_of_date": "2026-01-08",
+      "source_doc_id": "f86fb2e3-fead-5394-acbb-afbf6e7d9250",
+      "source_title": "The Shelf in 2025",
+      "source_publisher": "sodir",
+      "source_url": "https://www.sodir.no/en/whats-new/publications/reports/the-shelf/the-shelf-in-2025",
+      "source_date": "2026-01-08",
+      "country_focus": "NO"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "OFSE sector's value destruction ending, but structural issues remain unresolved",
+      "description": "The oilfield services and equipment (OFSE) sector is emerging from a decade of subpar shareholder returns (0.5% TSR, 2010-2025), with demand recovery underway and ultra-deepwater day rates reaching 2017 levels. However, this upcycle masks unresolved structural issues like overcapacity, broken commercial models, and operator dominance. Value creation continues to lag, suggesting that demand alone will not restore sector profitability. Companies must address these deep-seated problems to achieve sustainable returns.",
+      "stance": "cautious_positive",
+      "source_firm": "BCG Global",
+      "source_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Asset-heavy OFSE operators plagued by overcapacity and depressed margins",
+      "description": "Asset-heavy capacity operators, including drillers and vessel owners, continue to suffer from chronic overcapacity, resulting in the lowest EBIT margins in OFSE (approx. 7% from 2022-2025) and high leverage. Despite recent high utilization rates, day rates have plateaued and softened, failing to translate into sustained pricing power. The segment's mechanism for clearing excess capacity is broken, with assets having long economic lives and low reactivation costs, leading to prolonged periods of depressed pricing.",
+      "stance": "negative",
+      "source_firm": "BCG Global",
+      "source_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Diversified integrated service companies face rising operator dominance and commoditization",
+      "description": "Diversified integrated service companies, despite being the only 'price makers' in OFSE, face a significant challenge from increasing operator dominance. National oil companies (NOCs) are building internal capabilities and taking back outsourced functions, while technology hyperscalers threaten to commoditize the digital analytics layer. This pressure forces these companies to defend their platform positions against both operators seeking to own them and external technology providers. Strategic differentiation and innovation are crucial for this segment's future.",
+      "stance": "cautious_negative",
+      "source_firm": "BCG Global",
+      "source_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "EPC contractors' margins constrained by commercial models and fragmentation",
+      "description": "Engineering, Procurement, and Construction (EPC) contractors in the OFSE sector are directly impacted by problematic commercial models, particularly fixed day rates and lump-sum bids, which limit their ability to monetize innovation and share in productivity gains. Fragmentation within the EPC market, with over 75 players, further suppresses margins, holding them at approximately 5%. A critical strategic shift involves moving towards output-based and outcomes-based contracts to improve profitability and align incentives with clients.",
+      "stance": "negative",
+      "source_firm": "BCG Global",
+      "source_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Data, Digital, and Asset-Light OFSE companies face exploration spending exposure and operator AI",
+      "description": "Data, digital, and asset-light services firms, which monetize information and intellectual property, enjoy structurally better economics than other OFSE segments. However, they are highly exposed to fluctuations in exploration spending, which is often the first budget item cut by E&P operators. The threat of operator dominance is most acute here, as major operators develop their own AI platforms, potentially reducing the need for external data and digital providers. These firms face an urgent strategic question about platform-building versus absorption by majors.",
+      "stance": "cautious_negative",
+      "source_firm": "BCG Global",
+      "source_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Norwegian offshore sector remains important market for service and rig companies",
+      "description": "The North Sea, especially the Norwegian continental shelf, is deemed the most crucial market for Norway’s offshore industry. It provides a vital platform for Norwegian offshore service and rig companies to build international competitiveness. The Norwegian offshore fleet is extensive, comprising vessels for supply and equipment transport, as well as subsea operations. This strong domestic market supports sustained activity and expertise development for the sector.",
+      "stance": "positive",
+      "source_firm": "Norwegian Shipowners’ Association",
+      "source_date": "2026-03-19",
+      "source_doc_id": "7c769efc-2449-5c8b-bfb2-2a94ca6abe0f",
+      "source_title": "Maritime Outlook 2026",
+      "source_publisher": "nor_shipowners",
+      "source_url": "https://www.rederi.no/en/reports/maritime-outlook-2026",
+      "country_focus": "NO"
+    },
+    {
+      "index": 7,
+      "title": "Offshore service and rig companies show robust growth, with some slowdown expected",
+      "description": "The offshore service segment demonstrated strong performance in 2024 with 19% revenue growth, surpassing pre-oil-crisis levels from 2014. Further growth of 5% is expected in 2025 and 4% in 2026, indicating sustained high activity. Rig companies also experienced solid 8% revenue growth in 2025. While growth for rig companies is projected to slow to 2% in 2026, rates and demand are anticipated to remain strong, reflecting continued positive sentiment.",
+      "stance": "cautious_positive",
+      "source_firm": "Norwegian Shipowners’ Association",
+      "source_date": "2026-03-19",
+      "source_doc_id": "7c769efc-2449-5c8b-bfb2-2a94ca6abe0f",
+      "source_title": "Maritime Outlook 2026",
+      "source_publisher": "nor_shipowners",
+      "source_url": "https://www.rederi.no/en/reports/maritime-outlook-2026",
+      "country_focus": "NO"
+    },
+    {
+      "index": 8,
+      "title": "Norwegian Continental Shelf exploration remains successful and profitable",
+      "description": "The Norwegian Offshore Directorate reports that 2025 was the second-best exploration year in the last decade, with 21 new discoveries and 67 million standard cubic meters of recoverable oil equivalent. Advanced technology played a crucial role in these successes, enabling record-long wells. An analysis from 2000-2025 confirms that exploration on the NCS has been highly profitable, yielding an average return of NOK 4 for every NOK 1 invested, underscoring its value for future resource growth.",
+      "stance": "positive",
+      "source_firm": "Norwegian Offshore Directorate",
+      "source_date": "2026-01-08",
+      "source_doc_id": "f86fb2e3-fead-5394-acbb-afbf6e7d9250",
+      "source_title": "The Shelf in 2025",
+      "source_publisher": "sodir",
+      "source_url": "https://www.sodir.no/en/whats-new/publications/reports/the-shelf/the-shelf-in-2025",
+      "country_focus": "NO"
+    },
+    {
+      "index": 9,
+      "title": "NCS oil production high, gas stable, but long-term decline looms without new investment",
+      "description": "Oil production on the Norwegian Continental Shelf (NCS) reached its highest level since 2009 in 2025, with gas production remaining stable near record levels. This high activity is expected to persist until the late 2020s. However, the Norwegian Offshore Directorate warns of an anticipated decline thereafter, stressing that significant new exploration and investments in fields, discoveries, infrastructure, and technology development are crucial to prevent a rapid dismantling of the petroleum industry and maintain future production.",
+      "stance": "cautious_positive",
+      "source_firm": "Norwegian Offshore Directorate",
+      "source_date": "2026-01-01",
+      "source_doc_id": "301847ac-8869-5d0a-9663-9b5c6e114910",
+      "source_title": "The Resource report 2026",
+      "source_publisher": "sodir",
+      "source_url": "https://www.sodir.no/en/whats-new/publications/reports/resource-report/resource-report-2026",
+      "country_focus": "NO"
+    },
+    {
+      "index": 10,
+      "title": "High petroleum industry investment in Norway reflects strong confidence for 2026",
+      "description": "The Norwegian Offshore Directorate estimates investments in the Norwegian petroleum industry will reach approximately NOK 230 billion in 2026. This significant level of investment is seen as a clear indicator of strong confidence within the industry regarding both future profitability and the extensive resource base on the Norwegian Continental Shelf. This sustained capital expenditure is foundational for ongoing exploration, development, and production activities, ensuring continued value creation.",
+      "stance": "positive",
+      "source_firm": "Norwegian Offshore Directorate",
+      "source_date": "2026-01-01",
+      "source_doc_id": "301847ac-8869-5d0a-9663-9b5c6e114910",
+      "source_title": "The Resource report 2026",
+      "source_publisher": "sodir",
+      "source_url": "https://www.sodir.no/en/whats-new/publications/reports/resource-report/resource-report-2026",
+      "country_focus": "NO"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 65.0,
+      "tam_unit": "USD_bn",
+      "sam_value": 125.0,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increased production from existing wells",
+          "description": "AI-driven optimizations and advanced recovery techniques can boost output from operational assets."
+        },
+        {
+          "driver": "Reduced operating cost",
+          "description": "AI applications lead to lower nonproductive time, reduced lease operating expenses, and optimized inventory management."
+        },
+        {
+          "driver": "Improved capital productivity",
+          "description": "Fewer wells needed to meet development plans and shorter field development cycles due to AI-driven efficiency."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "AI implementation costs",
+          "description": "Annual costs for compute, specialized talent, data infrastructure, and software, totaling over $30 billion, are deducted from potential value."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "These areas offer the most value for OFSE due to existing data infrastructure and closed-loop feedback systems.",
+          "opportunity": "AI in drilling, production optimization, and maintenance"
+        }
+      ],
+      "methodology": "Bottom-up sizing of over 550 AI use cases across upstream oil and gas value chain stages, applied to global cost and production base. Near-term reflects proven AI technologies at current adoption, medium-term reflects broader adoption, full potential assumes autonomous operating modes and maximum addressability. Includes value for OFSE companies.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-08-25",
+      "data_confidence": "high",
+      "source_doc_id": "7997f6ad-c438-53e2-9c9a-a738b981d89b",
+      "source_title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "tam_value": 17.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Reduced billable activity",
+          "description": "AI-driven efficiency (e.g., faster wells, fewer failures, lower downtime, fewer interventions) directly reduces the demand for traditional billable services for OFSEs under existing time-and-materials contracts."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Estimated revenue exposure for oilfield services at current AI deployment levels, assuming AI-driven efficiency reduces activity under existing commercial structures. Full potential revenue exposure could reach $60 billion.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-08-25",
+      "data_confidence": "medium",
+      "source_doc_id": "7997f6ad-c438-53e2-9c9a-a738b981d89b",
+      "source_title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "tam_value": 10.0,
+      "tam_unit": "USD_bn",
+      "sam_value": 20.0,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Improved internal efficiency",
+          "description": "AI can optimize labor, materials, general & administrative functions, and working capital, leading to direct cost reductions for OFSE companies."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "McKinsey analysis of internal cost efficiency potential for OFSEs, covering labor productivity, materials optimization, SG&A automation, and working capital improvement.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-08-25",
+      "data_confidence": "medium",
+      "source_doc_id": "7997f6ad-c438-53e2-9c9a-a738b981d89b",
+      "source_title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "tam_value": 50.0,
+      "tam_unit": "units",
+      "sam_value": 400.0,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total number of mobile offshore units and vessels controlled by members of the Norwegian Shipowners’ Association.",
+      "source_firm": "Norwegian Shipowners’ Association",
+      "source_date": "2026-03-19",
+      "data_confidence": "high",
+      "source_doc_id": "7c769efc-2449-5c8b-bfb2-2a94ca6abe0f",
+      "source_title": "Maritime Outlook 2026",
+      "source_publisher": "nor_shipowners",
+      "source_url": "https://www.rederi.no/en/reports/maritime-outlook-2026",
+      "country_focus": "NO"
+    },
+    {
+      "index": 5,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": 5.0,
+      "forecast_cagr_period": "2024-2025",
+      "historical_cagr": 19.0,
+      "historical_cagr_period": "2023-2024",
+      "demand_drivers": [
+        {
+          "driver": "High activity on Norwegian continental shelf and internationally",
+          "description": "Sustained and increasing demand for offshore services in the North Sea and global markets drives segment revenue."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Reported annual revenue growth rates for the offshore service segment among Norwegian Shipowners’ Association members. Estimates for 2025 and projections for 2026.",
+      "source_firm": "Norwegian Shipowners’ Association",
+      "source_date": "2026-03-19",
+      "data_confidence": "high",
+      "source_doc_id": "7c769efc-2449-5c8b-bfb2-2a94ca6abe0f",
+      "source_title": "Maritime Outlook 2026",
+      "source_publisher": "nor_shipowners",
+      "source_url": "https://www.rederi.no/en/reports/maritime-outlook-2026",
+      "country_focus": "NO"
+    },
+    {
+      "index": 6,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 2.0,
+      "forecast_cagr_period": "2025-2026",
+      "historical_cagr": 8.0,
+      "historical_cagr_period": "2024-2025",
+      "demand_drivers": [
+        {
+          "driver": "Strong rates and demand",
+          "description": "Despite slowing growth, overall rig rates and demand remain robust, supporting continued revenue for rig companies."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Reported annual revenue growth rates for Norwegian rig companies among Norwegian Shipowners’ Association members. Projections for 2026.",
+      "source_firm": "Norwegian Shipowners’ Association",
+      "source_date": "2026-03-19",
+      "data_confidence": "high",
+      "source_doc_id": "7c769efc-2449-5c8b-bfb2-2a94ca6abe0f",
+      "source_title": "Maritime Outlook 2026",
+      "source_publisher": "nor_shipowners",
+      "source_url": "https://www.rederi.no/en/reports/maritime-outlook-2026",
+      "country_focus": "NO"
+    },
+    {
+      "index": 7,
+      "tam_value": 230.0,
+      "tam_unit": "NOK_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Future profitability expectations",
+          "description": "Industry's confidence in the long-term economic viability of NCS projects drives capital allocation."
+        },
+        {
+          "driver": "Robust resource base",
+          "description": "The presence of significant remaining oil and gas resources on the NCS supports continued investment for development."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Norwegian Offshore Directorate's estimate for total investments in the petroleum industry on the Norwegian Continental Shelf (NCS). Reflects strong confidence in resource base and profitability.",
+      "source_firm": "Norwegian Offshore Directorate",
+      "source_date": "2026-01-01",
+      "data_confidence": "high",
+      "source_doc_id": "301847ac-8869-5d0a-9663-9b5c6e114910",
+      "source_title": "The Resource report 2026",
+      "source_publisher": "sodir",
+      "source_url": "https://www.sodir.no/en/whats-new/publications/reports/resource-report/resource-report-2026",
+      "country_focus": "NO"
+    },
+    {
+      "index": 8,
+      "tam_value": 97.0,
+      "tam_unit": "units",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Number of fields actively producing on the Norwegian Continental Shelf at year-end 2025. Includes Halten Øst, Verdande, and Johan Castberg fields which came on stream, with no fields shut down.",
+      "source_firm": "Norwegian Offshore Directorate",
+      "source_date": "2026-01-08",
+      "data_confidence": "high",
+      "source_doc_id": "f86fb2e3-fead-5394-acbb-afbf6e7d9250",
+      "source_title": "The Shelf in 2025",
+      "source_publisher": "sodir",
+      "source_url": "https://www.sodir.no/en/whats-new/publications/reports/the-shelf/the-shelf-in-2025",
+      "country_focus": "NO"
+    },
+    {
+      "index": 9,
+      "tam_value": 49.0,
+      "tam_unit": "units",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "High exploration activity",
+          "description": "Strong interest from companies in the Norwegian Continental Shelf, driven by previous exploration successes and resource potential."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total number of exploration wells terminated on the Norwegian Continental Shelf in 2025. Includes 40 wildcat wells.",
+      "source_firm": "Norwegian Offshore Directorate",
+      "source_date": "2026-01-08",
+      "data_confidence": "high",
+      "source_doc_id": "f86fb2e3-fead-5394-acbb-afbf6e7d9250",
+      "source_title": "The Shelf in 2025",
+      "source_publisher": "sodir",
+      "source_url": "https://www.sodir.no/en/whats-new/publications/reports/the-shelf/the-shelf-in-2025",
+      "country_focus": "NO"
+    },
+    {
+      "index": 10,
+      "tam_value": 67.0,
+      "tam_unit": "MMSCM",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Successful exploration campaigns",
+          "description": "Effective application of advanced technology in exploration efforts led to significant resource growth, with more liquids discovered than gas."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Preliminary overall estimate for recoverable oil equivalent from 21 new discoveries made on the Norwegian Continental Shelf in 2025.",
+      "source_firm": "Norwegian Offshore Directorate",
+      "source_date": "2026-01-08",
+      "data_confidence": "high",
+      "source_doc_id": "f86fb2e3-fead-5394-acbb-afbf6e7d9250",
+      "source_title": "The Shelf in 2025",
+      "source_publisher": "sodir",
+      "source_url": "https://www.sodir.no/en/whats-new/publications/reports/the-shelf/the-shelf-in-2025",
+      "country_focus": "NO"
+    },
+    {
+      "index": 11,
+      "tam_value": 40.0,
+      "tam_unit": "units",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Continued attractiveness of NCS",
+          "description": "Norwegian continental shelf remains a desirable area for exploration, ensuring sustained drilling activity."
+        },
+        {
+          "driver": "Resource replacement needs",
+          "description": "Ongoing exploration is critical to offset production decline and ensure long-term resource availability."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecast by the Norwegian Offshore Directorate for the total number of exploration wells to be drilled on the Norwegian Continental Shelf (NCS). Breakdown: 28-32 in North Sea, 4-6 in Norwegian Sea, 4-6 in Barents Sea.",
+      "source_firm": "Norwegian Offshore Directorate",
+      "source_date": "2026-01-08",
+      "data_confidence": "medium",
+      "source_doc_id": "f86fb2e3-fead-5394-acbb-afbf6e7d9250",
+      "source_title": "The Shelf in 2025",
+      "source_publisher": "sodir",
+      "source_url": "https://www.sodir.no/en/whats-new/publications/reports/the-shelf/the-shelf-in-2025",
+      "country_focus": "NO"
+    },
+    {
+      "index": 12,
+      "tam_value": 91.0,
+      "tam_unit": "units",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Future development activity",
+          "description": "These undeveloped discoveries represent a pipeline of future projects that will require extensive oilfield services and equipment."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Number of discoveries on the Norwegian Continental Shelf that had not yet reached a development decision at the end of 2025. These include both larger and smaller discoveries across all ocean areas.",
+      "source_firm": "Norwegian Offshore Directorate",
+      "source_date": "2026-01-08",
+      "data_confidence": "high",
+      "source_doc_id": "f86fb2e3-fead-5394-acbb-afbf6e7d9250",
+      "source_title": "The Shelf in 2025",
+      "source_publisher": "sodir",
+      "source_url": "https://www.sodir.no/en/whats-new/publications/reports/the-shelf/the-shelf-in-2025",
+      "country_focus": "NO"
+    },
+    {
+      "index": 13,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "2023-2025",
+      "demand_drivers": [
+        {
+          "driver": "Data sharing as competitive advantage",
+          "description": "Collaborative data access through Diskos enhances exploration efficiency and resource utilization, driving more data submission."
+        },
+        {
+          "driver": "Increased activity and advanced technology",
+          "description": "Higher exploration and production activity, coupled with advanced technologies, generate larger volumes of data that are reported to the repository."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Volume of exploration and production-related information reported to Diskos, Norway's national data repository, by licensees on the Norwegian Continental Shelf.",
+      "source_firm": "Norwegian Offshore Directorate",
+      "source_date": "2026-01-08",
+      "data_confidence": "high",
+      "source_doc_id": "f86fb2e3-fead-5394-acbb-afbf6e7d9250",
+      "source_title": "The Shelf in 2025",
+      "source_publisher": "sodir",
+      "source_url": "https://www.sodir.no/en/whats-new/publications/reports/the-shelf/the-shelf-in-2025",
+      "country_focus": "NO"
+    },
+    {
+      "index": 14,
+      "tam_value": 5.0,
+      "tam_unit": "MMTPA",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government approvals and licensing rounds",
+          "description": "Regulatory support and the awarding of licenses drive the development of new CO₂ storage projects and capacity."
+        },
+        {
+          "driver": "Industrial demand for CCUS",
+          "description": "Agreements with industrial players in Norway and abroad create a market for commercial CO₂ storage services."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The establishment of the world's first full-scale value chain for carbon capture and storage on the NCS creates new demand for OFSE services and equipment for CO₂ injection and monitoring.",
+          "opportunity": "CO2 storage development on NCS"
+        }
+      ],
+      "methodology": "Approved commercial storage capacity for CO₂ per year on the Norwegian Continental Shelf (NCS). This includes projects like Northern Lights.",
+      "source_firm": "Norwegian Offshore Directorate",
+      "source_date": "2026-01-08",
+      "data_confidence": "high",
+      "source_doc_id": "f86fb2e3-fead-5394-acbb-afbf6e7d9250",
+      "source_title": "The Shelf in 2025",
+      "source_publisher": "sodir",
+      "source_url": "https://www.sodir.no/en/whats-new/publications/reports/the-shelf/the-shelf-in-2025",
+      "country_focus": "NO"
+    },
+    {
+      "index": 15,
+      "tam_value": 7.0,
+      "tam_unit": "BCM",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Long-term production and value creation",
+          "description": "The significant remaining resource base provides a foundation for sustained petroleum activities, exports, and economic value for Norway."
+        },
+        {
+          "driver": "Exploration in underexplored areas",
+          "description": "Undiscovered resources represent the greatest long-term potential, requiring continued exploration efforts to convert into recoverable reserves."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated total expected remaining resources of oil equivalent on the Norwegian Continental Shelf (NCS). Approximately half of this is undiscovered, the other half in reserves/discoveries/fields.",
+      "source_firm": "Norwegian Offshore Directorate",
+      "source_date": "2026-01-01",
+      "data_confidence": "high",
+      "source_doc_id": "301847ac-8869-5d0a-9663-9b5c6e114910",
+      "source_title": "The Resource report 2026",
+      "source_publisher": "sodir",
+      "source_url": "https://www.sodir.no/en/whats-new/publications/reports/resource-report/resource-report-2026",
+      "country_focus": "NO"
+    },
+    {
+      "index": 16,
+      "tam_value": 4000.0,
+      "tam_unit": "NOK_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "2000-2025",
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Net present value (NPV) from oil and gas exploration activities on the Norwegian Continental Shelf (NCS) during the period 2000–2025. Based on approximately 730 exploration wells, of which 370 were discoveries.",
+      "source_firm": "Norwegian Offshore Directorate",
+      "source_date": "2026-01-01",
+      "data_confidence": "high",
+      "source_doc_id": "301847ac-8869-5d0a-9663-9b5c6e114910",
+      "source_title": "The Resource report 2026",
+      "source_publisher": "sodir",
+      "source_url": "https://www.sodir.no/en/whats-new/publications/reports/resource-report/resource-report-2026",
+      "country_focus": "NO"
+    },
+    {
+      "index": 17,
+      "tam_value": 145.0,
+      "tam_unit": "units",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Need to extend field lifetimes",
+          "description": "Measures to increase resource utilization and extend the operational life of existing fields drive the submission of improved recovery projects."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "This is identified as the single most important measure for improved recovery, contributing to over 60% of oil production from wells drilled post-2020.",
+          "opportunity": "Drilling of new production wells"
+        }
+      ],
+      "methodology": "Number of specific projects for improved recovery submitted by companies on the Norwegian Continental Shelf (NCS). These projects correspond to an estimated 280 million standard cubic meters of oil equivalent.",
+      "source_firm": "Norwegian Offshore Directorate",
+      "source_date": "2026-01-01",
+      "data_confidence": "high",
+      "source_doc_id": "301847ac-8869-5d0a-9663-9b5c6e114910",
+      "source_title": "The Resource report 2026",
+      "source_publisher": "sodir",
+      "source_url": "https://www.sodir.no/en/whats-new/publications/reports/resource-report/resource-report-2026",
+      "country_focus": "NO"
+    }
+  ],
+  "sources": [
+    "BCG Global",
+    "Norwegian Shipowners’ Association",
+    "Norwegian Offshore Directorate",
+    "McKinsey"
+  ],
+  "documents": [
+    {
+      "doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "title": "Restoring Value Creation in Oilfield Services",
+      "publisher": "bcg_global",
+      "date": "2026-09-08",
+      "url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value"
+    },
+    {
+      "doc_id": "7c769efc-2449-5c8b-bfb2-2a94ca6abe0f",
+      "title": "Maritime Outlook 2026",
+      "publisher": "nor_shipowners",
+      "date": "2026-03-19",
+      "url": "https://www.rederi.no/en/reports/maritime-outlook-2026"
+    },
+    {
+      "doc_id": "f86fb2e3-fead-5394-acbb-afbf6e7d9250",
+      "title": "The Shelf in 2025",
+      "publisher": "sodir",
+      "date": "2026-01-08",
+      "url": "https://www.sodir.no/en/whats-new/publications/reports/the-shelf/the-shelf-in-2025"
+    },
+    {
+      "doc_id": "301847ac-8869-5d0a-9663-9b5c6e114910",
+      "title": "The Resource report 2026",
+      "publisher": "sodir",
+      "date": "2026-01-01",
+      "url": "https://www.sodir.no/en/whats-new/publications/reports/resource-report/resource-report-2026"
+    },
+    {
+      "doc_id": "7997f6ad-c438-53e2-9c9a-a738b981d89b",
+      "title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
+      "publisher": "mckinsey",
+      "date": "2026-08-25",
+      "url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone"
+    },
+    {
+      "doc_id": "267bfa6d-a5a0-581b-be3b-9f24f46fbd3e",
+      "title": "A Risk-Balanced Approach to Upstream Capital Projects",
+      "publisher": "bain",
+      "date": "2026-07-31",
+      "url": "https://www.bain.com/insights/a-risk-balanced-approach-to-upstream-capital-projects"
+    },
+    {
+      "doc_id": "3c31abe9-f105-5dcc-9e6a-64ab2356d117",
+      "title": "Securing the Oil and Gas Resources of the Future",
+      "publisher": "bcg_global",
+      "date": "2026-07-07",
+      "url": "https://www.bcg.com/publications/2026/upstream-oil-gas-portfolio-longevity"
+    },
+    {
+      "doc_id": "e89b8990-e430-54a5-8122-a27a4c9746fe",
+      "title": "How Europe can reduce reliance on imported gas and what it means for business…",
+      "publisher": "ing_think",
+      "date": "2026-04-09",
+      "url": "https://think.ing.com/articles/how-europe-can-reduce-reliance-on-imported-gas-and-what-it-means-for-business-leaders"
+    }
+  ]
+}

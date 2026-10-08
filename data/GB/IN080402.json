@@ -1,0 +1,325 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "AI-driven data center expansion fuels demand for fabrication equipment",
+      "description": "The unprecedented surge in AI adoption is leading to massive capital expenditures by hyperscalers for AI infrastructure and data center build-out. This necessitates significant investments in new semiconductor manufacturing capacity, directly boosting demand for lithography, deposition, etch, metrology, and packaging/test equipment, as well as materials like silicon wafers, photoresists, and gases. This sustained, high-volume demand from AI applications is expected to drive the sector's growth.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "source_date": "2026-09-18"
+    },
+    {
+      "index": 2,
+      "title": "Persistent supply-demand imbalance drives fab expansion and investment",
+      "description": "A continuing supply shortage, especially for leading-edge chips and high-bandwidth memory (HBM), is expected to persist for at least three to five more years. This imbalance maintains high average selling prices for chips and motivates chipmakers to invest in increasing manufacturing capacity, including new fabs and advanced packaging solutions. This directly translates into strong demand and sustained growth for semiconductor equipment and materials vendors, as companies seek to expand production and alleviate supply constraints.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "source_date": "2026-09-18"
+    },
+    {
+      "index": 3,
+      "title": "Geopolitical shifts drive localized fab investment, boosting equipment and materials",
+      "description": "Semiconductor manufacturing has become a strategic national interest, with governments globally actively pursuing policies to enhance domestic production, supply-chain resilience, and technological leadership. This geopolitical competition is driving significant capital expenditure into new fabs across various regions (e.g., Americas, EU-27, Japan, South Korea, China). Such localization efforts create sustained demand for semiconductor manufacturing equipment and materials in regions beyond traditional hubs, ensuring a diversified and robust market for suppliers.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "ba165ddd-42ab-57af-896d-6e8f5c171051",
+      "source_title": "Semiconductors: Etching the new map of strategic supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 4,
+      "title": "Advanced packaging technologies critical for AI, driving equipment demand",
+      "description": "The architectural shift in AI models and the increasing demand for high-performance computing necessitate significant advancements in chip packaging. 3D advanced packaging, including hybrid bonding and co-packaged optics (CPO), is becoming crucial for overcoming memory bandwidth limitations and data movement bottlenecks in AI inference. This drives substantial demand for specialized advanced packaging equipment and materials, as manufacturers invest in these technologies to deliver higher-density, more efficient, and faster-performing chips.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-25",
+      "source_doc_id": "8a8918f4-cfc7-5b3b-b9f8-a33e46dde961",
+      "source_title": "Frontiers of compute: The technologies to reduce AI inference costs",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/frontiers-of-compute-the-technologies-to-reduce-ai-inference-costs",
+      "source_date": "2026-06-25"
+    },
+    {
+      "index": 5,
+      "title": "Demand for EDA software and tooling accelerates with faster chip design cycles",
+      "description": "The rapid evolution of AI model architectures (months) creates a mismatch with traditional chip design and manufacturing timelines (years). To bridge this gap, there's increasing demand for faster design cycles, enabled by advanced electronic design automation (EDA) software and better tooling. AI-assisted design and chiplet architectures require sophisticated EDA solutions, presenting an upside opportunity for companies providing these tools to help developers create flexible hardware that quickly adapts to changing AI workload needs.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-25",
+      "source_doc_id": "8a8918f4-cfc7-5b3b-b9f8-a33e46dde961",
+      "source_title": "Frontiers of compute: The technologies to reduce AI inference costs",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/frontiers-of-compute-the-technologies-to-reduce-ai-inference-costs",
+      "source_date": "2026-06-25"
+    },
+    {
+      "index": 6,
+      "title": "Shift to 800V DC data centers boosts demand for power semiconductor equipment",
+      "description": "Data centers, especially those supporting AI, are transitioning to 800-volt DC power systems to meet increased energy demands and improve efficiency. This architectural shift significantly increases the demand for power semiconductors, particularly wide-bandgap materials like silicon carbide (SiC) and gallium nitride (GaN), used in solid-state transformers and other power electronics. This creates new opportunities for manufacturers of equipment and materials specializing in these advanced power semiconductor technologies, supporting the evolution toward fully DC-native data centers.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-30",
+      "source_doc_id": "2a90d3b0-b81a-5925-ae12-a9f45008832f",
+      "source_title": "The shift to 800-volt DC at data centers: Implications for providers",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-shift-to-800-volt-dc-at-data-centers-implications-for-providers",
+      "source_date": "2026-07-30"
+    },
+    {
+      "index": 7,
+      "title": "Government incentives support local fab ecosystems and equipment demand",
+      "description": "Governments in major economies (e.g., China, EU-27, Japan, South Korea, United States) are implementing support programs, including capital grants, tax credits, and workforce development initiatives, to strengthen local fab ecosystems. These incentives materially improve the economics of adding domestic semiconductor manufacturing capacity, directly stimulating investment in new equipment and materials. Such policy interventions aim to reduce import reliance and bolster strategic capacity, providing a significant tailwind for the semiconductor equipment and materials sector.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "ba165ddd-42ab-57af-896d-6e8f5c171051",
+      "source_title": "Semiconductors: Etching the new map of strategic supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 8,
+      "title": "Automotive ADAS/AD growth accelerates demand for advanced packaging",
+      "description": "The automotive industry's shift to AI-native, end-to-end architectures for advanced driver-assistance systems (ADAS) and autonomous driving (AD) is driving a rapid increase in demand for processing semiconductors. This growth, projected at 24% CAGR through 2035, specifically highlights advanced packaging technologies as 'decisive strategic factors' for in-vehicle compute. This translates into a strong upside driver for manufacturers of advanced packaging equipment, as automotive OEMs seek to integrate higher performance and efficiency into their next-generation vehicles.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-09",
+      "source_doc_id": "8ec01818-05b2-51fc-b10c-4fb7b2977420",
+      "source_title": "Reinventing autonomous driving in the age of generative AI",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/reinventing-autonomous-driving-in-the-age-of-generative-ai",
+      "source_date": "2026-06-09"
+    },
+    {
+      "index": 9,
+      "title": "Long fab construction times compound cost disadvantage for new regions",
+      "description": "The significantly longer construction times for fabs in Europe and the United States (typically 24 months for initial production) compared to Asia (12-16 months) pose a key risk. This delay pushes revenue generation further into a chip node's maturity curve, forcing new entrants to compete against existing Asian producers who have already captured early profits, benefited from years of yield improvement, and operate largely depreciated fabs. This slows the return on investment for new fab projects, impacting demand for equipment and materials.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "ba165ddd-42ab-57af-896d-6e8f5c171051",
+      "source_title": "Semiconductors: Etching the new map of strategic supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 10,
+      "title": "Ecosystem co-investment is critical for fab speed and resilience",
+      "description": "The ability to quickly construct and ramp up semiconductor fabs is increasingly dependent on a robust local ecosystem of suppliers. Proximity to providers of equipment services, specialty gases, chemicals, OSATs (outsourced semiconductor assembly and test companies), and spare parts is essential for minimizing ramp-up times and reducing downtime. This structural shift highlights the importance for equipment and material suppliers to be integrated into or geographically close to new fab developments, influencing investment decisions and market dynamics.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "ba165ddd-42ab-57af-896d-6e8f5c171051",
+      "source_title": "Semiconductors: Etching the new map of strategic supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 11,
+      "title": "Emerging compute paradigms create long-term equipment and materials opportunities",
+      "description": "Beyond current CMOS-based silicon architectures, researchers are exploring fundamental shifts in compute paradigms like photonic computing, neuromorphic architectures, and quantum computing. While these technologies are still in early development and face scalability challenges, their eventual commercialization could lead to entirely new demands for specialized manufacturing equipment and materials. This represents a long-term upside driver for the sector, as it pushes the boundaries of chip fabrication and opens up avenues for novel production processes.",
+      "type": "upside_driver",
+      "impact_magnitude": "low",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-25",
+      "source_doc_id": "8a8918f4-cfc7-5b3b-b9f8-a33e46dde961",
+      "source_title": "Frontiers of compute: The technologies to reduce AI inference costs",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/frontiers-of-compute-the-technologies-to-reduce-ai-inference-costs",
+      "source_date": "2026-06-25"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "AI-fueled demand drives unprecedented growth for semiconductor equipment and materials",
+      "description": "McKinsey predicts an exceptional surge in the semiconductor sector, primarily driven by the rise of AI and massive capital expenditures by hyperscalers for AI infrastructure. This translates into unprecedented growth opportunities for semiconductor equipment and materials, fueled by the necessity for new manufacturing capacity and sustained high average selling prices for leading-edge chips and memory. The continuous build-out of data centers necessitates a significant increase in supply, which is expected to keep demand for equipment and materials high well into the next decade, altering historical cyclical patterns.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story"
+    },
+    {
+      "index": 2,
+      "title": "Geopolitics and national security boost global semiconductor equipment and materials investment",
+      "description": "McKinsey highlights that semiconductor manufacturing has become a strategically contested industry, with governments globally racing to secure technological leadership and supply-chain resilience. This geopolitical dynamic is driving significant investments into new fab capacity, directly benefiting the semiconductor equipment and materials sector. Equipment and materials constitute a substantial portion of a fab's cost, indicating sustained demand and growth as nations prioritize domestic production and ecosystem development. This trend is expected to reshape global investment patterns for equipment and materials.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-06-30",
+      "source_doc_id": "ba165ddd-42ab-57af-896d-6e8f5c171051",
+      "source_title": "Semiconductors: Etching the new map of strategic supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply"
+    },
+    {
+      "index": 3,
+      "title": "Advanced packaging and EDA software crucial for reducing AI inference costs",
+      "description": "McKinsey identifies advanced packaging technologies and EDA software as critical enablers for reducing AI inference costs and advancing next-generation chip designs. Innovations like 3D advanced packaging (hybrid bonding) and co-packaged optics are essential for addressing memory bandwidth limitations and data movement bottlenecks, creating significant demand for specialized equipment. Furthermore, EDA software and better tooling are vital for accelerating chip design cycles to match the rapid evolution of AI models, ensuring sustained opportunities for providers in this segment.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-06-25",
+      "source_doc_id": "8a8918f4-cfc7-5b3b-b9f8-a33e46dde961",
+      "source_title": "Frontiers of compute: The technologies to reduce AI inference costs",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/frontiers-of-compute-the-technologies-to-reduce-ai-inference-costs"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Fab Construction Costs",
+          "description": "Equipment (lithography, deposition, etching, metrology, packaging/test tools) accounts for approximately 35% of the total levelized cost of an advanced semiconductor fab. Materials (silicon wafers, photoresists, specialty gases, targets, slurries) account for approximately 25% of the total levelized cost."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "McKinsey's base case for the levelized cost of producing advanced 28-nanometer logic chips in a 400,000 wafers per year fabrication plant in Taiwan. This breakdown illustrates the proportion of total fab costs attributed to equipment and materials.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-06-30",
+      "data_confidence": "high",
+      "source_doc_id": "ba165ddd-42ab-57af-896d-6e8f5c171051",
+      "source_title": "Semiconductors: Etching the new map of strategic supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2029,
+      "forecast_cagr": 6.0,
+      "forecast_cagr_period": "2026-2029",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Global Semiconductor Manufacturing Investment",
+          "description": "Rising demand for semiconductors, especially from AI data centers, computing, wireless, industrial, and automotive applications, necessitates increased capital expenditure in new fab capacity globally. Geopolitical strategies to enhance supply-chain resilience and national security also drive these investments."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecast for global semiconductor capital expenditures, reflecting investment in new manufacturing capacity, which directly drives demand for semiconductor equipment and materials.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-06-30",
+      "data_confidence": "high",
+      "source_doc_id": "ba165ddd-42ab-57af-896d-6e8f5c171051",
+      "source_title": "Semiconductors: Etching the new map of strategic supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply"
+    },
+    {
+      "index": 3,
+      "tam_value": 46.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": 24.0,
+      "forecast_cagr_period": "2025-2035",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Generative AI and End-to-End (E2E) Architectures in Automotive",
+          "description": "The shift towards AI-native E2E architectures in autonomous driving and ADAS dramatically increases in-vehicle compute requirements, driving demand for GPUs, NPUs, and memory bandwidth, which in turn necessitates advanced packaging technologies for these specialized semiconductors."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Advanced packaging technologies are becoming decisive strategic factors for automotive SoCs, essential for integrating multiple applications and managing high compute demands under strict latency and safety constraints in ADAS/AD systems.",
+          "opportunity": "Advanced Packaging in Automotive Semiconductors"
+        }
+      ],
+      "methodology": "Forecasted market size for ADAS/AD processing semiconductors, which are direct outputs of semiconductor manufacturing. This market's growth is a strong indicator of underlying demand for advanced packaging equipment and other fabrication materials/equipment.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-06-09",
+      "data_confidence": "high",
+      "source_doc_id": "8ec01818-05b2-51fc-b10c-4fb7b2977420",
+      "source_title": "Reinventing autonomous driving in the age of generative AI",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/reinventing-autonomous-driving-in-the-age-of-generative-ai"
+    }
+  ],
+  "sources": [
+    "McKinsey"
+  ],
+  "documents": [
+    {
+      "doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "publisher": "mckinsey",
+      "date": "2026-09-18",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story"
+    },
+    {
+      "doc_id": "ba165ddd-42ab-57af-896d-6e8f5c171051",
+      "title": "Semiconductors: Etching the new map of strategic supply",
+      "publisher": "mckinsey",
+      "date": "2026-06-30",
+      "url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply"
+    },
+    {
+      "doc_id": "8a8918f4-cfc7-5b3b-b9f8-a33e46dde961",
+      "title": "Frontiers of compute: The technologies to reduce AI inference costs",
+      "publisher": "mckinsey",
+      "date": "2026-06-25",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/frontiers-of-compute-the-technologies-to-reduce-ai-inference-costs"
+    },
+    {
+      "doc_id": "2a90d3b0-b81a-5925-ae12-a9f45008832f",
+      "title": "The shift to 800-volt DC at data centers: Implications for providers",
+      "publisher": "mckinsey",
+      "date": "2026-07-30",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/the-shift-to-800-volt-dc-at-data-centers-implications-for-providers"
+    },
+    {
+      "doc_id": "8ec01818-05b2-51fc-b10c-4fb7b2977420",
+      "title": "Reinventing autonomous driving in the age of generative AI",
+      "publisher": "mckinsey",
+      "date": "2026-06-09",
+      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/reinventing-autonomous-driving-in-the-age-of-generative-ai"
+    }
+  ]
+}

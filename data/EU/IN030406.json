@@ -1,0 +1,741 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Escalating Operating Costs for Road Freight Operators",
+      "description": "Dutch road freight operators face mounting cost pressures from multiple fronts: a 4% increase in collective labor agreement wages at the start of 2026, a 30% surge in diesel prices due to geopolitical conflicts and tight refining capacity, and the introduction of a new truck charging scheme in July 2026, which is estimated to raise total transport costs by 7-8%. These factors are significantly pressuring profitability despite efforts to pass costs through via freight rates.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-22",
+      "source_doc_id": "b9bc0ba2-c235-53fb-bb7b-8def2f02b131",
+      "source_title": "Dutch road transport gains momentum despite truck charge",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/road-transport-gaining-momentum-in-the-first-year-of-the-truck-charge",
+      "source_date": "2026-09-22",
+      "country_focus": "NL"
+    },
+    {
+      "index": 2,
+      "title": "Aging Infrastructure & Bottlenecks Impacting Road Efficiency",
+      "description": "The Netherlands' aging road infrastructure is causing increasing challenges for road transport. Unexpected maintenance needs at key bridges and crossings have led to closures and restrictions for heavy freight, resulting in detours, higher operating costs, and reduced efficiency for operators. A significant infrastructure maintenance backlog of €34.5 billion through 2038 implies that bottlenecks are likely to occur more frequently, eroding the country's world-class infrastructure reputation and directly burdening IN030406 operators.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-22",
+      "source_doc_id": "b9bc0ba2-c235-53fb-bb7b-8def2f02b131",
+      "source_title": "Dutch road transport gains momentum despite truck charge",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/road-transport-gaining-momentum-in-the-first-year-of-the-truck-charge",
+      "source_date": "2026-09-22",
+      "country_focus": "NL"
+    },
+    {
+      "index": 3,
+      "title": "Acute Labor Shortages for Truck and Bus Drivers",
+      "description": "Europe faces persistent and severe labor shortages across the transport sector, notably for truck and bus drivers. Germany alone anticipates a deficit of over 100,000 drivers by 2030, and similar scarcity is reported in the Netherlands for drivers. This shortage, exacerbated by aging demographics, limited new worker inflows, and elevated sickness absence, constrains labor supply for IN030406 operators, pushing up wage costs and impacting operational capacity.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "4a255a70-09ba-5aaa-9cf3-2ebdb59ff9df",
+      "source_title": "Competing in the fast lane—the future of Europe’s truck industry",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/competing-in-the-fast-lane-the-future-of-europes-truck-industry",
+      "source_date": "2026-09-11",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Intensified Competition from Chinese OEMs Reshaping Truck Market",
+      "description": "Chinese truck OEMs are rapidly expanding into the European market, leveraging a significant structural cost advantage (30-40% lower TCO), faster product development cycles, and innovative offerings like battery-swapping ecosystems. While impacting manufacturing (IN030201) directly, this translates into increased competition and pricing pressure for European operators in IN030406, who benefit from lower vehicle acquisition costs but face a changing aftermarket and service landscape.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "d47808db-40de-5627-bc7a-13646488fc40",
+      "source_title": "Competing against Chinese innovation speed in European trucking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/competing-against-chinese-innovation-speed-in-european-trucking",
+      "source_date": "2026-09-11",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Critical Charging Infrastructure Gap for ZE Trucks",
+      "description": "The lack of adequate charging infrastructure is a critical barrier to zero-emission (ZE) truck adoption for IN030406 operators. Only slightly over 2,000 public fast-charging points are available, a fraction of the 15,000-20,000 needed by 2030 (and 40,000-50,000 by 2035). Similarly, 200,000 depot/fleet hub charging points are required by 2030. This deficit impedes ZEV operational feasibility and economic competitiveness for fleet operators across Europe.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "e39559f8-a9c1-5dc8-b065-56d4e0c1c5b6",
+      "source_title": "Zero-emission trucks: Accelerating Europe’s transition",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/zero-emission-trucks-accelerating-europes-transition",
+      "source_date": "2026-09-11",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Europe's Lag in Autonomous Truck Technology Adoption",
+      "description": "Europe is projected to trail the US and China by 3-4 years in autonomous truck deployment, with driverless hub-to-hub applications expected commercially by 2031 and full autonomy by 2034. This delay stems from Europe's denser road networks, stringent legacy regulations, higher TCO in some cases, and a less developed AV player landscape. This lag represents a competitive disadvantage and slows potential efficiency gains for European IN030406 operators.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "8ab07fde-9552-5668-b548-ab923e435196",
+      "source_title": "Mastering autonomous truck technology in Europe",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/mastering-autonomous-truck-technology-in-europe",
+      "source_date": "2026-09-11",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Increasing Financial Pressure and Road Transport Bankruptcies",
+      "description": "Road transport companies, particularly in the Netherlands, are experiencing increasing financial pressure, with rising bankruptcy rates observed in H1 2026 and expected to continue. This cyclical downturn is driven by accumulating cost inflation (fuel, wages, new charges) and difficulties in rapidly passing these costs to customers. This environment is also accelerating merger and acquisition activity as smaller firms struggle with investment needs for electrification, digitalization, and compliance.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-22",
+      "source_doc_id": "93cf208c-3498-5a9d-bd82-206732fb766c",
+      "source_title": "Dutch transport and logistics proves resilient amid rising costs, global…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/transport-logistics-resilience-amid-disruptions-and-cost-inflation",
+      "source_date": "2026-09-22",
+      "country_focus": "NL"
+    },
+    {
+      "index": 8,
+      "title": "Shift Towards Bundled, Life-Cycle Services for Fleet Operators",
+      "description": "The trucking industry is undergoing a structural shift where fleet operators are increasingly demanding integrated offerings and bundled packages instead of discrete transactions. These bundles include vehicle provision, fleet management, remote-operations support, charging, predictive maintenance, and uptime guarantees. This trend creates a new opportunity for OEMs and service providers to evolve into 'life cycle partners', fundamentally changing how IN030406 operators acquire and manage their fleets and services.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "888dbd5e-062d-5b6e-990c-6b858e08c504",
+      "source_title": "Capturing life cycle value in Europe’s trucking industry",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/capturing-life-cycle-value-in-europes-trucking-industry",
+      "source_date": "2026-09-11",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "title": "AI Adoption Driving Efficiency and Productivity Gains",
+      "description": "The integration of Agentic AI and Physical AI presents a significant upside for European commercial vehicle operations, including IN030406 operators. Agentic AI can generate 2-3% EBIT uplift through efficiency and top-line growth, while Physical AI extends automation into service environments, unlocking productivity gains previously out of reach. Embracing AI offers a strategic opportunity to shorten development cycles, strengthen sales, optimize costs, and narrow the competitive gap with Chinese rivals.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "28fdee72-4dad-5fad-9975-ed62653f55e6",
+      "source_title": "Harnessing AI to accelerate European truck operations",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/harnessing-ai-to-accelerate-european-truck-operations",
+      "source_date": "2026-09-11",
+      "country_focus": "EU"
+    },
+    {
+      "index": 10,
+      "title": "Growing Economic Attractiveness of Zero-Emission Trucks",
+      "description": "Zero-emission vehicles (ZEVs) are becoming increasingly economically attractive for European IN030406 operators. For approximately 30% of the truck market, ZEVs already offer a Total Cost of Ownership (TCO) advantage. A McKinsey survey indicates that 60% of fleet operators are willing to switch to ZEVs at TCO parity, and 80% if ZEV TCO is 10% below diesel. Regional-haul (51%) and last-mile (53%) fleets show the highest interest in electrification.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "e39559f8-a9c1-5dc8-b065-56d4e0c1c5b6",
+      "source_title": "Zero-emission trucks: Accelerating Europe’s transition",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/zero-emission-trucks-accelerating-europes-transition",
+      "source_date": "2026-09-11",
+      "country_focus": "EU"
+    },
+    {
+      "index": 11,
+      "title": "Regulatory and Policy Support for ZEV Transition",
+      "description": "Regulatory efforts are emerging as an upside driver for ZE truck adoption by IN030406 operators. The ongoing revision of the European Vehicle Dimensions directive could address operational disadvantages of heavier ZEVs by allowing higher gross vehicle weights. Additionally, policy recommendations include improving the standardization of road tolls and consistent fuel cost incentives across EU member states to unlock favorable economics for ZEVs, particularly for cross-border transport.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "e39559f8-a9c1-5dc8-b065-56d4e0c1c5b6",
+      "source_title": "Zero-emission trucks: Accelerating Europe’s transition",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/zero-emission-trucks-accelerating-europes-transition",
+      "source_date": "2026-09-11",
+      "country_focus": "EU"
+    },
+    {
+      "index": 12,
+      "title": "Potential Modal Shift to Road from Inland Shipping",
+      "description": "Recurring disruptions in inland shipping, primarily due to exceptionally low water levels, are constraining capacity and pushing freight rates higher. This situation is problematic for inland operators but presents a potential tailwind for road transport. Shippers may be encouraged to shift freight to road transport to ensure reliability and avoid disruptions, thereby increasing demand for IN030406 services, despite undermining long-term modal shift ambitions towards waterways.",
+      "type": "tailwind",
+      "impact_magnitude": "low",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-22",
+      "source_doc_id": "93cf208c-3498-5a9d-bd82-206732fb766c",
+      "source_title": "Dutch transport and logistics proves resilient amid rising costs, global…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/transport-logistics-resilience-amid-disruptions-and-cost-inflation",
+      "source_date": "2026-09-22",
+      "country_focus": "NL"
+    },
+    {
+      "index": 13,
+      "title": "Rising Customer Price Sensitivity and Demand for Uptime",
+      "description": "European fleet operators in IN030406 are exhibiting high price sensitivity and low brand loyalty, with 41% willing to switch providers for just a 10% price reduction. Simultaneously, 47% rank vehicle uptime among their top five purchasing criteria, making it a critical differentiator. This forces operators to focus intensely on cost control and uptime guarantees, while also creating competitive pressure for OEMs and service providers to offer compelling bundled value propositions.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "888dbd5e-062d-5b6e-990c-6b858e08c504",
+      "source_title": "Capturing life cycle value in Europe’s trucking industry",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/capturing-life-cycle-value-in-europes-trucking-industry",
+      "source_date": "2026-09-11",
+      "country_focus": "EU"
+    },
+    {
+      "index": 14,
+      "title": "Dutch Economic Shift Towards Services Reduces Freight Demand",
+      "description": "The Dutch economy is becoming increasingly service-oriented, with faster-growing sectors like business services and healthcare generating less freight demand compared to traditional industrial sectors. This structural shift acts as a headwind for the road freight component of IN030406, as the nature of economic growth moves away from heavy industrial production that typically drives high volumes of goods transport, necessitating adaptation in freight services.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-22",
+      "source_doc_id": "93cf208c-3498-5a9d-bd82-206732fb766c",
+      "source_title": "Dutch transport and logistics proves resilient amid rising costs, global…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/transport-logistics-resilience-amid-disruptions-and-cost-inflation",
+      "source_date": "2026-09-22",
+      "country_focus": "NL"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Dutch Road Freight Recovers Cautiously Amid Cost Pressures",
+      "description": "ING Think anticipates a modest recovery in Dutch road freight transport, with volumes expected to grow by 1% in 2026 and 1.5% in 2027. Despite improving market conditions and re-emerging capacity pressures, operators face significant cost inflation from rising wages, a 30% diesel price surge, and new truck charges. While rate increases help offset some costs, profitability remains under pressure, leading to cautious optimism.",
+      "stance": "cautious_positive",
+      "source_firm": "ING Think",
+      "source_date": "2026-09-22",
+      "source_doc_id": "b9bc0ba2-c235-53fb-bb7b-8def2f02b131",
+      "source_title": "Dutch road transport gains momentum despite truck charge",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/road-transport-gaining-momentum-in-the-first-year-of-the-truck-charge",
+      "country_focus": "NL"
+    },
+    {
+      "index": 2,
+      "title": "Dutch Public Transport Exceeds Expectations with Strong Recovery",
+      "description": "ING Think holds a positive outlook on Dutch public transport, which has recovered faster than anticipated, temporarily exceeding pre-pandemic usage levels. This rebound is attributed to government initiatives like summer travel subscriptions and improved rail punctuality. The increase is expected to be partly structural, though per-capita passenger volumes have not fully recovered due to population growth and rising ticket prices.",
+      "stance": "positive",
+      "source_firm": "ING Think",
+      "source_date": "2026-09-22",
+      "source_doc_id": "93cf208c-3498-5a9d-bd82-206732fb766c",
+      "source_title": "Dutch transport and logistics proves resilient amid rising costs, global…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/transport-logistics-resilience-amid-disruptions-and-cost-inflation",
+      "country_focus": "NL"
+    },
+    {
+      "index": 3,
+      "title": "Europe Trails US/China in Autonomous Trucking Development",
+      "description": "McKinsey notes that Europe is lagging the United States and China by three to four years in autonomous truck technology deployment. Commercial availability of driverless hub-to-hub applications in Europe is not expected until 2031, primarily due to higher TCO, stringent regulations, denser road networks, and less robust AV ecosystems compared to leading regions. This gap poses a competitive challenge for European operators.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-11",
+      "source_doc_id": "8ab07fde-9552-5668-b548-ab923e435196",
+      "source_title": "Mastering autonomous truck technology in Europe",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/mastering-autonomous-truck-technology-in-europe",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Zero-Emission Truck Adoption Slow Despite Vehicle Availability",
+      "description": "McKinsey expresses caution regarding the slow adoption rate of zero-emission (ZE) trucks in Europe, with new registrations below 5% in 2025. Despite a wide range of ZE models available and TCO advantages for 30% of the market, critical barriers like insufficient charging infrastructure, residual value uncertainty, and varying economics across countries hinder widespread adoption, risking CO2 penalties and competitive disadvantages.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-11",
+      "source_doc_id": "e39559f8-a9c1-5dc8-b065-56d4e0c1c5b6",
+      "source_title": "Zero-emission trucks: Accelerating Europe’s transition",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/zero-emission-trucks-accelerating-europes-transition",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Europe's Truck and Bus Aftermarket Shows Resilience and Growth",
+      "description": "McKinsey reports a positive outlook for Europe’s truck and bus aftermarket, characterized as large, resilient, and anchored by an aging fleet. While overall growth is moderate, the zero-emission vehicle (ZEV) segment is expected to be the primary driver of aftermarket growth post-2030, with servicing revenues for ZEVs expanding at an estimated 40-50% CAGR through 2035. This presents significant opportunities for service providers.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-11",
+      "source_doc_id": "888dbd5e-062d-5b6e-990c-6b858e08c504",
+      "source_title": "Capturing life cycle value in Europe’s trucking industry",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/capturing-life-cycle-value-in-europes-trucking-industry",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "European Truck Industry Faces Transformative Challenges and Opportunities",
+      "description": "McKinsey states that Europe's truck industry is undergoing rapid transformation driven by zero-emission powertrains, autonomous technology, and AI. This transition creates new value pools and competitive landscapes, bringing new non-European competitors and necessitating significant investments during a market downcycle. The report highlights the need for European players to adapt through technology leadership, integrated offerings, and strategic partnerships to maintain competitiveness.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-11",
+      "source_doc_id": "4a255a70-09ba-5aaa-9cf3-2ebdb59ff9df",
+      "source_title": "Competing in the fast lane—the future of Europe’s truck industry",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/competing-in-the-fast-lane-the-future-of-europes-truck-industry",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Road Freight Profitability Under Pressure Despite Rate Increases",
+      "description": "ING Think indicates that Dutch road freight operators face ongoing pressure on profitability despite their ability to increase freight rates by approximately 9% in Q2 2026. This is due to the cumulative impact of surging diesel prices (up 30% from 2025), rising wage costs (+4% in 2026), and new truck charging schemes. The time lag in passing on costs and the full incorporation of charges in H2 2026 are critical tests for margins.",
+      "stance": "cautious_negative",
+      "source_firm": "ING Think",
+      "source_date": "2026-09-22",
+      "source_doc_id": "b9bc0ba2-c235-53fb-bb7b-8def2f02b131",
+      "source_title": "Dutch road transport gains momentum despite truck charge",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/road-transport-gaining-momentum-in-the-first-year-of-the-truck-charge",
+      "country_focus": "NL"
+    },
+    {
+      "index": 8,
+      "title": "Industry Shifts to Integrated Life-Cycle Services for Fleet Operators",
+      "description": "McKinsey observes a structural shift in the commercial vehicle industry, where value is moving from hardware sales to high-margin life cycle services. Fleet operators increasingly expect bundled packages, including vehicle provision, fleet management, remote operations, charging, predictive maintenance, and uptime guarantees. This trend emphasizes the need for OEMs and service providers to evolve into integrated mobility partners, offering comprehensive, outcome-based solutions.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-11",
+      "source_doc_id": "888dbd5e-062d-5b6e-990c-6b858e08c504",
+      "source_title": "Capturing life cycle value in Europe’s trucking industry",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/capturing-life-cycle-value-in-europes-trucking-industry",
+      "country_focus": "EU"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 1.0,
+      "forecast_cagr_period": "2026-2026",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Improving European Industrial PMI",
+          "description": "The European Purchasing Managers' Index suggests improving conditions among industrial customers, which supports road freight volumes."
+        },
+        {
+          "driver": "Gradual Improvement in German Economy",
+          "description": "Germany emerging from prolonged economic stagnation is expected to contribute to building momentum for road freight volumes."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecasted volume growth for Dutch road freight transport. Volumes were up roughly 1.5% through August 2026 year-on-year. Momentum could build towards 2027.",
+      "source_firm": "ING Think",
+      "source_date": "2026-09-22",
+      "data_confidence": "medium",
+      "source_doc_id": "b9bc0ba2-c235-53fb-bb7b-8def2f02b131",
+      "source_title": "Dutch road transport gains momentum despite truck charge",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/road-transport-gaining-momentum-in-the-first-year-of-the-truck-charge",
+      "country_focus": "NL"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 15.0,
+      "forecast_cagr_period": "2026-2026",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Freight Rate Increases",
+          "description": "Freight rates increased by around 9% during Q2 2026, appearing broadly sufficient to offset rising costs like diesel prices and new truck charges."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Forecasted average annual growth in revenue for the Dutch road freight transport sector.",
+      "source_firm": "ING Think",
+      "source_date": "2026-09-22",
+      "data_confidence": "medium",
+      "source_doc_id": "b9bc0ba2-c235-53fb-bb7b-8def2f02b131",
+      "source_title": "Dutch road transport gains momentum despite truck charge",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/road-transport-gaining-momentum-in-the-first-year-of-the-truck-charge",
+      "country_focus": "NL"
+    },
+    {
+      "index": 3,
+      "tam_value": 52.1,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Aging Fleet",
+          "description": "The aftermarket is anchored by an aging vehicle fleet, with roughly 6.2 million vehicles and an average age of over 14 years, driving demand for parts and services."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated revenue pool for the EU medium- and heavy-duty truck (MHDT) aftermarket, which includes replacement parts (86%) and tires (14%).",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-11",
+      "data_confidence": "high",
+      "source_doc_id": "888dbd5e-062d-5b6e-990c-6b858e08c504",
+      "source_title": "Capturing life cycle value in Europe’s trucking industry",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/capturing-life-cycle-value-in-europes-trucking-industry",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 45.0,
+      "forecast_cagr_period": "2025-2035",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Electrification of Truck Fleet",
+          "description": "The rapid increase in zero-emission vehicles (ZEVs) sales, projected to reach 46% of the EU HDT market by 2035, will drive significant demand for specialized ZEV aftermarket services."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The emerging ZEV segment is expected to become the primary source of aftermarket growth, requiring new staff and training to service these vehicles.",
+          "opportunity": "ZEV Aftermarket Services"
+        }
+      ],
+      "methodology": "Forecasted compound annual growth rate for aftermarket revenue tied to servicing zero-emission vehicles (ZEVs) in the EU heavy-duty truck market.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-11",
+      "data_confidence": "high",
+      "source_doc_id": "888dbd5e-062d-5b6e-990c-6b858e08c504",
+      "source_title": "Capturing life cycle value in Europe’s trucking industry",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/capturing-life-cycle-value-in-europes-trucking-industry",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "tam_value": 100.0,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Driver Shortage Resolution",
+          "description": "Autonomous driving offers a welcome response to acute driver shortages for truck operators (e.g., Germany faces a shortfall of over 100,000 drivers by 2030)."
+        },
+        {
+          "driver": "Reduced Total Cost of Ownership (TCO)",
+          "description": "AVs promise potential TCO reductions, particularly in the long-haul sector, making them economically attractive for operators."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Value is expected to shift from hardware sales to software deployed in autonomous trucks, remote teleoperations, and predictive maintenance services for fleet operators.",
+          "opportunity": "High-Margin Software and Services"
+        }
+      ],
+      "methodology": "McKinsey analysis estimating the total value potential from autonomous heavy-duty truck deployment, including road freight forwarding and all services related to vehicle operations, assuming a 5% annual reduction in AV kit costs and addressable hub-to-hub and point-to-point long-haul highway routes.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-11",
+      "data_confidence": "high",
+      "source_doc_id": "8ab07fde-9552-5668-b548-ab923e435196",
+      "source_title": "Mastering autonomous truck technology in Europe",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/mastering-autonomous-truck-technology-in-europe",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "tam_value": 5.0,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Driver Shortage Resolution",
+          "description": "Autonomous buses are seen as an economic necessity to address severe labor shortages, with Germany alone facing an 80,000 bus driver deficit by 2030."
+        },
+        {
+          "driver": "Enhanced Urban Mobility",
+          "description": "ABs can enable smaller, more flexible fleets, deployable at higher frequencies, and open new routes to solve urban mobility crises and attract new customer segments."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Value shifts from vehicle sales to an ecosystem of fleet operations, mobility platforms, and as-a-service solutions, requiring public transit operators to embrace integrated offerings.",
+          "opportunity": "Integrated Mobility Services"
+        }
+      ],
+      "methodology": "McKinsey analysis of the potential revenue pool generated by the transition to autonomous buses in Europe, encompassing fleet operations, mobility platforms, and integrated as-a-service solutions for public transit operators.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-11",
+      "data_confidence": "high",
+      "source_doc_id": "8ab07fde-9552-5668-b548-ab923e435196",
+      "source_title": "Mastering autonomous truck technology in Europe",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/mastering-autonomous-truck-technology-in-europe",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Decarbonization Targets",
+          "description": "The push to reduce CO2 emissions and avoid EU penalties drives the adoption of ZEVs by fleet operators."
+        },
+        {
+          "driver": "Cost Efficiency",
+          "description": "For 30% of the truck market, ZEVs present a Total Cost of Ownership (TCO) advantage, making them economically attractive for operators."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecasted share of new zero-emission vehicle (ZEV) sales in the total EU heavy-duty truck (HDT) market, reflecting the transition in fleet composition for IN030406 operators.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-11",
+      "data_confidence": "high",
+      "source_doc_id": "e39559f8-a9c1-5dc8-b065-56d4e0c1c5b6",
+      "source_title": "Zero-emission trucks: Accelerating Europe’s transition",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/zero-emission-trucks-accelerating-europes-transition",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "tam_value": null,
+      "tam_unit": "mn_units",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Zero-Emission Truck Adoption",
+          "description": "The increasing adoption of electric trucks by operators requires a corresponding build-out of public charging infrastructure for operational feasibility."
+        },
+        {
+          "driver": "CO2 Emission Targets",
+          "description": "Meeting European CO2 emission targets for heavy-duty vehicles necessitates a rapid transition to ZEVs, which in turn demands extensive charging infrastructure."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated number of truck-specific public fast-charging points required to support the scale-up of electric trucks to meet 2030 CO2 emission targets, which is a critical infrastructure need for IN030406 operators.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-11",
+      "data_confidence": "high",
+      "source_doc_id": "e39559f8-a9c1-5dc8-b065-56d4e0c1c5b6",
+      "source_title": "Zero-emission trucks: Accelerating Europe’s transition",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/zero-emission-trucks-accelerating-europes-transition",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "tam_value": 0.2,
+      "tam_unit": "mn_units",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Fleet Electrification",
+          "description": "The electrification of distribution and long-haul transport fleets by IN030406 operators necessitates dedicated charging infrastructure at depots and hubs."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated number of depot or fleet hub charging points required to enable cost-effective electrification of distribution and hub-to-hub long-haul transport for IN030406 operators.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-11",
+      "data_confidence": "high",
+      "source_doc_id": "e39559f8-a9c1-5dc8-b065-56d4e0c1c5b6",
+      "source_title": "Zero-emission trucks: Accelerating Europe’s transition",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/zero-emission-trucks-accelerating-europes-transition",
+      "country_focus": "EU"
+    },
+    {
+      "index": 10,
+      "tam_value": 40.0,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Expansion of ZE Truck Fleet",
+          "description": "The projected growth in zero-emission truck adoption necessitates a substantial investment in the underlying charging infrastructure to support their operations."
+        },
+        {
+          "driver": "Regulatory Targets",
+          "description": "Regulatory requirements for ZEV adoption and CO2 emission reductions drive the need for this significant infrastructure investment."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated total investment required to implement both public and fleet hub charging infrastructure for zero-emission trucks, which directly impacts the operational environment for IN030406 operators.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-11",
+      "data_confidence": "high",
+      "source_doc_id": "e39559f8-a9c1-5dc8-b065-56d4e0c1c5b6",
+      "source_title": "Zero-emission trucks: Accelerating Europe’s transition",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/zero-emission-trucks-accelerating-europes-transition",
+      "country_focus": "EU"
+    },
+    {
+      "index": 11,
+      "tam_value": 40.0,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "ZEV Transition & Higher Asset Values",
+          "description": "The shift towards higher-value zero-emission vehicles (ZEVs) and increasing finance and leasing penetration are propelling growth in the financial services pool."
+        },
+        {
+          "driver": "Flexible Ownership Models",
+          "description": "Rising vehicle prices, economic volatility, and residual-value risk are pushing customers towards leasing, rental, and pay-per-use models, driving demand for financial services."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Financial-service players can become orchestrators of downstream value by controlling the commercial life cycle through integrated financing, contracts, risk transfer, and asset management for operators.",
+          "opportunity": "Integrated Life Cycle Offerings"
+        }
+      ],
+      "methodology": "Projected revenue pool for truck financial services in Europe, including financing and leasing, which represents a significant cost component for IN030406 operators.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-11",
+      "data_confidence": "high",
+      "source_doc_id": "888dbd5e-062d-5b6e-990c-6b858e08c504",
+      "source_title": "Capturing life cycle value in Europe’s trucking industry",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/capturing-life-cycle-value-in-europes-trucking-industry",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "ING Think",
+    "McKinsey"
+  ],
+  "documents": [
+    {
+      "doc_id": "b9bc0ba2-c235-53fb-bb7b-8def2f02b131",
+      "title": "Dutch road transport gains momentum despite truck charge",
+      "publisher": "ing_think",
+      "date": "2026-09-22",
+      "url": "https://think.ing.com/articles/road-transport-gaining-momentum-in-the-first-year-of-the-truck-charge"
+    },
+    {
+      "doc_id": "93cf208c-3498-5a9d-bd82-206732fb766c",
+      "title": "Dutch transport and logistics proves resilient amid rising costs, global…",
+      "publisher": "ing_think",
+      "date": "2026-09-22",
+      "url": "https://think.ing.com/articles/transport-logistics-resilience-amid-disruptions-and-cost-inflation"
+    },
+    {
+      "doc_id": "8ab07fde-9552-5668-b548-ab923e435196",
+      "title": "Mastering autonomous truck technology in Europe",
+      "publisher": "mckinsey",
+      "date": "2026-09-11",
+      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/mastering-autonomous-truck-technology-in-europe"
+    },
+    {
+      "doc_id": "e39559f8-a9c1-5dc8-b065-56d4e0c1c5b6",
+      "title": "Zero-emission trucks: Accelerating Europe’s transition",
+      "publisher": "mckinsey",
+      "date": "2026-09-11",
+      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/zero-emission-trucks-accelerating-europes-transition"
+    },
+    {
+      "doc_id": "888dbd5e-062d-5b6e-990c-6b858e08c504",
+      "title": "Capturing life cycle value in Europe’s trucking industry",
+      "publisher": "mckinsey",
+      "date": "2026-09-11",
+      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/capturing-life-cycle-value-in-europes-trucking-industry"
+    },
+    {
+      "doc_id": "4a255a70-09ba-5aaa-9cf3-2ebdb59ff9df",
+      "title": "Competing in the fast lane—the future of Europe’s truck industry",
+      "publisher": "mckinsey",
+      "date": "2026-09-11",
+      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/competing-in-the-fast-lane-the-future-of-europes-truck-industry"
+    },
+    {
+      "doc_id": "d47808db-40de-5627-bc7a-13646488fc40",
+      "title": "Competing against Chinese innovation speed in European trucking",
+      "publisher": "mckinsey",
+      "date": "2026-09-11",
+      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/competing-against-chinese-innovation-speed-in-european-trucking"
+    },
+    {
+      "doc_id": "28fdee72-4dad-5fad-9975-ed62653f55e6",
+      "title": "Harnessing AI to accelerate European truck operations",
+      "publisher": "mckinsey",
+      "date": "2026-09-11",
+      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/harnessing-ai-to-accelerate-european-truck-operations"
+    }
+  ]
+}

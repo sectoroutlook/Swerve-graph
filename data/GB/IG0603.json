@@ -1,0 +1,411 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Medtech's shift to software as primary growth driver",
+      "description": "The medtech industry is experiencing a profound structural shift where software, particularly Software as a Medical Device (SaMD), is becoming the key differentiator and growth engine. This occurs as traditional hardware categories mature and face intensified price competition. SaMD enables new recurring revenue models, integrates devices into clinical workflows, and facilitates advanced care models like remote monitoring.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-15",
+      "source_doc_id": "5c46ff7d-e1ce-548c-8e8e-a4000bee367f",
+      "source_title": "The future of delivering software as a medical device",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device",
+      "source_date": "2026-07-15"
+    },
+    {
+      "index": 2,
+      "title": "AI significantly boosts software development efficiency in medtech",
+      "description": "Advances in artificial intelligence are delivering substantial productivity gains, ranging from 30% to 70%, in software development within the medtech sector. This acceleration allows companies to bring innovative Software as a Medical Device (SaMD) solutions to market faster, enhancing competitiveness and enabling more frequent product innovation and release cycles, despite stringent regulatory requirements.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-15",
+      "source_doc_id": "5c46ff7d-e1ce-548c-8e8e-a4000bee367f",
+      "source_title": "The future of delivering software as a medical device",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device",
+      "source_date": "2026-07-15"
+    },
+    {
+      "index": 3,
+      "title": "Regulatory and quality standards slow medtech SaMD development",
+      "description": "Established regulatory and quality assurance standards in life sciences are hindering agile software development for medical devices (SaMD). These phased approaches, requiring extensive testing and documentation, can prolong development timelines by 20-30% and increase costs. This misalignment with iterative software development practices creates a critical capability gap in delivering high-quality SaMD at speed.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-15",
+      "source_doc_id": "5c46ff7d-e1ce-548c-8e8e-a4000bee367f",
+      "source_title": "The future of delivering software as a medical device",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device",
+      "source_date": "2026-07-15"
+    },
+    {
+      "index": 4,
+      "title": "Rising cybersecurity threats to connected medical devices",
+      "description": "The expansion of connected medical devices, digital ecosystems, and AI-enabled capabilities significantly elevates cybersecurity risks within the medtech sector. Organizations must integrate robust cybersecurity measures throughout the development lifecycle to meet evolving regulatory expectations and safeguard patient safety. Rapid AI-driven vulnerability discovery further compresses time for exploitation, increasing pressure for continuous risk monitoring and remediation.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": null,
+      "as_of_date": "2026-07-15",
+      "source_doc_id": "5c46ff7d-e1ce-548c-8e8e-a4000bee367f",
+      "source_title": "The future of delivering software as a medical device",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device",
+      "source_date": "2026-07-15"
+    },
+    {
+      "index": 5,
+      "title": "Medtech talent shortage in digital and analytics skills",
+      "description": "The medtech industry faces a significant challenge in attracting and retaining digital, technology, and analytics talent compared to other sectors. This is attributed to a perceived lower employee value proposition and limited availability of specialized technical skills, particularly in application development. This talent gap impedes innovation and future growth, highlighting the need for modernized engineering practices.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-15",
+      "source_doc_id": "5c46ff7d-e1ce-548c-8e8e-a4000bee367f",
+      "source_title": "The future of delivering software as a medical device",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device",
+      "source_date": "2026-07-15"
+    },
+    {
+      "index": 6,
+      "title": "Agentic AI automates quality assurance for SaMD scaling",
+      "description": "Agentic AI systems are emerging as a key solution to scale quality assurance for Software as a Medical Device (SaMD) by automating compliance-heavy, repeatable tasks. These multi-agent systems, functioning as an \"agile quality engine,\" augment product teams by handling requirements translation, documentation drafting, risk assessment, and traceability, significantly increasing development capacity and ensuring continuous regulatory readiness.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-15",
+      "source_doc_id": "5c46ff7d-e1ce-548c-8e8e-a4000bee367f",
+      "source_title": "The future of delivering software as a medical device",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device",
+      "source_date": "2026-07-15"
+    },
+    {
+      "index": 7,
+      "title": "UK government initiatives boost MedTech access and uptake",
+      "description": "The UK government is actively implementing initiatives such as the National HealthTech Access Programme (NHAP) and Value Based Procurement guidance to accelerate patient access and uptake of innovative medical technologies. These programs aim to streamline procurement, prioritize outcomes and long-term value over upfront cost, and reduce barriers for high-impact technologies, improving patient benefits and market flow for MedTech.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-09",
+      "source_doc_id": "66894df7-5992-5683-bb01-4e574eb0de16",
+      "source_title": "Life Sciences Sector Plan: One Year On",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/life-sciences-sector-plan-one-year-on",
+      "source_date": "2026-07-09"
+    },
+    {
+      "index": 8,
+      "title": "New UK device regulatory model aims to reduce barriers",
+      "description": "The UK's Medicines and Healthcare products Regulatory Agency (MHRA) is advancing towards a new device regulatory model, aiming to reduce regulatory barriers and streamline processes for medical devices. This initiative, including funding for AI Airlock, signifies a strategic shift to foster innovation and improve market access within the MedTech sector, ultimately accelerating the availability of new technologies to patients.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-09",
+      "source_doc_id": "66894df7-5992-5683-bb01-4e574eb0de16",
+      "source_title": "Life Sciences Sector Plan: One Year On",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/life-sciences-sector-plan-one-year-on",
+      "source_date": "2026-07-09"
+    },
+    {
+      "index": 9,
+      "title": "UK patient access to medical technologies needs acceleration",
+      "description": "The UK currently ranks outside the top three fastest in Europe for patient access to medical technologies, highlighting a performance gap requiring targeted action. Although specific data for medical technologies is limited, the broader goal to accelerate access to both medicines and devices by 2030 underscores persistent challenges in speed and consistency, necessitating ongoing reform efforts.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-09",
+      "source_doc_id": "66894df7-5992-5683-bb01-4e574eb0de16",
+      "source_title": "Life Sciences Sector Plan: One Year On",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/life-sciences-sector-plan-one-year-on",
+      "source_date": "2026-07-09"
+    },
+    {
+      "index": 10,
+      "title": "Asia-Pacific medtechs intensify global competition",
+      "description": "Asia-Pacific medtech companies are increasingly developing novel, globally competitive products, shifting from local manufacturing to international innovation. This structural change means they are directly competing with established Western multinational corporations (MNCs) in premium segments worldwide, necessitating strategic adaptation from UK-based medtech firms to maintain or grow market share.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-07",
+      "source_doc_id": "f71cf8ad-c7db-5beb-8eb2-2f2b45fa4efb",
+      "source_title": "Building Global Champions: The Asia-Pacific Region’s Next Medtech Wave",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/building-global-champions-asia-pacific-regions-next-medtech-wave",
+      "source_date": "2026-07-07"
+    },
+    {
+      "index": 11,
+      "title": "High evidence bar and lengthy reimbursement for new medtech",
+      "description": "Achieving commercial success for novel medical devices faces significant hurdles beyond regulatory approval, particularly due to the high evidence bar and lengthy reimbursement processes in mature markets like the US and EU. Only a fraction of authorized devices gain nominal coverage, with median wait times extending years. Evolving Health Technology Assessment frameworks further elevate evidence requirements.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-07",
+      "source_doc_id": "f71cf8ad-c7db-5beb-8eb2-2f2b45fa4efb",
+      "source_title": "Building Global Champions: The Asia-Pacific Region’s Next Medtech Wave",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/building-global-champions-asia-pacific-regions-next-medtech-wave",
+      "source_date": "2026-07-07"
+    },
+    {
+      "index": 12,
+      "title": "Medtech operational complexity from M&A hinders scalability",
+      "description": "Decades of acquisition-led growth in the medtech sector have created substantial operational debt, characterized by fragmented ERP systems, inconsistent processes, and decentralized business models. This compounding complexity limits scalability and efficient M&A integration, requiring companies to adopt enterprise shared services to simplify operations and unlock capital for innovation and growth initiatives.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-12",
+      "source_doc_id": "318457a0-dffa-535f-b189-ea63d0d642ee",
+      "source_title": "Enterprise Shared Services in Medtech: The Only Wrong Move Is Standing Still",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/enterprise-shared-services-in-medtech-the-only-wrong-move-is-standing-still",
+      "source_date": "2026-06-12"
+    },
+    {
+      "index": 13,
+      "title": "Enterprise shared services for faster M&A integration in medtech",
+      "description": "Mature enterprise shared services organizations provide a competitive advantage in the medtech sector by enabling faster and more effective integration of acquired businesses. These centralized platforms streamline processes, scale standardized operations, and capture synergies more quickly. This repeatable integration approach enhances the efficiency of M&A engines, which is crucial for inorganic growth strategies.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-12",
+      "source_doc_id": "318457a0-dffa-535f-b189-ea63d0d642ee",
+      "source_title": "Enterprise Shared Services in Medtech: The Only Wrong Move Is Standing Still",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/enterprise-shared-services-in-medtech-the-only-wrong-move-is-standing-still",
+      "source_date": "2026-06-12"
+    },
+    {
+      "index": 14,
+      "title": "Margin pressure in medtech due to pricing and G&A costs",
+      "description": "The medtech sector is experiencing significant margin pressure, evidenced by a 149 basis point contraction in gross margins since 2019. While R&D and commercial execution cuts risk growth, general and administrative (G&A) costs remain a primary target for reduction. The decentralized nature of the sector makes G&A costs fragmented and difficult to manage, exacerbating margin challenges.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-12",
+      "source_doc_id": "318457a0-dffa-535f-b189-ea63d0d642ee",
+      "source_title": "Enterprise Shared Services in Medtech: The Only Wrong Move Is Standing Still",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/enterprise-shared-services-in-medtech-the-only-wrong-move-is-standing-still",
+      "source_date": "2026-06-12"
+    },
+    {
+      "index": 15,
+      "title": "Shared services for specialized medtech functions like quality",
+      "description": "Leading medtech companies are extending enterprise shared services beyond traditional G&A to specialized, knowledge-based functions, including clinical and regulatory activities, quality management, and R&D. This centralization for tasks like regulatory submissions, post-market surveillance, and CAPA processes leverages AI to increase productivity, improve consistency, and reduce costs across the value chain.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-12",
+      "source_doc_id": "318457a0-dffa-535f-b189-ea63d0d642ee",
+      "source_title": "Enterprise Shared Services in Medtech: The Only Wrong Move Is Standing Still",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/enterprise-shared-services-in-medtech-the-only-wrong-move-is-standing-still",
+      "source_date": "2026-06-12"
+    },
+    {
+      "index": 16,
+      "title": "Enterprise shared services accelerate AI adoption in medtech",
+      "description": "Enterprise shared services are pivotal for scaling AI opportunities within medtech by providing essential process and data foundations. Standardized workflows and consolidated data improve AI model accuracy and increase return on automation. This approach accelerates AI-enabled execution in specialized areas like regulatory documentation, quality management, and clinical operations, transforming them from transaction factories to AI deployment platforms.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-12",
+      "source_doc_id": "318457a0-dffa-535f-b189-ea63d0d642ee",
+      "source_title": "Enterprise Shared Services in Medtech: The Only Wrong Move Is Standing Still",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/enterprise-shared-services-in-medtech-the-only-wrong-move-is-standing-still",
+      "source_date": "2026-06-12"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Medtech shifting to software for growth and differentiation amidst hardware maturity",
+      "description": "The medtech industry is experiencing a fundamental structural shift, with software increasingly becoming the primary driver for value creation, differentiation, and patient impact. This transition is spurred by the maturation of traditional hardware categories and their susceptibility to intense price pressures. Software-as-a-medical-device (SaMD) enables new recurring revenue streams and integrates devices into broader clinical workflows, extending value beyond point-of-care and fostering innovation.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-07-15",
+      "source_doc_id": "5c46ff7d-e1ce-548c-8e8e-a4000bee367f",
+      "source_title": "The future of delivering software as a medical device",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device"
+    },
+    {
+      "index": 2,
+      "title": "Medtech SaMD development challenged by regulatory speed and cost issues",
+      "description": "Medtech organizations face significant hurdles in rapidly developing regulated software, including Software as a Medical Device (SaMD), due to stringent established regulatory and quality assurance standards. These phase-based approaches for product development often extend timelines by 20-30 percent and inflate costs, undermining business cases and hindering the agility needed for software innovation in the life sciences sector.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-07-15",
+      "source_doc_id": "5c46ff7d-e1ce-548c-8e8e-a4000bee367f",
+      "source_title": "The future of delivering software as a medical device",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device"
+    },
+    {
+      "index": 3,
+      "title": "Cybersecurity risk escalating for connected medtech devices and digital ecosystems",
+      "description": "Cybersecurity is a growing critical concern for the medtech industry, especially with the expansion of connected devices, digital ecosystems, and AI-enabled capabilities. This trend increases the attack surface, compelling organizations to embed robust cybersecurity requirements throughout the software development lifecycle. Continuous monitoring and swift remediation of vulnerabilities are crucial to meet evolving regulations, protect patient safety, and maintain trust in innovative medical technologies.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-07-15",
+      "source_doc_id": "5c46ff7d-e1ce-548c-8e8e-a4000bee367f",
+      "source_title": "The future of delivering software as a medical device",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device"
+    },
+    {
+      "index": 4,
+      "title": "Medtech industry struggling to attract and retain digital talent",
+      "description": "The medtech industry faces a notable structural challenge in attracting and retaining essential digital, technology, and analytics talent. Compared to other sectors, medtech is often perceived as having a less compelling employee value proposition and a limited pool of technical skills, particularly in areas like application development. This talent gap hinders future growth and innovation, making modernization of software development functions critical to improve retention.",
+      "stance": "negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-07-15",
+      "source_doc_id": "5c46ff7d-e1ce-548c-8e8e-a4000bee367f",
+      "source_title": "The future of delivering software as a medical device",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device"
+    },
+    {
+      "index": 5,
+      "title": "Agentic AI crucial for scaling SaMD quality assurance and productivity gains",
+      "description": "Agentic AI systems are poised to transform Software as a Medical Device (SaMD) development by automating time-consuming, compliance-heavy quality assurance tasks, such as documentation and risk assessment. These multi-agent systems augment product teams, enabling them to embed quality earlier and at scale. This approach preserves human oversight for critical decisions while significantly improving development efficiency and accelerating high-quality SaMD delivery.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-07-15",
+      "source_doc_id": "5c46ff7d-e1ce-548c-8e8e-a4000bee367f",
+      "source_title": "The future of delivering software as a medical device",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device"
+    },
+    {
+      "index": 6,
+      "title": "UK committed to improving patient access to innovative medical technologies",
+      "description": "The UK government is committed to making the nation one of Europe's top three fastest for patient access to medical technologies by 2030, acknowledging current performance is outside this goal. Initiatives like the National HealthTech Access Programme and Value Based Procurement guidance are being implemented to accelerate the uptake of high-impact technologies and ensure patients benefit sooner from innovations.",
+      "stance": "cautious_positive",
+      "source_firm": "gov.uk",
+      "source_date": "2026-07-09",
+      "source_doc_id": "66894df7-5992-5683-bb01-4e574eb0de16",
+      "source_title": "Life Sciences Sector Plan: One Year On",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/life-sciences-sector-plan-one-year-on"
+    },
+    {
+      "index": 7,
+      "title": "Asia-Pacific medtechs increasing global competition for Western MNCs",
+      "description": "Asia-Pacific medtech companies are transforming from regional players to global innovators, now creating and exporting novel, competitive products. This structural shift means they are increasingly challenging incumbent Western multinational corporations (MNCs) in global premium segments. Western MNCs must adapt their strategies, moving towards co-creation and sourcing from Asia-Pacific firms to sustain competitiveness in this evolving landscape.",
+      "stance": "neutral",
+      "source_firm": "Bain",
+      "source_date": "2026-07-07",
+      "source_doc_id": "f71cf8ad-c7db-5beb-8eb2-2f2b45fa4efb",
+      "source_title": "Building Global Champions: The Asia-Pacific Region’s Next Medtech Wave",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/building-global-champions-asia-pacific-regions-next-medtech-wave"
+    },
+    {
+      "index": 8,
+      "title": "Medtech operational complexity hindering growth requires strategic simplification",
+      "description": "Medtech companies face growing operational complexity stemming from decades of acquisition-led growth, fragmented systems, and decentralized operating models. This 'operational debt' impedes scalability, efficient M&A integration, and overall growth. Simplifying operations through enterprise shared services is crucial for unlocking capital for innovation, improving customer experience, and accelerating AI adoption, which is critical for future competitive advantage.",
+      "stance": "cautious_negative",
+      "source_firm": "Bain",
+      "source_date": "2026-06-12",
+      "source_doc_id": "318457a0-dffa-535f-b189-ea63d0d642ee",
+      "source_title": "Enterprise Shared Services in Medtech: The Only Wrong Move Is Standing Still",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/enterprise-shared-services-in-medtech-the-only-wrong-move-is-standing-still"
+    },
+    {
+      "index": 9,
+      "title": "Enterprise shared services are vital for medtech strategic advantage",
+      "description": "Enterprise shared services are critical for medtech to simplify operations, integrate M&A, accelerate AI adoption, and address margin pressure, offering significant competitive advantages beyond just cost savings. This cross-functional model creates shared ownership of processes across finance, HR, IT, and specialized functions like regulatory and quality, freeing up capacity for innovation and enabling faster, more effective scaling.",
+      "stance": "positive",
+      "source_firm": "Bain",
+      "source_date": "2026-06-12",
+      "source_doc_id": "318457a0-dffa-535f-b189-ea63d0d642ee",
+      "source_title": "Enterprise Shared Services in Medtech: The Only Wrong Move Is Standing Still",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/enterprise-shared-services-in-medtech-the-only-wrong-move-is-standing-still"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 583.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 5.5,
+      "forecast_cagr_period": "2026-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Aging populations",
+          "description": "Increasing elderly population globally drives demand for medical devices for managing chronic diseases and age-related health conditions."
+        },
+        {
+          "driver": "Expanding chronic disease burden",
+          "description": "The rising prevalence of chronic diseases worldwide necessitates continuous diagnosis, monitoring, and treatment using various medical devices."
+        },
+        {
+          "driver": "Severe shortage of healthcare workers",
+          "description": "A global scarcity of healthcare professionals increases demand for medical devices that enable providers to deliver more care with fewer staff, enhancing efficiency."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Global medical device market, excluding in vitro diagnostics (IVD) and laboratory equipment, as defined in the BMI Asia Medical Devices report. The Asia-Pacific region represents approximately 16% (USD $94 billion) of this global market.",
+      "source_firm": "Bain",
+      "source_date": "2026-07-07",
+      "data_confidence": "high",
+      "source_doc_id": "f71cf8ad-c7db-5beb-8eb2-2f2b45fa4efb",
+      "source_title": "Building Global Champions: The Asia-Pacific Region’s Next Medtech Wave",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/building-global-champions-asia-pacific-regions-next-medtech-wave"
+    }
+  ],
+  "sources": [
+    "McKinsey",
+    "gov.uk",
+    "Bain"
+  ],
+  "documents": [
+    {
+      "doc_id": "5c46ff7d-e1ce-548c-8e8e-a4000bee367f",
+      "title": "The future of delivering software as a medical device",
+      "publisher": "mckinsey",
+      "date": "2026-07-15",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/the-future-of-delivering-software-as-a-medical-device"
+    },
+    {
+      "doc_id": "66894df7-5992-5683-bb01-4e574eb0de16",
+      "title": "Life Sciences Sector Plan: One Year On",
+      "publisher": "govuk_is",
+      "date": "2026-07-09",
+      "url": "https://www.gov.uk/government/publications/life-sciences-sector-plan-one-year-on"
+    },
+    {
+      "doc_id": "f71cf8ad-c7db-5beb-8eb2-2f2b45fa4efb",
+      "title": "Building Global Champions: The Asia-Pacific Region’s Next Medtech Wave",
+      "publisher": "bain",
+      "date": "2026-07-07",
+      "url": "https://www.bain.com/insights/building-global-champions-asia-pacific-regions-next-medtech-wave"
+    },
+    {
+      "doc_id": "318457a0-dffa-535f-b189-ea63d0d642ee",
+      "title": "Enterprise Shared Services in Medtech: The Only Wrong Move Is Standing Still",
+      "publisher": "bain",
+      "date": "2026-06-12",
+      "url": "https://www.bain.com/insights/enterprise-shared-services-in-medtech-the-only-wrong-move-is-standing-still"
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "AI accelerates early drug discovery timelines, compressing development cycles.",
+      "description": "Artificial intelligence is significantly shortening early-stage drug discovery timelines, with first-in-human or preclinical milestones achieved 15 to 80 percent faster than large pharma medians. This technological advancement, particularly in molecule design, is reshaping biopharma's operational pace and partnership strategies, allowing for quicker progression of assets through initial development phases and potentially bringing novel therapies to market faster.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-21",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "source_date": "2026-09-21",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Biological bottleneck hinders drug discovery despite AI advancements.",
+      "description": "The core challenge in drug discovery remains the identification and validation of correct disease mechanisms, or \"novel, causally validated biology.\" Current AI investments overemphasize molecule design, where data is abundant, while neglecting this bottleneck. Getting the disease mechanism wrong leads to high clinical trial failure rates, making this the industry's scarcest commodity and a significant impediment to translating early AI gains into clinical success.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-21",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "source_date": "2026-09-21",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Unpredicted safety issues drive high Phase II/III clinical trial failures.",
+      "description": "Approximately one-quarter of Phase II and Phase III clinical trial failures stem from unpredicted safety issues. This is primarily due to preclinical and translational research being the least mature domain for AI application, struggling with species differences, variable disease models, and sparse human-linked data. This risk threatens to nullify early-stage AI efficiency gains, underscoring the critical need for parallel investments in preclinical-to-clinical data linkage and advanced safety modeling.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-21",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "source_date": "2026-09-21",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "AI offers transformative potential for differentiated target identification.",
+      "description": "AI research for target identification is advancing rapidly, holding the potential for a transformative breakthrough in biopharma. If AI can reliably deliver differentiated, validated targets at scale, it could address one of the industry's central bottlenecks by providing novel mechanisms and helping prevent asset crowding on well-trodden targets. This would significantly improve the foundation of drug discovery programs and enhance their probability of clinical success.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-21",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "source_date": "2026-09-21",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Regulatory support for AI toxicity models to reduce animal testing.",
+      "description": "The FDA's plan to increase reliance on AI-based toxicity models and human organoids, with a view to reducing dependence on traditional animal testing over time, represents a significant structural shift. This regulatory support will encourage further development and adoption of advanced computational and in vitro methodologies in preclinical research, potentially streamlining approval pathways, reducing development costs, and improving the ethical footprint for biopharma companies.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-21",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "source_date": "2026-09-21",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Biopharma manufacturing faces rising complexity from diverse modalities.",
+      "description": "Biopharmaceutical manufacturing is becoming structurally more complex due to increasing modality diversity, more competitive pipelines, and a growing number of products and launches to support simultaneously. This trend intensifies pressure on manufacturers as traditional productivity gains plateau. Companies must rethink capacity deployment across fragmented and geopolitically sensitive global networks, demanding innovative approaches to maintain efficiency and responsiveness.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "2146f442-b4ae-5660-8186-8bd6d7659bc6",
+      "source_title": "Backbones and networks: A blueprint for the biopharma plant of the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/backbones-and-networks-a-blueprint-for-the-biopharma-plant-of-the-future",
+      "source_date": "2026-09-15",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Digital and AI tools enhance biomanufacturing productivity and resilience.",
+      "description": "Digital and AI technologies are moving to the top of the agenda for biopharma manufacturers seeking new sources of performance. Early adopters have shown meaningful gains, including 10% improvements in overall equipment effectiveness and 20% reductions in conversion costs. Scaling these technologies—such as connected data backbones, machine learning, agentic AI, and autonomous robotics—across the operating system of a plant can drive significant improvements in speed, scale, and sustainability, transforming biomanufacturing operations.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "2146f442-b4ae-5660-8186-8bd6d7659bc6",
+      "source_title": "Backbones and networks: A blueprint for the biopharma plant of the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/backbones-and-networks-a-blueprint-for-the-biopharma-plant-of-the-future",
+      "source_date": "2026-09-15",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "GLP-1 agonists reshaping healthcare, affecting mortality assumptions.",
+      "description": "GLP-1 receptor drugs, initially for obesity, are emerging as a new bio-frontier with the potential to significantly alter disease burden, mortality, and morbidity assumptions across the healthcare landscape. Trial data showing a 20 percent reduction in major cardiovascular events suggest these drugs can extend lifespans, impacting pricing and reserving for life insurance and annuities. This broad influence extends beyond therapeutics to broader healthcare economics and risk assessment paradigms.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "217d407c-5d9b-55ea-9ed2-4a011f6cc694",
+      "source_title": "The strategic new arenas reshaping insurance",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-strategic-new-arenas-reshaping-insurance",
+      "source_date": "2026-09-15",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "title": "Biotech advances enabling personalized medicine, genomics-based risk assessment.",
+      "description": "Broader biotechnology advances, including genetic modification and personalized medicine, are moving healthcare from pooled risk models to highly individualized assessments. Genetic data becoming more predictive allows tailoring prevention and treatment to individual characteristics, potentially improving health outcomes and changing expected mortality patterns. This structural shift creates new opportunities for targeted therapies and challenges traditional actuarial models, requiring ethical and regulatory considerations in development and commercialization.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "217d407c-5d9b-55ea-9ed2-4a011f6cc694",
+      "source_title": "The strategic new arenas reshaping insurance",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-strategic-new-arenas-reshaping-insurance",
+      "source_date": "2026-09-15",
+      "country_focus": "EU"
+    },
+    {
+      "index": 10,
+      "title": "Rising clinical trial complexity causes frequent delays and resource strain.",
+      "description": "Clinical trials are becoming increasingly complex, with a rising share experiencing significant delays (over 20% since 2020). This complexity, coupled with intensifying competition for precisely defined patient populations, creates persistent challenges in patient recruitment, site activation, and managing protocol amendments. These factors place substantial strain on sponsors, CROs, and trial sites, hindering efficient biopharma product development and increasing overall R&D costs.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-02",
+      "source_doc_id": "8203bb9b-8243-5905-9c44-0d32d529db93",
+      "source_title": "Clinical Trials Face Persistent Challenges—and New Opportunities",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/clinical-trials-face-persistent-challenges-and-new-opportunities",
+      "source_date": "2026-09-02",
+      "country_focus": "EU"
+    },
+    {
+      "index": 11,
+      "title": "Trial site capacity constraints and operational inefficiencies hamper studies.",
+      "description": "Clinical trial sites face significant bandwidth constraints, with capacity expected to worsen or remain flat, despite sponsors planning more trials. Key frustrations for sites include slow contracting processes and the proliferation of multiple software platforms, leading to system fragmentation and increased administrative burden. These operational inefficiencies add to trial delays and increase the overall cost and time required for biopharma product development, hindering the efficient progression of new therapies.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-02",
+      "source_doc_id": "8203bb9b-8243-5905-9c44-0d32d529db93",
+      "source_title": "Clinical Trials Face Persistent Challenges—and New Opportunities",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/clinical-trials-face-persistent-challenges-and-new-opportunities",
+      "source_date": "2026-09-02",
+      "country_focus": "EU"
+    },
+    {
+      "index": 12,
+      "title": "AI/ML adoption in clinical trials to enhance efficiency and operations.",
+      "description": "AI and machine learning adoption is picking up in clinical trials, with potential to disrupt data management, cleaning, trial monitoring, and patient recruitment. Organizations that actively redesign roles and workflows around AI capabilities are reporting the greatest performance gains in trial execution. This adoption represents a significant upside for biopharma, promising to alleviate pain points, reduce delays, and improve efficiency across the development pipeline, leading to faster and more successful product launches.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-02",
+      "source_doc_id": "8203bb9b-8243-5905-9c44-0d32d529db93",
+      "source_title": "Clinical Trials Face Persistent Challenges—and New Opportunities",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/clinical-trials-face-persistent-challenges-and-new-opportunities",
+      "source_date": "2026-09-02",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "AI drug discovery investment currently misaligned, focusing on mature molecule design.",
+      "description": "McKinsey states that AI investment in drug discovery is disproportionately concentrated in molecule design, where tools are mature and data structured. However, the industry's critical bottleneck lies in identifying and validating the correct disease mechanism. This misallocation of resources leads to early-stage gains not translating to clinical success, as flawed biological targets often result in trial failures. Biopharma needs to shift its focus from tool availability to addressing these core biological challenges for greater impact.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-21",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Target identification is biopharma's critical biological bottleneck despite AI advancements.",
+      "description": "McKinsey identifies novel, causally validated biology, particularly target identification and validation, as biopharma’s scarcest commodity and the industry's real constraint. Despite rapid advancements in AI research for target identification, its readiness remains medium due to slow validation cycles, high biological heterogeneity, sparse feedback, and the struggle to distinguish causality from correlation. Investment should prioritize generating and structuring proprietary biological data internally rather than licensing external algorithms.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-21",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Molecule design is the most mature segment for AI application in drug discovery.",
+      "description": "McKinsey views molecule design, from hit identification to lead optimization, as the most mature segment of the drug discovery value chain for AI application. This maturity is driven by structured data and rapid assay feedback, with breakthroughs in protein structure prediction and deep small-molecule datasets complementing existing tools. Commercial activity and pharma partnerships are heavily concentrated here, although generative chemistry and developability predictions continue to lag virtual screening and binding affinity.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-21",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Preclinical and translational research is least mature for AI integration.",
+      "description": "McKinsey states that preclinical and translational research remains the least mature domain for AI in drug discovery. Optimizing safety and translation is vastly more complex than predicting binding affinity, primarily due to species differences, variable disease models, and sparse human-linked data. Approximately one-quarter of Phase II and III failures stem from unpredicted safety issues, and advanced models like human organoids are rarely primary decision drivers, indicating significant challenges for AI integration.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-21",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Biomanufacturing productivity gains have plateaued amid increasing complexity.",
+      "description": "McKinsey observes that after a decade of significant cost improvements, productivity gains in biomanufacturing have stalled, declining by 5 percent since 2018, with unit costs plateauing. This signals that traditional improvement levers are no longer sufficient. Pressure is intensifying due to declining net prices for branded drugs, increasing manufacturing complexity from modality diversity, and a fragmented geopolitical footprint, necessitating a new approach leveraging digital and AI to regain momentum.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-15",
+      "source_doc_id": "2146f442-b4ae-5660-8186-8bd6d7659bc6",
+      "source_title": "Backbones and networks: A blueprint for the biopharma plant of the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/backbones-and-networks-a-blueprint-for-the-biopharma-plant-of-the-future",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "GLP-1 drugs and biotech advances reshaping life insurance mortality assumptions.",
+      "description": "McKinsey notes that GLP-1 obesity drugs and broader biotechnology advancements, including genetic modification and personalized medicine, are significantly impacting life insurance. These bio-frontiers have the potential to rewrite disease burden, mortality, and morbidity assumptions. GLP-1s, for instance, show a 20 percent reduction in major cardiovascular events, implying improved population health and a need for insurers to reassess pricing, reserving, and longevity assumptions. This creates a new demand for sophisticated risk models.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-15",
+      "source_doc_id": "217d407c-5d9b-55ea-9ed2-4a011f6cc694",
+      "source_title": "The strategic new arenas reshaping insurance",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-strategic-new-arenas-reshaping-insurance",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Clinical trial complexity continues to rise, causing persistent delays and frustrations.",
+      "description": "Bain's survey reveals that clinical trial complexity continues to increase, with 82% of respondents finding trials more complex today than three years ago and 76% expecting further complexity. This leads to more frequent timeline delays, with 54% of trials experiencing at least a 20% delay. Persistent challenges include patient recruitment, site activation, and protocol amendments, frustrating sponsors and contract research organizations alike and hindering efficient biopharma product development.",
+      "stance": "cautious_negative",
+      "source_firm": "Bain",
+      "source_date": "2026-09-02",
+      "source_doc_id": "8203bb9b-8243-5905-9c44-0d32d529db93",
+      "source_title": "Clinical Trials Face Persistent Challenges—and New Opportunities",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/clinical-trials-face-persistent-challenges-and-new-opportunities",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "AI adoption in clinical trials is nascent but offers significant promise.",
+      "description": "Bain finds that while 65% of sponsors and CROs are piloting AI tools in clinical trials, only 16% are fundamentally reshaping roles and workflows around AI capabilities. The greatest initial disruption is seen in data management and cleaning. However, leading organizations are shifting focus to AI's impact on trial operations and patient recruitment, indicating significant potential for performance gains when integrated through true organizational redesign rather than mere tool deployment within existing processes.",
+      "stance": "cautious_positive",
+      "source_firm": "Bain",
+      "source_date": "2026-09-02",
+      "source_doc_id": "8203bb9b-8243-5905-9c44-0d32d529db93",
+      "source_title": "Clinical Trials Face Persistent Challenges—and New Opportunities",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/clinical-trials-face-persistent-challenges-and-new-opportunities",
+      "country_focus": "EU"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 8.4,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 43.0,
+      "historical_cagr_period": "2023-2025",
+      "demand_drivers": [
+        {
+          "driver": "Acceleration of drug discovery timelines",
+          "description": "AI-enabled tools compress early research cycle times, making drug discovery and development faster, which attracts more investment."
+        },
+        {
+          "driver": "Need for novel biology and validated targets",
+          "description": "AI offers potential to identify new disease mechanisms and targets more efficiently, addressing a critical industry bottleneck."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "AI offers the potential to reliably deliver differentiated, validated targets at scale, preventing asset crowding and improving clinical success rates.",
+          "opportunity": "Addressing biological bottlenecks"
+        },
+        {
+          "description": "Connecting target validation, molecular design, and translational data through AI could significantly improve clinical success rates beyond just speeding up individual stages.",
+          "opportunity": "End-to-end AI integration"
+        }
+      ],
+      "methodology": "Investor funding in AI-enabled drug discovery (AIDD) companies.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-21",
+      "data_confidence": "high",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "tam_value": 29.5,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Accelerated research timelines",
+          "description": "AI's proven ability to speed up early-stage drug discovery is a key factor driving interest and deal activity from major pharmaceutical companies."
+        },
+        {
+          "driver": "Access to advanced AI platforms",
+          "description": "Pharma companies partner with technology firms to leverage mature AI tools, particularly in molecule design, to enhance their R&D capabilities."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Risk mitigation in deal structures",
+          "description": "Up-front cash payments are low ($0.60 billion in 2025, 2% of deal value), with 60-90% of contract value contingent on downstream clinical and commercial milestones, insulating buyers from early financial risk."
+        },
+        {
+          "driver": "Patience for clinical proof",
+          "description": "Value creation is locked until assets successfully navigate late-stage clinical hurdles, as definitive Phase III efficacy readouts for AI-originated molecules are still years away."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Headline deal sizes among the top 20 pharma companies for AI-enabled drug discovery partnerships.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-21",
+      "data_confidence": "high",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "McKinsey",
+    "Bain"
+  ],
+  "documents": [
+    {
+      "doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "title": "AI drug discovery: Focusing on what matters most",
+      "publisher": "mckinsey",
+      "date": "2026-09-21",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most"
+    },
+    {
+      "doc_id": "2146f442-b4ae-5660-8186-8bd6d7659bc6",
+      "title": "Backbones and networks: A blueprint for the biopharma plant of the future",
+      "publisher": "mckinsey",
+      "date": "2026-09-15",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/backbones-and-networks-a-blueprint-for-the-biopharma-plant-of-the-future"
+    },
+    {
+      "doc_id": "217d407c-5d9b-55ea-9ed2-4a011f6cc694",
+      "title": "The strategic new arenas reshaping insurance",
+      "publisher": "mckinsey",
+      "date": "2026-09-15",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-strategic-new-arenas-reshaping-insurance"
+    },
+    {
+      "doc_id": "8203bb9b-8243-5905-9c44-0d32d529db93",
+      "title": "Clinical Trials Face Persistent Challenges—and New Opportunities",
+      "publisher": "bain",
+      "date": "2026-09-02",
+      "url": "https://www.bain.com/insights/clinical-trials-face-persistent-challenges-and-new-opportunities"
+    }
+  ]
+}

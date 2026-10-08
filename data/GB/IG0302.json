@@ -1,0 +1,461 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Strong demand for transformers from electrification and renewables",
+      "description": "Global transformer demand is rising significantly due to increasing electrification across industries (data centers, road transport, heat pumps) and the shift to renewable energy sources. Renewables require more transformer capacity per unit of energy due to dispersed generation, lower utilization, and longer transmission distances, leading to substantial grid investment and a sustained supercycle in demand.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18"
+    },
+    {
+      "index": 2,
+      "title": "Aging transformer fleet replacement drives sustained demand",
+      "description": "A significant portion of grid infrastructure in Europe and North America has surpassed its 25- to 40-year design life, with failure rates climbing after 30 years. Replacement demand accounts for over 30% of the transformer market in these regions, and new units are typically larger due to increased power needs. This structural replacement cycle provides a strong, long-term demand driver for transformer manufacturers.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18"
+    },
+    {
+      "index": 3,
+      "title": "Constrained transformer supply leads to backlog and higher prices",
+      "description": "The transformer manufacturing base, though fragmented, is concentrated among a few large players, making new capacity slow to add. Building new plants is capital-intensive, slow to permit, requires specialized labor, and key inputs like grain-oriented electrical steel are in tight supply. This has resulted in a substantial global supply backlog (over 1,000 GVA by 2024), stretched lead times (up to five years), and market prices surging over 50% since 2021.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18"
+    },
+    {
+      "index": 4,
+      "title": "Machinery investment constrained by economic uncertainty and costs",
+      "description": "Investment in UK machinery and equipment is significantly constrained as companies defer major projects due to economic uncertainty and tighter monetary conditions. Domestic demand weakness persists, and rising input costs (like aluminium and other commodities) along with broader volatility limit pricing power. Additionally, lenders are becoming more selective, impacting companies' ability to secure funding and navigate a challenging operating environment.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 5,
+      "title": "Defence, security, and infrastructure drive manufacturing demand",
+      "description": "UK manufacturers, including those in Capital Goods & Machinery, are benefiting from increased demand across defence, security, and critical infrastructure markets. Approximately 72% of manufacturers reported increased demand from these customers. Geopolitical uncertainty is reshaping industrial priorities, prompting firms to adapt investment plans to capture opportunities in these strategically important sectors, bolstering overall manufacturing activity and confidence.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "d76f4a9a-90bd-5f06-9a54-e87f1678e62d",
+      "source_title": "Manufacturing: the gears driving Britain’s growth",
+      "source_publisher": "barclays_uk",
+      "source_url": "https://www.barclayscorporate.com/content/dam/barclayscorporate-com/documents/insights-26/Barclays-Manufacturing-Deep-Dive.pdf",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 6,
+      "title": "Commercial vehicle industry shifting to ZE powertrains and autonomous tech",
+      "description": "The European truck industry is undergoing fundamental structural changes driven by the transition to zero-emission (ZE) powertrain technologies and the emergence of autonomous trucking. These shifts are redefining the market, creating new value pools (e.g., in software for autonomous vehicles), and necessitating significant investments in both vehicle technology and supporting infrastructure like charging points. This challenges traditional business models and competitive landscapes for truck manufacturers.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "4a255a70-09ba-5aaa-9cf3-2ebdb59ff9df",
+      "source_title": "Competing in the fast lane—the future of Europe’s truck industry",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/competing-in-the-fast-lane-the-future-of-europes-truck-industry",
+      "source_date": "2026-09-11"
+    },
+    {
+      "index": 7,
+      "title": "Chinese OEMs pose significant competitive threat in European truck market",
+      "description": "Chinese OEMs are rapidly increasing their presence in European commercial vehicle segments, leveraging a significant structural cost advantage (25-40%) and faster development cycles. They are perceived as superior in areas like driving range and energy efficiency for battery-electric trucks (BETs) and are expected to offer 10-30% lower prices. This aggressive entry, coupled with diminishing brand loyalty among European fleet operators, poses a substantial threat to established Western truck manufacturers.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "4a255a70-09ba-5aaa-9cf3-2ebdb59ff9df",
+      "source_title": "Competing in the fast lane—the future of Europe’s truck industry",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/competing-in-the-fast-lane-the-future-of-europes-truck-industry",
+      "source_date": "2026-09-11"
+    },
+    {
+      "index": 8,
+      "title": "Charging infrastructure and grid access are major barriers for ZE trucks",
+      "description": "A primary barrier to greater adoption of zero-emission (ZE) trucks in Europe is the lack of adequate charging infrastructure. An estimated 15,000-20,000 public and 200,000 fleet hub/depot charging points are needed by 2030, requiring over €40 billion in investment before grid upgrades. Limited grid capacity, complex permitting processes, and long installation times (up to two years in some areas) significantly delay necessary infrastructure deployment, increasing risk and uncertainty for operators and investors.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "4a255a70-09ba-5aaa-9cf3-2ebdb59ff9df",
+      "source_title": "Competing in the fast lane—the future of Europe’s truck industry",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/competing-in-the-fast-lane-the-future-of-europes-truck-industry",
+      "source_date": "2026-09-11"
+    },
+    {
+      "index": 9,
+      "title": "AI adoption boosts productivity and efficiency in commercial vehicle manufacturing",
+      "description": "Agentic AI can generate 2-3% EBIT uplift within 24-36 months for commercial vehicle players by improving efficiency, effectiveness, and top-line growth, especially in complex areas like lead-to-order processes and configuration. Physical AI extends automation into plants, warehouses, and service environments through intelligent robots and digital twins, enabling productivity gains for low-volume, high-complexity tasks, and helping European manufacturers compete with foreign rivals.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "4a255a70-09ba-5aaa-9cf3-2ebdb59ff9df",
+      "source_title": "Competing in the fast lane—the future of Europe’s truck industry",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/competing-in-the-fast-lane-the-future-of-europes-truck-industry",
+      "source_date": "2026-09-11"
+    },
+    {
+      "index": 10,
+      "title": "Shift to TCO-sensitive purchasing and reduced loyalty in truck market",
+      "description": "As the European truck industry consolidates into mid-sized and large operations, the buyer profile is shifting towards more TCO-sensitive, analytically rigorous purchasing decisions. This change is accompanied by diminishing brand loyalty among fleet operators, making them more prone to switch brands. This demands that OEMs rethink their commercial models, adapt value propositions, and focus on customer satisfaction beyond initial sales, as lower service attachment rates for larger fleets could compress important margin pools.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "f182aef8-4b00-50b8-820f-ae810400f6f2",
+      "source_title": "European Truck Market Outlook 2026",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/european-truck-market-outlook-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 11,
+      "title": "High UK industrial energy prices undermine manufacturing competitiveness",
+      "description": "Industrial energy prices in the UK are approximately 75% higher than the G7 average, severely undermining the competitiveness of UK-based energy-intensive industries, including parts of the Capital Goods & Machinery sector. This cost disadvantage increases the risk of deindustrialization and drives manufacturing capacity overseas. Affordable and secure domestic energy supply is crucial to protect strategic manufacturing capability, support regional growth, and strengthen national resilience.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 12,
+      "title": "Offshore energy supply chain erosion threatens industrial capability",
+      "description": "The UK's offshore energy supply chain, vital for both current and future energy projects (including manufacturing components for offshore wind, CCS, and hydrogen), faces the risk of capability leaving the UK. If the investment environment remains uncertain and activity declines, specialized skills, facilities, and relationships may establish themselves in more active international markets. This erosion would weaken the UK’s energy security and its ability to deliver an orderly energy transition, with high costs to rebuild lost capabilities.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 13,
+      "title": "UK offshore energy supply chain transferable to new energy projects",
+      "description": "The UK's offshore energy supply chain, built over five decades in the North Sea, possesses world-leading expertise in areas like subsea engineering, marine operations, fabrication, and manufacturing. These capabilities are highly transferable and critical for the deployment of next-generation offshore energy projects, including offshore wind, carbon capture and storage (CCS), and hydrogen infrastructure. This integrated supply chain presents a significant opportunity for Capital Goods & Machinery firms to diversify and support the energy transition.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 14,
+      "title": "AI and data transform industrial manufacturing commercial models",
+      "description": "Powerful AI tools and enhanced data access are fundamentally reshaping commercial models in industrial manufacturing. They are raising the bar for competitors and customers, moving away from traditional relationship-driven sales to more analytical, data-integrated approaches. This shift enables codification of institutional knowledge, improved pricing discipline, stronger prospecting, and faster frontline execution, which can lead to significant revenue uplift and EBITDA improvement for manufacturers, including those in Capital Goods & Machinery.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-08-11",
+      "source_doc_id": "e7ccb42c-b8fc-5d90-886f-2f377f664e2d",
+      "source_title": "How AI-led commercial transformation can power industrial growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/capabilities/transformation/our-insights/how-ai-led-commercial-transformation-can-power-industrial-growth",
+      "source_date": "2026-08-11"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Transformer market enters supercycle driven by electrification and grid investment",
+      "description": "The global transformer market is experiencing a supercycle, characterized by a structural rise in electricity demand, accelerated renewable energy adoption, and an aging grid. This surge in demand has outrun supply, leading to increased lead times (up to five years) and price hikes (over 50% since 2021). The supply shortage is expected to persist into the next decade, with capacity, not demand, being the binding constraint for stakeholders across the value chain.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply"
+    },
+    {
+      "index": 2,
+      "title": "UK Machinery & Equipment faces investment constraints and rising costs",
+      "description": "Investment in UK machinery remains constrained as companies defer major projects amid economic uncertainty and tighter monetary conditions. Domestic weakness is not offset by uneven global demand, while rising aluminium prices and broader commodity volatility add to costs, limiting pricing power. Lenders are becoming more selective, increasing pressure on businesses with weaker balance sheets or concentrated exposures. Maintaining financial flexibility and investing in efficiency are critical for competitiveness.",
+      "stance": "cautious_negative",
+      "source_firm": "Allianz UK",
+      "source_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "index": 3,
+      "title": "UK Transport Equipment benefits from strong demand but faces profitability strains",
+      "description": "The UK transport equipment sector is experiencing stronger demand, driven by robust order books in aerospace and defence, aftermarket activity, and policy support for rail and maritime clean technology programmes. However, profitability and liquidity remain under strain due to rising oil, transport, and metals costs, unrepaired supply chains, and erratic rolling-stock procurement. Smaller suppliers are more vulnerable to these cost and funding pressures than larger prime contractors, leading to uneven benefits across the supply chain.",
+      "stance": "cautious_negative",
+      "source_firm": "Allianz UK",
+      "source_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "index": 4,
+      "title": "UK Manufacturing confident despite challenges, focuses on resilience and AI investment",
+      "description": "Despite tough operating conditions like rising energy costs and geopolitical uncertainty, UK manufacturers exhibit remarkable confidence in future prospects. They are prioritizing investments in resilience, productivity, AI, advanced manufacturing technologies, and low-carbon innovation. There's also a notable focus on capturing growing demand from defence, security, and critical infrastructure markets. Larger manufacturers are increasing borrowing for investment, while SMEs prioritize liquidity, indicating a sector balancing near-term pressures with long-term growth ambitions.",
+      "stance": "cautious_positive",
+      "source_firm": "Barclays UK",
+      "source_date": "2026-09-16",
+      "source_doc_id": "d76f4a9a-90bd-5f06-9a54-e87f1678e62d",
+      "source_title": "Manufacturing: the gears driving Britain’s growth",
+      "source_publisher": "barclays_uk",
+      "source_url": "https://www.barclayscorporate.com/content/dam/barclayscorporate-com/documents/insights-26/Barclays-Manufacturing-Deep-Dive.pdf"
+    },
+    {
+      "index": 5,
+      "title": "Europe's truck industry faces disruption from ZE powertrains, autonomous tech, and AI",
+      "description": "The European truck industry is undergoing significant transformation due to the shift to zero-emission powertrains, the emergence of autonomous trucking, and the potential of AI. These factors are challenging established OEMs and attracting new non-European competitors, particularly from China, which benefit from cost advantages. European players must accelerate ZE truck development, master autonomous technology, and reconfigure business processes with AI to maintain competitiveness, especially given the critical need for charging infrastructure and flexible financing models.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-11",
+      "source_doc_id": "4a255a70-09ba-5aaa-9cf3-2ebdb59ff9df",
+      "source_title": "Competing in the fast lane—the future of Europe’s truck industry",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/competing-in-the-fast-lane-the-future-of-europes-truck-industry"
+    },
+    {
+      "index": 6,
+      "title": "European truck operators optimistic on growth but dissatisfied with OEMs; open to Chinese BETs",
+      "description": "European truck fleet operators are largely optimistic about fleet growth, with over 60% expecting expansion. However, dissatisfaction with current manufacturer offerings is eroding brand loyalty, with average Net Promoter Score (NPS) dropping significantly and one-third of operators likely to switch brands. This creates an opening for Chinese OEMs, who are gaining interest due to perceived superiority in technology and price for battery-electric trucks (BETs). Incumbent OEMs need targeted strategies to restore cost competitiveness, customer satisfaction, and accelerate BET adoption.",
+      "stance": "cautious_negative",
+      "source_firm": "Bain & Company",
+      "source_date": "2026-09-08",
+      "source_doc_id": "f182aef8-4b00-50b8-820f-ae810400f6f2",
+      "source_title": "European Truck Market Outlook 2026",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/european-truck-market-outlook-2026"
+    },
+    {
+      "index": 7,
+      "title": "Domestic energy sector crucial for UK manufacturing competitiveness and security",
+      "description": "A strong domestic energy sector is vital for the UK's manufacturing base, supporting strategic industries like advanced engineering within Capital Goods & Machinery. It ensures affordable, secure, and reliable energy and feedstocks, which are foundational for modern industrial economies. Maintaining domestic production reduces reliance on imports, strengthens energy security, supports skilled jobs, and limits exposure to geopolitical instability, all while countering the risk of deindustrialization caused by high energy costs.",
+      "stance": "positive",
+      "source_firm": "OEUK",
+      "source_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "index": 8,
+      "title": "AI-led commercial transformation offers significant growth for industrial manufacturing",
+      "description": "Industrial manufacturing leaders can unlock 5-20% revenue uplift and 5-10% EBITDA improvement within two years by comprehensively overhauling pricing, growth strategy, and sales productivity. AI is a key accelerator, codifying institutional knowledge, integrating analytics into daily decisions, and expanding coverage without proportionally increasing headcount. This transformation moves away from traditional relationship-driven sales models, addressing challenges like fragmented product knowledge, pricing inconsistencies, and inefficient quoting in engineered-to-order and configured-to-order businesses.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-08-11",
+      "source_doc_id": "e7ccb42c-b8fc-5d90-886f-2f377f664e2d",
+      "source_title": "How AI-led commercial transformation can power industrial growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/capabilities/transformation/our-insights/how-ai-led-commercial-transformation-can-power-industrial-growth"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 87.0,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increased electrification across industries",
+          "description": "Growing demand for electricity driven by data center expansion, electrification of road transport (EV fleet expanding >20% annually), and adoption of electric technologies like heat pumps in buildings and industry."
+        },
+        {
+          "driver": "Shift toward renewable energy sources",
+          "description": "Renewables require more transformer capacity per unit of delivered energy due to generation moving away from load centers, lower utilization rates (requiring more installed capacity), and dispersed nature multiplying grid-connection points for low- and medium-voltage transformers."
+        },
+        {
+          "driver": "Aging transformer fleet replacement",
+          "description": "Much of the grid infrastructure in Europe and North America has exceeded its 25-40 year design life, with replacement accounting for over 30% of transformer demand. Replacement units are typically larger due to increased power needs."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "McKinsey analysis of global transformer market value, with demand growth expected to lead to this figure.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply"
+    },
+    {
+      "index": 2,
+      "tam_value": 123.0,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": 3.5,
+      "forecast_cagr_period": "2025-2035",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increased electrification across industries",
+          "description": "Growing demand for electricity driven by data center expansion, electrification of road transport (EV fleet expanding >20% annually), and adoption of electric technologies like heat pumps in buildings and industry."
+        },
+        {
+          "driver": "Shift toward renewable energy sources",
+          "description": "Renewables require more transformer capacity per unit of delivered energy due to generation moving away from load centers, lower utilization rates (requiring more installed capacity), and dispersed nature multiplying grid-connection points for low- and medium-voltage transformers."
+        },
+        {
+          "driver": "Aging transformer fleet replacement",
+          "description": "Much of the grid infrastructure in Europe and North America has exceeded its 25-40 year design life, with replacement accounting for over 30% of transformer demand. Replacement units are typically larger due to increased power needs."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projection based on McKinsey analysis of global transformer market value, driven by sustained demand and structurally higher baseline electricity consumption.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply"
+    },
+    {
+      "index": 3,
+      "tam_value": 100.0,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Acute driver shortage",
+          "description": "Autonomous driving offers a response to the shortage of truck and bus drivers, with Germany alone facing a shortfall of over 100,000 by 2030."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Autonomous HDTs will shift the industry's focus from hardware sales to high-margin software deployed in autonomous trucks, remote teleoperations, and predictive maintenance services.",
+          "opportunity": "Value shift to software and services"
+        }
+      ],
+      "methodology": "McKinsey analysis, assuming a 5% annual reduction in AV kit costs and addressable use cases spanning hub-to-hub and point-to-point long-haul highway routes, avoiding complex urban edge cases.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-11",
+      "data_confidence": "high",
+      "source_doc_id": "4a255a70-09ba-5aaa-9cf3-2ebdb59ff9df",
+      "source_title": "Competing in the fast lane—the future of Europe’s truck industry",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/competing-in-the-fast-lane-the-future-of-europes-truck-industry"
+    }
+  ],
+  "sources": [
+    "McKinsey",
+    "Allianz UK",
+    "Barclays UK",
+    "Bain & Company",
+    "OEUK"
+  ],
+  "documents": [
+    {
+      "doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "title": "The transformer supercycle: Why demand is outrunning supply",
+      "publisher": "mckinsey",
+      "date": "2026-09-18",
+      "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply"
+    },
+    {
+      "doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "title": "September 2026 UK Sector Snippets",
+      "publisher": "allianz_uk",
+      "date": "2026-09-17",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "doc_id": "d76f4a9a-90bd-5f06-9a54-e87f1678e62d",
+      "title": "Manufacturing: the gears driving Britain’s growth",
+      "publisher": "barclays_uk",
+      "date": "2026-09-16",
+      "url": "https://www.barclayscorporate.com/content/dam/barclayscorporate-com/documents/insights-26/Barclays-Manufacturing-Deep-Dive.pdf"
+    },
+    {
+      "doc_id": "4a255a70-09ba-5aaa-9cf3-2ebdb59ff9df",
+      "title": "Competing in the fast lane—the future of Europe’s truck industry",
+      "publisher": "mckinsey",
+      "date": "2026-09-11",
+      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/competing-in-the-fast-lane-the-future-of-europes-truck-industry"
+    },
+    {
+      "doc_id": "f182aef8-4b00-50b8-820f-ae810400f6f2",
+      "title": "European Truck Market Outlook 2026",
+      "publisher": "bain",
+      "date": "2026-09-08",
+      "url": "https://www.bain.com/insights/european-truck-market-outlook-2026"
+    },
+    {
+      "doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "title": "Economic Report 2026",
+      "publisher": "oeuk",
+      "date": "2026-09-08",
+      "url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "doc_id": "e7ccb42c-b8fc-5d90-886f-2f377f664e2d",
+      "title": "How AI-led commercial transformation can power industrial growth",
+      "publisher": "mckinsey",
+      "date": "2026-08-11",
+      "url": "https://www.mckinsey.com/capabilities/transformation/our-insights/how-ai-led-commercial-transformation-can-power-industrial-growth"
+    }
+  ]
+}

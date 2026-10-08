@@ -1,0 +1,194 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Mandated Phase-Out of UK Coal Power Stations by 2024",
+      "description": "The UK's Climate Change Act 2008 has driven a significant structural change in the energy sector, mandating the phase-out of coal-fired power stations. This has resulted in a nearly three-quarters reduction in electricity supply emissions between 1990 and 2024 due to declining coal consumption. The shift severely impacts thermal coal mining and coal power plant fuel security, largely eliminating a traditional demand segment for consumable fuels in the UK.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "6c21b4ea-6c8c-5b82-b172-a7f45f0ac7fc",
+      "source_title": "UK energy transition journey",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/energy/analysis/uk-energy-transition.html",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 2,
+      "title": "Industrial Fuel Switching from Coal to Gas and Electricity",
+      "description": "Major UK industrial sectors, including iron and steel, refining, cement and lime, and chemicals, have significantly reduced their reliance on coal and oil. These industries are increasingly switching to cleaner natural gas and electricity for heat and power, alongside improving energy efficiency. This trend represents a substantial headwind for coking coal and thermal coal demand, as industrial consumption shifts away from coal-based fuels, contributing to a decline in UK industrial emissions.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "6c21b4ea-6c8c-5b82-b172-a7f45f0ac7fc",
+      "source_title": "UK energy transition journey",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/energy/analysis/uk-energy-transition.html",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 3,
+      "title": "UK Energy Mix Shift towards Low Carbon Sources",
+      "description": "The UK is undergoing a fundamental energy transition, aiming to reduce overall fossil fuel consumption (including coal) and significantly increase the proportion of low-carbon energy sources. Efforts to decarbonize buildings and transport, for instance, involve replacing traditional heating with electric heat pumps and modifying industrial heat processes to run on hydrogen or electricity. This overarching strategic imperative creates persistent pressure for coal, further reducing its role across the energy system.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "6c21b4ea-6c8c-5b82-b172-a7f45f0ac7fc",
+      "source_title": "UK energy transition journey",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/energy/analysis/uk-energy-transition.html",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 4,
+      "title": "AI Integration Enhances Safety and Efficiency in Coal Operations",
+      "description": "The application of AI and agentic AI systems is poised to redefine safety and operational efficiency in coal mining. Technologies like continuous safety dashboards, autonomous vehicles, predictive analytics, and generative AI copilots are being used to monitor worker fatigue, improve PPE compliance, identify hazards, and orchestrate preventive responses. These advancements can reduce maintenance-related incidents, enhance centralized remote oversight, and optimize operations, offering a significant upside for the safety and productivity of remaining coal operations.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-23",
+      "source_doc_id": "041ecb65-1f24-5dd1-9368-e7cb99fd09f4",
+      "source_title": "Harnessing AI to make mining safer",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer",
+      "source_date": "2026-09-23"
+    },
+    {
+      "index": 5,
+      "title": "Global Resurgence of Coal Consumption for Energy Security",
+      "description": "Globally, coal consumption reached a record high in 2025 and continued to grow into early 2026, driven by its role in replacing liquefied natural gas (LNG) volumes amidst geopolitical conflicts. This unexpected global resilience of coal, particularly in Asia where 8 GW of coal capacity was restarted or postponed for closure, suggests that while the UK is phasing out coal, international market dynamics could introduce volatility in global coal prices and supply, indirectly affecting UK's remaining or imported coal-related activities.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-01",
+      "source_doc_id": "a76c363d-148b-571c-9fb9-eb24b3bb00e7",
+      "source_title": "Investing in the energy transition: Time to look at whole-system value",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value",
+      "source_date": "2026-09-01"
+    },
+    {
+      "index": 6,
+      "title": "Historical Shift from UK Coal to North Sea Gas in Energy Supply",
+      "description": "In the 1990s, the UK experienced a significant switch from coal to natural gas, primarily driven by declining domestic coal reserves and the increasing availability of cheap natural gas from North Sea deposits. This historical shift laid the groundwork for the structural decline of coal in the UK's energy mix, reducing the prominence of thermal coal mining and accelerating the move away from coal as a primary fuel source for power generation. This established a long-term precedent for coal's diminishing role.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2025-09-11",
+      "source_doc_id": "98778c16-3f5f-58d6-af4e-6bc9807097f2",
+      "source_title": "The Energy Transition’s Next Chapter",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2025/global-energy-landscape-next-chapter",
+      "source_date": "2025-09-11"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "UK Coal-Fired Power Phase-Out Significantly Reduces Energy Supply Emissions",
+      "description": "The UK's energy supply emissions dropped by nearly three-quarters between 1990 and 2024, primarily due to the mandated phase-out of coal-fired power stations under the Climate Change Act 2008. This policy has led to a substantial decline in thermal coal consumption for electricity generation, fundamentally reshaping the fuel security landscape for coal power plants. Further decarbonization efforts will focus on substituting natural gas with low-carbon sources, reinforcing the long-term decline of coal in the UK energy mix.",
+      "stance": "negative",
+      "source_firm": "Deloitte UK",
+      "source_date": "2026-06-30",
+      "source_doc_id": "6c21b4ea-6c8c-5b82-b172-a7f45f0ac7fc",
+      "source_title": "UK energy transition journey",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/energy/analysis/uk-energy-transition.html"
+    },
+    {
+      "index": 2,
+      "title": "UK Industrial Emissions Decline as Sectors Transition Away from Coal",
+      "description": "Industrial emissions in the UK have significantly fallen, driven by a switch from coal and oil to less polluting natural gas and electricity across key sectors like iron and steel, refining, cement and lime, and chemicals. This shift, coupled with improved energy efficiency, has reduced demand for both thermal and coking coal in industrial applications. The trend indicates a sustained move away from coal as an industrial fuel source, impacting coal import dynamics and domestic demand.",
+      "stance": "negative",
+      "source_firm": "Deloitte UK",
+      "source_date": "2026-06-30",
+      "source_doc_id": "6c21b4ea-6c8c-5b82-b172-a7f45f0ac7fc",
+      "source_title": "UK energy transition journey",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/energy/analysis/uk-energy-transition.html"
+    },
+    {
+      "index": 3,
+      "title": "Global Coal Consumption Defies Peak Projections, Experiences Record Growth in 2025-26",
+      "description": "Contrary to expectations that coal had peaked, global coal consumption reached a record high in 2025 and continued growing into early 2026. This surge was driven by its role in replacing liquefied natural gas volumes that declined amidst the conflict in the Middle East. While specific UK policy mandates a phase-out, this global dynamic highlights resilient demand for coal as a consumable fuel in other geographies, potentially influencing international coal prices and supply chain dynamics.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-01",
+      "source_doc_id": "a76c363d-148b-571c-9fb9-eb24b3bb00e7",
+      "source_title": "Investing in the energy transition: Time to look at whole-system value",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Phase-out of coal-fired power stations",
+          "description": "The Climate Change Act 2008 mandated the phase-out of coal-fired power stations in the UK, directly reducing demand for thermal coal for electricity generation."
+        },
+        {
+          "driver": "Industrial fuel switching and energy efficiency",
+          "description": "Energy-intensive industries in the UK (e.g., iron and steel, refining, cement, chemicals) have switched from coal to natural gas and electricity, combined with improved energy efficiency, leading to decreased industrial coal consumption."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The document highlights a significant decline in UK coal consumption due to policy-mandated phase-out and fuel switching in industry, but no explicit market sizing figures (TAM, SAM, SOM, CAGR) for the 'Coal & Consumable Fuels' sub-industry were provided. Demand drivers reflect the diminishing role of coal.",
+      "source_firm": "Deloitte UK",
+      "source_date": "2026-06-30",
+      "data_confidence": "high",
+      "source_doc_id": "6c21b4ea-6c8c-5b82-b172-a7f45f0ac7fc",
+      "source_title": "UK energy transition journey",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/energy/analysis/uk-energy-transition.html"
+    }
+  ],
+  "sources": [
+    "Deloitte UK",
+    "McKinsey"
+  ],
+  "documents": [
+    {
+      "doc_id": "6c21b4ea-6c8c-5b82-b172-a7f45f0ac7fc",
+      "title": "UK energy transition journey",
+      "publisher": "deloitte_uk",
+      "date": "2026-06-30",
+      "url": "https://www.deloitte.com/uk/en/Industries/energy/analysis/uk-energy-transition.html"
+    },
+    {
+      "doc_id": "a76c363d-148b-571c-9fb9-eb24b3bb00e7",
+      "title": "Investing in the energy transition: Time to look at whole-system value",
+      "publisher": "mckinsey",
+      "date": "2026-09-01",
+      "url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value"
+    },
+    {
+      "doc_id": "041ecb65-1f24-5dd1-9368-e7cb99fd09f4",
+      "title": "Harnessing AI to make mining safer",
+      "publisher": "mckinsey",
+      "date": "2026-09-23",
+      "url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer"
+    },
+    {
+      "doc_id": "98778c16-3f5f-58d6-af4e-6bc9807097f2",
+      "title": "The Energy Transition’s Next Chapter",
+      "publisher": "bcg_global",
+      "date": "2025-09-11",
+      "url": "https://www.bcg.com/publications/2025/global-energy-landscape-next-chapter"
+    }
+  ]
+}

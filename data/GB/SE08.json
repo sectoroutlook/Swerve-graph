@@ -1,0 +1,766 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "AI Fueling Semiconductor Market Surge to $2.3 Trillion",
+      "description": "The rise of AI is driving unprecedented growth in the semiconductor sector. Major hyperscalers plan significant capital expenditures on AI infrastructure, pushing average selling prices (ASPs) for leading-edge chips and memory well above predicted levels. This demand, combined with limited supply, is expected to usher in a period of sustained growth, with the market potentially reaching $2.3 trillion by 2030, a 44% increase from 2025 estimates.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "source_date": "2026-09-18"
+    },
+    {
+      "index": 2,
+      "title": "Agentic AI Redesigns Enterprise Workflows for Efficiency",
+      "description": "Agentic AI systems are fundamentally reshaping enterprise workflows by automating verification, reconciliation, and routing at the interfaces between process steps. This capability, previously requiring human judgment, collapses latency from days to hours or minutes. The shift allows organizations to achieve significant operating leverage by enabling the same people to produce more revenue, leading to a decline in SG&A as a percentage of revenue and a re-allocation of human effort to high-value, judgment-intensive tasks.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "59a54758-8b97-5c5a-a345-59247fef1994",
+      "source_title": "Cutting the ‘coordination tax’: How agentic AI can reshape workflows",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows",
+      "source_date": "2026-09-18"
+    },
+    {
+      "index": 3,
+      "title": "Persistent Semiconductor Supply-Demand Imbalance Sustains High ASPs",
+      "description": "Limited supply of leading-edge chips and high-bandwidth memory (HBM) is expected to persist for at least three to five more years, driven by surging demand from AI and data center expansion. This imbalance, combined with insufficient fab capacity buildout, continues to push average selling prices (ASPs) well above historical patterns. While new investments in fabs and advanced packaging are underway, they are unlikely to eliminate price pressure until well into the next decade.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "source_date": "2026-09-18"
+    },
+    {
+      "index": 4,
+      "title": "Hyperscaler Investment Democratizes AI Access, Lowers Entry Barrier",
+      "description": "Hyperscalers are investing hundreds of billions of dollars to build and operate AI data centers, offering AI capabilities as a shared service through usage-based pricing. This model significantly lowers the upfront investment burden for organizations to access frontier AI, unlike previous technologies requiring proprietary infrastructure. This democratization of AI access is expected to drive widespread adoption and enable rapid economic viability for a vast number of organizations, fostering innovation across sectors.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "3f836829-38f4-5c29-b228-c3beb012a1a9",
+      "source_title": "The decision dividend: How AI creates economic value",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-decision-dividend-how-ai-creates-economic-value",
+      "source_date": "2026-08-26"
+    },
+    {
+      "index": 5,
+      "title": "AI Significantly Reduces Decision-Making Costs and Accelerates Timelines",
+      "description": "AI is profoundly changing the economics of decision-making, capable of reducing costs by over 90% for many tasks (e.g., a $40 human labor task costing fractions of a cent with AI). It also compresses decision timelines from weeks or months to seconds. This rapid cost parity with human labor is unprecedented for a general-purpose technology, driving organizations to embed AI into daily workflows for improved asset utilization, increased flexibility, and competitive advantage through faster, better decisions.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "3f836829-38f4-5c29-b228-c3beb012a1a9",
+      "source_title": "The decision dividend: How AI creates economic value",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-decision-dividend-how-ai-creates-economic-value",
+      "source_date": "2026-08-26"
+    },
+    {
+      "index": 6,
+      "title": "AI Applications Create New Cyber and Data Privacy Risks",
+      "description": "The rapid adoption of AI applications and technologies is significantly expanding the digital attack surface, creating new cyber and data privacy risks. AI is increasingly used in hacker toolkits, enabling faster, easier-to-scale, and more frequent attacks. Organizations face threats like data leakage to GenAI tools, AI vulnerability exploitation, and shadow AI, with 35% experiencing AI-enabled attacks with significant operational or financial impact, necessitating robust security controls.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-27",
+      "source_doc_id": "9f15c43e-016c-546d-a0fd-3df86cd6884f",
+      "source_title": "Cybersecurity Budgets Are Growing Fast. AI Threats Are Growing Faster.",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/cybersecurity-spending-ai-threat-trends",
+      "source_date": "2026-08-27"
+    },
+    {
+      "index": 7,
+      "title": "AI Capabilities Empower Cybersecurity Defenses Against Evolving Threats",
+      "description": "While AI introduces new cyber risks, it also offers powerful new capabilities to counter these evolving threats. AI features are being integrated across cybersecurity product suites, enhancing detection and response. This includes AI-driven analytics for SOC triage, code vulnerability analysis, threat intelligence translation, and proactive identification of cyber threats, bolstering the confidentiality, integrity, and availability of critical data and services, enabling a more adaptive and effective defense posture.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-27",
+      "source_doc_id": "9f15c43e-016c-546d-a0fd-3df86cd6884f",
+      "source_title": "Cybersecurity Budgets Are Growing Fast. AI Threats Are Growing Faster.",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/cybersecurity-spending-ai-threat-trends",
+      "source_date": "2026-08-27"
+    },
+    {
+      "index": 8,
+      "title": "Risk of AI Cost-Creep Without Workflow Redesign in Telecoms",
+      "description": "Telecom operators face a significant risk of 'cost-creep' where scaling AI simply adds expenses to existing legacy operating cost bases, leading to higher opex without proportional productivity gains. This occurs when AI is bolted onto existing processes instead of redesigning end-to-end workflows. Despite falling model prices, total token bills can balloon unpredictably with increased usage, making effective token economics management and process transformation crucial to avoid a dual operating model.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "2b91867f-70ab-59e5-877c-d5dc2005a422",
+      "source_title": "AI in Telecom: The Opex Reckoning",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/ai-in-telecom-the-opex-reckoning",
+      "source_date": "2026-09-10"
+    },
+    {
+      "index": 9,
+      "title": "European AI Application Layer Attracts Significant Venture Funding",
+      "description": "Europe is experiencing a significant surge in venture capital funding for AI applications, particularly in vertical or industry-specific AI. In H1 2026, European AI application funding reached €6.8 billion, approaching 44% of US levels (up from 11% in 2018). For vertical AI, this ratio reached 67% of US peers. This momentum is supported by reversing talent flows, university spinouts, corporate co-investment, and patient sovereign capital, positioning Europe for leadership in specialized enterprise AI solutions.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "141e2c18-d934-5cc1-9f89-1e32ee845ac0",
+      "source_title": "Europe’s new AI edge? The emerging application layer opportunity",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/europes-new-ai-edge-the-emerging-application-layer-opportunity",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 10,
+      "title": "Agentic AI Adoption Challenges in Life Sciences and Healthcare",
+      "description": "Despite agentic AI's potential to transform the Life Sciences and Healthcare (LSHC) industry, adoption faces significant hurdles. Challenges include reliance on complex legacy systems, stringent regulatory considerations, and paramount data security and integrity requirements. Many organizations are failing to scale pilots to production due to a reluctance to reimagine existing, human-centric processes. Overcoming organizational and cultural inertia, coupled with building robust knowledge foundations, is critical for successful deployment.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-11",
+      "source_doc_id": "b7abe8da-ea85-5f7b-9ce9-9af271ecd93d",
+      "source_title": "Navigating the Future of Technology in Life Sciences and Healthcare",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/life-sciences-health-care/perspectives/navigating-the-future-of-technology-in-life-sciences-and-health.html",
+      "source_date": "2026-03-11"
+    },
+    {
+      "index": 11,
+      "title": "Physical AI Revolutionizing Life Sciences and Healthcare Capabilities",
+      "description": "Physical AI, embodying intelligence in robots, is set to revolutionize the Life Sciences and Healthcare (LSHC) industry. These adaptive, autonomous systems can supplement human workforces, improve precision and speed, and address labor shortages. Advancements in vision-language-action models enable robots to perceive, learn, and operate in complex environments. This transformation will impact precision medicine manufacturing, surgical robotics, and smart supply chains, creating significant opportunities for enhanced operational resilience and autonomous decision-making.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-11",
+      "source_doc_id": "b7abe8da-ea85-5f7b-9ce9-9af271ecd93d",
+      "source_title": "Navigating the Future of Technology in Life Sciences and Healthcare",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/life-sciences-health-care/perspectives/navigating-the-future-of-technology-in-life-sciences-and-health.html",
+      "source_date": "2026-03-11"
+    },
+    {
+      "index": 12,
+      "title": "AI Infrastructure Cost Pressures Drive Compute Strategy Recalculation",
+      "description": "The escalating costs of compute-intensive AI workloads, particularly for specialized GPUs, are forcing organizations to recalculate their infrastructure strategies. While token costs have dropped significantly, total monthly bills can still be in the millions. Cloud-first approaches are hitting economic and operational walls, prompting a shift towards hybrid architectures that combine public cloud, on-premise, and edge for cost optimization, data sovereignty, latency sensitivity, and resilience, especially crucial in the highly regulated LSHC sector.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-11",
+      "source_doc_id": "b7abe8da-ea85-5f7b-9ce9-9af271ecd93d",
+      "source_title": "Navigating the Future of Technology in Life Sciences and Healthcare",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/life-sciences-health-care/perspectives/navigating-the-future-of-technology-in-life-sciences-and-health.html",
+      "source_date": "2026-03-11"
+    },
+    {
+      "index": 13,
+      "title": "Data Sovereignty and Privacy Paramount for AI Infrastructure Decisions",
+      "description": "For industries handling sensitive information like patient data, proprietary research, and intellectual property, data sovereignty and privacy are paramount when deploying AI models. As AI increasingly processes such data, the question of where it resides becomes critical. Organizations with core data sovereignty and privacy concerns are prioritizing control over their AI infrastructure, opting for on-premise or co-location data centers, sometimes above immediate token cost concerns, to ensure compliance and protection.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-11",
+      "source_doc_id": "b7abe8da-ea85-5f7b-9ce9-9af271ecd93d",
+      "source_title": "Navigating the Future of Technology in Life Sciences and Healthcare",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/life-sciences-health-care/perspectives/navigating-the-future-of-technology-in-life-sciences-and-health.html",
+      "source_date": "2026-03-11"
+    },
+    {
+      "index": 14,
+      "title": "UK Policy and Investment Bolster Digital Capabilities and AI",
+      "description": "The UK Information Technology sector benefits from sustained government policy backing and structural demand for digital capabilities. Initiatives like the Digital and Technologies Sector Plan, AI Growth Zones, and TechFirst, coupled with rising public R&D funding and skills initiatives, support innovation and skills development in AI and data science. This continuous investment aims to underpin the sector's long-term strength and resilience, despite ongoing external pressures and challenges.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 15,
+      "title": "Semiconductor Constraints Pose Risk for UK Computers & Telecoms",
+      "description": "The UK Computers & Telecoms sector faces significant near-term uncertainty due to semiconductor constraints. Global demand absorption by AI data center projects threatens to impact production and prices, potentially reducing shipments by around 9%. This persistent shortage, coupled with geopolitical and supply-chain pressures, creates a challenging environment. While gradual AI usage won't justify very large hardware price increases, the risk of temporary chip disruptions remains a key concern.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 16,
+      "title": "Talent Shortages Challenge UK IT and Telecoms Sector Growth",
+      "description": "The UK Computers & Telecoms sector is experiencing ongoing talent shortages, which continue to challenge growth and create near-term uncertainty. Despite government initiatives like the \"TechFirst\" programme offering bursaries, apprenticeships, and fellowships in AI and data science, finding skilled professionals remains a hurdle. This scarcity of talent can impact innovation, project delivery, and the overall competitiveness of businesses within the sector, requiring sustained focus on workforce development.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 17,
+      "title": "Customer Spending Shifts to Efficiency-Focused IT Solutions",
+      "description": "In the Software & IT Services sector, customer spending is becoming more selective, with budgets increasingly directed towards solutions that deliver measurable productivity gains, automation, or operational efficiency. This shift represents a structural change, moving away from undifferentiated offerings. Businesses with clear value propositions that demonstrate tangible customer value and strengthen recurring revenue streams are outperforming, while less differentiated providers face a more competitive environment, necessitating strategic investment discipline.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 18,
+      "title": "AI for Predictive Maintenance Reduces Manufacturing Downtime",
+      "description": "AI-based predictive maintenance is poised to significantly reduce unplanned downtime in food & beverage manufacturing by 10% to 25% over the next three years. This technology moves manufacturers from reactive to proactive maintenance, using continuous sensor data and machine learning to identify early signs of deterioration. A high percentage (94%) of respondents expect a positive return on investment within three years, leading to fewer emergency callouts, less spoiled product, reduced overtime, and longer asset life.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-08",
+      "source_doc_id": "13126e72-f2f7-593c-929f-871aeff7d100",
+      "source_title": "AI in food manufacturing",
+      "source_publisher": "barclays_uk",
+      "source_url": "https://www.barclayscorporate.com/content/dam/barclayscorporate-com/documents/insights-26/AI-in-food-manufacture.pdf",
+      "source_date": "2026-07-08"
+    },
+    {
+      "index": 19,
+      "title": "AI Optimizes Supply Chain and Inventory, Improves Cash Flow",
+      "description": "AI-driven optimization in supply chain planning is expected to significantly improve cash-flow forecasting and reduce total inventory levels, with 70% of respondents anticipating better cash flow and 64% a reduction in inventory. This translates directly to working capital efficiency by freeing up capital tied in idle stock. AI resolves inefficiencies in inventory management and demand planning by processing a broader range of variables continuously, enabling smarter production scheduling and waste reduction.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-08",
+      "source_doc_id": "13126e72-f2f7-593c-929f-871aeff7d100",
+      "source_title": "AI in food manufacturing",
+      "source_publisher": "barclays_uk",
+      "source_url": "https://www.barclayscorporate.com/content/dam/barclayscorporate-com/documents/insights-26/AI-in-food-manufacture.pdf",
+      "source_date": "2026-07-08"
+    },
+    {
+      "index": 20,
+      "title": "AI Drives Energy Efficiency and Waste Reduction in Manufacturing",
+      "description": "AI is becoming essential for food & beverage manufacturers to meet sustainability targets. 92% of respondents expect AI to play a moderate to central role by 2030, with 87% anticipating a 5-20% reduction in energy consumption over two years. AI identifies invisible energy usage patterns and adjusts equipment load in real-time. Beyond energy, AI accelerates sustainable sourcing and water efficiency, aggregates complex data for clearer environmental impact, and supports ESG reporting and compliance.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-08",
+      "source_doc_id": "13126e72-f2f7-593c-929f-871aeff7d100",
+      "source_title": "AI in food manufacturing",
+      "source_publisher": "barclays_uk",
+      "source_url": "https://www.barclayscorporate.com/content/dam/barclayscorporate-com/documents/insights-26/AI-in-food-manufacture.pdf",
+      "source_date": "2026-07-08"
+    },
+    {
+      "index": 21,
+      "title": "Legacy Equipment Limits AI-Based Maintenance Implementation",
+      "description": "A significant constraint for implementing AI-based predictive maintenance in manufacturing is legacy equipment, cited by 73% of manufacturers. Older production lines were not designed for data connectivity, making continuous monitoring appear challenging. However, this barrier is surmountable through retrofit sensor kits and edge computing devices that process data locally, allowing manufacturers to integrate AI with existing machinery without a full infrastructure overhaul, enabling incremental adoption.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-08",
+      "source_doc_id": "13126e72-f2f7-593c-929f-871aeff7d100",
+      "source_title": "AI in food manufacturing",
+      "source_publisher": "barclays_uk",
+      "source_url": "https://www.barclayscorporate.com/content/dam/barclayscorporate-com/documents/insights-26/AI-in-food-manufacture.pdf",
+      "source_date": "2026-07-08"
+    },
+    {
+      "index": 22,
+      "title": "Data Literacy Identified as Key Barrier to AI Adoption in Manufacturing",
+      "description": "Data literacy, rather than technical expertise, is identified as the single greatest skill barrier limiting effective AI adoption in the food & beverage sector. With a score of 6.44 out of 10, it ranks above technical oversight and cybersecurity. Without the applied literacy for production managers and quality technicians to interpret, challenge, and act on AI outputs, even well-implemented AI systems risk underuse or uncritical trust, underscoring the need for targeted training.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-08",
+      "source_doc_id": "13126e72-f2f7-593c-929f-871aeff7d100",
+      "source_title": "AI in food manufacturing",
+      "source_publisher": "barclays_uk",
+      "source_url": "https://www.barclayscorporate.com/content/dam/barclayscorporate-com/documents/insights-26/AI-in-food-manufacture.pdf",
+      "source_date": "2026-07-08"
+    },
+    {
+      "index": 23,
+      "title": "AI and DLT Transforming Financial Market Infrastructure",
+      "description": "Technologies such as Artificial Intelligence (AI) and Distributed Ledger Technology (DLT) are fundamentally rewiring financial market infrastructure. This transformation is giving rise to new tokenized digital asset classes, redefining how securities and other assets are traded. The UK must urgently adapt and innovate to maintain its global leadership position in financial services, as traditional boundaries between sectors blur and competitive advantage shifts towards centers embracing these seismic technological changes.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-26",
+      "source_doc_id": "3c2f748f-56df-55d8-aaf7-4a350c953d1d",
+      "source_title": "No time to lose: Reasserting UK leadership in financial and related professional services",
+      "source_publisher": "thecityuk",
+      "source_url": "https://www.thecityuk.com/our-work/no-time-to-lose-reasserting-uk-leadership-in-financial-and-related-professional-services",
+      "source_date": "2026-01-26"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Strong Consumer and Enterprise AI Adoption Driving UK Digital Trends",
+      "description": "Deloitte's 2026 Digital Consumer Trends report for the UK highlights a significant surge in Generative AI adoption. As of May 2026, 63% of consumers had used a Gen AI app, a 37% increase year-on-year, with 10% daily usage. Furthermore, 14.5 million UK workers utilized Gen AI for work in 2026, up from 11 million in 2025. This widespread integration of AI into daily life and professional workflows signals a robust and expanding market for AI-powered software and cloud services.",
+      "stance": "positive",
+      "source_firm": "Deloitte UK",
+      "source_date": "2026-09-29",
+      "source_doc_id": "f0ef3e3c-5797-5918-8749-32eb9f4c55b7",
+      "source_title": "Digital Consumer Trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/tmt/research/digital-consumer-trends.html"
+    },
+    {
+      "index": 2,
+      "title": "UK Computers & Telecoms Sector Resilient Despite Headwinds, Backed by Investment",
+      "description": "Allianz's September 2026 UK sector report views the Computers & Telecoms sector as resilient, benefiting from public and private investment in AI, digital infrastructure, and skills. This sustained backing underpins long-term strength. However, the sector faces near-term uncertainties from semiconductor constraints, rising data-centre energy costs, and increasing cyber risks. Talent shortages also present a growth challenge, requiring careful management of these external pressures to maintain its positive trajectory.",
+      "stance": "cautious_positive",
+      "source_firm": "Allianz UK",
+      "source_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "index": 3,
+      "title": "UK Electronics Sector Adapts Well to Pressures, Maintains Cautious Optimism",
+      "description": "The UK electronics sector has shown strong adaptability to 2025 pressures, driven by increased AI adoption, improved supply-chain planning, and continuous innovation investment. Funding remains available, and product demand fosters measured optimism. Despite geopolitical tensions introducing uncertainty and additional costs, the sector is in a stronger position for the second half of 2026, demonstrating improved disruption management and market responsiveness. Businesses should convert technological investment into tangible productivity gains.",
+      "stance": "cautious_positive",
+      "source_firm": "Allianz UK",
+      "source_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "index": 4,
+      "title": "Software & IT Services Sector Polarised, Driven by AI and Efficiency Focus",
+      "description": "The Software & IT Services sector is fundamentally attractive and growth-oriented, but market conditions are becoming increasingly polarised. Scale, recurring revenue, and AI capability are now key differentiators. Customer spending has become more selective, prioritizing solutions that deliver measurable productivity gains, automation, or operational efficiency. Businesses with clear value propositions and strong customer retention are outperforming, while less differentiated providers face heightened competition, emphasizing the need to translate innovation into commercial outcomes.",
+      "stance": "cautious_positive",
+      "source_firm": "Allianz UK",
+      "source_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "index": 5,
+      "title": "UK Electronics Sector's Growth Backed by Policy, Threatened by Input Dependency",
+      "description": "The UK electronics sector enjoys a supportive growth environment, bolstered by government policy focusing on innovation, digital transformation, and sovereign risk protection. Demand for contract manufacturing is positive, with robust growth projected for EMS providers. However, the sector faces a significant threat from strong external dependency for key upstream inputs like raw materials, chip design processes, and silicon wafers. Any supply-chain bottlenecks or disruptions could substantially impact revenue and profitability.",
+      "stance": "cautious_positive",
+      "source_firm": "Allianz UK",
+      "source_date": "2026-03-05",
+      "source_doc_id": "b53b8fdf-4ebc-50e8-99d9-42f82940e71a",
+      "source_title": "February 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-february-2026.html"
+    },
+    {
+      "index": 6,
+      "title": "Software & IT Services Navigate AI Opportunities Amidst Budget Volatility",
+      "description": "The Software & IT Services sector continues to benefit from strong demand for digital solutions, positioning it as fundamentally attractive. However, execution risks are present due to IT budget volatility and evolving regulations. The increasing integration of AI into corporate processes presents both a significant business opportunity, due to low learning curves, and a risk of diluting existing SaaS revenue and margins. Managing talent acquisition and compliance effectively is central to achieving outperformance in this dynamic environment.",
+      "stance": "cautious_positive",
+      "source_firm": "Allianz UK",
+      "source_date": "2026-03-05",
+      "source_doc_id": "b53b8fdf-4ebc-50e8-99d9-42f82940e71a",
+      "source_title": "February 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-february-2026.html"
+    },
+    {
+      "index": 7,
+      "title": "UK Computers & Telecom Supported by Policy, Wary of Chip Supply Disruptions",
+      "description": "The UK Computers & Telecoms sector is supported by sustained government policy and structural demand for digital capability, which reinforces its strong outlook. Significant R&D funding and skills initiatives, including the \"TechFirst\" program, are driving growth. However, a major risk is potential chip disruption caused by global demand absorption from AI data center projects, threatening production and prices in 2026. Cybersecurity, data protection, and regulatory changes are increasingly defining the sector's themes.",
+      "stance": "cautious_positive",
+      "source_firm": "Allianz UK",
+      "source_date": "2026-03-05",
+      "source_doc_id": "b53b8fdf-4ebc-50e8-99d9-42f82940e71a",
+      "source_title": "February 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-february-2026.html"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 2.3,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI Fueling Semiconductor Growth",
+          "description": "Unprecedented growth in the semiconductor sector driven by the rise of AI, requiring advanced chips and memory."
+        },
+        {
+          "driver": "Hyperscaler Investment in AI Infrastructure",
+          "description": "Major hyperscalers' planned capital expenditures on AI infrastructure, including data centers, significantly increasing demand for semiconductors."
+        },
+        {
+          "driver": "Data Center Expansion",
+          "description": "The rapid build-out of AI data centers drives surging demand for leading-edge chips and memory."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Increased Average Selling Prices (ASPs)",
+          "description": "Limited supply and surging demand for leading-edge chips and memory (DRAM, HBM) are pushing ASPs higher, leading to stronger revenue growth."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "AI is accelerating the shift toward higher-value leading-edge chips and HBM, altering industry economics and ushering a period of sustained growth.",
+          "opportunity": "Sustained Semiconductor Market Growth"
+        }
+      ],
+      "methodology": "McKinsey's base case projection for the global semiconductor market, re-evaluated considering strong year-over-year sales increase (40-year high in July 2026) and market revenues exceeding $1 trillion. The new estimate primarily accounts for substantially risen average selling prices (ASPs) of leading-edge chips and memory, with further increases expected due to surging data center demand.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story"
+    },
+    {
+      "index": 2,
+      "tam_value": 6.8,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing Enterprise AI Adoption",
+          "description": "Enterprises are increasingly moving from experimenting with AI models to redesigning legacy business processes, driving demand for application-layer software."
+        },
+        {
+          "driver": "Transformation of Complex Business Processes",
+          "description": "The economic opportunities lie in transforming complex, everyday business processes with AI, requiring specialized application-layer solutions."
+        },
+        {
+          "driver": "Deep Integration in Regulated Environments",
+          "description": "Valuable enterprise AI applications demand deep integration into highly regulated and heterogeneous environments, a strength for European companies."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Significant growth in start-ups focused on vertical AI applications, tailored for specific sectors like industrial, energy, climate, defense, security, healthcare, legal, and financial services.",
+          "opportunity": "Vertical/Industry-Specific AI Applications"
+        }
+      ],
+      "methodology": "McKinsey proprietary funding analysis aggregating data from Dealroom, PitchBook, and Gain, covering venture capital investments. The figure represents total European AI application funding for the first half of 2026.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-17",
+      "data_confidence": "high",
+      "source_doc_id": "141e2c18-d934-5cc1-9f89-1e32ee845ac0",
+      "source_title": "Europe’s new AI edge? The emerging application layer opportunity",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/europes-new-ai-edge-the-emerging-application-layer-opportunity"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Widespread AI Adoption",
+          "description": "Increasing integration of AI across various sectors in the UK drives productivity gains."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "AI is expected to lift UK labour productivity by +3.4% over the next decade, one of the strongest gains in Europe.",
+          "opportunity": "Increased Labour Productivity"
+        },
+        {
+          "description": "AI is projected to contribute a total GDP impact of +1.7% over the next 10 years, driving economic growth.",
+          "opportunity": "Overall GDP Expansion"
+        }
+      ],
+      "methodology": "Projection of AI's economic impact on the UK economy over the next decade, based on expected improvements in labour productivity.",
+      "source_firm": "Allianz UK",
+      "source_date": "2026-07-01",
+      "data_confidence": "medium",
+      "source_doc_id": "92b311a2-13c2-5edf-bb73-5ff74daf6444",
+      "source_title": "Q3 UK economic outlook: Growth holds, inflation bites",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/q3-uk-economic-outlook-navigating-growth-holds-inflation-bites.html"
+    },
+    {
+      "index": 4,
+      "tam_value": 710.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong AI and High-Performance Computing Demand",
+          "description": "Leading-edge chips are experiencing robust demand from AI and high-performance computing applications, contributing to market growth."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Increasing ASPs for Advanced Wafers",
+          "description": "ASPs for 3nm and 5nm wafers are increasing by 2% or more annually, driven by strong demand and limited capacity."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Projection based on an analysis of the technology stack, specifically focusing on leading-edge nodes (7 nanometers or less). The increase is driven by a unique combination of volume and average selling price (ASP) growth, contrary to historical ASP declines.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story"
+    },
+    {
+      "index": 5,
+      "tam_value": 560.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI Models' High Memory Requirements",
+          "description": "AI models necessitate large amounts of memory to store parameters, process data rapidly, and handle increasing context window sizes and concurrent users."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Increased DRAM and HBM Prices",
+          "description": "DRAM prices have increased roughly sixfold since early 2023 due to demand surging faster than supply, translating into higher ASPs."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Projection for the memory segment, particularly High-Bandwidth Memory (HBM) and DRAM. The value increase is driven by rapidly rising demand from AI models and high-performance computing, leading to a significant increase in ASPs.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story"
+    },
+    {
+      "index": 6,
+      "tam_value": 100.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI Growth for Advanced Applications",
+          "description": "AI growth benefits various advanced and mature-node applications, including field-programmable gate arrays (FPGAs), workload-specific connectivity, and data center power electronics."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Declining ASPs for Advanced/Mature Nodes",
+          "description": "Average selling prices for advanced and mature nodes are expected to fall through 2030, despite modest volume growth."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Projection for a broad range of advanced and mature-node applications and products beyond leading-edge logic and memory. While sales volume will increase, average selling prices (ASPs) are expected to fall for this segment.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story"
+    },
+    {
+      "index": 7,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 0.12,
+      "forecast_cagr_period": "2025-2026",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI-Driven Cyber and Data Privacy Risks",
+          "description": "New AI applications and technologies are creating new cyber and data privacy risks, expanding the digital attack surface and necessitating increased cybersecurity investments."
+        },
+        {
+          "driver": "Evolving Threats and Growing Attack Surface",
+          "description": "Organizations are adopting AI-powered cybersecurity capabilities to keep up with the evolving threat landscape and growing attack surface."
+        },
+        {
+          "driver": "Cloud and Data Security",
+          "description": "Ongoing investment in cloud workload and container protection, data encryption, and managed detection and response are key drivers."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "BCG & GLG CISO Survey 4.0 (March 2026, N=302) asking respondents about their cybersecurity spend change year over year. The current year (2026 vs. 2025) and next year (2027 vs. 2026) spending projections indicate growth.",
+      "source_firm": "BCG Global",
+      "source_date": "2026-08-27",
+      "data_confidence": "high",
+      "source_doc_id": "9f15c43e-016c-546d-a0fd-3df86cd6884f",
+      "source_title": "Cybersecurity Budgets Are Growing Fast. AI Threats Are Growing Faster.",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/cybersecurity-spending-ai-threat-trends"
+    }
+  ],
+  "sources": [
+    "Deloitte UK",
+    "Allianz UK",
+    "McKinsey",
+    "BCG Global"
+  ],
+  "documents": [
+    {
+      "doc_id": "f0ef3e3c-5797-5918-8749-32eb9f4c55b7",
+      "title": "Digital Consumer Trends 2026",
+      "publisher": "deloitte_uk",
+      "date": "2026-09-29",
+      "url": "https://www.deloitte.com/uk/en/Industries/tmt/research/digital-consumer-trends.html"
+    },
+    {
+      "doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "title": "September 2026 UK Sector Snippets",
+      "publisher": "allianz_uk",
+      "date": "2026-09-17",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "doc_id": "b53b8fdf-4ebc-50e8-99d9-42f82940e71a",
+      "title": "February 2026 UK Sector Snippets",
+      "publisher": "allianz_uk",
+      "date": "2026-03-05",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-february-2026.html"
+    },
+    {
+      "doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "publisher": "mckinsey",
+      "date": "2026-09-18",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story"
+    },
+    {
+      "doc_id": "59a54758-8b97-5c5a-a345-59247fef1994",
+      "title": "Cutting the ‘coordination tax’: How agentic AI can reshape workflows",
+      "publisher": "mckinsey",
+      "date": "2026-09-18",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows"
+    },
+    {
+      "doc_id": "3f836829-38f4-5c29-b228-c3beb012a1a9",
+      "title": "The decision dividend: How AI creates economic value",
+      "publisher": "mckinsey",
+      "date": "2026-08-26",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/the-decision-dividend-how-ai-creates-economic-value"
+    },
+    {
+      "doc_id": "9f15c43e-016c-546d-a0fd-3df86cd6884f",
+      "title": "Cybersecurity Budgets Are Growing Fast. AI Threats Are Growing Faster.",
+      "publisher": "bcg_global",
+      "date": "2026-08-27",
+      "url": "https://www.bcg.com/publications/2026/cybersecurity-spending-ai-threat-trends"
+    },
+    {
+      "doc_id": "2b91867f-70ab-59e5-877c-d5dc2005a422",
+      "title": "AI in Telecom: The Opex Reckoning",
+      "publisher": "bain",
+      "date": "2026-09-10",
+      "url": "https://www.bain.com/insights/ai-in-telecom-the-opex-reckoning"
+    },
+    {
+      "doc_id": "141e2c18-d934-5cc1-9f89-1e32ee845ac0",
+      "title": "Europe’s new AI edge? The emerging application layer opportunity",
+      "publisher": "mckinsey",
+      "date": "2026-09-17",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/europes-new-ai-edge-the-emerging-application-layer-opportunity"
+    },
+    {
+      "doc_id": "b7abe8da-ea85-5f7b-9ce9-9af271ecd93d",
+      "title": "Navigating the Future of Technology in Life Sciences and Healthcare",
+      "publisher": "deloitte_uk",
+      "date": "2026-03-11",
+      "url": "https://www.deloitte.com/uk/en/Industries/life-sciences-health-care/perspectives/navigating-the-future-of-technology-in-life-sciences-and-health.html"
+    },
+    {
+      "doc_id": "13126e72-f2f7-593c-929f-871aeff7d100",
+      "title": "AI in food manufacturing",
+      "publisher": "barclays_uk",
+      "date": "2026-07-08",
+      "url": "https://www.barclayscorporate.com/content/dam/barclayscorporate-com/documents/insights-26/AI-in-food-manufacture.pdf"
+    },
+    {
+      "doc_id": "3c2f748f-56df-55d8-aaf7-4a350c953d1d",
+      "title": "No time to lose: Reasserting UK leadership in financial and related professional services",
+      "publisher": "thecityuk",
+      "date": "2026-01-26",
+      "url": "https://www.thecityuk.com/our-work/no-time-to-lose-reasserting-uk-leadership-in-financial-and-related-professional-services"
+    },
+    {
+      "doc_id": "92b311a2-13c2-5edf-bb73-5ff74daf6444",
+      "title": "Q3 UK economic outlook: Growth holds, inflation bites",
+      "publisher": "allianz_uk",
+      "date": "2026-07-01",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/q3-uk-economic-outlook-navigating-growth-holds-inflation-bites.html"
+    }
+  ]
+}

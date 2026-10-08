@@ -1,0 +1,118 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Rising storage needs from renewable energy intermittency in Europe.",
+      "description": "The structural shift towards a renewables-heavy energy mix in Europe is driving a significant increase in the need for energy storage capacity. Renewables' intermittency and dispersed generation points necessitate greater grid interconnection and storage solutions to ensure reliability. Pumped hydro storage, explicitly defined as both generation and storage, directly benefits from this trend, creating a strong tailwind for the development and expansion of such facilities within the European energy landscape.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Acute transformer scarcity delays power generation and storage projects.",
+      "description": "Europe is experiencing an acute scarcity of power transformers, which are critical components for connecting power generation and storage facilities, including hydropower, to the grid. This scarcity, driven by surging demand from electrification and renewables, has led to extended lead times, often up to five years, and significantly increased prices. For hydropower projects, especially new large dams or pumped hydro facilities requiring substantial grid integration, this constraint can severely delay project timelines and increase capital expenditure, posing a substantial headwind to development in Europe.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "European investments in grid and storage for enhanced energy reliability.",
+      "description": "In response to heightened energy security concerns, European countries are stepping up investments in grid infrastructure and energy storage solutions. This strategic push aims to enhance overall system reliability and resilience by diversifying energy sources and strengthening the network. For hydropower, particularly pumped hydro storage, this translates into a significant tailwind, as such facilities offer crucial flexibility, grid balancing services, and a reliable source of power, making them key components in Europe's evolving energy security strategy.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
+      "source_date": "2026-09-17",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Hydropower projects face delays from critical power transformer scarcity in Europe.",
+      "description": "McKinsey highlights that the global power sector, including renewable energy and storage projects like hydropower, is constrained by a critical scarcity of power transformers, particularly in Europe. Lead times for these essential grid components have stretched to up to five years, and prices have surged over 50% since 2021. This capacity bottleneck means that despite strong demand for renewable energy and storage, new hydropower developments in Europe face significant project timeline delays and increased costs, leading to a cautious outlook for their near-term deployment.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "country_focus": "EU"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 2300.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": 18.0,
+      "forecast_cagr_period": "2024-2035",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Renewables intermittency management",
+          "description": "The increasing share of intermittent renewable energy sources (like wind and solar) in the power mix necessitates greater energy storage capacity to ensure grid stability and reliability."
+        },
+        {
+          "driver": "Grid interconnection and dispersed power flows",
+          "description": "Grids in Europe and North America need enhanced interconnection to manage increasingly dispersed power flows from diverse, often remote, renewable generation sites, increasing the demand for storage."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projection of global energy storage capacity, including pumped hydro storage, needed to manage intermittency of renewable energy sources and accommodate increasingly dispersed power flows. This capacity requires additional transformers capable of handling bidirectional power flows.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "McKinsey"
+  ],
+  "documents": [
+    {
+      "doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "title": "The transformer supercycle: Why demand is outrunning supply",
+      "publisher": "mckinsey",
+      "date": "2026-09-18",
+      "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply"
+    },
+    {
+      "doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "publisher": "mckinsey",
+      "date": "2026-09-17",
+      "url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis"
+    }
+  ]
+}

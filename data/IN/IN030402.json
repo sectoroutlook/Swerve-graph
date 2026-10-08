@@ -1,0 +1,274 @@
+{
+  "geography": "IN",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Commercial Air Passenger Traffic Slowdown Impacts Airport Services",
+      "description": "Global air passenger traffic is forecast to grow just 2.1% in 2026, less than half the initial projection, with 77% of commercial aerospace leaders expecting below-baseline growth over the next 2-3 years. Airlines are already feeling significant pressure on yields and load factors, reporting the highest likelihood of a slowdown at 56%. This reduced passenger volume and aircraft movements directly impacts Aviation & Airport Services companies, whose revenues are tied to per-passenger lounge fees and per-aircraft-turn fees for ground handling and catering, leading to potential revenue contraction.",
+      "type": "cyclical_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-15",
+      "source_doc_id": "39824ff0-619a-5f6c-bf68-d0802841c740",
+      "source_title": "Untitled",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/is-commercial-aerospace-ready-for-a-demand-reckoning",
+      "source_date": "2026-07-15"
+    },
+    {
+      "index": 2,
+      "title": "Government Policy Drives Regional Air Connectivity & Airport Services",
+      "description": "The Modified UDAN Scheme, with an outlay of Rs. 28,840 crore (US$ 3.26 billion) for 2026–27 to 2035–36, aims to develop 100 airports from existing unserved airstrips. This, coupled with broader government initiatives to strengthen regional air connectivity and accelerate aviation-led development, significantly increases the number of operational airports and flights, particularly in Tier-2 and Tier-3 cities. This expanded network creates substantial opportunities for ground handling, in-flight catering, and other airport services providers.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "b8483c54-7522-5c09-8fd7-c5d0c9d3d6bf",
+      "source_title": "Aviation Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/indian-aviation",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 3,
+      "title": "Indian Airlines Fleet Expansion Boosts Demand for Support Services",
+      "description": "The Directorate General of Civil Aviation (DGCA) has granted in-principle approval for Air India and IndiGo to import 470 and 500 aircraft, respectively, between 2023-2035. Indian carriers are projected to collectively double their fleet capacity to around 1,100 aircraft by 2027. This substantial increase in the airline fleet directly translates to a higher volume of flights and aircraft turns, which is a significant tailwind for ground handling, in-flight catering, and other aviation support services providers in India.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "b8483c54-7522-5c09-8fd7-c5d0c9d3d6bf",
+      "source_title": "Aviation Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/indian-aviation",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 4,
+      "title": "Formal Regulation of Ground Handling Enhances Safety & Standards",
+      "description": "Air India SATS Airport Services (AISATS) became the first ground handling company in India to secure the DGCA’s Safety Clearance under CAR (Civil Aviation Requirements). This move formally regulates ground handling in India, aligning national operations with ICAO standards, and making India the second country globally to implement such formal regulation. This structural change is positive for the sector, driving adherence to international safety and operational standards, potentially increasing service quality and competitiveness among providers.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "b8483c54-7522-5c09-8fd7-c5d0c9d3d6bf",
+      "source_title": "Aviation Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/indian-aviation",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 5,
+      "title": "AI for Enhanced Efficiency, Safety, and Asset Performance",
+      "description": "AI-powered predictive maintenance, logistics optimization, and digital twins offer clear opportunities to enhance efficiency, safety, and asset performance across airports and transport systems. Specifically for Aviation & Airport Services, AI can optimize ground handling operations, improve asset utilization (e.g., ground support equipment), and boost safety in aviation security, thereby driving operational improvements and potentially reducing costs, with a return on investment expected within 1-3 years.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01",
+      "source_doc_id": "96da51e7-fbdb-5f8c-925b-26e908cdd84e",
+      "source_title": "KPMG 2025 Global CEO Outlook Infrastructure and Transport",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/05/kpmg-2025-global-ceo-outlook-infrastructure-and-transport.html",
+      "source_date": "2026-05-01"
+    },
+    {
+      "index": 6,
+      "title": "Underinvestment and Skill Gaps Hinder AI Adoption",
+      "description": "The infrastructure and transport sector, including Aviation & Airport Services, lags other industries in AI investment, with only 58% of CEOs planning to allocate 10-20% of their budgets to AI. This underfunding, combined with a significant lack of technology skills (59% of CEOs believe this could hold back AI implementation) and challenges in attracting AI talent, poses a key risk to realizing the full benefits of AI for operational efficiency and safety in airport services.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01",
+      "source_doc_id": "96da51e7-fbdb-5f8c-925b-26e908cdd84e",
+      "source_title": "KPMG 2025 Global CEO Outlook Infrastructure and Transport",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/05/kpmg-2025-global-ceo-outlook-infrastructure-and-transport.html",
+      "source_date": "2026-05-01"
+    },
+    {
+      "index": 7,
+      "title": "Cybersecurity Risks Threaten Critical Transport Infrastructure",
+      "description": "Cybersecurity is a major concern for infrastructure and transport CEOs, with 60% extremely concerned about fraud detection/prevention and 57% about identity theft/data privacy. Recent cyberattacks on critical infrastructure, including transportation systems, highlight vulnerabilities. Aviation & Airport Services, as part of this critical infrastructure, faces heightened risks of cyberattacks, which could disrupt ground handling operations, compromise sensitive data, and impact safety and security protocols at airports, requiring robust defense strategies.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-01",
+      "source_doc_id": "96da51e7-fbdb-5f8c-925b-26e908cdd84e",
+      "source_title": "KPMG 2025 Global CEO Outlook Infrastructure and Transport",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/05/kpmg-2025-global-ceo-outlook-infrastructure-and-transport.html",
+      "source_date": "2026-05-01"
+    },
+    {
+      "index": 8,
+      "title": "Decarbonization Challenges in Supply Chains and Operations",
+      "description": "Decarbonizing supply chains is identified as the number one obstacle to achieving net-zero goals for the infrastructure and transport sector. Aviation & Airport Services, with its use of ground support equipment and operational vehicles, contributes to carbon emissions. The complexity of reducing these emissions across its supply chain and operations presents a structural challenge, requiring significant investment and technological integration, potentially through AI, to enhance resource and energy efficiency and meet long-term sustainability targets.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-01",
+      "source_doc_id": "96da51e7-fbdb-5f8c-925b-26e908cdd84e",
+      "source_title": "KPMG 2025 Global CEO Outlook Infrastructure and Transport",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/05/kpmg-2025-global-ceo-outlook-infrastructure-and-transport.html",
+      "source_date": "2026-05-01"
+    },
+    {
+      "index": 9,
+      "title": "Airline Aircraft Retirement Plans Reduce Service Demand",
+      "description": "In response to a potential demand slowdown, airlines indicate that their primary lever is to park or retire older, less fuel-efficient aircraft. This preference for retiring the old fleet over deferring new deliveries suggests a significant reduction in the active fleet. For Aviation & Airport Services, this translates to reduced demand for per-aircraft-turn fees from ground handling, in-flight catering, and other services for these older aircraft, creating a clear headwind and pressuring revenue streams.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-15",
+      "source_doc_id": "39824ff0-619a-5f6c-bf68-d0802841c740",
+      "source_title": "Untitled",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/is-commercial-aerospace-ready-for-a-demand-reckoning",
+      "source_date": "2026-07-15"
+    },
+    {
+      "index": 10,
+      "title": "Volatile Crude Prices and Rupee Depreciation Increase Operating Costs",
+      "description": "The volatile US-Iran conflict has led to spikes in global crude prices and driven the Indian Rupee (INR) to historic lows against the USD. This combination of high oil/gas prices and currency depreciation threatens to compress profit margins across various sectors, including aviation. For Aviation & Airport Services, this means increased costs for imported ground support equipment, fuel for ground vehicles, and potentially imported ingredients for in-flight catering, exerting significant pressure on operational profitability and cost structures.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-17",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf",
+      "source_date": "2026-07-17"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "India to become world's third-largest air passenger market by 2030",
+      "description": "According to ACI, Delhi’s Indira Gandhi International Airport ranked ninth busiest globally in 2024. IATA projects India will surpass China and the US to become the world's third-largest air passenger market by 2030, with 480 million flyers by 2036. This robust growth in passenger traffic significantly boosts demand for Aviation & Airport Services, particularly ground handling, in-flight catering, and lounge services, ensuring a positive operating environment.",
+      "stance": "positive",
+      "source_firm": "Airports Council International (ACI) / International Air Transport Association (IATA)",
+      "source_date": "2026-05-31",
+      "source_doc_id": "b8483c54-7522-5c09-8fd7-c5d0c9d3d6bf",
+      "source_title": "Aviation Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/indian-aviation"
+    },
+    {
+      "index": 2,
+      "title": "Indian Aviation Sector Poised for Robust Growth Driven by Demand and Policy",
+      "description": "The Indian aviation sector is characterized by robust demand, increasing investments, and strong policy support, including the Modified UDAN Scheme and significant infrastructure capital expenditure. With projected passenger traffic growth and fleet expansion by Indian carriers, overall aviation activity is set to increase. This environment provides a consistently strong demand base for Aviation & Airport Services, ensuring continued growth in ground handling, in-flight catering, and other airport support operations, bolstered by formal regulation of ground handling.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "source_doc_id": "b8483c54-7522-5c09-8fd7-c5d0c9d3d6bf",
+      "source_title": "Aviation Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/indian-aviation"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising income",
+          "description": "Increasing disposable incomes in India enable more people to afford air travel, driving overall passenger volumes."
+        },
+        {
+          "driver": "Low-cost aviation",
+          "description": "The proliferation of low-cost carriers makes air travel more accessible and affordable, stimulating demand across various segments."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total passenger traffic (International + Domestic) in India for FY26. Projected to reach 480 million flyers by 2036.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "b8483c54-7522-5c09-8fd7-c5d0c9d3d6bf",
+      "source_title": "Aviation Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/indian-aviation"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Regional Connectivity Scheme (UDAN)",
+          "description": "Government-backed initiatives to develop unserved airstrips and strengthen regional air connectivity increase the number of operational airports."
+        },
+        {
+          "driver": "Aviation-led development",
+          "description": "Government focus on expanding aviation infrastructure to support economic growth, trade, and tourism across Tier-2 and Tier-3 cities."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "With the airport network more than doubling in a decade and 100 new airports planned, there are significant opportunities for Aviation & Airport Services companies to establish operations at these new locations, tapping into growing regional demand.",
+          "opportunity": "Expansion of ground handling and catering services to new airports"
+        }
+      ],
+      "methodology": "India's airport network expanded from 74 airports in 2014 to 164 airports as of 2026. This represents the number of airports in the network, providing locations for IN030402 services.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "b8483c54-7522-5c09-8fd7-c5d0c9d3d6bf",
+      "source_title": "Aviation Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/indian-aviation"
+    }
+  ],
+  "sources": [
+    "Airports Council International (ACI) / International Air Transport Association (IATA)",
+    "IBEF"
+  ],
+  "documents": [
+    {
+      "doc_id": "b8483c54-7522-5c09-8fd7-c5d0c9d3d6bf",
+      "title": "Aviation Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/indian-aviation"
+    },
+    {
+      "doc_id": "39824ff0-619a-5f6c-bf68-d0802841c740",
+      "title": "Untitled",
+      "publisher": "mckinsey",
+      "date": "2026-07-15",
+      "url": "https://www.mckinsey.com/industries/aerospace-and-defense/our-insights/is-commercial-aerospace-ready-for-a-demand-reckoning"
+    },
+    {
+      "doc_id": "96da51e7-fbdb-5f8c-925b-26e908cdd84e",
+      "title": "KPMG 2025 Global CEO Outlook Infrastructure and Transport",
+      "publisher": "kpmg",
+      "date": "2026-05-01",
+      "url": "https://kpmg.com/in/en/insights/2026/05/kpmg-2025-global-ceo-outlook-infrastructure-and-transport.html"
+    },
+    {
+      "doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "title": "CareEdge FORESIGHTS - July 2026",
+      "publisher": "careedge",
+      "date": "2026-07-17",
+      "url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf"
+    }
+  ]
+}

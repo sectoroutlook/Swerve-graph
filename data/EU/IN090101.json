@@ -1,0 +1,1048 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "AI adoption changes telecom operating models and cost structures",
+      "description": "The operating cost structure for telecom operators is undergoing one of the most significant shifts in decades due to AI. An 'agentic operating model' is emerging, with 70-80% traditional costs and 20-30% AI agent/token costs, as AI automates or augments work across customer care, network operations, software engineering, and enterprise functions. This is a structural change, as telcos must modernize complex legacy systems while integrating new AI layers to maintain competitiveness and avoid cost creep.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "2b91867f-70ab-59e5-877c-d5dc2005a422",
+      "source_title": "AI in Telecom: The Opex Reckoning",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/ai-in-telecom-the-opex-reckoning",
+      "source_date": "2026-09-10",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Unmanaged AI usage risks ballooning token costs for telcos",
+      "description": "Despite falling AI model prices, the effective cost per task can remain flat, and the total 'token bill' can grow unpredictably as AI usage rises. This occurs because employees find new uses, power users consume tokens at scale (e.g., network operations, customer care), tasks become more complex, and teams shift to more token-intensive models without cost-efficiency optimization. Many organizations still track total API invoices instead of cost per business outcome, leading to substantial unrealized savings and dangerous cost-creep.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "2b91867f-70ab-59e5-877c-d5dc2005a422",
+      "source_title": "AI in Telecom: The Opex Reckoning",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/ai-in-telecom-the-opex-reckoning",
+      "source_date": "2026-09-10",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Bolting AI onto legacy processes hinders true transformation",
+      "description": "Many telecom organizations deploy AI without fundamentally redesigning workflows, resulting in a dual operating model where traditional teams continue existing processes while AI performs isolated tasks. This approach prevents human-led operations from evolving, allows SaaS licenses to continue growing, and makes AI merely another line item. Instead of transforming operations and achieving P&L upside, organizations automate fragments of legacy complexity, leading to higher total costs without proportional gains in productivity, customer experience, or growth.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "2b91867f-70ab-59e5-877c-d5dc2005a422",
+      "source_title": "AI in Telecom: The Opex Reckoning",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/ai-in-telecom-the-opex-reckoning",
+      "source_date": "2026-09-10",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "AI enables end-to-end workflow redesign and value creation",
+      "description": "Rather than merely automating existing tasks, AI presents a significant opportunity to redesign end-to-end workflows (e.g., detect-to-resolve in network operations), leading to significantly faster incident resolution with substantially less manual intervention. It can also solve customer problems previously too slow, manual, or expensive, such as autonomous network incident resolution, proactive churn prevention, personalized B2B proposal generation, and fully self-service retail experiences in rural communities. This shifts the focus from cost reduction to high-value problem solving.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "2b91867f-70ab-59e5-877c-d5dc2005a422",
+      "source_title": "AI in Telecom: The Opex Reckoning",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/ai-in-telecom-the-opex-reckoning",
+      "source_date": "2026-09-10",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Post-quantum cryptography (PQC) security threat is urgent for telcos",
+      "description": "Nation-state actors are actively harvesting encrypted telecom data today, anticipating future decryption by quantum computers ('harvest now, decrypt later'), posing a decades-long risk for sensitive information. PQC migration is urgent and complex, requiring cryptographic dependency identification, assessment, and migration across 5G core networks, subscriber identity systems (SIM/eSIM), OSS/BSS, APIs, and interconnect agreements. Regulatory clocks, such as the EU's push for critical infrastructure readiness by 2030, are hardening, demanding immediate defensive responses from carriers.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-05",
+      "source_doc_id": "61f33b7d-15b4-5e50-9b45-c83e485c6356",
+      "source_title": "How Telecom Carriers Are Preparing for Quantum",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/how-telecom-carriers-are-preparing-for-quantum",
+      "source_date": "2026-06-05",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Quantum computing for complex optimization challenges offers advantage",
+      "description": "Quantum computing has the potential to solve some of telecom’s most complex optimization challenges, including network planning, fiber route optimization, RAN optimization (beamforming, interference management, Cloud RAN resource provisioning), and energy management across thousands of cell sites. While the critical threshold for widespread quantum advantage (around 100 stable logical qubits) is expected around 2028–2029, carriers need to build internal capabilities (3-4 years) through targeted experimentation with high-value use cases to gain a competitive advantage and avoid a structural disadvantage.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-05",
+      "source_doc_id": "61f33b7d-15b4-5e50-9b45-c83e485c6356",
+      "source_title": "How Telecom Carriers Are Preparing for Quantum",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/how-telecom-carriers-are-preparing-for-quantum",
+      "source_date": "2026-06-05",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Quantum communications leverages fiber infrastructure for high security",
+      "description": "Quantum Key Distribution (QKD) offers physics-layer security for encryption key exchange and is becoming commercially real at metro scale, with examples like BT/Toshiba in London and Orange in France. Telcos hold a structural advantage by owning fiber infrastructure, enabling targeted solutions for high-security use cases (government, finance, healthcare, critical infrastructure) where provable security commands a premium. Piloting QKD in these segments is a low-regret investment that builds institutional knowledge and positions carriers for emerging sovereign security propositions.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-05",
+      "source_doc_id": "61f33b7d-15b4-5e50-9b45-c83e485c6356",
+      "source_title": "How Telecom Carriers Are Preparing for Quantum",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/how-telecom-carriers-are-preparing-for-quantum",
+      "source_date": "2026-06-05",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "Rising energy costs erode telecom network margins",
+      "description": "Significant increases in European gas prices are translating into higher electricity costs, which are expected to lead to lower growth and higher inflation. For TMT companies, particularly those operating data centers, telecom networks, and media infrastructure, energy costs are a core input. Rising prices directly erode margins and can result in delays in investment decisions, thereby dampening expansion appetite and overall sector profitability.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-19",
+      "source_doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "source_title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf",
+      "source_date": "2026-05-19",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "title": "Heightened geopolitical risk increases cybersecurity threats for critical infrastructure",
+      "description": "Geopolitical instability contributes to an elevated cybersecurity risk environment, leading to an increase in cyber-attacks targeting critical infrastructure sectors. This prompts Irish organizations to reassess the location of critical infrastructure and increase cyber insurance coverage, reflecting a broader shift towards resilience planning. For telecom networks, which are considered critical infrastructure, this means increased operational costs for security measures and a heightened threat of disruption, impacting service integrity and customer trust.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-19",
+      "source_doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "source_title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf",
+      "source_date": "2026-05-19",
+      "country_focus": "IE"
+    },
+    {
+      "index": 10,
+      "title": "Embedding AI into core processes drives productivity gains",
+      "description": "The key differentiator for businesses will be moving from AI awareness to meaningful integration. Organizations successfully embedding AI tools into core processes are expected to see sustained productivity gains, while laggards face widening competitive gaps. Opportunities exist in cybersecurity, managed services, digital content, and enabling infrastructure. Structured mechanisms for knowledge sharing and practical experimentation with AI, with broad-based adoption across organizations, are crucial for realizing these gains and improving overall business performance and efficiency.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-19",
+      "source_doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "source_title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf",
+      "source_date": "2026-05-19",
+      "country_focus": "IE"
+    },
+    {
+      "index": 11,
+      "title": "AI as structural reset demanding quantifiable business value",
+      "description": "AI is fundamentally reshaping the telecom industry, serving as a structural reset rather than just another G-cycle. Operators are adopting diverse strategies, focusing on reducing operating expenses and improving customer satisfaction. Leaders are moving from experimentation to scaled deployment, which is widening the performance gap with laggards. Boards and investors now expect demonstrable, quantifiable business value from AI initiatives quickly, making AI integration a critical strategic imperative for all telecom operators.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-05",
+      "source_doc_id": "cd02dfff-10b7-5bb0-887e-1527ce839512",
+      "source_title": "MWC 2026: Telecoms at the Inflection Point",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/mwc-2026-telecoms-at-the-inflection-point",
+      "source_date": "2026-03-05",
+      "country_focus": "EU"
+    },
+    {
+      "index": 12,
+      "title": "Service integrity and reliability become strategic differentiators",
+      "description": "The industry conversation is evolving beyond just network speed to prioritize the integrity and reliability of telecom services. Low latency, jitter control, redundancy, and operational sovereignty are no longer merely technical specifications but have become strategic differentiators. Operators also have an emerging role as trusted advisors, capable of raising real-time alerts for suspected fake content. This signifies a fundamental shift in customer and regulatory expectations, demanding more robust and secure communication infrastructure.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-05",
+      "source_doc_id": "cd02dfff-10b7-5bb0-887e-1527ce839512",
+      "source_title": "MWC 2026: Telecoms at the Inflection Point",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/mwc-2026-telecoms-at-the-inflection-point",
+      "source_date": "2026-03-05",
+      "country_focus": "EU"
+    },
+    {
+      "index": 13,
+      "title": "Autonomous networks and operations gain efficiency attention",
+      "description": "Autonomous networks and operations remain a prominent topic, driven by the promise of substantial efficiency gains and new value streams for telecom operators. Leading operators are filtering technological possibilities through a business-value lens to create pragmatic roadmaps. They are insisting on end-to-end business process redesign before defining architectural approaches to autonomy, indicating a shift towards practical implementation over mere theoretical exploration. This transformation aims to deliver significant operational cost reductions and performance improvements.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-05",
+      "source_doc_id": "cd02dfff-10b7-5bb0-887e-1527ce839512",
+      "source_title": "MWC 2026: Telecoms at the Inflection Point",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/mwc-2026-telecoms-at-the-inflection-point",
+      "source_date": "2026-03-05",
+      "country_focus": "EU"
+    },
+    {
+      "index": 14,
+      "title": "Satellite service providers adding new layer to connectivity ecosystem",
+      "description": "Satellite service providers are gaining prominence, actively marketing direct-to-device (D2D) capabilities. While satellite connectivity still faces limitations in reach and capacity as a direct substitute for terrestrial networks, it clearly adds a complementary layer to the communications ecosystem. Telecom operators are actively seeking partnerships to offer D2D connectivity as an additional service, particularly to extend coverage in underserved or remote areas and enhance ubiquitous mobile access for their subscribers.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-05",
+      "source_doc_id": "cd02dfff-10b7-5bb0-887e-1527ce839512",
+      "source_title": "MWC 2026: Telecoms at the Inflection Point",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/mwc-2026-telecoms-at-the-inflection-point",
+      "source_date": "2026-03-05",
+      "country_focus": "EU"
+    },
+    {
+      "index": 15,
+      "title": "Post-quantum cybersecurity readiness becoming critical for future vulnerabilities",
+      "description": "Preparing for the security implications of production-grade quantum computing is a critical executive agenda item, even though full realization is still a few years away. Transitioning infrastructure, networks, and devices to quantum-safe encryption is achievable but necessitates thorough system reviews. A lack of proactive diligence could lead to crippling vulnerabilities in the not-too-distant future, underscoring the urgent need for migration strategies to protect sensitive data and ensure network resilience against quantum threats.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-05",
+      "source_doc_id": "cd02dfff-10b7-5bb0-887e-1527ce839512",
+      "source_title": "MWC 2026: Telecoms at the Inflection Point",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/mwc-2026-telecoms-at-the-inflection-point",
+      "source_date": "2026-03-05",
+      "country_focus": "EU"
+    },
+    {
+      "index": 16,
+      "title": "AI reshaping network traffic and infrastructure demands",
+      "description": "AI will profoundly reshape network traffic patterns by increasing upstream traffic and demanding ultra-low latency, edge proximity, resilience, and specialized AI data centers. Telecom operators have a narrow window to strategically position themselves as core to AI infrastructure, rather than merely providers of basic capacity. This requires investing in new network capabilities and potentially new business models, securing a crucial role in the evolving AI value chain and avoiding being commoditized.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-05",
+      "source_doc_id": "cd02dfff-10b7-5bb0-887e-1527ce839512",
+      "source_title": "MWC 2026: Telecoms at the Inflection Point",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/mwc-2026-telecoms-at-the-inflection-point",
+      "source_date": "2026-03-05",
+      "country_focus": "EU"
+    },
+    {
+      "index": 17,
+      "title": "Operator unease about 6G investments after 5G returns struggle",
+      "description": "While there is broad agreement on the necessity of reduced power consumption, better embedded security, and increased privacy and trust for 6G, telecom operators express deep unease about rushing into the next technological transition. This apprehension stems from the significant struggles experienced in generating sufficient returns on the massive investments already made in 5G. This sentiment could lead to delayed 6G rollouts and potentially impact Europe's future technological leadership in wireless communications.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-05",
+      "source_doc_id": "cd02dfff-10b7-5bb0-887e-1527ce839512",
+      "source_title": "MWC 2026: Telecoms at the Inflection Point",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/mwc-2026-telecoms-at-the-inflection-point",
+      "source_date": "2026-03-05",
+      "country_focus": "EU"
+    },
+    {
+      "index": 18,
+      "title": "AI to reset network economics and operational efficiency",
+      "description": "Telecom network economics face structural pressure from rising complexity, high customer expectations, and decelerating data traffic growth. AI offers a critical opportunity to reimagine network operations, reset economics, and significantly improve efficiency. Network automation is a primary focus area for AI deployments, with the ambition of fully autonomous, self-optimizing, self-healing networks becoming an achievable goal within years, impacting both CAPEX and OPEX, and potentially transforming industry profitability and performance.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-27",
+      "source_doc_id": "ff728b57-5b15-59f0-b6ff-b1d87cff7146",
+      "source_title": "Issue Brief: AI-driven telecom networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-ai-driven-telecom-networks",
+      "source_date": "2026-02-27",
+      "country_focus": "EU"
+    },
+    {
+      "index": 19,
+      "title": "AI for value-led network planning and simulation",
+      "description": "AI is transforming network planning from static engineering thresholds to value-based optimization. Advanced machine learning models and digital twins simulate thousands of rollout and upgrade scenarios, considering customer experience (CX), traffic evolution, customer churn, and average revenue per user (ARPU), along with potential competitive moves. This leads to substantial savings in greenfield rollout and upgrade capex, alongside the reallocation of annual capex away from low-ROI interventions, significantly improving capital efficiency and strategic decision-making.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-02-27",
+      "source_doc_id": "ff728b57-5b15-59f0-b6ff-b1d87cff7146",
+      "source_title": "Issue Brief: AI-driven telecom networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-ai-driven-telecom-networks",
+      "source_date": "2026-02-27",
+      "country_focus": "EU"
+    },
+    {
+      "index": 20,
+      "title": "New services and price increases driving revenue growth",
+      "description": "European telecom companies are expected to achieve 2% top-line growth in 2026, primarily through the sale of new services, such as bigger bundles, higher speeds, and low-latency gaming packages. This growth will also be supported by some price increases. However, revenue will be partially held back by discounts to new customers and price pressures in the value segment, as well as lower Average Revenue Per User (ARPU) in some markets and from new market entrants like Digi in Belgium.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-01-26",
+      "source_doc_id": "3003d789-48b7-56c3-975b-a1b793227d80",
+      "source_title": "European telecoms set to see modest growth in 2026",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-telecoms-set-to-see-modest-growth-in-2026",
+      "source_date": "2026-01-26",
+      "country_focus": "EU"
+    },
+    {
+      "index": 21,
+      "title": "Cost rationalization and automation boosting EBITDA",
+      "description": "Automation has historically reduced telecom operating costs, a trend expected to continue in 2026 through copper switch-offs, network automation, and more efficient customer service via AI. Companies like Telefonica and BT have announced reorganization programs, and Telia is working on one. This leads to an expectation of EBITDA growth outpacing revenue growth by 0.5%, with a median EBITDA growth of around 2.5% for European operators, despite new costs from AI tools and 5G services.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-01-26",
+      "source_doc_id": "3003d789-48b7-56c3-975b-a1b793227d80",
+      "source_title": "European telecoms set to see modest growth in 2026",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-telecoms-set-to-see-modest-growth-in-2026",
+      "source_date": "2026-01-26",
+      "country_focus": "EU"
+    },
+    {
+      "index": 22,
+      "title": "High capex requirements for 5G SA and fiber rollout",
+      "description": "Despite some views that cash flows could increase due to lower capex as fiber rollout completes in some areas, investments are expected to remain high, around 20% of sales, for European telecom operators. This is driven by the priority to roll out 5G Standalone (5G SA) networks, connect passed homes for fiber, invest in new mobile sites or upgraded antennas, and develop new AI services. Investments in fiber were prioritized over 5G SA until now, indicating a shift in investment focus.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-01-26",
+      "source_doc_id": "3003d789-48b7-56c3-975b-a1b793227d80",
+      "source_title": "European telecoms set to see modest growth in 2026",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-telecoms-set-to-see-modest-growth-in-2026",
+      "source_date": "2026-01-26",
+      "country_focus": "EU"
+    },
+    {
+      "index": 23,
+      "title": "Delayed investment hinders European 5G technological leadership",
+      "description": "European telecom companies are struggling to grow profitability, leading to delays in investments aimed at achieving technological leadership in 5G. This is causing Europe to fall behind regions like Asia, the USA, and the Middle East in 5G speeds and advanced 5G standalone (5G SA) networks. While 5G availability is improving across Europe, the lack of top speeds and delayed 5G SA implementation risks hindering broader economic productivity and competitive standing.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-01-26",
+      "source_doc_id": "4cf248d5-051c-5842-9412-946b9ff2a816",
+      "source_title": "European mobile networks lose ground in the global 5G race",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-mobile-networks-lose-ground-in-global-5g-race",
+      "source_date": "2026-01-26",
+      "country_focus": "EU"
+    },
+    {
+      "index": 24,
+      "title": "5G Standalone (5G SA) becoming the norm for leading operators",
+      "description": "5G Standalone (5G SA), characterized by a cloud-native network architecture, is becoming the norm for leading operators globally, with China already operational at scale. While Europe lags in speeds, more commercial use cases of specific 5G SA capabilities are expected to emerge as leading operators continue to invest. Device ecosystem readiness, like iPhones and Android phones supporting dynamic network slice selection, further supports 5G SA development, which is key for Europe to regain a frontrunner position in advanced mobile services.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-01-26",
+      "source_doc_id": "4cf248d5-051c-5842-9412-946b9ff2a816",
+      "source_title": "European mobile networks lose ground in the global 5G race",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-mobile-networks-lose-ground-in-global-5g-race",
+      "source_date": "2026-01-26",
+      "country_focus": "EU"
+    },
+    {
+      "index": 25,
+      "title": "Regulatory pressure on network reliability amidst price competition",
+      "description": "Mobile network outages in 2025 across several European countries (Spain, Netherlands, UK, France) are leading regulators to pay closer attention to network reliability, given telecom's role as critical infrastructure. This poses a significant challenge for operators, who must improve network speed and reliability while intense competition makes it difficult to increase prices. This dynamic could squeeze margins further, forcing operators to invest in infrastructure upgrades without corresponding revenue growth.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-01-26",
+      "source_doc_id": "4cf248d5-051c-5842-9412-946b9ff2a816",
+      "source_title": "European mobile networks lose ground in the global 5G race",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-mobile-networks-lose-ground-in-global-5g-race",
+      "source_date": "2026-01-26",
+      "country_focus": "EU"
+    },
+    {
+      "index": 26,
+      "title": "5G bandwidth enables new AI and IoT customer services",
+      "description": "The combination of 5G bandwidth and rapid Generative AI (GenAI) developments will enable the reimagining of core business models for telecom operators. This convergence will allow for bundling AI and Internet of Things (IoT) capabilities to create and deploy more customer-centric, personalized services. This leverages the pace of GenAI into new and existing customer segments and categories, facilitating new revenue streams and transforming service delivery, enhancing customer experience and operational efficiency.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2025-09-26",
+      "source_doc_id": "739fae2c-8c19-59b0-aade-0fd1ca8571e3",
+      "source_title": "Bank of Ireland Sectors Team — Technology, Media and Telecoms (TMT) H1 2025 Insights / H2 2025 Outlook September 2025",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2025/09/TMT-Insights-and-Outlook-H2-2025.pdf",
+      "source_date": "2025-09-26",
+      "country_focus": "IE"
+    },
+    {
+      "index": 27,
+      "title": "ComReg's SMS Sender ID registry improving trust and reducing scams",
+      "description": "Ireland's ComReg is implementing a new SMS Sender ID registry, fully effective from October 2025, to block unregistered SMS sender IDs. This crucial intervention aims to combat SMS scams, which have significantly eroded trust and cost the Irish economy over €300 million annually. The initiative is projected to yield €1.2 billion in net financial benefits by 2030, alongside vast societal gains, restoring trust in SMS as a widely used communication channel for both businesses and consumers.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2025-09-26",
+      "source_doc_id": "739fae2c-8c19-59b0-aade-0fd1ca8571e3",
+      "source_title": "Bank of Ireland Sectors Team — Technology, Media and Telecoms (TMT) H1 2025 Insights / H2 2025 Outlook September 2025",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2025/09/TMT-Insights-and-Outlook-H2-2025.pdf",
+      "source_date": "2025-09-26",
+      "country_focus": "IE"
+    },
+    {
+      "index": 28,
+      "title": "AI for customer service automation and personalization",
+      "description": "Generative AI is significantly advancing customer service in European telecoms, enabling both cost savings and hyper-personalization. AI systems process large volumes of customer data, allowing operators to predict preferences and offer tailored plans, add-ons, and solutions that meet individual needs (e.g., Swisscom). This also facilitates cross-selling and upselling, driven by AI's predictive analytics, enhancing customer experience while simultaneously improving operational efficiency and generating additional revenue streams.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2025-01-15",
+      "source_doc_id": "857167d4-5ece-56c0-a172-060503928def",
+      "source_title": "How AI could drive growth in European telecoms",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-ai-could-drive-growth-in-european-telecoms",
+      "source_date": "2025-01-15",
+      "country_focus": "EU"
+    },
+    {
+      "index": 29,
+      "title": "AI-driven capex optimization and predictive maintenance",
+      "description": "AI is critical for optimizing capital expenditure (capex) in telecom, a significant challenge given operators' decreased creditworthiness and ongoing 5G/fiber rollouts. AI enables predictive maintenance by analyzing real-time network equipment data, reducing unexpected downtime and maintenance costs by replacing hardware only when necessary (e.g., Deutsche Telekom). It also aids efficient network expansion planning by using machine learning to identify optimal investment areas based on traffic patterns and user behavior, ensuring smarter capital allocation and improved financial performance.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2025-01-15",
+      "source_doc_id": "857167d4-5ece-56c0-a172-060503928def",
+      "source_title": "How AI could drive growth in European telecoms",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-ai-could-drive-growth-in-european-telecoms",
+      "source_date": "2025-01-15",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Telcos risk AI cost creep if not proactively managed",
+      "description": "Scaling AI without redesigning workflows and governance can add significant token costs to legacy operations. This risks higher operating expenses without proportional gains in productivity, customer experience, or growth. The effective cost per task might stay flat or increase as usage balloons, due to unoptimized model choice and bolting AI onto existing, complex processes. Proactive management and a focus on cost per business outcome are critical to avoid this pitfall.",
+      "stance": "cautious_negative",
+      "source_firm": "Bain",
+      "source_date": "2026-09-10",
+      "source_doc_id": "2b91867f-70ab-59e5-877c-d5dc2005a422",
+      "source_title": "AI in Telecom: The Opex Reckoning",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/ai-in-telecom-the-opex-reckoning",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Quantum technology poses immediate, multi-faceted challenge for telcos",
+      "description": "Quantum technology, encompassing post-quantum cryptography (PQC), quantum computing, and quantum communications, presents an outsized and immediate challenge for telecom carriers. It profoundly impacts network security, infrastructure strategy, and regulation, especially PQC due to 'harvest now, decrypt later' threats. Carriers must address these distinct domains with different timelines and organizational responses to avoid both premature overinvestment and dangerous complacency, securing their role in national communications infrastructure.",
+      "stance": "cautious_negative",
+      "source_firm": "Bain",
+      "source_date": "2026-06-05",
+      "source_doc_id": "61f33b7d-15b4-5e50-9b45-c83e485c6356",
+      "source_title": "How Telecom Carriers Are Preparing for Quantum",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/how-telecom-carriers-are-preparing-for-quantum",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Ireland's high AI adoption drives workforce rebalancing, not job losses",
+      "description": "Ireland demonstrates high AI adoption, with approximately 43% of private-sector organizations actively using AI tools, a figure comparable across all organization sizes and exceeding the EU average. While some headcount reductions in tech are attributed to AI, the broader impact is seen as role rebalancing and evolving skills needs, with 60% of organizations modifying graduate recruitment strategies to prioritize AI capabilities. This indicates a shift in workforce dynamics rather than widespread job displacement.",
+      "stance": "cautious_positive",
+      "source_firm": "Bank of Ireland",
+      "source_date": "2026-05-19",
+      "source_doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "source_title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 4,
+      "title": "Telecom industry at an inflection point due to converging strategic forces",
+      "description": "The telecom industry is navigating significant turbulence, facing multiple strategic decisions that could prove existential. Converging forces such as AI, network autonomy, sovereignty, satellite integration, and post-quantum security are fundamentally reshaping the industry’s economic and strategic foundations. Success hinges on operators scaling beyond pilots to full execution, prioritizing initiatives that deliver tangible value, and proactively building resilience and trust within the evolving digital ecosystem of the future.",
+      "stance": "cautious_positive",
+      "source_firm": "Bain",
+      "source_date": "2026-03-05",
+      "source_doc_id": "cd02dfff-10b7-5bb0-887e-1527ce839512",
+      "source_title": "MWC 2026: Telecoms at the Inflection Point",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/mwc-2026-telecoms-at-the-inflection-point",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "AI provides rare opportunity for telcos to reset network economics",
+      "description": "Facing structural long-term pressures from rising network complexity, high customer expectations, and decelerating data traffic growth, leading telecom operators view AI as a unique opportunity. AI can embed differentiated services in telco value propositions, enable operators to become the AI infrastructure backbone, and fundamentally transform operations. Specifically, AI can reimagine network economics, deliver exceptional performance, protect margins in mature markets, enable disciplined growth, and unlock new, differentiated revenue streams.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-02-27",
+      "source_doc_id": "ff728b57-5b15-59f0-b6ff-b1d87cff7146",
+      "source_title": "Issue Brief: AI-driven telecom networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-ai-driven-telecom-networks",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "European telecom sector to see modest revenue and EBITDA growth in 2026",
+      "description": "ING forecasts a positive outlook for European telecoms in 2026, anticipating 2% sales growth driven by new services (e.g., bundles, higher speeds, low-latency gaming) and price increases. EBITDA growth is expected to be slightly higher, around 2.5%, thanks to ongoing cost rationalization efforts, including network automation, AI-driven customer service, and copper switch-off. However, capital expenditure will remain elevated at approximately 20% of sales due to 5G Standalone upgrades and fiber extensions.",
+      "stance": "cautious_positive",
+      "source_firm": "ING Think",
+      "source_date": "2026-01-26",
+      "source_doc_id": "3003d789-48b7-56c3-975b-a1b793227d80",
+      "source_title": "European telecoms set to see modest growth in 2026",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-telecoms-set-to-see-modest-growth-in-2026",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Europe risks falling behind in global 5G race due to delayed investment",
+      "description": "Europe's mobile networks are losing ground in the global 5G race, specifically in top speeds and advanced services like 5G standalone, compared to Asia, the USA, and the Middle East. This lag is primarily attributed to European telecom companies struggling with profitability, which delays crucial investments in technological leadership. While 5G availability is widespread, the inability to deliver cutting-edge speeds and services is a significant concern for broader economic productivity.",
+      "stance": "cautious_negative",
+      "source_firm": "ING Think",
+      "source_date": "2026-01-26",
+      "source_doc_id": "4cf248d5-051c-5842-9412-946b9ff2a816",
+      "source_title": "European mobile networks lose ground in the global 5G race",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-mobile-networks-lose-ground-in-global-5g-race",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "AI adoption cautious but accelerating, promises reimagined business models",
+      "description": "While 98% of businesses have initiated their AI journey, only 6% have deployed it at scale, indicating a cautious approach. However, Generative AI (GenAI) is rapidly becoming ubiquitous, integrated into off-the-shelf software and conversational interfaces like 'vibe coding'. This acceleration, coupled with expanding 5G bandwidth, will enable the reimagining of core business models to bundle AI and IoT. This will create more customer-centric, personalized services and potentially transform workforce dynamics by empowering 'citizen developers'.",
+      "stance": "cautious_positive",
+      "source_firm": "Bank of Ireland",
+      "source_date": "2025-09-26",
+      "source_doc_id": "739fae2c-8c19-59b0-aade-0fd1ca8571e3",
+      "source_title": "Bank of Ireland Sectors Team — Technology, Media and Telecoms (TMT) H1 2025 Insights / H2 2025 Outlook September 2025",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2025/09/TMT-Insights-and-Outlook-H2-2025.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 9,
+      "title": "AI offers dual potential for cost reduction and revenue enhancement",
+      "description": "AI presents a crucial opportunity for European telecom operators to drive growth by both reducing costs and enhancing revenue streams. Initial impacts are observed in customer service, but AI is increasingly applied to network efficiency, predictive maintenance, and capital expenditure optimization. This dual capability is vital as telcos face pressure to improve margins and cut operational costs, enabling personalized services, smarter network planning, and fostering sustainable growth in a competitive digital landscape.",
+      "stance": "positive",
+      "source_firm": "ING Think",
+      "source_date": "2025-01-15",
+      "source_doc_id": "857167d4-5ece-56c0-a172-060503928def",
+      "source_title": "How AI could drive growth in European telecoms",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-ai-could-drive-growth-in-european-telecoms",
+      "country_focus": "EU"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Quantum Key Distribution (QKD) offers physics-layer security, making it attractive for high-value metro segments like government, finance, healthcare, and critical infrastructure, where customers are willing to pay a premium for enhanced security. This represents an opportunity for carriers with existing fiber assets to build institutional knowledge and test commercial viability.",
+          "opportunity": "QKD services for high-value segments"
+        }
+      ],
+      "methodology": "Opportunity for carriers to pilot Quantum Key Distribution (QKD) for high-value segments where provable security commands a premium, leveraging their fiber assets. Examples include government, finance, healthcare, and critical infrastructure.",
+      "source_firm": "Bain",
+      "source_date": "2026-06-05",
+      "data_confidence": "medium",
+      "source_doc_id": "61f33b7d-15b4-5e50-9b45-c83e485c6356",
+      "source_title": "How Telecom Carriers Are Preparing for Quantum",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/how-telecom-carriers-are-preparing-for-quantum",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Satellite service providers are increasingly marketing D2D capabilities, offering a complementary layer to terrestrial networks, particularly where traditional mobile or fixed alternatives are not feasible (e.g., remote areas, at sea, on mountains). Telecom operators can partner to offer D2D connectivity to enhance coverage and provide seamless connectivity to customers.",
+          "opportunity": "Direct-to-device (D2D) satellite connectivity"
+        }
+      ],
+      "methodology": "Opportunity for telecom operators to partner with satellite service providers to offer direct-to-device (D2D) connectivity as a complementary service, addressing coverage gaps and enhancing ubiquitous access for 4G and 5G smartphones.",
+      "source_firm": "Bain",
+      "source_date": "2026-03-05",
+      "data_confidence": "medium",
+      "source_doc_id": "cd02dfff-10b7-5bb0-887e-1527ce839512",
+      "source_title": "MWC 2026: Telecoms at the Inflection Point",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/mwc-2026-telecoms-at-the-inflection-point",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "AI-driven capex optimization",
+          "description": "AI-based planning engines result in 10-20% lower greenfield rollout capex, 15-35% lower upgrade capex, and reallocation of 20-30% of annual capex from low-ROI interventions. This improves capital efficiency by simulating rollout/upgrade scenarios and optimizing for CX, traffic, churn, and ARPU."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "AI can detect anomalies, diagnose causes, execute corrective actions, validate outcomes, and escalate only when necessary, significantly improving incident resolution speed and reducing manual intervention. This moves beyond isolated fault detection to a complete workflow redesign.",
+          "opportunity": "Autonomous network incident resolution"
+        },
+        {
+          "description": "AI can analyze customer data and predict churn, enabling telcos to intervene proactively with personalized offers or services, improving customer retention and ARPU.",
+          "opportunity": "Proactive churn prevention"
+        },
+        {
+          "description": "AI can generate highly personalized business-to-business proposals by leveraging large datasets, improving sales efficiency and potentially increasing revenue from enterprise customers.",
+          "opportunity": "Personalized B2B proposal generation"
+        },
+        {
+          "description": "AI-enabled self-service kiosks can be deployed in locations where conventional stores are not viable, expanding reach and serving customers in rural or underserved communities, opening new subscriber acquisition channels.",
+          "opportunity": "Fully self-service retail experiences"
+        },
+        {
+          "description": "As AI workloads become more distributed, enterprises increasingly require software-defined network services. These services dynamically manage latency, routing, bandwidth, and regulatory constraints across complex cloud and hybrid environments, creating an opportunity for telcos to offer sophisticated, AI-driven connectivity solutions beyond basic capacity.",
+          "opportunity": "Intelligent network services and cloud interconnect"
+        }
+      ],
+      "methodology": "AI-based planning engines result in 10-20% lower greenfield rollout capex, 15-35% lower upgrade capex, and reallocation of 20-30% of annual capex from low-ROI interventions. This improves capital efficiency by simulating rollout/upgrade scenarios and optimizing for CX, traffic, churn, and ARPU.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-02-27",
+      "data_confidence": "high",
+      "source_doc_id": "ff728b57-5b15-59f0-b6ff-b1d87cff7146",
+      "source_title": "Issue Brief: AI-driven telecom networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-ai-driven-telecom-networks",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 2.0,
+      "forecast_cagr_period": "2026",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "New services",
+          "description": "Introduction of bigger bundles, higher speeds, and low-latency gaming packages drives customer adoption and revenue."
+        },
+        {
+          "driver": "Price increases",
+          "description": "Operators implementing price adjustments contribute to top-line growth."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Discounts to new customers",
+          "description": "Promotional offers to attract new subscribers can reduce average revenue."
+        },
+        {
+          "driver": "Price pressures in value segment",
+          "description": "Competition in the lower-priced segments can limit revenue growth."
+        },
+        {
+          "driver": "Low ARPU in competitive markets",
+          "description": "Average Revenue Per User remains low in highly competitive markets such as Italy and Spain, and potentially Belgium with new entrants."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Forecast based on the sale of new services (e.g., bigger bundles, higher speeds, low-latency gaming) and price increases. Revenues held back by discounts, price pressures in value segments, and low ARPU in some markets (Italy, Spain, Belgium due to new entrant Digi).",
+      "source_firm": "ING Think",
+      "source_date": "2026-01-26",
+      "data_confidence": "high",
+      "source_doc_id": "3003d789-48b7-56c3-975b-a1b793227d80",
+      "source_title": "European telecoms set to see modest growth in 2026",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-telecoms-set-to-see-modest-growth-in-2026",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 2.5,
+      "forecast_cagr_period": "2026",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Cost savings from automation",
+          "description": "Measures such as copper switch-off, network automation, and the use of AI for customer service reduce operating costs, boosting EBITDA."
+        },
+        {
+          "driver": "Reorganization costs",
+          "description": "Companies undergoing restructuring (e.g., Telefonica, BT, Telia) incur one-off expenses that can offset some savings."
+        },
+        {
+          "driver": "Investment in AI tools",
+          "description": "Costs associated with implementing and scaling new AI technologies add to operational expenditure."
+        },
+        {
+          "driver": "5G service development costs",
+          "description": "Developing and launching new 5G services requires ongoing investment."
+        },
+        {
+          "driver": "Subscriber acquisition costs",
+          "description": "In competitive markets, the cost of acquiring new subscribers can be elevated, impacting profitability."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Forecast based on cost rationalization (copper switch-off, network automation, AI for customer service) outpacing new costs from AI tools, reorganization, and 5G service development. Expected to outpace revenue growth by 0.5%.",
+      "source_firm": "ING Think",
+      "source_date": "2026-01-26",
+      "data_confidence": "high",
+      "source_doc_id": "3003d789-48b7-56c3-975b-a1b793227d80",
+      "source_title": "European telecoms set to see modest growth in 2026",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-telecoms-set-to-see-modest-growth-in-2026",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "High investment needs for 5G SA",
+          "description": "Prioritizing the rollout of 5G Standalone networks requires significant capital expenditure."
+        },
+        {
+          "driver": "Fiber rollout completion (offset)",
+          "description": "While fiber rollout completion could reduce capex in some areas, this is offset by ongoing needs to connect homes passed and investments in mobile infrastructure and AI services."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Expected to be in the 20% area for 2026, driven by prioritized investments in 5G Standalone networks, connecting passed homes for fiber, new mobile sites/upgraded antennas, and AI service development, offsetting potential reductions from fiber rollout completion.",
+      "source_firm": "ING Think",
+      "source_date": "2026-01-26",
+      "data_confidence": "high",
+      "source_doc_id": "3003d789-48b7-56c3-975b-a1b793227d80",
+      "source_title": "European telecoms set to see modest growth in 2026",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-telecoms-set-to-see-modest-growth-in-2026",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Enhanced Mobile Broadband (eMBB), a primary service category for 5G SA, provides available capacity for Fixed Wireless Access (FWA). This enables telcos to offer high-speed internet to homes and businesses using mobile network infrastructure, expanding broadband reach and competition, particularly in areas where fiber is not yet deployed.",
+          "opportunity": "Fixed Wireless Access (FWA) via Enhanced Mobile Broadband (eMBB)"
+        }
+      ],
+      "methodology": "Fixed Wireless Access (FWA) is identified as a tangible benefit and new opportunity derived from Enhanced Mobile Broadband (eMBB) capabilities under 5G SA, enabling high-speed internet to homes and businesses using mobile networks.",
+      "source_firm": "ING Think",
+      "source_date": "2026-01-26",
+      "data_confidence": "high",
+      "source_doc_id": "4cf248d5-051c-5842-9412-946b9ff2a816",
+      "source_title": "European mobile networks lose ground in the global 5G race",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-mobile-networks-lose-ground-in-global-5g-race",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Lower device costs",
+          "description": "Reduced cost of IoT devices enables more use cases and wider adoption."
+        },
+        {
+          "driver": "Broader service packages",
+          "description": "Expansion of service offerings to include (factory) logistics, transportation, and location services increases demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The rising significance of low-value subscriptions for IoT-based services, driven by lower device costs enabling more use cases, presents a growing revenue stream. Combined with broader service packages focusing on (factory) logistics, transportation, and location services, this opens new opportunities for telcos to expand beyond traditional mobile subscriptions into industrial and enterprise segments.",
+          "opportunity": "IoT-based services with low-value subscriptions"
+        }
+      ],
+      "methodology": "Identified as a growing segment with increasing significance due to lower device costs and new service packages focusing on logistics, transportation, and location services.",
+      "source_firm": "ING Think",
+      "source_date": "2026-01-26",
+      "data_confidence": "high",
+      "source_doc_id": "4cf248d5-051c-5842-9412-946b9ff2a816",
+      "source_title": "European mobile networks lose ground in the global 5G race",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-mobile-networks-lose-ground-in-global-5g-race",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "5G performance advantage over Wi-Fi",
+          "description": "5G often works better than Wi-Fi for private networks, offering superior performance and reliability."
+        },
+        {
+          "driver": "Telecom network operator scale",
+          "description": "Operators possess greater scale in network deployment and management, making them ideal providers for private networks."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "While not many examples exist yet, 5G often outperforms Wi-Fi, and telecom network operators possess greater scale. This creates an expectation for the development of private network use cases in 2026, offering customized and secure connectivity solutions for enterprises (e.g., factories, logistics hubs), representing a new revenue stream beyond public mobile services.",
+          "opportunity": "Private network services"
+        }
+      ],
+      "methodology": "Expected development of use cases in 2026 based on 5G's advantages over Wi-Fi and telco scale, indicating a new market for customized enterprise connectivity.",
+      "source_firm": "ING Think",
+      "source_date": "2026-01-26",
+      "data_confidence": "medium",
+      "source_doc_id": "4cf248d5-051c-5842-9412-946b9ff2a816",
+      "source_title": "European mobile networks lose ground in the global 5G race",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/european-mobile-networks-lose-ground-in-global-5g-race",
+      "country_focus": "EU"
+    },
+    {
+      "index": 10,
+      "tam_value": 2.16,
+      "tam_unit": "mn_units",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 26.0,
+      "historical_cagr_period": "2024-2025",
+      "demand_drivers": [
+        {
+          "driver": "Broadband availability expansion",
+          "description": "Ongoing expansion in overall broadband availability supports increased adoption of 5G services."
+        },
+        {
+          "driver": "Increased consumer adoption",
+          "description": "Growing number of consumers subscribing to 5G services."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Data from ComReg's Electronic Communications Sector Quarterly Report for Q2 2025. This figure represents an increase of 26% year-on-year.",
+      "source_firm": "Bank of Ireland",
+      "source_date": "2025-09-26",
+      "data_confidence": "high",
+      "source_doc_id": "739fae2c-8c19-59b0-aade-0fd1ca8571e3",
+      "source_title": "Bank of Ireland Sectors Team — Technology, Media and Telecoms (TMT) H1 2025 Insights / H2 2025 Outlook September 2025",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2025/09/TMT-Insights-and-Outlook-H2-2025.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 11,
+      "tam_value": 10.6,
+      "tam_unit": "mn_units",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "General demand for mobile connectivity",
+          "description": "Overall growth in the number of mobile connections, including for mobile broadband and machine-to-machine (M2M) applications."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Data from ComReg's Electronic Communications Sector Quarterly Report for Q2 2025. Includes mobile broadband and machine-to-machine subscriptions.",
+      "source_firm": "Bank of Ireland",
+      "source_date": "2025-09-26",
+      "data_confidence": "high",
+      "source_doc_id": "739fae2c-8c19-59b0-aade-0fd1ca8571e3",
+      "source_title": "Bank of Ireland Sectors Team — Technology, Media and Telecoms (TMT) H1 2025 Insights / H2 2025 Outlook September 2025",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2025/09/TMT-Insights-and-Outlook-H2-2025.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 12,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Vodafone and AST SpaceMobile signed an agreement to create a European D2D satellite service network, directly accessible by 4G and 5G smartphones. This technology provides coverage where no feasible mobile or fixed alternative exists (e.g., rural areas, at sea, on mountains), ensuring seamless connectivity and opening new market segments for mobile network operators.",
+          "opportunity": "European direct-to-device (D2D) satellite service network"
+        }
+      ],
+      "methodology": "New service network being created through a partnership between Vodafone and AST SpaceMobile to provide direct-to-device (D2D) satellite service, offering coverage where no feasible mobile or fixed alternative currently exists, targeting MNOs in all European markets.",
+      "source_firm": "Bank of Ireland",
+      "source_date": "2025-09-26",
+      "data_confidence": "high",
+      "source_doc_id": "739fae2c-8c19-59b0-aade-0fd1ca8571e3",
+      "source_title": "Bank of Ireland Sectors Team — Technology, Media and Telecoms (TMT) H1 2025 Insights / H2 2025 Outlook September 2025",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2025/09/TMT-Insights-and-Outlook-H2-2025.pdf",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "Bain",
+    "Bank of Ireland",
+    "McKinsey",
+    "ING Think"
+  ],
+  "documents": [
+    {
+      "doc_id": "2b91867f-70ab-59e5-877c-d5dc2005a422",
+      "title": "AI in Telecom: The Opex Reckoning",
+      "publisher": "bain",
+      "date": "2026-09-10",
+      "url": "https://www.bain.com/insights/ai-in-telecom-the-opex-reckoning"
+    },
+    {
+      "doc_id": "61f33b7d-15b4-5e50-9b45-c83e485c6356",
+      "title": "How Telecom Carriers Are Preparing for Quantum",
+      "publisher": "bain",
+      "date": "2026-06-05",
+      "url": "https://www.bain.com/insights/how-telecom-carriers-are-preparing-for-quantum"
+    },
+    {
+      "doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "publisher": "bank_of_ireland",
+      "date": "2026-05-19",
+      "url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf"
+    },
+    {
+      "doc_id": "cd02dfff-10b7-5bb0-887e-1527ce839512",
+      "title": "MWC 2026: Telecoms at the Inflection Point",
+      "publisher": "bain",
+      "date": "2026-03-05",
+      "url": "https://www.bain.com/insights/mwc-2026-telecoms-at-the-inflection-point"
+    },
+    {
+      "doc_id": "ff728b57-5b15-59f0-b6ff-b1d87cff7146",
+      "title": "Issue Brief: AI-driven telecom networks",
+      "publisher": "mckinsey",
+      "date": "2026-02-27",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-ai-driven-telecom-networks"
+    },
+    {
+      "doc_id": "3003d789-48b7-56c3-975b-a1b793227d80",
+      "title": "European telecoms set to see modest growth in 2026",
+      "publisher": "ing_think",
+      "date": "2026-01-26",
+      "url": "https://think.ing.com/articles/european-telecoms-set-to-see-modest-growth-in-2026"
+    },
+    {
+      "doc_id": "4cf248d5-051c-5842-9412-946b9ff2a816",
+      "title": "European mobile networks lose ground in the global 5G race",
+      "publisher": "ing_think",
+      "date": "2026-01-26",
+      "url": "https://think.ing.com/articles/european-mobile-networks-lose-ground-in-global-5g-race"
+    },
+    {
+      "doc_id": "739fae2c-8c19-59b0-aade-0fd1ca8571e3",
+      "title": "Bank of Ireland Sectors Team — Technology, Media and Telecoms (TMT) H1 2025 Insights / H2 2025 Outlook September 2025",
+      "publisher": "bank_of_ireland",
+      "date": "2025-09-26",
+      "url": "https://www.thinkbusiness.ie/app/uploads/2025/09/TMT-Insights-and-Outlook-H2-2025.pdf"
+    },
+    {
+      "doc_id": "857167d4-5ece-56c0-a172-060503928def",
+      "title": "How AI could drive growth in European telecoms",
+      "publisher": "ing_think",
+      "date": "2025-01-15",
+      "url": "https://think.ing.com/articles/how-ai-could-drive-growth-in-european-telecoms"
+    }
+  ]
+}

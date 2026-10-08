@@ -1,0 +1,412 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Transformer supply shortfalls hinder renewable capacity expansion",
+      "description": "Global shortfalls in transformer supply are creating significant bottlenecks, impacting the expansion of grid-connected renewable energy projects in the UK. Transformers are crucial for integrating offshore wind into the grid, and their unavailability can stall interconnection queues, delay new capacity additions, and push back build-out timelines. This constrained supply, expected to grow, directly limits the ability of renewable power generators to connect to the grid and achieve operational capacity, increasing project risks and costs.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18"
+    },
+    {
+      "index": 2,
+      "title": "Price compression and commoditization affect utility-scale solar PV profitability",
+      "description": "The utility-scale solar PV segment faces significant price compression and increasing commoditization, making it a lower-complexity market where competition primarily revolves around cost optimization and supply chain scale. This dynamic implies reduced profit margins and intense competitive pressures for developers and operators of utility-scale solar projects. Customers prioritize total cost of ownership, driving down revenues per unit of energy and challenging the financial viability of new projects, necessitating a relentless focus on efficiency and cost reduction.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities",
+      "source_date": "2026-09-10"
+    },
+    {
+      "index": 3,
+      "title": "Low UK local content in offshore wind reduces domestic economic benefit",
+      "description": "The UK's offshore wind sector exhibits substantially lower local content (around 36% for fixed-bottom and 38% for floating projects) compared to oil and gas. This signifies that a smaller proportion of project expenditure remains within the UK economy, limiting job creation, economic growth, and the development of domestic industrial capabilities. Manufacturing capacity limitations, international competition, and high energy costs for industrial processes contribute to overseas suppliers being more competitive, hindering the full economic benefits of offshore wind deployment in the UK.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 4,
+      "title": "Rising capital costs, supply chain issues, and auction designs cool developer appetite",
+      "description": "European offshore wind development, including in the UK, is suffering from surging capital costs, persistent supply chain bottlenecks, and unfavorable auction designs. These factors collectively deteriorate project economics and make expected returns insufficient to justify development risks. Even major, well-capitalized developers are scaling back offshore wind plans, leading to instances like failed auctions. This trend directly threatens the pipeline and pace of new renewable generation capacity additions, posing a significant challenge to the UK's energy transition targets.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "source_date": "2026-09-04"
+    },
+    {
+      "index": 5,
+      "title": "Grid congestion, curtailment, and negative pricing erode renewable profitability",
+      "description": "The increasing intermittency and decentralization of renewable energy sources in Europe (including the UK) lead to grid congestion and temporal mismatches between supply and demand. This results in record volumes of voluntarily curtailed renewable power and frequent hours of negative pricing, especially during peak generation periods. Such curtailment and price cannibalization directly reduce the revenue and profitability of grid-connected renewable generators, posing a significant financial risk and making it harder to secure investment for new projects.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "source_date": "2026-09-04"
+    },
+    {
+      "index": 6,
+      "title": "Renewables require more transformer capacity due to dispersion and intermittency",
+      "description": "Grid-connected renewable energy sources, such as offshore wind and solar, inherently demand more transformer capacity per unit of delivered energy compared to conventional sources. This is due to generation assets being located further from load centers, lower utilization rates of intermittent renewables requiring more installed capacity for equivalent output, and the dispersed nature of numerous smaller sites multiplying grid connection points. This structural requirement increases the infrastructure investment and complexity for integrating new renewable generation into the grid.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18"
+    },
+    {
+      "index": 7,
+      "title": "Shift to policy-backed revenues with CfDs for renewable generation",
+      "description": "The European energy sector, including the UK, is moving away from pure merchant markets towards long-term support mechanisms like two-way Contracts for Difference (CfDs) for new renewable projects. This shift, formalized in the EU Electricity Market Design Reform, provides greater revenue and cash flow visibility and stable, infrastructure-like returns. This reduces reliance on wholesale market volatility, making capital-intensive renewable projects more attractive to investors by de-risking revenue streams and increasing profitability predictability.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "source_date": "2026-09-04"
+    },
+    {
+      "index": 8,
+      "title": "Re-emergence of integrated utility models driven by market volatility",
+      "description": "The energy sector is seeing a return to integrated utility models where entities control power generation (including renewables), network operations, and retail. This shift is a response to high wholesale price volatility and the capital intensity of new generation assets, which acutely expose unbundled retail providers. For renewable generators, this integration allows for better hedging against price spikes, improved cash flow visibility through forward integration into energy management and PPAs, and potentially higher returns on invested capital due to optimized risk-return and trading operations.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "source_date": "2026-09-04"
+    },
+    {
+      "index": 9,
+      "title": "Decentralized, intermittent renewables increase grid complexity and flexibility needs",
+      "description": "The rapid expansion of distributed, intermittent renewable energy sources (like solar and wind) makes power systems increasingly decentralized, complex, and intermittent. This leads to a higher number of grid connection points, widening the distance and creating temporal mismatches between generation and demand. This structural shift necessitates significant investment in grid capacity, storage, and flexibility solutions to ensure clean power is usable when and where needed, posing a core challenge for the efficient integration and economic viability of IN100102 assets.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "source_date": "2026-09-04"
+    },
+    {
+      "index": 10,
+      "title": "Electrification drives robust demand growth for power generation",
+      "description": "European power demand, including in the UK, is projected to grow robustly from 3,000 TWh in 2025 to 4,300 TWh in 2040, driven by widespread electrification of transport, heating, industry, and data centers. This structural increase in electricity consumption creates a strong and sustained demand environment for grid-connected renewable power generation, necessitating a significant acceleration in supply. Renewables (solar, wind, hydro, biomass) are expected to meet approximately 95% of this increased demand, signaling a substantial growth opportunity.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "source_date": "2026-09-04"
+    },
+    {
+      "index": 11,
+      "title": "Sustained investment in power generation and grid infrastructure crucial for UK energy transition",
+      "description": "The UK is experiencing consecutive years of electricity demand growth, driven by the electrification of transport, heating, and industry as part of its energy transition. Meeting this increasing demand necessitates sustained investment in power generation (including renewables), networks, storage, and system flexibility. This ongoing requirement for infrastructure and generation capacity creates a stable and growing investment environment for grid-connected renewable power projects, underpinning their long-term development and contribution to the UK's energy mix.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 12,
+      "title": "Energy security and reduced import dependency boost domestic renewable production",
+      "description": "Increased global energy market volatility and Europe's (including the UK) high reliance on energy imports are driving a strategic focus on domestic energy production and supply chain resilience. This imperative, reinforced by geopolitical shocks and regulatory disruptions, strengthens the case for expanding local generation capacity from renewable sources. Policies aimed at improving energy sovereignty and diversifying supply, such as the EU's renewable energy targets and offshore wind goals, act as a significant tailwind for grid-connected renewable projects in the UK.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 13,
+      "title": "Allocation Round 7 awards significant offshore wind capacity in UK",
+      "description": "The UK's Allocation Round 7 (AR7) has awarded contracts to roughly 8 GW of offshore wind capacity, representing half of the currently installed capacity. This substantial increase in awarded capacity is a significant positive development for the Power Generation — Renewable (Grid-Connected) sector, specifically for offshore wind. It provides a clear project pipeline for developers and signals continued government support, driving future investment and deployment in the UK's largest renewable electricity source.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 14,
+      "title": "IPP integration into energy management and trading boosts ROIC",
+      "description": "Independent Power Producers (IPPs) operating grid-connected renewable assets can significantly improve their Return on Invested Capital (ROIC) by approximately two percentage points through forward integration into energy management, trading, Power Purchase Agreements (PPAs), and retail. This strategy helps reduce merchant exposure, secure generation asset offtake, optimize short-term dispatch, and capture flexibility value. It also improves cash flow visibility, creating a compelling upside opportunity for IN100102 players to enhance profitability and financial resilience.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "source_date": "2026-09-04"
+    },
+    {
+      "index": 15,
+      "title": "Offshore wind cost reductions needed for consumer bill impact",
+      "description": "While Allocation Round 7 awarded 8 GW of offshore wind capacity, Offshore Energies UK (OEUK) emphasizes that further cost reductions are required in forthcoming allocation rounds. This is critical to ensure a tangible impact on consumer bills and to strengthen the UK's competitive position as a leader in offshore wind. Failure to achieve these cost efficiencies could undermine public support, slow deployment, or increase the financial burden on consumers, posing a risk to the long-term, sustainable growth of the sector.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Offshore wind pivotal for UK's secure, affordable, lower-carbon energy system",
+      "description": "OEUK asserts that the UK's offshore energy industry is dedicated to establishing a secure, affordable, and lower-carbon energy system, identifying offshore wind as a crucial contributor. The trade association, representing offshore wind alongside oil & gas, hydrogen, and CCUS, highlights its vital role in achieving the UK's energy security and net-zero ambitions. This commitment positions offshore wind as a fundamental element of the nation's energy future, underpinning economic strength and skilled job creation.",
+      "stance": "positive",
+      "source_firm": "Offshore Energies UK (OEUK)",
+      "source_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "index": 2,
+      "title": "UK offshore wind deployment requires accelerated pace and cost reductions",
+      "description": "OEUK notes that while UK offshore wind generation met almost 20% of electricity supply last year (52 TWh, 17 GW installed), the 500 MW added in 2025 indicates a need for faster progress. Despite Allocation Round 7 (AR7) awarding a significant 8 GW, OEUK stresses that future allocation rounds must deliver substantial cost reductions. This is crucial for offshore wind to materially impact consumer bills and strengthen the UK's leadership in the field, indicating a cautious outlook on current deployment speed and cost efficiency.",
+      "stance": "cautious_positive",
+      "source_firm": "Offshore Energies UK (OEUK)",
+      "source_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "index": 3,
+      "title": "European offshore wind development slowed by rising costs and unfavorable auction designs",
+      "description": "McKinsey reports that developer interest in European offshore wind projects, including in the UK, has diminished. This cooling appetite is attributed to a combination of surging capital costs, persistent supply chain bottlenecks, and the design of recent auctions proving less favorable. The analysis points to instances like Germany’s and the Netherlands' offshore auctions closing without bids, with even well-capitalized players scaling back plans. This suggests significant headwinds for future offshore wind capacity deployment across Europe, including the UK.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 52.0,
+      "tam_unit": "TWh",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total electricity generated by offshore wind in the UK, representing almost 20% of the UK’s total electricity supply. Capacity refers to installed GW.",
+      "source_firm": "Offshore Energies UK (OEUK)",
+      "source_date": "2026-09-08",
+      "data_confidence": "high",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "index": 2,
+      "tam_value": 4300.0,
+      "tam_unit": "TWh",
+      "sam_value": null,
+      "as_of_year": 2040,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Electrification of Transport",
+          "description": "Driven by approximately 140 million electric vehicles (EVs) by 2040, contributing about 400 TWh to demand."
+        },
+        {
+          "driver": "Electrification of Buildings",
+          "description": "Driven by more than 55 million residential heat pumps by 2040."
+        },
+        {
+          "driver": "Data Center Expansion",
+          "description": "Contributing an increase of about 450 TWh to power consumption."
+        },
+        {
+          "driver": "Industrial Electrification",
+          "description": "Adding approximately 200 TWh of additional consumption from electrified industrial processes."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected European power demand, which includes EU-27, Norway, Switzerland, and the United Kingdom. This forecast indicates a structural increase from 3,000 TWh in 2025, driven primarily by the electrification of transport, buildings, data centers, and industry.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-04",
+      "data_confidence": "high",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2040,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Decarbonization Targets",
+          "description": "The need to meet ambitious European Union renewable energy sources (RES) targets, including a 42.5% share of final energy consumption by 2030 and 60 GW of installed offshore wind by 2030."
+        },
+        {
+          "driver": "Electrification Growth",
+          "description": "Increased power demand from sectors like transport, buildings, and industry requiring clean energy sources."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Share of Europe's power generation, including EU-27, Norway, Switzerland, and the United Kingdom. This figure highlights the projected dominance of renewable sources in the future energy mix, necessitating significant acceleration in supply.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-04",
+      "data_confidence": "high",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 7.0,
+      "forecast_cagr_period": "2025-2040",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Decarbonization Goals",
+          "description": "The push to meet renewable energy targets and reduce reliance on fossil fuels across Europe."
+        },
+        {
+          "driver": "Electrification Trends",
+          "description": "Growing electricity demand from various sectors like transport, heating, and industry."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecasted compound annual growth rates for specific renewable energy technologies within Europe (including the UK). These projections underscore the varying growth trajectories for different components of grid-connected renewable power generation.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-04",
+      "data_confidence": "high",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead"
+    }
+  ],
+  "sources": [
+    "Offshore Energies UK (OEUK)",
+    "McKinsey"
+  ],
+  "documents": [
+    {
+      "doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "title": "Economic Report 2026",
+      "publisher": "oeuk",
+      "date": "2026-09-08",
+      "url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "publisher": "mckinsey",
+      "date": "2026-09-04",
+      "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead"
+    },
+    {
+      "doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "title": "The transformer supercycle: Why demand is outrunning supply",
+      "publisher": "mckinsey",
+      "date": "2026-09-18",
+      "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply"
+    },
+    {
+      "doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "title": "The power conversion market: Decarbonization and growth opportunities",
+      "publisher": "mckinsey",
+      "date": "2026-09-10",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities"
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Structural rise in electricity demand drives grid investment",
+      "description": "A structural increase in electricity demand across Europe, fueled significantly by increasing electrification in industries and the expansion of data centers, is leading to a global surge in grid investment. This demand growth necessitates substantial upgrades and expansions of transmission networks to carry more electricity over longer distances and with greater flexibility.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Shift to renewables necessitates more transformer capacity per megawatt",
+      "description": "The rising share of renewable energy in the installed capacity (projected to reach 70% by 2035) significantly increases the demand for transformers in the transmission sector. This is due to renewables' generation often being far from load centers, lower utilization rates requiring more installed capacity, and the dispersed nature of these sources, all demanding more grid connection points and associated transformers.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Aging grid infrastructure replacement boosts transmission demand",
+      "description": "A substantial portion of the existing grid infrastructure in Europe has surpassed its 25- to 40-year design life, with failure rates increasing after about 30 years. This necessitates significant replacement investment, accounting for over 30% of current transformer demand. New replacement units are typically larger due to increased power needs, further driving demand for advanced transmission components.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Transformer supply constraints hinder grid expansion projects",
+      "description": "The global transformer industry is experiencing a 'supercycle' where demand is outrunning supply, leading to the system running at its limits. This supply-side constraint has resulted in a global backlog of over 1,000 GVA by 2024, projected to grow. An unavailable transformer can stall interconnection queues, delay new capacity additions, and push back grid build-out timelines across Europe, impacting power transmission projects.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Extended lead times for transformers delay project commissioning",
+      "description": "Lead times for transformers have drastically stretched from historical norms of about one year to up to five years. This extended duration for critical components directly impacts project timelines for grid operators, generation, industrial, and data center developers. Securing sourcing years ahead of planned commissioning dates has become a necessity to avoid significant delays in power transmission and associated infrastructure projects.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Surging transformer prices increase capital expenditure for grid projects",
+      "description": "Market prices for transformers have surged by over 50 percent since 2021, varying by size and region. This significant increase in the cost of a critical component for power transmission directly raises the capital expenditure for grid build-out and replacement projects. The price stability on current elevated levels, driven by the aggregated demand surplus, shifts market power to suppliers and poses financial challenges for utilities and grid operators.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Increased grid interconnectedness and storage needed for renewables",
+      "description": "To accommodate increasingly dispersed power flows from renewable sources and manage their intermittency, grids in Europe need to become more interconnected. This also necessitates more energy storage capacity, which is projected to reach approximately 2,300 GW by 2035. Each increment of storage and interconnectedness requires additional transformers and HVDC/power conversion equipment capable of handling bidirectional power flows, boosting demand for transmission infrastructure.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "Electrification of transport, buildings, and industry drives power demand",
+      "description": "The accelerating electrification of road transport (battery-electric vehicles), buildings (heat pumps), and industry as part of decarbonization efforts is a major source of rising electricity demand. This widespread shift from fossil fuels to electric technologies directly increases the load on existing power grids and necessitates significant investments in expanding and modernizing power transmission infrastructure to deliver the growing energy volumes.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "title": "Immaturity of solid-state transformers delays widespread deployment",
+      "description": "Solid-state transformers (SSTs), which offer advanced capabilities like active voltage control and bidirectional power flow, are not yet broadly deployed, especially in utility-scale applications. Their high cost, reliability concerns, complex protection requirements, and evolving grid standards act as headwinds. This delays the integration of potentially more efficient and flexible technologies into the transmission grid, keeping reliance on conventional transformers and their associated supply chain issues.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 10,
+      "title": "Supply chain bottlenecks for critical transformer materials",
+      "description": "Supply chains for key components, particularly electric-grade silicon steel (a core material in transformers), are constrained, facing multiyear backlogs. Demand for this material has tripled since 2015. Such bottlenecks directly impact the production capacity of transformers, exacerbating the supply shortage and further delaying grid build-out and upgrade projects within the power transmission sector.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-14",
+      "source_doc_id": "3d112d12-7588-5e3a-b39e-fed953872840",
+      "source_title": "Winning America’s Reindustrialization",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-us-manufacturers-win-the-buildout-boom",
+      "source_date": "2026-09-14",
+      "country_focus": "EU"
+    },
+    {
+      "index": 11,
+      "title": "Increased investment in grids and storage supports reliability",
+      "description": "Investments in grids and storage have stepped up to support overall reliability of the electric power system. This includes enhancing power transmission infrastructure to ensure stable and secure delivery of electricity, especially in the context of expanding domestic low-emissions power generation and increased electrification demands. These investments are crucial for managing new power flows and maintaining grid stability.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
+      "source_date": "2026-09-17",
+      "country_focus": "EU"
+    },
+    {
+      "index": 12,
+      "title": "HVDC transmission lines enhance efficiency for remote renewables",
+      "description": "Power companies are increasingly investing in DC–DC architecture, specifically High-Voltage DC (HVDC) transmission lines. These lines are crucial for efficiently carrying energy from remote renewable sources to load centers, as they lose less power over long distances compared to high-voltage alternate current lines. This technological advantage positions HVDC as a significant upside driver for power transmission infrastructure development, especially for integrating offshore wind and distant solar farms.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities",
+      "source_date": "2026-09-10",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Transformer supply constraint elevates procurement to strategic priority for grid operators",
+      "description": "McKinsey states that transformers, previously a routine procurement item, have become a strategic priority for energy infrastructure. For utilities and grid operators, securing transformer capacity early is now critical, necessitating multiyear framework agreements. This shift is driven by global supply chain limitations, with capacity, not demand, being the primary constraint for grid build-out. The sustained scarcity is expected to impact project timelines and costs.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Transformer supercycle indicates sustained demand and constrained supply into next decade",
+      "description": "McKinsey asserts that the transformer industry is entering a 'new normal' characterized by sustained high demand and persistent supply constraints. Despite significant projected growth in demand, the existing system is already at its limits, leading to backlogs and extended lead times. This situation is likely to keep the market tight well into the next decade, implying that accelerated grid replacements or renewable build-outs face significant hurdles.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Grid build-out delays and increased energy prices from transformer shortage",
+      "description": "McKinsey warns that a failure of the transformer industry to adapt to the supercycle's demands will result in delayed grid build-out and constrained capacity. This could lead to increased energy prices and reduced power access, alongside putting pressure on renewable energy expansion targets. The criticality of transformers for energy infrastructure necessitates strategic adaptation from all stakeholders to mitigate these risks.",
+      "stance": "negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Grid replacement and electrification drive sustained demand above historic levels",
+      "description": "McKinsey highlights that, for investors, the central distinction in the transformer market is the structural foundation beneath cyclical demand. Grid replacement initiatives and long-term electrification trends are expected to maintain demand for transformers and related grid infrastructure above historical levels. This provides a resilient underlying demand profile, supporting incumbents due to high entry barriers and lengthy qualification periods in the transformer manufacturing sector.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "country_focus": "EU"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 627.0,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising power demand",
+          "description": "Driven by increasing electrification across industries (e.g., road transport, heat pumps) and data center expansion."
+        },
+        {
+          "driver": "Renewables-heavy energy mix",
+          "description": "Renewables are often built far from load centers, operate at lower utilization, and are more dispersed, requiring more transformer capacity and grid interconnection per unit of delivered energy."
+        },
+        {
+          "driver": "Replacement of aging infrastructure",
+          "description": "Much of the existing grid infrastructure in Europe has exceeded its 25- to 40-year design life, necessitating replacement, often with larger capacity units."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected total grid investment needed in Europe to meet rising power demand, driven by electrification, data centers, and renewable energy integration. Transformers constitute 20-25% of this capital expenditure.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": 4.4,
+      "forecast_cagr_period": "2024-2035",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising power demand",
+          "description": "Fueled by data centers and electrification across various sectors, necessitating expanded and upgraded grid infrastructure."
+        },
+        {
+          "driver": "Renewables integration",
+          "description": "The increasing share of renewables requires more interconnected grids, often extending over longer distances, and additional storage capacity to manage intermittency, all demanding increased grid spending."
+        },
+        {
+          "driver": "Aging infrastructure replacement",
+          "description": "Replacement of older grid components, including transformers, which are often upgraded to larger capacities to meet growing power needs."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Global grid spending is projected to grow by approximately 4.4 percent annually through 2035, indicating a significant increase in capital deployed for power infrastructure, including transmission networks. This growth is a direct driver for transformer demand.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 8.3,
+      "forecast_cagr_period": "2024-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Grid investment surge",
+          "description": "Structural rise in electricity demand, electrification, and data center expansion driving a global surge in grid investment, directly translating to higher transformer demand."
+        },
+        {
+          "driver": "Renewables integration",
+          "description": "Shift toward renewable energy sources requires more transformers per megawatt due to generation moving away from load centers, lower asset utilization, and dispersed power sources."
+        },
+        {
+          "driver": "Aging fleet replacement",
+          "description": "Much of the existing transformer fleet in Europe and North America is reaching the end of its design life, requiring replacement, often with larger units."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecasted demand for the served power transformer market in Europe, reflecting supply-side expansions to address growing electricity needs and grid investments. This figure represents the installed capacity rather than monetary value.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "tam_value": 123.0,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2025-2035",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Grid replacement and long-term electrification",
+          "description": "These structural factors are expected to keep demand above historic levels, creating a larger installed base and higher baseline electricity demand."
+        },
+        {
+          "driver": "Backlog of deferred replacements",
+          "description": "A significant amount of aging infrastructure requires replacement, contributing to future demand."
+        },
+        {
+          "driver": "Shorter transformer lifetimes",
+          "description": "Heavier operating loads and lower-tier manufacturing quality contribute to shorter asset lifespans, accelerating replacement demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected global market value for transformers, critical components for power transmission. The market value is expected to climb from €87 billion in 2025 to €123 billion by 2035, driven by sustained demand and constrained supply.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "tam_value": 95.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 7.0,
+      "forecast_cagr_period": "2024-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "HVDC transmission lines",
+          "description": "Increasing investment in HVDC infrastructure to carry energy more efficiently from remote renewable sources to load centers."
+        },
+        {
+          "driver": "Renewable energy integration",
+          "description": "Inverters are essential for converting DC power from renewables into AC for grid use."
+        },
+        {
+          "driver": "Global electrification",
+          "description": "Electrification of mobility, industry, and building systems increases the demand for efficient and reliable power conversion technologies for grid integration."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "HVDC technology is critical for efficient long-distance power transmission, especially from remote renewable sources, and represents a significant growth area within power conversion.",
+          "opportunity": "High-voltage DC (HVDC) equipment"
+        }
+      ],
+      "methodology": "Projected global market value for power conversion technologies, which includes HVDC equipment essential for power transmission. The market is driven by global electrification, decarbonization, and demand growth.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-10",
+      "data_confidence": "high",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "McKinsey"
+  ],
+  "documents": [
+    {
+      "doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "title": "The transformer supercycle: Why demand is outrunning supply",
+      "publisher": "mckinsey",
+      "date": "2026-09-18",
+      "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply"
+    },
+    {
+      "doc_id": "3d112d12-7588-5e3a-b39e-fed953872840",
+      "title": "Winning America’s Reindustrialization",
+      "publisher": "bcg_global",
+      "date": "2026-09-14",
+      "url": "https://www.bcg.com/publications/2026/how-us-manufacturers-win-the-buildout-boom"
+    },
+    {
+      "doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "publisher": "mckinsey",
+      "date": "2026-09-17",
+      "url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis"
+    },
+    {
+      "doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "title": "The power conversion market: Decarbonization and growth opportunities",
+      "publisher": "mckinsey",
+      "date": "2026-09-10",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities"
+    }
+  ]
+}

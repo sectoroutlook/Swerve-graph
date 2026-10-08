@@ -1,0 +1,416 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Agentic AI transforms payment economics and consumer behavior.",
+      "description": "Agentic AI enables autonomous software agents to optimize financial decisions, dynamically route transactions to minimize fees, and automate purchasing. This threatens to squeeze deposit yields and reduce card fee pools, significantly impacting NBFIs reliant on traditional payment and lending models. It drives a shift in value capture from front-end screens to the invisible control layer.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25"
+    },
+    {
+      "index": 2,
+      "title": "Digital assets and real-time payments erode card economics.",
+      "description": "The rise of digital assets like stablecoins and tokenized deposits, alongside expanding domestic real-time payment systems, directly competes with traditional credit card business models. These new mechanisms bypass interchange fees and FX markups, shifting float income out of traditional deposits. This presents a direct margin pressure and headwind for NBFIs whose revenue is tied to card-based consumer finance.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25"
+    },
+    {
+      "index": 3,
+      "title": "Nonbank entities aggressively capture UK banking relationships and transactions.",
+      "description": "Neobanks and fintechs have significantly increased their share of UK banking relationships, now holding over a quarter, up from low single digits a decade ago. These digital-first challengers are proficient at capturing daily engagement and transactions, unbundling traditional banking relationships. This intensifying competition forces NBFIs and other financial institutions to adapt their strategies to maintain or gain customer primacy.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 4,
+      "title": "Strong corporate demand for non-bank financing and digital solutions.",
+      "description": "Corporates and financial sponsors show an increasing appetite for non-bank financing, with 40% of corporates open to using such options and 67% of sponsors already leveraging direct lenders. This shift is driven by non-bank providers' flexibility, execution speed, willingness to provide leverage, and superior digital experiences, creating a significant growth opportunity for NBFIs specializing in commercial finance and fintech solutions.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 5,
+      "title": "Cross-border payments commoditization demands integrated value propositions.",
+      "description": "The cross-border payments industry is rapidly commoditizing, with speed and cost becoming basic expectations rather than differentiators. This pressure, fueled by fintech competition and regulatory transparency, renders standalone payment products less viable. NBFIs operating in this space must move beyond execution and embed payments into broader financial or operational workflows, or offer specialized advisory services to maintain value and margins.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future",
+      "source_date": "2026-08-26"
+    },
+    {
+      "index": 6,
+      "title": "AI democratizes treasury and FX advisory for SMEs.",
+      "description": "Advances in AI create a new opportunity for NBFIs to democratize sophisticated treasury advisory and FX risk management, historically reserved for large corporations. AI can provide SMEs with real-time recommendations on liquidity optimization, hedging strategies, funding decisions, and cash deployment through digital channels, moving providers from transaction execution to actively improving customers' financial performance.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future",
+      "source_date": "2026-08-26"
+    },
+    {
+      "index": 7,
+      "title": "Fintechs face breadth, regulatory, and relationship continuity challenges.",
+      "description": "While fintechs offer speed and digital innovation, they often fall short for clients in terms of product breadth, enterprise-scale delivery, regulatory robustness, and relationship continuity. These shortcomings represent key risks for NBFIs adopting purely fintech models, as clients may seek more comprehensive or established providers for complex needs or long-term partnerships.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 8,
+      "title": "AI adoption accelerates unbundling and enhances switching ease.",
+      "description": "AI is accelerating customer adoption of new financial technologies faster than previous waves. It drastically lowers friction in processes like onboarding, KYC, credit decisions, and switching accounts, making it easier for customers to move money or select different providers product-by-product. This facilitates the 'unbundling' of financial services, intensifying competition for NBFIs and other FIs.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 9,
+      "title": "NBFIs can leverage AI to create new infrastructure products and services.",
+      "description": "Agentic payments introduce transactions requiring new service sets, creating opportunities for NBFIs to develop infrastructure products. These include cryptographic credentials for agents, mandate/consent management, risk controls, agent wallets, and transaction protection for delegated flows. These new revenue streams offer more defensible and lucrative margin structures through recurring fees and risk-bearing premiums, beyond basic volume basis points.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25"
+    },
+    {
+      "index": 10,
+      "title": "Increased compliance costs amid payments ecosystem complexity.",
+      "description": "As payment ecosystems become more interconnected, involving banks, fintechs, and wallet networks, the division of responsibilities for AML, sanctions, and fraud monitoring becomes more complex. Managing these distributed compliance obligations raises operational costs for all payment providers, including NBFIs, at a time when competitive and regulatory forces are simultaneously pushing transaction revenues downward, leading to margin squeeze.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future",
+      "source_date": "2026-08-26"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Agentic AI and digital assets threaten traditional card and deposit revenues.",
+      "description": "Agentic AI is projected to put global payments revenue at risk by 2030, with significant impact on consumer credit card revenues due to optimization and fee avoidance. Simultaneously, digital assets like stablecoins and tokenized deposits pose a headwind by bypassing traditional interchange and FX markups, shifting float income. This necessitates a strategic re-evaluation for NBFIs reliant on these traditional revenue streams.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    },
+    {
+      "index": 2,
+      "title": "Neobanks and fintechs rapidly unbundle traditional UK banking relationships.",
+      "description": "Neobanks and fintechs have grown to hold over a quarter of UK banking relationships, significantly increasing from previous low single digits a decade ago. They increasingly capture daily transactions and engagement, effectively unbundling the traditional primary account relationship. This intensifying competitive pressure for incumbent banks and NBFIs highlights the need for digital capabilities and customer primacy.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking"
+    },
+    {
+      "index": 3,
+      "title": "Corporates and financial sponsors increasingly prefer nonbank financing solutions.",
+      "description": "A significant portion of corporates (40%) and financial sponsors (67%) are open to or already using nonbank financing, including fintechs, private credit, and direct institutional lending, over the next three years. These challengers offer advantages like structured flexibility, execution speed, digital experience, and willingness to provide leverage, making them attractive alternatives to traditional banking.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-16",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026"
+    },
+    {
+      "index": 4,
+      "title": "Fintech specialists gain significant share in cross-border consumer and SME payments.",
+      "description": "Fintech specialists have effectively competed on price, speed, and transparency in cross-border payments. Over the past decade, they have captured approximately 50% of consumer payments and remittances, and 20% of small-business and SME flows. This demonstrates their capability to disrupt traditional payment models and highlights a strong growth trajectory for agile, digitally-focused NBFIs in these segments.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-08-26",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future"
+    },
+    {
+      "index": 5,
+      "title": "Instant payment systems are rapidly expanding, reshaping the financial landscape.",
+      "description": "Global instant payments value flows reached nearly $22 trillion in 2024, representing 1% of worldwide value flows, and are projected to grow by 15-18% annually over the next five years. This rapid expansion, driven by user-friendly interfaces, convenience, and zero-fee incentives in pioneering markets, creates significant competitive pressure on traditional payment methods and presents new opportunities for NBFIs to adapt their services and business models.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-08-13",
+      "source_doc_id": "ad1492c7-0519-5ab6-9f81-8709dee59bb4",
+      "source_title": "How instant payments are transforming the financial landscape",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/how-instant-payments-are-transforming-the-financial-landscape"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 75.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Agentic AI-driven yield seeking",
+          "description": "Agentic AI will automatically sweep idle retail and commercial cash to higher-yielding accounts and investment products, causing deposit balance migration and yield compression."
+        },
+        {
+          "driver": "Payment rail substitution and fee avoidance",
+          "description": "Agentic AI will optimize payment routing to minimize fees, avoid card charges, and facilitate real-time foreign-exchange routing, eroding consumer credit card revenues."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Under baseline adoption scenario, agentic AI could put roughly $75 billion in global payments revenue at risk by 2030. This includes $10 billion from consumer credit card revenues, with potential exposure ranging from $35 billion (conservative) to $160 billion (aggressive).",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "data_confidence": "high",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Structured flexibility and speed",
+          "description": "Private credit firms offer structured flexibility, speed of execution, and willingness to provide leverage, appealing to corporates and financial sponsors."
+        },
+        {
+          "driver": "Faster, seamless digital experiences",
+          "description": "Fintechs offer innovative features and superior digital experiences that outpace traditional banks' offerings, attracting corporate clients."
+        },
+        {
+          "driver": "Technological sophistication and liquidity",
+          "description": "Nonbank market makers (NBMMs) provide superior liquidity and execution speed for electronic and commoditized flow products, appealing to clients prioritizing low-cost execution."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "40% of corporates are open to using nonbank financing (17% fintechs, 22% private credit/institutional lending) over the next three years. 67% of financial sponsors already use direct lenders and private credit firms. Nonbank market makers (NBMMs) capture 9-14% of wallet share by asset class.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-16",
+      "data_confidence": "high",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Digital capabilities and user experience",
+          "description": "Neobanks and fintechs attract customers through strong digital platforms and user-friendly interfaces."
+        },
+        {
+          "driver": "Low or free pricing",
+          "description": "Competitive pricing models offered by neobanks and fintechs appeal to a broad customer base."
+        },
+        {
+          "driver": "Appealing branding to younger customers",
+          "description": "Modern branding and marketing strategies resonate with younger demographics, fostering loyalty and adoption."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Neobanks and fintechs hold approximately 27% of all UK banking relationships (defined as an active customer account with a provider), up from low single digits a decade ago.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-16",
+      "data_confidence": "high",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Competitive pricing and transparency",
+          "description": "Fintechs offer lower costs and greater transparency in foreign exchange rates and fees compared to traditional banking models."
+        },
+        {
+          "driver": "Increased speed of execution",
+          "description": "Fintech specialists provide faster international transfers, often enabling same-day or near-real-time delivery."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Fintech specialists have captured approximately 50% of cross-border payment volumes in consumer payments and remittances, and about 20% in small-business and SME flows over the past decade.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-08-26",
+      "data_confidence": "high",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future"
+    },
+    {
+      "index": 5,
+      "tam_value": 22.0,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": 15.0,
+      "forecast_cagr_period": "2024-2029",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Convenience and user experience",
+          "description": "Instant payment systems offer user-friendly interfaces and immediate transaction clearing, enhancing customer convenience."
+        },
+        {
+          "driver": "Zero-fee incentives and mandates",
+          "description": "Government and scheme operator initiatives, such as zero fees for users and mandated bank participation, accelerate adoption in many markets."
+        },
+        {
+          "driver": "Digital public infrastructure and financial inclusion",
+          "description": "Support from broader digital infrastructure and efforts to increase financial inclusion drive the transition from cash to instant digital payments."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Instant payments value flows reached nearly $22 trillion in 2024 across the 15 largest economies that have adopted these payment rails, representing 1% of the $2 quadrillion in worldwide value flows. Forecast to grow 15-18% annually.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-08-13",
+      "data_confidence": "high",
+      "source_doc_id": "ad1492c7-0519-5ab6-9f81-8709dee59bb4",
+      "source_title": "How instant payments are transforming the financial landscape",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/how-instant-payments-are-transforming-the-financial-landscape"
+    }
+  ],
+  "sources": [
+    "McKinsey"
+  ],
+  "documents": [
+    {
+      "doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "publisher": "mckinsey",
+      "date": "2026-09-25",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    },
+    {
+      "doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "title": "The decade to redefine UK banking",
+      "publisher": "mckinsey",
+      "date": "2026-09-16",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking"
+    },
+    {
+      "doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "publisher": "mckinsey",
+      "date": "2026-09-16",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026"
+    },
+    {
+      "doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "title": "Cross-border payments: Out of the commodity trap, into the future",
+      "publisher": "mckinsey",
+      "date": "2026-08-26",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future"
+    },
+    {
+      "doc_id": "ad1492c7-0519-5ab6-9f81-8709dee59bb4",
+      "title": "How instant payments are transforming the financial landscape",
+      "publisher": "mckinsey",
+      "date": "2026-08-13",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/how-instant-payments-are-transforming-the-financial-landscape"
+    }
+  ]
+}

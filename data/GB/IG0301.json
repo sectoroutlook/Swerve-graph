@@ -1,0 +1,604 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Robust Demand & Record Order Books Across Aerospace and Defense",
+      "description": "The Aerospace & Defense sector is experiencing strong demand and record order books, supported by robust aftermarket activity and public spending. The UK aerospace sector is aggressively ramping up production to meet unprecedented global demand, while the defence sector benefits from significant backlogs, indicating strong, sustained demand across both civil and military segments.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 2,
+      "title": "Persistent Supply Chain Constraints Block Deliveries and Production Ramp-up",
+      "description": "Supply chain disruptions continue to be a major headwind, blocking deliveries in nearly 90% of aerospace and defense programs. Issues include unrepaired supply chains, reliance on sole-sourcing, lengthy supplier qualification cycles, and scarcity of critical raw materials like energetics and rare earth minerals. These constraints severely impede production ramp-ups, preventing the sector from converting historic order books into output.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-14",
+      "source_doc_id": "39fc1855-99d7-5dc5-99cd-5b065183603f",
+      "source_title": "Aerospace and Defense: Winning the Race to Scale",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/aerospace-and-defense-winning-the-race-to-scale",
+      "source_date": "2026-07-14"
+    },
+    {
+      "index": 3,
+      "title": "Rising Input Costs and Margin Pressure Strain Profitability",
+      "description": "The sector faces significant profitability and liquidity strains due to elevated input costs. These include rising prices for oil, transport, metals, industrial energy, materials, and labor. Combined with tighter monetary conditions and limited access to affordable finance, these pressures increase working capital requirements and compress margins, particularly impacting smaller, lower-tier suppliers across the value chain.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 4,
+      "title": "Geopolitical Uncertainty and Conflict Disrupt Sector Stability",
+      "description": "A persistently contested and uncertain strategic environment, exacerbated by global events and rising trade barriers, poses a key risk to the Aerospace & Defense sector. Such geopolitical instability can buffet aircraft production, disrupt supply chains, and create unpredictable market conditions, demanding increased adaptability from businesses and governments alike. The UK defence sector, in particular, must operate within this rapidly changing landscape.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-10",
+      "source_doc_id": "2c338106-cc20-5b33-8fab-4c34f2e55fc1",
+      "source_title": "UK Aerospace Sector Outlook 2026",
+      "source_publisher": "ads",
+      "source_url": "https://www.adsgroup.org.uk/industry/uk-aerospace-sector-outlook-2026",
+      "source_date": "2026-07-10"
+    },
+    {
+      "index": 5,
+      "title": "Shift Towards Cheaper, Faster-to-Produce Defense Technologies",
+      "description": "The defense aviation market is undergoing a structural shift away from expensive, long-cycle 'exquisite' programs towards smaller, cheaper, and faster-to-produce technologies, such as affordable mass and expendable systems. These newer solutions offer lower unit costs and shorter production times, leading governments to adjust procurement processes in favor of speed. This fundamental change in demand is reshaping the competitive landscape and investment priorities.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-20",
+      "source_doc_id": "45058467-a64f-5732-83cb-f087b963a31a",
+      "source_title": "Are We in a Defense Tech Bubble?",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/future-economics-of-defense-aviation",
+      "source_date": "2026-07-20"
+    },
+    {
+      "index": 6,
+      "title": "Uneven Benefits of Demand Across the Value Chain Expose Smaller Suppliers",
+      "description": "Despite robust overall demand, the benefits are not being felt evenly across the Aerospace & Defense value chain. Smaller, lower-tier suppliers are disproportionately exposed to cost and funding pressures compared to larger prime contractors. This creates bottlenecks as sub-tier suppliers face steeper demands for capacity ramp-up from multiple programs simultaneously, often with limited scale benefits due to differing specifications, leading to financial stress and hindering overall sector output.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 7,
+      "title": "Production Ramp-Up Challenges Hinder Conversion of Orders to Output",
+      "description": "Aerospace and defense companies are struggling to convert historic order books into actual output, despite targeting significant production increases. This is due to several challenges, including subscale facilities, insufficient investment in skills and technology, and a lack of predictable, multi-year demand signals from customers. Scaling production often hurts unit economics initially, with increased capital costs, restarting learning curves, and spiking working capital, making sustained ramp-up difficult without stable contract commitments.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-14",
+      "source_doc_id": "39fc1855-99d7-5dc5-99cd-5b065183603f",
+      "source_title": "Aerospace and Defense: Winning the Race to Scale",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/aerospace-and-defense-winning-the-race-to-scale",
+      "source_date": "2026-07-14"
+    },
+    {
+      "index": 8,
+      "title": "Evolving Defense Procurement Prioritizes Speed and Agile Acquisition",
+      "description": "Defense ministries are adjusting their acquisition models to focus on speed and lower barriers to entry for new competitors. This involves using non-traditional contracts (e.g., US's Other Transaction Authority), streamlining regulations, and adopting more agile procurement processes. The goal is to move from concept to deployment quickly, leveraging commercial pathways and iterative development, which encourages innovation and integrating new technologies faster into defense capabilities.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-20",
+      "source_doc_id": "45058467-a64f-5732-83cb-f087b963a31a",
+      "source_title": "Are We in a Defense Tech Bubble?",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/future-economics-of-defense-aviation",
+      "source_date": "2026-07-20"
+    },
+    {
+      "index": 9,
+      "title": "Increased Strategic Importance of Defense and Resilience-Led Industrial Models",
+      "description": "The defense sector is increasingly recognized as a strategic capability, central to delivering resilience, readiness, and sustained operational advantage. This elevated importance is driving a shift from efficiency-led to resilience-led industrial models, emphasizing industrial capacity, supply chain depth, and 'just-in-case' inventory rather than 'just-in-time'. This structural change redefines industrial performance metrics and necessitates long-term investment in infrastructure and workforce capabilities.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-10",
+      "source_doc_id": "caf3fb2b-3bfa-5de9-9123-be223235f0b1",
+      "source_title": "UK Defence Sector Outlook 2026",
+      "source_publisher": "ads",
+      "source_url": "https://www.adsgroup.org.uk/industry/uk-defence-sector-outlook-2026",
+      "source_date": "2026-07-10"
+    },
+    {
+      "index": 10,
+      "title": "Technology-Driven Transformation Towards Integrated Systems-of-Systems",
+      "description": "The Aerospace & Defense sector is undergoing a profound technology-driven transformation, reshaping the character of warfare and industry structure. This involves a move from standalone platforms to integrated systems-of-systems, where seamless integration of sensors, platforms, networks, data, and decision-making tools is crucial. Data, AI, cyber, and space are no longer merely enabling functions but core to operational effectiveness, demanding continuous investment in digital infrastructure.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-10",
+      "source_doc_id": "caf3fb2b-3bfa-5de9-9123-be223235f0b1",
+      "source_title": "UK Defence Sector Outlook 2026",
+      "source_publisher": "ads",
+      "source_url": "https://www.adsgroup.org.uk/industry/uk-defence-sector-outlook-2026",
+      "source_date": "2026-07-10"
+    },
+    {
+      "index": 11,
+      "title": "Dual-Use Innovation and SME Integration Boosting Capabilities",
+      "description": "There is a growing emphasis on leveraging dual-use technologies from the commercial sector and integrating Small and Medium-sized Enterprises (SMEs) and start-ups into defense supply chains. This approach accelerates innovation and capability delivery, supporting competitiveness and strategic resilience. It represents an opportunity to enhance national security while also fostering economic growth through a more agile and diverse industrial base, driven by new technologies like AI and cyber.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-10",
+      "source_doc_id": "caf3fb2b-3bfa-5de9-9123-be223235f0b1",
+      "source_title": "UK Defence Sector Outlook 2026",
+      "source_publisher": "ads",
+      "source_url": "https://www.adsgroup.org.uk/industry/uk-defence-sector-outlook-2026",
+      "source_date": "2026-07-10"
+    },
+    {
+      "index": 12,
+      "title": "AI Enhances Defense Aviation Maintenance and Sustainment Efficiency",
+      "description": "Artificial intelligence offers significant upside potential for improving defense aviation readiness. AI-enabled solutions, such as GenAI Copilots for maintainers, supply chain control towers for parts visibility, and predictive maintenance, can transform sustainment processes. These technologies aim to increase efficiency, reduce downtime, and shift from reactive to proactive repairs, ultimately boosting mission-capable rates and addressing persistent challenges despite increased investments in traditional maintenance resources.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-16",
+      "source_doc_id": "20ba989e-dcc7-5489-91ff-aa51a862a1b5",
+      "source_title": "Defense Aviation Has a Readiness Problem. AI Can Help Fix It.",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-ai-improves-defense-aviation-readiness",
+      "source_date": "2026-07-16"
+    },
+    {
+      "index": 13,
+      "title": "International Regulatory Misalignment Undermines UK Aerospace Sector Competitiveness",
+      "description": "A significant headwind for the UK aerospace sector is the ongoing lack of alignment between UK and EU aviation safety regulations. This issue, particularly concerning mutual recognition agreements for parts certification and maintenance approvals, places substantial extra pressure on suppliers, increases costs, and reduces operational resilience. It impacts both commercial and state aircraft, threatening the sector's international competitiveness and requiring urgent governmental action for harmonization.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": null,
+      "as_of_date": "2026-07-10",
+      "source_doc_id": "2c338106-cc20-5b33-8fab-4c34f2e55fc1",
+      "source_title": "UK Aerospace Sector Outlook 2026",
+      "source_publisher": "ads",
+      "source_url": "https://www.adsgroup.org.uk/industry/uk-aerospace-sector-outlook-2026",
+      "source_date": "2026-07-10"
+    },
+    {
+      "index": 14,
+      "title": "Growth Opportunities in Next-Generation Aerospace Platforms",
+      "description": "The UK aerospace sector is well-positioned to secure new work on next-generation platforms, which are anticipated to enter production in the middle of the next decade. Backed by institutions like the Aerospace Technology Institute (ATI) and possessing world-leading capabilities in areas such as aerodynamics, jet engines, and advanced materials, the UK has a significant opportunity to increase its content share on these future programs, ensuring the long-term health and growth of the sector.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-10",
+      "source_doc_id": "2c338106-cc20-5b33-8fab-4c34f2e55fc1",
+      "source_title": "UK Aerospace Sector Outlook 2026",
+      "source_publisher": "ads",
+      "source_url": "https://www.adsgroup.org.uk/industry/uk-aerospace-sector-outlook-2026",
+      "source_date": "2026-07-10"
+    },
+    {
+      "index": 15,
+      "title": "Emergence of Orbital Data Centers as a Commercial Space Opportunity",
+      "description": "The development of orbital data centers presents a significant long-term structural change and opportunity within commercial space systems. While currently more expensive than terrestrial facilities, the economics could favor orbital deployments by the mid-2030s due to projected 80% reductions in launch costs, declining satellite infrastructure expenses, and materially lower ongoing energy and cooling costs in orbit. This shift could alleviate terrestrial data center constraints and create new demand for launch vehicles and satellite manufacturing.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-17",
+      "source_doc_id": "26b69b98-d879-5fca-a0af-cfb38791fbd4",
+      "source_title": "Orbital Data Centers: Beyond the Grid",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/orbital-data-centers-beyond-the-grid",
+      "source_date": "2026-07-17"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "UK Transport Equipment (Aerospace & Defense) Outlook: Strong Demand vs. Profitability Strain",
+      "description": "Allianz UK expresses a cautiously positive outlook for the UK transport equipment sector, including Aerospace and Defense. The sector benefits from robust order books, strong aftermarket activity, public spending support, and export visibility. However, profitability and liquidity remain under strain due to rising oil, transport, and metals costs, unrepaired supply chains, and erratic rolling-stock procurement. Smaller suppliers are particularly exposed to these cost and funding pressures compared to larger prime contractors.",
+      "stance": "cautious_positive",
+      "source_firm": "Allianz UK",
+      "source_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "index": 2,
+      "title": "Cautious on Shifting Capital to Faster-Growing, Cheaper Defense Technologies",
+      "description": "BCG and Vertical Research Partners advise caution for incumbents and investors regarding shifting capital into the market for new, cheaper defense technologies like affordable mass and expendable systems. While these platforms show faster growth than traditional 'exquisite' programs, their profitability profile is more limited, deriving less value from sustainment. They also involve higher R&D risks for new entrants, leading to a capital-allocation dilemma for prime contractors who benefit from the stable, long-term profits of legacy platforms.",
+      "stance": "cautious_negative",
+      "source_firm": "BCG / Vertical Research Partners",
+      "source_date": "2026-07-20",
+      "source_doc_id": "45058467-a64f-5732-83cb-f087b963a31a",
+      "source_title": "Are We in a Defense Tech Bubble?",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/future-economics-of-defense-aviation"
+    },
+    {
+      "index": 3,
+      "title": "European Defense Manufacturing Faces Capacity and Investment Challenges Amid Growing Needs",
+      "description": "BCG notes that Europe's defense needs are growing, demanding faster and increased production from contractors. However, many European defense contractors and suppliers operate with subscale facilities and are hesitant to invest in more capacity out of their own pockets. This hesitation stems from the risk of underutilized assets if spending slows down. Overcoming this challenge requires streamlining production, localizing key components, building resilient supply chains, and predictable demand signals from ministries.",
+      "stance": "cautious_negative",
+      "source_firm": "BCG",
+      "source_date": "2026-07-17",
+      "source_doc_id": "4bc31b88-783e-5de1-8044-c194ba41b21e",
+      "source_title": "Europe’s Defense Challenge Is Also a Manufacturing Challenge",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-to-scale-defense-production-in-europe"
+    },
+    {
+      "index": 4,
+      "title": "UK Aerospace Sector Ramping Up Production, Facing Cost and Regulatory Headwinds",
+      "description": "ADS expresses a cautiously positive outlook for the UK aerospace sector. It is actively ramping up production to meet unprecedented global demand, with significant increases in aircraft deliveries in 2025. However, this progress is challenged by high costs for industrial energy, materials, and labor, limited access to affordable finance, and ongoing supply chain disruptions. Furthermore, a critical concern is the lack of alignment between UK and EU aviation safety regulations, which undermines competitiveness and resilience.",
+      "stance": "cautious_positive",
+      "source_firm": "ADS",
+      "source_date": "2026-07-10",
+      "source_doc_id": "2c338106-cc20-5b33-8fab-4c34f2e55fc1",
+      "source_title": "UK Aerospace Sector Outlook 2026",
+      "source_publisher": "ads",
+      "source_url": "https://www.adsgroup.org.uk/industry/uk-aerospace-sector-outlook-2026"
+    },
+    {
+      "index": 5,
+      "title": "UK Defence Sector as Strategic Capability Driving Resilience and Growth",
+      "description": "ADS holds a positive view on the UK defense sector, asserting it has evolved beyond a supporting function to become a strategic capability critical for delivering resilience, readiness, and operational advantage. The sector is adapting to a more contested and uncertain strategic environment by prioritizing industrial capacity, supply chain assurance, and international alliances. It emphasizes faster innovation cycles, agile procurement, and leveraging dual-use technologies to support national security and economic prosperity.",
+      "stance": "positive",
+      "source_firm": "ADS",
+      "source_date": "2026-07-10",
+      "source_doc_id": "caf3fb2b-3bfa-5de9-9123-be223235f0b1",
+      "source_title": "UK Defence Sector Outlook 2026",
+      "source_publisher": "ads",
+      "source_url": "https://www.adsgroup.org.uk/industry/uk-defence-sector-outlook-2026"
+    },
+    {
+      "index": 6,
+      "title": "Aerospace & Defense Production Struggles to Meet Historic Demand Due to Supply Chain Bottlenecks",
+      "description": "Bain reports a cautious outlook for US and European aerospace and defense companies, highlighting a significant gap between historic order books and actual deliveries. Despite production targets running up to six times higher than recent levels, supply chain constraints block delivery in nearly 90% of programs, proving to be a key obstacle. This structural inability to convert demand to output means that competitive advantage is shifting towards firms that can scale production faster, exposing vulnerabilities in the industry.",
+      "stance": "cautious_negative",
+      "source_firm": "Bain",
+      "source_date": "2026-07-14",
+      "source_doc_id": "39fc1855-99d7-5dc5-99cd-5b065183603f",
+      "source_title": "Aerospace and Defense: Winning the Race to Scale",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/aerospace-and-defense-winning-the-race-to-scale"
+    },
+    {
+      "index": 7,
+      "title": "Defense Aviation Readiness Problematised, AI Offers Maintenance and Sustainment Solutions",
+      "description": "BCG presents a negative viewpoint on the current state of defense aviation readiness, citing consistently low mission-capable rates across fleets, including only one-third of the UK's F-35 fleet being fully mission-capable in 2024. This issue persists despite growing investments in maintainers, spare parts, and depot capacity. BCG proposes that the solution lies in rethinking maintenance and sustainment processes, specifically through the adoption of AI-enabled technologies like GenAI Copilots and supply chain control towers to improve efficiency and predictability.",
+      "stance": "cautious_negative",
+      "source_firm": "BCG",
+      "source_date": "2026-07-16",
+      "source_doc_id": "20ba989e-dcc7-5489-91ff-aa51a862a1b5",
+      "source_title": "Defense Aviation Has a Readiness Problem. AI Can Help Fix It.",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-ai-improves-defense-aviation-readiness"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 14.3,
+      "tam_unit": "GBP_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "2015-2025",
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Value add to the UK Economy.",
+      "source_firm": "ADS",
+      "source_date": "2026-07-10",
+      "data_confidence": "high",
+      "source_doc_id": "2c338106-cc20-5b33-8fab-4c34f2e55fc1",
+      "source_title": "UK Aerospace Sector Outlook 2026",
+      "source_publisher": "ads",
+      "source_url": "https://www.adsgroup.org.uk/industry/uk-aerospace-sector-outlook-2026"
+    },
+    {
+      "index": 2,
+      "tam_value": 15.8,
+      "tam_unit": "GBP_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "2015-2025",
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Value add to the UK Economy.",
+      "source_firm": "ADS",
+      "source_date": "2026-07-10",
+      "data_confidence": "high",
+      "source_doc_id": "caf3fb2b-3bfa-5de9-9123-be223235f0b1",
+      "source_title": "UK Defence Sector Outlook 2026",
+      "source_publisher": "ads",
+      "source_url": "https://www.adsgroup.org.uk/industry/uk-defence-sector-outlook-2026"
+    },
+    {
+      "index": 3,
+      "tam_value": 2.2,
+      "tam_unit": "GBP_bn",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Private investment in the aerospace sector.",
+      "source_firm": "ADS",
+      "source_date": "2026-07-10",
+      "data_confidence": "high",
+      "source_doc_id": "2c338106-cc20-5b33-8fab-4c34f2e55fc1",
+      "source_title": "UK Aerospace Sector Outlook 2026",
+      "source_publisher": "ads",
+      "source_url": "https://www.adsgroup.org.uk/industry/uk-aerospace-sector-outlook-2026"
+    },
+    {
+      "index": 4,
+      "tam_value": 36.5,
+      "tam_unit": "GBP_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "10 years",
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total turnover for the UK defence sector.",
+      "source_firm": "ADS",
+      "source_date": "2026-07-10",
+      "data_confidence": "high",
+      "source_doc_id": "ee2ff83e-5031-5850-b8d8-0f3fc0b6b681",
+      "source_title": "Industry Facts & Figures",
+      "source_publisher": "ads",
+      "source_url": "https://www.adsgroup.org.uk/facts2026"
+    },
+    {
+      "index": 5,
+      "tam_value": 4.3,
+      "tam_unit": "GBP_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "10 years",
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Investment in Research & Development (R&D) for the UK defence sector.",
+      "source_firm": "ADS",
+      "source_date": "2026-07-10",
+      "data_confidence": "high",
+      "source_doc_id": "ee2ff83e-5031-5850-b8d8-0f3fc0b6b681",
+      "source_title": "Industry Facts & Figures",
+      "source_publisher": "ads",
+      "source_url": "https://www.adsgroup.org.uk/facts2026"
+    },
+    {
+      "index": 6,
+      "tam_value": 189500.0,
+      "tam_unit": "units",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "10 years",
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Number of employees in the UK defence sector.",
+      "source_firm": "ADS",
+      "source_date": "2026-07-10",
+      "data_confidence": "high",
+      "source_doc_id": "ee2ff83e-5031-5850-b8d8-0f3fc0b6b681",
+      "source_title": "Industry Facts & Figures",
+      "source_publisher": "ads",
+      "source_url": "https://www.adsgroup.org.uk/facts2026"
+    },
+    {
+      "index": 7,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 2.5,
+      "forecast_cagr_period": "2025-2033",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Exquisite Systems Demand",
+          "description": "Exquisite aviation systems (like fighter jets) are expected to grow steadily, comprising over 80% of the defense aviation market by 2033, driven by long-cycle government procurement and sustainment needs."
+        },
+        {
+          "driver": "Affordable Mass Systems Demand",
+          "description": "Affordable mass systems, such as uncrewed combat aircraft, are projected for significant growth, driven by a shift towards lower-cost, faster-to-produce technologies."
+        },
+        {
+          "driver": "Expendable Systems Demand",
+          "description": "Expendable air systems, including loitering munitions, are forecast for very rapid growth, reflecting their utility in modern conflicts and emphasis on mass and speed."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Sustainment Profitability",
+          "description": "Exquisite platforms derive about half of their lifetime profit from sustainment (spare parts, maintenance, upgrades), providing stable, long-duration revenue streams."
+        },
+        {
+          "driver": "Production-Centric Profitability",
+          "description": "Expendable platforms generate nearly all their value through initial production and purchase, with limited sustainment, making their profitability more reliant on volume sales."
+        },
+        {
+          "driver": "R&D Risk Allocation",
+          "description": "R&D risks are shifting, with new entrants in affordable mass/expendable markets largely self-funding R&D, bearing the financial risk but gaining IP ownership if successful."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Analysis of US and European air-system expenditure across different defense aviation categories.",
+      "source_firm": "BCG / Vertical Research Partners",
+      "source_date": "2026-07-20",
+      "data_confidence": "medium",
+      "source_doc_id": "45058467-a64f-5732-83cb-f087b963a31a",
+      "source_title": "Are We in a Defense Tech Bubble?",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/future-economics-of-defense-aviation"
+    },
+    {
+      "index": 8,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Terrestrial Infrastructure Constraints",
+          "description": "A sustained slowdown in terrestrial data center expansion due to grid interconnection delays, rising electricity costs, and permitting delays would make orbital computing more attractive."
+        },
+        {
+          "driver": "Growing Compute Needs",
+          "description": "Next-generation computing systems consuming more power per rack will drive demand for efficient, scalable infrastructure, potentially met by orbital solutions."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Declining Launch Costs",
+          "description": "Launch costs per unit of compute are projected to reduce by as much as 80% by 2035 due to reusable launch systems and lighter payloads, improving orbital economics."
+        },
+        {
+          "driver": "Lower Orbital Operating Costs",
+          "description": "Orbital systems could operate with materially lower ongoing energy and cooling costs after deployment, as solar energy is continuously available and heat can be dissipated radiatively."
+        },
+        {
+          "driver": "Satellite Infrastructure Efficiency",
+          "description": "Costs for solar arrays and radiator systems are expected to decline as satellite power density improves and production scales, enhancing the economic viability of orbital deployments."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Orbital data centers offer an alternative source of compute capacity, avoiding terrestrial bottlenecks like grid interconnection delays and substation construction. This is particularly suited for inference workloads.",
+          "opportunity": "In-orbit compute capacity"
+        }
+      ],
+      "methodology": "Analysis of factors influencing the economics and scalability of orbital data centers, including launch, satellite infrastructure, and operating costs.",
+      "source_firm": "Bain",
+      "source_date": "2026-07-17",
+      "data_confidence": "medium",
+      "source_doc_id": "26b69b98-d879-5fca-a0af-cfb38791fbd4",
+      "source_title": "Orbital Data Centers: Beyond the Grid",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/orbital-data-centers-beyond-the-grid"
+    }
+  ],
+  "sources": [
+    "Allianz UK",
+    "BCG / Vertical Research Partners",
+    "BCG",
+    "ADS",
+    "Bain"
+  ],
+  "documents": [
+    {
+      "doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "title": "September 2026 UK Sector Snippets",
+      "publisher": "allianz_uk",
+      "date": "2026-09-17",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "doc_id": "45058467-a64f-5732-83cb-f087b963a31a",
+      "title": "Are We in a Defense Tech Bubble?",
+      "publisher": "bcg_global",
+      "date": "2026-07-20",
+      "url": "https://www.bcg.com/publications/2026/future-economics-of-defense-aviation"
+    },
+    {
+      "doc_id": "4bc31b88-783e-5de1-8044-c194ba41b21e",
+      "title": "Europe’s Defense Challenge Is Also a Manufacturing Challenge",
+      "publisher": "bcg_global",
+      "date": "2026-07-17",
+      "url": "https://www.bcg.com/publications/2026/how-to-scale-defense-production-in-europe"
+    },
+    {
+      "doc_id": "2c338106-cc20-5b33-8fab-4c34f2e55fc1",
+      "title": "UK Aerospace Sector Outlook 2026",
+      "publisher": "ads",
+      "date": "2026-07-10",
+      "url": "https://www.adsgroup.org.uk/industry/uk-aerospace-sector-outlook-2026"
+    },
+    {
+      "doc_id": "caf3fb2b-3bfa-5de9-9123-be223235f0b1",
+      "title": "UK Defence Sector Outlook 2026",
+      "publisher": "ads",
+      "date": "2026-07-10",
+      "url": "https://www.adsgroup.org.uk/industry/uk-defence-sector-outlook-2026"
+    },
+    {
+      "doc_id": "39fc1855-99d7-5dc5-99cd-5b065183603f",
+      "title": "Aerospace and Defense: Winning the Race to Scale",
+      "publisher": "bain",
+      "date": "2026-07-14",
+      "url": "https://www.bain.com/insights/aerospace-and-defense-winning-the-race-to-scale"
+    },
+    {
+      "doc_id": "20ba989e-dcc7-5489-91ff-aa51a862a1b5",
+      "title": "Defense Aviation Has a Readiness Problem. AI Can Help Fix It.",
+      "publisher": "bcg_global",
+      "date": "2026-07-16",
+      "url": "https://www.bcg.com/publications/2026/how-ai-improves-defense-aviation-readiness"
+    },
+    {
+      "doc_id": "26b69b98-d879-5fca-a0af-cfb38791fbd4",
+      "title": "Orbital Data Centers: Beyond the Grid",
+      "publisher": "bain",
+      "date": "2026-07-17",
+      "url": "https://www.bain.com/insights/orbital-data-centers-beyond-the-grid"
+    },
+    {
+      "doc_id": "ee2ff83e-5031-5850-b8d8-0f3fc0b6b681",
+      "title": "Industry Facts & Figures",
+      "publisher": "ads",
+      "date": "2026-07-10",
+      "url": "https://www.adsgroup.org.uk/facts2026"
+    }
+  ]
+}

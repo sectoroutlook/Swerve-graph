@@ -1,0 +1,144 @@
+{
+  "geography": "IN",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Expanding digital health infrastructure enhances care management capabilities",
+      "description": "India's robust and expanding digital public infrastructure, including the Ayushman Bharat Health Account (ABHA) digital medical records system, serves as a significant tailwind for managed care. This ecosystem provides a foundation for seamless identity verification, consent-based data sharing, and health record portability. For managed care organizations and health benefits administrators, this infrastructure facilitates improved data flow, supports digital healthcare delivery models, and enables more integrated and efficient care management across provider networks, fostering better coordination and outcomes.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-23",
+      "source_doc_id": "c1f7f38c-72d7-5835-9df7-64cf5b37ad5e",
+      "source_title": "India’s new insurance track: The marathon becomes an AI-led decathlon",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/indias-new-insurance-track-the-marathon-becomes-an-ai-led-decathlon",
+      "source_date": "2026-09-23"
+    },
+    {
+      "index": 2,
+      "title": "AI optimizes provider network management for efficiency and cost control",
+      "description": "AI applications are emerging as a key upside driver for managed care entities in optimizing provider network management. These applications include credentialing, contract negotiation, network optimization, and performance monitoring. By leveraging AI, managed care organizations can streamline administrative burdens, improve the strategic management of provider relationships, and enhance cost controls. This leads to more efficient network operations, potentially better service delivery, and improved financial outcomes through data-driven decisions and automated processes.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "e29f1cb2-84fb-5e00-b8bb-742065068375",
+      "source_title": "AI in Indian Healthcare Delivery",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/ai-in-indian-healthcare-delivery",
+      "source_date": "2026-09-08"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "AI alleviates patient pain points across Indian healthcare delivery backend operations",
+      "description": "Bain & Company and HealthQuad identify AI as a critical enabler for alleviating patient pain points and transforming backend operations in Indian healthcare delivery. The report highlights AI use cases in claims processing (auto-adjudication, fraud detection, pre-authorization) and provider network management (credentialing, contract negotiation, network optimization, performance monitoring). This perspective is positive, suggesting that AI can significantly enhance efficiency and management across the operational and enterprise layers, leading to better healthcare outcomes and streamlined processes.",
+      "stance": "positive",
+      "source_firm": "Bain & Company",
+      "source_date": "2026-09-08",
+      "source_doc_id": "e29f1cb2-84fb-5e00-b8bb-742065068375",
+      "source_title": "AI in Indian Healthcare Delivery",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/ai-in-indian-healthcare-delivery"
+    },
+    {
+      "index": 2,
+      "title": "Government initiatives expanding healthcare access, coverage, and digital infrastructure",
+      "description": "IBEF notes that government initiatives such as Ayushman Bharat (AB-PMJAY) and the Ayushman Bharat Digital Mission (ABDM) are continuously expanding healthcare access, insurance coverage, and digital health infrastructure. This reflects a positive outlook on the foundational support provided for the managed care ecosystem. These programs are strengthening overall healthcare services and driving increasing expenditure by both public and private players, signaling a robust environment for growth and innovation in health benefits administration and care management.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "source_doc_id": "75147d56-debd-5934-9b38-02089894a02d",
+      "source_title": "Healthcare Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/healthcare-india"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Patient demand for single touchpoint",
+          "description": "95% of consumers prefer a single point of contact for managing their healthcare needs, up from 70% in 2019, highlighting strong demand for coordinated care which managed care organizations can provide."
+        },
+        {
+          "driver": "Physician interest in Value-Based Care (VBC)",
+          "description": "56% of doctors are more interested in VBC models, seeing potential for efficiency, patient satisfaction, and higher quality care, which will drive demand for VBC-focused managed care offerings."
+        },
+        {
+          "driver": "Need to balance cost and outcomes",
+          "description": "High out-of-pocket costs are a persistent consumer pain point, and over 70% of doctors acknowledge the need to balance clinical outcomes with affordability, creating demand for managed care's cost-efficiency models."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Opportunity to build connected outpatient ecosystems that integrate primary and specialty care, diagnostics, pharmacy, and day surgery across channels into a coordinated model, attracting and retaining patients.",
+          "opportunity": "Integrated outpatient ecosystems"
+        },
+        {
+          "description": "Payers can establish navigation platforms to own the patient relationship, guide referrals, and provide continuous support, addressing fragmentation and becoming the default starting point in patient journeys.",
+          "opportunity": "Payer-sponsored navigation platforms"
+        },
+        {
+          "description": "Significant opportunity to implement VBC principles, including capitation and bundled payments, to shift accountability from volume to value, driving efficiency and better outcomes across healthcare systems in India.",
+          "opportunity": "Implementing value-based care (VBC)"
+        }
+      ],
+      "methodology": "Analysis of market trends and strategic opportunities for healthcare systems, including patient preferences, physician interest in new models, and the need for care coordination, rather than a direct numerical market size for managed care services.",
+      "source_firm": "Bain",
+      "source_date": "2026-06-17",
+      "data_confidence": "medium",
+      "source_doc_id": "722d44a0-84ef-58c1-a59e-fd2639b3d0ab",
+      "source_title": "Asia-Pacific Front Line of Healthcare 2026",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/asia-pacific-front-line-of-healthcare-2026"
+    }
+  ],
+  "sources": [
+    "Bain & Company",
+    "IBEF",
+    "Bain"
+  ],
+  "documents": [
+    {
+      "doc_id": "e29f1cb2-84fb-5e00-b8bb-742065068375",
+      "title": "AI in Indian Healthcare Delivery",
+      "publisher": "bain",
+      "date": "2026-09-08",
+      "url": "https://www.bain.com/insights/ai-in-indian-healthcare-delivery"
+    },
+    {
+      "doc_id": "75147d56-debd-5934-9b38-02089894a02d",
+      "title": "Healthcare Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/healthcare-india"
+    },
+    {
+      "doc_id": "c1f7f38c-72d7-5835-9df7-64cf5b37ad5e",
+      "title": "India’s new insurance track: The marathon becomes an AI-led decathlon",
+      "publisher": "mckinsey",
+      "date": "2026-09-23",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/indias-new-insurance-track-the-marathon-becomes-an-ai-led-decathlon"
+    },
+    {
+      "doc_id": "722d44a0-84ef-58c1-a59e-fd2639b3d0ab",
+      "title": "Asia-Pacific Front Line of Healthcare 2026",
+      "publisher": "bain",
+      "date": "2026-06-17",
+      "url": "https://www.bain.com/insights/asia-pacific-front-line-of-healthcare-2026"
+    }
+  ]
+}

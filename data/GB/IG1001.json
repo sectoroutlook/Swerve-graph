@@ -1,0 +1,607 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Electrification drives fundamental transformation in power systems",
+      "description": "Global electricity demand is rapidly increasing due to the electrification of transport (EVs), heating (heat pumps), and industry, as well as significant data center expansion. This shift is fundamentally rewiring the energy system, demanding more grid capacity, storage, and flexibility, and accelerating the transition towards hybrid AC/DC architectures. The power sector must adapt to handle greater volumes of electricity flowing over longer distances and in more directions, necessitating sustained investment in generation, transmission, and distribution infrastructure.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18"
+    },
+    {
+      "index": 2,
+      "title": "Renewables require significantly more grid infrastructure per megawatt",
+      "description": "The growing share of renewables in the generation mix, projected to reach 70% by 2035, fundamentally alters grid requirements. Renewable assets are often located far from load centers, operate at lower utilization rates, and are more dispersed, multiplying grid connection points. This necessitates substantially more transformer capacity, longer transmission distances, and increased grid interconnection to accommodate intermittent and distributed power flows, adding significant investment needs beyond the rising amount of electricity moved.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18"
+    },
+    {
+      "index": 3,
+      "title": "Transformer supply constraints threaten grid expansion and project timelines",
+      "description": "The global transformer market is facing a supercycle with demand significantly outstripping supply, leading to a backlog of over 1,000 GVA by 2024. Lead times have stretched to up to five years, and prices have surged by over 50% since 2021. This scarcity is a binding constraint for the power sector, risking stalled interconnection queues, delayed new capacity additions (including renewables), and pushed-back grid build-out timelines. The shortage is poised to persist into the next decade, implying a limit to the acceleration of renewable and grid replacement projects.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18"
+    },
+    {
+      "index": 4,
+      "title": "Aging grid infrastructure necessitates significant replacement investment",
+      "description": "Much of the existing grid infrastructure in Europe and North America has exceeded its typical 25- to 40-year design life, with failure rates climbing after 30 years of operation. Replacement accounts for over 30% of transformer demand, with new units typically larger due to increased power needs. This widespread need for replacement, combined with rising power demand and renewable integration, means sustained grid investment is critical and will directly translate into rising demand for components like transformers, projected to reach €627 billion by 2035.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18"
+    },
+    {
+      "index": 5,
+      "title": "Power conversion technologies are essential for energy transition success",
+      "description": "Efficient and reliable power conversion technologies like inverters, rectifiers, and HVDC valves are critical for integrating renewable energy sources, managing energy storage, and electrifying mobility and industry. These components are fundamental to the global energy transition, enabling the necessary conversions between AC and DC power for grid use, EV charging, and high-density applications like data centers. Without these technologies, meeting the rapidly increasing demand for electricity and achieving decarbonization targets would not be possible.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities",
+      "source_date": "2026-09-10"
+    },
+    {
+      "index": 6,
+      "title": "HVDC technology critical for efficient, long-distance power transmission",
+      "description": "High-voltage DC (HVDC) valves and transmission lines are increasingly critical for modern power networks, offering higher efficiency and control over high-power transmission. HVDC reduces network losses, supports voltage regulation, and is essential for interconnecting asynchronous grids, particularly for bringing power from remote renewable sources like offshore wind to load centers. The market for HVDC valves is forecast to grow at a 6% CAGR from 2024 to 2030, driven by the deployment of HVDC systems for offshore wind and urban grid connections, making it a key enabler for grid modernization and renewables integration.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities",
+      "source_date": "2026-09-10"
+    },
+    {
+      "index": 7,
+      "title": "Battery energy storage systems bolster grid stability and flexibility",
+      "description": "The global Battery Energy Storage System (BESS) power conversion equipment market is expected to triple by 2030, driven by utility-scale expansion across major regions. BESS technology converts DC from batteries to AC for grid-wide activities like peak shaving, frequency regulation, and renewable energy integration. As intermittent power sources (solar, wind) increase, greater BESS capacity is vital for grid stability, improved capacity utilization, flexible dispatch, and monetizing hybrid assets, thereby significantly supporting renewable energy targets and grid resilience.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities",
+      "source_date": "2026-09-10"
+    },
+    {
+      "index": 8,
+      "title": "UK offshore wind deployment needs to accelerate for energy targets",
+      "description": "Despite offshore wind generating almost 20% of the UK’s electricity supply in the last year with 17 GW installed capacity, progress needs to accelerate. Only 500 MW was installed in 2025, a rate insufficient to make a material contribution to overall energy targets. While Allocation Round 7 awarded a significant 8 GW, further cost reductions in subsequent rounds are necessary to impact consumer bills and strengthen the UK’s leadership position in the field, indicating a need for faster, more cost-effective deployment.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 9,
+      "title": "Electrification drives robust European power demand growth",
+      "description": "After years of stagnation, European power demand is projected to grow robustly from 3,000 TWh in 2025 to 4,300 TWh by 2040. This acceleration is primarily driven by the widespread electrification of transport (140 million EVs), buildings (55 million residential heat pumps), data centers (450 TWh increase), and industrial processes (200 TWh additional consumption). Electricity's share of final energy consumption is expected to rise to 32% by 2040, creating significant upside for the electric power sector and requiring a substantial acceleration in renewable and nuclear supply.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "source_date": "2026-09-04"
+    },
+    {
+      "index": 10,
+      "title": "Grid congestion and negative prices hinder renewable power utilization",
+      "description": "The rapid build-out of intermittent renewables in Europe is creating significant grid congestion and temporal mismatches, leading to record volumes of voluntarily curtailed power and increasingly frequent hours of negative pricing. In 2025, curtailment reached nearly 4 TWh across Germany, France, and the Netherlands, representing an 18% CAGR since 2020. This trend neutralizes cross-border exports and depresses day-ahead prices, indicating a rising premium on solutions like flexibility, storage, demand response, and priority grid access to make clean power usable where and when needed, and acting as a headwind to further renewable deployment.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "source_date": "2026-09-04"
+    },
+    {
+      "index": 11,
+      "title": "Generation ownership shifts towards IPPs and prosumers",
+      "description": "The ownership structure of power generation has significantly diversified, moving away from incumbent utilities towards independent power producers (IPPs) and decentralized asset owners (prosumers). In Germany, utilities' share of installed capacity fell from 82% in 2000 to 26% by 2026, while IPPs grew to 41% and prosumers to 33%. This fragmentation is driven by a more competitive and policy-dependent generation market, with incumbents increasingly prioritizing regulated grid infrastructure over direct investment in generation. This shift requires utilities to adapt to new market dynamics and potentially partner with diverse generation sources.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "source_date": "2026-09-04"
+    },
+    {
+      "index": 12,
+      "title": "AI adoption spurs data center growth, creating new utility demands",
+      "description": "Accelerating AI adoption is driving rapid expansion of data centers, with Europe's IT capacity expected to double from 20 GW in 2025 to nearly 40 GW by 2030. This growth creates new demands and flexibility value pools for utilities, including orchestrated flexibility, on-site storage solutions extending UPS models, bridge and backup power for early connections, and microgrid services. Utilities must adapt their supply chain strategies, as demand for critical equipment like gas turbines and transformers has sharply increased, with turbine order books extending beyond 2029.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "source_date": "2026-09-04"
+    },
+    {
+      "index": 13,
+      "title": "Surging capital costs and unfavorable auctions impede renewable deployment",
+      "description": "European efforts to diversify energy supply and achieve ambitious renewable targets are clashing with market realities. Surging capital costs, supply chain bottlenecks, and unfavorable auction designs are cooling developer appetite, leading to project economics deteriorating. This friction is evident in failed offshore auction rounds, such as Germany's August 2025 auction for 2.5 GW of capacity and the Netherlands' late-2025 auction for the 1-GW Nederwiek I-A site, which closed without a single bid. Even well-capitalized oil majors are scaling back offshore wind plans, threatening decarbonization goals.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "source_date": "2026-09-04"
+    },
+    {
+      "index": 14,
+      "title": "UK electricity bills to rise, fixed network costs main driver",
+      "description": "UK consumer electricity bills are projected to rise in nominal terms by £115 (13%) to £996 by 2035 in a central scenario, with fixed network costs driving 86% of this increase. This sustained rise stems from declining demand since 2015 and increasing fixed costs from generation and grid build-out. The UK has the highest electricity-to-gas price ratio in its peer group, largely due to taxes, levies, and gas price pass-through, creating a negative demand/price spiral that will worsen without intervention.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "c96312a0-006f-538a-8156-4ae575a7b143",
+      "source_title": "To Cut Electricity Bills, Britain Needs to Use More, Not Less",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/united-kingdom/centre-for-growth/insights/to-cut-electricity-bills-britain-needs-to-use-more-not-less",
+      "source_date": "2026-08-26"
+    },
+    {
+      "index": 15,
+      "title": "Industrial demand, especially data centers, key to lowering electricity bills",
+      "description": "Increasing electricity demand, particularly from industrial sources like data centers, is crucial for cutting UK electricity bills. With forecasts already incorporating ambitious EV and heat pump adoption, data centers represent the most economically additive driver of demand. Delivering 14GW of the current data center pipeline could reduce every household's bill by £35 by 2035, provided projects connect intelligently and operate flexibly, allowing fixed grid investment costs to be spread across a larger usage base, fostering economic growth and supporting AI ambitions.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "c96312a0-006f-538a-8156-4ae575a7b143",
+      "source_title": "To Cut Electricity Bills, Britain Needs to Use More, Not Less",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/united-kingdom/centre-for-growth/insights/to-cut-electricity-bills-britain-needs-to-use-more-not-less",
+      "source_date": "2026-08-26"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Transformer Shortage Reshapes Power Sector Decisions, Stalling Grid and Renewables Growth",
+      "description": "The global transformer market has entered a supercycle, with demand outrunning supply due to electrification, renewable energy shifts, and aging infrastructure. Transformer lead times have stretched to up to five years, and prices have surged over 50% since 2021. This scarcity is no longer a procurement detail but a strategic imperative for energy infrastructure stakeholders. Utilities and grid operators must secure capacity years ahead, as supply constraints will limit grid build-out and renewable acceleration until the 2030s, potentially increasing energy prices and reducing power access.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply"
+    },
+    {
+      "index": 2,
+      "title": "UK Energy Sector Faces Structural Transition Amid Volatility, Diverging Risks",
+      "description": "The UK energy sector is navigating a complex structural transition, balancing security, affordability, and decarbonization efforts. While oil and gas prices remain elevated due to geopolitical uncertainty, volatility has eased since the 2022-2023 crisis. However, a widening divide exists: larger oil and gas and renewable producers benefit from stronger balance sheets and higher commodity prices, enabling continued investment. Conversely, smaller players, especially retail suppliers, face heightened risk with limited capacity to absorb further cost shocks. Scale and financial resilience are crucial for managing ongoing volatility and investment demands.",
+      "stance": "cautious_negative",
+      "source_firm": "Allianz UK",
+      "source_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "index": 3,
+      "title": "Power Conversion Market Growth Driven by Electrification, but Solar PV Faces Price Pressure",
+      "description": "The global power conversion market, essential for electrification and integrating renewables into the grid, is projected to reach $95 billion by 2030. While high-complexity segments like HVDC and Battery Energy Storage Systems (BESS) offer compelling growth, lower-complexity areas such as utility-scale solar PV face price compression and commoditization. This segment is expected to decline by 2% annually through 2030 due to intense competition and market saturation in mature regions like Europe, requiring a focus on cost optimization and differentiated hybrid inverter capabilities.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-10",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities"
+    },
+    {
+      "index": 4,
+      "title": "UK Electricity Demand Surges, Requiring Major Investment in Generation and Networks",
+      "description": "The UK is experiencing sustained growth in electricity demand for the first time in over two decades, driven by the electrification of transport, heating, and industry as part of its energy transition. Meeting this increasing demand necessitates significant investment across power generation (especially renewables), networks, storage, and system flexibility to ensure continued affordability, reliability, and availability. This shift underlines electricity's growing importance in the UK's energy mix, despite ongoing reliance on fossil fuels for overall energy consumption.",
+      "stance": "positive",
+      "source_firm": "OEUK",
+      "source_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "index": 5,
+      "title": "UK Electricity Bills Driven by Fixed Costs; Increased Demand Needed for Reduction",
+      "description": "Britain's high energy costs are primarily driven by expensive electricity, with domestic prices among the highest in Europe and non-domestic the absolute highest. This is not due to generation costs but rather taxes, levies, and gas price pass-through. Fixed network costs are a major component, and declining demand since 2015 has exacerbated the issue. Counterintuitively, the solution involves increasing electricity usage, particularly through industrial demand like data centers. This would spread fixed grid investment costs over a larger base, potentially cutting household bills by £35 by 2035 and supporting economic growth.",
+      "stance": "cautious_negative",
+      "source_firm": "BCG",
+      "source_date": "2026-08-26",
+      "source_doc_id": "c96312a0-006f-538a-8156-4ae575a7b143",
+      "source_title": "To Cut Electricity Bills, Britain Needs to Use More, Not Less",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/united-kingdom/centre-for-growth/insights/to-cut-electricity-bills-britain-needs-to-use-more-not-less"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": 8.3,
+      "forecast_cagr_period": "2024-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Structural rise in electricity demand",
+          "description": "Driven by increasing electrification across industries and data center expansion."
+        },
+        {
+          "driver": "Shift toward renewable energy sources",
+          "description": "Renewables require more transformer capacity per unit of delivered energy due to dispersed generation, lower utilization, and movement away from load centers."
+        },
+        {
+          "driver": "Aging transformer fleet replacement",
+          "description": "Much of the existing grid infrastructure in Europe and North America has exceeded its 25- to 40-year design life, leading to high replacement demand for larger units."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Global supply backlog for power transformers, expected to grow to approximately 1,690 GVA by 2030.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply"
+    },
+    {
+      "index": 2,
+      "tam_value": 87.0,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2025-2035",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Grid replacement and long-term electrification",
+          "description": "These factors are expected to keep demand structurally higher than historic levels, ensuring sustained growth beyond the initial supercycle pace."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projection for the global transformer market value, expected to grow to €123 billion by 2035.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply"
+    },
+    {
+      "index": 3,
+      "tam_value": 165.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 4.0,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Accelerating deployment of HVDC systems",
+          "description": "Driven by offshore wind projects and urban grid connections, increasing the need for efficient high-power transmission."
+        },
+        {
+          "driver": "Upgrade of ultra-high-voltage DC systems",
+          "description": "In China, advanced valve technology above 800 kilovolts is driving market growth."
+        },
+        {
+          "driver": "Transition to insulated-gate bipolar transistor technology",
+          "description": "New technology offers improved control and modularity for HVDC valves."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Global power transmission market, projected to grow at a CAGR of 4% to over $200 billion by 2030. HVDC valve market specifically forecast from $2.7 billion in 2024 to $3.9 billion by 2030 (6% CAGR).",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-10",
+      "data_confidence": "high",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities"
+    },
+    {
+      "index": 4,
+      "tam_value": 17.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Installed offshore wind capacity in the UK. Offshore wind generation met almost 20% of the UK’s electricity supply in the last year, producing 52 TWh at an average load factor of 38%.",
+      "source_firm": "OEUK",
+      "source_date": "2026-09-08",
+      "data_confidence": "high",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "index": 5,
+      "tam_value": 3000.0,
+      "tam_unit": "TWh",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2025-2040",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Electrification of transport sector",
+          "description": "Expected to increase by about 400 TWh, including about 140 million electric vehicles (EVs) by 2040."
+        },
+        {
+          "driver": "Electrification of buildings",
+          "description": "Projected to include more than 55 million residential heat pumps by 2040."
+        },
+        {
+          "driver": "Data centers expansion",
+          "description": "Estimated to increase by about 450 TWh, providing computational backbone for digital economy."
+        },
+        {
+          "driver": "Electrified industrial processes",
+          "description": "Anticipated to add about 200 TWh of additional electricity consumption."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "European net electricity consumption, projected to grow to approximately 4,300 TWh in 2040. Excludes transmission and distribution (T&D) load and storage losses. Based on EU-27 plus Norway, Switzerland, and the United Kingdom.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-04",
+      "data_confidence": "high",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead"
+    },
+    {
+      "index": 6,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 7.0,
+      "forecast_cagr_period": "2025-2040",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Decarbonization targets",
+          "description": "European Union raised its binding renewable energy sources (RES) target to at least 42.5% of final energy consumption by 2030."
+        },
+        {
+          "driver": "Offshore wind capacity targets",
+          "description": "EU set a target of 60 GW of installed offshore wind capacity by 2030."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecasted growth for renewable energy sources in Europe. Solar and onshore wind are projected to grow at about 7 percent annually up to 2040, and offshore wind at about 11 percent. Renewables and nuclear are estimated to account for about 95 percent of Europe’s power generation by 2040.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-04",
+      "data_confidence": "high",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead"
+    },
+    {
+      "index": 7,
+      "tam_value": 20.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Digitalization and AI-driven economy",
+          "description": "Data centers provide the computational backbone, leading to rapid expansion of IT capacity."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Utilities expanding offerings based on AI workload management, demonstrating 5-10% peak load reduction.",
+          "opportunity": "Orchestrated flexibility"
+        },
+        {
+          "description": "Extending uninterruptible power supply (UPS) models to speed up interconnection and secure power.",
+          "opportunity": "On-site storage for data centers"
+        },
+        {
+          "description": "For data centers connecting ahead of schedule, enabling accelerated grid access and unlocking capacity.",
+          "opportunity": "Bridge and backup power"
+        },
+        {
+          "description": "For data centers to operate independently of the grid and provide round-the-clock clean power solutions.",
+          "opportunity": "Microgrid services"
+        }
+      ],
+      "methodology": "Europe’s data center IT capacity, expected to roughly double to almost 40 GW by 2030. This growth spurs new products and services from utilities for orchestrated flexibility, on-site storage, bridge/backup power, and microgrid services.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-04",
+      "data_confidence": "high",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead"
+    },
+    {
+      "index": 8,
+      "tam_value": 996.0,
+      "tam_unit": "GBP_mn",
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Electrification of transport, heating and industry",
+          "description": "Expected growth in electricity demand from these sectors can help spread fixed costs."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Fixed network costs",
+          "description": "These drive 86% of the projected rise in consumer bills, stemming from generation and grid build-out regardless of consumption volume."
+        },
+        {
+          "driver": "Taxes and levies on bills",
+          "description": "Significant portion of high electricity prices due to social costs (Warm Home Discount) and policy costs (Renewables Obligation, Feed-in Tariffs) loaded onto bills."
+        },
+        {
+          "driver": "Gas price pass-through",
+          "description": "Whenever gas is the marginal plant for electricity generation, high wholesale gas prices feed through into electricity prices, increasing costs."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Delivering 14GW of data center pipeline could cut household bills by £35 by 2035, by covering grid investment costs more efficiently without requiring significant new generation.",
+          "opportunity": "Industrial demand from data centers"
+        }
+      ],
+      "methodology": "Forecast for consumer electricity bills in the UK under a central scenario, assuming no further shocks and demand growing in line with generation. Represents a 13% increase from current levels.",
+      "source_firm": "BCG",
+      "source_date": "2026-08-26",
+      "data_confidence": "high",
+      "source_doc_id": "c96312a0-006f-538a-8156-4ae575a7b143",
+      "source_title": "To Cut Electricity Bills, Britain Needs to Use More, Not Less",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/united-kingdom/centre-for-growth/insights/to-cut-electricity-bills-britain-needs-to-use-more-not-less"
+    }
+  ],
+  "sources": [
+    "McKinsey",
+    "Allianz UK",
+    "OEUK",
+    "BCG"
+  ],
+  "documents": [
+    {
+      "doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "title": "The transformer supercycle: Why demand is outrunning supply",
+      "publisher": "mckinsey",
+      "date": "2026-09-18",
+      "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply"
+    },
+    {
+      "doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "title": "September 2026 UK Sector Snippets",
+      "publisher": "allianz_uk",
+      "date": "2026-09-17",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "title": "The power conversion market: Decarbonization and growth opportunities",
+      "publisher": "mckinsey",
+      "date": "2026-09-10",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities"
+    },
+    {
+      "doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "title": "Economic Report 2026",
+      "publisher": "oeuk",
+      "date": "2026-09-08",
+      "url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "doc_id": "c96312a0-006f-538a-8156-4ae575a7b143",
+      "title": "To Cut Electricity Bills, Britain Needs to Use More, Not Less",
+      "publisher": "bcg_global",
+      "date": "2026-08-26",
+      "url": "https://www.bcg.com/united-kingdom/centre-for-growth/insights/to-cut-electricity-bills-britain-needs-to-use-more-not-less"
+    },
+    {
+      "doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "publisher": "mckinsey",
+      "date": "2026-09-04",
+      "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead"
+    }
+  ]
+}

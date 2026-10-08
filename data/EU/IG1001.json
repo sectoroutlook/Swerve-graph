@@ -1,0 +1,588 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Electrification supercycle and AI computing drive massive investment needs",
+      "description": "The global economy is entering a supercycle of capital investment, with significant portions concentrated in electrification, including power generation, transmission, and distribution infrastructure, as well as data centers. The rapid scaling of AI compute power necessitates gigawatt-scale operations, magnifying demand for advanced grid solutions and efficient power delivery from utilities. This trend requires substantial investment across the European electric power industry to meet evolving demands.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-14",
+      "source_doc_id": "3d112d12-7588-5e3a-b39e-fed953872840",
+      "source_title": "Winning America’s Reindustrialization",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-us-manufacturers-win-the-buildout-boom",
+      "source_date": "2026-09-14",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Critical component supply chain constraints hinder grid buildout",
+      "description": "The accelerated buildout of electrification and AI infrastructure faces significant supply chain bottlenecks for critical inputs and components, many of which are experiencing multiyear backlogs. For instance, demand for electric-grade silicon steel, essential for transformers in transmission and distribution networks (IN100103, IN100104), has tripled since 2015. These constraints pose a substantial headwind for timely grid infrastructure upgrades and expansion across Europe.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-14",
+      "source_doc_id": "3d112d12-7588-5e3a-b39e-fed953872840",
+      "source_title": "Winning America’s Reindustrialization",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-us-manufacturers-win-the-buildout-boom",
+      "source_date": "2026-09-14",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Electrification of transport, buildings, and industry boosts power demand",
+      "description": "Demand-side electrification, driven by data centers, electric vehicles, and heat pumps, is experiencing robust growth (10% or more annually for data centers and EVs). This trend is projected to significantly increase European power demand from 3,000 TWh in 2025 to 4,300 TWh by 2040. Such sustained growth presents a substantial tailwind for electric power utilities across all sub-nodes, requiring increased generation, transmission, and distribution capacity.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities",
+      "source_date": "2026-09-10",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Existing AC infrastructure struggles with DC-native sources and loads",
+      "description": "The world's energy system is fundamentally rewiring, with dominant new energy sources (solar PV, batteries) and loads (data centers, EVs) being natively direct current (DC). However, the existing distribution infrastructure largely runs on alternating current (AC). This mismatch creates inefficiencies and magnifies conversion costs, particularly for gigawatt-scale AI compute demands. This drives a structural shift towards hybrid AC/DC architectures, requiring adaptation in power transmission (IN100103) and distribution (IN100104).",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case",
+      "source_date": "2026-09-09",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Lack of consistent DC standards impedes broader hybrid power adoption",
+      "description": "Fragmented and inconsistent standards across the DC voltage range and different regions pose a significant barrier to the widespread adoption of hybrid AC/DC power systems. This necessitates equipment redesign, retesting, or project-specific approvals, increasing costs and slowing down deployment for utility operators in power transmission (IN100103) and distribution (IN100104). Convergence of these standards is crucial for accelerating the transition.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case",
+      "source_date": "2026-09-09",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Shortage of DC-specific expertise constrains hybrid power deployment",
+      "description": "A critical barrier to the adoption of hybrid AC/DC power architecture is the significant shortage of a workforce with specialized DC-specific expertise. Most electrical engineers and electricians lack the capabilities needed for designing, protecting, integrating, and commissioning complex DC systems. This skills gap could constrain the pace of deployment for power transmission (IN100103) and distribution (IN100104) projects in Europe, mirroring challenges faced during early solar PV expansion.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case",
+      "source_date": "2026-09-09",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Protracted grid connection delays for European data centers pose risks",
+      "description": "Exponential growth in data center electricity consumption, projected to more than double globally by 2030, is encountering severe grid connection bottlenecks. Major European hubs face waiting times of up to ten years for new grid connections, making approved grid capacity a binding constraint. This poses a significant key risk for power transmission (IN100103) and distribution (IN100104) utilities, impacting their ability to enable new industrial loads and threatening economic growth.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case",
+      "source_date": "2026-09-09",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "EU mandate for bidirectional EV charging supports grid flexibility",
+      "description": "Effective January 2027, all newly installed EU charging points must support ISO 15118-20, enabling bidirectional power flow and allowing EVs to function as home batteries. This policy removes a critical protocol barrier, promoting Vehicle-to-Grid (V2G) capabilities. It provides a significant tailwind for power distribution and retail supply (IN100104) utilities by fostering demand response, peak shaving, and enhancing overall grid resilience and flexibility across Europe.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case",
+      "source_date": "2026-09-09",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "title": "Rising time-of-use tariffs incentivize smarter electricity consumption",
+      "description": "The increasing prevalence of time-of-use (TOU) tariffs in Europe encourages households and businesses to buy electricity when it is inexpensive and use it later. This policy driver rewards investments in smart energy management and storage solutions. For power distribution and retail supply (IN100104) utilities, TOU tariffs facilitate demand-side management, improve grid balancing, and enhance the economics of DC-coupled storage in hybrid energy systems.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case",
+      "source_date": "2026-09-09",
+      "country_focus": "EU"
+    },
+    {
+      "index": 10,
+      "title": "Long-lived AC assets face retrofitting risk from evolving power architectures",
+      "description": "Utilities face the key risk of locking long-lived assets into conventional AC architectures that may require costly mandatory retrofitting before the end of their useful lives. As power densities, industry standards, and regulatory requirements evolve towards hybrid AC/DC systems, existing transmission (IN100103) and distribution (IN100104) infrastructure built on solely AC principles could become obsolete, leading to increased future capital expenditures and asset stranding for European operators.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case",
+      "source_date": "2026-09-09",
+      "country_focus": "EU"
+    },
+    {
+      "index": 11,
+      "title": "Decentralized and intermittent renewables increase grid complexity",
+      "description": "Europe's growing reliance on renewable energy, particularly solar and wind, is leading to a highly decentralized and intermittent power supply. This structural shift significantly increases the number of grid connection points and inherent variability, making power systems more complex to manage. Transmission (IN100103) and distribution (IN100104) utilities face major challenges in maintaining grid stability, integrating diverse sources, and ensuring reliable power delivery under these new conditions.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "source_date": "2026-09-04",
+      "country_focus": "EU"
+    },
+    {
+      "index": 12,
+      "title": "Record renewable curtailment and negative pricing challenge profitability",
+      "description": "European grids are experiencing record volumes of voluntarily curtailed renewable power (nearly 4 TWh in Germany, France, and Netherlands in 2025) and increasingly frequent hours of negative day-ahead pricing. This trend highlights the system's inability to effectively absorb, move, store, and price electricity during generation peaks. It poses a significant headwind for renewable power generators (IN100102) by reducing revenues and for transmission (IN100103) and distribution (IN100104) utilities facing grid congestion issues.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "source_date": "2026-09-04",
+      "country_focus": "EU"
+    },
+    {
+      "index": 13,
+      "title": "Synchronized regional renewable peaks reduce cross-border export value",
+      "description": "Regional weather patterns frequently cause simultaneous renewable generation peaks across multiple European markets, such as France, Germany, and the Netherlands. This synchronization effectively neutralizes cross-border exports as a relief valve for oversupply. Consequently, it limits export demand, depresses day-ahead prices, and directly exacerbates commercial curtailment, posing a significant headwind for renewable power generators (IN100102) and transmission operators (IN100103) seeking to optimize resource utilization and market stability.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "source_date": "2026-09-04",
+      "country_focus": "EU"
+    },
+    {
+      "index": 14,
+      "title": "Utility-scale solar PV equipment market faces significant price compression",
+      "description": "The global market for power conversion technologies used in utility-scale solar PV is projected to decline by 2% through 2030, driven by intense price compression and increased competition. This trend is further compounded by heightened scrutiny on grid stability and data security following recent blackouts in Spain and Portugal. This impacts the profitability and investment landscape for utility-scale solar generation projects (IN100102) by increasing pressure on equipment costs and overall project economics.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities",
+      "source_date": "2026-09-10",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "European utilities face structural transformation from electrification, AI, and policy shifts",
+      "description": "European utilities are at an inflection point, experiencing fundamental shifts due to accelerating electrification, the rise of a digital and AI-driven economy, a focus on sovereignty/affordability, and sustained regulatory intervention. These forces are structurally redefining the operating environment and economics of the industry. Strategic responses are necessary as value creation migrates across the sector, prompting companies to adapt to new market dynamics.",
+      "stance": "neutral",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Future utility success hinges on flow control, flexibility, and demand orchestration",
+      "description": "The traditional utility paradigm, anchored in merchant markets and network unbundling, is being replaced by a market characterized by intermittency, decentralization, and policy-backed revenues. The future utility will derive value less from the scale of its physical assets and more from its ability to control energy flows. Key assets will include grid access points, system flexibility, load-firming capacity, and orchestrating aggregated supply and sales across various scales.",
+      "stance": "neutral",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Europe's challenge shifts from adding generation to delivering usable, flexible power",
+      "description": "While European power demand growth necessitates significant acceleration in supply, with renewables and nuclear projected to account for 95% by 2040, the core challenge has evolved. It is no longer just about expanding generation capacity, but about delivering more usable, connected, and flexible clean power. Europe needs electricity to be commercially viable and available at the right time and place, given the decentralized and intermittent nature of new supply.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "European residential and commercial solar PV equipment market faces decline",
+      "description": "The market for power conversion technologies in residential and commercial solar PV in Europe is expected to decline by approximately 4% annually, reaching $13 billion by 2030. This contraction is attributed to significant pricing pressure, market saturation in mature European regions, and a normalization of demand following earlier periods of rapid deployment. This trend signifies challenges for equipment manufacturers and potentially impacts localized solar development.",
+      "stance": "negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-10",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Hybrid AC/DC power is becoming essential for high-density loads and efficiency",
+      "description": "The global energy system is undergoing a fundamental rewiring as new energy sources (solar PV, batteries) and loads (data centers, EVs) are natively direct current (DC). The existing alternating current (AC) infrastructure creates inefficiencies, especially with the gigawatt-scale demands of AI compute. A hybrid AC/DC architecture is emerging as the necessary path forward, with AC forming the grid backbone and DC powering high-density, behind-the-meter applications across industries and buildings, enhancing overall efficiency and capacity.",
+      "stance": "positive",
+      "source_firm": "BCG",
+      "source_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Hybrid DC home economics currently uncompelling despite environmental benefits",
+      "description": "The business case for adopting hybrid DC architecture in residential buildings is not yet compelling. While a hybrid home can save approximately $300 annually, this is offset by a capital expenditure premium compared to an equivalent AC home. Although the aggregate impact across Germany's homes could yield 5.4 million metric tons of CO2e reduction in the first year, individual household economics alone do not currently justify adoption, making it a policy-relevant lever rather than a consumer proposition.",
+      "stance": "cautious_negative",
+      "source_firm": "BCG",
+      "source_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "AC/DC hybrid transition pace depends on ecosystem evolution, not technology",
+      "description": "The widespread adoption of hybrid AC/DC power architecture is no longer primarily a technological challenge, as the economic case is increasingly compelling. Instead, the pace of this transition will be determined by how quickly the surrounding ecosystem evolves. Key factors include scaling demand and supply, reducing engineering friction, converging regulation and standards across regions, and developing a specialized workforce, rather than inherent technological hurdles or costs.",
+      "stance": "neutral",
+      "source_firm": "BCG",
+      "source_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case",
+      "country_focus": "EU"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 3000.0,
+      "tam_unit": "TWh",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2025-2040",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Electrification of transport sector",
+          "description": "Projected to increase demand by approximately 400 TWh by 2040, including an estimated 140 million electric vehicles (EVs)."
+        },
+        {
+          "driver": "Electrification of buildings",
+          "description": "Projected to contribute to increased demand, with more than 55 million residential heat pumps expected by 2040."
+        },
+        {
+          "driver": "Data centers electricity consumption",
+          "description": "Projected to add approximately 450 TWh to demand by 2040 due to rapid growth in AI compute and digital services."
+        },
+        {
+          "driver": "Electrified industrial processes",
+          "description": "Projected to add about 200 TWh of additional consumption from the electrification of various industrial processes."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "European net electricity consumption (EU-27 plus Norway, Switzerland, and the United Kingdom), excluding transmission and distribution (T&D) load and storage losses. Projected to grow to approximately 4,300 TWh by 2040.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-04",
+      "data_confidence": "high",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2040,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Decarbonization targets",
+          "description": "Policy and environmental imperatives drive a significant acceleration in supply from low-carbon sources like renewables and nuclear."
+        },
+        {
+          "driver": "Growing power demand",
+          "description": "Increased electricity consumption across transport, buildings, data centers, and industry necessitates expanded generation capacity from clean sources."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecasted share of European power generation from renewables (solar, onshore/offshore wind, hydro, biomass) and nuclear by 2040. This represents a significant shift in energy mix to meet decarbonization targets.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-04",
+      "data_confidence": "high",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2040,
+      "forecast_cagr": 7.0,
+      "forecast_cagr_period": "2025-2040",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Renewable energy targets",
+          "description": "Policy support and strategic investments aimed at increasing the share of clean energy sources in the power mix."
+        },
+        {
+          "driver": "Decarbonization efforts",
+          "description": "Continued efforts to reduce carbon emissions by transitioning away from fossil fuels in electricity generation."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected annual growth rate for solar and onshore wind power generation within Europe. This growth is a key component in meeting the region's overall clean energy supply targets.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-04",
+      "data_confidence": "high",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2040,
+      "forecast_cagr": 11.0,
+      "forecast_cagr_period": "2025-2040",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Renewable energy targets",
+          "description": "Policy support and strategic investments aimed at increasing the share of clean energy sources in the power mix, with a focus on large-scale offshore projects."
+        },
+        {
+          "driver": "Decarbonization efforts",
+          "description": "Continued efforts to reduce carbon emissions by transitioning away from fossil fuels, with offshore wind recognized for its high capacity factors."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected annual growth rate for offshore wind power generation within Europe. This growth is critical for expanding clean energy supply, leveraging substantial offshore resources.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-04",
+      "data_confidence": "high",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "tam_value": 165.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 4.0,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Renewable energy integration",
+          "description": "Growing need to transmit power efficiently from remote renewable generation sites, such as offshore wind farms, to load centers."
+        },
+        {
+          "driver": "Grid upgrades and modernization",
+          "description": "Investments in modern transmission networks, including HVDC, to increase efficiency, control, and reduce network losses."
+        },
+        {
+          "driver": "Interconnecting asynchronous grids",
+          "description": "Deployment of HVDC systems to support voltage regulation and interconnect grids that are not synchronized."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Global market size for power transmission, valued at $165 billion in 2025 and projected to grow at a 4% CAGR, exceeding $200 billion by 2030. This includes significant activity and growth in Europe, particularly for HVDC systems.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-10",
+      "data_confidence": "high",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "tam_value": 4.0,
+      "tam_unit": "TWh",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 18.0,
+      "historical_cagr_period": "2020-2025",
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Negative day-ahead prices",
+          "description": "Oversupply of renewables during peak generation periods pushes market prices to zero or below, leading to economic curtailment and reduced revenues for generators."
+        },
+        {
+          "driver": "Grid absorption and movement limitations",
+          "description": "The system's insufficient ability to absorb, move, and store electricity during high generation periods results in wasted renewable energy."
+        },
+        {
+          "driver": "Regional generation synchronization",
+          "description": "Simultaneous renewable peaks across European countries limit cross-border export opportunities, exacerbating local oversupply and curtailment."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Combined volume of voluntarily curtailed renewable power across Germany (1.8 TWh), France (1.4 TWh), and the Netherlands (0.7 TWh) in 2025. This figure represents an 18% compound annual growth rate since 2020.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-04",
+      "data_confidence": "high",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "tam_value": 12.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 18.0,
+      "forecast_cagr_period": "2024-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Grid stability requirements",
+          "description": "Increasing need for grid stability, improved capacity utilization, and flexible dispatch to manage intermittent renewable energy sources."
+        },
+        {
+          "driver": "Renewable energy integration",
+          "description": "Growing demand for BESS to integrate higher shares of intermittent solar and wind power into the energy supply effectively."
+        },
+        {
+          "driver": "Monetization of hybrid assets",
+          "description": "Development of novel inverters and energy management systems to enable energy trading and virtual power plant networks, adding new revenue streams."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Global market size for Battery Energy Storage System (BESS) power conversion equipment, projected to triple from 2024 to 2030, reaching $12 billion. This growth is driven by the deployment of utility-scale, grid-connected storage in all major regions, including significant expansion in Europe.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-10",
+      "data_confidence": "high",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "McKinsey",
+    "BCG"
+  ],
+  "documents": [
+    {
+      "doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "publisher": "mckinsey",
+      "date": "2026-09-04",
+      "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead"
+    },
+    {
+      "doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "title": "The power conversion market: Decarbonization and growth opportunities",
+      "publisher": "mckinsey",
+      "date": "2026-09-10",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities"
+    },
+    {
+      "doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "title": "The Strategic Case for Hybrid AC/DC Power",
+      "publisher": "bcg_global",
+      "date": "2026-09-09",
+      "url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case"
+    },
+    {
+      "doc_id": "3d112d12-7588-5e3a-b39e-fed953872840",
+      "title": "Winning America’s Reindustrialization",
+      "publisher": "bcg_global",
+      "date": "2026-09-14",
+      "url": "https://www.bcg.com/publications/2026/how-us-manufacturers-win-the-buildout-boom"
+    }
+  ]
+}

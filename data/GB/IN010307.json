@@ -1,0 +1,543 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Strong policy support driving biomethane production and consumption",
+      "description": "The Green Gas Support Scheme (GGSS) incentivises biomethane injection into the gas grid, and the Renewable Transport Fuel Obligation (RTFO) promotes its use in transport, particularly for HGVs. While GGSS closes to new applications in March 2028, the government is expected to consult on a future support framework, indicating sustained policy commitment. This structured support helps bridge the cost gap for biomethane relative to natural gas.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download",
+      "source_date": "2026-09-15"
+    },
+    {
+      "index": 2,
+      "title": "Cost-effective greenhouse gas removal via biomethane CCS",
+      "description": "CO2 capture from biomethane production provides a relatively low-cost route to achieving permanent greenhouse gas removals. Biogas upgrading yields a high-purity CO2 stream that is easier to capture than from combustion or direct air capture. As CO2 transport and storage networks come online and carbon prices rise, this presents a significant revenue opportunity for biomethane operators, enabling lower-cost GGR compared to alternative methods.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download",
+      "source_date": "2026-09-15"
+    },
+    {
+      "index": 3,
+      "title": "Biomethane prioritised for hard-to-decarbonise sectors",
+      "description": "Biomethane is increasingly valued as a long-term, low-carbon solution for hard-to-electrify industries (e.g., glass, ceramics) and transport segments (e.g., long-haul HGVs, shipping, aviation) where electrification or hydrogen/CCS infrastructure is less viable or available. This strategic prioritisation of biomethane for specific end-uses ensures its critical role in the future energy system, offering optionality and reducing overall decarbonisation costs, especially for dispersed industrial sites.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download",
+      "source_date": "2026-09-15"
+    },
+    {
+      "index": 4,
+      "title": "Scaling challenges and trade-offs for biomethane production",
+      "description": "While sustainable biomethane production has substantial growth potential, significant challenges and trade-offs emerge and increase with scale, particularly beyond 30 TWh per year by 2050. These challenges span agriculture (e.g., land use for energy crops vs. food), environmental concerns (e.g., biodiversity, soil health), and methane leakage risks from the supply chain and transport use. Overcoming these requires cross-sector collaboration and careful ambition assessment.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download",
+      "source_date": "2026-09-15"
+    },
+    {
+      "index": 5,
+      "title": "Methane leakage risk impacts biomethane in transport",
+      "description": "Despite emission reductions compared to conventional fuels, significant concerns exist that methane leakage during biomethane production, supply, and particularly from vehicle engines (especially at low loads) or LNG storage, could offset much or all of the greenhouse gas savings. This risk limits the long-term role of biomethane in transport pathways, necessitating stringent measures to minimise leakage to ensure its decarbonisation contribution is realised.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download",
+      "source_date": "2026-09-15"
+    },
+    {
+      "index": 6,
+      "title": "Evolving UK ETS recognition of grid-injected biomethane",
+      "description": "The UK Emissions Trading Scheme (ETS) currently recognises biomethane as a low-carbon gas only if used via direct supply, not if injected into the gas grid. This creates a disincentive for grid-connected facilities to use biomethane for emissions reduction under ETS. However, the government is considering how grid-injected biomethane can be recognised, which could significantly expand its demand and financial viability within heavy industry and power sectors.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download",
+      "source_date": "2026-09-15"
+    },
+    {
+      "index": 7,
+      "title": "Cost disparity with natural gas requires ongoing subsidies",
+      "description": "The levelised production costs of biomethane (currently £73-£135/MWh) remain higher than the combined natural gas and carbon prices (£41/MWh in 2025). This cost gap necessitates continued subsidy support, such as the Green Gas Support Scheme, to make biomethane economically viable. While secondary revenue streams can help, future competitiveness is sensitive to natural gas and carbon price fluctuations, posing a challenge for long-term unsubsidised growth.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download",
+      "source_date": "2026-09-15"
+    },
+    {
+      "index": 8,
+      "title": "Competition for feedstocks with other low-carbon fuels",
+      "description": "The UK SAF mandate recognises the potential for competition for feedstocks between Sustainable Aviation Fuel (SAF) and other biomethane uses, particularly in the 2030s. While aviation is a hard-to-decarbonise sector, prioritising feedstocks for SAF may not always deliver additional economy-wide emissions savings. This competition creates uncertainty for feedstock supply and pricing across the broader bioenergy sector, impacting production costs and scalability.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download",
+      "source_date": "2026-09-15"
+    },
+    {
+      "index": 9,
+      "title": "Logistical limitations for CO2 transport from dispersed plants",
+      "description": "Although capturing CO2 from biomethane production is a cost-effective route for greenhouse gas removals, biomethane plants are typically small and dispersed. In the short-to-medium term, plants far from piped CO2 networks face high trucking costs, limiting the economic viability of associated removals. The development of infrastructure and regulatory frameworks for non-pipeline transport is crucial, but this logistical hurdle currently constrains the full potential of GGR from biomethane.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download",
+      "source_date": "2026-09-15"
+    },
+    {
+      "index": 10,
+      "title": "International benchmarks demonstrate rapid biomethane expansion feasibility",
+      "description": "Other European nations, like Denmark, have demonstrated that focused efforts, strong ambition, well-designed policies, and available feedstocks/equipment supply chains can rapidly increase biomethane production. Denmark, for instance, has added an average of 1 TWh/year since 2019, with nearly 40% of its gas grid now supplied by biomethane. These examples provide a strong case study for potential rapid growth in the UK.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2025-07-11",
+      "source_doc_id": "62bf929e-5e86-5856-9e04-74abb8bf776a",
+      "source_title": "FES: NESO Pathways to Net Zero 2025",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/364541/download",
+      "source_date": "2025-07-11"
+    },
+    {
+      "index": 11,
+      "title": "Future energy system requires low carbon gas beyond electrification",
+      "description": "While electrification is the primary route for decarbonisation, the UK's future energy system will still require significant volumes of gas and liquid fuels to meet remaining demand by 2050, particularly for security of power supply during low renewable output and for hard-to-electrify needs. Low carbon gases like biomethane play an important role alongside hydrogen and natural gas with CCS, offering crucial flexibility and optionality in the net-zero transition.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download",
+      "source_date": "2026-09-15"
+    },
+    {
+      "index": 12,
+      "title": "Strategic Spatial Energy Plan (SSEP) integrates bioenergy planning",
+      "description": "The Strategic Spatial Energy Plan (SSEP) for Great Britain, delivered by NESO, will integrate hydrogen system planning, including biomass-derived hydrogen, and coordinate spatial planning across electricity, gas, hydrogen, and bioenergy infrastructure. This holistic approach aims to optimise the transition to net zero, avoid stranded assets, and provide greater certainty on options, which is beneficial for bioenergy projects by aligning them with broader energy system development.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-01",
+      "source_doc_id": "3e6a525c-0260-5d3f-a0fe-12147ca895d3",
+      "source_title": "Offshore Wind Insight 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/offshore-wind-insight-2026",
+      "source_date": "2026-05-01"
+    },
+    {
+      "index": 13,
+      "title": "Insufficient progress on industrial electrification increases reliance on alternatives",
+      "description": "Despite ambitious targets, there has been limited progress in industrial electrification, with electricity prices remaining too high compared to gas, and key capital expenditure support programs ending. This underperformance means that hard-to-electrify industries will continue to rely heavily on low-carbon alternatives like biomethane for decarbonisation, creating both a demand driver and a risk if sufficient biomethane volumes or supporting infrastructure are not available.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-24",
+      "source_doc_id": "f465f474-3556-58b4-89d5-eb4292711833",
+      "source_title": "Progress in reducing emissions 2026 report to Parliament",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/progress-in-reducing-emissions-2026-report-to-parliament",
+      "source_date": "2026-06-24"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Biomethane offers significant, cost-effective value for UK energy decarbonisation",
+      "description": "Biomethane has the potential to deliver significant value across the UK energy system, supporting decarbonisation of industry and transport where electrification is not viable, and serving as a transitional solution elsewhere. Its production can scale substantially beyond current levels (6 TWh to 30 TWh annually without significant trade-offs). Additionally, carbon capture from biomethane production could offer a relatively low-cost route for permanent greenhouse gas removals, making it a valuable asset for achieving net-zero goals.",
+      "stance": "positive",
+      "source_firm": "NESO",
+      "source_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download"
+    },
+    {
+      "index": 2,
+      "title": "Policy support and cross-sector strategy are crucial for biomethane growth",
+      "description": "Any substantial growth in biomethane production beyond current levels is reliant on continued policy support, at least in the short- to medium-term, and on overcoming barriers to gas grid injection. A strategic, government-led approach involving cross-sector collaboration is needed to balance biomethane's benefits against the dependencies, trade-offs, and risks associated with scaling production and feedstock availability. This includes identifying high-value applications and implementing supporting policies.",
+      "stance": "cautious_positive",
+      "source_firm": "NESO",
+      "source_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download"
+    },
+    {
+      "index": 3,
+      "title": "SAF uptake is on track, but diversification from HEFA and PTL is critical",
+      "description": "The share of jet fuel provided by Sustainable Aviation Fuel (SAF) slightly increased and is currently above the UK Government's mandate level. Policy developments like the SAF mandate and a revenue certainty mechanism have strengthened confidence. However, significant challenges remain in scaling up second-generation biofuels and power-to-liquid (PtL) fuels, which must contribute from 2027 and 2028 respectively, as the cap on first-generation HEFA fuels comes into force.",
+      "stance": "cautious_positive",
+      "source_firm": "Climate Change Committee",
+      "source_date": "2026-06-24",
+      "source_doc_id": "f465f474-3556-58b4-89d5-eb4292711833",
+      "source_title": "Progress in reducing emissions 2026 report to Parliament",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/progress-in-reducing-emissions-2026-report-to-parliament"
+    },
+    {
+      "index": 4,
+      "title": "Green molecule economics require government intervention and market stimulation",
+      "description": "Green molecules like biofuels are essential for decarbonising hard-to-abate sectors where electrification is not feasible, but their current high costs are prohibitive. A 'vicious cycle' of high costs, limited demand, and weak investor appetite stifles market scaling. Government intervention, through clear industrial policy, stable long-term energy policy frameworks, and support for supply chain development, is crucial to stimulate early demand, de-risk projects, and reduce financing costs.",
+      "stance": "cautious_positive",
+      "source_firm": "Deloitte UK",
+      "source_date": "2025-02-20",
+      "source_doc_id": "b5fec3f7-1078-501f-978c-380f5a432311",
+      "source_title": "Stimulating demand is key to scaling UK green molecule production",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/power-utilities-renewables/blogs/stimulating-demand-is-key-to-scaling-uk-green-molecule-production.html"
+    },
+    {
+      "index": 5,
+      "title": "Hydrogen's critical role includes synthetic fuels, but uptake depends on infrastructure and policy",
+      "description": "Hydrogen will become an important energy component, particularly for hard-to-electrify industries and as a feedstock for synthetic fuels like Sustainable Aviation Fuel (SAF). However, its precise role and scale by 2050 remain uncertain, heavily dependent on the pace of deployment, enabling policies, and cost reductions. The lack of transportation and storage infrastructure business models, coupled with higher costs compared to conventional fuels, currently hinders market growth.",
+      "stance": "cautious_positive",
+      "source_firm": "OEUK",
+      "source_date": "2025-04-01",
+      "source_doc_id": "93edd711-87ca-5d3e-90cc-e7de36ffd016",
+      "source_title": "Hydrogen Insight 2025",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/hydrogen-insight-2025"
+    },
+    {
+      "index": 6,
+      "title": "Accelerated SAF Revenue Certainty Mechanism is vital for UK domestic production",
+      "description": "The introduction of a Sustainable Aviation Fuels (SAF) mandate is driving demand from UK aviation businesses. Proposals for a Revenue Certainty Mechanism (RCM) to incentivise domestic production are underway, but accelerated implementation is essential. Without swift action, the UK risks losing opportunities to grow a new, strategic industry in sustainable technologies to international competitors, underscoring the need for flexible regulation and subsidy control.",
+      "stance": "cautious_positive",
+      "source_firm": "ADS",
+      "source_date": "2025-06-16",
+      "source_doc_id": "4b9e2d9d-8761-5220-91ec-06b317123503",
+      "source_title": "ADS Aerospace Sector UK Outlook 2025",
+      "source_publisher": "ads",
+      "source_url": "https://www.adsgroup.org.uk/facts-figures/adsaerospaceoutlook2025"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 6.0,
+      "tam_unit": "TWh",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Current annual production of biomethane in GB, injected into the gas grid.",
+      "source_firm": "NESO",
+      "source_date": "2026-09-15",
+      "data_confidence": "high",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download"
+    },
+    {
+      "index": 2,
+      "tam_value": 30.0,
+      "tam_unit": "TWh",
+      "sam_value": null,
+      "as_of_year": 2050,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2025-2050",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Decarbonisation of hard-to-electrify sectors",
+          "description": "Biomethane can provide a low-carbon solution for industries (e.g., glass, ceramics) and transport (e.g., heavy goods vehicles, shipping) where electrification or other alternatives are not yet viable or practical, especially for sites outside industrial clusters."
+        },
+        {
+          "driver": "Greenhouse gas removals (GGR)",
+          "description": "Capturing CO2 from biomethane production offers a relatively low-cost route to permanent greenhouse gas removals, contributing to net-zero targets. A 30 TWh production could enable ~4 MtCO2 removals annually."
+        },
+        {
+          "driver": "Transitional fuel in industrial clusters",
+          "description": "Biomethane can serve as a transitional fuel for hard-to-electrify sites within industrial clusters before hydrogen and CCS infrastructure become fully available or to complete asset investment cycles."
+        },
+        {
+          "driver": "Policy support and incentives",
+          "description": "Government schemes like the Green Gas Support Scheme (GGSS) and the Renewable Transport Fuel Obligation (RTFO) incentivise biomethane production and uptake, bridging the cost gap with natural gas and driving demand in heat and transport sectors."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "By-product revenue streams",
+          "description": "Selling captured biogenic CO2 for utilisation (e.g., food & beverages, e-fuels including SAFs) and digestate as a fertiliser can generate additional revenues, reducing reliance on subsidies and improving project economics."
+        },
+        {
+          "driver": "Larger anaerobic digestion (AD) assets",
+          "description": "Developing larger AD assets can push biomethane production costs to the lower end of the current £73-£135/MWh range, improving profitability. However, current support mechanisms may challenge the delivery of such large assets."
+        },
+        {
+          "driver": "Carbon market revenues",
+          "description": "Revenues from carbon markets and policy incentives for greenhouse gas removals from captured CO2 could significantly enhance the economic viability of biomethane production, especially as carbon prices rise."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Potential annual sustainable biomethane production in GB, achievable without significant dependencies, trade-offs, and risks around feedstock availability, according to NESO analysis. This is considerably higher than current annual production.",
+      "source_firm": "NESO",
+      "source_date": "2026-09-15",
+      "data_confidence": "high",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download"
+    },
+    {
+      "index": 3,
+      "tam_value": 1.0,
+      "tam_unit": "TWh",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Organisational emission reduction ambitions",
+          "description": "Major supermarket chains and other organisations with internal decarbonisation targets are driving uptake in gas-powered HGVs running on biomethane, as alternatives for reducing emissions are not yet widely viable."
+        },
+        {
+          "driver": "Supportive policies",
+          "description": "Policies such as the Renewable Transport Fuel Obligation (RTFO) and reduced fuel duty for methane incentivize the use of biomethane in transport, making it a more attractive option for fleet owners."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Biomethane currently used in heavy goods vehicles (HGVs) in GB, representing approximately 1% of total HGV fuel demand.",
+      "source_firm": "NESO",
+      "source_date": "2026-09-15",
+      "data_confidence": "high",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download"
+    },
+    {
+      "index": 4,
+      "tam_value": 1.5,
+      "tam_unit": "MMT",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2024-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "UK SAF mandate",
+          "description": "The mandate requires an increasing share of aviation fuel to come from SAFs, starting at 2% in 2025, rising to 10% in 2030, creating significant demand for SAF production."
+        },
+        {
+          "driver": "Decarbonisation of aviation",
+          "description": "Aviation is a hard-to-decarbonise sector with large fuel demand, making biofuels like SAF crucial for achieving emission reductions."
+        },
+        {
+          "driver": "SAF Revenue Certainty Mechanism",
+          "description": "Legislation to enact this mechanism aims to build confidence in the SAF market and incentivise domestic production, supporting capacity growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "UK government's target for Sustainable Aviation Fuel (SAF) capacity by 2030.",
+      "source_firm": "Deloitte UK",
+      "source_date": "2026-06-30",
+      "data_confidence": "high",
+      "source_doc_id": "6c21b4ea-6c8c-5b82-b172-a7f45f0ac7fc",
+      "source_title": "UK energy transition journey",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/energy/analysis/uk-energy-transition.html"
+    },
+    {
+      "index": 5,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Grid flexibility and security of supply",
+          "description": "Biomass (bioenergy) can provide dispatchable power, crucial for balancing the grid during periods of low renewable output or high electricity demand, complementing intermittent sources like wind and solar."
+        },
+        {
+          "driver": "Negative emissions from BECCS",
+          "description": "Bioenergy with carbon capture and storage (BECCS) is a critical technology for achieving engineered greenhouse gas removals, offering a route to offset residual emissions and meet long-term carbon budgets."
+        },
+        {
+          "driver": "Decarbonisation of power sector",
+          "description": "Bioenergy contributes to the expansion of low-carbon electricity supply, reducing reliance on unabated fossil fuels and supporting the transition to a net-zero power grid."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The development of a Power Bioenergy with Carbon Capture and Storage (BECCS) business model and CCS clusters programme presents a significant opportunity for large-scale engineered carbon removals, enhancing the value proposition of bioenergy projects.",
+          "opportunity": "Integration with CCS infrastructure"
+        },
+        {
+          "description": "As the UK transitions to high renewable penetration, dispatchable bioenergy power plants can provide valuable system flexibility, generating revenue by balancing supply and demand when other renewables are not generating.",
+          "opportunity": "Flexible dispatchable power"
+        }
+      ],
+      "methodology": "Discussion of drivers for growth in bioenergy, including low-carbon dispatchable power, and the recognition of bioenergy with carbon capture and storage (BECCS) as a key technology for engineered removals in pathways to net zero.",
+      "source_firm": "NESO",
+      "source_date": "2025-07-11",
+      "data_confidence": "medium",
+      "source_doc_id": "62bf929e-5e86-5856-9e04-74abb8bf776a",
+      "source_title": "FES: NESO Pathways to Net Zero 2025",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/364541/download"
+    },
+    {
+      "index": 6,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "UK Government SAF mandate",
+          "description": "The mandate requires a rising percentage of jet fuel to be SAF, starting at 2% in 2025 and reaching 10% in 2030, directly driving uptake."
+        },
+        {
+          "driver": "Airline decarbonisation targets",
+          "description": "Aviation sector's need to reduce emissions, given the difficulty of electrification for long-haul flights, creates consistent demand for SAF."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Share of jet fuel supplied by Sustainable Aviation Fuel (SAF) in the UK. This figure slightly increased from 2.2% in 2024.",
+      "source_firm": "Climate Change Committee",
+      "source_date": "2026-06-24",
+      "data_confidence": "high",
+      "source_doc_id": "f465f474-3556-58b4-89d5-eb4292711833",
+      "source_title": "Progress in reducing emissions 2026 report to Parliament",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/progress-in-reducing-emissions-2026-report-to-parliament"
+    }
+  ],
+  "sources": [
+    "NESO",
+    "Climate Change Committee",
+    "Deloitte UK",
+    "OEUK",
+    "ADS"
+  ],
+  "documents": [
+    {
+      "doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "title": "Biomethane report",
+      "publisher": "neso",
+      "date": "2026-09-15",
+      "url": "https://www.neso.energy/document/384986/download"
+    },
+    {
+      "doc_id": "f465f474-3556-58b4-89d5-eb4292711833",
+      "title": "Progress in reducing emissions 2026 report to Parliament",
+      "publisher": "ccc",
+      "date": "2026-06-24",
+      "url": "https://www.theccc.org.uk/publication/progress-in-reducing-emissions-2026-report-to-parliament"
+    },
+    {
+      "doc_id": "b5fec3f7-1078-501f-978c-380f5a432311",
+      "title": "Stimulating demand is key to scaling UK green molecule production",
+      "publisher": "deloitte_uk",
+      "date": "2025-02-20",
+      "url": "https://www.deloitte.com/uk/en/Industries/power-utilities-renewables/blogs/stimulating-demand-is-key-to-scaling-uk-green-molecule-production.html"
+    },
+    {
+      "doc_id": "93edd711-87ca-5d3e-90cc-e7de36ffd016",
+      "title": "Hydrogen Insight 2025",
+      "publisher": "oeuk",
+      "date": "2025-04-01",
+      "url": "https://oeuk.org.uk/product/hydrogen-insight-2025"
+    },
+    {
+      "doc_id": "4b9e2d9d-8761-5220-91ec-06b317123503",
+      "title": "ADS Aerospace Sector UK Outlook 2025",
+      "publisher": "ads",
+      "date": "2025-06-16",
+      "url": "https://www.adsgroup.org.uk/facts-figures/adsaerospaceoutlook2025"
+    },
+    {
+      "doc_id": "62bf929e-5e86-5856-9e04-74abb8bf776a",
+      "title": "FES: NESO Pathways to Net Zero 2025",
+      "publisher": "neso",
+      "date": "2025-07-11",
+      "url": "https://www.neso.energy/document/364541/download"
+    },
+    {
+      "doc_id": "3e6a525c-0260-5d3f-a0fe-12147ca895d3",
+      "title": "Offshore Wind Insight 2026",
+      "publisher": "oeuk",
+      "date": "2026-05-01",
+      "url": "https://oeuk.org.uk/product/offshore-wind-insight-2026"
+    },
+    {
+      "doc_id": "6c21b4ea-6c8c-5b82-b172-a7f45f0ac7fc",
+      "title": "UK energy transition journey",
+      "publisher": "deloitte_uk",
+      "date": "2026-06-30",
+      "url": "https://www.deloitte.com/uk/en/Industries/energy/analysis/uk-energy-transition.html"
+    }
+  ]
+}

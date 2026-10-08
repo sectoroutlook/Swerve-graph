@@ -1,0 +1,1865 @@
+{
+  "geography": "IN",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Gross bank credit rising, boosting wind energy financing.",
+      "description": "Gross Bank Credit is showing a rising trend, despite a flat trend over the last three periods. This increased availability of financing is starting to positively impact investment in new wind energy projects. Developers are reporting improved access to capital for projects valued over 500 Crores, which facilitates expansion and development within the IN010302 (Wind Power) sub-industry. This indicates a strengthening financial environment for capital-intensive renewable energy ventures.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-05",
+      "source_doc_id": "90526139-4648-5f23-8207-7a39955be741",
+      "source_title": "Corporate Credit Drives Bank Credit Growth in July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788516444_Corporate%20Credit%20Drives%20Bank%20Credit%20Growth%20in%20July%202026.pdf",
+      "source_date": "2026-09-04"
+    },
+    {
+      "index": 2,
+      "title": "Geopolitical disruptions drive crude oil price volatility.",
+      "description": "Geopolitical events like the closure of the Strait of Hormuz and Bab-el-Mandeb have caused Brent crude oil prices to fluctuate significantly, ranging from $60s to over $115/bbl. This volatility, if sustained above $100/bbl, poses a material threat to the Indian economy, impacting refiners' input costs (IN010203) and marketing margins for OMCs (IN010204), potentially requiring further government policy intervention. The continuous 'stop-start' nature of these conflicts keeps the energy sector on high alert.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-14",
+      "source_doc_id": "441f51e4-bcdc-5903-9f9d-a8b790be4d53",
+      "source_title": "Crude Oil at the Geo-political Crossroads",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786703928_Crude%20Oil%20at%20the%20Geo-political%20Crossroads.pdf",
+      "source_date": "2026-08-14"
+    },
+    {
+      "index": 3,
+      "title": "US Graham Act imposes tariff risk on Russian oil buyers.",
+      "description": "The US Senate passed the Graham Act, which could impose up to 100% tariffs on imports from top buyers of Russian oil, including India. While India's crude sourcing is diversified and the discount on Russian oil has narrowed, a strictly enforced Act, especially alongside a closed Hormuz Strait, could significantly tighten global supply. This dual disruption creates an untested scenario for India's refiners (IN010203, IN010208), potentially inflicting material damage on the Indian economy and challenging its energy security strategy.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-14",
+      "source_doc_id": "441f51e4-bcdc-5903-9f9d-a8b790be4d53",
+      "source_title": "Crude Oil at the Geo-political Crossroads",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786703928_Crude%20Oil%20at%20the%20Geo-political%20Crossroads.pdf",
+      "source_date": "2026-08-14"
+    },
+    {
+      "index": 4,
+      "title": "OMCs maintain significant headroom against crude price increases.",
+      "description": "Integrated OMCs currently hold an estimated $27-29/bbl of headroom to absorb increases in crude sourcing costs, with their operating profit breakeven point estimated at ~$115/bbl for Brent. This position is considerably stronger than the low single-digit buffer observed during the March-April 2026 spike. This cushion provides flexibility for the government and OMCs (IN010204, IN010208) to manage crude price fluctuations up to ~$100/bbl without immediate material strain on profitability or requiring rapid retail price adjustments.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-14",
+      "source_doc_id": "441f51e4-bcdc-5903-9f9d-a8b790be4d53",
+      "source_title": "Crude Oil at the Geo-political Crossroads",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786703928_Crude%20Oil%20at%20the%20Geo-political%20Crossroads.pdf",
+      "source_date": "2026-08-14"
+    },
+    {
+      "index": 5,
+      "title": "India diversifies crude oil sourcing to enhance energy security.",
+      "description": "India has demonstrated significant agility in diversifying its crude oil import basket. Following the effective closure of the Strait of Hormuz in February 2026, India rapidly shifted its sourcing away from traditional West Asian suppliers like Iraq (whose share fell from 17-18% to 1%) and Saudi Arabia (down from 17-18% to 6-8%) towards Russia (up from 21% to 48%) and the UAE (up from 9% to 18%), whose routes bypassed the chokepoint. This strategic pivot enhances IN0102's energy security resilience against physical supply disruptions.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-14",
+      "source_doc_id": "441f51e4-bcdc-5903-9f9d-a8b790be4d53",
+      "source_title": "Crude Oil at the Geo-political Crossroads",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786703928_Crude%20Oil%20at%20the%20Geo-political%20Crossroads.pdf",
+      "source_date": "2026-08-14"
+    },
+    {
+      "index": 6,
+      "title": "INR depreciation hikes import costs for OMCs and refiners.",
+      "description": "An appreciating USD against the INR (INR depreciation) directly increases the cost of imported crude oil and refined products, which are primary raw materials for Indian refineries and OMCs. This leads to significant margin compression for IN010203 (Refining), IN010204 (Marketing & Retail), and integrated companies (IN010208), as OMCs may not be able to fully or immediately adjust retail prices. The current active state of INR depreciation with an acute negative intensity poses a substantial operational challenge.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-05",
+      "source_doc_id": "441f51e4-bcdc-5903-9f9d-a8b790be4d53",
+      "source_title": "Crude Oil at the Geo-political Crossroads",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786703928_Crude%20Oil%20at%20the%20Geo-political%20Crossroads.pdf",
+      "source_date": "2026-08-14"
+    },
+    {
+      "index": 7,
+      "title": "High LPG under-recoveries persist for OMCs.",
+      "description": "Major OMCs faced combined under-recoveries of approximately Rs 13,700 crore in Q1FY27 (after government compensation), with cumulative under-recoveries reaching Rs 61,900 crore by June 30, 2026. This stemmed from unprecedented global LPG supply chain disruptions and high sourcing costs. Although a decline in Saudi CP prices is expected to moderate under-recoveries by ~40% in Q2FY27, they are likely to remain significant, keeping LPG profitability for IN010204 (Marketing & Retail) and IN010205 (Gas Distribution) under pressure despite government support.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-14",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf",
+      "source_date": "2026-08-14"
+    },
+    {
+      "index": 8,
+      "title": "Diversification of India's LPG sourcing to enhance energy security.",
+      "description": "India, importing ~60% of its LPG, has structurally shifted procurement from traditional West Asian suppliers (90% previously) to the United States and other alternative markets due to geopolitical disruptions like the Strait of Hormuz closure. While this ensured supply stability and reduced import dependency to ~35% during the crisis, it incurred significantly higher landed costs. Even after normalisation, the US is expected to retain a significant share of India's LPG imports, signaling a permanent strategic pivot towards supply diversification and enhanced energy security for IN010204 and IN010205.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-14",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf",
+      "source_date": "2026-08-14"
+    },
+    {
+      "index": 9,
+      "title": "Increased domestic LPG production to reduce import reliance.",
+      "description": "During geopolitical supply disruptions, India's domestic LPG production significantly increased from 1.1 MMT per month to 1.4 MMT per month (March-June 2026). This ramp-up by refiners aimed to maximize domestic availability and reduce import dependence, contributing to a temporary reduction in import dependency from ~60% to ~35%. This trend, if sustained and expanded, enhances India's energy self-reliance and reduces vulnerability to external supply shocks for IN010204 (Marketing & Retail) and IN010205 (Gas Distribution).",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-14",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf",
+      "source_date": "2026-08-14"
+    },
+    {
+      "index": 10,
+      "title": "BESS tender pipeline faces low conversion to operational assets.",
+      "description": "India has a rapidly expanding BESS tender pipeline, with project count increasing from 24 in 2023 to 69 in 2025. However, of ~111 GWh tendered, only a negligible portion has become operational; ~30% failed due to cancellations/delays, and ~70% remain in pre-commissioning stages. This significant gap between tendered and operational capacity highlights execution risks related to Power Purchase Agreement (PSA) closure, financing, and commissioning, posing a major challenge for achieving deployment targets in IN010306 (Energy Storage).",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects",
+      "source_date": "2026-08-07"
+    },
+    {
+      "index": 11,
+      "title": "Declining Li-ion battery costs improve BESS project economics.",
+      "description": "Battery raw material prices, especially lithium, have corrected sharply from late 2022 peaks, leading to an estimated ~35% decline in Li-ion pack prices. This trend significantly improves the economics and tariff viability of BESS projects in IN010306 (Energy Storage), supporting financial closure and conversion of tendered capacity to operational assets. The current cost environment is identified as a crucial deployment window, though project bankability still depends on procurement timing and FX exposure.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects",
+      "source_date": "2026-08-07"
+    },
+    {
+      "index": 12,
+      "title": "India's cell-to-pack manufacturing scales rapidly for BESS.",
+      "description": "India's BESS supply ecosystem is experiencing rapid growth, with announced domestic cell-to-pack manufacturing capacity projected to reach ~80-85 GWh by 2030, representing a ~130% CAGR from a negligible base. This expansion is led by major industrial and energy players, signaling a shift towards institutional-scale battery production and integrated offerings. This structural development strengthens the foundation for a domestic supply base, improving the ability to support grid-scale IN010306 (Energy Storage) project execution with standardized and bankable solutions.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects",
+      "source_date": "2026-08-07"
+    },
+    {
+      "index": 13,
+      "title": "Critical upstream battery value chain gaps hinder BESS competitiveness.",
+      "description": "Despite rapid growth in cell-to-pack capacity, India faces acute structural gaps in the upstream battery value chain for IN010306 (Energy Storage). Critical minerals, battery-grade refining, cathode/anode active materials, and electrolyte salts exhibit high supply, technology, and investment constraints. These gaps compromise long-term cost competitiveness and maintain import dependence, risking that India builds downstream assembly capacity while remaining reliant on foreign inputs for strategically sensitive components. Targeted policy support is crucial to address these foundational issues.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects",
+      "source_date": "2026-08-07"
+    },
+    {
+      "index": 14,
+      "title": "BESS policy shifts to bankability, supporting project execution.",
+      "description": "India's BESS regulatory landscape is evolving from market enablement to bankability support. Initial central policies (VGF, ISTS waivers, procurement guidelines) established BESS as a recognized grid resource. More recent interventions, including CERC tariff recognition and state-level frameworks, focus on improving project economics, enabling regulated cost recovery, and supporting localization for IN010306 (Energy Storage). This shift towards implementation-focused, bankability-led regulation is crucial for faster financial closure and commissioned capacity, though consistency across policy layers remains a challenge.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects",
+      "source_date": "2026-08-07"
+    },
+    {
+      "index": 15,
+      "title": "Decelerating GDP growth reduces energy sector demand.",
+      "description": "India's GDP Annual Growth Rate, while projected at 6.7% for FY27, is currently experiencing a falling trend (-0.2% change over prior period). This deceleration is leading to reduced industrial activity and overall energy demand, negatively impacting sales volumes for crude oil and natural gas (IN010201), midstream services (IN010202), coal demand (IN010207), and sales for integrated oil and gas companies (IN010208). It also slows demand for various renewable energy projects, including solar (IN010301), wind (IN010302), hydro (IN010303), green hydrogen (IN010305), and nuclear power (IN010308).",
+      "type": "cyclical_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-05",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf",
+      "source_date": "2026-07-17"
+    },
+    {
+      "index": 16,
+      "title": "Rising G-Sec yields increase financing costs for capital-intensive projects.",
+      "description": "The 10-Year G-Sec Yield (FBIL) is rising, having increased by 0.31 over the last three periods. This upward trend is increasing the benchmark cost of long-term borrowing, making debt financing more expensive and reducing the financial viability for capital-intensive projects across various Energy sub-sectors. This includes IN010101 (Oilfield Services & Equipment), IN010202 (Midstream), IN010203 (Refining), IN010205 (Gas Distribution), IN010206 (LNG), IN010207 (Coal), IN010208 (Integrated Oil & Gas), IN010301 (Solar), IN010302 (Wind), IN010303 (Hydro), IN010305 (Green Hydrogen), IN010306 (Energy Storage), and IN010308 (Nuclear).",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-05",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf",
+      "source_date": "2026-07-17"
+    },
+    {
+      "index": 17,
+      "title": "High LNG import dependence creates supply risk.",
+      "description": "India's natural gas needs are highly dependent on LNG imports, with approximately 50% of demand met externally and a heavy concentration on Gulf-origin supply and chokepoints like the Strait of Hormuz. This creates systemic fragility, as demonstrated by price escalations and distribution delays during recent geopolitical tensions. This vulnerability extends to critical downstream sectors like fertiliser production (SE02 IN020104), making LNG supply reliability a strategic issue for IN010206 (LNG) rather than purely commercial, increasing exposure to external energy shocks.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-01",
+      "source_doc_id": "8ba91f85-d5b8-5664-b3ec-ec6083475d8b",
+      "source_title": "From LNG dependence to domestic resilience: Securing India's fertiliser future",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/07/from-lng-dependence-to-domestic-resilience-securing-indias-fertiliser-future.html",
+      "source_date": "2026-07-01"
+    },
+    {
+      "index": 18,
+      "title": "Biogas and CBG offer domestic alternative for natural gas.",
+      "description": "Biogas and compressed biogas (CBG) offer a potential domestic alternative to partially substitute imported natural gas in fertiliser production and other industrial applications. Produced from locally available biomass through anaerobic digestion, biogas can be upgraded to biomethane (Bio-CNG), serving as a renewable feedstock for hydrogen production and reducing reliance on imported fossil fuels. This pathway, supported by initiatives like GOBARDHAN, can enhance domestic energy substitution and reduce fertiliser input volatility for IN010307 (Bioenergy & Alternative Fuels) and indirectly benefit IN010205 (Gas Distribution) by linking with CGD networks.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-01",
+      "source_doc_id": "8ba91f85-d5b8-5664-b3ec-ec6083475d8b",
+      "source_title": "From LNG dependence to domestic resilience: Securing India's fertiliser future",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/07/from-lng-dependence-to-domestic-resilience-securing-indias-fertiliser-future.html",
+      "source_date": "2026-07-01"
+    },
+    {
+      "index": 19,
+      "title": "Legacy systems impede full ROI capture from tech investments.",
+      "description": "Approximately 60% of energy executives agree that legacy systems are a significant barrier to realizing full Return on Investment (ROI) from new technology investments. While new digital tools are being adopted, many energy organizations struggle to modernize core operational technology (OT) and IT systems, leading to accumulated digital debt. This constraint limits the long-term value extraction from digital transformation initiatives, hindering widespread adoption of AI and other emerging technologies for operational efficiency and productivity across the SE01 sector.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "158e02e3-416c-546b-9b9e-93bc463af41b",
+      "source_title": "KPMG Global tech report 2026: Energy, Natural Resources and Chemicals",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/kpmg-global-tech-report-2026-energy-natural-resources-and-chemicals.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 20,
+      "title": "AI adoption drives operational efficiency and productivity across energy.",
+      "description": "AI is rapidly moving from pilots to wider enterprise deployment across the energy sector, with the share of companies in piloting phases projected to drop from 29% to 2% within a year. AI applications are driving efficiency in areas like faster exploration, production optimization, smart grid management, and predictive maintenance. It also enhances back-office functions like finance and procurement. Oil & gas (79%) and power & utilities (77%) are leading this prioritization, aiming for significant improvements in operational performance and asset reliability within SE01.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "158e02e3-416c-546b-9b9e-93bc463af41b",
+      "source_title": "KPMG Global tech report 2026: Energy, Natural Resources and Chemicals",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/kpmg-global-tech-report-2026-energy-natural-resources-and-chemicals.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 21,
+      "title": "Cybersecurity is a top priority for energy firms.",
+      "description": "Cybersecurity is a central priority for asset-rich energy organizations due to significant IP holdings and national energy security concerns. It is the number one expected benefit from technology investments (36% of leaders), ahead of revenue growth and operational efficiency. The advent of AI, while bolstering defenses through advanced threat scanning, also empowers cyber criminals with sophisticated attack tools. This escalating cyber war necessitates centralized security platforms with AI-enabled monitoring, real-time threat modeling, and rapid decision-making capabilities for SE01.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "158e02e3-416c-546b-9b9e-93bc463af41b",
+      "source_title": "KPMG Global tech report 2026: Energy, Natural Resources and Chemicals",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/kpmg-global-tech-report-2026-energy-natural-resources-and-chemicals.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 22,
+      "title": "SMRs emerge as solution for powering energy-intensive data centers.",
+      "description": "Small Modular Reactors (SMRs) are identified as an emerging solution to power energy-intensive data centers, which are rapidly exhausting existing power capacity due to skyrocketing AI and data demands. SMRs offer a resilient, redundant, and sustainable power source that can be deployed on or near large load user sites like mega data center developments (SE11 IN110302). This transformative opportunity addresses the critical need for stable, high-density power supply, benefiting IN010308 (Nuclear Energy) by expanding its potential market beyond traditional grid-scale generation.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "158e02e3-416c-546b-9b9e-93bc463af41b",
+      "source_title": "KPMG Global tech report 2026: Energy, Natural Resources and Chemicals",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/kpmg-global-tech-report-2026-energy-natural-resources-and-chemicals.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 23,
+      "title": "Ethanol shifts to diversified fuel architecture beyond E20.",
+      "description": "India's ethanol program is transitioning from a single-blend (E20) system to a diversified fuel architecture. Notified higher blending standards (E22-E30) and flex-fuel pathways (E85/E100) indicate a shift from fixed mandates. Early deployments of flex-fuel vehicles (two-wheelers, passenger vehicles) and initial E85 dispensing infrastructure by IOCL signify this structural evolution. This aims to reposition ethanol as a transport energy backbone, capable of moderating exposure to external fuel price shocks and enhancing long-term energy security for IN010307 (Bioenergy & Alternative Fuels).",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 24,
+      "title": "1G feedstock limitations constrain ethanol scalability beyond E20.",
+      "description": "Progress beyond E20 in India's ethanol program is limited by structural constraints, primarily the dependence on First Generation (1G) feedstock pathways. These pathways rely on food-linked and resource-intensive inputs, restricting the scalability of ethanol production. This limitation, along with demand limits under fixed blending targets and pricing rigidity, prevents ethanol from fully evolving into a flexible transport energy backbone. Diversifying the feedstock base beyond 1G is crucial for sustainable expansion of IN010307 (Bioenergy & Alternative Fuels).",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 25,
+      "title": "Biodiesel program's structural issues hinder diesel decarbonization.",
+      "description": "India's biodiesel blending program, targeting 5% by 2030, has achieved only ~0.5-0.6% in FY2024-25 due to structural constraints. Key challenges include limited and fragmented feedstock availability (used cooking oil, non-edible oilseeds), and a lack of integrated, OMC-led procurement and distribution. These issues prevent consistent, system-wide scale-up, highlighting the difficulty in decarbonizing the large diesel segment. This ongoing limitation pushes the search for alternative liquid pathways for diesel, including low-level ethanol-diesel blends, for IN010307 (Bioenergy & Alternative Fuels).",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 26,
+      "title": "Ethanol-diesel blending offers potential for diesel decarbonization.",
+      "description": "Ethanol-diesel blending (ED5-ED10) is technically feasible at low levels without significant engine modifications, offering modest environmental benefits and an additional outlet for growing ethanol supply. This pathway could partially diversify India's import-reliant diesel dependency and support emissions reduction where electrification is slow. While scalability is currently constrained by technical limitations (cetane value, miscibility, moisture sensitivity), it represents a near-term opportunity to increase clean fuel blending for IN010307 (Bioenergy & Alternative Fuels), particularly in targeted applications like captive fleets and commercial segments.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 27,
+      "title": "Multi-stakeholder misalignment impedes ethanol program progression.",
+      "description": "Progress in India's ethanol ecosystem (IN010307) is increasingly hampered by misalignment among stakeholders. Ethanol producers face underutilization risk despite scaled capacity, OMCs are cautious about incremental capex for multi-grade systems, and OEMs are hesitant to scale flex-fuel vehicles without clear demand visibility. This systemic issue means that individual segment progress is not translating into system-wide scale for higher blends. Coordinated readiness across supply, demand, pricing, infrastructure, and vehicle technology is critical to overcome this misalignment and advance the ethanol program beyond E20.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 28,
+      "title": "Ambitious government targets drive renewable energy expansion.",
+      "description": "India has set an ambitious target to achieve 500 GW of renewable energy capacity by 2030, reducing carbon intensity by 45% and reaching net-zero by 2070. This commitment fuels immense growth potential, especially in solar (IN010301) and wind (IN010302) power. Significant investment of US$ 190-215 billion is projected by 2030 to meet this goal, supported by government schemes like PM Surya Ghar, the National Green Hydrogen Mission (IN010305), and Production Linked Incentive (PLI) schemes for solar PV manufacturing.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 29,
+      "title": "Government investment boosts renewable energy and clean tech.",
+      "description": "The Union Budget 2026-27 increased the MNRE allocation to Rs. 44,614.67 crore (US$ 5.05 billion), a 40.52% increase, supporting flagship schemes for solar deployment (IN010301), energy storage (IN010306), and domestic manufacturing. Furthermore, the National Green Hydrogen Mission received an initial outlay of Rs. 19,744 crore (US$ 2.37 billion) for pilot projects and R&D (IN010305), and the Small Hydro Power Development Scheme has Rs. 2,584.60 crore (US$ 0.29 billion) for 1,500 MW capacity (IN010303). These investments are critical for accelerating India's clean energy transition.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 30,
+      "title": "Shift towards non-conventional energy by conventional producers.",
+      "description": "India’s leading conventional energy producers are increasingly shifting towards non-conventional energy resources to achieve sustainability goals and contribute to clean energy generation. This trend is exemplified by ONGC and NTPC Green acquiring Ayana Renewable Power (4.1 GW solar and wind) and NLC India Renewables partnering with PTC India for 2,000 MW of renewable projects (IN0103). This strategic redirection by major players indicates a fundamental structural change in the energy landscape, accelerating the country's overall decarbonization efforts within SE01.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 31,
+      "title": "Hybrid renewable energy projects drive clean energy portfolio expansion.",
+      "description": "The development of hybrid renewable energy projects, combining solar, wind, and battery storage, is emerging as a significant upside driver for India's clean energy sector. Companies like ReNew Energy are planning substantial investments (Rs. 82,000 crore for 5 GW hybrid projects) and partnerships (KPI Green Energy & Inox Solar for 2.5 GW hybrid projects). These projects aim to overcome the intermittency of standalone renewables, provide round-the-clock (RTC) power, and boost the energy portfolio across IN0103 (Renewable Energy & Clean Tech) segments.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 32,
+      "title": "Growing domestic oil and gas demand drives expansion.",
+      "description": "India is the world's third-largest oil consumer, with petroleum product consumption reaching 243.19 MMT in FY26, growing at a 10-year CAGR of 3.82%. Natural gas consumption in FY26 was 68,753 MMSCM and is projected to grow by nearly 60% by 2030. This robust demand, driven by economic growth and urbanization, fuels the expansion of refining capacity (target 450-500 MT by 2030 for IN010203) and gas infrastructure (LNG import capacity to 50 MT, gas share in energy mix to 15% by 2030 for IN010206, IN010205).",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 33,
+      "title": "Government policy supports oil and gas sector expansion.",
+      "description": "The Indian government provides strong policy support for the oil and gas sector. This includes raising FDI limits for public sector refining projects to 49%, allocating Rs 5,597 crore for Strategic Petroleum Reserves, and planning Rs 3.28 lakh crore capex for petrochemicals by 2030 (which often integrates with downstream oil & gas IN010208). PNGRB is also working to expand city gas distribution, targeting 126.3 million PNG connections and 18,336 CNG stations by 2034 (IN010205). These initiatives drive demand and investment across the oil and gas value chain (IN0102).",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 34,
+      "title": "State-owned companies dominate India's upstream oil and gas.",
+      "description": "India's upstream oil and gas segment (IN010201) is dominated by state-owned companies, particularly ONGC, which accounts for approximately 70% of the country’s total oil and gas output and 60% of crude oil and 55% of natural gas production in FY26. This structural characteristic ensures significant government control over exploration and production activities, influencing investment pace, strategic priorities, and the overall trajectory of domestic crude oil (27.95 MMT in FY26) and natural gas output.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 35,
+      "title": "PM Surya Ghar Yojana boosts rooftop solar capacity.",
+      "description": "The PM Surya Ghar: Muft Bijli Yojana is rapidly accelerating rooftop solar adoption, having crossed 40 lakh beneficiary households and installed over 12 GW of capacity by May 2026. The scheme targets 30 GW capacity by March 2027 and 75 lakh rooftop solar installations by December 2026. This initiative directly stimulates demand and investment in IN010301 (Solar Power), reinforcing India's transition towards distributed renewable energy and energy self-reliance through significant government financial assistance.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "ec3dec89-59fe-5a63-97e9-d1212d20eb9e",
+      "source_title": "Power Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/power-sector-india",
+      "source_date": "2026-05-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Graham Act presents credible tail risk to India's oil economy, manageable.",
+      "description": "The US Senate's Graham Act poses a tail risk to India's oil sector by targeting Russian crude, but the actual discount from Russian oil has significantly eroded to $2-4/bbl. India's annual oil import bill is $140 billion, making this saving marginal. Given India's diversified crude sourcing, physical supply constraints on Russian crude can be absorbed. The greater risk is a sustained rise in Brent prices above $100/bbl due to broader disruptions, not primarily the Act itself, implying India's resilience is robust but not absolute.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge",
+      "source_date": "2026-08-14",
+      "source_doc_id": "441f51e4-bcdc-5903-9f9d-a8b790be4d53",
+      "source_title": "Crude Oil at the Geo-political Crossroads",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786703928_Crude%20Oil%20at%20the%20Geo-political%20Crossroads.pdf"
+    },
+    {
+      "index": 2,
+      "title": "Disorderly exit from Russian crude amidst Hormuz closure poses significant threat.",
+      "description": "A forced, disorderly exit from Russian crude while the Strait of Hormuz remains closed presents a far greater challenge to India's oil economy than the Graham Act alone. This scenario would significantly tighten global crude supply, driving Brent prices above $100/bbl. Such a sustained price surge would inflict material damage on the Indian economy, especially if crude becomes a geopolitical tool rather than merely an input cost, highlighting severe macroeconomic vulnerability for IN0102.",
+      "stance": "negative",
+      "source_firm": "CareEdge",
+      "source_date": "2026-08-14",
+      "source_doc_id": "441f51e4-bcdc-5903-9f9d-a8b790be4d53",
+      "source_title": "Crude Oil at the Geo-political Crossroads",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786703928_Crude%20Oil%20at%20the%20Geo-political%20Crossroads.pdf"
+    },
+    {
+      "index": 3,
+      "title": "Indian refiners demonstrate strong agility in redirecting crude oil sourcing.",
+      "description": "Indian refiners have proven their remarkable agility in adapting crude oil sourcing strategies at speed. A prime example is the rapid shift from Iraqi and Saudi crude grades to Russian barrels within just six months of 2026, following the closure of the Strait of Hormuz. This demonstrates the sector's capability to manage physical supply disruptions by reorienting its import basket to alternative sources, ensuring continued operations despite geopolitical challenges for IN010203 and IN010208.",
+      "stance": "positive",
+      "source_firm": "CareEdge",
+      "source_date": "2026-08-14",
+      "source_doc_id": "441f51e4-bcdc-5903-9f9d-a8b790be4d53",
+      "source_title": "Crude Oil at the Geo-political Crossroads",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786703928_Crude%20Oil%20at%20the%20Geo-political%20Crossroads.pdf"
+    },
+    {
+      "index": 4,
+      "title": "India's external sector remains resilient despite volatile crude prices.",
+      "description": "India's external sector shows resilience despite the West Asia crisis and volatile crude oil prices. While higher crude prices are expected to widen the Current Account Deficit (CAD) in FY27, CareEdge has lowered its CAD-to-GDP projection to a more benign 0.8-1.2% (assuming Brent at $80-85/bbl) from an earlier 2.1%. This improved outlook for external stability helps alleviate pressure on the Indian Rupee and reduces the likelihood of adverse policy interventions in the energy sector, supporting overall stability for SE01.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge",
+      "source_date": "2026-07-17",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf"
+    },
+    {
+      "index": 5,
+      "title": "India must diversify energy mix, boost alternatives to manage geopolitical vulnerability.",
+      "description": "India must decisively manage its energy vulnerability stemming from geopolitical conflicts by reducing its reliance on imported oil and gas. The most effective solution involves developing alternative energy sources such as syngas from coal gasification and nuclear energy. These alternatives, which form significant energy shares in other major economies, are crucial for insulating India from persistent external shocks, thereby transforming geopolitical challenges into opportunities for enhancing energy security and domestic resilience within SE01, specifically promoting IN010207 and IN010308.",
+      "stance": "positive",
+      "source_firm": "CareEdge",
+      "source_date": "2026-07-17",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf"
+    },
+    {
+      "index": 6,
+      "title": "India's LNG sector faces structural vulnerability from geopolitical supply shocks.",
+      "description": "India's LNG sector faces significant structural exposure to external energy shocks, exacerbated by current geopolitical conditions. Approximately 50% of India's LNG demand is met through imports, heavily concentrated in Gulf origins (Qatar, UAE), making the country vulnerable to disruptions like the Strait of Hormuz closure. Such events lead to immediate price surges, strain on domestic reserves, and distribution delays for commercial users. While short-term fiscal measures provide cushioning, the underlying dependence remains, posing a strategic fragility for IN010206 and downstream sectors like fertiliser production.",
+      "stance": "cautious_negative",
+      "source_firm": "KPMG",
+      "source_date": "2026-07-01",
+      "source_doc_id": "8ba91f85-d5b8-5664-b3ec-ec6083475d8b",
+      "source_title": "From LNG dependence to domestic resilience: Securing India's fertiliser future",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/07/from-lng-dependence-to-domestic-resilience-securing-indias-fertiliser-future.html"
+    },
+    {
+      "index": 7,
+      "title": "Energy sector rapidly modernizing operations with integrated digital technologies.",
+      "description": "The energy sector is decisively integrating technology into its operations, rapidly modernizing and digitizing. Companies are prioritizing integrated digital ecosystems, leveraging cloud platforms, digital twins, automation, and AI-driven decision support to enhance efficiency. Emerging technologies like advanced robotics, edge computing, and quantum are accelerating operational efficiency, improving reliability, and supporting decarbonization pathways across the sector. This strong momentum in technology adoption is transforming the energy industry, converting investments into sustained operational performance and growing financial returns across SE01.",
+      "stance": "positive",
+      "source_firm": "KPMG International",
+      "source_date": "2026-06-01",
+      "source_doc_id": "158e02e3-416c-546b-9b9e-93bc463af41b",
+      "source_title": "KPMG Global tech report 2026: Energy, Natural Resources and Chemicals",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/kpmg-global-tech-report-2026-energy-natural-resources-and-chemicals.html"
+    },
+    {
+      "index": 8,
+      "title": "Ethanol emerges as key pillar in India's energy transition, achieving E20 early.",
+      "description": "Ethanol has become a critical component of India's energy transition, evolving from a policy intervention for surplus sugar to a nationally integrated ecosystem. The achievement of 20% ethanol blending (E20) ahead of schedule highlights strong policy intent and the country's capability to execute complex, multi-stakeholder transformations. This milestone establishes ethanol as an embedded operational structure within the transport fuel system, repositioning it beyond a marginal blending component, and strengthening the link between agriculture and energy for IN010307 (Bioenergy & Alternative Fuels).",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html"
+    },
+    {
+      "index": 9,
+      "title": "Ethanol can stabilize India's transport fuel against crude price volatility.",
+      "description": "India's transport fuel economy remains structurally exposed to global crude price volatility, leading to macroeconomic impacts like inflation and fiscal pressures. Despite this, domestically produced ethanol, already integrated into the system, offers significant potential as a stabilizing component within the fuel mix. Its role can expand beyond import substitution to function as a transport energy backbone, absorbing price shocks through flexible utilization, including higher pool blends and flex-fuel pathways. This strategic shift enhances resilience and strengthens long-term energy security for IN010307 (Bioenergy & Alternative Fuels).",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html"
+    },
+    {
+      "index": 10,
+      "title": "India makes significant progress in renewable energy capacity and clean energy goals.",
+      "description": "India is demonstrating significant progress in its renewable energy sector, with installed capacity reaching 225.61 GW as of May 2026, comprising 157.05 GW of solar and 56.81 GW of wind power. Renewables now account for 41.60% of India's total 542.36 GW installed power capacity, highlighting substantial advancement towards non-fossil fuel targets, energy storage adoption, and global clean energy leadership. This robust growth underscores India's commitment to energy transition and decarbonization goals within IN0103 (Renewable Energy & Clean Tech).",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "source_doc_id": "ec3dec89-59fe-5a63-97e9-d1212d20eb9e",
+      "source_title": "Power Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/power-sector-india"
+    },
+    {
+      "index": 11,
+      "title": "India surpasses climate targets, showing immense renewable energy growth potential.",
+      "description": "India is demonstrating strong leadership in its energy transition, surpassing climate targets with 100 GW of solar power, 47% non-fossil fuel power, and a 36% reduction in emissions intensity. The country holds immense growth potential in renewable energy, particularly in solar (IN010301) and wind (IN010302), with an ambitious target of 500 GW renewable energy capacity by 2030. This highlights a clear positive trajectory for the entire IN0103 (Renewable Energy & Clean Tech) sector, driven by strategic national goals and favorable policy environment.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 140.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Overall energy consumption",
+          "description": "Rising energy needs from industrial and economic growth contribute to the import bill."
+        },
+        {
+          "driver": "Economic activity",
+          "description": "Increased economic activity drives demand for transportation and industrial fuels, boosting imports."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Global crude oil prices",
+          "description": "Higher international crude prices directly inflate the import bill, impacting profitability of downstream sectors if not passed on."
+        },
+        {
+          "driver": "INR exchange rate",
+          "description": "INR depreciation against the USD increases the cost of USD-denominated imports in local currency terms."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Annual oil import bill, approaching $140 billion as of August 2026.",
+      "source_firm": "CareEdge",
+      "source_date": "2026-08-14",
+      "data_confidence": "high",
+      "source_doc_id": "441f51e4-bcdc-5903-9f9d-a8b790be4d53",
+      "source_title": "Crude Oil at the Geo-political Crossroads",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786703928_Crude%20Oil%20at%20the%20Geo-political%20Crossroads.pdf"
+    },
+    {
+      "index": 2,
+      "tam_value": 13700.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "LPG sourcing costs (Saudi CP)",
+          "description": "High international LPG prices directly increase procurement costs for OMCs."
+        },
+        {
+          "driver": "Retail price regulation",
+          "description": "Government regulation of domestic LPG retail prices prevents OMCs from fully passing on increased costs to consumers."
+        },
+        {
+          "driver": "Government compensation",
+          "description": "While compensation helps, it may be insufficient or delayed, contributing to under-recoveries."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Combined LPG under-recoveries for major Oil Marketing Companies (OMCs) in Q1FY27 (April-June 2026), after adjusting for Rs 7,500 crore in government compensation.",
+      "source_firm": "CareEdge",
+      "source_date": "2026-08-14",
+      "data_confidence": "high",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf"
+    },
+    {
+      "index": 3,
+      "tam_value": 61900.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "LPG sourcing costs (Saudi CP)",
+          "description": "Rising international LPG prices directly increase the cost of procurement for OMCs."
+        },
+        {
+          "driver": "Retail price regulation",
+          "description": "Government-regulated domestic retail prices prevent full pass-through of increased sourcing costs, leading to under-recoveries."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Cumulative LPG under-recoveries by June 30, 2026, up from Rs 48,200 crore on March 31, 2026.",
+      "source_firm": "CareEdge",
+      "source_date": "2026-08-14",
+      "data_confidence": "high",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 5.0,
+      "historical_cagr_period": "10_year_to_FY26",
+      "demand_drivers": [
+        {
+          "driver": "Household energy needs",
+          "description": "Increasing household adoption and usage of LPG for cooking and other domestic purposes."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "LPG consumption grew at a 10-year CAGR of ~5% up to FY26, with domestic production lagging at ~2% growth over the same period. Import dependency increased from 48% in FY17 to ~60% in FY26.",
+      "source_firm": "CareEdge",
+      "source_date": "2026-08-14",
+      "data_confidence": "high",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf"
+    },
+    {
+      "index": 5,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2032,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Grid stability",
+          "description": "Need for grid balancing and reliability with increasing renewable energy integration."
+        },
+        {
+          "driver": "Renewable integration",
+          "description": "Managing intermittency of solar and wind power requires robust storage solutions."
+        },
+        {
+          "driver": "Energy security",
+          "description": "Strategic importance of domestic energy storage capacity for national energy security."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "National Electricity Plan (NEP) identified requirement for energy storage by FY2032. Also includes a 47.24 GW capacity requirement.",
+      "source_firm": "EY-Parthenon",
+      "source_date": "2026-08-07",
+      "data_confidence": "high",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects"
+    },
+    {
+      "index": 6,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2032,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2027_to_2032",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Grid-scale procurement",
+          "description": "Increasing tenders for standalone BESS, RTC, FDRE, and solar-plus-storage projects."
+        },
+        {
+          "driver": "Renewable integration",
+          "description": "Growing share of intermittent renewables necessitates grid-scale storage for stability."
+        },
+        {
+          "driver": "Policy support",
+          "description": "Government policies and frameworks promoting BESS deployment and procurement."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Optimistic projection for Front-of-the-Meter (FTM) BESS deployment, aligning with the NEP target of 236 GWh. Business-as-usual is ~190 GWh, pessimistic is ~120 GWh.",
+      "source_firm": "EY-Parthenon",
+      "source_date": "2026-08-07",
+      "data_confidence": "high",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects"
+    },
+    {
+      "index": 7,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 130.0,
+      "forecast_cagr_period": "up_to_2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Domestic BESS deployment",
+          "description": "Rising demand for energy storage systems within India drives local manufacturing."
+        },
+        {
+          "driver": "Energy security",
+          "description": "Government emphasis on reducing import dependence for critical energy components."
+        },
+        {
+          "driver": "PLI schemes",
+          "description": "Production-Linked Incentive schemes support local manufacturing and capacity expansion."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Announced domestic cell-to-pack manufacturing capacity, estimated to reach ~80-85 GWh by 2030 from a negligible base.",
+      "source_firm": "EY-Parthenon",
+      "source_date": "2026-08-07",
+      "data_confidence": "high",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects"
+    },
+    {
+      "index": 8,
+      "tam_value": 188.0,
+      "tam_unit": "MMSCMD",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Fertiliser production",
+          "description": "Natural gas is a critical feedstock for ammonia production, a key component of nitrogenous fertilisers."
+        },
+        {
+          "driver": "CGD sector",
+          "description": "City Gas Distribution networks consume natural gas for CNG (transport) and PNG (household piped gas)."
+        },
+        {
+          "driver": "Industrial applications",
+          "description": "Various industries use natural gas as fuel and feedstock."
+        },
+        {
+          "driver": "Power generation",
+          "description": "Natural gas-fired power plants contribute to electricity supply."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s total natural gas consumption in 2023-24, where domestic production supplied 98 MMSCMD and LNG imports accounted for 90 MMSCMD.",
+      "source_firm": "KPMG",
+      "source_date": "2026-07-01",
+      "data_confidence": "high",
+      "source_doc_id": "8ba91f85-d5b8-5664-b3ec-ec6083475d8b",
+      "source_title": "From LNG dependence to domestic resilience: Securing India's fertiliser future",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/07/from-lng-dependence-to-domestic-resilience-securing-indias-fertiliser-future.html"
+    },
+    {
+      "index": 9,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government policy (EBP program)",
+          "description": "Mandates and incentives for ethanol blending drive its adoption in petrol."
+        },
+        {
+          "driver": "Crude import substitution",
+          "description": "Ethanol blending reduces reliance on imported crude oil, supporting energy security."
+        },
+        {
+          "driver": "Surplus sugar utilization",
+          "description": "Ethanol production provides an outlet for surplus agricultural produce, particularly sugar."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Notified higher blending percentages open new avenues for ethanol consumption.",
+          "opportunity": "Higher blend standards (E22-E30)"
+        },
+        {
+          "description": "Development of vehicles and infrastructure for higher ethanol blends creates new demand segments.",
+          "opportunity": "Flex-fuel pathways (E85/E100)"
+        }
+      ],
+      "methodology": "Ethanol blending in petrol increased from ~1.5% in ESY 2013-14 to 20% in ESY 2025-26, achieving the E20 target ahead of schedule. This is a percentage achievement rather than a market size figure.",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "data_confidence": "high",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html"
+    },
+    {
+      "index": 10,
+      "tam_value": 1.67,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Reduced crude imports",
+          "description": "Ethanol blending directly displaces imported crude oil, leading to foreign exchange savings."
+        },
+        {
+          "driver": "Stable ethanol pricing",
+          "description": "Administered pricing for ethanol ensures predictable cost benefits compared to volatile crude prices."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Cumulative foreign exchange saved through ethanol blending from ESY 2014-15 to January 2026. Also displaced ~283 lakh metric tonnes of crude oil and avoided ~851 lakh tonnes of CO2 emissions.",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "data_confidence": "high",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html"
+    },
+    {
+      "index": 11,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Ethanol blending program (EBP)",
+          "description": "Government mandates and targets for ethanol blending drive investment in distillation capacity."
+        },
+        {
+          "driver": "Higher blend standards (E22-E30)",
+          "description": "Notified and future higher blending percentages create sustained demand for ethanol production."
+        },
+        {
+          "driver": "Flex-fuel pathways (E85/E100)",
+          "description": "Development of flex-fuel vehicles and dispensing infrastructure creates demand for higher concentration ethanol fuels."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Installed ethanol capacity as of May 2026.",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "data_confidence": "high",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html"
+    },
+    {
+      "index": 12,
+      "tam_value": 225.61,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government policy (non-fossil fuel targets)",
+          "description": "National commitments to increase non-fossil fuel electricity generation drive renewable capacity additions."
+        },
+        {
+          "driver": "Energy storage adoption",
+          "description": "Integration of energy storage systems supports higher penetration of intermittent renewables."
+        },
+        {
+          "driver": "Global clean energy leadership",
+          "description": "India's ambition to be a leader in clean energy drives investment and expansion in renewables."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total installed renewable energy capacity as of May 2026, including solar (157.05 GW) and wind (56.81 GW).",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "ec3dec89-59fe-5a63-97e9-d1212d20eb9e",
+      "source_title": "Power Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/power-sector-india"
+    },
+    {
+      "index": 13,
+      "tam_value": 30.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2028,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Renewable energy integration",
+          "description": "Growing renewable capacity necessitates storage to manage intermittency and ensure reliable supply."
+        },
+        {
+          "driver": "Grid stability",
+          "description": "Energy storage is crucial for maintaining grid stability and providing ancillary services in a rapidly evolving energy mix."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected storage-backed renewable energy capacity by FY28 (2027-28), rising sharply from almost nil in FY25. The range is 25-30 GW.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "ec3dec89-59fe-5a63-97e9-d1212d20eb9e",
+      "source_title": "Power Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/power-sector-india"
+    },
+    {
+      "index": 14,
+      "tam_value": 291.53,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Decarbonization targets",
+          "description": "National commitments to reduce carbon emissions drive the shift towards non-fossil fuel sources."
+        },
+        {
+          "driver": "Energy transition",
+          "description": "Broader shift in energy policy and investment towards cleaner energy generation methods."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total installed generation capacity from non-fossil fuel sources as of May 2026.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "ec3dec89-59fe-5a63-97e9-d1212d20eb9e",
+      "source_title": "Power Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/power-sector-india"
+    },
+    {
+      "index": 15,
+      "tam_value": 8.78,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Installed nuclear capacity as of May 2026.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "ec3dec89-59fe-5a63-97e9-d1212d20eb9e",
+      "source_title": "Power Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/power-sector-india"
+    },
+    {
+      "index": 16,
+      "tam_value": 100.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2047,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Energy security",
+          "description": "Nuclear power provides stable, baseload electricity, reducing reliance on external energy sources."
+        },
+        {
+          "driver": "Baseload power",
+          "description": "Need for continuous and reliable electricity generation to support economic growth and complement intermittent renewables."
+        },
+        {
+          "driver": "Decarbonization",
+          "description": "Nuclear energy offers zero-emission power generation, crucial for meeting climate targets."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "National target for nuclear power capacity under India's Nuclear Energy Mission.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "ec3dec89-59fe-5a63-97e9-d1212d20eb9e",
+      "source_title": "Power Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/power-sector-india"
+    },
+    {
+      "index": 17,
+      "tam_value": 30.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Household electrification",
+          "description": "Government initiatives to extend electricity access to all households, promoting rooftop solar as a decentralized option."
+        },
+        {
+          "driver": "Energy self-reliance",
+          "description": "Promoting distributed energy generation to reduce reliance on grid power and external energy sources."
+        },
+        {
+          "driver": "Government subsidies",
+          "description": "Financial incentives provided under the scheme reduce upfront costs for consumers, stimulating adoption."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Target capacity addition by March 2027 under the PM Surya Ghar: Muft Bijli Yojana rooftop solar scheme, aiming to provide free electricity to one crore households.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "ec3dec89-59fe-5a63-97e9-d1212d20eb9e",
+      "source_title": "Power Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/power-sector-india"
+    },
+    {
+      "index": 18,
+      "tam_value": 258.12,
+      "tam_unit": "MMTPA",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing domestic petroleum product consumption",
+          "description": "Increasing demand for fuels like petrol and diesel due to economic growth and vehicle fleet expansion."
+        },
+        {
+          "driver": "Export opportunities",
+          "description": "India's position as a refining hub allows it to export refined products to international markets."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total Indian refining capacity as of FY25, increased from 251 MMTPA in FY24.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india"
+    },
+    {
+      "index": 19,
+      "tam_value": 500.0,
+      "tam_unit": "mn_tonnes",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising oil demand",
+          "description": "Projected increase in crude oil and petroleum product consumption drives need for more refining capacity."
+        },
+        {
+          "driver": "Petrochemicals expansion",
+          "description": "Integration with a growing petrochemicals sector demands more feedstock from refineries."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "National target to double refining capacity to 450-500 million tonnes by 2030.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india"
+    },
+    {
+      "index": 20,
+      "tam_value": 243.19,
+      "tam_unit": "MMT",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 3.82,
+      "historical_cagr_period": "10_year_to_FY26",
+      "demand_drivers": [
+        {
+          "driver": "Economic growth",
+          "description": "Robust economic expansion drives industrial activity and transportation, increasing fuel demand."
+        },
+        {
+          "driver": "Urbanization",
+          "description": "Growing urban populations lead to higher vehicle ownership and increased demand for fuels."
+        },
+        {
+          "driver": "Industrial activity",
+          "description": "Expansion of manufacturing and other industries boosts consumption of petroleum products as feedstock and fuel."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total consumption of petroleum products in FY26, which increased from 158.4 MMT in FY14 and 239.22 MMT in FY25. The compounded annual growth rate (CAGR) over the past decade (to FY26) was 3.82%.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india"
+    },
+    {
+      "index": 21,
+      "tam_value": 68753.0,
+      "tam_unit": "MMSCM",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "up_to_2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Industrial consumers",
+          "description": "Increasing use of natural gas as fuel and feedstock in various industries."
+        },
+        {
+          "driver": "Residential sector",
+          "description": "Growing adoption of Piped Natural Gas (PNG) for household use."
+        },
+        {
+          "driver": "Transport sector",
+          "description": "Expansion of Compressed Natural Gas (CNG) as a vehicular fuel."
+        },
+        {
+          "driver": "Energy sector",
+          "description": "Natural gas demand from power generation and other energy-related applications."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total natural gas consumption in FY26. It is projected to grow by nearly 60% by 2030. Consumption was 71,314 MMSCM in FY25.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india"
+    },
+    {
+      "index": 22,
+      "tam_value": 50.0,
+      "tam_unit": "MT",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising gas demand",
+          "description": "Overall increase in natural gas consumption across industrial, residential, and transport sectors."
+        },
+        {
+          "driver": "Strategic energy security goals",
+          "description": "Government's objective to diversify energy sources and ensure stable gas supply."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Planned LNG import capacity target for India in the coming years. LNG imports are estimated to double by 2028.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india"
+    },
+    {
+      "index": 23,
+      "tam_value": 34427.0,
+      "tam_unit": "MMSCM",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Natural gas demand",
+          "description": "Increased consumption of natural gas across various sectors necessitates higher LNG imports."
+        },
+        {
+          "driver": "Industrial and power sector growth",
+          "description": "Expansion in energy-intensive industries and power generation drives demand for imported LNG."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "LNG imports during FY26, reflecting a 12.3% YoY increase over FY24.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india"
+    },
+    {
+      "index": 24,
+      "tam_value": 27.95,
+      "tam_unit": "MMT",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's crude oil production in FY26. Production in FY25 was 28.71 MMT.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india"
+    },
+    {
+      "index": 25,
+      "tam_value": 61.43,
+      "tam_unit": "MMT",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Petroleum product exports in FY26. Major export items included HSD (27.32 MMT), Motor Spirit (MS), Aviation Turbine Fuel (ATF), and Naphtha.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india"
+    },
+    {
+      "index": 26,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Urbanization",
+          "description": "Growing urban areas increase demand for city gas distribution (CGD) networks."
+        },
+        {
+          "driver": "Industrial growth",
+          "description": "Industrial expansion drives the need for cleaner and more efficient fuels like natural gas."
+        },
+        {
+          "driver": "Policy support for cleaner fuels",
+          "description": "Government initiatives promote natural gas to reduce pollution and diversify the energy mix."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Increased geographic authorization and infrastructure development for CNG and PNG.",
+          "opportunity": "Expansion of CGD networks"
+        },
+        {
+          "description": "Expansion of LNG infrastructure to support long-haul transport and industrial use.",
+          "opportunity": "50 new LNG stations"
+        },
+        {
+          "description": "Promotion of Compressed Biogas (CBG) as a sustainable alternative fuel.",
+          "opportunity": "CBG development"
+        }
+      ],
+      "methodology": "Target to raise gas's share in India's energy mix from 6.5% to 15% by 2030. City gas companies also target 50 new LNG stations.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india"
+    },
+    {
+      "index": 27,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Climate commitments",
+          "description": "National and international pledges to reduce carbon emissions drive renewable adoption."
+        },
+        {
+          "driver": "Energy transition",
+          "description": "Strategic shift away from fossil fuels towards sustainable energy sources."
+        },
+        {
+          "driver": "Decarbonization",
+          "description": "Efforts to green the electricity grid and achieve net-zero emission targets."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Target for renewable energy share in cumulative electric power installed capacity by 2030 (50%). India already has 47% non-fossil fuel power.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 28,
+      "tam_value": 230780.0,
+      "tam_unit": "MW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Combined installed capacity of renewable energy sources (Small Hydro Power, Wind Power, Solar Power and Bio-Power) as of May 2026.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 29,
+      "tam_value": 215.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "2023_to_2030",
+      "demand_drivers": [
+        {
+          "driver": "National renewable energy targets",
+          "description": "Ambitious goal of 500 GW by 2030 drives massive investment in the sector."
+        },
+        {
+          "driver": "Energy transition",
+          "description": "The shift away from fossil fuels necessitates capital deployment into renewable generation and associated infrastructure."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected investment required between 2023 and 2030 to achieve the target of 500 GW of renewable energy capacity by 2030. This also includes another US$ 150-170 billion for electricity transmission, distribution, and energy storage.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 30,
+      "tam_value": 100.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "National renewable energy targets",
+          "description": "India's broader goal of 500 GW renewable capacity by 2030 includes significant contribution from wind power."
+        },
+        {
+          "driver": "Energy transition",
+          "description": "Continued push for clean energy to meet climate commitments and reduce fossil fuel dependence."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Target for wind energy production capacity by 2030, set by the Indian Wind Turbine Manufacturers Association (IWTMA). Current installed wind capacity is over 50 GW.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 31,
+      "tam_value": 145.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Baseload power",
+          "description": "Hydropower provides a stable and dispatchable source of electricity."
+        },
+        {
+          "driver": "Grid stability",
+          "description": "Hydropower helps in grid balancing and managing peak demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated hydropower potential in India. Over ~50 GW is currently being utilised.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 32,
+      "tam_value": 67.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2032,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government's proactive stance towards accelerated hydropower development",
+          "description": "Policy support and investment drive new project development and capacity expansion."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected total hydro capacity by 2031-32, including 15 GW of projects currently under construction. Current capacity is 42 GW.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 33,
+      "tam_value": 1500.0,
+      "tam_unit": "MW",
+      "sam_value": null,
+      "as_of_year": 2031,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Decentralized renewable energy",
+          "description": "Promotion of local power generation, particularly in remote and underserved areas."
+        },
+        {
+          "driver": "Focus on hilly/North Eastern regions",
+          "description": "Targeted development in regions with high SHP potential and specific energy needs."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Target capacity from the Small Hydro Power (SHP) Development Scheme for 2026-31, with an outlay of Rs. 2,584.60 crore (US$ 0.29 billion).",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 34,
+      "tam_value": 19744.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Development of capacity for producing hydrogen via electrolysis using renewable energy.",
+          "opportunity": "Green hydrogen production"
+        },
+        {
+          "description": "Funding for demonstration projects to prove technical and economic viability.",
+          "opportunity": "Pilot projects"
+        },
+        {
+          "description": "Investment in research and development to advance green hydrogen technologies.",
+          "opportunity": "R&D"
+        },
+        {
+          "description": "Strategic Interventions for Green Hydrogen Transition programme aims to boost domestic manufacturing of electrolysers and production of green hydrogen.",
+          "opportunity": "SIGHT programme"
+        }
+      ],
+      "methodology": "Total initial outlay for the National Green Hydrogen Mission, approved by the Union Cabinet. Includes Rs. 17,490 crore for the SIGHT programme and Rs. 1,466 crore for pilot projects.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 35,
+      "tam_value": 908.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Advanced bioethanol production",
+          "description": "Government support for projects that utilize renewable feedstocks for ethanol production."
+        },
+        {
+          "driver": "Renewable feedstocks",
+          "description": "Emphasis on sustainable and non-food crop based raw materials for bioethanol."
+        },
+        {
+          "driver": "Decarbonization",
+          "description": "Bioethanol contributes to reducing carbon emissions in the transport sector."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Approved financial support for 2G bioethanol projects under the Pradhan Mantri Jaiv Indhan - Vatavaran Anukool Fasal Awashesh Nivaran (PM JI-VAN) Yojana, amended in 2024. This amounts to over US$ 106.7 million.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    }
+  ],
+  "sources": [
+    "CareEdge",
+    "KPMG",
+    "KPMG International",
+    "IBEF",
+    "EY-Parthenon"
+  ],
+  "documents": [
+    {
+      "doc_id": "441f51e4-bcdc-5903-9f9d-a8b790be4d53",
+      "title": "Crude Oil at the Geo-political Crossroads",
+      "publisher": "careedge",
+      "date": "2026-08-14",
+      "url": "https://www.careratings.com/uploads/newsfiles/1786703928_Crude%20Oil%20at%20the%20Geo-political%20Crossroads.pdf"
+    },
+    {
+      "doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "title": "CareEdge FORESIGHTS - July 2026",
+      "publisher": "careedge",
+      "date": "2026-07-17",
+      "url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf"
+    },
+    {
+      "doc_id": "8ba91f85-d5b8-5664-b3ec-ec6083475d8b",
+      "title": "From LNG dependence to domestic resilience: Securing India's fertiliser future",
+      "publisher": "kpmg",
+      "date": "2026-07-01",
+      "url": "https://kpmg.com/in/en/insights/2026/07/from-lng-dependence-to-domestic-resilience-securing-indias-fertiliser-future.html"
+    },
+    {
+      "doc_id": "158e02e3-416c-546b-9b9e-93bc463af41b",
+      "title": "KPMG Global tech report 2026: Energy, Natural Resources and Chemicals",
+      "publisher": "kpmg",
+      "date": "2026-06-01",
+      "url": "https://kpmg.com/in/en/insights/2026/06/kpmg-global-tech-report-2026-energy-natural-resources-and-chemicals.html"
+    },
+    {
+      "doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "publisher": "kpmg",
+      "date": "2026-06-01",
+      "url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html"
+    },
+    {
+      "doc_id": "ec3dec89-59fe-5a63-97e9-d1212d20eb9e",
+      "title": "Power Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/power-sector-india"
+    },
+    {
+      "doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "title": "Renewable Energy Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "doc_id": "90526139-4648-5f23-8207-7a39955be741",
+      "title": "Corporate Credit Drives Bank Credit Growth in July 2026",
+      "publisher": "careedge",
+      "date": "2026-09-04",
+      "url": "https://www.careratings.com/uploads/newsfiles/1788516444_Corporate%20Credit%20Drives%20Bank%20Credit%20Growth%20in%20July%202026.pdf"
+    },
+    {
+      "doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "publisher": "careedge",
+      "date": "2026-08-14",
+      "url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf"
+    },
+    {
+      "doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "title": "Why India's BESS growth story depends on delivering bankable projects",
+      "publisher": "ey",
+      "date": "2026-08-07",
+      "url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects"
+    },
+    {
+      "doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "title": "Oil And Gas Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/oil-gas-india"
+    }
+  ]
+}

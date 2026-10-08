@@ -1,0 +1,561 @@
+{
+  "geography": "IN",
+  "forces": [
+    {
+      "index": 1,
+      "title": "AI shifts IT service contracts to outcome-based models",
+      "description": "AI-driven productivity gains, estimated at 20-40%, are fundamentally reshaping client expectations and IT service contracting models. Clients are increasingly demanding pay-for-results rather than traditional per-FTE contracts, compelling IT services firms to adapt to fixed-price, subscription, and usage-based deals. This transition requires companies to move beyond headcount-driven revenue, focus on delivering measurable business outcomes, and invest in AI platforms and solutions that demonstrate clear value, thus transforming the industry's profitability and delivery frameworks.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 2,
+      "title": "Agentic AI drives demand for integration and governance services",
+      "description": "The shift of Agentic AI from experimentation to enterprise-wide adoption is creating significant demand for specialized IT services. The primary challenge is no longer technology availability but the complex integration of autonomous agents into existing business processes, legacy IT environments, and governance structures. This necessitates IT consulting and system integration for deployment, establishing decision boundaries, human oversight, and accountability frameworks. Indian enterprises require new operating models and talent, such as Forward Deployment Engineers, to operationalize AI safely, autonomously, and at scale, significantly boosting the IT services market.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-01",
+      "source_doc_id": "08800f23-69c1-5c44-81b3-5e61f83ef0f2",
+      "source_title": "The agentic AI imperative: Why Indian enterprises need a new deployment playbook",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/blogs/2026/07/the-agentic-ai-imperative-why-indian-enterprises-need-a-new-deployment-playbook.html",
+      "source_date": "2026-07-01"
+    },
+    {
+      "index": 3,
+      "title": "RBI regulations mandate cybersecurity and tech governance upgrades",
+      "description": "New technology-focused Master Directions issued by the Reserve Bank of India (RBI) on July 31, 2026, consolidate regulatory expectations for cybersecurity, IT governance, operational resilience, and information systems assurance across financial entities. This necessitates immediate alignment of existing controls and governance structures, creating a substantial tailwind for IT services. Banks and other regulated entities will require extensive support in gap assessments, remediation planning, implementing baseline controls, continuous monitoring, incident reporting, and managing third-party technology risks, driving significant IT consulting and cybersecurity engagements.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-01",
+      "source_doc_id": "5117e92b-4f62-5b87-a6be-8443a84e048e",
+      "source_title": "RBI’s technology focused master directions issued on 31 July 2026",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/09/rbis-technology-focused-master-directions-issued-on-31-july-2026.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "index": 4,
+      "title": "GCCs transform into strategic, AI-native value drivers",
+      "description": "India’s Global Capability Centres (GCCs), particularly in sectors like Retail and CPG, are undergoing a fundamental transformation. They are moving beyond traditional cost-efficiency mandates to become strategic partners, driving innovation and enterprise-wide value. GCCs are increasingly owning core business processes such as merchandising, supply chain, and customer experience, embedding advanced analytics, AI, and agentic capabilities into their operations. This evolution towards an 'AI-native, outcome-driven' operating model requires strong data foundations and ecosystem partnerships, signifying a profound shift in their role and contribution to global organizations.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-04",
+      "source_doc_id": "226b1cad-1849-55d7-821f-7f18b4f788a4",
+      "source_title": "How India GCCs are driving core retail and CPG value",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/media/podcasts/how-india-gccs-are-driving-core-retail-and-cpg-value",
+      "source_date": "2026-05-04"
+    },
+    {
+      "index": 5,
+      "title": "AI-driven headcount compression transforms GCC workforce structure",
+      "description": "Artificial intelligence is projected to significantly impact headcount in Global Capability Centres (GCCs), with potential reductions of 25-35% in three years and 55-65% in five to ten years. This compression results from AI automating junior, repetitive tasks, fundamentally recomposing the workforce. While this promises 3-5 times higher economic value per person, it poses a key risk of talent displacement if not managed proactively. GCCs must strategically redeploy talent and invest in new, judgment-intensive roles like AI governance architects and agentic systems designers to maintain strategic relevance.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-01",
+      "source_doc_id": "7fe51588-b931-5057-aeb6-2e69bb5ddb01",
+      "source_title": "What happens when AI fulfils the promise your GCC was built on?",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/blogs/2026/05/what-happens-when-ai-fulfils-the-promise-your-gcc-was-built-on.html",
+      "source_date": "2026-05-01"
+    },
+    {
+      "index": 6,
+      "title": "Increasing demand for specialized cybersecurity expertise",
+      "description": "The global business landscape faces intense cyber-warfare, sophisticated attacks, and heightened regulatory scrutiny, exacerbated by AI-driven threats. This environment is fueling a sharp increase in demand for specialized cybersecurity expertise, particularly in areas like AI security, cloud security, and third-party risk management. Cyber GCCs in India are strategically positioned to meet this demand, building world-class workforces and significantly scaling up capabilities in cyber fusion centers and security operations, thereby ensuring resilience and driving innovation for global organizations.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-01",
+      "source_doc_id": "1897d41d-4764-54f2-87cd-3ce3ad76f038",
+      "source_title": "Secure in India 2026: Cyber GCCs in the age of AI",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/09/secure-in-india-2026-cyber-gccs-in-the-age-of-ai.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "index": 7,
+      "title": "India's strong and expanding IT/Cyber talent pool",
+      "description": "India possesses a world-class cybersecurity workforce and a vast developer talent pool, with an impressive 33% annual AI talent acquisition rate. This abundant and skilled human capital is a major upside driver for both third-party IT services and Global Capability Centres (GCCs). The availability of niche skills, coupled with structured learning ecosystems and career mobility within GCCs, supports uninterrupted service delivery, continuous innovation, and strategic leadership in cybersecurity. This robust talent pipeline strengthens India's competitive advantage in meeting global technology demands.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 8,
+      "title": "Government initiatives foster AI ecosystem and digital infrastructure",
+      "description": "The Indian government is actively promoting the growth of the IT services sector through substantial investments and policy support. Initiatives like the IndiaAI Mission, with an outlay of US$1.25 billion, aim to foster the national AI ecosystem, driving demand for AI-related IT services. Additionally, the Union Budget 2026-27 proposes a tax holiday until 2047 for foreign companies providing cloud services via data centers in India. These measures strengthen digital infrastructure and encourage private-sector research and development, creating a favorable environment for IT services and consulting growth.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 9,
+      "title": "Enterprises prioritize data foundations and AI governance",
+      "description": "As Agentic AI scales, enterprises face amplified challenges concerning data quality, governance, and trust. Concerns over ethical implications, AI readiness of data, and technical skill gaps necessitate a heightened focus on strengthening data foundations and establishing robust AI governance frameworks. This drives demand for IT services specializing in data engineering, AI policy development, responsible AI functions, and risk assessment frameworks. Consultants are crucial in guiding organizations to move beyond experimentation and build capabilities for trusted, enterprise-grade AI deployment with human oversight, securing business outcomes.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-01",
+      "source_doc_id": "08800f23-69c1-5c44-81b3-5e61f83ef0f2",
+      "source_title": "The agentic AI imperative: Why Indian enterprises need a new deployment playbook",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/blogs/2026/07/the-agentic-ai-imperative-why-indian-enterprises-need-a-new-deployment-playbook.html",
+      "source_date": "2026-07-01"
+    },
+    {
+      "index": 10,
+      "title": "Legacy system modernization remains a strategic priority",
+      "description": "Legacy system modernization continues to be a significant demand driver for IT services. Over 70% of global CXOs consider it a strategic business priority for the foreseeable future. Enterprises are actively seeking to modernize outdated systems to access real-time data, integrate new technologies, and prepare for AI-driven transformation. Strategic partnerships between consulting firms and technology providers are being forged to assist clients in this modernization journey, ensuring that IT services companies focusing on system integration and cloud migration will find sustained demand.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 11,
+      "title": "Non-metro cities emerge as cost-effective IT sector growth hubs",
+      "description": "Non-metro cities in India are rapidly emerging as significant growth centers for the IT sector, driving over 50% of IT hiring growth in H1 2025 and outpacing major metro areas. This trend is fueled by attractive cost savings of approximately 30% for businesses, making them compelling locations for expanding IT operations and establishing new centers. These Tier-2 and Tier-3 cities are successfully attracting demand in specialized areas such as AI, cloud, and cybersecurity, supported by government initiatives to develop Software Technology Parks (STPIs), fostering regional IT development and employment opportunities.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 12,
+      "title": "Increased FDI inflows signal global confidence in IT sector",
+      "description": "India's IT and ITeS sector continues to attract substantial Foreign Direct Investment (FDI), with cumulative inflows of US$110.16 billion (April 2000-June 2025) and leading investments totaling US$13.1 billion in 2025. This strong investor confidence underscores India's position as a preferred destination for technology investments, particularly in data analytics, enterprise AI, and cybersecurity solutions. The sustained FDI indicates global recognition of India's robust tech capabilities and talent pool, providing a significant tailwind for further expansion and innovation within IT services and Global Capability Centres.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 13,
+      "title": "GCC talent strategy shifts towards niche skills and collaboration",
+      "description": "Global Capability Centres (GCCs) are undergoing a structural shift in their talent strategy, prioritizing niche skills and strong collaboration capabilities over volume hiring or mere cost arbitrage. The focus is now on recruiting enterprise architects and experts in areas like retail analytics, who can drive transformation programs and impact top-line business outcomes. This necessitates a differentiated employee value proposition (EVP) that emphasizes purpose, leadership access, and integration with global teams. Talent acquisition processes are evolving to evaluate collaboration skills alongside functional expertise, highlighting a move towards higher-value, strategically integrated talent.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-04",
+      "source_doc_id": "226b1cad-1849-55d7-821f-7f18b4f788a4",
+      "source_title": "How India GCCs are driving core retail and CPG value",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/media/podcasts/how-india-gccs-are-driving-core-retail-and-cpg-value",
+      "source_date": "2026-05-04"
+    },
+    {
+      "index": 14,
+      "title": "AI automation threatens junior work, risking talent pipeline",
+      "description": "AI's automation of routine, junior-level knowledge work, traditionally serving as training grounds for developing senior judgment, poses a critical risk to the talent pipeline for future Global Capability Centres (GCCs). If the bottom 30% of knowledge work is automated, the traditional path for developing judgment-intensive workers will erode. To mitigate this, GCCs must proactively design new apprenticeship models, including structured rotations, mentorship focused on judgment, simulated scenarios, and intentional exposure to complexity, to cultivate the advanced skills needed in an AI-driven future.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-01",
+      "source_doc_id": "7fe51588-b931-5057-aeb6-2e69bb5ddb01",
+      "source_title": "What happens when AI fulfils the promise your GCC was built on?",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/blogs/2026/05/what-happens-when-ai-fulfils-the-promise-your-gcc-was-built-on.html",
+      "source_date": "2026-05-01"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "AI adoption crucial for Indian insurance, driving IT services demand",
+      "description": "The Indian insurance sector views AI as a critical enabler for its next growth phase, despite historically fragmented workflows and manual processes. This creates a significant opportunity for IT services and consulting firms to support AI-led transformation across sales, underwriting, claims, and customer servicing. The focus has shifted from mere AI pilot projects to scaling enterprise-wide capabilities, requiring IT firms to provide services in AI integration, data management, flexible technology foundations, and operating model redesign for consistent value realization.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-23",
+      "source_doc_id": "c1f7f38c-72d7-5835-9df7-64cf5b37ad5e",
+      "source_title": "India’s new insurance track: The marathon becomes an AI-led decathlon",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/indias-new-insurance-track-the-marathon-becomes-an-ai-led-decathlon"
+    },
+    {
+      "index": 2,
+      "title": "New RBI tech regulations boost demand for IT cybersecurity services",
+      "description": "The Reserve Bank of India's new Master Directions (July 2026) consolidate technology oversight, cybersecurity, operational resilience, and information systems assurance for regulated financial entities. This regulatory shift mandates comprehensive compliance and implementation, driving substantial demand for IT consulting, cybersecurity services, and managed services providers. Financial institutions will require assistance in gap assessment, remediation planning, and operationalizing new controls, including incident reporting, vulnerability assessments, disaster recovery, and third-party risk management, thereby bolstering the IT services sector.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-09-01",
+      "source_doc_id": "5117e92b-4f62-5b87-a6be-8443a84e048e",
+      "source_title": "RBI’s technology focused master directions issued on 31 July 2026",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/09/rbis-technology-focused-master-directions-issued-on-31-july-2026.html"
+    },
+    {
+      "index": 3,
+      "title": "Cyber GCCs evolving into strategic hubs for global organizations",
+      "description": "India’s Cyber Global Capability Centres (GCCs) are no longer merely cost centers but have transformed into strategic pillars for global organizations, leading innovation and digital risk management. These GCCs are driving advanced threat detection, cloud security, AI-enabled security operations, and third-party risk management. Their growing influence is evident as global teams report to India-based leadership, and cybersecurity maturity becomes a key differentiator, making India a crucial hub for cyber resilience leadership and specialized cybersecurity talent for MNCs.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-09-01",
+      "source_doc_id": "1897d41d-4764-54f2-87cd-3ce3ad76f038",
+      "source_title": "Secure in India 2026: Cyber GCCs in the age of AI",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/09/secure-in-india-2026-cyber-gccs-in-the-age-of-ai.html"
+    },
+    {
+      "index": 4,
+      "title": "Agentic AI shifts enterprise focus to deployment, governance services",
+      "description": "The advent of Agentic AI is moving the bottleneck from technology availability to effective deployment, integration, and governance within complex enterprise environments. This fundamental shift creates immense opportunities for IT services, particularly in developing strong deployment capabilities, establishing clear governance frameworks, and strengthening data foundations. Indian enterprises need a new operating model for AI adoption, demanding specialized roles like Forward Deployment Engineers and AI orchestrators to translate AI capabilities into measurable business outcomes, highlighting a critical need for consulting expertise.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-07-01",
+      "source_doc_id": "08800f23-69c1-5c44-81b3-5e61f83ef0f2",
+      "source_title": "The agentic AI imperative: Why Indian enterprises need a new deployment playbook",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/blogs/2026/07/the-agentic-ai-imperative-why-indian-enterprises-need-a-new-deployment-playbook.html"
+    },
+    {
+      "index": 5,
+      "title": "India’s IT services market poised for robust growth",
+      "description": "India's IT services market is projected for significant expansion, driven by increasing demand for digital transformation, rapid AI adoption, and the availability of a robust domestic talent pool. The sector is expected to achieve 4-6% revenue growth in FY26, with further acceleration to 6.94% CAGR between 2026 and 2034. This growth is underpinned by rising IT spending across verticals, government digitalization initiatives, and the strategic positioning of India as a global hub for IT services and outsourcing, reinforcing its competitive advantage.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india"
+    },
+    {
+      "index": 6,
+      "title": "Retail and CPG GCCs driving strategic value beyond cost efficiency",
+      "description": "India-based Global Capability Centres (GCCs) in the Retail and Consumer Products (CPG) sector are evolving beyond mere cost arbitrage to become strategic partners. They are now owning core processes like merchandising, supply chain, and customer experience, embedding advanced analytics, AI, and agentic capabilities to improve decision quality, speed, and scalability. This shift emphasizes the importance of differentiated talent strategies and deep enterprise integration, signifying GCCs' crucial role in shaping global business decisions and delivering sustained competitive advantage.",
+      "stance": "positive",
+      "source_firm": "EY",
+      "source_date": "2026-05-04",
+      "source_doc_id": "226b1cad-1849-55d7-821f-7f18b4f788a4",
+      "source_title": "How India GCCs are driving core retail and CPG value",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/media/podcasts/how-india-gccs-are-driving-core-retail-and-cpg-value"
+    },
+    {
+      "index": 7,
+      "title": "AI transforming GCCs into high-value 'Global Intelligence Centres'",
+      "description": "AI is fundamentally redefining Global Capability Centres (GCCs), shifting them from execution-focused units to 'Global Intelligence Centres' where AI handles routine tasks while humans focus on judgment and accountability. This transformation, though potentially leading to headcount compression (25-35% in 3 years, 55-65% in 5-10 years), is expected to yield 3-5 times the economic value per person. Success hinges on a deliberate strategy for talent recomposition, investing in new roles like AI governance architects, and developing new apprenticeship models to foster judgment-intensive skills.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-05-01",
+      "source_doc_id": "7fe51588-b931-5057-aeb6-2e69bb5ddb01",
+      "source_title": "What happens when AI fulfils the promise your GCC was built on?",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/blogs/2026/05/what-happens-when-ai-fulfils-the-promise-your-gcc-was-built-on.html"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 315.4,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "FY19-FY26",
+      "demand_drivers": [
+        {
+          "driver": "Digital transformation initiatives",
+          "description": "The ongoing widespread adoption of digital technologies across sectors continues to fuel demand for IT services."
+        },
+        {
+          "driver": "Expansion of innovation centers by global technology companies",
+          "description": "Global tech firms are increasing their presence in India, leading to higher revenue generation."
+        },
+        {
+          "driver": "Government-led digitalization initiatives",
+          "description": "Public sector programs and e-governance initiatives contribute to IT industry growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total estimated revenue for India's IT industry for FY26 (till February 2026), including US$246.4 billion in exports. Represents a growth from US$181 billion in FY19.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rapid adoption of artificial intelligence",
+          "description": "AI integration across various roles within GCCs is a primary driver for workforce expansion."
+        },
+        {
+          "driver": "Expansion of innovation centers",
+          "description": "Global tech companies setting up and expanding innovation centers in India contribute to GCC growth."
+        },
+        {
+          "driver": "Availability of strong domestic talent pool",
+          "description": "India's large pool of skilled tech professionals, especially in emerging technologies, supports GCC expansion."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "GCCs are expected to generate a significant portion of new white-collar tech jobs in these advanced areas.",
+          "opportunity": "GenAI and engineering R&D roles"
+        }
+      ],
+      "methodology": "Projected workforce size for India's Global Capability Centres (GCCs), driven by AI adoption.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india"
+    },
+    {
+      "index": 3,
+      "tam_value": 42.7,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 6.94,
+      "forecast_cagr_period": "2026-34",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising demand for digital transformation",
+          "description": "Enterprises increasingly seek digital solutions to enhance efficiency and competitiveness."
+        },
+        {
+          "driver": "IT outsourcing",
+          "description": "India remains a leading destination for global IT outsourcing, driving market expansion."
+        },
+        {
+          "driver": "AI adoption",
+          "description": "Integration of artificial intelligence across business processes fuels demand for specialized IT services."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Market size for India’s IT services, including IT outsourcing. Forecasted to grow to US$78.1 billion by 2034.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india"
+    },
+    {
+      "index": 4,
+      "tam_value": 147.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 5.8,
+      "forecast_cagr_period": "2025-31",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Value-led partnerships",
+          "description": "Strategic collaborations with global clients focusing on high-value delivery."
+        },
+        {
+          "driver": "Strong IT talent pool",
+          "description": "Availability of a skilled and large workforce in India supports export growth."
+        },
+        {
+          "driver": "AI adoption",
+          "description": "Increasing integration of AI capabilities into exported software services."
+        },
+        {
+          "driver": "Global Capability Centres (GCCs)",
+          "description": "Expansion of GCCs in India contributes significantly to software service exports."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total value of India’s software services exports, comprising IT services, BPM, and engineering/R&D software products. Forecasted to rise to US$206.15 billion by 2031.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india"
+    },
+    {
+      "index": 5,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2023,
+      "forecast_cagr": 7.54,
+      "forecast_cagr_period": "2023-27",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Cost-effectiveness and skilled talent",
+          "description": "Companies outsource to India due to a combination of lower costs and a large pool of skilled professionals."
+        },
+        {
+          "driver": "Global expansion of IT firms",
+          "description": "Indian companies are investing internationally to expand their global footprint and delivery centers."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The global software outsourcing sector is forecast to expand at a compound annual growth rate (CAGR) of 7.54% from 2023 to 2027. Asia is at the forefront with a growth rate of 9.16%. Amid this expansion, India holds approximately 17.58% of the global outsourcing market.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "medium",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india"
+    },
+    {
+      "index": 6,
+      "tam_value": 10.9,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": 22.6,
+      "forecast_cagr_period": "2024-29",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Digital transformation",
+          "description": "Cloud forms a crucial foundation for successful digital transformation initiatives across industries."
+        },
+        {
+          "driver": "BFSI, manufacturing, government, software, and media sectors",
+          "description": "These sectors are primary propellers of cloud adoption and spending in India."
+        },
+        {
+          "driver": "AI-enabled software investments",
+          "description": "The boom in AI applications increasingly relies on scalable cloud infrastructure and services."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Size of India’s public cloud services market. Expected to reach US$30.4 billion by 2029.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india"
+    }
+  ],
+  "sources": [
+    "McKinsey",
+    "KPMG",
+    "IBEF",
+    "EY"
+  ],
+  "documents": [
+    {
+      "doc_id": "c1f7f38c-72d7-5835-9df7-64cf5b37ad5e",
+      "title": "India’s new insurance track: The marathon becomes an AI-led decathlon",
+      "publisher": "mckinsey",
+      "date": "2026-09-23",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/indias-new-insurance-track-the-marathon-becomes-an-ai-led-decathlon"
+    },
+    {
+      "doc_id": "5117e92b-4f62-5b87-a6be-8443a84e048e",
+      "title": "RBI’s technology focused master directions issued on 31 July 2026",
+      "publisher": "kpmg",
+      "date": "2026-09-01",
+      "url": "https://kpmg.com/in/en/insights/2026/09/rbis-technology-focused-master-directions-issued-on-31-july-2026.html"
+    },
+    {
+      "doc_id": "1897d41d-4764-54f2-87cd-3ce3ad76f038",
+      "title": "Secure in India 2026: Cyber GCCs in the age of AI",
+      "publisher": "kpmg",
+      "date": "2026-09-01",
+      "url": "https://kpmg.com/in/en/insights/2026/09/secure-in-india-2026-cyber-gccs-in-the-age-of-ai.html"
+    },
+    {
+      "doc_id": "08800f23-69c1-5c44-81b3-5e61f83ef0f2",
+      "title": "The agentic AI imperative: Why Indian enterprises need a new deployment playbook",
+      "publisher": "kpmg",
+      "date": "2026-07-01",
+      "url": "https://kpmg.com/in/en/blogs/2026/07/the-agentic-ai-imperative-why-indian-enterprises-need-a-new-deployment-playbook.html"
+    },
+    {
+      "doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "title": "Information Technology And BPM Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/information-technology-india"
+    },
+    {
+      "doc_id": "226b1cad-1849-55d7-821f-7f18b4f788a4",
+      "title": "How India GCCs are driving core retail and CPG value",
+      "publisher": "ey",
+      "date": "2026-05-04",
+      "url": "https://www.ey.com/en_in/media/podcasts/how-india-gccs-are-driving-core-retail-and-cpg-value"
+    },
+    {
+      "doc_id": "7fe51588-b931-5057-aeb6-2e69bb5ddb01",
+      "title": "What happens when AI fulfils the promise your GCC was built on?",
+      "publisher": "kpmg",
+      "date": "2026-05-01",
+      "url": "https://kpmg.com/in/en/blogs/2026/05/what-happens-when-ai-fulfils-the-promise-your-gcc-was-built-on.html"
+    }
+  ]
+}

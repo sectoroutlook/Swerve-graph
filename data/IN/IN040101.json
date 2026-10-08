@@ -1,0 +1,576 @@
+{
+  "geography": "IN",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Electrification Shifts Component Value to Advanced Electronics",
+      "description": "Rising EV adoption fundamentally reshapes the automotive component value pool for Passenger Vehicles. It shifts from traditional mechanical parts towards high-value components like batteries, motors, power electronics, semiconductors, sensors, controllers, thermal management systems, and embedded software. This change necessitates significant R&D and manufacturing investments from PV manufacturers and their suppliers, increasing electronics content in EVs to ~23% of BOM versus <10% in ICE vehicles.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-08-13",
+      "source_doc_id": "0d2cac19-2d8d-5700-8fcf-8935fc3fc85a",
+      "source_title": "Indian Auto Ancillary Industry to Grow 8-9% in FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786608047_Indian%20Auto%20Components%20to%20Grow%208-9%20Pct%20in%20FY27,%20Amid%20Localisation,%20Technology%20&%20EV-Led%20Transformation.pdf",
+      "source_date": "2026-08-13"
+    },
+    {
+      "index": 2,
+      "title": "Consumer Shift to SUVs and Premium Vehicles Boosts Value Content",
+      "description": "The increasing preference for SUVs and premium Passenger Vehicles, coupled with stricter safety and emissions norms, is driving higher component content per vehicle. This trend significantly boosts demand for higher-value systems and technologies within the PV segment. It enables auto ancillary companies to capture more value per unit, supporting overall revenue growth for PV manufacturers through premiumization and advanced feature integration.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-13",
+      "source_doc_id": "0d2cac19-2d8d-5700-8fcf-8935fc3fc85a",
+      "source_title": "Indian Auto Ancillary Industry to Grow 8-9% in FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786608047_Indian%20Auto%20Components%20to%20Grow%208-9%20Pct%20in%20FY27,%20Amid%20Localisation,%20Technology%20&%20EV-Led%20Transformation.pdf",
+      "source_date": "2026-08-13"
+    },
+    {
+      "index": 3,
+      "title": "Government Schemes Accelerate Domestic EV & Component Manufacturing",
+      "description": "Government initiatives like the PLI-Auto and PM E-DRIVE schemes are designed to accelerate domestic capacity creation for automotive technologies and reduce import dependence. For Passenger Vehicles, these schemes support EV adoption through demand incentives, charging infrastructure, and manufacturing. The PM E-DRIVE scheme, with a Rs 10,900 crore outlay, specifically aims to boost electric and hybrid vehicle purchases, fostering a stronger local ecosystem for PV production and components.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-13",
+      "source_doc_id": "0d2cac19-2d8d-5700-8fcf-8935fc3fc85a",
+      "source_title": "Indian Auto Ancillary Industry to Grow 8-9% in FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786608047_Indian%20Auto%20Components%20to%20Grow%208-9%20Pct%20in%20FY27,%20Amid%20Localisation,%20Technology%20&%20EV-Led%20Transformation.pdf",
+      "source_date": "2026-08-13"
+    },
+    {
+      "index": 4,
+      "title": "AI to Revolutionize Passenger Vehicle Retail and Aftersales Experience",
+      "description": "Artificial intelligence is poised to fundamentally transform automotive retail for Passenger Vehicles, shifting it from a product-selling model to a personalized advisory experience. AI will help dealerships understand diverse customer needs for EVs (charging, battery health, ownership economics), recommend tailored solutions, and anticipate aftersales issues through predictive maintenance. This transformation will enhance customer confidence and loyalty, crucial for mass-market EV adoption and protecting aftersales revenue streams for PV manufacturers.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-01",
+      "source_doc_id": "686c8e60-9630-5f22-9136-6d64f4e23587",
+      "source_title": "AI will define the next battle in automotive retail",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/blogs/2026/08/ai-will-define-the-next-battle-in-automotive-retail.html",
+      "source_date": "2026-08-01"
+    },
+    {
+      "index": 5,
+      "title": "Industry Shifts to Data-Centric Mobility for Competitive Advantage",
+      "description": "The automotive industry's electrification transition signifies a broader shift from product-centric to data-centric mobility. For Passenger Vehicles, this means customer intelligence, predictive engagement, and continuous relationships become as critical as engineering excellence. AI applications are emerging around vehicles, influencing how they are sold, financed, serviced, and maintained. This structural change demands that PV manufacturers invest heavily in data foundations and AI-driven capabilities to maintain competitive advantage and customer loyalty.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-08-01",
+      "source_doc_id": "686c8e60-9630-5f22-9136-6d64f4e23587",
+      "source_title": "AI will define the next battle in automotive retail",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/blogs/2026/08/ai-will-define-the-next-battle-in-automotive-retail.html",
+      "source_date": "2026-08-01"
+    },
+    {
+      "index": 6,
+      "title": "OEM Legacy Systems Hinder Scaled AI and Digital Transformation",
+      "description": "Passenger Vehicle OEMs face a significant barrier in scaling AI and digital transformation due to legacy IT estates, fragmented data ownership, and inconsistent data contracts. While OEMs generate early business value from isolated AI use cases, achieving systematic scaling across engineering, operations, and customer domains is challenged by these coherence issues. This risk can slow innovation velocity and limit the full potential of advanced technologies crucial for future competitiveness in the PV sector.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-01",
+      "source_doc_id": "e8ead84a-0002-524c-bc41-8893ba48ebab",
+      "source_title": "KPMG Global tech report 2026: Automotive",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/07/kpmg-global-tech-report-2026-automotive.html",
+      "source_date": "2026-07-01"
+    },
+    {
+      "index": 7,
+      "title": "Geopolitical Volatility Accelerates Data and Localization Efforts",
+      "description": "Geopolitical volatility, shifting regulatory frameworks, and unpredictable market disruptions intensify the need for strategic clarity and technological robustness within the automotive industry, including Passenger Vehicles. OEMs are reinforcing data infrastructure, securing talent onshore, and improving data flows for scenario planning. While these factors create uncertainty and potential pressure on profitability due to input cost volatility, they paradoxically accelerate investment in digital foundations, local capability, and de-risking supply chains for PV manufacturers.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-01",
+      "source_doc_id": "e8ead84a-0002-524c-bc41-8893ba48ebab",
+      "source_title": "KPMG Global tech report 2026: Automotive",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/07/kpmg-global-tech-report-2026-automotive.html",
+      "source_date": "2026-07-01"
+    },
+    {
+      "index": 8,
+      "title": "India-UK Trade Deal Boosts PV Market Access & Localisation Incentives",
+      "description": "The India-United Kingdom trade deal (July 2025) significantly impacts the Passenger Vehicle sector by reducing import tariffs on fully built PVs from 100% to 10% over ten years, with annual quotas starting at 10,000 units. This policy change boosts domestic competitiveness by encouraging localisation, innovation, and technology upgrades within India. It provides opportunities for increased foreign PV brand presence while simultaneously pushing Indian manufacturers to enhance local value addition and technology.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "57f4ef24-16f2-5dab-9646-0bd6b5f4a3e7",
+      "source_title": "Automobile Industry in India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/india-automobiles",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 9,
+      "title": "Government Target Drives EV Adoption in Passenger Car Segment",
+      "description": "The Indian government has an ambitious objective to increase electric vehicle (EV) sales penetration to 30% in private cars by 2030, aiming for 80 million EVs on Indian roads. This target acts as a strong tailwind for the EV sub-segment of Passenger Vehicles. Supported by subsidies, financing options, and infrastructure development plans like the PM E-DRIVE scheme, this policy will accelerate the shift towards battery-powered PVs and necessitate significant investment in EV manufacturing and ecosystem development.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "bbc997d5-7dca-5642-99cc-19bb1e99b063",
+      "source_title": "Electric Vehicle Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electric-vehicle",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 10,
+      "title": "Battery-Powered PV Production Surges Towards 30% EV Market Share",
+      "description": "India projects a substantial 140.2% YoY rise in battery-powered Passenger Vehicle production, targeting approximately 301,400 units, as the country aims for a 30% EV market share by FY30. This aggressive production growth, driven by supportive government policies, subsidies, financing options, and charging infrastructure development, represents a significant upside driver for PV manufacturers focusing on electrification. It indicates robust market expansion and investment opportunities in the EV sub-segment.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "bbc997d5-7dca-5642-99cc-19bb1e99b063",
+      "source_title": "Electric Vehicle Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electric-vehicle",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 11,
+      "title": "Duty Exemption on EV Minerals Boosts Battery Production Costs",
+      "description": "The Indian government's 100% customs duty exemption on 25 critical minerals, including lithium and cobalt, directly benefits the Passenger Vehicle sector by reducing the input costs for EV battery production. This policy support lowers manufacturing expenses for battery packs (a key auto component) and subsequently for electric PVs. It acts as a tailwind, enhancing the affordability and competitiveness of EV passenger cars, encouraging greater adoption and domestic manufacturing throughout the EV value chain.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "bbc997d5-7dca-5642-99cc-19bb1e99b063",
+      "source_title": "Electric Vehicle Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electric-vehicle",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 12,
+      "title": "Leading OEMs Investing Heavily in Capacity and EV Adoption",
+      "description": "India's leading automakers plan substantial capital expenditure, nearly Rs. 40,000 crore (US$ 4.23 billion), to expand manufacturing capacity and accelerate EV adoption. This significant investment is a strong tailwind for the Passenger Vehicle sector, indicating confidence in future growth and the transition to electric mobility. Such investments, exemplified by Suzuki's US$8 billion commitment, will boost production capabilities for both traditional and electric PVs, enhancing market offerings and competitiveness.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "57f4ef24-16f2-5dab-9646-0bd6b5f4a3e7",
+      "source_title": "Automobile Industry in India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/india-automobiles",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 13,
+      "title": "Expanding Aftermarket for PV Components Driven by Vehicle Parc Growth",
+      "description": "The domestic aftermarket auto-component market for Passenger Vehicles is projected to reach US$ 5 billion by 2030, driven by an expanding vehicle parc and increasing average vehicle age. This growth provides a stable and significant revenue stream for auto component manufacturers, which indirectly benefits PV manufacturers by supporting a robust and experienced supplier ecosystem. Resilient replacement demand contributes to the aftermarket's stability, offsetting some cyclicality in new vehicle sales.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "53a342c8-2c24-5ba1-80d0-0c0ed47c3a82",
+      "source_title": "Auto Components Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/autocomponents-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 14,
+      "title": "OEMs Embrace Software-Defined Vehicles and Advanced Architectures",
+      "description": "Passenger Vehicle OEMs are increasingly adopting Software-Defined Vehicle (SDV) concepts and advanced E/E architectures, evidenced by partnerships focusing on intelligent cockpit systems and integrated vehicle software solutions. This structural shift moves beyond hardware-centric design to integrate advanced electronics and software, enhancing vehicle features, connectivity, and customization. It requires significant investment in software development, cybersecurity, and MLOps, redefining product development and customer value propositions for PVs.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "53a342c8-2c24-5ba1-80d0-0c0ed47c3a82",
+      "source_title": "Auto Components Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/autocomponents-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 15,
+      "title": "Consumer Uncertainty on EVs Risks Slower Mass Market Adoption",
+      "description": "A significant proportion of consumer hesitation regarding Electric Vehicle adoption, a key sub-segment for Passenger Vehicles, stems from uncertainty rather than product limitations. Prospective buyers often have questions about charging access, range performance, battery degradation, resale prospects, and emergency support. This lack of clear understanding and potential misinformation poses a key risk to the pace of mass-market EV PV adoption, requiring ongoing, personalized education and trust-building initiatives from manufacturers and retailers.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-01",
+      "source_doc_id": "686c8e60-9630-5f22-9136-6d64f4e23587",
+      "source_title": "AI will define the next battle in automotive retail",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/blogs/2026/08/ai-will-define-the-next-battle-in-automotive-retail.html",
+      "source_date": "2026-08-01"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Indian Auto Ancillary Growth Signals Healthy Outlook for Passenger Vehicles",
+      "description": "CareEdge Ratings anticipates the Indian auto ancillary industry to grow 8-9% in FY27, reaching Rs 10,681 billion. This growth is a positive signal for Passenger Vehicles (PV) manufacturers, driven by healthy vehicle production volumes across segments, increasing component content per vehicle, and robust replacement demand. The industry's transformation towards electrification and localisation of high-value components further supports a positive outlook, aligning with PV sector advancements.",
+      "stance": "positive",
+      "source_firm": "careedge",
+      "source_date": "2026-08-13",
+      "source_doc_id": "0d2cac19-2d8d-5700-8fcf-8935fc3fc85a",
+      "source_title": "Indian Auto Ancillary Industry to Grow 8-9% in FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786608047_Indian%20Auto%20Components%20to%20Grow%208-9%20Pct%20in%20FY27,%20Amid%20Localisation,%20Technology%20&%20EV-Led%20Transformation.pdf"
+    },
+    {
+      "index": 2,
+      "title": "AI to Redefine Passenger Vehicle Retail Through Superior Customer Experiences",
+      "description": "KPMG projects that competitive differentiation in the automotive sector, including Passenger Vehicles, will increasingly shift from product features to customer experience. Artificial intelligence is identified as critical to this transformation, potentially becoming as impactful as electrification. AI will enable personalized advisory experiences, helping dealerships navigate new EV decision frameworks and building trust, moving beyond traditional sales models to anticipate customer needs.",
+      "stance": "positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-08-01",
+      "source_doc_id": "686c8e60-9630-5f22-9136-6d64f4e23587",
+      "source_title": "AI will define the next battle in automotive retail",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/blogs/2026/08/ai-will-define-the-next-battle-in-automotive-retail.html"
+    },
+    {
+      "index": 3,
+      "title": "Automotive Industry Effectively Leverages Tech Investments Despite Challenges",
+      "description": "KPMG's global tech report indicates that automotive organizations, including Passenger Vehicle manufacturers, are effectively generating value from technology investments. Despite facing trade-offs in security, scalability, and data standardization, the industry is not overwhelmed by disruption. Instead, it is decisively accelerating its adoption of new technologies, reflecting an ambitious and adaptable sector committed to leveraging digital advancements for competitive advantage and future growth.",
+      "stance": "positive",
+      "source_firm": "kpmg",
+      "source_date": "2026-07-01",
+      "source_doc_id": "e8ead84a-0002-524c-bc41-8893ba48ebab",
+      "source_title": "KPMG Global tech report 2026: Automotive",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/07/kpmg-global-tech-report-2026-automotive.html"
+    },
+    {
+      "index": 4,
+      "title": "Automotive Sector Shows Material Improvement Despite External Friction",
+      "description": "CareEdge's June 2026 foresights report highlights that the automotive industry, a bellwether sector, is demonstrating material improvements. This positive performance is notable as it occurs despite ongoing tariff overhangs and global trade friction, indicating strong underlying resilience. This general industry strength suggests a cautiously positive environment for Passenger Vehicles, benefiting from broader economic recovery and robust corporate profitability trends.",
+      "stance": "cautious_positive",
+      "source_firm": "careedge",
+      "source_date": "2026-06-17",
+      "source_doc_id": "bc1e6f65-64a8-5d3c-94ca-572bf710f827",
+      "source_title": "CareEdge FORESIGHTS - June 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1781699451_Foresights_June_2026.pdf"
+    },
+    {
+      "index": 5,
+      "title": "Indian Passenger Vehicle Industry Forecast to Achieve Record Volumes by FY27",
+      "description": "The Indian passenger vehicle industry is poised for significant growth, projected to reach a record cumulative domestic and export volume of 5.9 million units in FY27. This strong outlook is driven by factors such as robust demand from a rising middle-class income, increasing vehicle ownership, and targeted government policy support. The ambition to increase vehicle exports fivefold further reinforces the positive trajectory for the PV sector.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "source_doc_id": "57f4ef24-16f2-5dab-9646-0bd6b5f4a3e7",
+      "source_title": "Automobile Industry in India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/india-automobiles"
+    },
+    {
+      "index": 6,
+      "title": "Indian EV Market Poised for Strong, Steady Growth Through 2030",
+      "description": "The Indian electric vehicle market, a key sub-segment for Passenger Vehicles, is anticipated to experience strong and steady growth through 2030. This optimistic outlook is underpinned by companies' increasing strategic focus on electrification and robust government support through schemes like PM E-DRIVE. Rising EV penetration across all segments, including 4Ws, indicates a structural shift towards cleaner mobility, creating significant opportunities for PV manufacturers.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "source_doc_id": "bbc997d5-7dca-5642-99cc-19bb1e99b063",
+      "source_title": "Electric Vehicle Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electric-vehicle"
+    },
+    {
+      "index": 7,
+      "title": "Auto Component Industry Growth to Bolster Passenger Vehicle Manufacturing",
+      "description": "India's auto-component industry is projected to reach US$ 200 billion by 2030, presenting a highly positive outlook for Passenger Vehicles. This growth is fueled by India's cost competitiveness, skilled workforce, and robust domestic demand, enhancing the local supply chain. The government's ambitious EV penetration targets are specifically driving demand for advanced components like batteries and power electronics, directly benefiting PV manufacturers' ability to localize and innovate.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "source_doc_id": "53a342c8-2c24-5ba1-80d0-0c0ed47c3a82",
+      "source_title": "Auto Components Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/autocomponents-india"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 10681.0,
+      "tam_unit": "INR_bn",
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": 8.0,
+      "forecast_cagr_period": "FY26-FY27",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Healthy vehicle production",
+          "description": "Anticipated healthy volume growth across passenger vehicles, commercial vehicles, and two-wheelers."
+        },
+        {
+          "driver": "Increasing component content per vehicle",
+          "description": "Growing preference for SUVs and premium vehicles, coupled with stricter safety and emissions norms, increases the value of components per vehicle."
+        },
+        {
+          "driver": "Resilient replacement demand",
+          "description": "Supported by an expanding vehicle parc, rising average vehicle age, premiumization, and increasing demand for replacement parts and regular maintenance."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Market size for the Indian auto ancillary industry, encompassing sales to OEMs, aftermarket, and exports, minus imports. Growth is driven by healthy vehicle production across passenger vehicles, commercial vehicles, and two-wheelers, increasing component content, resilient replacement demand, higher localization, and global supply chain integration.",
+      "source_firm": "careedge",
+      "source_date": "2026-08-13",
+      "data_confidence": "high",
+      "source_doc_id": "0d2cac19-2d8d-5700-8fcf-8935fc3fc85a",
+      "source_title": "Indian Auto Ancillary Industry to Grow 8-9% in FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786608047_Indian%20Auto%20Components%20to%20Grow%208-9%20Pct%20in%20FY27,%20Amid%20Localisation,%20Technology%20&%20EV-Led%20Transformation.pdf"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising middle-class income and young population",
+          "description": "Demographic and economic trends are expected to result in strong demand growth for passenger vehicles."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected cumulative domestic and export volume for the Indian passenger vehicle (PV) industry.",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "57f4ef24-16f2-5dab-9646-0bd6b5f4a3e7",
+      "source_title": "Automobile Industry in India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/india-automobiles"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 67.3,
+      "historical_cagr_period": "FY25-FY26",
+      "demand_drivers": [
+        {
+          "driver": "Increasing focus by companies on EVs",
+          "description": "Companies are increasingly shifting focus to the EV segment, contributing to sales growth."
+        },
+        {
+          "driver": "Robust government leadership and policy support",
+          "description": "Government schemes like PM E-DRIVE are boosting EV adoption and manufacturing."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total units sold for electric passenger vehicles (4Ws) in FY26.",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "bbc997d5-7dca-5642-99cc-19bb1e99b063",
+      "source_title": "Electric Vehicle Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electric-vehicle"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 70.0,
+      "historical_cagr_period": "FY25-FY26",
+      "demand_drivers": [
+        {
+          "driver": "Government push for fleet electrification",
+          "description": "States like Karnataka and Madhya Pradesh have set ambitious goals for electrifying commercial and government fleets, influencing public perception and infrastructure."
+        },
+        {
+          "driver": "Increased income levels",
+          "description": "Higher disposable incomes, particularly in states like Maharashtra, contribute to increased purchasing power for EVs."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total units registered for electric passenger vehicles in FY26.",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "bbc997d5-7dca-5642-99cc-19bb1e99b063",
+      "source_title": "Electric Vehicle Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electric-vehicle"
+    },
+    {
+      "index": 5,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 84.0,
+      "historical_cagr_period": "2024-2025",
+      "demand_drivers": [
+        {
+          "driver": "Increased consumer affluence",
+          "description": "Rising disposable incomes support the purchase of higher-value luxury EVs."
+        },
+        {
+          "driver": "Growing awareness and product availability",
+          "description": "Increased consumer awareness and the introduction of new luxury EV models drive adoption."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Sales volume for luxury electric vehicles (EVs) in India in 2025, based on VAHAN portal data.",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "bbc997d5-7dca-5642-99cc-19bb1e99b063",
+      "source_title": "Electric Vehicle Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electric-vehicle"
+    },
+    {
+      "index": 6,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 140.2,
+      "forecast_cagr_period": "Implied current year to FY30",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government target for EV market share",
+          "description": "The target of 30% EV share in private cars by 2030 is a major driver."
+        },
+        {
+          "driver": "Subsidies, financing options, and infrastructure development plans",
+          "description": "Supportive government policies and ecosystem development reduce barriers to EV adoption and production."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected production of battery-powered passenger vehicles, aligning with the target of achieving a 30% EV market share by FY30.",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "bbc997d5-7dca-5642-99cc-19bb1e99b063",
+      "source_title": "Electric Vehicle Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electric-vehicle"
+    },
+    {
+      "index": 7,
+      "tam_value": 5.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Expanding vehicle parc",
+          "description": "The total number of vehicles in operation is growing, leading to more demand for replacement parts."
+        },
+        {
+          "driver": "Increasing vehicle age",
+          "description": "Older vehicles typically require more maintenance and replacement parts, driving aftermarket demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected market size for the Passenger Vehicle (PV) segment within the domestic aftermarket auto-component market.",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "53a342c8-2c24-5ba1-80d0-0c0ed47c3a82",
+      "source_title": "Auto Components Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/autocomponents-india"
+    }
+  ],
+  "sources": [
+    "careedge",
+    "kpmg",
+    "ibef"
+  ],
+  "documents": [
+    {
+      "doc_id": "0d2cac19-2d8d-5700-8fcf-8935fc3fc85a",
+      "title": "Indian Auto Ancillary Industry to Grow 8-9% in FY27",
+      "publisher": "careedge",
+      "date": "2026-08-13",
+      "url": "https://www.careratings.com/uploads/newsfiles/1786608047_Indian%20Auto%20Components%20to%20Grow%208-9%20Pct%20in%20FY27,%20Amid%20Localisation,%20Technology%20&%20EV-Led%20Transformation.pdf"
+    },
+    {
+      "doc_id": "686c8e60-9630-5f22-9136-6d64f4e23587",
+      "title": "AI will define the next battle in automotive retail",
+      "publisher": "kpmg",
+      "date": "2026-08-01",
+      "url": "https://kpmg.com/in/en/blogs/2026/08/ai-will-define-the-next-battle-in-automotive-retail.html"
+    },
+    {
+      "doc_id": "e8ead84a-0002-524c-bc41-8893ba48ebab",
+      "title": "KPMG Global tech report 2026: Automotive",
+      "publisher": "kpmg",
+      "date": "2026-07-01",
+      "url": "https://kpmg.com/in/en/insights/2026/07/kpmg-global-tech-report-2026-automotive.html"
+    },
+    {
+      "doc_id": "bc1e6f65-64a8-5d3c-94ca-572bf710f827",
+      "title": "CareEdge FORESIGHTS - June 2026",
+      "publisher": "careedge",
+      "date": "2026-06-17",
+      "url": "https://www.careratings.com/uploads/newsfiles/1781699451_Foresights_June_2026.pdf"
+    },
+    {
+      "doc_id": "57f4ef24-16f2-5dab-9646-0bd6b5f4a3e7",
+      "title": "Automobile Industry in India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/india-automobiles"
+    },
+    {
+      "doc_id": "bbc997d5-7dca-5642-99cc-19bb1e99b063",
+      "title": "Electric Vehicle Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/electric-vehicle"
+    },
+    {
+      "doc_id": "53a342c8-2c24-5ba1-80d0-0c0ed47c3a82",
+      "title": "Auto Components Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/autocomponents-india"
+    }
+  ]
+}

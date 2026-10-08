@@ -1,0 +1,78 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Declining natural gas demand threatens distribution volumes",
+      "description": "European natural gas demand is projected to decrease by approximately 25% by 2040. This structural shift is primarily driven by the electrification of heating, transport, and industrial processes, as well as efforts to diversify energy supply through renewable heat sources and district heating. For Gas Transmission & Distribution Utilities (IN100201), this trend represents a fundamental challenge, as reduced natural gas consumption by households and small commercial customers directly impacts the volume of gas transmitted and distributed through their regulated networks.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "source_date": "2026-09-04"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "European natural gas demand faces structural decline from electrification",
+      "description": "McKinsey's Electric Power & Natural Gas Practice projects European natural gas demand to decline by approximately 25% by 2040. This structural shift is driven by accelerated electrification, including the adoption of heat pumps in buildings and electrified industrial processes. Furthermore, energy sovereignty initiatives are actively promoting a transition away from natural gas for heating and cooling, which currently accounts for a substantial portion of energy consumption. This outlook presents a significant challenge for gas distribution utilities (IN100201) as it implies reduced volumes for end consumers like households and small commercial customers.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Electrification of heating and transport",
+          "description": "Increased adoption of residential heat pumps (projected 55 million by 2040) and electric vehicles (projected 140 million by 2040) directly reduces the demand for natural gas in end-use sectors relevant to IN100201."
+        },
+        {
+          "driver": "Energy sovereignty initiatives",
+          "description": "Strategies promoting local heat planning, district heating modernization, industrial waste heat recovery, geothermal energy, and other renewable heat sources aim to reduce the heating and cooling sector's 70% reliance on fossil fuels, including natural gas."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "McKinsey’s Global Energy Perspective 2025 projects overall European natural gas demand (EU-27 plus Norway, Switzerland, and the United Kingdom) to decline by approximately 25% by 2040 from 2025 levels. This projection considers the acceleration of electrification in transport, buildings (residential heat pumps), data centers, and industry, as well as energy sovereignty efforts aimed at reducing reliance on fossil fuels for heating and cooling.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-04",
+      "data_confidence": "high",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead"
+    }
+  ],
+  "sources": [
+    "McKinsey"
+  ],
+  "documents": [
+    {
+      "doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "publisher": "mckinsey",
+      "date": "2026-09-04",
+      "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead"
+    }
+  ]
+}

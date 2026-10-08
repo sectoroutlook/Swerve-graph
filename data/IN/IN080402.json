@@ -1,0 +1,286 @@
+{
+  "geography": "IN",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Sustained AI-driven demand for leading-edge fab capacity",
+      "description": "The rapid build-out of AI data centers is fueling unprecedented demand for leading-edge chips (7nm or less) and High-Bandwidth Memory (HBM). This sustained demand is driving significant investment in new fabs, advanced packaging, and next-generation memory technologies. This translates directly into elevated ASPs for chips and consistent, high demand for semiconductor manufacturing equipment and specialized materials, extending a period of strong growth.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "source_date": "2026-09-18"
+    },
+    {
+      "index": 2,
+      "title": "Global government policies boosting localized semiconductor manufacturing",
+      "description": "Geopolitical considerations and the drive for supply chain resilience are prompting governments (e.g., US, Europe, India) to implement significant capital support and legislative measures. These policies incentivize the establishment of new fabrication plants and the expansion of existing capacity in diverse regions, leading to increased capital expenditures and thus higher demand for semiconductor equipment and materials globally, shifting the geographical landscape of production.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "ba165ddd-42ab-57af-896d-6e8f5c171051",
+      "source_title": "Semiconductors: Etching the new map of strategic supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 3,
+      "title": "Limited global vendor base creates supply chain concentration risks",
+      "description": "The global supply chain for specialized semiconductor equipment (e.g., lithography, etching, deposition, thermal processing) and critical input materials (e.g., specialty gases, slurries, photoresists, wafers) is characterized by a relatively small number of global vendors. While this ensures comparable base prices across regions, it introduces potential supply chain concentration risks, making the industry vulnerable to disruptions affecting these few highly specialized suppliers and potentially impacting production timelines and costs.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "ba165ddd-42ab-57af-896d-6e8f5c171051",
+      "source_title": "Semiconductors: Etching the new map of strategic supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 4,
+      "title": "Innovations in advanced packaging driving new equipment demand",
+      "description": "To address the extreme memory bandwidth limitations inherent in AI workloads, the semiconductor industry is witnessing a surge in advanced packaging solutions, notably hybrid bonding for High-Bandwidth Memory (HBM) stacks. The scaling and widespread adoption of these technologies (e.g., HBM4, HBM4E, HBM5) necessitate significant expansion of advanced packaging capacity and continuous technical advancements in related equipment and materials, creating substantial new demand within IN080402.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-25",
+      "source_doc_id": "8a8918f4-cfc7-5b3b-b9f8-a33e46dde961",
+      "source_title": "Frontiers of compute: The technologies to reduce AI inference costs",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/frontiers-of-compute-the-technologies-to-reduce-ai-inference-costs",
+      "source_date": "2026-06-25"
+    },
+    {
+      "index": 5,
+      "title": "Growing demand for EDA software due to AI custom silicon design",
+      "description": "The increasing trend of codesigning custom Application-Specific Integrated Circuits (ASICs) optimized for specific AI inference workloads, as opposed to general-purpose GPUs, is driving the need for faster and more flexible chip design cycles. This imperative directly boosts the market for Electronic Design Automation (EDA) software and IP providers, which are essential for developing and optimizing these specialized AI chips, thereby acting as a significant tailwind for the EDA segment within IN080402.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-25",
+      "source_doc_id": "8a8918f4-cfc7-5b3b-b9f8-a33e46dde961",
+      "source_title": "Frontiers of compute: The technologies to reduce AI inference costs",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/frontiers-of-compute-the-technologies-to-reduce-ai-inference-costs",
+      "source_date": "2026-06-25"
+    },
+    {
+      "index": 6,
+      "title": "India's government committed to strengthening domestic semiconductor supply chain",
+      "description": "The Indian government's India Semiconductor Mission 2.0 (ISM 2.0) explicitly allocates Rs. 1,000 crore (US$ 113.16 million) for FY 2026-27 specifically for developing domestic capabilities in semiconductor equipment and materials. This targeted government support, alongside other incentives, aims to advance full-stack Indian IP and strengthen local supply chains for IN080402, reducing import dependence and fostering indigenous manufacturing of critical components.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "884bc072-d432-57d5-b48d-820d2ea2caa7",
+      "source_title": "ESDM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electronics-system-design-manufacturing-esdm",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 7,
+      "title": "Significant investments in India's semiconductor manufacturing and packaging facilities",
+      "description": "India is attracting substantial capital for new semiconductor plants and ATMP/OSAT facilities. Examples include over US$ 15 billion for three new semiconductor plants, Micron's US$ 2.75 billion for an ATMP facility, and Sahasra Semiconductors' new ATMP/OSAT facility. These investments, with operations commencing from 2026, create direct and localized demand for semiconductor manufacturing and packaging equipment and materials, bolstering the domestic market for IN080402.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "884bc072-d432-57d5-b48d-820d2ea2caa7",
+      "source_title": "ESDM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electronics-system-design-manufacturing-esdm",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 8,
+      "title": "Growth in India's chip design ecosystem driving EDA software demand",
+      "description": "R&D efforts by global firms (LG, Samsung) and local startups in India are increasingly focused on semiconductor design, system-on-chip, and AI-enabled technologies. Government schemes like the Design Linked Incentive (DLI) further support indigenous AI chip design, thereby stimulating demand for Electronic Design Automation (EDA) software. As EDA software is classified under Semiconductor Equipment & Materials, this growth directly benefits this sub-industry in India.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "884bc072-d432-57d5-b48d-820d2ea2caa7",
+      "source_title": "ESDM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electronics-system-design-manufacturing-esdm",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 9,
+      "title": "Skepticism regarding India's capacity to meet semiconductor ambitions",
+      "description": "Despite robust policy support and substantial investment announcements for India's semiconductor sector, some experts are skeptical about the sufficiency of the country's investment and talent pools. This raises a key risk that India's ambitious goals for becoming a global semiconductor powerhouse, and by extension its domestic equipment and materials sector, may face delays or underperform expectations due to resource limitations.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-04",
+      "source_doc_id": "4c37814f-84b1-58bb-b23f-68ecf03da1fb",
+      "source_title": "R47597: India-U.S. Relations: Issues for Congress",
+      "source_publisher": "crs",
+      "source_url": "https://www.congress.gov/crs-product/R47597",
+      "source_date": "2026-05-04"
+    },
+    {
+      "index": 10,
+      "title": "International cooperation fostering semiconductor supply chain development",
+      "description": "Bilateral initiatives like the U.S.-India iCET and TRUST, along with multilateral platforms such as the 'Pax Silica' initiative (which India has joined), aim to build secure and innovation-driven silicon supply chains. These collaborations facilitate technology transfer, access to advanced tools and critical minerals, and promote investment, thereby benefiting India's semiconductor equipment and materials sector by integrating it into a broader global ecosystem of trust and shared technological advancement.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-04",
+      "source_doc_id": "4c37814f-84b1-58bb-b23f-68ecf03da1fb",
+      "source_title": "R47597: India-U.S. Relations: Issues for Congress",
+      "source_publisher": "crs",
+      "source_url": "https://www.congress.gov/crs-product/R47597",
+      "source_date": "2026-05-04"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "AI-fueled demand to propel semiconductor market to $2.3 trillion by 2030",
+      "description": "McKinsey projects the global semiconductor market to reach $2.3 trillion by 2030, a significant increase from previous estimates, primarily driven by the rapid build-out of AI data centers. This unprecedented surge in AI demand is elevating average selling prices (ASPs) for leading-edge chips and High-Bandwidth Memory (HBM). The need for new fabs, advanced packaging, and next-generation memory technologies to meet this demand directly benefits the semiconductor equipment and materials sector.",
+      "stance": "positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-18",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story"
+    },
+    {
+      "index": 2,
+      "title": "Geopolitics and resilience are reshaping global semiconductor supply chain investments",
+      "description": "McKinsey observes that geopolitical considerations and the pursuit of supply chain resilience are increasingly influencing investment decisions in semiconductor manufacturing. Governments in the US and Europe are offering substantial capital support and legislative incentives to establish local fab ecosystems. This strategic shift, despite higher operating costs in these regions, is driving new fab construction and capital expenditures, creating increased demand for semiconductor equipment and materials globally.",
+      "stance": "cautious_positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-06-30",
+      "source_doc_id": "ba165ddd-42ab-57af-896d-6e8f5c171051",
+      "source_title": "Semiconductors: Etching the new map of strategic supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply"
+    },
+    {
+      "index": 3,
+      "title": "Innovations in advanced packaging and custom silicon are vital for AI inference cost reduction",
+      "description": "McKinsey highlights that significant reductions in AI inference costs depend on a coordinated wave of innovation across the semiconductor supply chain, including advanced packaging, custom silicon, and EDA software. These technological advancements, such as hybrid bonding for HBM and application-specific integrated circuits (ASICs), are crucial for optimizing hardware and improving utilization. This innovation trajectory directly generates value and demand for EDA software, advanced packaging equipment, and specialized manufacturing tools.",
+      "stance": "positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-06-25",
+      "source_doc_id": "8a8918f4-cfc7-5b3b-b9f8-a33e46dde961",
+      "source_title": "Frontiers of compute: The technologies to reduce AI inference costs",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/frontiers-of-compute-the-technologies-to-reduce-ai-inference-costs"
+    },
+    {
+      "index": 4,
+      "title": "India is rapidly emerging as a global semiconductor manufacturing and design hub",
+      "description": "According to IBEF, India is strategically positioning itself as a global semiconductor hub, attracting significant investments for manufacturing, packaging (ATMP/OSAT), and design facilities. Initiatives like the India Semiconductor Mission 2.0 (ISM 2.0) are actively promoting domestic capabilities in semiconductor equipment, materials, and chip design. Investments from global players such as Micron Technology and partnerships like Tata Electronics with Intel underscore this positive trajectory for the sector.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "source_doc_id": "884bc072-d432-57d5-b48d-820d2ea2caa7",
+      "source_title": "ESDM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/electronics-system-design-manufacturing-esdm"
+    },
+    {
+      "index": 5,
+      "title": "Experts express skepticism regarding India's capacity to fully realize its ambitious chip goals",
+      "description": "Despite India's government-led initiatives (e.g., ISM 2.0, DLI Scheme) and substantial announced investments in semiconductor projects (totaling $18.2 billion across ten projects), some experts are skeptical. Concerns exist regarding whether India's current investment and talent pools are sufficient to fully achieve its ambition of becoming a global semiconductor powerhouse. This skepticism highlights a potential cautious outlook for the timely and complete development of the domestic semiconductor equipment and materials sector.",
+      "stance": "cautious_negative",
+      "source_firm": "crs",
+      "source_date": "2026-05-04",
+      "source_doc_id": "4c37814f-84b1-58bb-b23f-68ecf03da1fb",
+      "source_title": "R47597: India-U.S. Relations: Issues for Congress",
+      "source_publisher": "crs",
+      "source_url": "https://www.congress.gov/crs-product/R47597"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 1.0,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 6.0,
+      "forecast_cagr_period": "2023-2029",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI Datacenter Boom",
+          "description": "The rapid expansion of AI data centers is driving extraordinary and sustained demand for advanced semiconductors, necessitating massive capital mobilization for new fabs and manufacturing infrastructure."
+        },
+        {
+          "driver": "Broad Application Growth",
+          "description": "Continued growth across computing, wireless, industrial, and automotive applications sustains overall demand for semiconductor production capacity."
+        },
+        {
+          "driver": "Geopolitical & Resilience Policies",
+          "description": "Government policies worldwide (e.g., US, Europe, India) are incentivizing localized fab construction to enhance supply chain resilience and reduce import reliance, leading to new investments in manufacturing capacity."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total global planned investment into semiconductor fabs and chip production by 2030, which largely represents capital expenditures on equipment and materials.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-06-30",
+      "data_confidence": "high",
+      "source_doc_id": "ba165ddd-42ab-57af-896d-6e8f5c171051",
+      "source_title": "Semiconductors: Etching the new map of strategic supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply"
+    }
+  ],
+  "sources": [
+    "mckinsey",
+    "ibef",
+    "crs"
+  ],
+  "documents": [
+    {
+      "doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "publisher": "mckinsey",
+      "date": "2026-09-18",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story"
+    },
+    {
+      "doc_id": "ba165ddd-42ab-57af-896d-6e8f5c171051",
+      "title": "Semiconductors: Etching the new map of strategic supply",
+      "publisher": "mckinsey",
+      "date": "2026-06-30",
+      "url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply"
+    },
+    {
+      "doc_id": "8a8918f4-cfc7-5b3b-b9f8-a33e46dde961",
+      "title": "Frontiers of compute: The technologies to reduce AI inference costs",
+      "publisher": "mckinsey",
+      "date": "2026-06-25",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/frontiers-of-compute-the-technologies-to-reduce-ai-inference-costs"
+    },
+    {
+      "doc_id": "884bc072-d432-57d5-b48d-820d2ea2caa7",
+      "title": "ESDM Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/electronics-system-design-manufacturing-esdm"
+    },
+    {
+      "doc_id": "4c37814f-84b1-58bb-b23f-68ecf03da1fb",
+      "title": "R47597: India-U.S. Relations: Issues for Congress",
+      "publisher": "crs",
+      "date": "2026-05-04",
+      "url": "https://www.congress.gov/crs-product/R47597"
+    }
+  ]
+}

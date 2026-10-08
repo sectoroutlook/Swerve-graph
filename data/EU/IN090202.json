@@ -1,0 +1,88 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "AI/Quantum optimization of cell site operations and energy management",
+      "description": "AI and quantum computing are poised to significantly reshape telecom operating cost structures. For passive infrastructure, this involves optimizing energy management across thousands of cell sites, which are typically hosted on towers. Additionally, AI-driven closed-loop network operations, like Vivo's approach, lead to faster incident resolution and reduced manual intervention for site-level network issues. These technological shifts signify a structural change towards more autonomous and cost-efficient site management, directly benefiting tower companies by reducing operational costs and enhancing the value proposition of their passive infrastructure assets.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-05",
+      "source_doc_id": "61f33b7d-15b4-5e50-9b45-c83e485c6356",
+      "source_title": "How Telecom Carriers Are Preparing for Quantum",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/how-telecom-carriers-are-preparing-for-quantum",
+      "source_date": "2026-06-05",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Telecom operator demand for optimized site operations",
+          "description": "As telcos adopt AI for network operations and incident resolution (e.g., fault detection, diagnostics, corrective actions), they will increasingly seek passive infrastructure partners who can support or integrate with these advanced operational models, driving demand for smart, efficient tower sites."
+        },
+        {
+          "driver": "Energy efficiency requirements for cell sites",
+          "description": "The need to manage energy consumption across thousands of cell sites more efficiently, especially with variable loads and grid constraints, will drive demand for passive infrastructure providers capable of deploying and managing advanced energy optimization technologies, including those leveraging AI and potentially quantum computing for complex calculations."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Reduced operational expenditure (Opex)",
+          "description": "AI-driven automation of network operations and energy management at tower sites can lead to significant reductions in Opex for tower companies, stemming from faster incident resolution, less manual intervention, and optimized energy consumption."
+        },
+        {
+          "driver": "Improved service quality and uptime",
+          "description": "Enhanced network incident resolution and proactive maintenance enabled by AI can lead to better service quality and higher uptime for telecom operators, potentially improving the value and contractual terms for tower site leasing."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Tower companies can differentiate themselves by offering AI-enabled services that optimize site performance, predict maintenance needs, or manage energy consumption more effectively, providing added value to telecom operator tenants.",
+          "opportunity": "AI-enabled passive infrastructure services"
+        }
+      ],
+      "methodology": "The increasing adoption of AI and quantum computing for telecom network operations, particularly in managing cell site energy and incident resolution, is expected to drive efficiencies and cost reductions for tower companies. While no specific market size is provided, the shift indicates a focus on optimizing operational expenditures (opex) and improving network resilience, indirectly impacting the value proposition and margin potential of passive infrastructure providers.",
+      "source_firm": "Bain & Company; McKinsey & Company",
+      "source_date": "2026-09-10",
+      "data_confidence": "medium",
+      "source_doc_id": "2b91867f-70ab-59e5-877c-d5dc2005a422",
+      "source_title": "AI in Telecom: The Opex Reckoning",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/ai-in-telecom-the-opex-reckoning",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "Bain & Company; McKinsey & Company"
+  ],
+  "documents": [
+    {
+      "doc_id": "61f33b7d-15b4-5e50-9b45-c83e485c6356",
+      "title": "How Telecom Carriers Are Preparing for Quantum",
+      "publisher": "bain",
+      "date": "2026-06-05",
+      "url": "https://www.bain.com/insights/how-telecom-carriers-are-preparing-for-quantum"
+    },
+    {
+      "doc_id": "2b91867f-70ab-59e5-877c-d5dc2005a422",
+      "title": "AI in Telecom: The Opex Reckoning",
+      "publisher": "bain",
+      "date": "2026-09-10",
+      "url": "https://www.bain.com/insights/ai-in-telecom-the-opex-reckoning"
+    }
+  ]
+}

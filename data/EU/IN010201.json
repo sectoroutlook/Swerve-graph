@@ -1,0 +1,424 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Geopolitical chokepoint disruptions threaten global oil and gas supply",
+      "description": "The Strait of Hormuz disruption in 2026, affecting 20% of global oil and LNG supply, highlights the extreme vulnerability of energy trade to geopolitical chokepoints. This poses a significant risk to the E&P sector as disruptions can lead to supply outages, price volatility, and rerouting challenges. The intensifying conflict in the Red Sea and pipeline disruptions further threaten alternative oil export routes, indicating ongoing and potentially widening risks to supply continuity and market stability for E&P operations.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
+      "source_date": "2026-09-17",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Global oil price volatility driven by supply shocks and inventory dynamics",
+      "description": "The Strait of Hormuz crisis caused Brent crude to top $120/barrel before declining with ongoing swings, illustrating high cyclical volatility. While shock absorbers like bypass pipelines and inventories cushioned the initial blow, inventories are thinning, and the refining system is stressed. This creates an environment where oil-exposed E&P operators face significant pressure from price fluctuations, impacting profitability and investment decisions. The crisis signals a need for shoring up buffers for refined products, potentially influencing downstream demand and pricing for crude.",
+      "type": "cyclical_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
+      "source_date": "2026-09-17",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Energy security drives diversification of oil and gas supply and trade routes",
+      "description": "In response to supply disruptions, countries and firms are implementing structural changes to enhance energy security, including diversifying production and creating alternative oil and gas supply. Measures underway or under discussion could offset 35-70% of pre-crisis oil flows through the Strait of Hormuz by 2030, in the event of a future shock. This involves increased production from regions like the US, Brazil, Kazakhstan, Venezuela, Norway, and the UK, and building additional pipelines to circumvent chokepoints, representing a long-term shift in global E&P investment and trade patterns.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
+      "source_date": "2026-09-17",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Increased investment in LNG supply chain resilience including upstream equity",
+      "description": "The disruption to transit in the Strait of Hormuz is prompting LNG buyers to prioritize investments in resilience measures. Approximately 66% of buyers plan to increase investment in areas like storage infrastructure, shipping, and crucially, upstream equity. This implies that LNG buyers are seeking greater control over their supply sources by directly investing in E&P assets, diversifying their portfolio, and strengthening contractual protections, ensuring security of supply for gas producers and developers.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "8e80a468-b70d-5c32-a0ae-06a991df360f",
+      "source_title": "LNG buyers’ sentiment: Disruption and implications for procurement",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement",
+      "source_date": "2026-09-11",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Upstream operators asserting dominance in oilfield services value chain",
+      "description": "Over the last 15 years, national oil companies and large operators have built significant internal capabilities and re-insourced functions previously outsourced to oilfield service providers. This shift has led to operators concentrating spending with fewer preferred suppliers, dictating terms that transfer most project risk to the service companies. This 'operator dominance' impacts the entire upstream capex cycle, as E&P companies take greater control over project management and strategic capabilities, potentially reducing margins for external service providers and influencing the overall efficiency and innovation within E&P.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value",
+      "source_date": "2026-09-08",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Artificial intelligence driving significant value creation across upstream E&P lifecycle",
+      "description": "AI is emerging as a powerful upside driver for upstream oil and gas, with potential to unlock $230 billion annually at full potential, plus $35 billion in balance sheet value from exploration success. Key areas of value creation include production optimization, drilling and well delivery, and intelligent reservoir management. These applications improve capital productivity, reduce operating costs, and increase production, offering a transformative step change in efficiency and profitability for E&P companies capable of industrializing AI and adopting new commercial models.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-25",
+      "source_doc_id": "7997f6ad-c438-53e2-9c9a-a738b981d89b",
+      "source_title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone",
+      "source_date": "2026-08-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Misaligned commercial models hinder full value capture from AI in upstream",
+      "description": "A significant headwind to AI's full potential in upstream E&P is the misalignment of commercial models between operators and oilfield service companies (OFSEs). While AI-driven efficiency (e.g., faster wells, fewer interventions) benefits operators, it can reduce billable rig days or service hours for OFSEs, exposing their revenue. This paradox means OFSEs may lose revenue when activity declines, disincentivizing the development and deployment of efficiency-creating AI solutions crucial for E&P. Adopting performance-linked models that share value upside is essential to overcome this.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-25",
+      "source_doc_id": "7997f6ad-c438-53e2-9c9a-a738b981d89b",
+      "source_title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone",
+      "source_date": "2026-08-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "Ireland's high fossil fuel import dependence exposes E&P to price volatility",
+      "description": "Ireland's energy sector, with approximately 80% import dependence and continued reliance on fossil fuels, especially gas, faces significant exposure to price volatility. This directly impacts oil-exposed E&P operators, who are under pressure from fluctuations in global energy markets. Such reliance on imports amplifies the impact of geopolitical energy shocks and necessitates careful review of procurement and pricing strategies by firms with direct fuel exposure to maintain profitability and operational continuity amidst sustained energy price increases.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-22",
+      "source_doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "source_title": "July 2026 Ireland Sector Snippets",
+      "source_publisher": "allianz_ie",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html",
+      "source_date": "2026-07-22",
+      "country_focus": "IE"
+    },
+    {
+      "index": 9,
+      "title": "Norway discusses new oil and gas capacity amidst global energy security concerns",
+      "description": "Amidst global energy security concerns following the Strait of Hormuz disruption, Norway is discussing new oil and gas capacity. This initiative, alongside similar discussions in the United Kingdom, represents a potential tailwind for E&P operations in Norway. Increased national focus on diversifying global supply and reducing reliance on vulnerable chokepoints could lead to supportive policies, new project approvals, and increased investment in exploration, appraisal, and development activities, strengthening Norway's position as a reliable energy supplier.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
+      "source_date": "2026-09-17",
+      "country_focus": "NO"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Energy system resilience tested by Hormuz crisis, revealing limits and long-term concerns",
+      "description": "McKinsey views the global energy system as more resilient than anticipated during the 2026 Strait of Hormuz disruption due to temporary buffers like bypass pipelines and inventories. However, these measures have limits, with thinning inventories and stressed refining systems. Long-term energy security concerns are expected to outlast the disruption, driving structural changes in how economies produce, trade, and consume energy. The crisis highlights that energy security is about managing vulnerabilities, not eliminating them.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-17",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "LNG buyers shifting procurement strategies towards diversification and resilience investments",
+      "description": "McKinsey's pulse survey indicates that approximately 80% of LNG buyers expect permanent shifts in their procurement strategies due to the Strait of Hormuz disruption, with nearly half anticipating structural changes. The top priority is geographic diversification of supply, cited by 93% of respondents. Companies are also investing in resilience measures, including storage infrastructure, shipping, and upstream equity, signifying a move from cost minimization to prioritizing security of supply amid increasing volatility.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-11",
+      "source_doc_id": "8e80a468-b70d-5c32-a0ae-06a991df360f",
+      "source_title": "LNG buyers’ sentiment: Disruption and implications for procurement",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Upstream operators increasingly dominate oilfield service value chain, shifting power dynamics",
+      "description": "BCG Global asserts that power has significantly migrated to oil and gas operators over the past 15 years, with many national oil companies building internal capabilities and insourcing functions previously outsourced. This has led to operators concentrating spending with a small number of preferred suppliers on terms that shift most project risk to suppliers. This 'operator dominance' structurally alters the supplier-operator relationship, resembling an OEM-supplier dynamic rather than peer collaboration, thereby influencing the upstream capex cycle and value capture by E&P firms.",
+      "stance": "neutral",
+      "source_firm": "BCG Global",
+      "source_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "AI poised to unlock significant value in upstream oil and gas, but scaling challenges persist",
+      "description": "McKinsey identifies AI as a major value driver for upstream oil and gas, capable of unlocking up to $230 billion annually at full potential, plus $35 billion in reserves accretion. However, the industry faces challenges in scaling AI, including overly broad prioritization, control-driven build-versus-buy decisions, underestimated change management, weak value tracking, and misaligned commercial models. A change in approach, focusing on fewer, bigger bets and outcome-based commercial models, is crucial to capitalize on AI's potential.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-08-25",
+      "source_doc_id": "7997f6ad-c438-53e2-9c9a-a738b981d89b",
+      "source_title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Ireland's energy sector stable but vulnerable to fossil fuel price volatility",
+      "description": "Allianz_IE indicates that Ireland's energy sector, despite being broadly stable, remains highly exposed to price volatility. This vulnerability stems from approximately 80% import dependence and continued reliance on fossil fuels, particularly gas. Oil-exposed operators face the greatest pressure from fluctuations in global energy markets. While state-backed entities are somewhat insulated, firms with direct fuel exposure must review procurement and pricing strategies to manage geopolitical disruption and sustained energy price increases effectively.",
+      "stance": "cautious_negative",
+      "source_firm": "Allianz_IE",
+      "source_date": "2026-07-22",
+      "source_doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "source_title": "July 2026 Ireland Sector Snippets",
+      "source_publisher": "allianz_ie",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html",
+      "country_focus": "IE"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 65.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increased production from existing wells",
+          "description": "AI optimizes production assets (rod pumps, ESPs, gas lift, waterfloods) to boost output and lower downtime."
+        },
+        {
+          "driver": "Lower nonproductive time (NPT)",
+          "description": "AI applications in drilling, production optimization, and maintenance reduce equipment failures, intervention costs, and operational inefficiencies."
+        },
+        {
+          "driver": "Improved capital productivity",
+          "description": "Fewer wells needed for development plans, lower lease operating expenses, and shorter field development cycles through AI-driven optimization."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Operating cost reduction",
+          "description": "AI minimizes lease operating expenses, lowers intervention and energy intensity costs, and optimizes chemical programs."
+        },
+        {
+          "driver": "Increased production margin",
+          "description": "Higher recovery and incremental production from existing assets directly boost revenue, especially with performance-linked commercial models."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Transition to closed-loop control and highly automated systems across the value chain, representing the full potential of AI.",
+          "opportunity": "Autonomous operating modes"
+        },
+        {
+          "description": "Improved subsurface interpretation and faster simulation models lead to better well placement and increased reserves accretion.",
+          "opportunity": "AI-driven exploration success"
+        }
+      ],
+      "methodology": "Bottom-up sizing of over 550 AI use cases across upstream life cycle, applied to global cost and production base, net of $30 billion annual implementation costs. Reflects today's proven AI technologies at current adoption levels.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-08-25",
+      "data_confidence": "high",
+      "source_doc_id": "7997f6ad-c438-53e2-9c9a-a738b981d89b",
+      "source_title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "tam_value": 230.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Autonomous operating modes",
+          "description": "Full-term potential is driven by widespread adoption of closed-loop control and highly automated systems across production, drilling, and reservoir management."
+        },
+        {
+          "driver": "Maximum addressability of AI across value chain",
+          "description": "AI applications are integrated into nearly all aspects of upstream operations, from exploration to production, maximizing efficiency and output."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Significant operating cost reduction",
+          "description": "AI-driven automation leads to substantial reductions in nonproductive time, lower lease operating expenses, and optimized resource allocation."
+        },
+        {
+          "driver": "Maximized production and recovery",
+          "description": "Advanced AI models optimize reservoir management and production strategies for the highest possible recovery and sustained output."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Streamlines development processes, reducing lead times and capital expenditure for new projects.",
+          "opportunity": "AI-driven engineering design and generative work-pack creation"
+        },
+        {
+          "description": "Improves project execution, reduces risks, and enhances capital efficiency before physical construction begins.",
+          "opportunity": "Digital rehearsal of construction sequences"
+        }
+      ],
+      "methodology": "Bottom-up sizing of over 550 AI use cases across upstream life cycle, applied to global cost and production base, net of $30 billion annual implementation costs. Assumes autonomous operating modes and maximum addressability across the value chain.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-08-25",
+      "data_confidence": "medium",
+      "source_doc_id": "7997f6ad-c438-53e2-9c9a-a738b981d89b",
+      "source_title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "tam_value": 35.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Improved exploration success",
+          "description": "AI accelerates subsurface interpretation, improves static/dynamic model updates, and generates surrogate models for faster simulation, leading to better decision-making in identifying new reserves."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "AI tools improve reserves estimation and support recovery strategies, enhancing the long-term value of assets.",
+          "opportunity": "Intelligent reservoir management"
+        }
+      ],
+      "methodology": "Estimated annual increase in balance sheet value through reserves accretion driven by AI-driven improvements in exploration success.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-08-25",
+      "data_confidence": "medium",
+      "source_doc_id": "7997f6ad-c438-53e2-9c9a-a738b981d89b",
+      "source_title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Annual capital expenditure",
+          "description": "Industry spends approximately $500 billion to $550 billion annually on capital projects, representing a significant pool for AI-driven capital productivity improvements."
+        },
+        {
+          "driver": "Annual operating expenditure",
+          "description": "Approximately $400 billion to $500 billion in annual operating expenses creates a large opportunity for AI to reduce costs through efficiency gains."
+        },
+        {
+          "driver": "Annual production margin",
+          "description": "Industry generates approximately $2 trillion in annual production margin at $50 per barrel of oil equivalent, highlighting the revenue potential for AI-driven production uplift."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Analysis of the global upstream oil and gas industry's cost and production base to contextualize AI value. Figures represent annual spending and margin.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-08-25",
+      "data_confidence": "high",
+      "source_doc_id": "7997f6ad-c438-53e2-9c9a-a738b981d89b",
+      "source_title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "McKinsey",
+    "BCG Global",
+    "Allianz_IE"
+  ],
+  "documents": [
+    {
+      "doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "publisher": "mckinsey",
+      "date": "2026-09-17",
+      "url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis"
+    },
+    {
+      "doc_id": "8e80a468-b70d-5c32-a0ae-06a991df360f",
+      "title": "LNG buyers’ sentiment: Disruption and implications for procurement",
+      "publisher": "mckinsey",
+      "date": "2026-09-11",
+      "url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement"
+    },
+    {
+      "doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "title": "Restoring Value Creation in Oilfield Services",
+      "publisher": "bcg_global",
+      "date": "2026-09-08",
+      "url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value"
+    },
+    {
+      "doc_id": "7997f6ad-c438-53e2-9c9a-a738b981d89b",
+      "title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
+      "publisher": "mckinsey",
+      "date": "2026-08-25",
+      "url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone"
+    },
+    {
+      "doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "title": "July 2026 Ireland Sector Snippets",
+      "publisher": "allianz_ie",
+      "date": "2026-07-22",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html"
+    }
+  ]
+}

@@ -1,0 +1,716 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "E-commerce steadily expands market share in Dutch retail",
+      "description": "E-commerce in the Netherlands is projected to grow by 4.5% in 2026 and robustly by 5% in 2027, outpacing other retail segments. This ongoing long-term shift towards online shopping consistently strengthens e-commerce's position, allowing it to capture a larger share of total retail sales at the expense of traditional channels.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-22",
+      "source_doc_id": "cd901ede-d457-5b3a-9611-0408af610d12",
+      "source_title": "Revenue growth masks growing pressure on retail profitability in the Netherlands",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/revenue-growth-masks-growing-pressure-on-retail-profitability-in-the-netherlands",
+      "source_date": "2026-09-22",
+      "country_focus": "NL"
+    },
+    {
+      "index": 2,
+      "title": "Rising costs pressure e-commerce profitability in the Netherlands",
+      "description": "Dutch e-commerce faces increasing pressure on profitability due to rising sourcing, logistics, and labor costs across the retail sector. Despite sales growth, fierce competition and price-sensitive consumers limit the ability to pass on these higher costs, making it increasingly difficult for e-commerce operators to translate sales growth into higher profits and maintain margins.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-22",
+      "source_doc_id": "cd901ede-d457-5b3a-9611-0408af610d12",
+      "source_title": "Revenue growth masks growing pressure on retail profitability in the Netherlands",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/revenue-growth-masks-growing-pressure-on-retail-profitability-in-the-netherlands",
+      "source_date": "2026-09-22",
+      "country_focus": "NL"
+    },
+    {
+      "index": 3,
+      "title": "Multichannel retailers gaining online market share from online-only players",
+      "description": "For the first time since 2022, multichannel retailers in the Netherlands have seen their online sales growth outpace that of online-only retailers. This trend, partly driven by shifting consumer demand towards segments where multichannel retailers are strong (e.g., supermarkets, drugstores), indicates traditional retailers are leveraging their digital investments and physical networks for competitive advantage in e-commerce.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-22",
+      "source_doc_id": "cd901ede-d457-5b3a-9611-0408af610d12",
+      "source_title": "Revenue growth masks growing pressure on retail profitability in the Netherlands",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/revenue-growth-masks-growing-pressure-on-retail-profitability-in-the-netherlands",
+      "source_date": "2026-09-22",
+      "country_focus": "NL"
+    },
+    {
+      "index": 4,
+      "title": "AI transforming retail operations and value measurement across channels",
+      "description": "Artificial intelligence is fundamentally reshaping retail, moving beyond analytics to power real-time decisions in pricing, labor, inventory, and exception handling. AI integrates with in-store technologies like digital shelf labels and IoT, enabling continuous optimization of operations. This impacts e-commerce by enhancing fulfillment, customer engagement, and allowing retailers to measure network-wide value beyond traditional direct margins, incorporating contributions like click-and-collect traffic and retail media reach.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-08-11",
+      "source_doc_id": "09b47770-5e75-5c8f-a9c9-ab033135c530",
+      "source_title": "Retailers Need to Manage Stores as a Portfolio Now. AI Lets You Do That.",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-ai-lets-retailers-manage-store-portfolios",
+      "source_date": "2026-08-11",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "AI-based retail media growth creates new high-margin revenue streams",
+      "description": "AI-based data on store performance, traffic patterns, and audience density offers measurable value for retail media—advertising within a company’s owned physical or digital channels. As cross-channel engagement matures, physical stores become central to this trend. This generates significant high-margin revenue beyond direct transaction volume, benefiting e-commerce platforms by providing new monetization opportunities and advertising channels for brands.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-11",
+      "source_doc_id": "09b47770-5e75-5c8f-a9c9-ab033135c530",
+      "source_title": "Retailers Need to Manage Stores as a Portfolio Now. AI Lets You Do That.",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-ai-lets-retailers-manage-store-portfolios",
+      "source_date": "2026-08-11",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Omnichannel fulfillment optimized via AI for cost-to-serve advantages",
+      "description": "Retailers are improving order fulfillment and delivery by integrating AI into delivery coverage, route density, and click-and-collect throughput. This is complemented by partnerships with global logistics providers operating automated warehouses. For e-commerce, this creates significant cost-to-serve advantages, especially for retailers leveraging their physical footprint as last-mile infrastructure, compounding benefits as fulfillment volumes grow and enhancing delivery efficiency.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-11",
+      "source_doc_id": "09b47770-5e75-5c8f-a9c9-ab033135c530",
+      "source_title": "Retailers Need to Manage Stores as a Portfolio Now. AI Lets You Do That.",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-ai-lets-retailers-manage-store-portfolios",
+      "source_date": "2026-08-11",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Physical stores evolving into omnichannel ecosystem hubs for digital engagement",
+      "description": "Traditional physical stores are increasingly serving multiple roles beyond direct sales, acting as fulfillment hubs for online orders, browsing destinations for future online purchases, and centers for advice, returns, and repairs. This evolution supports broader e-commerce strategies, amplifying online sales within catchment areas, anchoring trust for high-ticket online purchases, and contributing to overall digital engagement by leveraging the convenience and tangible presence of physical locations.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-08-11",
+      "source_doc_id": "09b47770-5e75-5c8f-a9c9-ab033135c530",
+      "source_title": "Retailers Need to Manage Stores as a Portfolio Now. AI Lets You Do That.",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-ai-lets-retailers-manage-store-portfolios",
+      "source_date": "2026-08-11",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "Strengthening online and omnichannel capabilities for Irish retail resilience",
+      "description": "In a challenging Irish retail environment, strengthening online and omnichannel capabilities is crucial for businesses. Amid declining sales volumes in some subsectors, rising energy costs, high rents, labor shortages, and increasing insolvencies, integrating digital and physical presence helps protect profitability. This strategic focus enhances customer engagement, optimizes inventory management, and improves operational control, positioning retailers for greater resilience and competitiveness.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-22",
+      "source_doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "source_title": "July 2026 Ireland Sector Snippets",
+      "source_publisher": "allianz_ie",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html",
+      "source_date": "2026-07-22",
+      "country_focus": "IE"
+    },
+    {
+      "index": 9,
+      "title": "Fragmented digital transformation hinders Irish grocery e-commerce efficiency",
+      "description": "The digital transformation within the Irish grocery sector is currently fragmented, leading to significant cost and operational inefficiencies. This fragmentation delays the effective implementation of improved supply-chain, analytics, and omnichannel models, which are crucial for maintaining profitability. Retailers recognize the urgent need for appropriate investment in this area to overcome these challenges and sustain growth in a competitive environment.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-16",
+      "source_doc_id": "6cad6eee-01b1-58e5-a8e7-47ecf216365a",
+      "source_title": "Bank of Ireland Retail Convenience H1 2026 Insights and H2 2026 Outlook July 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/07/Grocery-Convenience-Outlook-July-2026.pdf",
+      "source_date": "2026-07-16",
+      "country_focus": "IE"
+    },
+    {
+      "index": 10,
+      "title": "Investment in digital transformation critical for Irish grocery profitability",
+      "description": "Irish grocery retailers recognize that significant and appropriate investment in digital transformation is a key step to preserve profitability. This investment aims to rectify fragmented digital systems, enhance supply-chain, analytics, and omnichannel models, and ensure that resources can continue to be allocated to traditional areas like personnel, store design, and product offerings, thereby securing future competitiveness and operational efficiency.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-16",
+      "source_doc_id": "6cad6eee-01b1-58e5-a8e7-47ecf216365a",
+      "source_title": "Bank of Ireland Retail Convenience H1 2026 Insights and H2 2026 Outlook July 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/07/Grocery-Convenience-Outlook-July-2026.pdf",
+      "source_date": "2026-07-16",
+      "country_focus": "IE"
+    },
+    {
+      "index": 11,
+      "title": "AI and GenAI enable new commerce models like agentic shopping",
+      "description": "Artificial intelligence, particularly Generative AI and agentic models, is fundamentally reshaping e-commerce by creating new models such as agentic commerce. This involves AI-enabled search, AI-generated answers, and AI assistants helping consumers discover, compare, choose, and buy products. This represents a significant structural shift in how digital transactions occur, moving beyond traditional search and direct navigation to more intelligent, assisted purchasing journeys.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-24",
+      "source_doc_id": "4e4aede3-6dca-598e-b2b6-55f888342c1f",
+      "source_title": "AI in CPG and Retail: How Winners Are Pulling Ahead",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-cpg-retail-leaders-maximize-ai-roi",
+      "source_date": "2026-06-24",
+      "country_focus": "EU"
+    },
+    {
+      "index": 12,
+      "title": "Generative Engine Optimization (GEO) enhances product visibility in AI search",
+      "description": "As AI increasingly influences consumer product discovery, brands must adopt Generative Engine Optimization (GEO). This involves structuring product content across ingredients, benefits, clinical validation, and use occasions so AI systems can easily interpret and recommend them. Moving beyond traditional keyword SEO ensures products surface effectively in AI-generated answers and recommendations, crucial for capturing demand in the evolving e-commerce landscape.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-24",
+      "source_doc_id": "4e4aede3-6dca-598e-b2b6-55f888342c1f",
+      "source_title": "AI in CPG and Retail: How Winners Are Pulling Ahead",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-cpg-retail-leaders-maximize-ai-roi",
+      "source_date": "2026-06-24",
+      "country_focus": "EU"
+    },
+    {
+      "index": 13,
+      "title": "Uneven AI adoption and scaling challenges hinder full potential realization",
+      "description": "Most CPG and retail companies remain in pilot or exploration mode for AI initiatives (75%), with only 18% achieving scaled impact. A significant barrier is the failure of pilot economics to translate into full-scale ROI, often due to complexities like integrating with live data and legacy systems, and managing frontline adoption. This 'pilot trap' limits widespread, profitable AI deployment, restraining the full transformative potential of AI in e-commerce operations.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-24",
+      "source_doc_id": "4e4aede3-6dca-598e-b2b6-55f888342c1f",
+      "source_title": "AI in CPG and Retail: How Winners Are Pulling Ahead",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-cpg-retail-leaders-maximize-ai-roi",
+      "source_date": "2026-06-24",
+      "country_focus": "EU"
+    },
+    {
+      "index": 14,
+      "title": "Lack of formal ROI measurement impedes scaling of AI investments",
+      "description": "More than half of companies do not formally measure the Return on Investment (ROI) of their consumer AI investments. This absence of clear financial accountability at the pilot stage makes it difficult to justify scaling initiatives to full deployment. Without robust ROI data, businesses struggle to transition from successful technical feasibility pilots to financially viable, large-scale AI implementations, hindering broader adoption and value capture in e-commerce.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-24",
+      "source_doc_id": "4e4aede3-6dca-598e-b2b6-55f888342c1f",
+      "source_title": "AI in CPG and Retail: How Winners Are Pulling Ahead",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-cpg-retail-leaders-maximize-ai-roi",
+      "source_date": "2026-06-24",
+      "country_focus": "EU"
+    },
+    {
+      "index": 15,
+      "title": "Shift from AI 'copilot' to 'autopilot' for operational efficiency gains",
+      "description": "The evolution of AI usage in retail from 'copilot' (generating insights for human decisions, 67% of companies) to 'autopilot' (AI executing decisions within guardrails, 9% of companies) represents a significant shift. Moving more processes like demand forecasting to autopilot mode will drive substantial operational efficiency by continuously reading demand signals and triggering actions, requiring fundamental changes in data, workflow, and operating models to maximize e-commerce agility and responsiveness.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-24",
+      "source_doc_id": "4e4aede3-6dca-598e-b2b6-55f888342c1f",
+      "source_title": "AI in CPG and Retail: How Winners Are Pulling Ahead",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-cpg-retail-leaders-maximize-ai-roi",
+      "source_date": "2026-06-24",
+      "country_focus": "EU"
+    },
+    {
+      "index": 16,
+      "title": "Rising operational costs and complexities with AI at scale",
+      "description": "As AI solutions scale, token spending and model usage can become significant recurring operating costs, posing a key financial risk. Companies must manage operational stability, monitor cost inflation, and ensure honest workforce engagement. Accelerated optimization can create hidden costs, such as increased time spent correcting AI output. Leaders need clear ROI data, tighter solution-stack management, and accurate cost attribution to ensure value-driven scaling decisions in e-commerce.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-24",
+      "source_doc_id": "4e4aede3-6dca-598e-b2b6-55f888342c1f",
+      "source_title": "AI in CPG and Retail: How Winners Are Pulling Ahead",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-cpg-retail-leaders-maximize-ai-roi",
+      "source_date": "2026-06-24",
+      "country_focus": "EU"
+    },
+    {
+      "index": 17,
+      "title": "Social commerce revolutionizing beauty product discovery and purchase",
+      "description": "Social commerce is rapidly transforming the beauty industry, emerging as the fastest-growing channel for product discovery and purchase. This shift moves consumers towards creators, social platforms, and digital marketplaces, with platforms like TikTok becoming major beauty retailers driving triple-digit sales growth through shoppable video and live streaming. This fundamentally reshapes how beauty brands engage with consumers and drive e-commerce sales.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-18",
+      "source_doc_id": "b1854308-793c-5a93-9a1e-228217c00091",
+      "source_title": "From aisle to algorithm: The beauty categories, channels, and concepts shaping 2030 growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-beauty",
+      "source_date": "2026-06-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 18,
+      "title": "Profitability challenges in social commerce due to high acquisition costs",
+      "description": "While platforms like TikTok Shop drive significant growth, much of it is fueled by aggressive promotions, affiliate commissions, and customer acquisition tactics. This raises concerns about the long-term profitability for brands, especially those not specifically built with margin structures and rapid product cycles tailored for social commerce. Brands face a trade-off between gaining visibility and maintaining healthy margins in these competitive channels.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-18",
+      "source_doc_id": "b1854308-793c-5a93-9a1e-228217c00091",
+      "source_title": "From aisle to algorithm: The beauty categories, channels, and concepts shaping 2030 growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-beauty",
+      "source_date": "2026-06-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 19,
+      "title": "Blurring channel lines in beauty retail impacts e-commerce strategies",
+      "description": "The beauty retail landscape is undergoing a profound restructuring as products previously exclusive to department or specialty stores increasingly appear across mass retailers and online marketplaces. Consumers are now fluidly shopping across price points, mixing prestige and mass purchases. This forces retailers to expand assortments and differentiate through owned brands, exclusive products, and curated experiences rather than brand access alone, directly influencing e-commerce channel strategies.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-18",
+      "source_doc_id": "b1854308-793c-5a93-9a1e-228217c00091",
+      "source_title": "From aisle to algorithm: The beauty categories, channels, and concepts shaping 2030 growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-beauty",
+      "source_date": "2026-06-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 20,
+      "title": "Agentic commerce and AI platforms driving e-commerce transactions",
+      "description": "Agentic commerce is an emerging and meaningful opportunity for beauty players, with AI platforms potentially driving up to 35% of e-commerce transactions in the next 3-5 years. AI shopping assistants will play a complementary role in helping consumers navigate digital aisles, compare products, and identify specific needs. This requires brands to adopt generative engine optimization (GEO) to structure product content for AI systems to interpret and recommend effectively.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-18",
+      "source_doc_id": "b1854308-793c-5a93-9a1e-228217c00091",
+      "source_title": "From aisle to algorithm: The beauty categories, channels, and concepts shaping 2030 growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-beauty",
+      "source_date": "2026-06-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 21,
+      "title": "Brands risk losing visibility by avoiding social commerce platforms",
+      "description": "Brands that opt to avoid fast-growing social commerce platforms, such as TikTok, risk significant loss of visibility and market share. As product discovery increasingly shifts towards creator-led channels, these brands may become less relevant to consumers. First movers on these platforms benefit from relatively limited competition, but as more larger players increase investment, customer acquisition and visibility could become more challenging for smaller, later entrants.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-18",
+      "source_doc_id": "b1854308-793c-5a93-9a1e-228217c00091",
+      "source_title": "From aisle to algorithm: The beauty categories, channels, and concepts shaping 2030 growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-beauty",
+      "source_date": "2026-06-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 22,
+      "title": "AI becoming central to European e-commerce economics",
+      "description": "Artificial intelligence has moved from a peripheral technology to the core of retail operations in Europe, fundamentally resetting the economics of digital commerce. This structural shift encompasses agentic shopping, advanced retail media strategies, and enhanced omnichannel intelligence. AI's central role is driving new avenues for growth and competition within the e-commerce sector, compelling businesses to integrate AI capabilities for sustained success.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-10",
+      "source_doc_id": "4f9c8797-94c2-5266-9e1d-dbd37855029a",
+      "source_title": "Europe’s new e‑commerce agenda: How AI is resetting growth and competition",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/europes-new-ecommerce-agenda-how-ai-is-resetting-growth-and-competition",
+      "source_date": "2026-06-10",
+      "country_focus": "EU"
+    },
+    {
+      "index": 23,
+      "title": "Marketplaces driving European digital commerce expansion",
+      "description": "Despite a cautious macroeconomic backdrop, digital commerce in Europe continues its robust expansion, with an estimated annual growth rate of 5-7%. This sustained growth is largely fueled by the increasing prominence and strong performance of online marketplaces. These platforms act as primary drivers for digital retail and consumer businesses, consolidating consumer demand and providing extensive reach for sellers across the European market.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-10",
+      "source_doc_id": "4f9c8797-94c2-5266-9e1d-dbd37855029a",
+      "source_title": "Europe’s new e‑commerce agenda: How AI is resetting growth and competition",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/europes-new-ecommerce-agenda-how-ai-is-resetting-growth-and-competition",
+      "source_date": "2026-06-10",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "E-commerce remains primary growth driver for Dutch retail, facing profitability pressures",
+      "description": "ING Research anticipates Dutch e-commerce to grow by 4.5% in 2026 and 5% in 2027, making it the primary growth engine for retail and strengthening its position against traditional channels. However, rising sourcing, logistics, and labor costs, combined with fierce price competition from price-sensitive consumers, are intensely pressuring profit margins. Multichannel retailers are now outpacing online-only retailers in growth, indicating a partial shift in online market share dynamics.",
+      "stance": "cautious_positive",
+      "source_firm": "ing_think",
+      "source_date": "2026-09-22",
+      "source_doc_id": "cd901ede-d457-5b3a-9611-0408af610d12",
+      "source_title": "Revenue growth masks growing pressure on retail profitability in the Netherlands",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/revenue-growth-masks-growing-pressure-on-retail-profitability-in-the-netherlands",
+      "country_focus": "NL"
+    },
+    {
+      "index": 2,
+      "title": "Fragmented digital transformation hinders efficiency and profitability in Irish grocery e-commerce",
+      "description": "Bank of Ireland notes that the digital transformation within the Irish grocery sector remains fragmented, leading to significant cost and operational inefficiencies. This fragmentation impedes the effective implementation of improved supply-chain, analytics, and omnichannel models. Retailers acknowledge that substantial investment in this digital realm is critical for preserving profitability and ensuring continued funding for essential areas like personnel, store design, and product offerings.",
+      "stance": "cautious_negative",
+      "source_firm": "bank_of_ireland",
+      "source_date": "2026-07-16",
+      "source_doc_id": "6cad6eee-01b1-58e5-a8e7-47ecf216365a",
+      "source_title": "Bank of Ireland Retail Convenience H1 2026 Insights and H2 2026 Outlook July 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/07/Grocery-Convenience-Outlook-July-2026.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 3,
+      "title": "AI poised for substantial growth and transformative impact across retail and CPG",
+      "description": "BCG anticipates AI's impact to expand significantly across the CPG and retail demand value chain, driving substantial growth. Generative AI and agentic models are enabling new capabilities in product recommendations, pricing, and demand forecasting, and creating 'generative engine optimization' and 'agentic commerce'. Although most companies are in pilot phases, agentic capabilities could expand the value pool by 1.7x, transforming workflows from decision support to orchestration despite current ROI measurement challenges.",
+      "stance": "positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-06-24",
+      "source_doc_id": "4e4aede3-6dca-598e-b2b6-55f888342c1f",
+      "source_title": "AI in CPG and Retail: How Winners Are Pulling Ahead",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-cpg-retail-leaders-maximize-ai-roi",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Beauty e-commerce to see significant growth driven by social and agentic commerce",
+      "description": "McKinsey projects the global beauty market to grow 5% annually, reaching $590 billion by 2030, with e-commerce accounting for the majority of this growth. Social commerce is identified as the fastest-growing channel, with US social commerce sales across consumer categories reaching $100 billion by 2026. Platforms like TikTok are rapidly becoming major beauty retailers, driving triple-digit sales growth. Agentic commerce, powered by AI, is also an emerging opportunity, potentially driving 35% of e-commerce transactions.",
+      "stance": "positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-06-18",
+      "source_doc_id": "b1854308-793c-5a93-9a1e-228217c00091",
+      "source_title": "From aisle to algorithm: The beauty categories, channels, and concepts shaping 2030 growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-beauty",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "AI fundamentally resetting growth and competition in Europe's e-commerce landscape",
+      "description": "McKinsey states that e-commerce has reasserted itself as the primary growth engine for European retail and consumer businesses, expanding at an estimated 5-7% annually, predominantly driven by marketplaces. Crucially, Artificial Intelligence has moved from the periphery to the core of retail operations, fundamentally changing the economics of digital commerce. This shift, encompassing agentic shopping, retail media, and omnichannel intelligence, is reshaping growth strategies and competitive dynamics across the European e-commerce sector.",
+      "stance": "positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-06-10",
+      "source_doc_id": "4f9c8797-94c2-5266-9e1d-dbd37855029a",
+      "source_title": "Europe’s new e‑commerce agenda: How AI is resetting growth and competition",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/europes-new-ecommerce-agenda-how-ai-is-resetting-growth-and-competition",
+      "country_focus": "EU"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 4.5,
+      "forecast_cagr_period": "2025-2026",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Long-term shift to online shopping",
+          "description": "The continuous, long-term consumer preference and behavior shift towards online purchasing remains a primary driver for e-commerce growth."
+        },
+        {
+          "driver": "Improved purchasing power",
+          "description": "Better consumer purchasing power supports overall spending, indirectly benefiting e-commerce as a convenient shopping channel."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Rising sourcing, logistics, and labor costs",
+          "description": "Increased operational expenses across the supply chain are putting significant pressure on the profitability of e-commerce retailers."
+        },
+        {
+          "driver": "Intense price competition",
+          "description": "Fierce competition and price-sensitive consumers limit the ability of e-commerce retailers to pass on higher costs, compressing profit margins."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Integrating digital and physical channels through services like click-and-collect, local fulfillment, and in-store customer engagement helps differentiate offerings and capture value.",
+          "opportunity": "Omnichannel excellence"
+        },
+        {
+          "description": "Developing distinctive product offerings under private labels and implementing customer loyalty programs helps strengthen competitive position and retain pricing power.",
+          "opportunity": "Strong private labels and loyalty programs"
+        }
+      ],
+      "methodology": "E-commerce turnover growth is expected to drive overall retail sales in the Netherlands.",
+      "source_firm": "ing_think",
+      "source_date": "2026-09-22",
+      "data_confidence": "high",
+      "source_doc_id": "cd901ede-d457-5b3a-9611-0408af610d12",
+      "source_title": "Revenue growth masks growing pressure on retail profitability in the Netherlands",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/revenue-growth-masks-growing-pressure-on-retail-profitability-in-the-netherlands",
+      "country_focus": "NL"
+    },
+    {
+      "index": 2,
+      "tam_value": 590.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 5.0,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Expanding definitions of beauty",
+          "description": "Broader consumer interpretations of beauty lead to diversification of products and services, fueling market expansion."
+        },
+        {
+          "driver": "Fluid shopping behavior",
+          "description": "Consumers are increasingly dynamic in their purchasing paths, shifting across channels and price tiers, which drives sales particularly in flexible e-commerce environments."
+        },
+        {
+          "driver": "Social commerce and creator economy",
+          "description": "The rise of social platforms, creators, and digital marketplaces as primary discovery and purchase channels significantly boosts beauty sales."
+        },
+        {
+          "driver": "Agentic commerce",
+          "description": "Emerging AI platforms and shopping assistants are facilitating product discovery and purchase decisions, contributing meaningfully to e-commerce transactions."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "High customer acquisition costs",
+          "description": "Aggressive promotions, affiliate commissions, and customer acquisition tactics on social commerce platforms can pressure brand profitability."
+        },
+        {
+          "driver": "Need for tailored brand strategies",
+          "description": "Brands require specific margin structures, pricing architectures, and rapid product cycles designed to support social commerce at scale."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Creating brands specifically for social commerce platforms with adapted margin structures, pricing, and rapid product cycles to thrive in this channel.",
+          "opportunity": "Developing social-first brands"
+        },
+        {
+          "description": "Structuring product content (ingredients, benefits, clinical validation) in ways that AI systems can interpret and recommend to enhance visibility in AI-enabled search and recommendations.",
+          "opportunity": "Generative Engine Optimization (GEO)"
+        },
+        {
+          "description": "Capitalizing on interactive content formats that integrate entertainment, discovery, and transaction to drive immediate purchases and engage consumers.",
+          "opportunity": "Leveraging live streaming and shoppable video"
+        }
+      ],
+      "methodology": "McKinsey analysis of the global beauty sector and sales data projects the total global beauty market size. E-commerce is stated as accounting for the majority of this market's growth.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-06-18",
+      "data_confidence": "high",
+      "source_doc_id": "b1854308-793c-5a93-9a1e-228217c00091",
+      "source_title": "From aisle to algorithm: The beauty categories, channels, and concepts shaping 2030 growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-beauty",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "tam_value": 100.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Shift to creator-led product discovery",
+          "description": "Consumers are increasingly discovering new products and brands through content from creators and influencers on social media platforms."
+        },
+        {
+          "driver": "Integrated discovery and purchase experience",
+          "description": "Social commerce platforms combine entertainment, product discovery, and direct transaction into a single, seamless user experience."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "McKinsey estimates US social commerce sales across consumer categories.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-06-18",
+      "data_confidence": "medium",
+      "source_doc_id": "b1854308-793c-5a93-9a1e-228217c00091",
+      "source_title": "From aisle to algorithm: The beauty categories, channels, and concepts shaping 2030 growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-beauty",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "tam_value": 4.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 260.0,
+      "historical_cagr_period": "2023-2026",
+      "demand_drivers": [
+        {
+          "driver": "Creator-led storytelling and viral content",
+          "description": "Influencer-driven content and viral trends on platforms like TikTok are powerful drivers for product discovery and impulse purchases in the beauty sector."
+        },
+        {
+          "driver": "Shoppable video and live streaming",
+          "description": "Integrated commerce features allowing direct purchases from video content and real-time live streams convert engagement into sales effectively."
+        },
+        {
+          "driver": "Novelty and visible product outcomes",
+          "description": "Products offering unique ingredients or delivering clear, visible results are particularly well-suited for short-form video content and drive engagement/sales."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Promotions and affiliate commissions",
+          "description": "The use of aggressive promotions and affiliate commissions drives sales volume but can impact brand profitability on these platforms."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Developing brands or sublines with margin structures, pricing, and rapid product cycles tailored to social commerce platforms can maximize sales and profitability.",
+          "opportunity": "Platform-specific brand strategies"
+        },
+        {
+          "description": "Strategically funneling demand generated on social media platforms to other established e-commerce storefronts (e.g., Amazon) to optimize conversion and reach.",
+          "opportunity": "Directing social media demand to other e-commerce channels"
+        }
+      ],
+      "methodology": "McKinsey projects beauty sales on TikTok (US) to reach $4 billion. This indicates the platform's role as a rapidly growing e-commerce channel.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-06-18",
+      "data_confidence": "high",
+      "source_doc_id": "b1854308-793c-5a93-9a1e-228217c00091",
+      "source_title": "From aisle to algorithm: The beauty categories, channels, and concepts shaping 2030 growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-beauty",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 5.0,
+      "forecast_cagr_period": "ongoing",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "E-commerce as primary growth engine",
+          "description": "E-commerce has reasserted its role as the leading growth driver for retail and consumer businesses across Europe."
+        },
+        {
+          "driver": "Growth driven by marketplaces",
+          "description": "Marketplaces are a significant catalyst for the continued expansion of digital commerce in Europe."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "AI changing economics of digital commerce",
+          "description": "Artificial intelligence is fundamentally altering profitability and operational models across digital commerce, including agentic shopping and retail media."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "The emergence of AI-driven shopping experiences presents new avenues for customer engagement and conversion in digital commerce.",
+          "opportunity": "Agentic shopping"
+        },
+        {
+          "description": "Leveraging AI for advanced retail media strategies and integrated omnichannel insights offers new monetization and optimization opportunities.",
+          "opportunity": "Retail media and omnichannel intelligence"
+        }
+      ],
+      "methodology": "McKinsey estimates the annual growth rate for digital commerce in Europe, noting its primary drivers.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-06-10",
+      "data_confidence": "high",
+      "source_doc_id": "4f9c8797-94c2-5266-9e1d-dbd37855029a",
+      "source_title": "Europe’s new e‑commerce agenda: How AI is resetting growth and competition",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/europes-new-ecommerce-agenda-how-ai-is-resetting-growth-and-competition",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "ing_think",
+    "bank_of_ireland",
+    "bcg_global",
+    "mckinsey"
+  ],
+  "documents": [
+    {
+      "doc_id": "cd901ede-d457-5b3a-9611-0408af610d12",
+      "title": "Revenue growth masks growing pressure on retail profitability in the Netherlands",
+      "publisher": "ing_think",
+      "date": "2026-09-22",
+      "url": "https://think.ing.com/articles/revenue-growth-masks-growing-pressure-on-retail-profitability-in-the-netherlands"
+    },
+    {
+      "doc_id": "6cad6eee-01b1-58e5-a8e7-47ecf216365a",
+      "title": "Bank of Ireland Retail Convenience H1 2026 Insights and H2 2026 Outlook July 2026",
+      "publisher": "bank_of_ireland",
+      "date": "2026-07-16",
+      "url": "https://www.thinkbusiness.ie/app/uploads/2026/07/Grocery-Convenience-Outlook-July-2026.pdf"
+    },
+    {
+      "doc_id": "4e4aede3-6dca-598e-b2b6-55f888342c1f",
+      "title": "AI in CPG and Retail: How Winners Are Pulling Ahead",
+      "publisher": "bcg_global",
+      "date": "2026-06-24",
+      "url": "https://www.bcg.com/publications/2026/how-cpg-retail-leaders-maximize-ai-roi"
+    },
+    {
+      "doc_id": "b1854308-793c-5a93-9a1e-228217c00091",
+      "title": "From aisle to algorithm: The beauty categories, channels, and concepts shaping 2030 growth",
+      "publisher": "mckinsey",
+      "date": "2026-06-18",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-beauty"
+    },
+    {
+      "doc_id": "4f9c8797-94c2-5266-9e1d-dbd37855029a",
+      "title": "Europe’s new e‑commerce agenda: How AI is resetting growth and competition",
+      "publisher": "mckinsey",
+      "date": "2026-06-10",
+      "url": "https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/europes-new-ecommerce-agenda-how-ai-is-resetting-growth-and-competition"
+    },
+    {
+      "doc_id": "09b47770-5e75-5c8f-a9c9-ab033135c530",
+      "title": "Retailers Need to Manage Stores as a Portfolio Now. AI Lets You Do That.",
+      "publisher": "bcg_global",
+      "date": "2026-08-11",
+      "url": "https://www.bcg.com/publications/2026/how-ai-lets-retailers-manage-store-portfolios"
+    },
+    {
+      "doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "title": "July 2026 Ireland Sector Snippets",
+      "publisher": "allianz_ie",
+      "date": "2026-07-22",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html"
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Persistent high energy costs hurt industrial gas production & demand",
+      "description": "European industrial gas producers face significant headwinds from structurally high natural gas and electricity prices, which are core inputs for gas production (e.g., air separation units for O2, N2, Ar, or SMR for H2). This also raises operating costs for key industrial customers like steel and petrochemicals, potentially dampening their demand for industrial gases.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-09",
+      "source_doc_id": "ae19d08e-cdbf-52ea-9669-8854ed551e98",
+      "source_title": "Dutch chemicals brace for 2026 challenges as policymakers prepare to step up",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/dutch-chemicals-2026-challenges",
+      "source_date": "2025-12-16",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "EU CBAM on hydrogen supports demand for low-carbon industrial gases",
+      "description": "The European Union's Carbon Border Adjustment Mechanism (CBAM), now applicable to hydrogen imports, incentivizes lower-carbon production methods for industrial hydrogen and boosts demand for green hydrogen in critical sectors. This mechanism, combined with the EU ETS, aims to reduce carbon leakage and makes industrial processes using green hydrogen, like DRI-EAF steel, more economically attractive across Europe.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-21",
+      "source_doc_id": "95c66b48-a08c-5eb3-b02a-2a877dfd0ece",
+      "source_title": "CBAM: How companies can build from compliance to value creation",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/capabilities/sustainability/our-insights/cbam-how-companies-can-build-from-compliance-to-value-creation",
+      "source_date": "2026-07-21",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Green steel investments in Europe boost industrial hydrogen & oxygen demand",
+      "description": "Europe's transition to low-carbon steel production, evidenced by plans for over 17 EAF and DRI-EAF steel plants by 2030, represents a significant tailwind for industrial hydrogen and oxygen demand. Countries like Germany and Sweden are spearheading this shift, driven by environmental reasons, policy support, and carbon pricing, with hydrogen emerging as a key input for direct reduced iron.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "688ad14d-b245-5158-a753-f2f778298e6c",
+      "source_title": "EAF steel: Beyond the blast furnace",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/eaf-steel-beyond-the-blast-furnace",
+      "source_date": "2026-06-30",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Middle East conflict disrupts helium & specialty gases supply chains",
+      "description": "Geopolitical instability, specifically the Middle East conflict, poses a key risk to the supply chains of specialty gases, including helium, with Qatar being a significant global supplier. Increased energy inflation and widespread supply chain disruptions threaten to raise feedstock costs and limit availability, impacting critical end-use sectors like semiconductors, medical imaging, and medical devices in Europe.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-19",
+      "source_doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "source_title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf",
+      "source_date": "2026-05-19",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "European chemical industry downturn reduces industrial gas demand",
+      "description": "The broader European chemical industry faces a structural downturn characterized by low demand, global overcapacity (especially from China), and intense competition. This leads to reduced capacity utilization, plant closures, and persistent price pressures. As industrial gases are foundational inputs for many chemical processes, this industry-wide weakness translates into a significant headwind, dampening demand for industrial gases across Europe.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-03",
+      "source_doc_id": "1e6d0852-8bac-52f8-9a89-00de25d7ce99",
+      "source_title": "A dual transformation agenda for Europe’s chemicals industry",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/chemicals/our-insights/a-dual-transformation-agenda-for-europes-chemicals-industry",
+      "source_date": "2026-07-03",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Reduced confidence in hydrogen for future maritime fuel use",
+      "description": "Norwegian shipowners are expressing a declining belief in hydrogen as a viable zero-emission fuel option for maritime transport towards 2050. This shift in sentiment, driven by concerns over investment costs, fuel prices, limited availability, and infrastructure, suggests a potential reduction in a future demand segment for industrial hydrogen, despite initial decarbonization goals.",
+      "type": "headwind",
+      "impact_magnitude": "low",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-19",
+      "source_doc_id": "7c769efc-2449-5c8b-bfb2-2a94ca6abe0f",
+      "source_title": "Maritime Outlook 2026",
+      "source_publisher": "nor_shipowners",
+      "source_url": "https://www.rederi.no/en/reports/maritime-outlook-2026",
+      "source_date": "2026-03-19",
+      "country_focus": "NO"
+    },
+    {
+      "index": 7,
+      "title": "Increased EU regulatory burden challenges chemical sector operations",
+      "description": "The European chemical industry, including industrial gas producers, faces growing administrative complexity and regulatory burden. This structural issue, highlighted by persistent challenges and the need for significant transformations, adds to operational costs and complicates investment decisions. While aiming for sustainability, these regulations can inadvertently hinder competitiveness and growth within the sector.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-03",
+      "source_doc_id": "1e6d0852-8bac-52f8-9a89-00de25d7ce99",
+      "source_title": "A dual transformation agenda for Europe’s chemicals industry",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/chemicals/our-insights/a-dual-transformation-agenda-for-europes-chemicals-industry",
+      "source_date": "2026-07-03",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "AI boom drives demand for specialty gases in semiconductor manufacturing",
+      "description": "The accelerating demand for AI, leading to significant growth in advanced semiconductors, memory, and storage, creates an upside driver for specific industrial gases like helium and other specialty gases. These gases are integral to the manufacturing and functioning of electronic devices and advanced microchips, supporting yield, reliability, and performance in the rapidly expanding semiconductor supply chain.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "20d743de-6bbb-5109-b758-cb89752d24ff",
+      "source_title": "Opportunities for Chemical Companies in the AI Infrastructure Boom",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-chemical-companies-find-new-growth",
+      "source_date": "2026-09-04",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "EU carbon policies boost industrial hydrogen demand for green steel transition",
+      "description": "McKinsey suggests that EU-27 carbon pricing and the Carbon Border Adjustment Mechanism (CBAM) will significantly increase the attractiveness of Direct Reduced Iron–Electric Arc Furnace (DRI-EAF) steel production in Europe. This shift from traditional Blast Furnace–Basic Oxygen Furnace (BF-BOF) methods, especially as free allowances phase out, makes low-carbon production viable, driving substantial demand for industrial hydrogen and oxygen as critical inputs for the planned 40-50 million tons of low-carbon steel by 2030.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-07-21",
+      "source_doc_id": "95c66b48-a08c-5eb3-b02a-2a877dfd0ece",
+      "source_title": "CBAM: How companies can build from compliance to value creation",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/capabilities/sustainability/our-insights/cbam-how-companies-can-build-from-compliance-to-value-creation",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Hydrogen's viability as maritime fuel questioned by Norwegian shipowners",
+      "description": "The Norwegian Shipowners' Association reports that among its members, the belief in zero-emission options such as hydrogen for maritime transport has declined. Despite a goal for the fleet to be climate neutral by 2050, many barriers remain, including high investment costs, fuel prices, limited availability, and technological constraints, leading only three out of ten members to believe they will achieve climate neutrality by 2050.",
+      "stance": "cautious_negative",
+      "source_firm": "Norwegian Shipowners' Association",
+      "source_date": "2026-03-19",
+      "source_doc_id": "7c769efc-2449-5c8b-bfb2-2a94ca6abe0f",
+      "source_title": "Maritime Outlook 2026",
+      "source_publisher": "nor_shipowners",
+      "source_url": "https://www.rederi.no/en/reports/maritime-outlook-2026",
+      "country_focus": "NO"
+    },
+    {
+      "index": 3,
+      "title": "Dutch chemical industry's struggles signal headwinds for industrial gases sector",
+      "description": "ING Think indicates that the Dutch chemical industry faces a bleak outlook with production contraction for a third consecutive year in 2025, and little improvement expected in 2026. Persistent bottlenecks include low demand, structurally high energy costs in Europe, and cheap imports from Asia. This general weakness in the broader chemical sector is expected to weigh on output, indirectly impacting demand and profitability for supporting segments like industrial gases.",
+      "stance": "cautious_negative",
+      "source_firm": "ING Think",
+      "source_date": "2025-12-16",
+      "source_doc_id": "ae19d08e-cdbf-52ea-9669-8854ed551e98",
+      "source_title": "Dutch chemicals brace for 2026 challenges as policymakers prepare to step up",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/dutch-chemicals-2026-challenges",
+      "country_focus": "NL"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Semiconductor Manufacturing",
+          "description": "Helium and specialty gases are crucial inputs for semiconductor production, a sector experiencing accelerating demand due to AI and expanding electronics manufacturing in the EU."
+        },
+        {
+          "driver": "Medical Imaging & Devices",
+          "description": "Specialty gases, including helium, are essential for various medical imaging technologies and device manufacturing, contributing to ongoing demand in the healthcare sector."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Geopolitical Instability & Supply Chain Disruption",
+          "description": "The Middle East conflict and resulting supply chain disruptions, coupled with high energy inflation, create higher feedstock costs and supply risks for specialty gases like helium (e.g., from Qatar), impacting profitability."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Analysis of the impact of geopolitical instability on specific high-tech and specialized components, identifying key demand sectors for helium and specialty gases.",
+      "source_firm": "Bank of Ireland",
+      "source_date": "2026-05-19",
+      "data_confidence": "medium",
+      "source_doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "source_title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "McKinsey",
+    "Norwegian Shipowners' Association",
+    "ING Think",
+    "Bank of Ireland"
+  ],
+  "documents": [
+    {
+      "doc_id": "95c66b48-a08c-5eb3-b02a-2a877dfd0ece",
+      "title": "CBAM: How companies can build from compliance to value creation",
+      "publisher": "mckinsey",
+      "date": "2026-07-21",
+      "url": "https://www.mckinsey.com/capabilities/sustainability/our-insights/cbam-how-companies-can-build-from-compliance-to-value-creation"
+    },
+    {
+      "doc_id": "7c769efc-2449-5c8b-bfb2-2a94ca6abe0f",
+      "title": "Maritime Outlook 2026",
+      "publisher": "nor_shipowners",
+      "date": "2026-03-19",
+      "url": "https://www.rederi.no/en/reports/maritime-outlook-2026"
+    },
+    {
+      "doc_id": "ae19d08e-cdbf-52ea-9669-8854ed551e98",
+      "title": "Dutch chemicals brace for 2026 challenges as policymakers prepare to step up",
+      "publisher": "ing_think",
+      "date": "2025-12-16",
+      "url": "https://think.ing.com/articles/dutch-chemicals-2026-challenges"
+    },
+    {
+      "doc_id": "688ad14d-b245-5158-a753-f2f778298e6c",
+      "title": "EAF steel: Beyond the blast furnace",
+      "publisher": "mckinsey",
+      "date": "2026-06-30",
+      "url": "https://www.mckinsey.com/mgi/our-research/eaf-steel-beyond-the-blast-furnace"
+    },
+    {
+      "doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "publisher": "bank_of_ireland",
+      "date": "2026-05-19",
+      "url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf"
+    },
+    {
+      "doc_id": "1e6d0852-8bac-52f8-9a89-00de25d7ce99",
+      "title": "A dual transformation agenda for Europe’s chemicals industry",
+      "publisher": "mckinsey",
+      "date": "2026-07-03",
+      "url": "https://www.mckinsey.com/industries/chemicals/our-insights/a-dual-transformation-agenda-for-europes-chemicals-industry"
+    },
+    {
+      "doc_id": "20d743de-6bbb-5109-b758-cb89752d24ff",
+      "title": "Opportunities for Chemical Companies in the AI Infrastructure Boom",
+      "publisher": "bcg_global",
+      "date": "2026-09-04",
+      "url": "https://www.bcg.com/publications/2026/how-chemical-companies-find-new-growth"
+    }
+  ]
+}

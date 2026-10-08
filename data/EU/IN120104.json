@@ -1,0 +1,383 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Ongoing infrastructure projects limit rail transport capacity",
+      "description": "Ongoing rail infrastructure projects and works in the Netherlands and Germany are noted to create headwinds for transport. These projects, while potentially beneficial long-term, currently constrain rail freight capacity and have contributed to a cumulative 13% rise in public transport ticket prices since early 2025, impacting operational efficiency and user experience during construction phases.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-22",
+      "source_doc_id": "93cf208c-3498-5a9d-bd82-206732fb766c",
+      "source_title": "Dutch transport and logistics proves resilient amid rising costs, global…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/transport-logistics-resilience-amid-disruptions-and-cost-inflation",
+      "source_date": "2026-09-22",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Increasing demands challenge rail network operations and infrastructure",
+      "description": "Rail networks face increasing passenger and freight volumes, aging infrastructure, and more frequent extreme weather events. Stakeholder expectations for punctuality, safety, and transparency are also rising sharply. This complex and interconnected operating environment demands robust solutions and system-wide performance improvements from infrastructure managers to maintain reliability and efficiency amidst growing pressures.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "d937a497-5a33-5a30-a343-9e9172fe1809",
+      "source_title": "Smart rail infrastructure: Laying the digital tracks for resilient networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/infrastructure/our-insights/smart-rail-infrastructure-laying-the-digital-tracks-for-resilient-networks",
+      "source_date": "2026-09-08",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Uneven technology adoption limits rail infrastructure potential realization",
+      "description": "While many tools for smart rail infrastructure exist, adoption among operators remains uneven, with some technologies not progressing beyond pilot stages. This limits the ability to leverage existing solutions for system-wide performance improvements, hindering efficiency, safety, and reliability gains across the complex rail ecosystem and preventing the full potential of digital transformation from being realized at scale.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "d937a497-5a33-5a30-a343-9e9172fe1809",
+      "source_title": "Smart rail infrastructure: Laying the digital tracks for resilient networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/infrastructure/our-insights/smart-rail-infrastructure-laying-the-digital-tracks-for-resilient-networks",
+      "source_date": "2026-09-08",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Fragmented data hinders rail infrastructure digital transformation progress",
+      "description": "A significant barrier to scaling smart rail infrastructure technologies is fragmented data across assets, systems, and functions. Operational, maintenance, and planning information are often maintained separately, making a consistent network view difficult. This lack of integration complicates the business case and limits the ability to translate analytical insights from individual assets into sustained, network-wide impact and automated decision support.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "d937a497-5a33-5a30-a343-9e9172fe1809",
+      "source_title": "Smart rail infrastructure: Laying the digital tracks for resilient networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/infrastructure/our-insights/smart-rail-infrastructure-laying-the-digital-tracks-for-resilient-networks",
+      "source_date": "2026-09-08",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Early issue detection boosts rail safety and reliability significantly",
+      "description": "Automated inspection, sensorized assets, and advanced detection capabilities enable earlier identification of anomalies in tracks, switches, and structures. This allows operators to intervene proactively before conditions deteriorate, reducing safety risks, avoiding emergency restrictions, and limiting secondary delays. Such capabilities enhance reliability on busy corridors and improve overall network resilience, leading to more stable operations and reduced costs.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "d937a497-5a33-5a30-a343-9e9172fe1809",
+      "source_title": "Smart rail infrastructure: Laying the digital tracks for resilient networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/infrastructure/our-insights/smart-rail-infrastructure-laying-the-digital-tracks-for-resilient-networks",
+      "source_date": "2026-09-08",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Real-time traffic management enhances operational efficiency significantly",
+      "description": "Real-time traffic management platforms integrate information on train movements, infrastructure status, and emerging disruptions, enabling control teams to quickly assess knock-on effects and coordinate recovery actions across multiple lines. More advanced deployments offer structured decision support, helping operators stabilize performance on high-density networks and sustain punctuality and safety, transforming complex operations into integrated systems.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "d937a497-5a33-5a30-a343-9e9172fe1809",
+      "source_title": "Smart rail infrastructure: Laying the digital tracks for resilient networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/infrastructure/our-insights/smart-rail-infrastructure-laying-the-digital-tracks-for-resilient-networks",
+      "source_date": "2026-09-08",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Predictive maintenance transforms rail asset life cycle management",
+      "description": "Shifting from fixed schedules and reactive interventions to predictive maintenance using data from diagnostic trains and trackside sensors allows operators to target interventions more effectively. This approach, supported by advanced analytics and machine learning, extends asset life, reduces unplanned disruptions, and optimizes resource allocation by moving to condition-based repairs, representing a fundamental change in maintenance strategies for rail infrastructure.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "d937a497-5a33-5a30-a343-9e9172fe1809",
+      "source_title": "Smart rail infrastructure: Laying the digital tracks for resilient networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/infrastructure/our-insights/smart-rail-infrastructure-laying-the-digital-tracks-for-resilient-networks",
+      "source_date": "2026-09-08",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "Technology addresses rail workforce skills shortages and boosts resilience",
+      "description": "Rail infrastructure operations face challenges from aging workforces, tight labor markets, and rigid labor frameworks. Technology, such as advanced crew planning systems and digital work management tools (maintenance copilots), can improve workforce planning, reduce manual workloads, and standardize execution. This helps operators sustain performance and improve resilience as operational complexity grows, making operations less reliant on individual experience and more efficient.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "d937a497-5a33-5a30-a343-9e9172fe1809",
+      "source_title": "Smart rail infrastructure: Laying the digital tracks for resilient networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/infrastructure/our-insights/smart-rail-infrastructure-laying-the-digital-tracks-for-resilient-networks",
+      "source_date": "2026-09-08",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "title": "Technology improves financial sustainability of rail infrastructure assets",
+      "description": "Financial performance for most rail infrastructure managers depends less on pricing flexibility than on effective coordination and deployment of assets, capital, and operating budgets. Technologies that improve capacity utilization, reduce unplanned downtime, and support better maintenance and inventory decisions can materially enhance long-term cost performance, helping operators allocate resources more selectively and extend asset life, ultimately boosting financial sustainability.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "d937a497-5a33-5a30-a343-9e9172fe1809",
+      "source_title": "Smart rail infrastructure: Laying the digital tracks for resilient networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/infrastructure/our-insights/smart-rail-infrastructure-laying-the-digital-tracks-for-resilient-networks",
+      "source_date": "2026-09-08",
+      "country_focus": "EU"
+    },
+    {
+      "index": 10,
+      "title": "Labour agreements limit dynamic workforce reallocation in rail operations",
+      "description": "Broader adoption of optimized crew planning systems in rail infrastructure is hindered by existing labor agreements that can restrict dynamic workforce reallocation. This, coupled with unclear division of ownership between HR and operations, and weak integration with planning processes, limits the full potential of technology to improve resilience and productivity during disruptions, leading to less efficient staffing and increased reliance on manual adjustments.",
+      "type": "headwind",
+      "impact_magnitude": "low",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "d937a497-5a33-5a30-a343-9e9172fe1809",
+      "source_title": "Smart rail infrastructure: Laying the digital tracks for resilient networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/infrastructure/our-insights/smart-rail-infrastructure-laying-the-digital-tracks-for-resilient-networks",
+      "source_date": "2026-09-08",
+      "country_focus": "EU"
+    },
+    {
+      "index": 11,
+      "title": "Conflicting stakeholder objectives hinder rail capacity optimization efforts",
+      "description": "The effectiveness of advanced capacity planning tools in rail is limited because planning decisions involve multiple stakeholders, including infrastructure managers, train operators, and regulators, who often operate with conflicting objectives. A technically optimal schedule can stall if it requires any single party to sacrifice commercial revenue, slowing broader adoption and impact, and preventing efficient network utilization and traffic flow.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "d937a497-5a33-5a30-a343-9e9172fe1809",
+      "source_title": "Smart rail infrastructure: Laying the digital tracks for resilient networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/infrastructure/our-insights/smart-rail-infrastructure-laying-the-digital-tracks-for-resilient-networks",
+      "source_date": "2026-09-08",
+      "country_focus": "EU"
+    },
+    {
+      "index": 12,
+      "title": "Privacy concerns slow passenger flow management technology adoption",
+      "description": "Broader adoption of advanced passenger flow management technologies, such as camera-based monitoring for crowd density in stations, is slowed by privacy considerations. Limited integration with station operations and passenger information systems also contributes to projects remaining localized rather than network-wide rollouts. This restricts the potential benefits in safety and service quality, especially during peak periods or disruptions, due to public perception and regulatory hurdles.",
+      "type": "key_risk",
+      "impact_magnitude": "low",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "d937a497-5a33-5a30-a343-9e9172fe1809",
+      "source_title": "Smart rail infrastructure: Laying the digital tracks for resilient networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/infrastructure/our-insights/smart-rail-infrastructure-laying-the-digital-tracks-for-resilient-networks",
+      "source_date": "2026-09-08",
+      "country_focus": "EU"
+    },
+    {
+      "index": 13,
+      "title": "Satellite technologies emerging for real-time traffic management advancement",
+      "description": "Low-Earth-orbit (LEO) satellites are emerging as a complementary enabler for real-time traffic management, enhancing monitoring of long, linear rail infrastructure and bolstering existing trackside systems. Falling satellite costs, lower latency from LEO constellations, and the need for improved coverage where terrestrial connectivity is uneven are increasing the relevance of these solutions for evolving rail communication frameworks, offering new avenues for network visibility and control.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "d937a497-5a33-5a30-a343-9e9172fe1809",
+      "source_title": "Smart rail infrastructure: Laying the digital tracks for resilient networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/infrastructure/our-insights/smart-rail-infrastructure-laying-the-digital-tracks-for-resilient-networks",
+      "source_date": "2026-09-08",
+      "country_focus": "EU"
+    },
+    {
+      "index": 14,
+      "title": "Regulatory guidelines limit flexibility for predictive maintenance implementation",
+      "description": "Scaling predictive maintenance across rail networks is challenging due to ingrained legacy workflows and regulatory guidelines that can limit the flexibility of inspection timelines. These constraints hinder the transition from rigid, calendar-based schedules to more efficient condition-based repairs, impacting the ability to reduce failures, optimize operational costs, and fully leverage technological advancements for asset management, necessitating compliance adjustments.",
+      "type": "headwind",
+      "impact_magnitude": "low",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "d937a497-5a33-5a30-a343-9e9172fe1809",
+      "source_title": "Smart rail infrastructure: Laying the digital tracks for resilient networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/infrastructure/our-insights/smart-rail-infrastructure-laying-the-digital-tracks-for-resilient-networks",
+      "source_date": "2026-09-08",
+      "country_focus": "EU"
+    },
+    {
+      "index": 15,
+      "title": "Rail infrastructure critical for economic growth and sustainable mobility",
+      "description": "Rail infrastructure is identified as a vital component for economic growth and sustainable mobility. As pressures on reliability, capacity, and cost continue to intensify, technology is becoming central to maintaining and improving network performance. This highlights the foundational and evolving role of the rail infrastructure sector in broader societal and economic development, emphasizing its long-term strategic importance.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "d937a497-5a33-5a30-a343-9e9172fe1809",
+      "source_title": "Smart rail infrastructure: Laying the digital tracks for resilient networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/infrastructure/our-insights/smart-rail-infrastructure-laying-the-digital-tracks-for-resilient-networks",
+      "source_date": "2026-09-08",
+      "country_focus": "EU"
+    },
+    {
+      "index": 16,
+      "title": "Infrastructure bottlenecks limit transport capacity and profitability",
+      "description": "The broader transport sector in Ireland continues to operate under moderate pressure, with infrastructure bottlenecks identified as a persistent operational challenge. These bottlenecks limit capacity and place pressure on profitability for operators, despite ongoing trade flows and economic activity. This constraint, alongside elevated fuel prices, rising carbon taxes, and driver shortages, directly impacts the efficiency and growth potential of the overall transport system.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-22",
+      "source_doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "source_title": "July 2026 Ireland Sector Snippets",
+      "source_publisher": "allianz_ie",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html",
+      "source_date": "2026-07-22",
+      "country_focus": "IE"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Rail infrastructure operators pivotal for system performance amid rising demands",
+      "description": "McKinsey highlights that rail infrastructure operators are central to network capacity, reliability, and safety. They face increasing passenger and freight volumes, aging assets, frequent extreme weather, and rising expectations from regulators and customers. Despite existing technological tools, adoption is uneven, necessitating disciplined focus and scale to integrate the ecosystem effectively for system-wide performance improvements and to respond to growing operational complexities.",
+      "stance": "neutral",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-08",
+      "source_doc_id": "d937a497-5a33-5a30-a343-9e9172fe1809",
+      "source_title": "Smart rail infrastructure: Laying the digital tracks for resilient networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/infrastructure/our-insights/smart-rail-infrastructure-laying-the-digital-tracks-for-resilient-networks",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Prioritizing technology for tangible impact in rail infrastructure operations",
+      "description": "McKinsey recommends that rail infrastructure operators anchor technology initiatives to core operational priorities like high-density corridors or safety-critical assets, focusing on measurable impacts. They advise scaling proven solutions, treating data and integration as core capabilities, and preparing for future network demands with adaptable architectures. This pragmatic approach is crucial for translating digital investments into sustained operational improvement rather than managing isolated pilot projects, ensuring long-term value creation.",
+      "stance": "positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-08",
+      "source_doc_id": "d937a497-5a33-5a30-a343-9e9172fe1809",
+      "source_title": "Smart rail infrastructure: Laying the digital tracks for resilient networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/infrastructure/our-insights/smart-rail-infrastructure-laying-the-digital-tracks-for-resilient-networks",
+      "country_focus": "EU"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing passenger and freight volumes",
+          "description": "Increasing usage necessitates more resilient and efficient infrastructure management to handle higher throughput and meet rising demand for transport services."
+        },
+        {
+          "driver": "Aging infrastructure assets",
+          "description": "The current infrastructure is aging, requiring modern maintenance and monitoring technologies to extend asset life, prevent failures, and ensure network reliability and safety."
+        },
+        {
+          "driver": "Frequent extreme weather events",
+          "description": "The increasing frequency of extreme weather drives demand for resilient network designs and advanced detection and response systems to minimize disruptions and damage."
+        },
+        {
+          "driver": "Rising expectations for punctuality, safety, transparency",
+          "description": "Stakeholders, from regulators to end customers, demand higher standards, pressuring operators to invest in technologies that enhance service quality, safety, and operational visibility."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Reduced safety risks",
+          "description": "Proactive identification of issues through technology prevents costly incidents, minimizes regulatory penalties, and safeguards public trust and operational continuity."
+        },
+        {
+          "driver": "Improved operational efficiency",
+          "description": "Real-time management and optimized processes lower operating costs, enhance network throughput, and improve overall service delivery, maximizing resource utilization."
+        },
+        {
+          "driver": "Optimized maintenance costs",
+          "description": "A shift from reactive to predictive maintenance extends asset life, reduces unplanned repairs, and allows for more strategic allocation of maintenance budgets."
+        },
+        {
+          "driver": "Enhanced workforce resilience",
+          "description": "Technology-enabled planning and support address skills shortages, improve workforce productivity, and standardize execution, mitigating labor market challenges and operational complexity."
+        },
+        {
+          "driver": "Financial sustainability",
+          "description": "Extracting more value from existing assets through better capacity utilization, reduced unplanned downtime, and optimized inventory decisions materially improves long-term cost performance."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Deployment of inspection trains, drones, and sensors for earlier issue identification and proactive intervention, reducing manual effort and increasing inspection frequency, especially for safety-critical assets.",
+          "opportunity": "Automated inspection and advanced detection"
+        },
+        {
+          "description": "Implementation of integrated operational platforms for dynamic system-wide control, faster incident response, and coordinated recovery during disruptions on dense networks.",
+          "opportunity": "Real-time traffic management platforms"
+        },
+        {
+          "description": "Leveraging AI and analytics to predict asset degradation and schedule condition-based maintenance, combined with digital representations of assets, to optimize asset life cycle management.",
+          "opportunity": "Predictive maintenance and digital twins"
+        },
+        {
+          "description": "Investment in advanced crew planning systems and digital work management tools to improve workforce resilience, standardize execution, and address specialized skills shortages effectively.",
+          "opportunity": "Advanced workforce planning and support tools"
+        },
+        {
+          "description": "Deployment of advanced planning and forecasting tools to maximize capacity utilization and align stock levels with maintenance needs, improving financial performance and resource allocation.",
+          "opportunity": "Capacity utilization and inventory optimization"
+        }
+      ],
+      "methodology": "Qualitative analysis of technology adoption and impact across 20 rail infrastructure operators in Europe, North America, and Asia, focusing on five priority outcomes for improvement.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-08",
+      "data_confidence": "high",
+      "source_doc_id": "d937a497-5a33-5a30-a343-9e9172fe1809",
+      "source_title": "Smart rail infrastructure: Laying the digital tracks for resilient networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/infrastructure/our-insights/smart-rail-infrastructure-laying-the-digital-tracks-for-resilient-networks",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "mckinsey"
+  ],
+  "documents": [
+    {
+      "doc_id": "d937a497-5a33-5a30-a343-9e9172fe1809",
+      "title": "Smart rail infrastructure: Laying the digital tracks for resilient networks",
+      "publisher": "mckinsey",
+      "date": "2026-09-08",
+      "url": "https://www.mckinsey.com/industries/infrastructure/our-insights/smart-rail-infrastructure-laying-the-digital-tracks-for-resilient-networks"
+    },
+    {
+      "doc_id": "93cf208c-3498-5a9d-bd82-206732fb766c",
+      "title": "Dutch transport and logistics proves resilient amid rising costs, global…",
+      "publisher": "ing_think",
+      "date": "2026-09-22",
+      "url": "https://think.ing.com/articles/transport-logistics-resilience-amid-disruptions-and-cost-inflation"
+    },
+    {
+      "doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "title": "July 2026 Ireland Sector Snippets",
+      "publisher": "allianz_ie",
+      "date": "2026-07-22",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html"
+    }
+  ]
+}

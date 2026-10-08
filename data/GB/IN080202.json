@@ -1,0 +1,382 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Accelerating AI adoption drives massive demand for cloud compute and storage",
+      "description": "The rise of AI is responsible for an unprecedented surge in demand for compute and memory, particularly from hyperscalers. This translates directly into increased consumption of Cloud & Internet Infrastructure services (IaaS/PaaS) as AI models require vast amounts of processing power and data storage. Hyperscalers are allocating substantial capital expenditures to AI infrastructure, ensuring robust demand for cloud services.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "source_date": "2026-09-18"
+    },
+    {
+      "index": 2,
+      "title": "Energy availability and affordability are critical constraints for AI data centers",
+      "description": "AI data centers are highly energy-intensive, posing a significant challenge to the build-out of cloud infrastructure. Meeting demand through 2030 requires diverse, and often costlier, power solutions, alongside the potential for increased emissions. While some regions are better equipped to overcome these constraints, Europe may lag, representing a key risk to the planned expansion of cloud and internet infrastructure.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "source_date": "2026-09-18"
+    },
+    {
+      "index": 3,
+      "title": "Sustained cost reductions in AI inference to broaden adoption and demand",
+      "description": "For AI adoption to broaden and sustain high demand for semiconductors and by extension cloud infrastructure, the costs of inference must decrease significantly (three to four orders of magnitude). Innovation road maps in networking/photonics, memory, software, and algorithms suggest this reduction is feasible. Lower inference costs will expand the addressable market for AI applications, creating a powerful upside for Cloud & Internet Infrastructure providers.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "source_date": "2026-09-18"
+    },
+    {
+      "index": 4,
+      "title": "UK data centre energy costs and semiconductor shortages create uncertainty",
+      "description": "In the UK, the Computers & Telecoms sector faces near-term uncertainty due to higher energy costs for data centers and ongoing semiconductor constraints. These factors increase operational expenses for cloud infrastructure providers and can impact the availability and pricing of essential hardware components, posing headwinds to growth and profitability. Businesses need to carefully manage these risks to maintain resilience.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 5,
+      "title": "Sustained investment in digital infrastructure underpins UK sector strength",
+      "description": "Public and private investment in AI and digital infrastructure, including initiatives like the Digital and Technologies Sector Plan and AI Growth Zones, continue to support the UK Computers & Telecoms sector. This sustained investment provides a strong foundation for the long-term growth and stability of Cloud & Internet Infrastructure services, ensuring the continuous development and deployment of critical digital capabilities despite external pressures.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 6,
+      "title": "AI capabilities and recurring revenue becoming key differentiators for cloud providers",
+      "description": "The Software & IT Services sector, including Cloud & Internet Infrastructure, is experiencing polarization where scale, recurring revenue models, and strong AI capabilities are critical differentiators. Customer spending is increasingly selective, favoring solutions that deliver measurable productivity and efficiency gains. Cloud providers must demonstrate clear value propositions and strong customer retention by integrating and leveraging AI to thrive in this evolving competitive landscape.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 7,
+      "title": "Digital infrastructure universe expands with AI, demanding new investment strategies",
+      "description": "The digital infrastructure universe is continuously expanding, significantly driven by the rapid rise of AI assets, technologies, and services. This expansion increases both opportunities and complexities for Cloud & Internet Infrastructure operators and investors. It necessitates a shift from broad asset-class exposure to asset-specific allocation, requiring deeper technological understanding, commercial risk assessment, and adaptable underwriting and strategic frameworks to capture value effectively.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-11",
+      "source_doc_id": "2c06d5ed-e4b5-53ac-ab22-64bbab80d1c7",
+      "source_title": "The Digital Infrastructure Universe Continues to Expand. Here's How to Benefit.",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/digital-infrastructure-playbook",
+      "source_date": "2026-08-11"
+    },
+    {
+      "index": 8,
+      "title": "M&A activity in data centers and hyperscale platforms is surging",
+      "description": "Investor appetite for digital infrastructure is heightened, with M&A activity expected to increase, particularly concentrating in data centers and hyperscale-adjacent platforms. In the US, data center transaction value more than tripled from 2024 to 2025. This surge indicates strong capital flows and consolidation opportunities within the underlying physical and platform layers of Cloud & Internet Infrastructure, reflecting confidence in its growth trajectory.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-11",
+      "source_doc_id": "2c06d5ed-e4b5-53ac-ab22-64bbab80d1c7",
+      "source_title": "The Digital Infrastructure Universe Continues to Expand. Here's How to Benefit.",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/digital-infrastructure-playbook",
+      "source_date": "2026-08-11"
+    },
+    {
+      "index": 9,
+      "title": "Misclassification of digital assets leads to suboptimal investment and valuation",
+      "description": "The costs of misclassifying digital assets are becoming more visible, as previously grouped infrastructure assets exhibit diverging economic behavior. Overlooking differences in operational execution, customer mix, technology trends, and reinvestment cycles leads to incorrect holding, valuing, and selling of assets under misaligned assumptions. This poses a significant risk for investors and operators in Cloud & Internet Infrastructure, highlighting the need for granular asset-level analysis to avoid valuation gaps and slow exit timelines.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-11",
+      "source_doc_id": "2c06d5ed-e4b5-53ac-ab22-64bbab80d1c7",
+      "source_title": "The Digital Infrastructure Universe Continues to Expand. Here's How to Benefit.",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/digital-infrastructure-playbook",
+      "source_date": "2026-08-11"
+    },
+    {
+      "index": 10,
+      "title": "Sovereign AI requirements drive demand for localized and controlled cloud capacity",
+      "description": "Governments globally are increasingly seeking domestically located and controlled AI training and computing power capacity to address data sovereignty, security, and regulatory requirements. This trend leads to new ownership models, such as joint ventures or minority investments with local operators, for Cloud & Internet Infrastructure providers. It represents a significant structural shift, creating opportunities for providers who can meet stringent security and data residency criteria within national borders.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-11",
+      "source_doc_id": "2c06d5ed-e4b5-53ac-ab22-64bbab80d1c7",
+      "source_title": "The Digital Infrastructure Universe Continues to Expand. Here's How to Benefit.",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/digital-infrastructure-playbook",
+      "source_date": "2026-08-11"
+    },
+    {
+      "index": 11,
+      "title": "Repurposing existing assets for AI-driven data center and network build-outs",
+      "description": "Cloud & Internet Infrastructure operators can capture AI-driven upside by strategically redeploying owned real estate, central offices, conduits, power-adjacent sites, and fiber infrastructure to support new data centers and high-capacity network build-outs. This approach allows for efficient utilization of existing assets, reducing greenfield investment requirements and creating value by adapting legacy infrastructure to serve the burgeoning demands of AI workloads and hyperscale operations.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-11",
+      "source_doc_id": "2c06d5ed-e4b5-53ac-ab22-64bbab80d1c7",
+      "source_title": "The Digital Infrastructure Universe Continues to Expand. Here's How to Benefit.",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/digital-infrastructure-playbook",
+      "source_date": "2026-08-11"
+    },
+    {
+      "index": 12,
+      "title": "Emergence of 'Neofiber' for high-capacity AI clusters and hyperscale data centers",
+      "description": "A new generation of high-capacity, physically diverse fiber infrastructure, termed 'Neofiber,' is emerging to connect AI and hyperscale data centers in new power and land-available markets. This addresses the mismatch between where computing power infrastructure can be built and where sufficient network capacity exists. It creates a significant opportunity for investors to fund and aggregate scarce rights of way and access infrastructure, de-risking data center campus delivery for Cloud & Internet Infrastructure providers.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-11",
+      "source_doc_id": "2c06d5ed-e4b5-53ac-ab22-64bbab80d1c7",
+      "source_title": "The Digital Infrastructure Universe Continues to Expand. Here's How to Benefit.",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/digital-infrastructure-playbook",
+      "source_date": "2026-08-11"
+    },
+    {
+      "index": 13,
+      "title": "Specialized data center services capture AI-driven growth with reduced risk",
+      "description": "As data center ownership becomes crowded and capital-intensive, investment in specialized services like construction, networking, commissioning, cooling, and power integration offers a way to capture AI-driven growth without concentrated risk. This opportunity extends to emerging supply chains for orbital data centers. Companies scaling capabilities through talent acquisition and M&A in these areas are well-positioned to support the expanding Cloud & Internet Infrastructure market.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-11",
+      "source_doc_id": "2c06d5ed-e4b5-53ac-ab22-64bbab80d1c7",
+      "source_title": "The Digital Infrastructure Universe Continues to Expand. Here's How to Benefit.",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/digital-infrastructure-playbook",
+      "source_date": "2026-08-11"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "AI-driven hyperscaler investment fuels unprecedented semiconductor and data center growth",
+      "description": "McKinsey projects the semiconductor market to reach $2.3 trillion by 2030, a 44% increase from previous estimates, primarily driven by AI. Hyperscalers are allocating substantial capital expenditures, estimated at $800 billion for 2026 and $1 trillion for 2027, with the majority directed towards AI infrastructure, significantly boosting demand for leading-edge chips and memory. This trend suggests a sustained period of high ASPs and growth for components critical to cloud and internet infrastructure, reshaping industry dynamics permanently.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story"
+    },
+    {
+      "index": 2,
+      "title": "UK Computers & Telecoms sector remains resilient despite cost and supply pressures",
+      "description": "The UK's Computers & Telecoms sector, which includes digital infrastructure, maintains resilience amid geopolitical, energy, and supply-chain challenges. Public and private investment in AI, digital infrastructure, and skills development, like the Digital and Technologies Sector Plan and AI Growth Zones, underpin long-term strength. However, higher data-centre energy costs and semiconductor constraints introduce near-term uncertainty, necessitating careful risk management alongside innovation.",
+      "stance": "cautious_positive",
+      "source_firm": "Allianz UK",
+      "source_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "index": 3,
+      "title": "Software & IT Services attractive, with AI capability driving differentiation",
+      "description": "The Software & IT Services sector, encompassing cloud platforms, remains fundamentally attractive and growth-oriented, though conditions are increasingly polarized. Scale, recurring revenue, and AI capability are becoming key differentiators. Customer spending prioritizes solutions offering measurable productivity gains and automation. Providers with clear value propositions and strong customer retention are outperforming, indicating that successful cloud providers must translate innovation, especially in AI, into commercial outcomes to sustain strong long-term prospects.",
+      "stance": "cautious_positive",
+      "source_firm": "Allianz UK",
+      "source_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "index": 4,
+      "title": "Digital infrastructure expanding rapidly, driven by AI, increasing investment opportunities",
+      "description": "The digital infrastructure universe is expanding, driven significantly by the rise of AI, creating both new opportunities and complexities for operators and investors. Value creation now depends on a wider range of asset-level portfolio choices, requiring deeper understanding of technology trends and commercial risks. M&A activity is concentrating in data centers and hyperscale-adjacent platforms, highlighting strong investor appetite for core cloud infrastructure, but also the need for refined valuation frameworks due to diverging economic behaviors of assets.",
+      "stance": "positive",
+      "source_firm": "BCG",
+      "source_date": "2026-08-11",
+      "source_doc_id": "2c06d5ed-e4b5-53ac-ab22-64bbab80d1c7",
+      "source_title": "The Digital Infrastructure Universe Continues to Expand. Here's How to Benefit.",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/digital-infrastructure-playbook"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 800.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI Infrastructure Buildout",
+          "description": "Massive capital expenditure by hyperscalers is directed towards building out the necessary infrastructure for AI compute and services, directly increasing demand for cloud resources."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Hyperscalers' announced capital expenditures for AI infrastructure. The 'vast majority' of this figure is allocated to AI infrastructure, which directly underpins Cloud & Internet Infrastructure.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story"
+    },
+    {
+      "index": 2,
+      "tam_value": 2.7,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI Adoption and Data Center Expansion",
+          "description": "Sustained enterprise AI spending and high levels of data center investment are essential for the projected growth, driving the need for significant capital expenditure in cloud infrastructure."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Cumulative data center capital expenditures required to meet the base-case semiconductor market projection of $2.3 trillion by 2030, driven by AI adoption.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2025-2029",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "US Reindustrialization and AI Compute",
+          "description": "The US is undertaking a massive reindustrialization, with nearly $6 trillion in domestic investments. Data centers and AI compute account for approximately 85% of this, indicating a tripling of investment compared to the prior five years, driving significant demand for cloud infrastructure."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Analysis of the total US domestic investments planned between 2025 and 2029, with data centers and AI compute forming the majority.",
+      "source_firm": "BCG",
+      "source_date": "2026-09-14",
+      "data_confidence": "high",
+      "source_doc_id": "3d112d12-7588-5e3a-b39e-fed953872840",
+      "source_title": "Winning America’s Reindustrialization",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-us-manufacturers-win-the-buildout-boom"
+    },
+    {
+      "index": 4,
+      "tam_value": 63.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": "2024-2025",
+      "demand_drivers": [
+        {
+          "driver": "AI Infrastructure Expansion",
+          "description": "The rapid growth of AI infrastructure and hyperscale platforms is fueling a surge in M&A activity and transaction values for data centers."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total transaction value for data centers in the US, based on S&P Global Market Intelligence data.",
+      "source_firm": "BCG",
+      "source_date": "2026-08-11",
+      "data_confidence": "high",
+      "source_doc_id": "2c06d5ed-e4b5-53ac-ab22-64bbab80d1c7",
+      "source_title": "The Digital Infrastructure Universe Continues to Expand. Here's How to Benefit.",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/digital-infrastructure-playbook"
+    }
+  ],
+  "sources": [
+    "McKinsey",
+    "Allianz UK",
+    "BCG"
+  ],
+  "documents": [
+    {
+      "doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "publisher": "mckinsey",
+      "date": "2026-09-18",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story"
+    },
+    {
+      "doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "title": "September 2026 UK Sector Snippets",
+      "publisher": "allianz_uk",
+      "date": "2026-09-17",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "doc_id": "2c06d5ed-e4b5-53ac-ab22-64bbab80d1c7",
+      "title": "The Digital Infrastructure Universe Continues to Expand. Here's How to Benefit.",
+      "publisher": "bcg_global",
+      "date": "2026-08-11",
+      "url": "https://www.bcg.com/publications/2026/digital-infrastructure-playbook"
+    },
+    {
+      "doc_id": "3d112d12-7588-5e3a-b39e-fed953872840",
+      "title": "Winning America’s Reindustrialization",
+      "publisher": "bcg_global",
+      "date": "2026-09-14",
+      "url": "https://www.bcg.com/publications/2026/how-us-manufacturers-win-the-buildout-boom"
+    }
+  ]
+}

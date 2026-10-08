@@ -1,0 +1,532 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Global payments revenue growth moderating, shifting value drivers",
+      "description": "Global payments revenue growth is slowing from 9% to 4% annually, indicating a structural shift. Future growth will depend less on broad market momentum and more on deliberate competitive advantages like commercial excellence, operational discipline, and technological leadership. This moderation impacts CIB's transaction banking and trade finance segments, demanding a re-evaluation of strategies for value capture in a slower-growth environment, with EMEA seeing pronounced margin compression.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Receding interest rate tailwinds dampen net interest income growth",
+      "description": "The elevated interest rate environment, which previously drove rapid growth in net interest income (NII), is now fading. As interest rates ease, they will dampen net interest margins. This cyclical shift will cause global revenue mix to pivot from NII towards fee income, impacting CIB's treasury and deposit margin contributions, particularly in EMEA where margin compression is already observed, requiring CIB to adapt its profitability models.",
+      "type": "cyclical_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Payment infrastructure fragmenting into regional, multi-rail competitive arenas",
+      "description": "Instead of converging, global payment infrastructure is fragmenting into regional, multi-rail competitive environments. This involves zero-fee domestic real-time account-to-account (A2A) networks, legacy card systems, and wholesale stablecoin corridors for cross-border settlement. This complexity requires CIB providers to navigate diverse market structures, regulations, and economics, increasing operational challenges and competitive pressures in transaction banking across Europe and globally.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Agentic AI threatens deposit yields and card fee pools",
+      "description": "Agentic artificial intelligence (AI) is projected to put roughly $75 billion in global payments revenue at risk by 2030 in a base scenario. This disruption includes declines in deposit net interest income as software agents automatically sweep idle cash to higher-yielding accounts and erosion of consumer credit card revenues through payment rail substitution and fee avoidance. This poses a significant revenue headwind for CIB, particularly impacting deposit pools and transaction-related fees.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Digital assets exert margin pressure on FX and correspondent banking",
+      "description": "Digital assets like stablecoins and tokenized deposits are posing an additional headwind to payments and deposit revenues. They bypass traditional interchange and foreign-exchange (FX) conversion markups, and shift float income from commercial bank deposits. As cross-border corporate corridors adopt tokenized settlement, CIB providers will face direct margin pressure on foreign-exchange spreads and correspondent banking fees, impacting profitability in trade finance and transaction banking activities.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Accelerating shift to machine-to-machine transaction optimization",
+      "description": "Transaction optimization is rapidly shifting towards autonomous algorithms and machine-to-machine applications, particularly in business-to-business and developer-led flows like background treasury workflows. These machines optimize purely for speed, yield, and fee structure without human cognitive friction or brand loyalty. This structural change demands CIB providers develop real-time trust-scoring systems and policy compliance within microseconds to secure these flows, creating new challenges for fraud mitigation.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Geopolitical and regulatory fragmentation hinders payment rail innovation",
+      "description": "National supervisory frameworks are increasingly determining the pace of payment rail innovation, leading to divergence rather than global standards, as major markets prioritize monetary sovereignty. This regulatory fragmentation creates challenges for cross-border transactions and raises questions of sovereign liability when autonomous payments fail. CIB firms engaged in international payments must navigate this complex and evolving regulatory landscape, which affects API interoperability and compliance.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "Agentic payments create new revenue streams for infrastructure providers",
+      "description": "The emergence of agentic payments introduces transactions that cannot be safely executed with current service sets, creating new product opportunities. These include cryptographic machine identities, mandate and consent management, granular risk controls, agent wallets, and transaction protection frameworks for delegated flows. CIB firms are uniquely positioned to provide this control fabric, generating recurring per-mandate fees, API pricing, and risk-bearing protection premiums, offering a more defensible margin structure.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "title": "AI-driven operational productivity expands ROTE and creates self-funded bridge",
+      "description": "AI offers immediate operational productivity gains, potentially expanding return on tangible equity (ROTE) by up to four percentage points for early adopters. These gains, while partially offset by rising infrastructure costs, provide a self-funded bridge to the agentic era, allowing institutions to reinvest capital into emerging control layers. CIB firms can redesign workflows to be machine-executable, establishing a unified enterprise memory and compressing release cycles, improving efficiency and profitability.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 10,
+      "title": "Annual client wallet reallocation heightens CIB competitive intensity",
+      "description": "Corporates, institutional investors, and financial sponsors reallocate 12-25% of their annual banking wallet each year. This continuous reassessment, driven by performance, event-driven shifts (M&A, capital restructuring), and strategic rebalancing, means CIB relationships are not guaranteed. While challenging for incumbents, it also presents an opportunity for challengers and requires banks to continuously re-earn business by targeting contestable flow and event products, focusing on service and delivery.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "source_date": "2026-09-16",
+      "country_focus": "EU"
+    },
+    {
+      "index": 11,
+      "title": "Nonbank financial institutions intensify CIB competition and wallet leakage",
+      "description": "Nonbank financial institutions, including fintechs, private credit firms, and nonbank market makers (NBMMs), are increasingly competing for CIB wallet share. Corporates are open to nonbank financing (40%), financial sponsors use direct lenders (67%), and NBMMs capture 9-14% of trading wallet share. These challengers offer flexibility, speed, and digital innovation, posing a significant risk of wallet leakage for traditional CIB providers who must match these capabilities and leverage their incumbent advantages.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "source_date": "2026-09-16",
+      "country_focus": "EU"
+    },
+    {
+      "index": 12,
+      "title": "Commercial banking value shifts from balance sheet to transaction layer",
+      "description": "Commercial banking success is increasingly determined by transaction services—cash, liquidity management, payments, FX, trade finance, and payroll—rather than solely lending. Incumbent CIBs risk retaining credit relationships while losing the daily customer interaction and the valuable transaction data and engagement that drives future revenue growth, as challengers actively target this layer. Owning these daily financial flows is becoming paramount for maintaining strong client relationships and market position.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+      "source_date": "2026-09-16",
+      "country_focus": "EU"
+    },
+    {
+      "index": 13,
+      "title": "Agentic AI drives disintermediation risk and deposit profit decline",
+      "description": "Agentic AI enables automated sweeping of idle cash to higher-yield accounts and investment products, threatening banks' low-cost, sticky deposit base. If 5-10% of balances migrate, deposit profits could fall by 20% or more. This disintermediation risk extends to corporate treasury with tokenized products, forcing CIB to compete for deposits traditionally held by inertia. Unaddressed, this could shrink global bank profit pools by ~9% over the next decade.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+      "source_date": "2026-09-16",
+      "country_focus": "EU"
+    },
+    {
+      "index": 14,
+      "title": "Incumbent banks hold trust advantage for AI-enabled financial services",
+      "description": "Among AI users, 64% would trust their primary bank most to offer AI services, compared to 16% for major tech companies. This inherent trust provides incumbent CIB firms a significant advantage in deploying AI-driven financial solutions. By moving quickly to build on this trust and becoming a trusted AI interface, banks can transform AI from a threat into a powerful tool for deepening client relationships and capturing new opportunities, leveraging their existing data and regulatory expertise.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+      "source_date": "2026-09-16",
+      "country_focus": "EU"
+    },
+    {
+      "index": 15,
+      "title": "Client demand for faster, AI-enabled relationship managers",
+      "description": "Clients in Investment & Corporate Banking segments increasingly demand Relationship Managers (RMs) who are faster, more responsive, and possess a deep understanding of their needs. This necessitates a reengineering of coverage models, equipping RMs with real-time AI tools to orchestrate rapid, tailored solutions and facilitate seamless execution across client footprints. The shift ensures that RMs act as central orchestrators, leveraging AI to enhance service quality and deepen client relationships.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "source_date": "2026-09-16",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Global payments growth moderates, shifting focus to operational excellence",
+      "description": "Global payments revenue growth is moderating from 9% to 4% annually, signaling a structural transition where growth will stem less from broad market momentum. Success will depend more on deliberate competitive advantages like operational discipline, commercial excellence, and technological leadership. This shift impacts CIB's transaction banking and trade finance segments, demanding a re-evaluation of strategies for value capture in a slower-growth environment, with EMEA seeing pronounced margin compression.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Payments value shifts to invisible control layer with agentic rails",
+      "description": "Value in payments is shifting from front-end screens to the invisible control layer of trust, dynamic routing, and agentic rails, as checkouts dissolve into software. Organizations that position themselves to anchor this emerging control layer, focusing on commercial excellence and operational rigor, will be best equipped to capture value. This transformation necessitates CIB firms to invest in back-end trust, machine identity, and dynamic routing protocols to maintain their competitive edge.",
+      "stance": "neutral",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Agentic AI reshaping payments, risking significant revenue by 2030",
+      "description": "Agentic artificial intelligence (AI) could reshape payments economics, potentially putting roughly $75 billion in global payments revenue at risk by 2030 in a base scenario, primarily through deposit net interest income and consumer credit card revenues. Autonomous software agents could optimize account yields and dynamically route transactions to minimize fees. This poses a significant revenue headwind for CIB, particularly impacting deposit pools and transaction-related fees.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Digital assets like stablecoins pose headwinds to CIB revenues",
+      "description": "Digital assets such as stablecoins and tokenized deposits could pose an additional headwind to payments and deposit revenues if they scale beyond traditional bank and card economics. Stablecoins bypass traditional interchange and foreign-exchange (FX) conversion markups, shifting float income from commercial bank deposits. This leads to direct margin pressure on foreign-exchange spreads and correspondent banking fees for CIB providers engaged in cross-border corporate settlement, impacting profitability.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Value accrues to CIB players with durable moats in fee-led markets",
+      "description": "In a slower-growth, increasingly fee-led payments market, value will selectively accrue to players that combine software capabilities with durable, harder-to-replicate moats. These moats include proprietary data, embedded distribution, trusted customer relationships, and deep workflow integration. For CIB, this implies that proximity to the end user is less critical than robust foundational capabilities that secure value capture, forcing a reevaluation of rail infrastructure and strategic positioning.",
+      "stance": "neutral",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Stablecoins are wholesale settlement tools, not consumer currencies",
+      "description": "Stablecoins and tokenized commercial bank deposits are primarily viewed as highly efficient wholesale settlement tools for illiquid or currency-constrained business-to-business (B2B) corridors, operating alongside instant payment networks. They are not expected to become consumer-facing retail currencies. This clarifies the strategic utility for CIB firms, positioning these digital assets as replacements for slow correspondent interbank settlement in corporate treasury flows rather than retail payment instruments.",
+      "stance": "neutral",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Agentic treasury offers opportunity but carries disintermediation risk",
+      "description": "Agentic treasury management is identified as among the earliest commercial opportunities, with autonomous agents managing cash positioning and payment execution. However, if third-party software agents hold the client mandate, transaction banks risk becoming a commodity utility. This ERP-to-bank inversion represents an immediate disintermediation risk in commercial banking, making it imperative for CIB firms to deploy proprietary agentic advisory capabilities directly to clients to maintain relationships.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "Banking relationships are fluid; CIB clients continuously optimize provider ecosystems",
+      "description": "Banking relationships are no longer evergreen, with corporates, institutional investors, and financial sponsors continuously optimizing their provider ecosystems. Clients typically reallocate 12% to 25% of their annual banking wallet, indicating a significant contestable share. This requires CIB firms to treat loyalty as if it's earned every year, proactively working to maintain and grow client relationships rather than assuming retention, especially for flow and event products.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-16",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "title": "Achieving anchor bank status drives disproportionately higher client wallet share",
+      "description": "Cementing a 'house bank' or 'anchor bank' relationship drives disproportionately higher wallet share for CIB providers, yielding up to three times more business than non-core banks. Corporates consolidate about 73% of their wallet with primary banks, institutional investors 60%, and financial sponsors 55%. Achieving anchor status offers massive upside and opportunities to sponsor portfolio companies, making it a critical strategic goal for CIB to avoid utility status.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-16",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "country_focus": "EU"
+    },
+    {
+      "index": 10,
+      "title": "Execution certainty and relationship strength are key CIB differentiators beyond price",
+      "description": "While price is a leading factor in selecting a financing and lending provider, execution certainty and historical relationship strength are equally valuable differentiators for CIB clients. Corporates prioritize operational reliability for major milestones, institutional investors seek sector expertise and innovative solutions, and sponsors value certainty in deal closing. Exceptional delivery and trust-based relationships offer a stronger competitive advantage than product features or price alone, helping secure anchor status.",
+      "stance": "neutral",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-16",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "country_focus": "EU"
+    },
+    {
+      "index": 11,
+      "title": "Nonbank competition growing, demanding incumbent banks to reclaim wallet share",
+      "description": "Nonbank financial institutions, including fintechs, private credit firms, and nonbank market makers (NBMMs), are becoming increasingly prominent competitors for CIB wallet share. Corporates are open to nonbank financing (40%), and financial sponsors actively use direct lenders (67%). Banks need to reclaim this contestable wallet share by matching nonbanks on digital experience, speed, and flexibility, while leveraging their incumbent strengths in breadth, regulatory robustness, and relationship continuity.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-16",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "country_focus": "EU"
+    },
+    {
+      "index": 12,
+      "title": "Clients prefer faster, AI-enabled relationship managers at relationship center",
+      "description": "CIB clients decisively prefer relationship managers (RMs) at the center of their engagement, valuing speed, responsiveness, and deep understanding of their needs. This necessitates a reengineering of coverage models, equipping RMs with real-time AI tools to orchestrate rapid, tailored solutions and facilitate seamless execution across client footprints. Banks must empower coverage bankers to proactively work towards client outcomes, rather than just managing product silos, to meet evolving expectations.",
+      "stance": "neutral",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-16",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "country_focus": "EU"
+    },
+    {
+      "index": 13,
+      "title": "Commercial banking value shifts to transactions, risking incumbent credit relationships",
+      "description": "Commercial banking is increasingly won through transactions, not just lending. As profit shifts away from the balance sheet towards transaction services (cash, liquidity, payments, FX, trade finance), the institution that owns a business's daily financial flows owns the relationship. Incumbent CIBs risk retaining the credit relationship but losing the daily customer interaction, transaction data, and engagement that drives future revenue growth, as challengers aggressively target this transaction layer.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+      "country_focus": "EU"
+    },
+    {
+      "index": 14,
+      "title": "Incumbent banks possess a perishable trust advantage in AI services",
+      "description": "Among AI users, 64% would trust their primary bank most to offer AI services, significantly more than major tech companies or independent fintechs. This inherent trust represents a strong advantage for incumbent CIBs in deploying AI-driven financial solutions. However, this advantage is perishable; if banks fail to offer AI services, customers would consider third-party options. Incumbents must leverage this trust quickly to turn AI from a threat into a strategic tool.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+      "country_focus": "EU"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Event-driven rotation",
+          "description": "Large-scale shifts triggered by M&A, capital restructuring, new investments, or greenfield projects for corporates."
+        },
+        {
+          "driver": "Performance-based flow products",
+          "description": "Flow products such as FX, hedging, and trade finance are constantly retendered based on best available price and execution."
+        },
+        {
+          "driver": "Strategic rebalancing",
+          "description": "Corporates engage in strategic rebalancing to prevent single-provider dependency and optimize their banking ecosystems."
+        },
+        {
+          "driver": "Deal-by-deal optimization",
+          "description": "Financial sponsors dynamically shift mandates to capture the most favorable economics and structural terms on a deal-by-deal basis."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "By targeting flow and event products, prioritizing service and delivery, CIB banks can re-earn the 12-25% of wallet that is contested annually.",
+          "opportunity": "Reclaiming contestable wallet share"
+        },
+        {
+          "description": "Becoming an anchor bank can triple wallet share by consolidating complex mandates, global liquidity, FX, M&A, and capital markets business.",
+          "opportunity": "Achieving anchor bank status"
+        }
+      ],
+      "methodology": "Based on a global 2026 McKinsey Corporate and Investment Banking Voice of the Customer Survey with over 300 corporations, institutional investors, and financial sponsors, clients typically reallocate 12% to 25% of their annual banking wallet each year.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-16",
+      "data_confidence": "medium",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Structured flexibility and speed",
+          "description": "Private credit firms offer structured flexibility, speed of execution, and willingness to provide leverage, attracting corporates and financial sponsors."
+        },
+        {
+          "driver": "Seamless digital experiences",
+          "description": "Fintechs provide faster, seamless digital experiences and innovative features that often outpace traditional banks' offerings."
+        },
+        {
+          "driver": "Technological sophistication and liquidity",
+          "description": "NBMMs leverage technological sophistication, superior liquidity provision, and proven risk management for electronic and commoditized flow products."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Banks can match fintechs on digital experience, private credit on speed/flexibility, and NBMMs on execution, while leveraging incumbent strengths in breadth, regulatory robustness, and relationship continuity.",
+          "opportunity": "Reclaiming wallet share from nonbanks"
+        }
+      ],
+      "methodology": "Based on the 2026 McKinsey Corporate and Investment Banking Voice of the Customer Survey, 40% of corporates are open to using nonbank financing over the next three years. 67% of financial sponsors are already using direct lenders and private credit firms. Nonbank market makers (NBMMs) capture 9% to 14% of the wallet share by asset class in trading.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-16",
+      "data_confidence": "medium",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "McKinsey"
+  ],
+  "documents": [
+    {
+      "doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "publisher": "mckinsey",
+      "date": "2026-09-25",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    },
+    {
+      "doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "publisher": "mckinsey",
+      "date": "2026-09-16",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026"
+    },
+    {
+      "doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "title": "The decade to redefine UK banking",
+      "publisher": "mckinsey",
+      "date": "2026-09-16",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking"
+    }
+  ]
+}

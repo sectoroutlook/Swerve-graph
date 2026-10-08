@@ -1,0 +1,72 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Satellite communications poised for quantum communication market growth",
+      "description": "Telecom operators, including satellite communication providers, are forecast to significantly increase their market share in quantum communications, from 2-6% in 2023 to 16-26% by 2035. This growth is driven by the expansion of quantum networks and integration with cloud/cybersecurity offerings. For Satellite Communications, this represents a key upside as satellite-based Quantum Key Distribution (QKD) extends the reach of quantum-safe links, addressing limitations of fiber and catering to high-security demands over vast distances.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-24",
+      "source_doc_id": "8b0c9a40-4395-579b-bf7a-1c8f8024b349",
+      "source_title": "Quantum is almost here: Are you and your systems ready?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/quantum-is-almost-here-are-you-and-your-systems-ready",
+      "source_date": "2026-04-24",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2023-2035",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rollout of quantum networks",
+          "description": "Increasing deployment of quantum communication infrastructure drives demand for related services."
+        },
+        {
+          "driver": "Integration with public cloud and cybersecurity",
+          "description": "Growing need for enhanced security for high-value transactions and critical infrastructure, supported by cloud and cybersecurity platforms, drives quantum communication adoption."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Leveraging satellite technology to overcome distance limitations of fiber-based QKD, enabling secure communications for high-value segments (government, finance, healthcare) that demand provable security over long distances, positioning satellite communications as a critical enabler in the future quantum network.",
+          "opportunity": "Satellite-based Quantum Key Distribution (QKD)"
+        }
+      ],
+      "methodology": "Forecast for telecom operators' market share in quantum communications to grow from 2-6% in 2023 to 16-26% by 2035. This implies a significant shift in market participation for the broader telecom sector. The opportunity for Satellite Communications specifically lies in leveraging satellite-based QKD to extend the reach of quantum-safe communications where fiber is limited.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-04-24",
+      "data_confidence": "medium",
+      "source_doc_id": "8b0c9a40-4395-579b-bf7a-1c8f8024b349",
+      "source_title": "Quantum is almost here: Are you and your systems ready?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/quantum-is-almost-here-are-you-and-your-systems-ready",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "McKinsey"
+  ],
+  "documents": [
+    {
+      "doc_id": "8b0c9a40-4395-579b-bf7a-1c8f8024b349",
+      "title": "Quantum is almost here: Are you and your systems ready?",
+      "publisher": "mckinsey",
+      "date": "2026-04-24",
+      "url": "https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/quantum-is-almost-here-are-you-and-your-systems-ready"
+    }
+  ]
+}

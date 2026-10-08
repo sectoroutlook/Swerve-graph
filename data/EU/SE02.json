@@ -1,0 +1,958 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Rising energy prices drive demand for building insulation",
+      "description": "Higher energy prices are increasing the value premium for energy-efficient homes in Belgium, encouraging investments in insulation, high-performance glazing, and more efficient heating systems. This trend is driven by stricter renovation requirements and homeowners seeking to reduce energy expenses and hedge against future price shocks, creating sustained demand for specific building products.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-23",
+      "source_doc_id": "b9cd6120-65ad-54cd-b00f-818b134419f2",
+      "source_title": "Second-quarter resilience masks a more challenging outlook for Belgian housing",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/second-quarter-resilience-masks-a-more-challenging-outlook-for-belgian-housing",
+      "source_date": "2026-09-23",
+      "country_focus": "BE"
+    },
+    {
+      "index": 2,
+      "title": "Critical minerals demand surges for electrification and energy transition",
+      "description": "Demand for critical minerals such as copper, lithium, and nickel is projected to grow significantly through 2040. These minerals are fundamental building blocks for electrification, renewable energy infrastructure, and battery storage technologies, creating a strong market tailwind for diversified mining and specific non-ferrous metals, despite broader mining safety challenges.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-23",
+      "source_doc_id": "041ecb65-1f24-5dd1-9368-e7cb99fd09f4",
+      "source_title": "Harnessing AI to make mining safer",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer",
+      "source_date": "2026-09-23",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Critical mineral workforce gaps hinder global production scale-up",
+      "description": "The global push to rapidly scale production of critical minerals has led to significant capability and contractor management gaps, particularly in emerging markets. This rapid workforce growth and reliance on contractors introduce variability in safety standards, inconsistent training, and limited frontline oversight, posing a key risk to the efficient and safe expansion of diversified mining operations.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-23",
+      "source_doc_id": "041ecb65-1f24-5dd1-9368-e7cb99fd09f4",
+      "source_title": "Harnessing AI to make mining safer",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer",
+      "source_date": "2026-09-23",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "AI adoption enhances mining safety and productivity",
+      "description": "Agentic AI tools, automation, and remote monitoring are becoming crucial for improving safety and productivity in the mining sector. Technologies like autonomous drones, IoT-enabled sensors for ground stability, and predictive maintenance offer ways to proactively identify and mitigate hazards, enabling safer operations and more efficient resource extraction amidst persistent industry risks.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-23",
+      "source_doc_id": "041ecb65-1f24-5dd1-9368-e7cb99fd09f4",
+      "source_title": "Harnessing AI to make mining safer",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer",
+      "source_date": "2026-09-23",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "AI demand boosts specialized chemical and material needs",
+      "description": "The accelerating adoption of AI is cascading into its supporting infrastructure, including microchips, memory, and storage, which require a vast array of specialized chemicals and materials. This creates a significant tailwind for the specialty chemicals sector, particularly for high-value, application-specific products crucial for manufacturing and functioning of advanced electronic devices.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "20d743de-6bbb-5109-b758-cb89752d24ff",
+      "source_title": "Opportunities for Chemical Companies in the AI Infrastructure Boom",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-chemical-companies-find-new-growth",
+      "source_date": "2026-09-04",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Geopolitical volatility threatens electronic chemicals supply chains",
+      "description": "The electronic chemicals and materials segment faces significant geopolitical and supply-chain volatility, including new tariffs, export controls, and localization requirements. These factors pose key risks to stable operations and market access, necessitating robust supply chain resilience strategies and, potentially, dual-qualified regional manufacturing capacity to mitigate disruptions and ensure business continuity.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "20d743de-6bbb-5109-b758-cb89752d24ff",
+      "source_title": "Opportunities for Chemical Companies in the AI Infrastructure Boom",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-chemical-companies-find-new-growth",
+      "source_date": "2026-09-04",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Petrochemical demand expands driven by freight and data centers",
+      "description": "Modern energy demand growth, including expanded freight, data center growth, and continued petrochemical expansion, indicates robust consumption of energy carriers. This suggests a tailwind for the petrochemicals sector as these industries continue to develop, necessitating sustained production of key chemical inputs. Industrial capacity expansion due to reshoring also contributes to this demand.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-01",
+      "source_doc_id": "a76c363d-148b-571c-9fb9-eb24b3bb00e7",
+      "source_title": "Investing in the energy transition: Time to look at whole-system value",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value",
+      "source_date": "2026-09-01",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "EU Packaging and Packaging Waste Regulation mandates recyclability",
+      "description": "The EU Regulation 2025/40 on Packaging and Packaging Waste (PPWR), effective August 2026, introduces phased recyclability, labelling, and reporting requirements, and bans certain substances. This structural change imposes new compliance burdens on packaging companies, particularly for paper and cardboard packaging, requiring reassessment of rules in each EU market and driving a shift towards sustainable materials and practices.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-31",
+      "source_doc_id": "b7c96ad7-8412-5f67-b0e4-fb84d60a559c",
+      "source_title": "Bank of Ireland Food and Drink Sector H1 2026 Insights and H2 2026 Outlook August 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/D15993-BOI-Food-and-Beverage-Outlook-August-2026.pdf",
+      "source_date": "2026-08-31",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "title": "Declining graphic paper demand due to digitalization",
+      "description": "Digitalization is accelerating across Europe, with internet penetration reaching 93%, significantly reducing demand for graphic paper. This long-term contraction impacts the paper and paper products sector, requiring companies to adapt to shifting consumption patterns and explore alternative product mixes, with packaging and specialty grades showing more resilience but not fully offsetting the decline.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-08-18",
+      "source_doc_id": "e0d3b7f4-47d1-583b-80fa-018ff3b8c315",
+      "source_title": "Reinventing the European pulp and paper operating model",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/reinventing-the-european-pulp-and-paper-operating-model",
+      "source_date": "2026-08-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 10,
+      "title": "Elevated and volatile input costs pressure pulp and paper margins",
+      "description": "The European pulp and paper industry faces persistent margin pressure from elevated and volatile input costs, including pulp, recovered fiber, wood, and energy prices. The loss of Russian wood imports, biological disruptions, and tighter fiber availability contribute to sustained inflationary pressure, alongside higher natural gas costs in some regions like Italy, undermining competitiveness.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-18",
+      "source_doc_id": "e0d3b7f4-47d1-583b-80fa-018ff3b8c315",
+      "source_title": "Reinventing the European pulp and paper operating model",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/reinventing-the-european-pulp-and-paper-operating-model",
+      "source_date": "2026-08-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 11,
+      "title": "Asian competition intensifies in European paper and packaging markets",
+      "description": "Global trade dynamics are intensifying competitive pressure for European paper and packaging producers. Asia, acting as a structural export platform, is increasing capacity across grades like cartonboard, tissue, and graphic paper. This excess supply flows into international markets, limiting opportunities for sustained price recovery and challenging European players to enhance operational efficiency and commercial discipline.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-18",
+      "source_doc_id": "e0d3b7f4-47d1-583b-80fa-018ff3b8c315",
+      "source_title": "Reinventing the European pulp and paper operating model",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/reinventing-the-european-pulp-and-paper-operating-model",
+      "source_date": "2026-08-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 12,
+      "title": "Sustainability shifts from differentiator to baseline compliance for paper",
+      "description": "Sustainability in the pulp and paper sector is evolving from a market differentiator to a baseline requirement driven by regulation and economics, rather than consumer willingness to pay. While recycling rates are high, investment is now largely driven by regulatory compliance, posing challenges for packaging purchasers due to affordability, performance trade-offs, and regulatory uncertainty.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-18",
+      "source_doc_id": "e0d3b7f4-47d1-583b-80fa-018ff3b8c315",
+      "source_title": "Reinventing the European pulp and paper operating model",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/reinventing-the-european-pulp-and-paper-operating-model",
+      "source_date": "2026-08-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 13,
+      "title": "AI and analytics enhance pulp and paper operational efficiency",
+      "description": "AI and advanced analytics are emerging as critical enablers for the pulp and paper industry to navigate market constraints. These tools optimize mill operations, improve pricing, customer targeting, and product development, providing tangible ways to manage costs and capture growth. Integrating AI into operations and supply chain planning can lead to significant EBITDA improvements through enhanced predictability and precision.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-18",
+      "source_doc_id": "e0d3b7f4-47d1-583b-80fa-018ff3b8c315",
+      "source_title": "Reinventing the European pulp and paper operating model",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/reinventing-the-european-pulp-and-paper-operating-model",
+      "source_date": "2026-08-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 14,
+      "title": "Raw material volatility and slim margins hit automotive suppliers",
+      "description": "Irish automotive suppliers, primarily tire repair and motor factor businesses, face volatile raw material prices for inputs like rubber and steel, coupled with slim operating margins. While demand for maintenance and new car sales offer some support, firms must remain vigilant against input cost fluctuations, manage stock carefully, and protect cash flow to navigate persistent margin pressures.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-22",
+      "source_doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "source_title": "July 2026 Ireland Sector Snippets",
+      "source_publisher": "allianz_ie",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html",
+      "source_date": "2026-07-22",
+      "country_focus": "IE"
+    },
+    {
+      "index": 15,
+      "title": "Construction activity strengthens, supporting building materials demand",
+      "description": "Construction activity in Ireland continues to strengthen, marking a third successive month of growth with broad-based recovery across the sector. This trend, supported by sustained new order inflows, civil engineering growth, and underlying long-term housing demand, acts as a tailwind for the construction materials sector, despite some segments like housing still lagging.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-22",
+      "source_doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "source_title": "July 2026 Ireland Sector Snippets",
+      "source_publisher": "allianz_ie",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html",
+      "source_date": "2026-07-22",
+      "country_focus": "IE"
+    },
+    {
+      "index": 16,
+      "title": "Cost inflation and shortages pose risks to construction materials",
+      "description": "The Irish construction sector, and by extension building materials, faces key risks from persistent cost inflation, staff shortages, and lengthening delivery times. These challenges can impact project margins and supply chain continuity, necessitating flexibility in contracts, stress-testing project financials, and careful management of exposure to supply-chain partners to mitigate financial discipline erosion.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-22",
+      "source_doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "source_title": "July 2026 Ireland Sector Snippets",
+      "source_publisher": "allianz_ie",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html",
+      "source_date": "2026-07-22",
+      "country_focus": "IE"
+    },
+    {
+      "index": 17,
+      "title": "Softening global metal prices and rising costs pressure Irish metals",
+      "description": "Ireland's metals sector faces headwinds from softer global base metal prices, persistent raw material and labor cost pressures, and international trade policy uncertainties. While benefiting from construction links, normalizing market conditions require careful purchasing decisions, avoiding overstocking high-priced inventory, and assessing realistic cost pass-through to protect margins and maintain strong cash conversion.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-22",
+      "source_doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "source_title": "July 2026 Ireland Sector Snippets",
+      "source_publisher": "allianz_ie",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html",
+      "source_date": "2026-07-22",
+      "country_focus": "IE"
+    },
+    {
+      "index": 18,
+      "title": "CBAM imposes carbon costs on key imported materials",
+      "description": "The EU's Carbon Border Adjustment Mechanism (CBAM), live since January 2026, converts embedded emissions into direct costs for imported goods. This structural change significantly impacts margins and landed costs for sectors importing covered materials like fertilisers, cement, aluminium, iron, and steel, driving a shift towards lower-carbon producers and necessitating robust emissions data verification.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-21",
+      "source_doc_id": "95c66b48-a08c-5eb3-b02a-2a877dfd0ece",
+      "source_title": "CBAM: How companies can build from compliance to value creation",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/capabilities/sustainability/our-insights/cbam-how-companies-can-build-from-compliance-to-value-creation",
+      "source_date": "2026-07-21",
+      "country_focus": "EU"
+    },
+    {
+      "index": 19,
+      "title": "Verified emissions data reduces CBAM costs, creates competitive edge",
+      "description": "Companies providing verified emissions data can significantly reduce CBAM costs (by 30-85% before decarbonization) compared to using default values, turning compliance into a competitive advantage. This enables targeted actions to decrease carbon intensity, improves decision-making on supplier allocation and pricing, and allows for risk mitigation through financial hedging, rewarding early movers in low-carbon production.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-21",
+      "source_doc_id": "95c66b48-a08c-5eb3-b02a-2a877dfd0ece",
+      "source_title": "CBAM: How companies can build from compliance to value creation",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/capabilities/sustainability/our-insights/cbam-how-companies-can-build-from-compliance-to-value-creation",
+      "source_date": "2026-07-21",
+      "country_focus": "EU"
+    },
+    {
+      "index": 20,
+      "title": "High-carbon materials face cascading cost increases from CBAM",
+      "description": "CBAM will increase carbon-related costs for imported high-carbon materials such as steel, cement, and aluminium. These higher prices are expected to cascade through value chains, raising costs for downstream industries like automotive and construction. This creates a headwind for producers of these materials that rely on carbon-intensive processes and for their customers.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-21",
+      "source_doc_id": "95c66b48-a08c-5eb3-b02a-2a877dfd0ece",
+      "source_title": "CBAM: How companies can build from compliance to value creation",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/capabilities/sustainability/our-insights/cbam-how-companies-can-build-from-compliance-to-value-creation",
+      "source_date": "2026-07-21",
+      "country_focus": "EU"
+    },
+    {
+      "index": 21,
+      "title": "Middle East conflict temporarily reduces Asian chemical imports",
+      "description": "The initial closure of the Strait of Hormuz temporarily eased competition from Asian chemical producers in Europe. Feedstock shortages in Asia, heavily reliant on Gulf region oil and gas derivatives, led to reduced Asian petrochemical production and lower chemical exports to Europe. This provided a temporary breathing room and allowed for some production growth for European chemical companies.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-09",
+      "source_doc_id": "e6e085cd-d222-556a-8bf6-a6694ae1f9a0",
+      "source_title": "Temporary uptick for Dutch chemicals masks ongoing challenges",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/temporary-uptick-masks-ongoing-challenges-for-dutch-chemicals",
+      "source_date": "2026-07-09",
+      "country_focus": "EU"
+    },
+    {
+      "index": 22,
+      "title": "Global overcapacity and cheap imports pressure European chemicals",
+      "description": "Global petrochemical production capacity has expanded by 65% over 15 years, with significant growth in China. This overcapacity, combined with cheap and often subsidized chemical imports from Asia (exacerbated by an artificially low Chinese yuan and US tariffs), will continue to exert substantial pressure on European chemical producers, particularly those in upstream petrochemicals and basic chemicals.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-09",
+      "source_doc_id": "e6e085cd-d222-556a-8bf6-a6694ae1f9a0",
+      "source_title": "Temporary uptick for Dutch chemicals masks ongoing challenges",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/temporary-uptick-masks-ongoing-challenges-for-dutch-chemicals",
+      "source_date": "2026-07-09",
+      "country_focus": "EU"
+    },
+    {
+      "index": 23,
+      "title": "Structurally high energy and CO2 costs challenge European chemicals",
+      "description": "European chemical producers face structurally higher energy prices compared to the US and China, exacerbated by geopolitical conflicts. Additionally, rising CO2 costs mandate increased electrification and use of bio-based feedstocks. These high operational costs, coupled with a slower phase-out of free emission allowances, put European producers at a disadvantage, especially basic chemical manufacturers.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-09",
+      "source_doc_id": "e6e085cd-d222-556a-8bf6-a6694ae1f9a0",
+      "source_title": "Temporary uptick for Dutch chemicals masks ongoing challenges",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/temporary-uptick-masks-ongoing-challenges-for-dutch-chemicals",
+      "source_date": "2026-07-09",
+      "country_focus": "EU"
+    },
+    {
+      "index": 24,
+      "title": "European chemical capacity reduction due to closures",
+      "description": "The European chemicals industry is undergoing a structural rationalization, evidenced by a sixfold increase in chemical plant closures between 2022 and 2025. This has resulted in a combined capacity loss of 37 million tonnes, or 9% of the region's production capacity, reflecting ongoing pressures from high input costs, intense competition, and a broader economic downturn.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-03",
+      "source_doc_id": "1e6d0852-8bac-52f8-9a89-00de25d7ce99",
+      "source_title": "A dual transformation agenda for Europe’s chemicals industry",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/chemicals/our-insights/a-dual-transformation-agenda-for-europes-chemicals-industry",
+      "source_date": "2026-07-03",
+      "country_focus": "EU"
+    },
+    {
+      "index": 25,
+      "title": "Naphtha-based PE production disadvantaged by feedstock costs",
+      "description": "Polyethylene production in Europe is predominantly naphtha-based, making it structurally higher-cost compared to ethane-based processes prevalent in the US and Middle East. Ethane's abundance in NGL-rich regions creates a significant feedstock cost advantage, which is not easily overcome by naphtha, a globally traded commodity, placing European producers at a competitive disadvantage in the global PE market.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "25f8e4b0-3cfc-5e78-ae49-998947f7f7ed",
+      "source_title": "Polyethylene: Widely produced—but not one-size-fits-all",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/polyethylene-widely-produced-but-not-one-size-fits-all",
+      "source_date": "2026-06-30",
+      "country_focus": "EU"
+    },
+    {
+      "index": 26,
+      "title": "European ethylene capacity facing phased out due to competitiveness issues",
+      "description": "Europe is seeing limited new investment in polyethylene production, with up to five million tons of yearly capacity of existing European ethylene plants expected to be phased out over the next five years. This structural shift reflects weaker feedstock competitiveness (naphtha vs. ethane), higher capital costs, unpredictable permitting timelines, and growing regulatory constraints on plastics, fundamentally altering the region's PE landscape.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "25f8e4b0-3cfc-5e78-ae49-998947f7f7ed",
+      "source_title": "Polyethylene: Widely produced—but not one-size-fits-all",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/polyethylene-widely-produced-but-not-one-size-fits-all",
+      "source_date": "2026-06-30",
+      "country_focus": "EU"
+    },
+    {
+      "index": 27,
+      "title": "EAF steel production gains traction for environmental reasons",
+      "description": "Electric Arc Furnace (EAF) technology is gaining traction in European countries like Germany and Sweden, with new steel investments focusing on DRI-EAF-based plants. This structural shift is driven by environmental considerations, as EAF offers a smaller carbon footprint compared to traditional Blast Furnace-Basic Oxygen Furnace (BF-BOF) technology, leading to the gradual phasing out of BF-BOF capacity.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "688ad14d-b245-5158-a753-f2f778298e6c",
+      "source_title": "EAF steel: Beyond the blast furnace",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/eaf-steel-beyond-the-blast-furnace",
+      "source_date": "2026-06-30",
+      "country_focus": "EU"
+    },
+    {
+      "index": 28,
+      "title": "Global steel overcapacity and China imports compress margins",
+      "description": "The global steel market suffers from persistent overcapacity, with production capacity significantly exceeding demand (2.5 billion vs. 1.9 billion tons in 2024). Much of this excess capacity, particularly in China, has compressed margins for steel producers globally, including those in Europe, creating a significant headwind for the Steel & Ferrous Metals sector.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "688ad14d-b245-5158-a753-f2f778298e6c",
+      "source_title": "EAF steel: Beyond the blast furnace",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/eaf-steel-beyond-the-blast-furnace",
+      "source_date": "2026-06-30",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Mining sector poised for growth due to critical mineral demand",
+      "description": "The mining industry is expected to see significant growth, driven by increasing global demand for critical minerals like copper, lithium, and nickel. These materials are essential for building digital infrastructure, electrification, renewables, and battery storage, with demand projected to grow through 2040. Despite its importance, mining remains one of the most hazardous industries, facing challenges in safety transformation and data integration, but technological advancements offer opportunities for improvement.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-23",
+      "source_doc_id": "041ecb65-1f24-5dd1-9368-e7cb99fd09f4",
+      "source_title": "Harnessing AI to make mining safer",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Electronic chemicals offer compelling growth opportunities amidst AI boom",
+      "description": "Electronic chemicals and materials present a strong growth area for the chemicals sector, with projected CAGRs of 5-10% to 2030 and EBITDA margins over 20%. This is primarily driven by accelerating demand for AI infrastructure, including microchips, memory, and storage, which require specialized chemicals like photoresist and thermally conductive adhesives. The segment benefits from high R&D, long qualification cycles, and strong supplier-manufacturer integration.",
+      "stance": "positive",
+      "source_firm": "BCG Global",
+      "source_date": "2026-09-04",
+      "source_doc_id": "20d743de-6bbb-5109-b758-cb89752d24ff",
+      "source_title": "Opportunities for Chemical Companies in the AI Infrastructure Boom",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-chemical-companies-find-new-growth",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "European pulp and paper industry faces structural pressures, needs transformation",
+      "description": "Europe’s pulp and paper sector is undergoing a decisive transformation, confronting weaker demand due to demographic shifts and digitalization (especially for graphic paper), rising and volatile input costs (pulp, wood, energy), and intensifying global competition from Asia. Structural pressures, combined with lower asset valuations, necessitate a focus on operational excellence, commercial discipline, and integrated operating models to ensure sustained performance.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-08-18",
+      "source_doc_id": "e0d3b7f4-47d1-583b-80fa-018ff3b8c315",
+      "source_title": "Reinventing the European pulp and paper operating model",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/reinventing-the-european-pulp-and-paper-operating-model",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Italian pulp and paper sector must accelerate operating model review for competitiveness",
+      "description": "Italy's pulp and paper market, a significant part of Europe's industry, is facing similar structural and competitive pressures as the rest of the continent. Despite packaging board showing resilience, overall demand is affected by population decline and digitalization. Italian players need to accelerate operating model reviews to enhance competitiveness and leverage value creation, particularly given its heavy exposure to natural gas costs.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-08-18",
+      "source_doc_id": "e0d3b7f4-47d1-583b-80fa-018ff3b8c315",
+      "source_title": "Reinventing the European pulp and paper operating model",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/reinventing-the-european-pulp-and-paper-operating-model",
+      "country_focus": "IT"
+    },
+    {
+      "index": 5,
+      "title": "Irish chemicals sector faces declining profitability from high costs and disruptions",
+      "description": "Profitability in the Irish chemicals sector is expected to decline, primarily due to elevated energy and input costs. Logistics disruptions in the Middle East have constrained global feedstock availability, leading to raw material volatility and increased cost uncertainty. This environment continues to exert significant margin pressure, requiring businesses to review pricing, supplier resilience, and inventory planning to maintain production continuity and profitability.",
+      "stance": "negative",
+      "source_firm": "Allianz IE",
+      "source_date": "2026-07-22",
+      "source_doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "source_title": "July 2026 Ireland Sector Snippets",
+      "source_publisher": "allianz_ie",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html",
+      "country_focus": "IE"
+    },
+    {
+      "index": 6,
+      "title": "Irish metals sector faces headwinds despite construction links",
+      "description": "Ireland's metals sector, closely tied to construction, engineering, and manufacturing, benefits from ongoing project activity. However, it faces headwinds in 2025/26, including softer global metal prices, persistent raw material and labor cost pressures, and international trade policy uncertainties. While generally resilient, firms must carefully manage purchasing, inventory, and cost pass-through to customers amidst normalizing market conditions.",
+      "stance": "cautious_negative",
+      "source_firm": "Allianz IE",
+      "source_date": "2026-07-22",
+      "source_doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "source_title": "July 2026 Ireland Sector Snippets",
+      "source_publisher": "allianz_ie",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html",
+      "country_focus": "IE"
+    },
+    {
+      "index": 7,
+      "title": "Irish paper and packaging sector vulnerable to import costs and energy prices",
+      "description": "Ireland's paper and packaging sector is small, specialized, and heavily reliant on imported raw materials due to limited upstream capacity. While sustainable packaging demand offers opportunities, the sector is exposed to rising input and energy costs, alongside international trade pressures. Smaller operators, in particular, face reduced pricing power, necessitating focus on contract discipline and supplier resilience to offset cost increases.",
+      "stance": "cautious_negative",
+      "source_firm": "Allianz IE",
+      "source_date": "2026-07-22",
+      "source_doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "source_title": "July 2026 Ireland Sector Snippets",
+      "source_publisher": "allianz_ie",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html",
+      "country_focus": "IE"
+    },
+    {
+      "index": 8,
+      "title": "Irish fertiliser prices up 20% in 2026, driven by conflict impacts",
+      "description": "Fertiliser prices in Ireland are expected to be approximately 20% higher in 2026 compared to 2025, primarily due to the crisis in the Strait of Hormuz which pushed up energy prices, a key production cost. Despite an apparent de-escalation that may ease pressure, overall expenditure on fertiliser will increase, reflecting these higher prices, while total use is forecast to remain stable.",
+      "stance": "cautious_negative",
+      "source_firm": "Teagasc",
+      "source_date": "2026-07-20",
+      "source_doc_id": "24a89fc0-b0b9-5339-adaa-7aeb583ec9ba",
+      "source_title": "Mid-Year Situation and Outlook for Irish Agriculture July 2026",
+      "source_publisher": "teagasc",
+      "source_url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/publications/2026/Mid-Year-Outlook-for-Irish-Agriculture-July-2026.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 9,
+      "title": "Dutch chemicals sector sees temporary relief, but structural challenges persist",
+      "description": "The Dutch chemical industry experienced a temporary upturn in H2 2026 due to the Strait of Hormuz closure reducing Asian competition and prompting stockpiling. However, this relief masks ongoing structural challenges. When trade normalizes, overcapacity, cheap imports from China, tariffs, and persistently high energy and CO2 costs will likely pressure output again. Upstream petrochemical and basic chemical producers are most affected.",
+      "stance": "cautious_negative",
+      "source_firm": "ING Think",
+      "source_date": "2026-07-09",
+      "source_doc_id": "e6e085cd-d222-556a-8bf6-a6694ae1f9a0",
+      "source_title": "Temporary uptick for Dutch chemicals masks ongoing challenges",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/temporary-uptick-masks-ongoing-challenges-for-dutch-chemicals",
+      "country_focus": "NL"
+    },
+    {
+      "index": 10,
+      "title": "European chemicals industry at critical inflection point amidst structural challenges",
+      "description": "Europe’s chemical industry faces a critical juncture, characterized by persistent lagging performance, negative total shareholder returns (Dec 2022-Dec 2025), and capacity utilization below long-term averages. Structural issues like high input costs, complex regulations, intensified global competition (especially from China), and an economic downturn impacting customer industries are amplifying the challenge. Companies must pursue dual transformations, focusing on both performance improvement and strategic repositioning to survive and thrive.",
+      "stance": "negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-07-03",
+      "source_doc_id": "1e6d0852-8bac-52f8-9a89-00de25d7ce99",
+      "source_title": "A dual transformation agenda for Europe’s chemicals industry",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/chemicals/our-insights/a-dual-transformation-agenda-for-europes-chemicals-industry",
+      "country_focus": "EU"
+    },
+    {
+      "index": 11,
+      "title": "Polyethylene market highly competitive, success tied to feedstock access",
+      "description": "The polyethylene market is intensely competitive, with success predominantly dependent on access to low-cost feedstocks like ethane. Regions with abundant natural gas liquids, such as the US Gulf Coast and parts of the Middle East, hold a structural advantage, serving as export hubs. Conversely, European production, largely naphtha-based, faces higher costs. The market is also impacted by global capacity additions potentially exceeding demand, pressuring margins.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-06-30",
+      "source_doc_id": "25f8e4b0-3cfc-5e78-ae49-998947f7f7ed",
+      "source_title": "Polyethylene: Widely produced—but not one-size-fits-all",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/polyethylene-widely-produced-but-not-one-size-fits-all",
+      "country_focus": "EU"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 75.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 15.0,
+      "historical_cagr_period": "2020-2024",
+      "demand_drivers": [
+        {
+          "driver": "Accelerating AI demand",
+          "description": "The rapid adoption and expansion of AI, particularly generative AI, is driving demand for supporting infrastructure like microchips, memory, and storage, which require specialized chemicals and materials."
+        },
+        {
+          "driver": "Automation and robotics revolution",
+          "description": "The increasing need for automation in various industries is leading to a revolution in robotics, which relies on specialized polymers, lightweight structures, sensors, and other advanced materials."
+        },
+        {
+          "driver": "Shift to advanced node technology in microchips",
+          "description": "Microchip manufacturing is moving towards advanced node technology, which inherently requires more materials for production processes."
+        },
+        {
+          "driver": "Expanding electronics manufacturing",
+          "description": "Growth in electronics manufacturing across Asia, the US, and the EU contributes to increased demand for electronic chemicals and materials."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "EBITDA margins",
+          "description": "Segments within electronic chemicals and materials are expected to achieve EBITDA margins in excess of 20% due to the high-value nature of these application-specific chemicals."
+        },
+        {
+          "driver": "Total Shareholder Return (TSR)",
+          "description": "Electronic chemicals and materials delivered a 15% median annual TSR from 2020 through 2024, significantly outperforming the global chemicals industry (7%)."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Total addressable market for electronic chemicals and materials across the semiconductor supply chain.",
+      "source_firm": "BCG Global",
+      "source_date": "2026-09-04",
+      "data_confidence": "high",
+      "source_doc_id": "20d743de-6bbb-5109-b758-cb89752d24ff",
+      "source_title": "Opportunities for Chemical Companies in the AI Infrastructure Boom",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-chemical-companies-find-new-growth",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "tam_value": 95.0,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Demographic shifts",
+          "description": "Population decline and an aging population in the EU are reshaping the mix of paper and fiber-based consumption, affecting demand across various end markets."
+        },
+        {
+          "driver": "Digitalization trends",
+          "description": "Increased internet penetration in Europe continues to reduce demand for graphic paper as consumers and businesses shift to digital media and information."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Annual turnover for the European pulp and paper industry, which is a core component of Europe’s industrial base and circular bioeconomy.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-08-18",
+      "data_confidence": "high",
+      "source_doc_id": "e0d3b7f4-47d1-583b-80fa-018ff3b8c315",
+      "source_title": "Reinventing the European pulp and paper operating model",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/reinventing-the-european-pulp-and-paper-operating-model",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "tam_value": 8.0,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "E-commerce growth",
+          "description": "Packaging board, Italy’s largest segment, benefits from e-commerce trends, driving demand for paper and cardboard packaging."
+        },
+        {
+          "driver": "Industrial exports",
+          "description": "Strong industrial exports support demand for packaging solutions, contributing to the sector's activity."
+        },
+        {
+          "driver": "Sustainability-driven substitution",
+          "description": "The ongoing shift from plastics to fiber-based solutions, albeit slower than expected, provides a demand driver for paper and cardboard packaging."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Annual turnover for Italy's pulp and paper industry, which is one of Europe’s largest markets.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-08-18",
+      "data_confidence": "high",
+      "source_doc_id": "e0d3b7f4-47d1-583b-80fa-018ff3b8c315",
+      "source_title": "Reinventing the European pulp and paper operating model",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/reinventing-the-european-pulp-and-paper-operating-model",
+      "country_focus": "IT"
+    },
+    {
+      "index": 4,
+      "tam_value": 1.0,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Agrifood sector demand",
+          "description": "Demand for paper and packaging is largely supported by Ireland’s strong agrifood sector, which requires packaging for its products."
+        },
+        {
+          "driver": "Sustainable packaging trends",
+          "description": "Growing demand for sustainable packaging presents opportunities for specialized paper and packaging products in the market."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated market size for the paper and paper product manufacturing sector in Ireland, encompassing corrugated board, paper-based packaging, and niche product processing.",
+      "source_firm": "Allianz IE",
+      "source_date": "2026-07-22",
+      "data_confidence": "medium",
+      "source_doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "source_title": "July 2026 Ireland Sector Snippets",
+      "source_publisher": "allianz_ie",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html",
+      "country_focus": "IE"
+    },
+    {
+      "index": 5,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Pre-emptive buying to offset price increases",
+          "description": "A slight increase in nitrogen fertiliser sales volume (7% in Oct 2025-Mar 2026) reflects attempts by farmers to pre-empt price increases due to geopolitical conflicts."
+        },
+        {
+          "driver": "Lagging adoption of sustainable farming practices",
+          "description": "While there's growing awareness of reducing fertiliser use via clover and multispecies swards, this transition will take years, maintaining baseline demand."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Fertiliser price increase",
+          "description": "Fertiliser prices in 2026 are expected to be about 20% higher than in 2025 due to geopolitical events, significantly increasing expenditure."
+        },
+        {
+          "driver": "Energy prices",
+          "description": "Fertiliser production costs are heavily related to energy prices, with natural gas price increases impacting electricity prices and overall production costs."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Analysis of expenditure on fertiliser in Ireland based on price increases.",
+      "source_firm": "Teagasc",
+      "source_date": "2026-07-20",
+      "data_confidence": "high",
+      "source_doc_id": "24a89fc0-b0b9-5339-adaa-7aeb583ec9ba",
+      "source_title": "Mid-Year Situation and Outlook for Irish Agriculture July 2026",
+      "source_publisher": "teagasc",
+      "source_url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/publications/2026/Mid-Year-Outlook-for-Irish-Agriculture-July-2026.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 6,
+      "tam_value": 500.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Global investment in the broader chemicals sector.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-06-30",
+      "data_confidence": "high",
+      "source_doc_id": "25f8e4b0-3cfc-5e78-ae49-998947f7f7ed",
+      "source_title": "Polyethylene: Widely produced—but not one-size-fits-all",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/polyethylene-widely-produced-but-not-one-size-fits-all",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "tam_value": 150.0,
+      "tam_unit": "MMTPA",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 3.0,
+      "forecast_cagr_period": "long-term to 2035",
+      "historical_cagr": 1.0,
+      "historical_cagr_period": "past several years",
+      "demand_drivers": [
+        {
+          "driver": "Population growth",
+          "description": "Increasing global population drives demand for various products that use polyethylene as a foundational input."
+        },
+        {
+          "driver": "Urbanization",
+          "description": "Growth of urban areas increases demand for packaging, construction materials, and other industrial products utilizing polyethylene."
+        },
+        {
+          "driver": "Consumer goods consumption",
+          "description": "Rising consumption of consumer goods globally, particularly in emerging economies, fuels demand for polyethylene due to its use in packaging and other products."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "To meet projected demand of 200 million tons annually by 2035, ten to 25 new world-scale ethylene crackers will be required globally.",
+          "opportunity": "New world-scale crackers"
+        }
+      ],
+      "methodology": "Global installed capacity for polyethylene production.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-06-30",
+      "data_confidence": "high",
+      "source_doc_id": "25f8e4b0-3cfc-5e78-ae49-998947f7f7ed",
+      "source_title": "Polyethylene: Widely produced—but not one-size-fits-all",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/polyethylene-widely-produced-but-not-one-size-fits-all",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "tam_value": 2.5,
+      "tam_unit": "MMTPA",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Infrastructure and construction",
+          "description": "Steel forms the backbone of global infrastructure, buildings, and factories, driving demand for both flat and long steel products."
+        },
+        {
+          "driver": "Consumer products manufacturing",
+          "description": "Steel is a critical component in many household products, from cars to dishwashers, contributing to sustained demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Global crude steel production capacity, compared to demand of approximately 1.9 billion tons.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-06-30",
+      "data_confidence": "high",
+      "source_doc_id": "688ad14d-b245-5158-a753-f2f778298e6c",
+      "source_title": "EAF steel: Beyond the blast furnace",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/eaf-steel-beyond-the-blast-furnace",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "McKinsey",
+    "BCG Global",
+    "Allianz IE",
+    "Teagasc",
+    "ING Think"
+  ],
+  "documents": [
+    {
+      "doc_id": "041ecb65-1f24-5dd1-9368-e7cb99fd09f4",
+      "title": "Harnessing AI to make mining safer",
+      "publisher": "mckinsey",
+      "date": "2026-09-23",
+      "url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer"
+    },
+    {
+      "doc_id": "20d743de-6bbb-5109-b758-cb89752d24ff",
+      "title": "Opportunities for Chemical Companies in the AI Infrastructure Boom",
+      "publisher": "bcg_global",
+      "date": "2026-09-04",
+      "url": "https://www.bcg.com/publications/2026/how-chemical-companies-find-new-growth"
+    },
+    {
+      "doc_id": "e0d3b7f4-47d1-583b-80fa-018ff3b8c315",
+      "title": "Reinventing the European pulp and paper operating model",
+      "publisher": "mckinsey",
+      "date": "2026-08-18",
+      "url": "https://www.mckinsey.com/industries/packaging-and-paper/our-insights/reinventing-the-european-pulp-and-paper-operating-model"
+    },
+    {
+      "doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "title": "July 2026 Ireland Sector Snippets",
+      "publisher": "allianz_ie",
+      "date": "2026-07-22",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html"
+    },
+    {
+      "doc_id": "24a89fc0-b0b9-5339-adaa-7aeb583ec9ba",
+      "title": "Mid-Year Situation and Outlook for Irish Agriculture July 2026",
+      "publisher": "teagasc",
+      "date": "2026-07-20",
+      "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/publications/2026/Mid-Year-Outlook-for-Irish-Agriculture-July-2026.pdf"
+    },
+    {
+      "doc_id": "e6e085cd-d222-556a-8bf6-a6694ae1f9a0",
+      "title": "Temporary uptick for Dutch chemicals masks ongoing challenges",
+      "publisher": "ing_think",
+      "date": "2026-07-09",
+      "url": "https://think.ing.com/articles/temporary-uptick-masks-ongoing-challenges-for-dutch-chemicals"
+    },
+    {
+      "doc_id": "1e6d0852-8bac-52f8-9a89-00de25d7ce99",
+      "title": "A dual transformation agenda for Europe’s chemicals industry",
+      "publisher": "mckinsey",
+      "date": "2026-07-03",
+      "url": "https://www.mckinsey.com/industries/chemicals/our-insights/a-dual-transformation-agenda-for-europes-chemicals-industry"
+    },
+    {
+      "doc_id": "25f8e4b0-3cfc-5e78-ae49-998947f7f7ed",
+      "title": "Polyethylene: Widely produced—but not one-size-fits-all",
+      "publisher": "mckinsey",
+      "date": "2026-06-30",
+      "url": "https://www.mckinsey.com/mgi/our-research/polyethylene-widely-produced-but-not-one-size-fits-all"
+    },
+    {
+      "doc_id": "b9cd6120-65ad-54cd-b00f-818b134419f2",
+      "title": "Second-quarter resilience masks a more challenging outlook for Belgian housing",
+      "publisher": "ing_think",
+      "date": "2026-09-23",
+      "url": "https://think.ing.com/articles/second-quarter-resilience-masks-a-more-challenging-outlook-for-belgian-housing"
+    },
+    {
+      "doc_id": "a76c363d-148b-571c-9fb9-eb24b3bb00e7",
+      "title": "Investing in the energy transition: Time to look at whole-system value",
+      "publisher": "mckinsey",
+      "date": "2026-09-01",
+      "url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value"
+    },
+    {
+      "doc_id": "b7c96ad7-8412-5f67-b0e4-fb84d60a559c",
+      "title": "Bank of Ireland Food and Drink Sector H1 2026 Insights and H2 2026 Outlook August 2026",
+      "publisher": "bank_of_ireland",
+      "date": "2026-08-31",
+      "url": "https://www.thinkbusiness.ie/app/uploads/2026/08/D15993-BOI-Food-and-Beverage-Outlook-August-2026.pdf"
+    },
+    {
+      "doc_id": "95c66b48-a08c-5eb3-b02a-2a877dfd0ece",
+      "title": "CBAM: How companies can build from compliance to value creation",
+      "publisher": "mckinsey",
+      "date": "2026-07-21",
+      "url": "https://www.mckinsey.com/capabilities/sustainability/our-insights/cbam-how-companies-can-build-from-compliance-to-value-creation"
+    },
+    {
+      "doc_id": "688ad14d-b245-5158-a753-f2f778298e6c",
+      "title": "EAF steel: Beyond the blast furnace",
+      "publisher": "mckinsey",
+      "date": "2026-06-30",
+      "url": "https://www.mckinsey.com/mgi/our-research/eaf-steel-beyond-the-blast-furnace"
+    }
+  ]
+}

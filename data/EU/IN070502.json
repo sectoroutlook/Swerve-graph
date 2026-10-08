@@ -1,0 +1,326 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Agentic AI reshaping payments economics, compressing yields and fees",
+      "description": "Autonomous software agents acting on behalf of consumers and corporations are poised to fundamentally reshape payments economics. They optimize account yields and dynamically route transactions to minimize fees or maximize rewards, directly threatening traditional deposit net interest income and consumer credit card revenues by causing balance migration and promoting rail substitution. This forces incumbents to emphasize fee resilience and yield discipline.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "EMEA payments market faces slower growth and margin compression",
+      "description": "The payments market in Europe, Middle East, and Africa (EMEA) is experiencing significant margin compression and slower revenue growth, projected to decline from 14% annually (2020-25) to 3% (2025-30). This is largely attributed to lower interest rates reducing treasury and deposit margins, prompting a rapid shift towards fee-based structures. This environment necessitates greater operational discipline and strategic adaptation for financial service providers.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Payment infrastructure fragments into regional multi-rail competitive arenas",
+      "description": "Instead of converging, global payment infrastructure is fragmenting into regional, multi-rail competitive arenas. Domestic real-time account-to-account (A2A) networks, legacy card perimeters, and wholesale stablecoin corridors are competing directly. Financial institutions must navigate this complex environment, especially in card-resilient markets like Western Europe, where agents may still route through established card rails due to consumer protection and liability management.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Value shifting to invisible control layer in agentic payments",
+      "description": "As transaction clearing becomes increasingly commoditized and checkouts dissolve into software, value in payments is relocating from front-end customer interfaces to an invisible 'control layer.' This layer encompasses back-end trust, machine identity, consent engines, and dynamic routing protocols governing autonomous software agents. Businesses that can anchor this control layer by building robust trust infrastructure will be best positioned to capture future value.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Stablecoins and tokenized deposits challenge traditional payment revenues",
+      "description": "Digital assets like stablecoins and tokenized deposits are emerging as headwinds to traditional payments and deposit revenues. They bypass traditional interchange and foreign-exchange conversion markups, and shift float income away from commercial bank deposits. As cross-border corporate corridors adopt tokenized settlement, providers will face direct margin pressure on FX spreads and correspondent banking fees, impacting legacy financial models.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Autonomous treasury agents threaten banks' corporate client primacy",
+      "description": "Venture-backed entrants and independent platforms are developing autonomous treasury agents that manage cash positioning, working capital forecasting, and payment execution directly for businesses. These agents dynamically source liquidity and rails, posing an immediate disintermediation risk to commercial banks. If third-party software agents hold the client mandate, banks risk becoming commoditized utilities, highlighting an urgent imperative for transaction banks to deploy proprietary agentic advisory capabilities.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Fintechs face value migration from processing to orchestration services",
+      "description": "Autonomous commerce is accelerating a strategic shift for fintechs and payment operators: value is moving from basic transaction processing to higher-margin orchestration services such as routing, fraud mitigation, reconciliation, and consent management. While machine-to-machine flows create new transaction triggers, standalone processors face severe margin compression. Success depends on becoming an integrated orchestration layer that combines multi-rail routing with identity and trust protocols.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "Corporates increasingly open to nonbank financing, including fintechs",
+      "description": "Approximately 40% of corporates are open to utilizing nonbank financing over the next three years, with 17% specifically expecting to rely more heavily on fintechs for their financing needs. This trend, driven by fintechs' faster, seamless digital experiences and innovative features, presents a significant tailwind for digital credit platforms and other fintech business models within the Digital Financial Services & Lending sector.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "source_date": "2026-09-16",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "title": "AI agents accelerate banking relationship unbundling, enabling easy switching",
+      "description": "The rise of AI agents is expected to accelerate the unbundling of traditional banking relationships by making it easier for customers to compare providers, switch products, and move money between institutions. This diminishes allegiance to a single primary institution, allowing customers to select the best provider product-by-product. This structural shift creates both challenges for incumbents and opportunities for agile fintechs and digital financial service providers.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 10,
+      "title": "Fintech challengers expand from payments into broader financial services",
+      "description": "Fintech companies like Adyen, Stripe, and others, along with embedded finance platforms, are expanding beyond their core payments offerings into broader financial services. They are increasingly positioning themselves between banks and their business customers, solving specific pain points for small and new businesses. This expansion poses a significant challenge to traditional banks and creates new competitive dynamics, marking a tailwind for diversified digital financial service providers.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+      "source_date": "2026-09-16",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Agentic AI drives structural shift from visible payments to trust infrastructure",
+      "description": "Global payments are undergoing a structural transition as agentic artificial intelligence shifts value capture from front-end screens to invisible control layers of trust and dynamic routing. This new paradigm threatens traditional deposit yields and card fees by enabling autonomous optimization of financial choices. Financial institutions must proactively invest in trust infrastructure, such as machine credentials and consent management, to adapt and capture value in this evolving landscape.",
+      "stance": "cautious_negative",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Payments revenue growth moderates, demanding operational excellence and competitive advantages",
+      "description": "The global payments industry faces a significant structural transition, with revenue growth moderating from 9% to 4% annually. This slowdown, partly due to softening interest rate tailwinds, necessitates a shift from broad market momentum to deliberate competitive advantages. Operational discipline, pricing sophistication, productivity, and balance sheet optimization are crucial for capturing value, with a near-term emphasis on fee resilience as agentic AI threatens traditional revenue streams.",
+      "stance": "neutral",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Fintechs must evolve from processing to orchestrating in autonomous commerce",
+      "description": "Autonomous commerce accelerates a fundamental shift for fintechs and payment operators: value is migrating from basic transaction processing to sophisticated orchestration, including routing, fraud mitigation, and consent management. As authorization becomes commoditized, players closest to the orchestration layer stand to earn higher margins. Fintechs need to integrate multi-rail routing, machine identity, and real-time trust scoring to avoid margin compression faced by standalone processors.",
+      "stance": "cautious_positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 3.0,
+      "forecast_cagr_period": "2025–30",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Slower growth environment",
+          "description": "Lower interest rates compressing treasury and deposit margins."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Shift to fee-based structures",
+          "description": "Response to margin compression from lower interest rates affecting treasury and deposit margins."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Projected annual revenue growth for payments in the EMEA region.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-25",
+      "data_confidence": "high",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "tam_value": 75.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Agentic AI adoption",
+          "description": "Autonomous software agents optimizing account yields and dynamically routing transactions based on cost/rewards."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Deposit net interest income decline",
+          "description": "Software agents sweeping idle cash to higher-yielding accounts causing balance migration and yield compression."
+        },
+        {
+          "driver": "Consumer credit card revenue erosion",
+          "description": "Payment rail substitution, automated repayment optimization, fee avoidance, and real-time foreign-exchange routing due to agentic AI."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Base case analysis of global payments revenue at risk from agentic AI. Equivalent to 4 percent of the $1.9 trillion pool of retail and commercial deposits and consumer credit card revenues.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-25",
+      "data_confidence": "high",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "tam_value": 110.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Agentic technology introduces transactions that cannot be safely executed with current services, creating demand for new product capabilities like machine credentials, mandate/consent management, risk controls, agent wallets, and transaction protection.",
+          "opportunity": "New infrastructure products"
+        },
+        {
+          "description": "Automation of high-volume operations such as software engineering, KYC review, and dispute processing via agentic technology.",
+          "opportunity": "Operational productivity gains"
+        }
+      ],
+      "methodology": "Estimated gross margin expansion from new infrastructure products and operational productivity driven by agentic technology.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-25",
+      "data_confidence": "high",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "mckinsey"
+  ],
+  "documents": [
+    {
+      "doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "publisher": "mckinsey",
+      "date": "2026-09-25",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    },
+    {
+      "doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "publisher": "mckinsey",
+      "date": "2026-09-16",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026"
+    },
+    {
+      "doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "title": "The decade to redefine UK banking",
+      "publisher": "mckinsey",
+      "date": "2026-09-16",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking"
+    }
+  ]
+}

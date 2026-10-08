@@ -1,0 +1,575 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "AI-driven maintenance reduces airline costs and improves fleet availability",
+      "description": "A global airline achieved hundreds of millions of dollars in impact by transforming its maintenance function with AI. This included a 14% reduction in aircraft on ground (AOG) time and a 12% inventory reduction, leading to 10% savings in maintenance P&L. AI integration enhances reliability, planning, and spare parts management, improving operational efficiency and customer experience by reducing delays and cancellations.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-23",
+      "source_doc_id": "784727da-0ceb-5515-8d63-33ba145de179",
+      "source_title": "Maintenance meets AI: A proven approach for asset-heavy industries",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/capabilities/operations/our-insights/maintenance-meets-ai-a-proven-approach-for-asset-heavy-industries",
+      "source_date": "2026-09-23",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "AI-powered personalized maintenance reduces airline reliability events",
+      "description": "AI is enabling airlines to develop customized health-monitoring models for critical aircraft components, leading to a 30% reduction in reliability events. This technology allows for personalized maintenance plans based on individual aircraft flying history, such as exposure to corrosive environments. Such tailored approaches improve operational efficiency, minimize disruptions, and contribute to significant cost savings in maintenance.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-23",
+      "source_doc_id": "784727da-0ceb-5515-8d63-33ba145de179",
+      "source_title": "Maintenance meets AI: A proven approach for asset-heavy industries",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/capabilities/operations/our-insights/maintenance-meets-ai-a-proven-approach-for-asset-heavy-industries",
+      "source_date": "2026-09-23",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "AI optimizes airline spare parts inventory, enhancing operational continuity",
+      "description": "A global airline successfully lowered inventory levels by 14% and reduced operational impacts due to spare parts unavailability by implementing AI-driven demand projection. This automated planning increased the accuracy of spare parts demand projection by 20% and improved service levels by 4%. The technology optimizes trade-offs between operational continuity and inventory costs, moving away from manual, low-visibility processes.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-23",
+      "source_doc_id": "784727da-0ceb-5515-8d63-33ba145de179",
+      "source_title": "Maintenance meets AI: A proven approach for asset-heavy industries",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/capabilities/operations/our-insights/maintenance-meets-ai-a-proven-approach-for-asset-heavy-industries",
+      "source_date": "2026-09-23",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Schiphol capacity limits and rising costs constrain airline growth",
+      "description": "Schiphol Airport faces a practical capacity limit of ~478,000 flights annually, with fewer flights recorded in July 2026 compared to the previous year. This constraint, combined with rising jet fuel costs (airfares up 7.5% in summer 2026) and stricter sustainability policies (e.g., phase-out of free emissions allowances, aviation tax from 2027), pressures airlines operating at Schiphol. Future growth for airlines will rely on larger aircraft and higher load factors.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-22",
+      "source_doc_id": "93cf208c-3498-5a9d-bd82-206732fb766c",
+      "source_title": "Dutch transport and logistics proves resilient amid rising costs, global…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/transport-logistics-resilience-amid-disruptions-and-cost-inflation",
+      "source_date": "2026-09-22",
+      "country_focus": "NL"
+    },
+    {
+      "index": 5,
+      "title": "Elevated jet fuel costs and stricter sustainability policies pressure airlines",
+      "description": "Airfares increased by approximately 7.5% in summer 2026, primarily driven by elevated jet fuel costs, which are expected to remain high due to European dependence on imported fuel and high refining margins. Airlines face additional cost pressure from stricter sustainability policies, including the full phase-out of free emissions allowances for intra-European flights and increasing sustainable aviation fuel requirements, alongside a planned distance-based aviation tax from 2027.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-22",
+      "source_doc_id": "93cf208c-3498-5a9d-bd82-206732fb766c",
+      "source_title": "Dutch transport and logistics proves resilient amid rising costs, global…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/transport-logistics-resilience-amid-disruptions-and-cost-inflation",
+      "source_date": "2026-09-22",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "High air freight rates and demand for speed boost airline cargo",
+      "description": "Logistics providers are benefiting from sustained high air freight rates, driven by trade uncertainty, supply chain disruptions, and growing demand for reliability and speed, particularly for high-value products. This environment supports robust performance for logistics providers and, by extension, cargo airline operators who offer fast transport options, especially when port throughput and container volumes are under pressure.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-22",
+      "source_doc_id": "93cf208c-3498-5a9d-bd82-206732fb766c",
+      "source_title": "Dutch transport and logistics proves resilient amid rising costs, global…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/transport-logistics-resilience-amid-disruptions-and-cost-inflation",
+      "source_date": "2026-09-22",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Middle East conflict reduces air cargo volumes in Gulf hubs",
+      "description": "The ongoing conflict in the Middle East has severely impacted air cargo volumes through major Gulf hubs, which have fallen by 80% or more from pre-conflict levels. This significant reduction limits air freight capacities in the region, posing a headwind for cargo airline operators dependent on these routes and highlighting geopolitical risks for the air cargo sector.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-24",
+      "source_doc_id": "b17b77b6-d050-5b80-8756-404bf4d7b310",
+      "source_title": "Maritime Chokepoints: Five Lessons from the Strait of Hormuz",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/strait-of-hormuz-disruption-lessons",
+      "source_date": "2026-08-24",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "Geopolitical tensions inflate jet fuel costs, emphasizing hedging for airlines",
+      "description": "Geopolitical disruptions, such as the Hormuz closure, can significantly elevate jet fuel prices, which typically constitute 20% to 30% of airlines' operating costs. Such events can cause price spikes of around 50%. European airlines demonstrate resilience by hedging up to 70% of fuel usage, contrasting with North American counterparts who have reduced hedging. This underscores the critical importance of fuel hedging strategies to mitigate volatility and protect airline profitability.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-24",
+      "source_doc_id": "b17b77b6-d050-5b80-8756-404bf4d7b310",
+      "source_title": "Maritime Chokepoints: Five Lessons from the Strait of Hormuz",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/strait-of-hormuz-disruption-lessons",
+      "source_date": "2026-08-24",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "title": "Geopolitical uncertainty and high long-haul costs suppress Irish airline spending",
+      "description": "Geopolitical risks, elevated long-haul costs, and security concerns are directly influencing Irish travel decisions. Bank of Ireland card-spend data indicates a 5% year-on-year decrease in airline spending between January and April 2026, with a further 6.4% decline in May. This trend suggests a softening in inbound sentiment and higher-value long-haul demand, posing a significant headwind for airline operators targeting the Irish market.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-29",
+      "source_doc_id": "5a1edf3a-6b7c-5560-ba3c-b6c1c597f092",
+      "source_title": "Bank of Ireland Hospitality Sector H1 2026 Insights and H2 2026 Outlook July 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/07/BOI-Hospitality-Sector-H1-2026-Insights-and-H2-2026-Outlook.pdf",
+      "source_date": "2026-07-29",
+      "country_focus": "IE"
+    },
+    {
+      "index": 10,
+      "title": "Global aviation market recovery underpins Irish transport sector stability",
+      "description": "Ireland's broader transport sector benefits from the ongoing recovery in global aviation markets. While specifically mentioning aircraft leasing activities, the report notes strong profitability and expanding fleet portfolios for major industry participants, indicative of resilient demand conditions. This recovery provides a stable operating environment for the sector, which includes passenger and cargo airline operators.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-22",
+      "source_doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "source_title": "July 2026 Ireland Sector Snippets",
+      "source_publisher": "allianz_ie",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html",
+      "source_date": "2026-07-22",
+      "country_focus": "IE"
+    },
+    {
+      "index": 11,
+      "title": "Elevated fuel prices and carbon taxes raise airline operating costs",
+      "description": "The broader transport sector in Ireland faces persistent cost pressures from elevated fuel prices and rising carbon taxes. These factors necessitate continued investment in lower-emission fleets to meet evolving EU climate requirements, increasing operational expenditure and placing pressure on profitability. This is a significant headwind for airline operators in managing their cost base and maintaining competitiveness in the Irish market.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-22",
+      "source_doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "source_title": "July 2026 Ireland Sector Snippets",
+      "source_publisher": "allianz_ie",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html",
+      "source_date": "2026-07-22",
+      "country_focus": "IE"
+    },
+    {
+      "index": 12,
+      "title": "Major airlines' fuel hedging cushions against geopolitical price spikes",
+      "description": "While geopolitical tensions typically lead to increased fuel prices, affecting travel affordability, major airlines have demonstrated resilience through effective fuel hedging strategies. Despite potential for price rises, no significant increases have materialized to date, indicating that robust hedging programs can act as a crucial buffer against volatility in operating costs, thus stabilizing profitability for airline operators.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-19",
+      "source_doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "source_title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf",
+      "source_date": "2026-05-19",
+      "country_focus": "EU"
+    },
+    {
+      "index": 13,
+      "title": "Soaring jet fuel costs and Middle East conflict pressures airlines",
+      "description": "Geopolitical instability, particularly the Middle East conflict, has led to a dramatic increase in jet fuel costs, rising by 130% from $90 to $210 per barrel, with approximately 50% of EU fuel originating from the Middle East. This significant cost escalation, coupled with fears of commercial flight cancellations impacting air freight capacity (belly cargo), poses an acute headwind, pushing up operating expenses for airlines and potentially amplifying airfreight costs.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-19",
+      "source_doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "source_title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf",
+      "source_date": "2026-05-19",
+      "country_focus": "EU"
+    },
+    {
+      "index": 14,
+      "title": "High energy prices severely impact Europe's energy-intensive aviation",
+      "description": "High energy prices have significantly impacted the European aviation sector, identifying it as one of the hardest-hit and most energy-intensive industries. Airlines are primarily reliant on refined oil products, whose prices have increased substantially. While firms are generally better equipped to manage price hikes compared to 2022, continued elevated energy costs pose a considerable headwind for operational profitability and cost management.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-16",
+      "source_doc_id": "12f3a8d9-4e5c-5883-bd8b-6f8b0ee8933f",
+      "source_title": "How rising energy prices will impact European sectors",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-rising-energy-prices-will-impact-european-sectors",
+      "source_date": "2026-03-16",
+      "country_focus": "EU"
+    },
+    {
+      "index": 15,
+      "title": "Fleet renewal with new-generation aircraft improves airline energy efficiency",
+      "description": "Airlines are achieving significant energy efficiency gains by renewing their fleets with new-generation aircraft, such as the Airbus A320neo series. These modern aircraft use up to 20% less fuel per passenger-kilometer, contributing to a decrease in the sector's energy intensity. This ongoing fleet modernization acts as an upside driver, helping airlines mitigate high fuel costs and meet sustainability targets, while improving operational efficiency.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-16",
+      "source_doc_id": "12f3a8d9-4e5c-5883-bd8b-6f8b0ee8933f",
+      "source_title": "How rising energy prices will impact European sectors",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-rising-energy-prices-will-impact-european-sectors",
+      "source_date": "2026-03-16",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "European consumer intent for flights mixed with notable country variability",
+      "description": "European consumer spending intent for travel-related categories, including domestic and international flights, showed mixed trends compared to the previous quarter. While overall intent was variable by country, a consistent decline was observed in planned spending on cruises. This indicates that airlines need to monitor regional consumer sentiment closely, as spending patterns for flights diverge significantly across European nations, impacting demand forecasts and pricing strategies.",
+      "stance": "neutral",
+      "source_firm": "mckinsey",
+      "source_date": "2026-03-09",
+      "source_doc_id": "8beb1176-f0e9-576c-98d8-1f50a7a68ba6",
+      "source_title": "An update on EU consumer sentiment: The uptake of AI shopping tools",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/an-update-on-european-consumer-sentiment",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "German consumers increase domestic flight spending, reduce international plans",
+      "description": "In Germany, consumer spending plans for the next three months indicate an increase in domestic flights and hotel stays. Conversely, fewer consumers reported intentions to spend on international flights compared to the end of 2025. This shift reflects evolving consumer preferences or economic considerations within Germany, suggesting a potential reallocation of travel budgets towards domestic options and posing a mixed outlook for airlines depending on their route networks.",
+      "stance": "neutral",
+      "source_firm": "mckinsey",
+      "source_date": "2026-03-09",
+      "source_doc_id": "8beb1176-f0e9-576c-98d8-1f50a7a68ba6",
+      "source_title": "An update on EU consumer sentiment: The uptake of AI shopping tools",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/an-update-on-european-consumer-sentiment",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Increased air travel spending drives aviation growth above T&L sector",
+      "description": "Consumers and business travelers are increasing their spending on air travel, which is positively impacting the aviation sector. This increased expenditure is expected to lift aviation's growth rate above the average for the broader transport and logistics sector in 2026. This indicates robust demand for airline services despite broader economic uncertainties, positioning aviation as an outperforming segment within transportation.",
+      "stance": "positive",
+      "source_firm": "ing_think",
+      "source_date": "2026-01-22",
+      "source_doc_id": "e9d993f7-21d2-5bf3-811e-65d5cc4af21c",
+      "source_title": "3 calls for EU sectors in 2026: Tech outperformance, manufacturing growth…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/3-calls-for-eu-sectors-in-2026-tech-outperformance-manufacturing-growth-gaps-small-consumer-gains",
+      "country_focus": "EU"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 1.0,
+      "forecast_cagr_period": "2026",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Globally active aviation performance",
+          "description": "Better-than-expected performance of globally active aviation contributes to the overall growth of the Dutch transport and logistics sector, driven by resilient international markets and consumer demand."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Rising costs and geopolitical uncertainty",
+          "description": "Rising costs, trade tensions, geopolitical uncertainty, and climate-related disruptions reshape transport flows, making pricing power crucial for managing profitability within the broader sector, including aviation."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "The Dutch transport and logistics sector is expected to grow by around 1% in 2026, with globally active aviation contributing to this growth by performing better than expected. This indicates a positive, albeit moderate, impact on the aviation segment within the overall T&L sector.",
+      "source_firm": "ing_think",
+      "source_date": "2026-09-22",
+      "data_confidence": "medium",
+      "source_doc_id": "93cf208c-3498-5a9d-bd82-206732fb766c",
+      "source_title": "Dutch transport and logistics proves resilient amid rising costs, global…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/transport-logistics-resilience-amid-disruptions-and-cost-inflation",
+      "country_focus": "NL"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Speed and reliability",
+          "description": "Air freight remains critical for goods where speed and reliability are paramount, particularly for high-value products and during supply chain disruptions."
+        },
+        {
+          "driver": "Trade uncertainty and supply chain disruptions",
+          "description": "Global trade uncertainty and ongoing supply chain disruptions support sustained demand for air cargo as a flexible and resilient transport option."
+        },
+        {
+          "driver": "Asia region importance",
+          "description": "The Asia region, especially China, has become increasingly important for Dutch air cargo imports, reflecting its growing role in global trade and driving demand for air freight services."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Analysis of air freight demand trends at Schiphol, with a focus on regional connections and supporting factors.",
+      "source_firm": "ing_think",
+      "source_date": "2026-09-22",
+      "data_confidence": "medium",
+      "source_doc_id": "93cf208c-3498-5a9d-bd82-206732fb766c",
+      "source_title": "Dutch transport and logistics proves resilient amid rising costs, global…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/transport-logistics-resilience-amid-disruptions-and-cost-inflation",
+      "country_focus": "NL"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Improved air access",
+          "description": "Enhanced air access contributed to an 18% year-on-year increase in inbound trips to Ireland for the first five months of 2026, with European trips up 24% and North American trips up 15%. This boosts passenger volumes for airlines."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Year-on-year growth in inbound trips to Ireland, derived from tourism data.",
+      "source_firm": "bank_of_ireland",
+      "source_date": "2026-07-29",
+      "data_confidence": "high",
+      "source_doc_id": "5a1edf3a-6b7c-5560-ba3c-b6c1c597f092",
+      "source_title": "Bank of Ireland Hospitality Sector H1 2026 Insights and H2 2026 Outlook July 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/07/BOI-Hospitality-Sector-H1-2026-Insights-and-H2-2026-Outlook.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Higher long-haul costs",
+          "description": "Increased costs for long-haul flights are influencing consumer travel decisions, leading to a decline in airline spending."
+        },
+        {
+          "driver": "Security concerns",
+          "description": "Concerns about security are deterring travel, contributing to reduced airline spending."
+        },
+        {
+          "driver": "Geopolitical uncertainty",
+          "description": "Uncertainty stemming from geopolitical events is impacting travel sentiment and subsequently decreasing airline expenditure."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Bank of Ireland card-spend data showed airline spending down 5% year-on-year between January and April and down 6.4% year-on-year in May.",
+      "source_firm": "bank_of_ireland",
+      "source_date": "2026-07-29",
+      "data_confidence": "high",
+      "source_doc_id": "5a1edf3a-6b7c-5560-ba3c-b6c1c597f092",
+      "source_title": "Bank of Ireland Hospitality Sector H1 2026 Insights and H2 2026 Outlook July 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/07/BOI-Hospitality-Sector-H1-2026-Insights-and-H2-2026-Outlook.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 5,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increased air seat capacity",
+          "description": "The removal of Dublin Airport's passenger cap and projected increases in summer air access (+3% above Summer 2025, +5% from GB, +9% from US) are significant drivers for airline passenger volumes into Ireland."
+        },
+        {
+          "driver": "Strong inbound tourism",
+          "description": "Overseas tourists, particularly from the US, account for a substantial portion of inbound tourism expenditure, directly benefiting airlines through passenger demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Analysis of air seat capacity growth for Ireland, including specific percentage increases from different regions and the impact of Dublin Airport's passenger cap removal.",
+      "source_firm": "bank_of_ireland",
+      "source_date": "2026-05-19",
+      "data_confidence": "high",
+      "source_doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "source_title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 6,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Resilient inbound visitor trips",
+          "description": "Following a soft start, the second half of 2025 saw an encouraging trend in inbound visitor trips to Ireland, signaling resilient demand for air travel into the country."
+        },
+        {
+          "driver": "Increased North American market dependency",
+          "description": "Ireland's inbound tourism is increasingly dependent on the North American market, with US and Canadian visitors accounting for 28% of inbound visitor nights in 2025, up 3% from the previous year. This drives passenger demand for transatlantic flights."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Measurement of the share of inbound visitor nights from specific regions for Ireland, and trends in overall visitor trips.",
+      "source_firm": "bank_of_ireland",
+      "source_date": "2026-02-05",
+      "data_confidence": "high",
+      "source_doc_id": "9ac1882e-b6cc-52d2-807a-48a6c1e32671",
+      "source_title": "Bank of Ireland Sectors Team — Hospitality Sector H2 2025 Insights and H1 2026 Outlook",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/02/Hotel-Sector-Insights-Outlook.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 7,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increased consumer and business travel spending",
+          "description": "Higher spending by both consumer and business travelers on air travel is a key driver for aviation sector growth, pushing it beyond the average growth of the broader transport and logistics sector."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Observation that increased spending by consumers and business travelers on air travel is elevating aviation's growth rate above the average for the broader transport and logistics sector in 2026.",
+      "source_firm": "ing_think",
+      "source_date": "2026-01-22",
+      "data_confidence": "medium",
+      "source_doc_id": "e9d993f7-21d2-5bf3-811e-65d5cc4af21c",
+      "source_title": "3 calls for EU sectors in 2026: Tech outperformance, manufacturing growth…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/3-calls-for-eu-sectors-in-2026-tech-outperformance-manufacturing-growth-gaps-small-consumer-gains",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "mckinsey",
+    "ing_think",
+    "bank_of_ireland"
+  ],
+  "documents": [
+    {
+      "doc_id": "8beb1176-f0e9-576c-98d8-1f50a7a68ba6",
+      "title": "An update on EU consumer sentiment: The uptake of AI shopping tools",
+      "publisher": "mckinsey",
+      "date": "2026-03-09",
+      "url": "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/an-update-on-european-consumer-sentiment"
+    },
+    {
+      "doc_id": "e9d993f7-21d2-5bf3-811e-65d5cc4af21c",
+      "title": "3 calls for EU sectors in 2026: Tech outperformance, manufacturing growth…",
+      "publisher": "ing_think",
+      "date": "2026-01-22",
+      "url": "https://think.ing.com/articles/3-calls-for-eu-sectors-in-2026-tech-outperformance-manufacturing-growth-gaps-small-consumer-gains"
+    },
+    {
+      "doc_id": "784727da-0ceb-5515-8d63-33ba145de179",
+      "title": "Maintenance meets AI: A proven approach for asset-heavy industries",
+      "publisher": "mckinsey",
+      "date": "2026-09-23",
+      "url": "https://www.mckinsey.com/capabilities/operations/our-insights/maintenance-meets-ai-a-proven-approach-for-asset-heavy-industries"
+    },
+    {
+      "doc_id": "93cf208c-3498-5a9d-bd82-206732fb766c",
+      "title": "Dutch transport and logistics proves resilient amid rising costs, global…",
+      "publisher": "ing_think",
+      "date": "2026-09-22",
+      "url": "https://think.ing.com/articles/transport-logistics-resilience-amid-disruptions-and-cost-inflation"
+    },
+    {
+      "doc_id": "b17b77b6-d050-5b80-8756-404bf4d7b310",
+      "title": "Maritime Chokepoints: Five Lessons from the Strait of Hormuz",
+      "publisher": "bcg_global",
+      "date": "2026-08-24",
+      "url": "https://www.bcg.com/publications/2026/strait-of-hormuz-disruption-lessons"
+    },
+    {
+      "doc_id": "5a1edf3a-6b7c-5560-ba3c-b6c1c597f092",
+      "title": "Bank of Ireland Hospitality Sector H1 2026 Insights and H2 2026 Outlook July 2026",
+      "publisher": "bank_of_ireland",
+      "date": "2026-07-29",
+      "url": "https://www.thinkbusiness.ie/app/uploads/2026/07/BOI-Hospitality-Sector-H1-2026-Insights-and-H2-2026-Outlook.pdf"
+    },
+    {
+      "doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "title": "July 2026 Ireland Sector Snippets",
+      "publisher": "allianz_ie",
+      "date": "2026-07-22",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html"
+    },
+    {
+      "doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "publisher": "bank_of_ireland",
+      "date": "2026-05-19",
+      "url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf"
+    },
+    {
+      "doc_id": "12f3a8d9-4e5c-5883-bd8b-6f8b0ee8933f",
+      "title": "How rising energy prices will impact European sectors",
+      "publisher": "ing_think",
+      "date": "2026-03-16",
+      "url": "https://think.ing.com/articles/how-rising-energy-prices-will-impact-european-sectors"
+    },
+    {
+      "doc_id": "9ac1882e-b6cc-52d2-807a-48a6c1e32671",
+      "title": "Bank of Ireland Sectors Team — Hospitality Sector H2 2025 Insights and H1 2026 Outlook",
+      "publisher": "bank_of_ireland",
+      "date": "2026-02-05",
+      "url": "https://www.thinkbusiness.ie/app/uploads/2026/02/Hotel-Sector-Insights-Outlook.pdf"
+    }
+  ]
+}

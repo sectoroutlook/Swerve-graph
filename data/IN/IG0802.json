@@ -1,0 +1,725 @@
+{
+  "geography": "IN",
+  "forces": [
+    {
+      "index": 1,
+      "title": "RBI's unified regulatory framework boosts cybersecurity demand in BFSI",
+      "description": "RBI's new Master Directions consolidate technology governance, cybersecurity, and operational resilience requirements for regulated entities. This mandates adherence to 31 baseline control domains, continuous monitoring, and strict incident reporting (within six hours), creating a substantial and sustained demand for advanced cybersecurity software, services, and compliance solutions (IN080203) within the financial services sector.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-01",
+      "source_doc_id": "5117e92b-4f62-5b87-a6be-8443a84e048e",
+      "source_title": "RBI’s technology focused master directions issued on 31 July 2026",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/09/rbis-technology-focused-master-directions-issued-on-31-july-2026.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "index": 2,
+      "title": "Cyber GCCs are strategic pillars for global cybersecurity innovation",
+      "description": "India's Cyber Global Capability Centers (GCCs) are evolving beyond support functions to lead innovation, strategy, and digital risk management for global organizations. They are investing in R&D, establishing Centers of Excellence (COEs) for AI security, incident response, and cloud security, and attracting a growing cybersecurity workforce, making them critical drivers of advanced cybersecurity capabilities (IN080203) and market growth.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-01",
+      "source_doc_id": "1897d41d-4764-54f2-87cd-3ce3ad76f038",
+      "source_title": "Secure in India 2026: Cyber GCCs in the age of AI",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/09/secure-in-india-2026-cyber-gccs-in-the-age-of-ai.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "index": 3,
+      "title": "Rising AI-driven cyber-warfare and sophisticated attacks intensify threats",
+      "description": "The global business landscape faces intense cyber-warfare, relentless and sophisticated cybersecurity attacks, and novel risks introduced by AI and operational technology. Cybercriminals are weaponizing AI to sharpen methods, create convincing phishing campaigns, and launch identity-driven attacks, posing a significant and evolving threat landscape that necessitates continuous innovation and investment in advanced cybersecurity solutions (IN080203).",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-01",
+      "source_doc_id": "1897d41d-4764-54f2-87cd-3ce3ad76f038",
+      "source_title": "Secure in India 2026: Cyber GCCs in the age of AI",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/09/secure-in-india-2026-cyber-gccs-in-the-age-of-ai.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "index": 4,
+      "title": "AI security emerges as top priority, redefining cybersecurity functions",
+      "description": "AI security is rapidly becoming a key cybersecurity function and a top priority skillset for Cyber GCCs, with significant focus on 'AI for security' and 'security of AI.' This shift redefines talent demand in strategic areas like cyber resilience, AI security, and cloud security, driving investment in new policies, governance functions, and risk assessment frameworks for AI (IN080203).",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-01",
+      "source_doc_id": "1897d41d-4764-54f2-87cd-3ce3ad76f038",
+      "source_title": "Secure in India 2026: Cyber GCCs in the age of AI",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/09/secure-in-india-2026-cyber-gccs-in-the-age-of-ai.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "index": 5,
+      "title": "Legacy systems and integration challenges erode tech investment ROI",
+      "description": "KPMG's report indicates that 60% of technology organizations find legacy systems and processes reduce the effectiveness of their technology investments. Integration complexity, operating model limitations, and organizational structure are key factors hindering the scaling of AI and other tech initiatives, creating a drag on ROI for software and cloud solutions (IN080201, IN080202) unless accompanied by comprehensive modernization efforts.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-01",
+      "source_doc_id": "0b403e43-acf5-57a1-a26f-44ab7b56230f",
+      "source_title": "KPMG Global tech report 2026: Technology and Telecommunications",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/08/kpmg-global-tech-report-2026-technology-and-telecommunications.html",
+      "source_date": "2026-08-01"
+    },
+    {
+      "index": 6,
+      "title": "Accelerating cloud and AI demand fuels IT spending and infrastructure investment",
+      "description": "India's IT spending is forecast to reach US$176.3 billion in 2026, driven by a boom in data center expansion and AI-enabled software investments. Major players like Google, Adani, Reliance, Microsoft, and TCS are committing billions to AI hubs, data centers, and digital infrastructure, indicating massive underlying demand for cloud & internet infrastructure (IN080202) and application software (IN080201) to power AI workloads.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 7,
+      "title": "Indian BFSI vulnerable to escalating cyber incidents and AI-enabled attacks",
+      "description": "Cyber incidents in India have doubled in four years, with the BFSI sector experiencing significant breaches, including cloud misconfiguration and ransomware. BCG highlights that mid-tier BFSI are highly exposed due to aggressive digitization and shared infrastructure vulnerabilities. Leaders express low confidence in defenses against AI-enabled threats like deepfakes and GenAI data leakage, indicating a critical and urgent need for enhanced cybersecurity solutions (IN080203).",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-29",
+      "source_doc_id": "7cc57110-6fb1-56c5-a166-f141a05208cf",
+      "source_title": "Cybersecurity in the Age of AI",
+      "source_publisher": "bcg_india",
+      "source_url": "https://www.bcg.com/publications/2026/india-cybersecurity-in-the-age-of-ai-bfsi",
+      "source_date": "2026-05-29"
+    },
+    {
+      "index": 8,
+      "title": "Government policy support and investment fosters India's AI ecosystem",
+      "description": "The Government of India's IndiaAI Mission (outlay Rs 10,372 crore / US$1.25 billion) and budget allocations for AI adoption, infrastructure, and Centres of Excellence are establishing a solid foundation for the nation's AI ecosystem. This, combined with a tax holiday for foreign companies providing cloud services via Indian data centers, provides strong policy tailwinds for application software (IN080201) and cloud & internet infrastructure (IN080202) development.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 9,
+      "title": "Agentic AI necessitates new deployment playbook and specialized talent",
+      "description": "The shift to Agentic AI, where autonomous agents initiate actions and coordinate across functions, requires enterprises to redefine technology architectures, governance, workforce structures, and operating principles. This creates demand for new roles like Forward Deployment Engineers and AI orchestrators, emphasizing robust deployment capabilities, data foundations, and human oversight to industrialize AI at scale and unlock competitive advantage for application software (IN080201).",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-01",
+      "source_doc_id": "08800f23-69c1-5c44-81b3-5e61f83ef0f2",
+      "source_title": "The agentic AI imperative: Why Indian enterprises need a new deployment playbook",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/blogs/2026/07/the-agentic-ai-imperative-why-indian-enterprises-need-a-new-deployment-playbook.html",
+      "source_date": "2026-07-01"
+    },
+    {
+      "index": 10,
+      "title": "Third-party and supply chain risks amplified by AI threaten BFSI cyber resilience",
+      "description": "BCG reports that third-party and supply chain risks are critical concerns for Indian BFSI, with AI increasing the potential for breaches and impact. A single shared-vendor breach in July 2024 affected 300 banks, highlighting concentration risk. This necessitates improved continuous visibility, threat intelligence, resilient processes, and effective access controls for third-party vendors, driving demand for enhanced cybersecurity solutions (IN080203).",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-29",
+      "source_doc_id": "7cc57110-6fb1-56c5-a166-f141a05208cf",
+      "source_title": "Cybersecurity in the Age of AI",
+      "source_publisher": "bcg_india",
+      "source_url": "https://www.bcg.com/publications/2026/india-cybersecurity-in-the-age-of-ai-bfsi",
+      "source_date": "2026-05-29"
+    },
+    {
+      "index": 11,
+      "title": "Rising R&D investment and M&A for niche skills accelerate tech innovation",
+      "description": "Significant government and private investment in R&D, including a Rs. 100,000 crore scheme for private-sector innovation, is strengthening India's tech ecosystem. Concurrently, M&A activity is surging as firms seek niche skills in cloud, AI, and cybersecurity (e.g., Infosys acquiring cybersecurity firm The Missing Link), accelerating capability expansion and market growth for Software & Internet Services (IG0802).",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 12,
+      "title": "Shift to outcome-based contracts in IT driven by AI productivity gains",
+      "description": "The IT industry is shifting from 'per-FTE' contracts to outcome-based models, fueled by AI-driven productivity gains (20-40%). Clients increasingly demand pay-for-results, compelling companies like Persistent Systems to offer fixed-price, subscription, and usage-based deals. This structural change redefines business models within application software (IN080201), favoring providers who can demonstrate tangible results and manage AI integration effectively.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 13,
+      "title": "India emerging as global data annotation and labelling hub",
+      "description": "India's data annotation market is projected to reach US$7 billion by 2030, driven by accelerated domestic demand for AI. This growth creates opportunities to engage a workforce of up to 1 million professionals, positioning India as a key hub for foundational AI data services. This directly benefits application software companies (IN080201) requiring high-quality labeled data for AI/ML model development.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 14,
+      "title": "Cybersecurity talent shortage widens with advanced AI skill gap",
+      "description": "Cybersecurity talent remains a critical constraint globally and in India, with AI adoption further widening the advanced skills gap. This shortage hinders organizations' ability to manage sophisticated AI-enabled threats and implement robust security measures. While it presents a challenge for enterprises, it also drives demand for managed security services providers (MSSPs) and AI-powered security automation tools (IN080203) to augment limited human capital.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-29",
+      "source_doc_id": "7cc57110-6fb1-56c5-a166-f141a05208cf",
+      "source_title": "Cybersecurity in the Age of AI",
+      "source_publisher": "bcg_india",
+      "source_url": "https://www.bcg.com/publications/2026/india-cybersecurity-in-the-age-of-ai-bfsi",
+      "source_date": "2026-05-29"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "AI transforms cybersecurity from emerging tech to strategic necessity",
+      "description": "KPMG and World Economic Forum highlight AI's critical role in modern cybersecurity, enabling organizations to strengthen resilience against sophisticated AI-amplified attacks. Success hinges on a clear deployment strategy, rigorously tested use cases, strong governance, and human oversight, moving AI beyond experimentation to a foundational security capability. This signals a positive outlook for cybersecurity software and services (IN080203).",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "source_doc_id": "0edc3f89-fef7-5634-8175-e4677555dc29",
+      "source_title": "Empowering defenders: AI for cybersecurity",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/empowering-defenders-ai-for-cybersecurity.html"
+    },
+    {
+      "index": 2,
+      "title": "Indian Cyber GCCs evolving as strategic hubs for global cybersecurity",
+      "description": "KPMG and DSCI report that Indian Cyber Global Capability Centers (GCCs) have transcended operational roles to become strategic pillars of resilience, innovation, and leadership in cybersecurity and digital risk management for their global organizations. They are driving innovation, attracting talent, and leading in securing digital transformation initiatives, indicating a strong positive trajectory for cybersecurity capabilities (IN080203) within the GCC ecosystem.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-09-01",
+      "source_doc_id": "1897d41d-4764-54f2-87cd-3ce3ad76f038",
+      "source_title": "Secure in India 2026: Cyber GCCs in the age of AI",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/09/secure-in-india-2026-cyber-gccs-in-the-age-of-ai.html"
+    },
+    {
+      "index": 3,
+      "title": "RBI establishes unified tech compliance framework for financial sector",
+      "description": "The RBI has issued Master Directions on Cybersecurity, Technology: Risk, Resilience and Assurance Framework, consolidating regulatory expectations across various regulated entities (banks, NBFCs, etc.). This move mandates heightened technology governance, cybersecurity, operational resilience, and information systems assurance, creating a significant, long-term demand for compliance-driven software and services (IN080203) in the financial sector.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-09-01",
+      "source_doc_id": "5117e92b-4f62-5b87-a6be-8443a84e048e",
+      "source_title": "RBI’s technology focused master directions issued on 31 July 2026",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/09/rbis-technology-focused-master-directions-issued-on-31-july-2026.html"
+    },
+    {
+      "index": 4,
+      "title": "AI scaling and execution, not adoption, are core tech challenges",
+      "description": "KPMG's Global Tech Report 2026 highlights that while AI adoption is near-universal among technology organizations, scaling initiatives consistently across the enterprise remains complex. Legacy systems, integration challenges, evolving risk requirements, and talent constraints hinder effective deployment. This suggests that competitive advantage will increasingly depend on operationalizing AI at scale, posing both a challenge and an opportunity for application software (IN080201) and cloud infrastructure providers (IN080202).",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-08-01",
+      "source_doc_id": "0b403e43-acf5-57a1-a26f-44ab7b56230f",
+      "source_title": "KPMG Global tech report 2026: Technology and Telecommunications",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/08/kpmg-global-tech-report-2026-technology-and-telecommunications.html"
+    },
+    {
+      "index": 5,
+      "title": "Indian IT industry projected to double revenue to US$500 billion by 2030",
+      "description": "The IBEF reports that India's IT industry is on track to double its revenue to US$500 billion by 2030, driven by strong export growth, accelerating demand for cloud services, digital transformation, and rapid AI adoption. This optimistic outlook underscores significant opportunities for application software (IN080201), cloud & internet infrastructure (IN080202), and cybersecurity segments (IN080203), fueled by both domestic demand and global capabilities.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india"
+    },
+    {
+      "index": 6,
+      "title": "Agentic AI deployment capabilities critical for Indian enterprise success",
+      "description": "KPMG emphasizes that for Indian enterprises, success with Agentic AI will be determined by strong deployment capabilities rather than just investment in infrastructure or foundation models. The challenge lies in integrating autonomous agents into complex business processes, legacy environments, and governance structures. This creates a critical need for specialized services and software (IN080201) that facilitate responsible, scalable, and impactful AI operationalization, driving a new wave of demand.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-07-01",
+      "source_doc_id": "08800f23-69c1-5c44-81b3-5e61f83ef0f2",
+      "source_title": "The agentic AI imperative: Why Indian enterprises need a new deployment playbook",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/blogs/2026/07/the-agentic-ai-imperative-why-indian-enterprises-need-a-new-deployment-playbook.html"
+    },
+    {
+      "index": 7,
+      "title": "Indian BFSI's limited cyber readiness signals massive demand for cybersecurity solutions",
+      "description": "BCG India's survey reveals Indian BFSI leaders have limited confidence in their controls and operational capabilities to withstand severe AI-enabled cyber incidents. This substantial readiness gap, particularly concerning deepfake social engineering and GenAI data leakage, signifies a critical and urgent demand for advanced cybersecurity software, managed services, and consulting (IN080203). The increasing complexity of attacks underscores a robust growth opportunity for the cybersecurity node.",
+      "stance": "positive",
+      "source_firm": "BCG India",
+      "source_date": "2026-05-29",
+      "source_doc_id": "7cc57110-6fb1-56c5-a166-f141a05208cf",
+      "source_title": "Cybersecurity in the Age of AI",
+      "source_publisher": "bcg_india",
+      "source_url": "https://www.bcg.com/publications/2026/india-cybersecurity-in-the-age-of-ai-bfsi"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 315.4,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rapid AI adoption",
+          "description": "Increasing integration of AI across various roles and business processes drives demand for AI-enabled software and services."
+        },
+        {
+          "driver": "Accelerating cloud and digital transformation",
+          "description": "Enterprises are rapidly adopting cloud solutions and undertaking comprehensive digital transformations, fueling demand for cloud services and supporting software."
+        },
+        {
+          "driver": "Government-led digitalization initiatives",
+          "description": "Government programs aimed at enhancing digital services and IT infrastructure contribute to the overall growth of the IT sector."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected revenue for India's IT industry (till February 2026) based on NASSCOM estimates, including both domestic and export revenue. This encompasses software, internet services, and related IT functions.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Accelerating demand for cloud and digital transformation",
+          "description": "The rapid adoption of cloud services and ongoing digital transformation efforts across industries are driving significant job creation within the cloud ecosystem."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected jobs created by India's cloud industry over a five-year period, reflecting employment growth driven by cloud adoption.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india"
+    },
+    {
+      "index": 3,
+      "tam_value": 131.31,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2032,
+      "forecast_cagr": 42.2,
+      "forecast_cagr_period": "2026-2032",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing demand for AI across sectors",
+          "description": "Increasing integration of AI in various industries and business processes drives market expansion."
+        },
+        {
+          "driver": "Rapid AI adoption",
+          "description": "The rapid pace at which organizations are adopting AI technologies fuels significant market growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Market projection for the Indian AI market.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india"
+    },
+    {
+      "index": 4,
+      "tam_value": 10.9,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": 22.6,
+      "forecast_cagr_period": "2024-2029",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "BFSI sector adoption",
+          "description": "Financial services, banking, and insurance industries are significant consumers of public cloud services for various operations."
+        },
+        {
+          "driver": "Manufacturing sector adoption",
+          "description": "The manufacturing sector leverages cloud services for operational efficiency, supply chain management, and digital transformation."
+        },
+        {
+          "driver": "Government initiatives",
+          "description": "Government projects and e-governance initiatives drive demand for scalable and secure public cloud infrastructure."
+        },
+        {
+          "driver": "Software and media industries",
+          "description": "Software development and media companies utilize public cloud for development, deployment, content delivery, and data storage."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Current market size for India's public cloud services.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india"
+    },
+    {
+      "index": 5,
+      "tam_value": 30.4,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2029,
+      "forecast_cagr": 22.6,
+      "forecast_cagr_period": "2024-2029",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "BFSI sector adoption",
+          "description": "Financial services, banking, and insurance industries are significant consumers of public cloud services for various operations."
+        },
+        {
+          "driver": "Manufacturing sector adoption",
+          "description": "The manufacturing sector leverages cloud services for operational efficiency, supply chain management, and digital transformation."
+        },
+        {
+          "driver": "Government initiatives",
+          "description": "Government projects and e-governance initiatives drive demand for scalable and secure public cloud infrastructure."
+        },
+        {
+          "driver": "Software and media industries",
+          "description": "Software development and media companies utilize public cloud for development, deployment, content delivery, and data storage."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected market size for India's public cloud services.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india"
+    },
+    {
+      "index": 6,
+      "tam_value": 18952.7,
+      "tam_unit": "USD_million",
+      "sam_value": null,
+      "as_of_year": 2033,
+      "forecast_cagr": 8.9,
+      "forecast_cagr_period": "2026-2033",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Digital transformation",
+          "description": "Ongoing digital transformation initiatives across enterprises necessitate robust and modern system infrastructure software."
+        },
+        {
+          "driver": "Cloud adoption",
+          "description": "The increasing shift to cloud environments drives demand for cloud-native and cloud-compatible system software solutions."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected revenue for the system infrastructure software market in India, which includes operating systems, database engines, etc.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "medium",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india"
+    },
+    {
+      "index": 7,
+      "tam_value": 7.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Accelerated domestic demand for AI",
+          "description": "The rapidly growing adoption and development of AI solutions in India necessitate extensive data annotation and labelling services for training AI models."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected market size for India's data annotation and labelling market.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india"
+    },
+    {
+      "index": 8,
+      "tam_value": 6.15,
+      "tam_unit": "USD_trillion",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Data center expansion",
+          "description": "Significant investments in expanding data center capacities globally support broader IT infrastructure and service needs."
+        },
+        {
+          "driver": "AI-enabled software investments",
+          "description": "Increasing adoption of AI-powered software solutions across industries drives substantial IT expenditure."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecasted global IT expenditure.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india"
+    },
+    {
+      "index": 9,
+      "tam_value": 176.3,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Data-center expansion boom",
+          "description": "Rapid growth in data center infrastructure within India fuels related IT expenditure for hardware, software, and services."
+        },
+        {
+          "driver": "AI-enabled software investments",
+          "description": "Increased investments in AI-powered software solutions drive overall IT spending as enterprises adopt advanced technologies."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Expected India IT spending.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india"
+    },
+    {
+      "index": 10,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Active AI initiatives",
+          "description": "Widespread engagement in AI projects and deployments across core technology domains drives value contribution."
+        },
+        {
+          "driver": "Integration into core operations",
+          "description": "AI capabilities are being deeply embedded into fundamental business processes and platforms, generating measurable digital value."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Most technology organizations report that AI accounts for 21–40% of their total digital value, indicating significant integration into core operations and value creation.",
+      "source_firm": "KPMG",
+      "source_date": "2026-08-01",
+      "data_confidence": "high",
+      "source_doc_id": "0b403e43-acf5-57a1-a26f-44ab7b56230f",
+      "source_title": "KPMG Global tech report 2026: Technology and Telecommunications",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/08/kpmg-global-tech-report-2026-technology-and-telecommunications.html"
+    },
+    {
+      "index": 11,
+      "tam_value": 15.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong demand for cloud and AI infrastructure",
+          "description": "Accelerated adoption of cloud computing and AI workloads requires significant data center capacity and services."
+        },
+        {
+          "driver": "AI workloads and robust digital adoption",
+          "description": "The increasing volume of AI processing, coupled with high internet user penetration and digital transactions (e.g., UPI), fuels data center growth."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected market value for India's data center market. The growth is directly driven by the demand for cloud and AI infrastructure, reflecting the consumption model of cloud services.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india"
+    },
+    {
+      "index": 12,
+      "tam_value": 2500.0,
+      "tam_unit": "MW",
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong demand for cloud and AI infrastructure",
+          "description": "The need for scalable compute, storage, and networking for cloud services and AI workloads drives the expansion of data center capacity."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected data center capacity in India, growing from ~870 MW in 2023. This capacity supports the expansion of cloud and AI infrastructure.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "source_title": "Information Technology And BPM Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/information-technology-india"
+    }
+  ],
+  "sources": [
+    "KPMG",
+    "IBEF",
+    "BCG India"
+  ],
+  "documents": [
+    {
+      "doc_id": "0edc3f89-fef7-5634-8175-e4677555dc29",
+      "title": "Empowering defenders: AI for cybersecurity",
+      "publisher": "kpmg",
+      "date": "2026-06-01",
+      "url": "https://kpmg.com/in/en/insights/2026/06/empowering-defenders-ai-for-cybersecurity.html"
+    },
+    {
+      "doc_id": "1897d41d-4764-54f2-87cd-3ce3ad76f038",
+      "title": "Secure in India 2026: Cyber GCCs in the age of AI",
+      "publisher": "kpmg",
+      "date": "2026-09-01",
+      "url": "https://kpmg.com/in/en/insights/2026/09/secure-in-india-2026-cyber-gccs-in-the-age-of-ai.html"
+    },
+    {
+      "doc_id": "5117e92b-4f62-5b87-a6be-8443a84e048e",
+      "title": "RBI’s technology focused master directions issued on 31 July 2026",
+      "publisher": "kpmg",
+      "date": "2026-09-01",
+      "url": "https://kpmg.com/in/en/insights/2026/09/rbis-technology-focused-master-directions-issued-on-31-july-2026.html"
+    },
+    {
+      "doc_id": "0b403e43-acf5-57a1-a26f-44ab7b56230f",
+      "title": "KPMG Global tech report 2026: Technology and Telecommunications",
+      "publisher": "kpmg",
+      "date": "2026-08-01",
+      "url": "https://kpmg.com/in/en/insights/2026/08/kpmg-global-tech-report-2026-technology-and-telecommunications.html"
+    },
+    {
+      "doc_id": "62a85ce4-6041-5960-8854-5f49adb24fca",
+      "title": "Information Technology And BPM Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/information-technology-india"
+    },
+    {
+      "doc_id": "08800f23-69c1-5c44-81b3-5e61f83ef0f2",
+      "title": "The agentic AI imperative: Why Indian enterprises need a new deployment playbook",
+      "publisher": "kpmg",
+      "date": "2026-07-01",
+      "url": "https://kpmg.com/in/en/blogs/2026/07/the-agentic-ai-imperative-why-indian-enterprises-need-a-new-deployment-playbook.html"
+    },
+    {
+      "doc_id": "7cc57110-6fb1-56c5-a166-f141a05208cf",
+      "title": "Cybersecurity in the Age of AI",
+      "publisher": "bcg_india",
+      "date": "2026-05-29",
+      "url": "https://www.bcg.com/publications/2026/india-cybersecurity-in-the-age-of-ai-bfsi"
+    }
+  ]
+}

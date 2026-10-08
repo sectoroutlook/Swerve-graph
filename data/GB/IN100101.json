@@ -1,0 +1,513 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Geopolitical conflicts drive energy market volatility and fuel price hikes",
+      "description": "Geopolitical conflicts, such as in the Middle East and the Strait of Hormuz closure, cause persistent volatility and elevated risk premia in global oil and gas markets. This leads to higher wholesale electricity and gas prices, directly impacting the operational costs and profitability of gas-fired power generation in the UK.",
+      "type": "cyclical_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 2,
+      "title": "Electrification and AI data centers boost electricity demand",
+      "description": "The UK is experiencing growing electricity demand due to the electrification of transport, heating, and industry, coupled with the rapid expansion of AI data centers globally. This sustained growth necessitates significant investment in power generation, including dispatchable conventional sources, to ensure affordable and reliable supply in the medium term.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 3,
+      "title": "Gas crucial for balancing intermittent renewables and system reliability",
+      "description": "Natural gas continues to play a critical role in balancing the UK's electricity system. It provides essential flexibility and dispatchable supply during periods of low renewable output, seasonal demand peaks, and wider system stress, ensuring overall grid reliability as renewable power generation expands. This is a fundamental, enduring role for gas-fired conventional power.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 4,
+      "title": "National energy security drives demand for domestic generation",
+      "description": "Geopolitical instability and increasing reliance on energy imports (over 40% of UK needs) have made energy security a strategic priority. This creates a tailwind for domestic production, including conventional power, to reduce exposure to international price shocks, strengthen economic resilience, and protect the UK’s industrial base, necessitating sustained investment.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 5,
+      "title": "Nuclear projects face high capital costs and extended construction timelines",
+      "description": "Nuclear power projects in Europe and the US, exemplified by the UK's Hinkley Point C, suffer from significant capital expenditure inefficiency due to bespoke designs and construction durations exceeding a decade. These factors, alongside environmental mitigation costs and prolonged financing periods, substantially increase project costs and investment risk.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "2ef8b14b-ee2f-5d11-b587-3e73254db23b",
+      "source_title": "Nuclear power: A renaissance in the making",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 6,
+      "title": "UK nuclear projects hampered by complex regulation and policy shifts",
+      "description": "The UK's nuclear sector faces challenges from complex regulatory frameworks, with a single project potentially dealing with up to eight regulators without a designated lead (UK's 2025 Nuclear Regulatory Review). Shifting policy support during construction also creates delays and raises costs, impeding investment and efficient project delivery, prolonging time to market and increasing project uncertainty.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "2ef8b14b-ee2f-5d11-b587-3e73254db23b",
+      "source_title": "Nuclear power: A renaissance in the making",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 7,
+      "title": "State-backed financing and support boost nuclear investment",
+      "description": "Increasing government intervention, including nationalization (e.g., EDF in France) and concessional financing (e.g., French subsidized loans, US loan guarantees), significantly derisks nuclear projects. Sovereign support, export-credit financing, and indexed PPAs improve the investment case, especially for first-of-a-kind projects with high execution risk, attracting private capital and accelerating deployment.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead",
+      "source_date": "2026-09-04"
+    },
+    {
+      "index": 8,
+      "title": "Small Modular Reactors offer cost reduction and accelerated deployment",
+      "description": "Small Modular Reactors (SMRs) are emerging as a key opportunity for nuclear power, promising to reshape the industry through standardization, off-site manufacturing, and serial production. This approach can potentially trim construction times, reduce costs, and allow for deployment in diverse regional grids or industrial hubs where larger reactors are unfeasible, though material impact is longer term.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "2ef8b14b-ee2f-5d11-b587-3e73254db23b",
+      "source_title": "Nuclear power: A renaissance in the making",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 9,
+      "title": "European nuclear availability and renewables drive GB electricity imports",
+      "description": "High forecast nuclear generation availability in Continental Europe, particularly France, combined with growth in renewable generation, is leading to lower wholesale prices in interconnected markets. This suggests Great Britain will typically be a net importer of electricity, especially at times of peak demand, impacting dispatch and revenues for domestic conventional generators.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-14",
+      "source_doc_id": "de027b8e-7d11-5706-a34a-02cf919216b2",
+      "source_title": "Summer Outlook 2026 report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/380251/download",
+      "source_date": "2026-04-14"
+    },
+    {
+      "index": 10,
+      "title": "Increased need for dispatchable generation to reduce output during low demand",
+      "description": "As embedded renewable generation grows and weather-dependent patterns increasingly drive low demand periods, the GB system faces an increase in hours where inflexible generation and imports exceed demand. NESO may issue Negative Reserve Active Power Margin (NRAPM) notices, requiring conventional power stations to reduce output, challenging their operational flexibility and economic dispatch.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-14",
+      "source_doc_id": "de027b8e-7d11-5706-a34a-02cf919216b2",
+      "source_title": "Summer Outlook 2026 report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/380251/download",
+      "source_date": "2026-04-14"
+    },
+    {
+      "index": 11,
+      "title": "Aging coal and thermal fleet retirements create capacity gaps",
+      "description": "A significant portion of the conventional thermal fleet, especially coal plants, is aging and facing retirement (e.g., 50-75 GW in US by 2030). While some plants are being brought back online or having their lifetimes extended for temporary relief, this structural shift poses challenges for maintaining firm capacity and grid reliability in the medium to long term.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-31",
+      "source_doc_id": "a527b6f0-e923-5cde-a6a2-3d9468204534",
+      "source_title": "Powering AI: How real is the risk of overbuilding?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/powering-ai-how-real-is-the-risk-of-overbuilding",
+      "source_date": "2026-07-31"
+    },
+    {
+      "index": 12,
+      "title": "Nuclear supply chains vulnerable to bottlenecks and concentration",
+      "description": "The nuclear industry's supply chain is highly concentrated and susceptible to bottlenecks, particularly for critical components like reactor vessels and specialized materials, which have long lead times. Rebuilding secure fuel cycle supply (e.g., for high-assay low-enriched uranium) requires substantial investment, exposing nuclear projects to policy shifts and trade restrictions, increasing cost and delivery risks.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "2ef8b14b-ee2f-5d11-b587-3e73254db23b",
+      "source_title": "Nuclear power: A renaissance in the making",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 13,
+      "title": "Evolving balancing services markets create new revenue streams",
+      "description": "NESO's development of balancing services markets, including for thermal, voltage, and stability, aims to meet future system needs efficiently and support the Clean Power 2030 ambition. These reforms offer new opportunities for flexible conventional generators to provide essential grid services, enhancing their revenue stacking potential and economic viability, especially for dispatchable assets.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-14",
+      "source_doc_id": "de027b8e-7d11-5706-a34a-02cf919216b2",
+      "source_title": "Summer Outlook 2026 report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/380251/download",
+      "source_date": "2026-04-14"
+    },
+    {
+      "index": 14,
+      "title": "High industrial electricity costs threaten UK manufacturing competitiveness",
+      "description": "Uncompetitive energy costs are a primary driver for industrial businesses, like chemicals, shutting down in the UK. This creates pressure for policymakers to reduce industrial electricity costs, including those derived from conventional generation, to maintain strategic manufacturing capability, which could lead to policy interventions impacting generation revenues or market design and requiring a balanced energy strategy.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Domestic conventional energy crucial for UK security and economic value",
+      "description": "OEUK emphasizes that strengthening domestic energy production, including conventional sources, is vital for UK energy security. Reducing reliance on imports is critical given geopolitical volatility, which affects energy prices, inflation, and supply chains. Domestic production sustains jobs, investment, and strategic industries, underpinning economic competitiveness, making it a central objective for UK energy policy.",
+      "stance": "positive",
+      "source_firm": "OEUK",
+      "source_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "index": 2,
+      "title": "Nuclear power renaissance driven by AI and electrification demand",
+      "description": "McKinsey highlights a renewed interest in nuclear power globally, fueled by soaring electricity demand from AI data centers and broader electrification. Nuclear is valued for its ability to deliver steady, around-the-clock baseload power with minimal carbon emissions, making it a critical component for future energy security and a significant area for investment.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-06-30",
+      "source_doc_id": "2ef8b14b-ee2f-5d11-b587-3e73254db23b",
+      "source_title": "Nuclear power: A renaissance in the making",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making"
+    },
+    {
+      "index": 3,
+      "title": "Conventional generation vital for GB grid stability and supply",
+      "description": "NESO's Summer Outlook 2026 asserts that conventional generation, including gas and nuclear, is essential for Great Britain's electricity system. It ensures sufficient supply to meet peak demand, reserve requirements, and provides critical flexibility and stability for safe, reliable, and efficient operation, especially amid increasing embedded renewable generation and volatile market conditions.",
+      "stance": "positive",
+      "source_firm": "NESO",
+      "source_date": "2026-04-14",
+      "source_doc_id": "de027b8e-7d11-5706-a34a-02cf919216b2",
+      "source_title": "Summer Outlook 2026 report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/380251/download"
+    },
+    {
+      "index": 4,
+      "title": "Gas-fired generation demand accelerating from data centers",
+      "description": "McKinsey reports a sharp increase in demand for gas turbines and backup generation systems, with turbine order books extending beyond 2029. Approximately 60% of Siemens Energy's 14 GW gas-turbine orders in 2025 were linked to data center projects, signaling significant and growing demand for gas-fired power to secure firm, reliable supply for this rapidly expanding sector.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead"
+    },
+    {
+      "index": 5,
+      "title": "UK/European nuclear projects burdened by high capital costs",
+      "description": "McKinsey identifies capital expenditure inefficiency from longer construction times and bespoke designs as a major cost driver for nuclear projects in Europe and the US. The Hinkley Point C project in the UK exemplifies this, with construction taking over a decade and environmental requirements adding significant costs, challenging the economic viability of new builds and requiring substantial financial support.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-06-30",
+      "source_doc_id": "2ef8b14b-ee2f-5d11-b587-3e73254db23b",
+      "source_title": "Nuclear power: A renaissance in the making",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making"
+    },
+    {
+      "index": 6,
+      "title": "Growing LNG reliance increases gas power's market and geopolitical risk",
+      "description": "OEUK highlights that the UK's increasing dependence on LNG imports for gas supply exposes gas-fired power generation to greater global market volatility, geopolitical risks, and higher lifecycle emissions. This vulnerability, exacerbated by events like the Strait of Hormuz conflict, underscores the need for greater domestic energy resilience and diversified supply to mitigate price shocks.",
+      "stance": "cautious_negative",
+      "source_firm": "OEUK",
+      "source_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "index": 7,
+      "title": "Governments increasingly nationalizing or supporting nuclear assets",
+      "description": "European policymakers are adopting a more active role in critical energy infrastructure, including direct stakes in nuclear fleets. Examples include France's nationalization of EDF and Belgium's negotiations with Engie. This trend reflects a shift away from purely market-based models, providing stability and support for nuclear investment amidst high capital requirements and security of supply concerns.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-04",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead"
+    },
+    {
+      "index": 8,
+      "title": "Dispatchable generators face challenges during extended low demand",
+      "description": "NESO anticipates that managing the GB electricity system during extended low demand periods, driven by high renewable generation, will increasingly require dispatchable conventional generators to reduce output. This impacts their operational flexibility and market participation, as lower prices lead to fewer self-dispatching conventional units and reduced system inertia, necessitating new operational tools.",
+      "stance": "cautious_negative",
+      "source_firm": "NESO",
+      "source_date": "2026-04-14",
+      "source_doc_id": "de027b8e-7d11-5706-a34a-02cf919216b2",
+      "source_title": "Summer Outlook 2026 report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/380251/download"
+    },
+    {
+      "index": 9,
+      "title": "Coal and aging thermal plant retirements create capacity gaps",
+      "description": "McKinsey projects significant capacity gaps in the US due to the retirement of 50-75 GW of coal and aging thermal plants by 2030. To maintain grid reliability, utilities are bringing retired coal and gas plants back online and extending their lifetimes. This indicates a short-term need for conventional dispatchable power despite long-term decarbonization goals, highlighting a tension in energy transition.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-07-31",
+      "source_doc_id": "a527b6f0-e923-5cde-a6a2-3d9468204534",
+      "source_title": "Powering AI: How real is the risk of overbuilding?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/powering-ai-how-real-is-the-risk-of-overbuilding"
+    },
+    {
+      "index": 10,
+      "title": "SMRs offer future scaling opportunity despite delayed impact",
+      "description": "McKinsey highlights Small Modular Reactors (SMRs) as an emerging technology attracting significant capital and interest, promising low-carbon firm power. While SMRs could reshape the nuclear industry through standardization and modular production, their material impact on system capacity is unlikely before the mid-2030s, indicating a long-term opportunity with medium-term limitations requiring staged commitments.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-07-31",
+      "source_doc_id": "a527b6f0-e923-5cde-a6a2-3d9468204534",
+      "source_title": "Powering AI: How real is the risk of overbuilding?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/powering-ai-how-real-is-the-risk-of-overbuilding"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 1200.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "to 2050",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI data center expansion",
+          "description": "Explosion of AI data centers requiring immense computational power and firm, dedicated electricity supply."
+        },
+        {
+          "driver": "Electrification of transport, heating, and industry",
+          "description": "Increasing electricity demand as various sectors transition from fossil fuels to electric power sources."
+        },
+        {
+          "driver": "Energy security and geopolitical resilience",
+          "description": "Growing focus on reliable domestic energy supply to reduce dependence on volatile imported fuels and enhance national security."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Capital expenditure",
+          "description": "Dominant cost component, influenced by construction timelines, design standardization, and supply chain efficiency, significantly impacting levelized cost of energy."
+        },
+        {
+          "driver": "Fuel costs",
+          "description": "Account for a portion of levelized costs, stable once constructed, but supply chain security (uranium) is a factor."
+        },
+        {
+          "driver": "Operational and maintenance costs",
+          "description": "Include labor and ongoing maintenance, contributing to the overall levelized cost."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Potential for standardization, off-site manufacturing, and serial production to reduce construction times and costs, enabling deployment in diverse locations.",
+          "opportunity": "Small Modular Reactors (SMRs)"
+        },
+        {
+          "description": "Generation IV reactors offer higher output steam temperatures, opening opportunities for industrial process applications, district heating, and desalination.",
+          "opportunity": "Direct use of nuclear heat/steam"
+        },
+        {
+          "description": "Large technology companies are investing in on-site or dedicated nuclear power solutions to ensure firm, low-carbon electricity supply for their digital infrastructure needs.",
+          "opportunity": "Dedicated power for data centers"
+        }
+      ],
+      "methodology": "McKinsey Global Energy Perspective's net-zero scenarios project global nuclear capacity could double to triple by midcentury.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-06-30",
+      "data_confidence": "high",
+      "source_doc_id": "2ef8b14b-ee2f-5d11-b587-3e73254db23b",
+      "source_title": "Nuclear power: A renaissance in the making",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making"
+    },
+    {
+      "index": 2,
+      "tam_value": 5.5,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Energy security",
+          "description": "Countries without abundant domestic fossil-fuel resources prioritize nuclear for energy security and resilience."
+        },
+        {
+          "driver": "Decarbonization goals",
+          "description": "Nuclear provides low-carbon, baseload power to meet climate targets."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Financing costs",
+          "description": "Long construction timelines keep capital at risk longer, amplifying interest costs; concessional financing and state support are critical."
+        },
+        {
+          "driver": "Capital expenditure inefficiency",
+          "description": "Longer construction times and bespoke designs add substantial costs in Europe and the US, impacting project economics."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "European nuclear power production pipeline, with 5.5 GW currently under construction.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-06-30",
+      "data_confidence": "medium",
+      "source_doc_id": "2ef8b14b-ee2f-5d11-b587-3e73254db23b",
+      "source_title": "Nuclear power: A renaissance in the making",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making"
+    },
+    {
+      "index": 3,
+      "tam_value": 14.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Data center capacity expansion",
+          "description": "Explosion of AI-driven data centers globally, requiring immediate and firm power supply beyond what renewables can reliably provide."
+        },
+        {
+          "driver": "Grid reliability and flexibility",
+          "description": "Need for dispatchable and backup generation systems like gas turbines to ensure grid stability and secure power in power-constrained locations."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Equipment and infrastructure costs",
+          "description": "Increased competition for critical equipment (turbines, engines, transformers) leading to sharp rises in demand and extended lead times, affecting project costs."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Utilities and energy providers can offer bridge and backup power for data centers needing expedited connection and secure supply ahead of traditional grid upgrades.",
+          "opportunity": "Bridge and backup power solutions"
+        },
+        {
+          "description": "Developing microgrid solutions for data centers to operate independently of the main grid, offering enhanced resilience and round-the-clock clean power options.",
+          "opportunity": "Microgrid services"
+        }
+      ],
+      "methodology": "Siemens Energy reported year-to-date gas-turbine orders, with approximately 60% linked to data center projects. This reflects the rapidly growing demand for firm, dispatchable power for digital infrastructure.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-04",
+      "data_confidence": "high",
+      "source_doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "source_title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead"
+    }
+  ],
+  "sources": [
+    "OEUK",
+    "McKinsey",
+    "NESO"
+  ],
+  "documents": [
+    {
+      "doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "title": "Economic Report 2026",
+      "publisher": "oeuk",
+      "date": "2026-09-08",
+      "url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "doc_id": "2ef8b14b-ee2f-5d11-b587-3e73254db23b",
+      "title": "Nuclear power: A renaissance in the making",
+      "publisher": "mckinsey",
+      "date": "2026-06-30",
+      "url": "https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making"
+    },
+    {
+      "doc_id": "de027b8e-7d11-5706-a34a-02cf919216b2",
+      "title": "Summer Outlook 2026 report",
+      "publisher": "neso",
+      "date": "2026-04-14",
+      "url": "https://www.neso.energy/document/380251/download"
+    },
+    {
+      "doc_id": "abf8894a-9f2f-5707-b21c-8bb8b0ec3a61",
+      "title": "Utilities at an inflection point: Four strategic evolutions ahead",
+      "publisher": "mckinsey",
+      "date": "2026-09-04",
+      "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/utilities-at-an-inflection-point-four-strategic-evolutions-ahead"
+    },
+    {
+      "doc_id": "a527b6f0-e923-5cde-a6a2-3d9468204534",
+      "title": "Powering AI: How real is the risk of overbuilding?",
+      "publisher": "mckinsey",
+      "date": "2026-07-31",
+      "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/powering-ai-how-real-is-the-risk-of-overbuilding"
+    }
+  ]
+}

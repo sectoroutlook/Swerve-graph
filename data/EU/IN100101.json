@@ -1,0 +1,226 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Electrification and data centers drive rising electricity demand",
+      "description": "Global power demand is projected to increase by approximately 3.1% annually, reaching 38,000 TWh by 2035. This is fueled by the electrification of road transport (EV fleet expanding >20% annually), adoption of electric technologies like heat pumps in buildings/industry, and data center expansion, all necessitating more power generation and grid capacity.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Transformer supply shortage delays generation project timelines",
+      "description": "The transformer industry is experiencing a supercycle, with demand outrunning supply due to rising electricity needs and renewable integration. Lead times have stretched to five years, and prices surged over 50% since 2021. This scarcity means generation developers, including conventional power plants, face significant delays in connecting new capacity to the grid, impacting project commissioning.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Aging grid infrastructure requires extensive replacement and upgrades",
+      "description": "Much of Europe and North America's grid infrastructure is past its design life (25-40 years), necessitating significant replacement investment for components like transformers. New units are often larger to accommodate higher power needs. This structural trend creates ongoing demand for grid stability, often supported by dispatchable conventional generation during infrastructure transitions and increased load.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Shift to smaller gas plants creates granular grid connection needs",
+      "description": "A parallel shift within conventional generation sees coal declining (1% annually) while gas increases (3% annually). The replacement of larger coal facilities by new, smaller gas plants results in more granular grid connection requirements, impacting transmission and distribution planning for these dispatchable assets.",
+      "type": "structural_change",
+      "impact_magnitude": "low",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "European countries delay coal plant retirements for capacity",
+      "description": "In response to energy security concerns and lost gas imports, some European countries are delaying or reviewing the retirement of existing coal-fired power plants. This measure is intended to retain spare generation capacity for several years, providing essential dispatchable power and offsetting supply shortfalls, thereby extending the operational lifespan and relevance of conventional coal generation assets.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
+      "source_date": "2026-09-17",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Elevated European gas prices due to LNG supply disruptions",
+      "description": "LNG supply disruptions, notably from the Strait of Hormuz crisis and physical damage to liquefaction units (e.g., in Qatar), have caused benchmark gas prices in Europe to nearly double year-on-year. With reconstruction potentially taking three to five years, this implies sustained high and volatile gas prices, increasing operational costs and market uncertainty for gas-fired conventional power generators.",
+      "type": "cyclical_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
+      "source_date": "2026-09-17",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Norway exploring new oil and gas capacity for energy security",
+      "description": "As part of broader energy security initiatives, Norway is discussing increasing its oil and gas production capacity. This move aims to diversify energy supply routes and reduce exposure to geopolitical chokepoints. For conventional power generation, this represents a potential upside by ensuring a more secure and possibly more localized supply of gas as a primary fuel source.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
+      "source_date": "2026-09-17",
+      "country_focus": "NO"
+    },
+    {
+      "index": 8,
+      "title": "European LNG buyers increase investment in supply resilience",
+      "description": "Approximately 66% of LNG buyers, including those in Europe, are planning to increase investments in resilience measures in response to geopolitical disruptions. Key investments include storage infrastructure, shipping, and upstream equity. This strategic shift aims to secure future gas supply, which could benefit conventional gas-fired power generation by ensuring fuel availability, albeit potentially at a higher cost.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "8e80a468-b70d-5c32-a0ae-06a991df360f",
+      "source_title": "LNG buyers’ sentiment: Disruption and implications for procurement",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement",
+      "source_date": "2026-09-11",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "European countries delay coal plant retirements for energy security",
+      "description": "Faced with energy supply disruptions, some European countries are delaying or reviewing the retirements of existing coal-fired power plants for several years. This strategic decision aims to retain spare generation capacity and compensate for lost gas imports, indicating a cautious approach to decarbonization when immediate energy security is at risk, directly impacting the operational longevity of conventional coal assets.",
+      "stance": "cautious_positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-17",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Norway discusses new oil and gas capacity to enhance energy security",
+      "description": "In response to global energy security concerns following the Strait of Hormuz crisis, Norway is actively discussing new oil and gas production capacity. This initiative aims to diversify supply and reduce exposure to geopolitical chokepoints, potentially increasing the availability of gas for conventional gas-fired power generation in Europe, thereby strengthening the energy supply chain for IN100101.",
+      "stance": "positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-17",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
+      "country_focus": "NO"
+    },
+    {
+      "index": 3,
+      "title": "European LNG buyers prioritize security over cost amid geopolitical disruptions",
+      "description": "European LNG buyers, along with others, anticipate a shift in procurement strategies due to global supply chain disruptions like the Strait of Hormuz crisis. While less impacted than Asian counterparts, many expect incremental to structural changes, moving from a cost minimization focus to prioritizing security of supply. This implies a willingness to pay a premium for reliable LNG, impacting fuel costs for gas-fired conventional power generation.",
+      "stance": "cautious_positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-11",
+      "source_doc_id": "8e80a468-b70d-5c32-a0ae-06a991df360f",
+      "source_title": "LNG buyers’ sentiment: Disruption and implications for procurement",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement",
+      "country_focus": "EU"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 3.1,
+      "forecast_cagr_period": "2025-2035",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Electrification across industries",
+          "description": "Increasing electrification of road transport (EV fleet expanding >20% annually) and adoption of electric technologies like heat pumps in buildings and industry."
+        },
+        {
+          "driver": "Data center expansion",
+          "description": "Growth in data center infrastructure contributes significantly to overall electricity demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Global power demand is projected to increase by approximately 3.1% annually, reaching roughly 38,000 TWh by 2035. This demand growth directly increases the overall requirement for electricity generation, including conventional sources.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "mckinsey"
+  ],
+  "documents": [
+    {
+      "doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "publisher": "mckinsey",
+      "date": "2026-09-17",
+      "url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis"
+    },
+    {
+      "doc_id": "8e80a468-b70d-5c32-a0ae-06a991df360f",
+      "title": "LNG buyers’ sentiment: Disruption and implications for procurement",
+      "publisher": "mckinsey",
+      "date": "2026-09-11",
+      "url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement"
+    },
+    {
+      "doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "title": "The transformer supercycle: Why demand is outrunning supply",
+      "publisher": "mckinsey",
+      "date": "2026-09-18",
+      "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply"
+    }
+  ]
+}

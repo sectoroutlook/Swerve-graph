@@ -1,0 +1,320 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "UK's Net Zero Mandate Drives Renewable Energy Expansion",
+      "description": "The UK has a legally binding target to achieve net zero emissions by 2050. This overarching policy objective necessitates a fundamental transformation of the energy system, including a significant shift towards low-carbon electricity generation. For solar power, this creates a strong, long-term demand and policy support framework, ensuring its integral role in the UK's decarbonization strategy and stimulating continuous investment and deployment.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "6c21b4ea-6c8c-5b82-b172-a7f45f0ac7fc",
+      "source_title": "UK energy transition journey",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/energy/analysis/uk-energy-transition.html",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 2,
+      "title": "Declining Costs of Solar PV and Battery Storage Technologies",
+      "description": "The global solar industry has seen dramatic cost reductions, with solar panel prices falling by approximately 98% since the 1990s and battery costs declining by about 75% over the past decade. These cost efficiencies, driven by manufacturing scale, technological advancements, and supply chain improvements primarily led by Chinese manufacturers, make solar PV an increasingly affordable and competitive electricity source in the UK, enhancing its economic viability for new projects.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "b4a8f308-0833-5489-ad37-382ee151f4d3",
+      "source_title": "Solar power: From intermittent sunshine to reliable power",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/solar-power-from-intermittent-sunshine-to-reliable-power",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 3,
+      "title": "Hybrid Solar-BESS Projects Enhance Reliability and Value",
+      "description": "The adoption of hybrid solar PV and battery energy storage systems (BESS) is accelerating due to their ability to transform intermittent solar output into reliable, dispatchable power. This integration allows electricity to be stored during low-price, high-supply hours and discharged when demand and prices are higher, significantly boosting revenues ($10-$20 per MWh) and improving the risk-return profile (1-2% IRR increase in European markets). This makes solar projects more attractive for investment in the UK.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "b4a8f308-0833-5489-ad37-382ee151f4d3",
+      "source_title": "Solar power: From intermittent sunshine to reliable power",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/solar-power-from-intermittent-sunshine-to-reliable-power",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 4,
+      "title": "Policy Levers and Public Finance Reduce Capital Costs",
+      "description": "The UK government's potential to shift key policy levies onto general taxation could provide near-term relief for electricity bills, thereby supporting demand growth. Additionally, leveraging public finance through mechanisms like the National Wealth Fund to lower the risk-adjusted cost of capital for new infrastructure projects, including renewables, can lead to lower strike prices or regulated revenues, making solar developments more financially attractive and accelerating deployment.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "c96312a0-006f-538a-8156-4ae575a7b143",
+      "source_title": "To Cut Electricity Bills, Britain Needs to Use More, Not Less",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/united-kingdom/centre-for-growth/insights/to-cut-electricity-bills-britain-needs-to-use-more-not-less",
+      "source_date": "2026-08-26"
+    },
+    {
+      "index": 5,
+      "title": "New Market for Powered Land Accelerates Utility-Scale Solar",
+      "description": "A significant opportunity exists in the UK for utility-scale solar development by creating a national \"Powered Land Register.\" This initiative would identify and make accessible around 18 GW of potential powered land from former power generation and brownfield sites not currently in use. Publishing this register could fast-track connections for large demand centers, including solar farms, by clarifying grid capacity, constraints, and planning status, ultimately boosting solar deployment.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "c96312a0-006f-538a-8156-4ae575a7b143",
+      "source_title": "To Cut Electricity Bills, Britain Needs to Use More, Not Less",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/united-kingdom/centre-for-growth/insights/to-cut-electricity-bills-britain-needs-to-use-more-not-less",
+      "source_date": "2026-08-26"
+    },
+    {
+      "index": 6,
+      "title": "AI-Enabled Strategies Boost Battery and Hybrid Project Profitability",
+      "description": "AI-enabled dispatch and bidding strategies offer a significant opportunity to enhance the profitability of battery storage and hybrid solar-plus-storage projects. By helping operators make real-time decisions on when to charge, discharge, and sell power into volatile markets, AI can lift battery profits by more than 20%. This technological advancement allows solar power to be traded more efficiently, maximizing revenue and optimizing asset utilization, crucial for maintaining competitiveness in evolving markets.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "b4a8f308-0833-5489-ad37-382ee151f4d3",
+      "source_title": "Solar power: From intermittent sunshine to reliable power",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/solar-power-from-intermittent-sunshine-to-reliable-power",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 7,
+      "title": "Grid Infrastructure Lags Behind Renewable Generation Build-Out",
+      "description": "A significant constraint for solar power, particularly in the UK and globally, is that transmission build-out often lags far behind generation capacity additions. This is due to long connection queues, complex permitting processes, and supply-chain bottlenecks for critical equipment. This delay can lead to increased curtailment of renewable energy, higher constraint costs, and hinder the efficient integration of new solar projects, limiting their full potential and increasing system costs.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-01",
+      "source_doc_id": "a76c363d-148b-571c-9fb9-eb24b3bb00e7",
+      "source_title": "Investing in the energy transition: Time to look at whole-system value",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value",
+      "source_date": "2026-09-01"
+    },
+    {
+      "index": 8,
+      "title": "Wholesale Price Volatility and Negative Prices for Intermittent Renewables",
+      "description": "As more intermittent renewable energy, like solar, comes online, wholesale electricity prices become increasingly sensitive to supply fluctuations. During periods of high solar output, prices can fall or even turn negative, reducing profitability for solar generators without adequate storage capabilities. This volatility, driven by surges of renewable energy and local grid conditions, makes monetizing generation challenging and highlights the need for flexible solutions and sophisticated trading strategies.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-24",
+      "source_doc_id": "2bcc7669-baf5-5573-acbf-f6eae44e845f",
+      "source_title": "Power, Gas, and LNG Trading: Racing to Compete in the Coming Decade",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-power-gas-trading-firms-compete-by-2035",
+      "source_date": "2026-08-24"
+    },
+    {
+      "index": 9,
+      "title": "Concentrated Supply Chains for Solar Modules and Batteries in China",
+      "description": "The global supply chain for solar modules and battery cells is highly concentrated in China, with Chinese manufacturers supplying over 80% of global solar modules and 75% of battery cell production. This reliance creates a significant resilience risk for low-carbon technologies, including UK solar power projects. Geopolitical tensions or supply disruptions could lead to increased costs, delays, and supply shortages for critical equipment, potentially hindering deployment and increasing project risks.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-01",
+      "source_doc_id": "a76c363d-148b-571c-9fb9-eb24b3bb00e7",
+      "source_title": "Investing in the energy transition: Time to look at whole-system value",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value",
+      "source_date": "2026-09-01"
+    },
+    {
+      "index": 10,
+      "title": "Land Constraints for Utility-Scale Solar Projects in Europe",
+      "description": "In land-constrained markets such as Europe, including the UK, utility-scale solar projects tend to be smaller and more distributed compared to regions with abundant land. This geographical limitation can restrict the deployment of very large solar farms, which benefit from economies of scale (e.g., doubling project size can reduce capital costs per watt by about 7%). These constraints can influence project design, costs, and overall capacity expansion for large solar installations in the UK.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "b4a8f308-0833-5489-ad37-382ee151f4d3",
+      "source_title": "Solar power: From intermittent sunshine to reliable power",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/solar-power-from-intermittent-sunshine-to-reliable-power",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 11,
+      "title": "Higher Costs for Firming Solar Power with Battery Storage",
+      "description": "While essential for reliability, the \"firming premium\"—the additional cost of converting variable solar output into round-the-clock power using battery storage and overbuilt solar capacity—significantly adds to the levelized cost of energy (LCOE) for solar PV projects. This premium can add $30 to $70 per MWh, largely reflecting the capital expenditure for battery systems and higher transportation/logistics costs and tariffs due to China's dominant supplier role. This increases overall project costs.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "b4a8f308-0833-5489-ad37-382ee151f4d3",
+      "source_title": "Solar power: From intermittent sunshine to reliable power",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/solar-power-from-intermittent-sunshine-to-reliable-power",
+      "source_date": "2026-06-30"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "UK's Net Zero Mandate Drives Demand for Low-Carbon Electricity Sources",
+      "description": "Deloitte UK highlights the UK's legal target to achieve net zero by 2050, emphasizing the need to decarbonize the electricity supply by substituting natural gas with low-carbon sources. This transformation, billed as the biggest economic shift since the industrial revolution, necessitates a concerted effort across society, businesses, academia, and government. The commitment to green growth and electricity decarbonization provides a significant and sustained positive outlook for renewable energy sectors, including solar power, as the UK moves to replace fossil fuels.",
+      "stance": "positive",
+      "source_firm": "Deloitte UK",
+      "source_date": "2026-06-30",
+      "source_doc_id": "6c21b4ea-6c8c-5b82-b172-a7f45f0ac7fc",
+      "source_title": "UK energy transition journey",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/energy/analysis/uk-energy-transition.html"
+    },
+    {
+      "index": 2,
+      "title": "Hybrid Solar PV with Storage Transforms Intermittent Power to Reliable Electricity",
+      "description": "McKinsey views solar photovoltaic (PV) projects, especially when combined with battery energy storage systems (BESS), as pivotal for transforming intermittent output into more reliable, higher-value electricity. This approach is critical for meeting growing energy demand and reducing carbon emissions. The integration of BESS addresses the variable nature of solar power, making it a more dependable and valuable component of the energy mix, thereby improving its economics and accelerating its adoption in many markets, including the UK.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-06-30",
+      "source_doc_id": "b4a8f308-0833-5489-ad37-382ee151f4d3",
+      "source_title": "Solar power: From intermittent sunshine to reliable power",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/solar-power-from-intermittent-sunshine-to-reliable-power"
+    },
+    {
+      "index": 3,
+      "title": "Solar PV Remains Second Largest Renewable Power Generator in UK",
+      "description": "Offshore Energies UK (OEUK) indicates that while offshore wind power generation has significantly expanded to almost 17 GW and is the largest producer of renewable electricity in the UK, solar PV remains the second largest for installed renewable power generation. This highlights solar's established and substantial contribution to the UK's renewable energy mix, despite offshore wind's recent rapid growth. This consistent position signals a stable and ongoing role for solar in the country's energy transition.",
+      "stance": "cautious_positive",
+      "source_firm": "OEUK",
+      "source_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "index": 4,
+      "title": "Britain's Firm Commitment to Low-Carbon Generation Ensures Sector Stability",
+      "description": "BCG Global notes that Britain is committed to a low-carbon generation mix, stating that \"any change of direction would be a huge undertaking that would not bring bills down within five years.\" This signifies a durable policy framework supporting renewable energy sources, including solar. The commitment implies long-term strategic stability for investments in low-carbon technologies, reducing policy uncertainty for solar developers and operators over the medium term, even as immediate affordability challenges remain a focus for electricity bills.",
+      "stance": "positive",
+      "source_firm": "BCG_Global",
+      "source_date": "2026-08-26",
+      "source_doc_id": "c96312a0-006f-538a-8156-4ae575a7b143",
+      "source_title": "To Cut Electricity Bills, Britain Needs to Use More, Not Less",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/united-kingdom/centre-for-growth/insights/to-cut-electricity-bills-britain-needs-to-use-more-not-less"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 20.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Domestic Electrification & Energy Efficiency",
+          "description": "Increased household demand for electricity, coupled with a desire for energy efficiency and self-consumption, drives the adoption of rooftop solar systems in the UK."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Rising battery attachment rates in homes can significantly increase the self-consumption of rooftop solar output from one-third to 60-80%, effectively doubling its impact and value to homeowners.",
+          "opportunity": "Increased Battery Attachment for Rooftop Solar"
+        }
+      ],
+      "methodology": "BCG UK Power Model's central baseline scenario forecasts domestic rooftop self-consumption. This figure models micro-scale solar with a 'no-battery' assumption, where approximately one-third of output is consumed on site. The report notes that rising battery attachment rates could raise the self-consumption share to 60-80%, effectively doubling the impact.",
+      "source_firm": "BCG_Global",
+      "source_date": "2026-08-26",
+      "data_confidence": "high",
+      "source_doc_id": "c96312a0-006f-538a-8156-4ae575a7b143",
+      "source_title": "To Cut Electricity Bills, Britain Needs to Use More, Not Less",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/united-kingdom/centre-for-growth/insights/to-cut-electricity-bills-britain-needs-to-use-more-not-less"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "UK Electricity Decarbonization",
+          "description": "The broader UK goal of decarbonizing electricity supply and increasing renewable energy penetration drives the demand for all renewable technologies, including solar PV, positioning it as a key component of the energy mix."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "OEUK's Economic Report 2026 indicates that offshore wind installed capacity reached almost 17 GW by 2025, making it the largest producer of renewable electricity in the UK. The report explicitly states that solar PV is 'second only to solar PV for installed renewable power generation'. While an exact GW figure for UK solar PV is not provided, this relative ranking clearly implies a substantial installed base for solar.",
+      "source_firm": "OEUK",
+      "source_date": "2026-09-08",
+      "data_confidence": "medium",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    }
+  ],
+  "sources": [
+    "Deloitte UK",
+    "McKinsey",
+    "OEUK",
+    "BCG_Global"
+  ],
+  "documents": [
+    {
+      "doc_id": "6c21b4ea-6c8c-5b82-b172-a7f45f0ac7fc",
+      "title": "UK energy transition journey",
+      "publisher": "deloitte_uk",
+      "date": "2026-06-30",
+      "url": "https://www.deloitte.com/uk/en/Industries/energy/analysis/uk-energy-transition.html"
+    },
+    {
+      "doc_id": "b4a8f308-0833-5489-ad37-382ee151f4d3",
+      "title": "Solar power: From intermittent sunshine to reliable power",
+      "publisher": "mckinsey",
+      "date": "2026-06-30",
+      "url": "https://www.mckinsey.com/mgi/our-research/solar-power-from-intermittent-sunshine-to-reliable-power"
+    },
+    {
+      "doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "title": "Economic Report 2026",
+      "publisher": "oeuk",
+      "date": "2026-09-08",
+      "url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "doc_id": "c96312a0-006f-538a-8156-4ae575a7b143",
+      "title": "To Cut Electricity Bills, Britain Needs to Use More, Not Less",
+      "publisher": "bcg_global",
+      "date": "2026-08-26",
+      "url": "https://www.bcg.com/united-kingdom/centre-for-growth/insights/to-cut-electricity-bills-britain-needs-to-use-more-not-less"
+    },
+    {
+      "doc_id": "a76c363d-148b-571c-9fb9-eb24b3bb00e7",
+      "title": "Investing in the energy transition: Time to look at whole-system value",
+      "publisher": "mckinsey",
+      "date": "2026-09-01",
+      "url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value"
+    },
+    {
+      "doc_id": "2bcc7669-baf5-5573-acbf-f6eae44e845f",
+      "title": "Power, Gas, and LNG Trading: Racing to Compete in the Coming Decade",
+      "publisher": "bcg_global",
+      "date": "2026-08-24",
+      "url": "https://www.bcg.com/publications/2026/how-power-gas-trading-firms-compete-by-2035"
+    }
+  ]
+}

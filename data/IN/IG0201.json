@@ -1,0 +1,764 @@
+{
+  "geography": "IN",
+  "forces": [
+    {
+      "index": 1,
+      "title": "AI Demand Driving Growth in Specialized Electronic Chemicals",
+      "description": "Accelerating demand for AI, extending beyond software into microchips, memory, and storage, is creating significant opportunities for chemical companies. This structural shift drives the need for specialized electronic chemicals and materials like photoresist, wet chemicals, and thermally conductive adhesives crucial for manufacturing advanced semiconductors and thermal management solutions in data centers. This segment offers high growth (5-10% CAGR) and attractive EBITDA margins (>20%), underpinned by structural expansion and high entry barriers, positioning it as a key value creation area for the chemicals sector.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "20d743de-6bbb-5109-b758-cb89752d24ff",
+      "source_title": "Opportunities for Chemical Companies in the AI Infrastructure Boom",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-chemical-companies-find-new-growth",
+      "source_date": "2026-09-04"
+    },
+    {
+      "index": 2,
+      "title": "India's Fertiliser Sector Exposed to LNG Import Dependence",
+      "description": "India’s fertiliser sector faces a critical structural risk due to its high dependence on imported LNG for ammonia and urea production. Approximately 50% of India's LNG demand is met through imports, primarily from the Gulf. Geopolitical disruptions, such as those in the Strait of Hormuz, quickly cascade into domestic LNG price surges, supply risks, and fiscal pressures. This vulnerability increases production costs for nitrogenous fertilisers and poses risks to agricultural productivity and food security, making LNG supply reliability a strategic national concern beyond commercial considerations.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-01",
+      "source_doc_id": "8ba91f85-d5b8-5664-b3ec-ec6083475d8b",
+      "source_title": "From LNG dependence to domestic resilience: Securing India's fertiliser future",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/07/from-lng-dependence-to-domestic-resilience-securing-indias-fertiliser-future.html",
+      "source_date": "2026-07-01"
+    },
+    {
+      "index": 3,
+      "title": "Biogas Offers Strategic Alternative Feedstock for Fertiliser Production",
+      "description": "Biogas and compressed biogas (CBG) present a potential domestic alternative to imported natural gas in fertiliser production. Produced from local biomass, biogas can be upgraded to biomethane, serving as a renewable feedstock for hydrogen production, essential for ammonia synthesis. This integration reduces reliance on imported fossil fuels and offers a dual advantage by producing digestate as organic fertilisers (PROM), improving soil quality and lowering farmer input costs. While not an immediate replacement, scaling biogas production in high biomass regions provides a supplementary buffer and strengthens domestic resilience.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-01",
+      "source_doc_id": "8ba91f85-d5b8-5664-b3ec-ec6083475d8b",
+      "source_title": "From LNG dependence to domestic resilience: Securing India's fertiliser future",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/07/from-lng-dependence-to-domestic-resilience-securing-indias-fertiliser-future.html",
+      "source_date": "2026-07-01"
+    },
+    {
+      "index": 4,
+      "title": "Petrochemical Feedstock Shift: Ethane Advantage vs. Naphtha Necessity",
+      "description": "The global polyethylene (PE) production landscape is undergoing a structural change driven by feedstock economics. Ethane-based production in regions like the US Gulf Coast and Saudi Arabia benefits from significantly cheaper, locally abundant natural gas liquids, making them export hubs. However, ethane cracking yields limited byproducts. Naphtha cracking, while costlier, produces essential byproducts (propylene, aromatics) vital for a broader petrochemical ecosystem (rubbers, synthetic fibers). Declining oil refining due to electrified transport could reduce naphtha supply, constraining these critical byproducts and adding complexity to global petrochemical supply chains, impacting IN020103.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "25f8e4b0-3cfc-5e78-ae49-998947f7f7ed",
+      "source_title": "Polyethylene: Widely produced—but not one-size-fits-all",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/polyethylene-widely-produced-but-not-one-size-fits-all",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 5,
+      "title": "China's State-Driven PE Capacity Expansion Disrupts Global Market",
+      "description": "China's disproportionate investment in polyethylene (PE) manufacturing capacity, despite its predominantly naphtha-based (higher cost) processes and low project-level returns, represents a significant structural change. Driven by state-owned enterprises focused on industrial development and self-sufficiency, China aims for PE self-sufficiency by 2030. This expansion could lead to global overcapacity, pressuring margins for even competitive exporters and shifting global trade flows, particularly from Middle Eastern and US hubs. This challenges traditional cost-competitiveness models and intensifies global competition for IN020103.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "25f8e4b0-3cfc-5e78-ae49-998947f7f7ed",
+      "source_title": "Polyethylene: Widely produced—but not one-size-fits-all",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/polyethylene-widely-produced-but-not-one-size-fits-all",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 6,
+      "title": "Digital Transformation and AI Integration in Chemicals Operations",
+      "description": "The Chemicals industry is undergoing a significant digital transformation, with a strong focus on data, analytics, AI, and the modernization of core operational systems. Energy and extractives, including chemicals, are actively integrating AI and emerging technologies into their operations. This structural change aims to shift from pilot projects to full-scale deployments, enhancing scale, responsiveness, and safety. Key priorities include improving data flows, data security, data-powered decision-making, and fostering a strong data culture. This transformation is expected to create hybrid human-digital operating models, boosting efficiency and competitiveness across IG0201.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "158e02e3-416c-546b-9b9e-93bc463af41b",
+      "source_title": "KPMG Global tech report 2026: Energy, Natural Resources and Chemicals",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/kpmg-global-tech-report-2026-energy-natural-resources-and-chemicals.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 7,
+      "title": "Growing Domestic Demand Fuels India's Chemical Market",
+      "description": "India's chemical industry benefits from robust and growing domestic demand across various end-user sectors. Rising real disposable incomes, a growing middle-class, and increasing urbanization are driving consumption in personal care, home care, food processing, agriculture, paints & coatings, construction, and automotive. This expanding internal market acts as a significant tailwind, supporting sustained growth for specialty chemicals (IN020101), agrochemicals (IN020105), and other chemical segments. This strong domestic base provides stability and opportunity for Indian chemical manufacturers amidst global shifts.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "15fcedf0-b519-540d-b0d0-1efc8fa5d526",
+      "source_title": "Chemicals Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/chemical-industry-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 8,
+      "title": "Global Supply Chain De-risking Creates Opportunity for India",
+      "description": "Global companies are actively seeking to de-risk their supply chains, which are heavily dependent on China, creating a significant opportunity for India's chemical sector. This structural shift allows Indian manufacturers, particularly in specialty chemicals (IN020101), to expand capacities and cater to rising domestic and overseas demand. This positioning enhances India's potential to become a leading global chemical manufacturing hub, capturing a larger share of the worldwide chemical value chain by attracting increased FDI and export orders, contributing to sustained high growth for the sector.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "15fcedf0-b519-540d-b0d0-1efc8fa5d526",
+      "source_title": "Chemicals Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/chemical-industry-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 9,
+      "title": "Strong Policy Support and Investments Drive Sector Growth",
+      "description": "Government initiatives and increasing investments provide a robust tailwind for the Indian chemical sector. Policies like 100% FDI under the automatic route (except hazardous chemicals), establishing Petroleum, Chemicals and Petrochemicals Investment Regions (PCPIRs), and the PLI Scheme for Advanced Chemistry Cell Battery Storage are attracting significant domestic and overseas investments. These measures facilitate capacity expansion, infrastructure development, and promote innovation. The Ministry of Chemicals and Fertilizers receives budget allocations, and the Bulk Drug Parks Scheme further strengthens the industrial base, fostering overall sector growth across IG0201.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "15fcedf0-b519-540d-b0d0-1efc8fa5d526",
+      "source_title": "Chemicals Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/chemical-industry-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 10,
+      "title": "West Asia Crisis Increases Fertiliser Input Costs and Disruptions",
+      "description": "The ongoing West Asia geopolitical crisis poses a significant key risk to India's fertiliser sector. It has led to a sharp rise in international prices of urea and DAP, and key raw materials like ammonia, sulphur, phosphoric acid, and natural gas. India imports over 80% of its ammonia and sulphur from Gulf countries, making supplies highly vulnerable to disruptions in the Strait of Hormuz. This intensifies cost pressures for manufacturers, particularly NPK players, and is expected to necessitate significant supplementary grants for the FY27 subsidy budget, impacting profitability and working capital for IN020104.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-13",
+      "source_doc_id": "945790ac-5487-5a7c-9d09-eba50daec50b",
+      "source_title": "Fertiliser Sector Impact of West Asia Crisis on Availability & Subsidy Budget",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1778654146_Fertiliser%20Sector%20Impact%20of%20West%20Asia%20Crisis%20on%20Availability%20&%20Subsidy%20Budget.pdf",
+      "source_date": "2026-05-13"
+    },
+    {
+      "index": 11,
+      "title": "Competitive Pricing from Global Agrochemical Oversupply Persists",
+      "description": "The Indian agrochemicals industry faces a persistent headwind from competitive pricing due to global oversupply, particularly from China, which dominates the supply of key intermediates and active ingredients. Although channel destocking has largely played out and export volumes stabilized, pricing remains a challenge. This limits pricing differentiation in commoditized products, forcing industry growth to be increasingly volume-driven. Companies must focus on cost optimization, product mix improvement, and operational discipline to sustain profitability in this competitive environment, impacting IN020105 margins despite improving operating conditions.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-21",
+      "source_doc_id": "5392d51c-c3a5-55d0-b63c-9ba049c1bb52",
+      "source_title": "Indian Agrochemicals Industry",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1776751348_Indian%20Agrochemicals%20Industry%20Slow%20Recovery%20With%206-8%20Pct%20Growth%20in%20FY27.pdf",
+      "source_date": "2026-04-21"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Electronic Chemicals Offer Compelling Growth in AI Infrastructure Boom",
+      "description": "BCG research identifies electronic chemicals and materials as a compelling focus area for chemicals, petrochemicals, and materials companies. This segment is expected to grow at a 5-10% CAGR to 2030 with over 20% EBITDA margins. Growth is driven by accelerating AI demand, which cascades into microchips, memory, storage, and robotics, requiring specialized chemicals like photoresist and thermally conductive adhesives. The segment benefits from structural expansion and high entry barriers like R&D and long qualification cycles, making it an attractive investment amid a global industry downcycle.",
+      "stance": "positive",
+      "source_firm": "BCG",
+      "source_date": "2026-09-04",
+      "source_doc_id": "20d743de-6bbb-5109-b758-cb89752d24ff",
+      "source_title": "Opportunities for Chemical Companies in the AI Infrastructure Boom",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-chemical-companies-find-new-growth"
+    },
+    {
+      "index": 2,
+      "title": "Europe's Chemical Industry at Critical Inflection Point Amid Structural Challenges",
+      "description": "McKinsey states that Europe’s chemical industry faces a critical inflection point, with lagging performance and negative total shareholder returns from 2022-2025, underperforming global markets. This challenge is structural, marked by higher input costs, regulatory burdens, intense global competition (especially from China), and a broader European economic downturn impacting customer industries. Traditional incremental improvements are insufficient, requiring a dual transformation agenda to reposition portfolios and operations while funding the shift through current business performance. This implies opportunities for other regions like India if European capacity is phased out.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-07-03",
+      "source_doc_id": "1e6d0852-8bac-52f8-9a89-00de25d7ce99",
+      "source_title": "A dual transformation agenda for Europe’s chemicals industry",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/chemicals/our-insights/a-dual-transformation-agenda-for-europes-chemicals-industry"
+    },
+    {
+      "index": 3,
+      "title": "India's Fertiliser Security Requires Reducing Energy Import Dependence",
+      "description": "KPMG emphasizes that India's fertiliser security is inseparably linked to its energy strategy, highlighting a structural exposure to external energy shocks due to heavy reliance on imported LNG for ammonia production. Recent geopolitical tensions demonstrated how LNG flow disruptions quickly escalate into fertiliser supply risks, price volatility, and fiscal pressure. While short-term measures stabilize outcomes, they don't address underlying dependency. KPMG suggests that resilience requires reducing systemic exposure through diversification of feedstock sources, such as biogas and other domestic pathways, integrated across energy, fertiliser, and agricultural systems.",
+      "stance": "cautious_negative",
+      "source_firm": "KPMG",
+      "source_date": "2026-07-01",
+      "source_doc_id": "8ba91f85-d5b8-5664-b3ec-ec6083475d8b",
+      "source_title": "From LNG dependence to domestic resilience: Securing India's fertiliser future",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/07/from-lng-dependence-to-domestic-resilience-securing-indias-fertiliser-future.html"
+    },
+    {
+      "index": 4,
+      "title": "Chemical Sector Transitions from AI Experimentation to Scaled Deployment",
+      "description": "KPMG's Global Tech Report 2026 indicates that the Chemicals sector, alongside Energy and Natural Resources, is progressing from AI experimentation to scaled deployment. Executives are prioritizing data and analytics (47%), cybersecurity (42%), and AI (41%) investments, aiming for full-scale implementations. The focus is on modernizing core operational systems and improving data maturity, with 96% of leaders expecting AI agent management to be a key workforce skill. This shift aims to enhance scale, responsiveness, and safety, creating hybrid human-digital operating models, despite challenges from legacy systems and execution gaps.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "source_doc_id": "158e02e3-416c-546b-9b9e-93bc463af41b",
+      "source_title": "KPMG Global tech report 2026: Energy, Natural Resources and Chemicals",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/kpmg-global-tech-report-2026-energy-natural-resources-and-chemicals.html"
+    },
+    {
+      "index": 5,
+      "title": "India Poised to Emerge as Leading Global Chemical Manufacturing Hub",
+      "description": "IBEF highlights India's ambitious vision to become a leading global hub for chemical manufacturing, targeting a 5-6% share in the worldwide chemical value chain by 2030. The sector, valued at US$250 billion in 2024, is projected to reach US$1 trillion by 2040, tripling its global market share. This growth is driven by rising domestic demand from end-user industries (food processing, personal care), global companies de-risking supply chains from China, increasing investments (PCPIRs, FDI), and supportive government policies (PLI Scheme). India's skilled workforce and strong R&D further enhance this position.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "source_doc_id": "15fcedf0-b519-540d-b0d0-1efc8fa5d526",
+      "source_title": "Chemicals Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/chemical-industry-india"
+    },
+    {
+      "index": 6,
+      "title": "Agrochemicals and Surfactants Show Improved Exports and Positive Outlook",
+      "description": "ICRA’s ratings, as cited by IBEF, indicate improved exports and a positive outlook for India’s agrochemicals and surfactants sectors. This positive sentiment underscores the sector's strengthening position in global markets. The agrochemical segment is projected to exceed Rs. 80,000 crore (US$9.61 billion) in exports by 2028, reflecting growing international demand and India's competitive manufacturing capabilities. This highlights the export-oriented growth potential within these key specialty chemical segments, contributing to the broader positive outlook for the Indian chemical industry.",
+      "stance": "positive",
+      "source_firm": "ICRA (via IBEF)",
+      "source_date": "2026-05-31",
+      "source_doc_id": "15fcedf0-b519-540d-b0d0-1efc8fa5d526",
+      "source_title": "Chemicals Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/chemical-industry-india"
+    },
+    {
+      "index": 7,
+      "title": "Fertiliser Sector Navigates Challenging Environment with Stronger Credit Profile",
+      "description": "CareEdge Ratings states that India's fertiliser sector is entering FY27 amidst a challenging operating environment, marked by the West Asia geopolitical crisis driving sharp rises in natural gas and raw material prices. The sector remains vulnerable due to significant import dependence, particularly for urea and DAP. However, the sector’s credit profile is stronger due to timely subsidy releases in recent years, which reduced receivable build-up and supported working capital. Comfortable reservoir levels and inventory provide a near-term cushion, though monsoon distribution and persistent high import costs remain critical monitorables.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-05-13",
+      "source_doc_id": "945790ac-5487-5a7c-9d09-eba50daec50b",
+      "source_title": "Fertiliser Sector Impact of West Asia Crisis on Availability & Subsidy Budget",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1778654146_Fertiliser%20Sector%20Impact%20of%20West%20Asia%20Crisis%20on%20Availability%20&%20Subsidy%20Budget.pdf"
+    },
+    {
+      "index": 8,
+      "title": "Indian Agrochemicals Industry Forecasts Stable Volume-Led Growth in FY27",
+      "description": "CareEdge Ratings expects the Indian agrochemicals industry (excluding fertilisers) to achieve stable growth of approximately 6-8% in FY27, driven primarily by volume recovery. The sector is transitioning from a sharp correction in FY24 (due to channel destocking and price declines) to a more normalized operating environment, with inventory levels largely stable. Strong domestic demand, improving crop intensity, and expanding distribution support this growth. Despite competitive pricing from global oversupply (especially from China), profitability is strengthening due to cost normalisation, better product mix, and operating leverage benefits, though geopolitical risks remain sensitive.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-21",
+      "source_doc_id": "5392d51c-c3a5-55d0-b63c-9ba049c1bb52",
+      "source_title": "Indian Agrochemicals Industry",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1776751348_Indian%20Agrochemicals%20Industry%20Slow%20Recovery%20With%206-8%20Pct%20Growth%20in%20FY27.pdf"
+    },
+    {
+      "index": 9,
+      "title": "Global Energy and Materials Markets Face Uncertainty, Fundamentals Endure",
+      "description": "Bain & Company's Global Energy and Materials Outlook 2026 highlights heightened uncertainty in global markets, driven by supply chain shocks, evolving ESG trends, and geopolitical conflicts. Despite these challenges, Bain reaffirms that core fundamentals persist: energy demand grows with GDP, population, and industrial activity, while supply is constrained by physical realities and resource availability. Policymakers aim to improve living standards, but cost remains a decisive factor. Companies must plan for adaptability and build resilience to navigate the uneven and potentially 'messy' pathways of the energy transition and find opportunities in this uncertain future.",
+      "stance": "neutral",
+      "source_firm": "Bain & Company",
+      "source_date": "2026-04-09",
+      "source_doc_id": "7c460a56-8cd1-584c-8197-064dae6da69c",
+      "source_title": "Global Energy and Materials Outlook 2026",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/energy-and-materials-outlook-2026"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 75.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 5.0,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Accelerating AI demand",
+          "description": "Cascading demand beyond software into microchips, memory, storage, and robotics infrastructure, requiring specialized chemicals."
+        },
+        {
+          "driver": "Shift to advanced node technology in microchips",
+          "description": "Requires more materials for manufacturing."
+        },
+        {
+          "driver": "Expanding electronics manufacturing",
+          "description": "Increased manufacturing activity in Asia, the US, and the EU."
+        },
+        {
+          "driver": "Data centers evolving operating conditions",
+          "description": "Generates greater demand for thermal management solutions as computation density increases."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Yield-critical patterning step in semiconductor manufacturing, creating opportunities in photoacid generators, stabilizers, specialty monomers, additives, clean and strip solutions.",
+          "opportunity": "Lithography and ancillaries"
+        },
+        {
+          "description": "Attractive materials opportunity driven by increasing computation density and thermal management needs.",
+          "opportunity": "Thermal interface materials"
+        }
+      ],
+      "methodology": "Total addressable market for electronic chemicals and materials across the semiconductor supply chain.",
+      "source_firm": "BCG",
+      "source_date": "2026-09-04",
+      "data_confidence": "high",
+      "source_doc_id": "20d743de-6bbb-5109-b758-cb89752d24ff",
+      "source_title": "Opportunities for Chemical Companies in the AI Infrastructure Boom",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-chemical-companies-find-new-growth"
+    },
+    {
+      "index": 2,
+      "tam_value": 5.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 10.0,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Leading-edge patterning complexity",
+          "description": "Increasingly demanding requirements around residue removal, surface preparation, contamination, and defect control in semiconductor manufacturing."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Photoacid generators, stabilizers, specialty monomers, and additives providing diversified exposure to major resist formulators, driven by ultra-high purity and molecular performance.",
+          "opportunity": "Sub-components of resists"
+        },
+        {
+          "description": "Strippers, removers, and post-lithography cleans with shorter qualification cycles and a fragmented supplier landscape offering entry opportunities.",
+          "opportunity": "Lithography clean and strip solutions"
+        }
+      ],
+      "methodology": "Revenues for lithography and its ancillaries, based on BCG analysis.",
+      "source_firm": "BCG",
+      "source_date": "2026-09-04",
+      "data_confidence": "high",
+      "source_doc_id": "20d743de-6bbb-5109-b758-cb89752d24ff",
+      "source_title": "Opportunities for Chemical Companies in the AI Infrastructure Boom",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-chemical-companies-find-new-growth"
+    },
+    {
+      "index": 3,
+      "tam_value": 2.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 10.0,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increasing computation density in data centers",
+          "description": "Evolving operating conditions generating greater demand for thermal management solutions."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Revenues for thermal interface materials, based on BCG analysis.",
+      "source_firm": "BCG",
+      "source_date": "2026-09-04",
+      "data_confidence": "high",
+      "source_doc_id": "20d743de-6bbb-5109-b758-cb89752d24ff",
+      "source_title": "Opportunities for Chemical Companies in the AI Infrastructure Boom",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-chemical-companies-find-new-growth"
+    },
+    {
+      "index": 4,
+      "tam_value": 455.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2022,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Global gross productive investment in the chemicals sector (average 2022-23 market exchange rates).",
+      "source_firm": "McKinsey Global Institute",
+      "source_date": "2026-06-30",
+      "data_confidence": "high",
+      "source_doc_id": "25f8e4b0-3cfc-5e78-ae49-998947f7f7ed",
+      "source_title": "Polyethylene: Widely produced—but not one-size-fits-all",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/polyethylene-widely-produced-but-not-one-size-fits-all"
+    },
+    {
+      "index": 5,
+      "tam_value": 150.0,
+      "tam_unit": "MMTPA",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 3.0,
+      "forecast_cagr_period": "2025-2035",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Population growth",
+          "description": "Increasing global population drives demand for plastic products across various applications."
+        },
+        {
+          "driver": "Urbanization",
+          "description": "Growing urban areas increase demand for packaging and construction materials that use PE."
+        },
+        {
+          "driver": "Consumer goods consumption",
+          "description": "Expanding consumption of consumer goods, particularly in emerging economies, boosts demand for PE-based packaging and products."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Global installed capacity for polyethylene (PE) production. Demand before 2020 grew at ~3% annually, slowed to 1-2% in recent years.",
+      "source_firm": "McKinsey Global Institute",
+      "source_date": "2026-06-30",
+      "data_confidence": "high",
+      "source_doc_id": "25f8e4b0-3cfc-5e78-ae49-998947f7f7ed",
+      "source_title": "Polyethylene: Widely produced—but not one-size-fits-all",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/polyethylene-widely-produced-but-not-one-size-fits-all"
+    },
+    {
+      "index": 6,
+      "tam_value": 250.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Estimated market size of India's chemical sector.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "15fcedf0-b519-540d-b0d0-1efc8fa5d526",
+      "source_title": "Chemicals Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/chemical-industry-india"
+    },
+    {
+      "index": 7,
+      "tam_value": 64.5,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": 3.8,
+      "forecast_cagr_period": "2025-2033",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising demand from end-user industries",
+          "description": "Food processing, personal care, home care, agriculture, construction, automotive, electronics, and pharmaceutical sectors."
+        },
+        {
+          "driver": "Increasing industrialization and urbanization",
+          "description": "Supports overall economic activity and demand for specialty chemicals."
+        },
+        {
+          "driver": "Product innovation and favorable government policies",
+          "description": "Encourages adoption of new solutions and supports market expansion."
+        },
+        {
+          "driver": "Growing investments in sustainable chemical solutions",
+          "description": "Focus on green solvents, biodegradable surfactants, and bio-based polymers."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Expected to grow at a CAGR of over 10% and exceed US$15 billion by 2027, driven by focus on green solvents, biodegradable surfactants, and bio-based polymers.",
+          "opportunity": "Green chemicals market"
+        }
+      ],
+      "methodology": "Valuation of India specialty chemicals market.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "15fcedf0-b519-540d-b0d0-1efc8fa5d526",
+      "source_title": "Chemicals Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/chemical-industry-india"
+    },
+    {
+      "index": 8,
+      "tam_value": 9.61,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2028,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projection for India's agrochemical exports, according to a report by Agro Chem Federation of India (ACFI) and EY India.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "15fcedf0-b519-540d-b0d0-1efc8fa5d526",
+      "source_title": "Chemicals Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/chemical-industry-india"
+    },
+    {
+      "index": 9,
+      "tam_value": 20992.29,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's dye exports (Dyes and Dye Intermediates) in FY26.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "15fcedf0-b519-540d-b0d0-1efc8fa5d526",
+      "source_title": "Chemicals Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/chemical-industry-india"
+    },
+    {
+      "index": 10,
+      "tam_value": 60.0,
+      "tam_unit": "mn_tonnes",
+      "sam_value": null,
+      "as_of_year": 2040,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected polymer consumption in India.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "15fcedf0-b519-540d-b0d0-1efc8fa5d526",
+      "source_title": "Chemicals Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/chemical-industry-india"
+    },
+    {
+      "index": 11,
+      "tam_value": 140327.6,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 4.19,
+      "forecast_cagr_period": "2026-2034",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising food demand",
+          "description": "Increases agricultural production, requiring more agrochemicals for crop protection."
+        },
+        {
+          "driver": "Expanding irrigation infrastructure",
+          "description": "Supports higher cropping intensity and broader cultivation, boosting agrochemical use."
+        },
+        {
+          "driver": "Increasing adoption of precision agriculture",
+          "description": "Drives more efficient and targeted application of crop protection inputs."
+        },
+        {
+          "driver": "Government support for crop-input technologies",
+          "description": "Encourages farmers to adopt modern agrochemical solutions for better yields."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Valuation of India agrochemicals market in 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "15fcedf0-b519-540d-b0d0-1efc8fa5d526",
+      "source_title": "Chemicals Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/chemical-industry-india"
+    },
+    {
+      "index": 12,
+      "tam_value": 13983.0,
+      "tam_unit": "MMT",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "FY25-FY28",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising industrial demand",
+          "description": "Increased activity across various industrial sectors drives higher consumption of chemicals."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s total chemical production in FY25.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "15fcedf0-b519-540d-b0d0-1efc8fa5d526",
+      "source_title": "Chemicals Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/chemical-industry-india"
+    },
+    {
+      "index": 13,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 6.0,
+      "forecast_cagr_period": "FY27",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Steady domestic demand",
+          "description": "Underlying agricultural fundamentals provide a stable base for sustained growth in India."
+        },
+        {
+          "driver": "Improving crop intensity and cultivated area",
+          "description": "Increased agricultural activity and higher cropping intensity drive greater need for crop protection inputs."
+        },
+        {
+          "driver": "Expanding distribution reach and policy support",
+          "description": "More pesticide sale points improve last-mile accessibility and market penetration, coupled with government support."
+        },
+        {
+          "driver": "Normalised channel inventories and stable global demand",
+          "description": "Supports gradual and largely volume-led export growth after previous destocking."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Stabilized raw material pricing",
+          "description": "Lower input costs following a correction improve cost visibility, allowing for efficient production planning and inventory optimization."
+        },
+        {
+          "driver": "Improved capacity utilization and product mix",
+          "description": "Supports operating efficiency and earnings stability, particularly during periods of pricing pressure."
+        },
+        {
+          "driver": "Operating leverage benefits",
+          "description": "Helps strengthen profitability during volume-led recovery, especially as margins gradually improve towards 17% in FY27."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Projected growth for the Indian agrochemicals industry (excluding fertilisers).",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-21",
+      "data_confidence": "high",
+      "source_doc_id": "5392d51c-c3a5-55d0-b63c-9ba049c1bb52",
+      "source_title": "Indian Agrochemicals Industry",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1776751348_Indian%20Agrochemicals%20Industry%20Slow%20Recovery%20With%206-8%20Pct%20Growth%20in%20FY27.pdf"
+    }
+  ],
+  "sources": [
+    "BCG",
+    "McKinsey",
+    "KPMG",
+    "IBEF",
+    "ICRA (via IBEF)",
+    "CareEdge Ratings",
+    "Bain & Company",
+    "McKinsey Global Institute"
+  ],
+  "documents": [
+    {
+      "doc_id": "20d743de-6bbb-5109-b758-cb89752d24ff",
+      "title": "Opportunities for Chemical Companies in the AI Infrastructure Boom",
+      "publisher": "bcg_global",
+      "date": "2026-09-04",
+      "url": "https://www.bcg.com/publications/2026/how-chemical-companies-find-new-growth"
+    },
+    {
+      "doc_id": "1e6d0852-8bac-52f8-9a89-00de25d7ce99",
+      "title": "A dual transformation agenda for Europe’s chemicals industry",
+      "publisher": "mckinsey",
+      "date": "2026-07-03",
+      "url": "https://www.mckinsey.com/industries/chemicals/our-insights/a-dual-transformation-agenda-for-europes-chemicals-industry"
+    },
+    {
+      "doc_id": "8ba91f85-d5b8-5664-b3ec-ec6083475d8b",
+      "title": "From LNG dependence to domestic resilience: Securing India's fertiliser future",
+      "publisher": "kpmg",
+      "date": "2026-07-01",
+      "url": "https://kpmg.com/in/en/insights/2026/07/from-lng-dependence-to-domestic-resilience-securing-indias-fertiliser-future.html"
+    },
+    {
+      "doc_id": "158e02e3-416c-546b-9b9e-93bc463af41b",
+      "title": "KPMG Global tech report 2026: Energy, Natural Resources and Chemicals",
+      "publisher": "kpmg",
+      "date": "2026-06-01",
+      "url": "https://kpmg.com/in/en/insights/2026/06/kpmg-global-tech-report-2026-energy-natural-resources-and-chemicals.html"
+    },
+    {
+      "doc_id": "15fcedf0-b519-540d-b0d0-1efc8fa5d526",
+      "title": "Chemicals Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/chemical-industry-india"
+    },
+    {
+      "doc_id": "945790ac-5487-5a7c-9d09-eba50daec50b",
+      "title": "Fertiliser Sector Impact of West Asia Crisis on Availability & Subsidy Budget",
+      "publisher": "careedge",
+      "date": "2026-05-13",
+      "url": "https://www.careratings.com/uploads/newsfiles/1778654146_Fertiliser%20Sector%20Impact%20of%20West%20Asia%20Crisis%20on%20Availability%20&%20Subsidy%20Budget.pdf"
+    },
+    {
+      "doc_id": "5392d51c-c3a5-55d0-b63c-9ba049c1bb52",
+      "title": "Indian Agrochemicals Industry",
+      "publisher": "careedge",
+      "date": "2026-04-21",
+      "url": "https://www.careratings.com/uploads/newsfiles/1776751348_Indian%20Agrochemicals%20Industry%20Slow%20Recovery%20With%206-8%20Pct%20Growth%20in%20FY27.pdf"
+    },
+    {
+      "doc_id": "7c460a56-8cd1-584c-8197-064dae6da69c",
+      "title": "Global Energy and Materials Outlook 2026",
+      "publisher": "bain",
+      "date": "2026-04-09",
+      "url": "https://www.bain.com/insights/energy-and-materials-outlook-2026"
+    },
+    {
+      "doc_id": "25f8e4b0-3cfc-5e78-ae49-998947f7f7ed",
+      "title": "Polyethylene: Widely produced—but not one-size-fits-all",
+      "publisher": "mckinsey",
+      "date": "2026-06-30",
+      "url": "https://www.mckinsey.com/mgi/our-research/polyethylene-widely-produced-but-not-one-size-fits-all"
+    }
+  ]
+}

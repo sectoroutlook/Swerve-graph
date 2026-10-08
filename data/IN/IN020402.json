@@ -1,0 +1,131 @@
+{
+  "geography": "IN",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Industrial Demand Surges from EVs and Electronics",
+      "description": "The expanding manufacturing capacity in India, particularly in semiconductors, defense, electronics, and automotive (including EVs), drives increased demand for critical minerals. As silver is essential for electronics, EVs, and possesses the highest electrical conductivity among all elements, this industrial growth significantly boosts its demand, supporting silver mining operations.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-14",
+      "source_doc_id": "55bc9d2d-1dd8-5b1e-880a-4d88e35a3d04",
+      "source_title": "Pressing the Throttle: Unlocking India’s Mining and Construction Equipment Industry’s Potential",
+      "source_publisher": "bcg_india",
+      "source_url": "https://www.bcg.com/publications/2026/india-pressing-the-throttle",
+      "source_date": "2026-07-14"
+    },
+    {
+      "index": 2,
+      "title": "National Critical Mineral Mission Fuels Supply Chain",
+      "description": "The INR 34,300 crore National Critical Mineral Mission aims to strengthen the domestic critical minerals ecosystem by supporting exploration, processing, and manufacturing. Given silver's role as a critical mineral in key industrial applications like electronics and EVs, this mission provides a structural tailwind, enhancing domestic production capabilities and securing its supply chain for future demand.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-14",
+      "source_doc_id": "55bc9d2d-1dd8-5b1e-880a-4d88e35a3d04",
+      "source_title": "Pressing the Throttle: Unlocking India’s Mining and Construction Equipment Industry’s Potential",
+      "source_publisher": "bcg_india",
+      "source_url": "https://www.bcg.com/publications/2026/india-pressing-the-throttle",
+      "source_date": "2026-07-14"
+    },
+    {
+      "index": 3,
+      "title": "Renewable Energy Expansion Drives Silver Demand",
+      "description": "India's ambitious target to boost non-fossil fuel electricity generation to over 5,00,000 MW by 2030, alongside significant growth in renewable energy capacity, is a major demand driver. As solar panels represent the largest industrial use for silver due to its high electrical conductivity, this expansion directly translates to increased demand for silver mining and production.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "b9f13432-2ac8-5720-af5a-2bc771f4460a",
+      "source_title": "Metals And Mining Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/metals-and-mining",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 4,
+      "title": "Liberal FDI Policy Supports Mining Investment",
+      "description": "The Indian government's policy of allowing 100% FDI under the automatic route for exploration, mining, and processing of non-fuel and non-atomic minerals, including precious stones, provides a significant structural tailwind. This policy reduces entry barriers for foreign investors, encourages capital inflow into the mining sector, and supports the development and expansion of silver mining operations in India.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "b9f13432-2ac8-5720-af5a-2bc771f4460a",
+      "source_title": "Metals And Mining Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/metals-and-mining",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 5,
+      "title": "Weak Monetary Demand Reflected in ETF Outflows",
+      "description": "The persistent net outflows from Silver ETFs, totaling Rs. 126 crore over three consecutive months, signal a weakening investor confidence in silver as a monetary asset. This trend reflects soft investment demand, which constitutes a significant portion (~40-50%) of silver's dual-demand profile. Such reduced interest in financial silver products could translate to a broader decrease in overall monetary demand for silver.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "4d43bf7d-f50a-5385-92d6-595eb55cf364",
+      "source_title": "Gems And Jewellery Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/gems-jewellery-india",
+      "source_date": "2026-05-31"
+    }
+  ],
+  "viewpoints": [],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Investor sentiment for safe-haven assets",
+          "description": "Outflows suggest waning investor confidence in silver as a preferred investment vehicle, possibly due to shifting market dynamics or alternative investment appeals, directly impacting monetary demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Silver ETFs recorded net outflows, indicating a decline in investment demand for silver-backed financial products. This reflects a negative trend in the monetary demand component of silver, a dual-demand commodity (industrial ~50-60%, monetary ~40-50%).",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "medium",
+      "source_doc_id": "4d43bf7d-f50a-5385-92d6-595eb55cf364",
+      "source_title": "Gems And Jewellery Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/gems-jewellery-india"
+    }
+  ],
+  "sources": [
+    "IBEF"
+  ],
+  "documents": [
+    {
+      "doc_id": "55bc9d2d-1dd8-5b1e-880a-4d88e35a3d04",
+      "title": "Pressing the Throttle: Unlocking India’s Mining and Construction Equipment Industry’s Potential",
+      "publisher": "bcg_india",
+      "date": "2026-07-14",
+      "url": "https://www.bcg.com/publications/2026/india-pressing-the-throttle"
+    },
+    {
+      "doc_id": "b9f13432-2ac8-5720-af5a-2bc771f4460a",
+      "title": "Metals And Mining Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/metals-and-mining"
+    },
+    {
+      "doc_id": "4d43bf7d-f50a-5385-92d6-595eb55cf364",
+      "title": "Gems And Jewellery Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/gems-jewellery-india"
+    }
+  ]
+}

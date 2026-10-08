@@ -1,0 +1,550 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Global Geopolitical Conflicts Threaten Energy Security and Supply Chains",
+      "description": "Ongoing conflicts, such as in the Middle East, intensify geopolitical instability, driving up commodity prices and inflation. The Strait of Hormuz disruption, affecting 20% of global oil and LNG supply, highlights how interconnected global events can quickly reverberate through energy markets, impacting UK households and businesses. This volatility underscores the critical link between energy security and national security, making domestic production increasingly vital.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 2,
+      "title": "Transformer Supply Shortages Delay Renewables and Grid Modernization",
+      "description": "A global supercycle in transformer demand, fueled by electrification and renewable energy expansion, has led to critical supply constraints. Lead times have stretched to up to five years, and prices have surged over 50% since 2021. This shortage is explicitly noted to prevent a significant acceleration of renewables build-out and grid replacements, directly hindering decarbonization efforts and increasing costs for energy projects.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18"
+    },
+    {
+      "index": 3,
+      "title": "Energy System Rewiring Towards Hybrid AC/DC Architecture",
+      "description": "The global energy system is undergoing a fundamental shift towards a hybrid AC/DC architecture. New energy sources like solar PV and storage (batteries) are natively DC, as are emerging high-density loads such as AI data centers and EVs. This paradigm shift, driven by efficiency gains and power density demands, means DC is increasingly powering applications behind the meter, complementing AC as the main transmission backbone. This redefines infrastructure needs for renewables.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case",
+      "source_date": "2026-09-09"
+    },
+    {
+      "index": 4,
+      "title": "Depleting Strategic Oil Inventories and Stressed Refining Systems",
+      "description": "Global strategic oil inventories are under severe strain, with the US Strategic Petroleum Reserve (SPR) having fallen to historical minimums (below 300 million barrels by August 2026). Concurrently, the refining system is facing significant pressure, with Gulf refineries cutting output and Russian capacity offline. This combination leads to rising refined product prices and local shortages, indicating a wearing thin of critical shock absorbers that could exacerbate future energy disruptions.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 5,
+      "title": "Biomethane and Hydrogen Markets Drive Gas System Transition",
+      "description": "The development and growth of biomethane and hydrogen markets are key emerging trends impacting the gas sector. Biomethane production offers significant potential for decarbonization, particularly in hard-to-electrify sectors and through carbon capture. Hydrogen market development, alongside CCUS, requires maturing support frameworks and coordinated infrastructure decisions. These low-carbon gases are critical for the GB energy system's transition, offering new opportunities for gas infrastructure and supply diversification.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-14",
+      "source_doc_id": "38ce63f2-6f86-5227-904a-b495c51b57a6",
+      "source_title": "Gas Market Roadmap",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/385036/download",
+      "source_date": "2026-09-14"
+    },
+    {
+      "index": 6,
+      "title": "Electrification and Data Center Expansion Boost Energy Demand",
+      "description": "A structural increase in electricity demand is being driven by accelerating electrification across industries, transport, and buildings, alongside significant data center expansion. Data centers are energy-intensive, requiring substantial power solutions. This broad electrification, coupled with the rising demand for managing renewables' intermittency through energy storage, creates sustained tailwinds for the energy sector by increasing overall electricity and low-carbon fuel consumption.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply",
+      "source_date": "2026-09-18"
+    },
+    {
+      "index": 7,
+      "title": "UK Industrial Energy Prices Undermine Competitiveness",
+      "description": "Industrial energy prices in the UK are approximately 75% higher than the G7 average, posing a significant headwind for UK-based energy-intensive industries. This disparity undermines their competitiveness, increasing the risk of deindustrialization and the potential offshoring of emissions. While high energy prices can boost revenues for domestic energy producers in the short term, this structural disadvantage for industrial consumers could lead to long-term demand erosion and economic shifts within the UK.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 8,
+      "title": "Global Trade Rewiring and Supply Diversification for Energy Resilience",
+      "description": "In response to major energy supply disruptions like the Strait of Hormuz crisis, global energy trade flows are undergoing a significant rewiring. Countries are actively pursuing geographic diversification of supply, increasing suppliers, and bolstering contractual protections (e.g., force majeure clauses). This structural shift reflects a growing imperative to build resilience against future geopolitical instability, impacting LNG procurement strategies and investments in storage, shipping, and upstream equity.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "8e80a468-b70d-5c32-a0ae-06a991df360f",
+      "source_title": "LNG buyers’ sentiment: Disruption and implications for procurement",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement",
+      "source_date": "2026-09-11"
+    },
+    {
+      "index": 9,
+      "title": "Methane Leakage Threatens Biomethane's Decarbonization Impact in Transport",
+      "description": "Despite biomethane offering emissions reductions compared to conventional fuels, significant concerns exist regarding methane leakage in transport applications. Methane can leak from vehicle engines, especially at low loads, and from LNG storage for shipping. This risk of leakage could substantially offset or even negate the emissions savings achieved by using biomethane, posing a critical challenge to its long-term role in decarbonizing hard-to-electrify transport sectors and its overall environmental benefit.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download",
+      "source_date": "2026-09-15"
+    },
+    {
+      "index": 10,
+      "title": "Fiscal Reform and Pragmatic Licensing for UKCS Investment",
+      "description": "Prospective fiscal reform and a pragmatic approach to licensing in the UK Continental Shelf (UKCS) could unlock substantial investment. A more competitive regime from 2027 is projected to enable 111 additional projects, attracting £50 billion in private capital investment and yielding 3.25 billion barrels of oil equivalent (boe) in production. This initiative is crucial for sustaining domestic output, enhancing long-term energy security, and reducing the UK's growing dependence on imports.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 11,
+      "title": "Gas Demand Decline Challenges Network Cost Recovery and Affordability",
+      "description": "As gas demand declines due to decarbonization efforts, existing network charging mechanisms and cost-recovery models for Great Britain's gas transmission and distribution networks will face increasing pressure. A shrinking customer base will raise costs for remaining users, impacting affordability, investor confidence, and incentives for consumers to adopt low-carbon alternatives. This challenge necessitates reviewing gas charging principles and coordinating across the whole energy system for efficient decarbonization.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-14",
+      "source_doc_id": "38ce63f2-6f86-5227-904a-b495c51b57a6",
+      "source_title": "Gas Market Roadmap",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/385036/download",
+      "source_date": "2026-09-14"
+    },
+    {
+      "index": 12,
+      "title": "Infrastructure Bottlenecks Impede Zero-Emission Truck Adoption",
+      "description": "The widespread adoption of zero-emission trucks (ZEVs), crucial for transport decarbonization, faces critical infrastructure barriers. Limited public fast-charging points and hydrogen refueling stations, along with significant grid access challenges, hinder ZEV scale-up. Delayed permits, capacity upgrade requirements, and uncertainty about future demand create investment risks for charging infrastructure, potentially slowing the transition and limiting the associated demand for electricity and green hydrogen from the energy sector.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "e39559f8-a9c1-5dc8-b065-56d4e0c1c5b6",
+      "source_title": "Zero-emission trucks: Accelerating Europe’s transition",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/zero-emission-trucks-accelerating-europes-transition",
+      "source_date": "2026-09-11"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "UK Energy Sector in Structural Transition, Balancing Security, Affordability, Decarbonization",
+      "description": "The UK energy sector is undergoing a structural transition, requiring a delicate balance between ensuring energy security, maintaining affordability, and achieving decarbonization goals. While larger oil and gas and renewable producers are poised to benefit from elevated commodity prices and robust balance sheets, smaller retail suppliers face heightened risks due to potential cost shocks. Overall sector resilience depends on scale and financial strength amid continued volatility and investment demands.",
+      "stance": "cautious_positive",
+      "source_firm": "Allianz UK",
+      "source_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "index": 2,
+      "title": "Energy Security Elevated to Core Strategic Priority Amid Global Disruptions",
+      "description": "Global energy security has shifted from a secondary consideration to a central strategic imperative, driven by major disruptions like the Strait of Hormuz crisis. Economies are increasingly focusing on managing vulnerabilities rather than solely eliminating dependencies. The crisis highlights that while existing shock absorbers have provided resilience, they have limits, necessitating a portfolio of structural levers to prepare for future shocks. Investment in resilience can also drive growth.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-17",
+      "source_doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "source_title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis"
+    },
+    {
+      "index": 3,
+      "title": "GB Biomethane Poised for Significant Growth to Support Decarbonization",
+      "description": "Biomethane, a low-carbon gas, is currently a minor but growing component of Great Britain's energy system, offering substantial potential to replace natural gas and aid decarbonization. It can provide long-term low-carbon solutions for hard-to-electrify industries and transport, while also offering a cost-effective route for greenhouse gas removals through carbon capture. Realizing its full potential requires strategic policy support and overcoming gas grid injection barriers.",
+      "stance": "cautious_positive",
+      "source_firm": "NESO",
+      "source_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download"
+    },
+    {
+      "index": 4,
+      "title": "Gas Remains Critical to GB Energy System During Net Zero Transition",
+      "description": "Gas will retain a vital role in Great Britain’s energy system for decades, essential for meeting peak energy demand, supporting heating and industrial activities, and ensuring electricity system flexibility and wider energy security. While market arrangements must adapt to decarbonization, challenges include managing declining demand and evolving cost recovery. NESO emphasizes coordinated action across economic, regulatory, and structural issues to ensure an affordable, reliable, and clean energy transition.",
+      "stance": "neutral",
+      "source_firm": "NESO",
+      "source_date": "2026-09-14",
+      "source_doc_id": "38ce63f2-6f86-5227-904a-b495c51b57a6",
+      "source_title": "Gas Market Roadmap",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/385036/download"
+    },
+    {
+      "index": 5,
+      "title": "LNG Buyers Prioritize Flexibility and Diversification Amid Geopolitical Volatility",
+      "description": "LNG buyers are anticipating lasting shifts in procurement strategies following transit disruptions, such as in the Strait of Hormuz. A significant majority expect changes, with nearly half forecasting structural shifts, driven by a growing belief that geopolitical conflicts and supply chain disruptions will be more frequent. Geographic diversification of supply is a top priority, alongside seeking greater contractual flexibility and investing in resilience measures like storage and shipping.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-11",
+      "source_doc_id": "8e80a468-b70d-5c32-a0ae-06a991df360f",
+      "source_title": "LNG buyers’ sentiment: Disruption and implications for procurement",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement"
+    },
+    {
+      "index": 6,
+      "title": "Transformer Supply Shortage Threatens Renewables Build-Out and Energy Transition",
+      "description": "A global 'supercycle' in transformer demand, driven by electrification and renewable energy integration, is creating a critical supply shortage that threatens the energy transition. McKinsey highlights that this constraint could stall new capacity additions, delay grid expansion, and prevent accelerated renewables build-out. The shortage, expected to persist into the next decade, elevates transformers from a routine procurement item to a strategic priority for energy infrastructure stakeholders.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply"
+    },
+    {
+      "index": 7,
+      "title": "UK Offshore Energy Sector a National Asset, Pivotal for Security and Net Zero",
+      "description": "The UK offshore energy sector remains a crucial national asset, providing significant economic value and employment while powering homes and businesses. It is indispensable for the UK's energy security and net-zero ambitions, encompassing oil and gas, offshore wind, hydrogen, and CCUS. With vast domestic resources still available in the North Sea, the sector's future contribution hinges on supportive policy and regulatory choices that encourage sustained investment over imports.",
+      "stance": "positive",
+      "source_firm": "OEUK",
+      "source_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 6.0,
+      "tam_unit": "TWh",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Biomethane injected into the GB gas grid, representing less than 1% of total gas demand. This figure reflects current production and use in the UK energy system.",
+      "source_firm": "NESO",
+      "source_date": "2026-09-15",
+      "data_confidence": "high",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download"
+    },
+    {
+      "index": 2,
+      "tam_value": 64.0,
+      "tam_unit": "TWh",
+      "sam_value": null,
+      "as_of_year": 2050,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Decarbonization of hard-to-electrify sectors",
+          "description": "Biomethane offers a low-carbon solution for industrial processes (e.g., high-temperature heat, chemical feedstock) and transport (heavy goods vehicles, shipping, aviation) where electrification or other alternatives are not viable or mature."
+        },
+        {
+          "driver": "Greenhouse gas removals",
+          "description": "Carbon capture from biomethane production provides a relatively low-cost method for permanent greenhouse gas removals, offering negative emissions if stored."
+        },
+        {
+          "driver": "Low carbon dispatchable power",
+          "description": "Using biomethane in power generation can reduce future power system costs and provide geographically distributed low-carbon dispatch options, complementing hydrogen and CCS."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Policy Support and Subsidies (GGSS)",
+          "description": "Biomethane production costs, which are comparable to projected hydrogen costs, require policy support like the Green Gas Support Scheme (GGSS) to bridge the cost gap with natural gas, making it economically viable."
+        },
+        {
+          "driver": "Secondary Revenue Streams",
+          "description": "Operators can leverage additional revenues from green gas certificates, gate fees for waste treatment, and CO2 utilization/storage markets (e.g., for e-fuels), reducing reliance on direct subsidies."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Capturing and permanently storing CO2 separated during biogas upgrading offers a cost-effective route for greenhouse gas removals compared to other methods, with current plants already capturing CO2 for utilization.",
+          "opportunity": "Carbon Capture & Storage from Biomethane Production"
+        }
+      ],
+      "methodology": "Projected sustainable biomethane production in GB by 2050, based on 'Holistic Transition' pathways from FES 2025. This indicates a ten-fold increase from current supply volumes and represents a feasible upper bound for sustainable growth.",
+      "source_firm": "NESO",
+      "source_date": "2026-09-15",
+      "data_confidence": "medium",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 18.0,
+      "forecast_cagr_period": "2024-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Renewable energy integration",
+          "description": "As solar and wind power increase their share of energy supply, BESS is crucial for managing intermittency, ensuring grid stability, improving capacity utilization, and enabling flexible dispatch."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Development of novel inverters embedding advanced control, energy management systems, and grid-forming capabilities to support energy trading and virtual power plant networks.",
+          "opportunity": "Advanced BESS Inverters"
+        }
+      ],
+      "methodology": "Analysis of demand for energy storage capacity for grid stability driven by increased integration of intermittent renewable power sources.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-10",
+      "data_confidence": "high",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities"
+    },
+    {
+      "index": 4,
+      "tam_value": 36.7,
+      "tam_unit": "GBP_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Annual Gross Value Added (GVA) contributed by the UK offshore energy sector, encompassing oil and gas, offshore wind, hydrogen, and CCUS.",
+      "source_firm": "OEUK",
+      "source_date": "2026-09-08",
+      "data_confidence": "high",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "index": 5,
+      "tam_value": 2300.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": 18.0,
+      "forecast_cagr_period": "Annually",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Renewables intermittency management",
+          "description": "The increasing share of intermittent renewable energy sources (wind and solar) necessitates more storage capacity to maintain grid stability and reliable power supply."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecasted global energy storage capacity required to manage intermittency from increased renewable energy deployment.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "medium",
+      "source_doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "source_title": "The transformer supercycle: Why demand is outrunning supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply"
+    },
+    {
+      "index": 6,
+      "tam_value": 0.6,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 26.0,
+      "forecast_cagr_period": "Annually",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Green hydrogen production scale-up",
+          "description": "Increasing global efforts to produce hydrogen via electrolysis drives demand for high-power rectifiers that convert AC grid electricity to stable DC current for electrolyzers."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Demand for plug-and-play compatible rectifiers enabling faster deployment and cost reduction in electrolyzer systems, especially as systems scale to megawatt and GW levels.",
+          "opportunity": "Compact, high-efficiency rectifiers"
+        }
+      ],
+      "methodology": "Forecasted global market size for rectifiers used in electrolyzer applications for hydrogen production.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-10",
+      "data_confidence": "medium",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities"
+    },
+    {
+      "index": 7,
+      "tam_value": 7.6,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": -2.0,
+      "forecast_cagr_period": "Through 2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Price compression and increased competition",
+          "description": "The market for utility-scale solar PV power conversion technologies is experiencing a contraction driven by intense pricing pressure and competition, leading to declining value pools."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Projected global market size for power conversion technologies in utility-scale solar PV applications.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-10",
+      "data_confidence": "medium",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities"
+    }
+  ],
+  "sources": [
+    "Allianz UK",
+    "McKinsey",
+    "NESO",
+    "OEUK"
+  ],
+  "documents": [
+    {
+      "doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "title": "September 2026 UK Sector Snippets",
+      "publisher": "allianz_uk",
+      "date": "2026-09-17",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "doc_id": "3560a0a5-5ace-5569-a6c3-51d9ed9706c8",
+      "title": "Aftershocks: Energy security beyond the Strait of Hormuz crisis",
+      "publisher": "mckinsey",
+      "date": "2026-09-17",
+      "url": "https://www.mckinsey.com/mgi/our-research/aftershocks-energy-security-beyond-the-strait-of-hormuz-crisis"
+    },
+    {
+      "doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "title": "Biomethane report",
+      "publisher": "neso",
+      "date": "2026-09-15",
+      "url": "https://www.neso.energy/document/384986/download"
+    },
+    {
+      "doc_id": "38ce63f2-6f86-5227-904a-b495c51b57a6",
+      "title": "Gas Market Roadmap",
+      "publisher": "neso",
+      "date": "2026-09-14",
+      "url": "https://www.neso.energy/document/385036/download"
+    },
+    {
+      "doc_id": "8e80a468-b70d-5c32-a0ae-06a991df360f",
+      "title": "LNG buyers’ sentiment: Disruption and implications for procurement",
+      "publisher": "mckinsey",
+      "date": "2026-09-11",
+      "url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement"
+    },
+    {
+      "doc_id": "2bf68806-ab1b-547d-8fcb-c516b1537b63",
+      "title": "The transformer supercycle: Why demand is outrunning supply",
+      "publisher": "mckinsey",
+      "date": "2026-09-18",
+      "url": "https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-transformer-supercycle-why-demand-is-outrunning-supply"
+    },
+    {
+      "doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "title": "Economic Report 2026",
+      "publisher": "oeuk",
+      "date": "2026-09-08",
+      "url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "title": "The Strategic Case for Hybrid AC/DC Power",
+      "publisher": "bcg_global",
+      "date": "2026-09-09",
+      "url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case"
+    },
+    {
+      "doc_id": "e39559f8-a9c1-5dc8-b065-56d4e0c1c5b6",
+      "title": "Zero-emission trucks: Accelerating Europe’s transition",
+      "publisher": "mckinsey",
+      "date": "2026-09-11",
+      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/zero-emission-trucks-accelerating-europes-transition"
+    },
+    {
+      "doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "title": "The power conversion market: Decarbonization and growth opportunities",
+      "publisher": "mckinsey",
+      "date": "2026-09-10",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities"
+    }
+  ]
+}

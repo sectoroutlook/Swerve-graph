@@ -1,0 +1,811 @@
+{
+  "geography": "IN",
+  "forces": [
+    {
+      "index": 1,
+      "title": "AI eroding demand-signal advantage for food companies",
+      "description": "Agricultural intelligence (AI) is compressing the demand-signal asymmetry historically enjoyed by food processors, CPG companies, and retailers. AI tools provide better forecasting, granular supply chain visibility, and new tools for verifying food safety and provenance to all layers of the value chain, forcing food companies to find new sources of outperformance.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-25",
+      "source_doc_id": "30b0ebb9-c28e-5145-9b08-683ce3f6b01e",
+      "source_title": "Agricultural Intelligence: How AI Is Reshaping the Global Food System",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-ai-is-reshaping-the-global-food-system",
+      "source_date": "2026-06-25"
+    },
+    {
+      "index": 2,
+      "title": "AI-accelerated alternative proteins reshaping raw material economics",
+      "description": "Agricultural intelligence and AI are accelerating the development of alternative proteins and precision fermentation. This technological advancement is expected to reshape the raw material economics that traditional commodity processing businesses, including food companies, depend on. This implies a shift in input sourcing and cost structures for IG0501, potentially creating new categories and disrupting existing supply chains over time.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-25",
+      "source_doc_id": "30b0ebb9-c28e-5145-9b08-683ce3f6b01e",
+      "source_title": "Agricultural Intelligence: How AI Is Reshaping the Global Food System",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-ai-is-reshaping-the-global-food-system",
+      "source_date": "2026-06-25"
+    },
+    {
+      "index": 3,
+      "title": "Stricter FSSAI regulations for food safety",
+      "description": "Regulatory oversight from FSSAI is becoming more stringent regarding food safety norms in warehousing and distribution. This framework mandates strict hygiene, temperature control (especially for perishable dairy, meat, seafood), proper storage practices, detailed record-keeping, and personnel training. Non-compliance poses significant challenges for businesses in the food processing and distribution value chain, necessitating substantial operational and financial adjustments.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-01",
+      "source_doc_id": "5ad8d5dc-46d0-57e3-a58a-c242fec4222d",
+      "source_title": "Ensuring food safety and regulatory compliance in warehousing and distribution",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/09/ensuring-food-safety-and-regulatory-compliance-in-warehousing-and-distribution.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "index": 4,
+      "title": "Inadequate infrastructure hinders FSSAI compliance",
+      "description": "Rural areas often lack necessary infrastructure (refrigeration, sanitation, clean water) to meet FSSAI standards. Rapid urbanization and high real estate costs in urban areas lead to cramped, poorly ventilated storage. These limitations pose significant challenges for food businesses in achieving and maintaining compliance, especially for SMEs, and increase operating costs across the food supply chain, impacting product quality and safety.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-01",
+      "source_doc_id": "5ad8d5dc-46d0-57e3-a58a-c242fec4222d",
+      "source_title": "Ensuring food safety and regulatory compliance in warehousing and distribution",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/09/ensuring-food-safety-and-regulatory-compliance-in-warehousing-and-distribution.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "index": 5,
+      "title": "High FSSAI compliance costs burden SMEs",
+      "description": "Small and medium-sized enterprises (SMEs) in the food sector face significant financial constraints. The costs associated with meeting FSSAI standards, including equipment maintenance, pest control, quality control checks, and investment in infrastructure upgrades and training, can be prohibitive. This makes it challenging for them to access compliant storage and warehousing infrastructure, affecting competitiveness and market access.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-01",
+      "source_doc_id": "5ad8d5dc-46d0-57e3-a58a-c242fec4222d",
+      "source_title": "Ensuring food safety and regulatory compliance in warehousing and distribution",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/09/ensuring-food-safety-and-regulatory-compliance-in-warehousing-and-distribution.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "index": 6,
+      "title": "Supply chain coordination crucial for food safety",
+      "description": "Ensuring that suppliers and third-party logistics providers adhere to the same FSSAI standards can be challenging, especially with multiple partners. Logistical issues like transportation delays, inadequate temperature control during transit, and other disruptions directly affect food product quality and safety, requiring robust coordination and oversight throughout the supply chain. This complexity increases operational risk and compliance burdens for food and beverage companies.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-01",
+      "source_doc_id": "5ad8d5dc-46d0-57e3-a58a-c242fec4222d",
+      "source_title": "Ensuring food safety and regulatory compliance in warehousing and distribution",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/09/ensuring-food-safety-and-regulatory-compliance-in-warehousing-and-distribution.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "index": 7,
+      "title": "Geopolitical tensions driving volatile energy and input costs",
+      "description": "The US-Iran conflict and related Strait of Hormuz blockades have caused volatile crude oil prices and supply disruptions, significantly increasing energy and input costs. This macro-level geopolitical risk translates into higher operational costs and compressed profit margins for manufacturing, aviation, and critically, consumer goods sectors including food and beverages in India, necessitating agile supply chain and pricing strategies.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-17",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf",
+      "source_date": "2026-07-17"
+    },
+    {
+      "index": 8,
+      "title": "Sub-normal monsoon poses agricultural production risk",
+      "description": "India faces concerns over agricultural production due to a projected sub-normal monsoon at 90% of the Long Period Average (LPA) for FY27. Poor rainfall has already led to a 16% fall in kharif sowing. While linkages between rainfall and agricultural GVA have weakened over decades, a weak monsoon still adversely impacts agricultural growth, raising concerns for raw material availability and prices for food processors, potentially leading to inflationary pressures.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-17",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf",
+      "source_date": "2026-07-17"
+    },
+    {
+      "index": 9,
+      "title": "Government actively promoting nutraceutical sector growth",
+      "description": "The Government of India is actively promoting the growth of the nutraceutical sector through a coordinated policy framework. This supportive stance provides a tailwind for the industry, fostering an environment conducive to expansion and investment. This includes efforts by FSSAI to strengthen claim verification and improve regulatory clarity, which enhance transparency and streamline decision-making processes for Functional Foods and Beverages within IG0501.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-17",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf",
+      "source_date": "2026-07-17"
+    },
+    {
+      "index": 10,
+      "title": "Regulatory gaps and high costs challenge nutraceuticals",
+      "description": "The nutraceutical industry faces challenges from gaps in consumer awareness, misleading product claims, and limited scientific validation. It lacks the stringent oversight of the pharmaceutical sector, posing regulatory challenges. High pricing compared to conventional supplements or regular food products also acts as a significant cost barrier for widespread adoption, impacting market penetration for functional foods and beverages within IG0501.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-17",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf",
+      "source_date": "2026-07-17"
+    },
+    {
+      "index": 11,
+      "title": "High import dependence exposes edible oil to global volatility",
+      "description": "India's edible oil sector is critically vulnerable due to its high import dependence, with nearly 56% of demand met externally. This reliance is concentrated on a few countries for palm oil, soybean oil, and sunflower oil, exposing India to export restrictions, geopolitical shocks, freight disruptions, and weather-related supply volatility. This leads to prolonged inflationary phases and higher landed rupee prices due to currency depreciation, significantly impacting IN050101 manufacturers.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-17",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf",
+      "source_date": "2026-07-17"
+    },
+    {
+      "index": 12,
+      "title": "Global biofuel mandates reduce edible oil export surplus",
+      "description": "Global biofuel mandates, such as Indonesia's move to B40/B50 and Malaysia's towards B12/B15, are increasing palm oil diversion for biodiesel. This significantly tightens global edible oil availability and links prices to crude oil and energy cycles. Despite potential production increases, the reduced exportable surplus structurally raises prices and affects India's import-dependent edible oil sector, increasing raw material costs for IN050101.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-17",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf",
+      "source_date": "2026-07-17"
+    },
+    {
+      "index": 13,
+      "title": "Slow domestic oil palm expansion limits import reduction",
+      "description": "Government initiatives like the National Mission on Edible Oils face limited near-term relief due to slow progress in oil palm acreage expansion and crude palm oil production. Long gestation periods, lower yields, small farm sizes, infrastructure gaps, seedling constraints, and competing crop economics (like maize/rice linked to ethanol demand) hinder efforts to reduce India's reliance on edible oil imports, keeping raw material costs elevated for IN050101.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-17",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf",
+      "source_date": "2026-07-17"
+    },
+    {
+      "index": 14,
+      "title": "Limited pricing power for edible oil refiners amidst rising costs",
+      "description": "Edible oil refiners and processors (IN050101) face limited pricing power in a volatile market. Raw material, logistics, and financing costs are increasing working capital needs. While profitability briefly improved in FY25, FY26 volatility has reversed this. Unless domestic production scales meaningfully and import exposure reduces, their profitability will remain structurally vulnerable to inflationary cycles, impacting margins and investment capacity.",
+      "type": "cyclical_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-17",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf",
+      "source_date": "2026-07-17"
+    },
+    {
+      "index": 15,
+      "title": "Feed cost volatility remains key poultry industry risk",
+      "description": "Feed (maize and soybean) constitutes 65-70% of total poultry production costs, making its price movements a critical determinant of profitability for IN050103. While FY26 saw some relief from maize price correction, soybean prices remained firm. CareEdge expects feed cost pressures to be manageable in FY27, but trajectories of maize and soybean, weather, and government policies remain key factors influencing margin sustainability and overall industry performance.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-13",
+      "source_doc_id": "7a90d3b6-0e92-5461-b45d-3ee758034576",
+      "source_title": "Indian Poultry Industry",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1783925183_Indian%20Poultry%20Industry.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "index": 16,
+      "title": "Poultry supply-demand imbalances cause price volatility",
+      "description": "The poultry industry's short production cycle makes supply highly responsive to market signals, often leading to periodic oversupply or undersupply. This results in volatility in poultry realisations and profitability for IN050103. Additionally, seasonal demand patterns, with lower consumption in summer and higher in festive/winter seasons, cause periodic price and margin fluctuations, impacting industry stability and the ability of producers to maintain consistent earnings.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": null,
+      "as_of_date": "2026-07-13",
+      "source_doc_id": "7a90d3b6-0e92-5461-b45d-3ee758034576",
+      "source_title": "Indian Poultry Industry",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1783925183_Indian%20Poultry%20Industry.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "index": 17,
+      "title": "Disease outbreaks and climate risks threaten poultry",
+      "description": "Avian influenza (like H5N1 outbreaks in Maharashtra and Karnataka in FY26) remains a key risk, leading to large-scale culling, supply disruptions, and pressure on poultry realisations for IN050103. Extreme temperatures, unseasonal rainfall, and broader climate variability adversely impact bird health, feed conversion efficiency, productivity, and disease incidence. These factors continuously affect operating performance despite biosecurity improvements, posing significant downside risks.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-13",
+      "source_doc_id": "7a90d3b6-0e92-5461-b45d-3ee758034576",
+      "source_title": "Indian Poultry Industry",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1783925183_Indian%20Poultry%20Industry.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "index": 18,
+      "title": "Processed poultry and food-service drive value addition",
+      "description": "Increasing consumer preference for processed, ready-to-cook, and convenience food products creates significant opportunities for poultry players (IN050103) to diversify into higher-margin, value-added products. The expansion of cold-chain infrastructure, organized retail, quick-service restaurants (QSRs), and online food delivery platforms supports growth in this segment, encouraging branding and reduced dependence on commodity sales for better profitability.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-13",
+      "source_doc_id": "7a90d3b6-0e92-5461-b45d-3ee758034576",
+      "source_title": "Indian Poultry Industry",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1783925183_Indian%20Poultry%20Industry.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "index": 19,
+      "title": "Technology improving poultry productivity and cost efficiency",
+      "description": "Adoption of advanced breeding practices, precision nutrition, automation, and improved farm management techniques are enhancing productivity and optimizing operating costs in the poultry industry (IN050103). Continuous advancements in breed genetics, nutrition, farm management, and biosecurity help improve Feed Conversion Ratios (FCR), directly boosting profitability by reducing feed consumption and production costs, driving long-term competitiveness.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-13",
+      "source_doc_id": "7a90d3b6-0e92-5461-b45d-3ee758034576",
+      "source_title": "Indian Poultry Industry",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1783925183_Indian%20Poultry%20Industry.pdf",
+      "source_date": "2026-07-13"
+    },
+    {
+      "index": 20,
+      "title": "Government schemes boost food processing investment & capacity",
+      "description": "The Indian government actively supports the food processing sector (IG0501) through schemes like PLISFPI (Production Linked Incentive Scheme for Food Processing Industries) and PMKSY (Pradhan Mantri Kisan SAMPADA Yojana). These schemes provide significant budgetary allocations, incentives for manufacturing, infrastructure development (cold chains, mega food parks), and promote Indian brands globally, creating jobs and increasing processing capacity, thereby acting as a strong tailwind for the industry.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "fcb5ccb0-5cf3-5184-aa7f-a5f295869121",
+      "source_title": "Food Processing Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/food-processing",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 21,
+      "title": "Strong FDI inflows indicate confidence in food processing",
+      "description": "India's food processing industry (IG0501) has attracted cumulative FDI inflows of approximately US$ 16.15 billion from January 2000 to March 2026, making it the 15th largest recipient of FDI equity inflows in India. This substantial foreign investment reflects strong investor confidence in the sector's growth potential and its role as a key contributor to India's manufacturing and agricultural economy, fueling capital expenditure and expansion.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "fcb5ccb0-5cf3-5184-aa7f-a5f295869121",
+      "source_title": "Food Processing Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/food-processing",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 22,
+      "title": "Rising consumer spending on processed food drives sector growth",
+      "description": "Indians are significantly increasing their expenditure on processed food, beverages, and refreshments, which now account for a notable share of food expenditure in both rural and urban areas. This shift in consumption patterns, coupled with rapid population growth, rising disposable incomes, and urbanization, is a major demand-side driver propelling the growth of the food processing industry (IG0501) towards substantial market size projections.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "f8ce5fcd-f6b4-5aef-b9a4-359ba2cd9b8d",
+      "source_title": "Agriculture And Allied Industries Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/agriculture-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 23,
+      "title": "Diverse agro-climatic conditions provide raw material advantage",
+      "description": "India's diverse agro-climatic conditions offer a wide-ranging and large raw material base suitable for food processing industries. This natural resource advantage, coupled with India ranking first in spices, milk, and second in fruits, vegetables, food grains, fish, and fourth in meat production, provides a competitive edge in sourcing inputs for the food and beverage sector (IG0501), ensuring supply stability and diversity.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "fcb5ccb0-5cf3-5184-aa7f-a5f295869121",
+      "source_title": "Food Processing Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/food-processing",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 24,
+      "title": "Enhanced export potential for Indian processed food products",
+      "description": "India's exports of agricultural and processed food products rose significantly, driven by strong rice, meat, and fruit shipments. Initiatives like APEDA's BHARATI for agri-food startups and the PLISFPI's focus on promoting Indian brands internationally aim to boost agri-food exports to US$ 50 billion by 2030. This, combined with EU approval for more marine product establishments, strengthens India's global position for IG0501 products.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "fcb5ccb0-5cf3-5184-aa7f-a5f295869121",
+      "source_title": "Food Processing Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/food-processing",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 25,
+      "title": "Quick commerce and e-commerce boosting FMCG food sales",
+      "description": "India's quick commerce sector is projected to reach US$ 10 billion by 2029, with 75-100% annual growth, significantly exceeding conventional retail. This rapid expansion, driven by demand for ultra-fast delivery, alongside increasing e-commerce penetration and smartphone users, strongly benefits FMCG companies, including food products, by expanding distribution, market reach, and driving sales in urban centers and increasingly in rural areas.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31",
+      "source_doc_id": "141de21d-8fe9-5a1b-94a3-412ceeb70e8c",
+      "source_title": "FMCG Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/fmcg-india",
+      "source_date": "2026-03-31"
+    },
+    {
+      "index": 26,
+      "title": "Direct-to-consumer channels driving FMCG growth",
+      "description": "India’s D2C market, which crossed US$ 80 billion in 2024, is expected to exceed US$ 100 billion in 2025. This growth is attracting significant acquisitions by large FMCG firms (e.g., HUL, Marico, ITC, Emami), expanding their D2C portfolios. For food companies (IG0501), D2C offers direct engagement with consumers, potentially higher margins, and a platform for new product launches, bypassing traditional retail intermediaries and fostering brand loyalty.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31",
+      "source_doc_id": "141de21d-8fe9-5a1b-94a3-412ceeb70e8c",
+      "source_title": "FMCG Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/fmcg-india",
+      "source_date": "2026-03-31"
+    },
+    {
+      "index": 27,
+      "title": "New product launches and brand expansion fueling growth",
+      "description": "FMCG companies are actively engaging in new product launches and brand expansion strategies. Examples include ITC and Prataap Snacks launching Korean chips, Pringles introducing new variants, and Marico adding a Munchies range. Reliance Consumer is also expanding its beverage portfolio with 15-20 variants. This focus on innovation, category expansion, and refreshing brands caters to evolving consumer preferences and drives market penetration within the food and beverage sector (IG0501).",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-31",
+      "source_doc_id": "141de21d-8fe9-5a1b-94a3-412ceeb70e8c",
+      "source_title": "FMCG Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/fmcg-india",
+      "source_date": "2026-03-31"
+    },
+    {
+      "index": 28,
+      "title": "AI transforming consumer insights and product development",
+      "description": "Around 43% of FMCG companies in India have adopted AI for forecasting, supply chain, and consumer analytics, indicating rapid integration into core operations. Technologies like AI, Big Data, and Predictive Analysis are used to accurately predict customer behavior, helping companies understand consumer interests, leading to better formulation and faster innovation in products. This is a significant upside for food and beverage companies (IG0501) to enhance market responsiveness.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-31",
+      "source_doc_id": "141de21d-8fe9-5a1b-94a3-412ceeb70e8c",
+      "source_title": "FMCG Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/fmcg-india",
+      "source_date": "2026-03-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Indian nutraceutical industry poised for sustained long-term growth",
+      "description": "CareEdge Ratings anticipates the Indian nutraceutical industry will grow at a 10-11% CAGR until FY30, driven by rising health awareness, persistent malnutrition, supportive government policies, and evolving lifestyle trends towards preventive healthcare. FSSAI's efforts to strengthen claim verification and improve regulatory clarity are expected to enhance transparency and streamline decision-making, further supporting the sector's evolution towards scale and sustainability. Functional Foods and Beverages (FFB) dominate this market, representing a significant growth avenue for the food processing sector.",
+      "stance": "positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-07-17",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf"
+    },
+    {
+      "index": 2,
+      "title": "Edible oil sector faces prolonged inflation, structural vulnerabilities",
+      "description": "CareEdge Ratings states India's edible oil sector is in a prolonged inflationary phase, driven by domestic constraints and adverse global developments. Prices rose since late OY2025 and accelerated in OY2026 due to supply disruptions, biofuel diversion, geopolitical risks, and currency weakness. The sector's high import dependence (56% of demand met externally) exposes it to global supply volatility, meaning its inflation cycle is structurally vulnerable rather than purely temporary.",
+      "stance": "negative",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-07-17",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf"
+    },
+    {
+      "index": 3,
+      "title": "Indian poultry industry sees stable growth, improving margins in FY27",
+      "description": "CareEdge Ratings maintains a stable outlook for the Indian poultry industry in FY27, projecting 6-7% revenue growth and 50-100 basis points profitability improvement. This is driven by increasing protein consumption, urbanization, rising disposable incomes, and capacity additions by organized players. Focus on improving Feed Conversion Ratio (FCR) and farm management will support productivity and competitiveness, while the evolving processed poultry segment offers long-term growth opportunities.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-07-13",
+      "source_doc_id": "7a90d3b6-0e92-5461-b45d-3ee758034576",
+      "source_title": "Indian Poultry Industry",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1783925183_Indian%20Poultry%20Industry.pdf"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 253587.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 10.43,
+      "forecast_cagr_period": "2026-34",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increasing demand for perishable goods",
+          "description": "Growing consumer demand for items like dairy, meat, seafood, fruits, and vegetables necessitates robust cold chain infrastructure."
+        },
+        {
+          "driver": "Expansion of e-commerce",
+          "description": "E-commerce growth drives demand for efficient cold chain logistics to deliver temperature-sensitive food products."
+        },
+        {
+          "driver": "Government initiatives to improve infrastructure",
+          "description": "Schemes like Pradhan Mantri Kisan SAMPADA Yojana boost cold chain and food processing infrastructure investments."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "IMARC Group data for cold chain market size in India. This infrastructure is crucial for preserving the quality, safety, and freshness of perishable goods like dairy, meat, seafood, fruits, and vegetables.",
+      "source_firm": "KPMG, citing IMARC",
+      "source_date": "2026-09-01",
+      "data_confidence": "high",
+      "source_doc_id": "5ad8d5dc-46d0-57e3-a58a-c242fec4222d",
+      "source_title": "Ensuring food safety and regulatory compliance in warehousing and distribution",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/09/ensuring-food-safety-and-regulatory-compliance-in-warehousing-and-distribution.html"
+    },
+    {
+      "index": 2,
+      "tam_value": 29.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": 10.5,
+      "forecast_cagr_period": "2024-30",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising health consciousness",
+          "description": "Post-COVID shift from optional wellness to essential daily health support drives demand for nutraceuticals."
+        },
+        {
+          "driver": "Malnutrition and lifestyle disorders",
+          "description": "Persistent issues drive demand for products supporting preventive healthcare and long-term wellness."
+        },
+        {
+          "driver": "Increasing disposable incomes",
+          "description": "Higher purchasing power allows consumers to invest in health and wellness products."
+        },
+        {
+          "driver": "Expansion of online delivery platforms",
+          "description": "Increased accessibility of nutraceutical products through digital channels."
+        },
+        {
+          "driver": "Demand for natural nutrition sources",
+          "description": "Consumer preference for natural and bio-agricultural-based products."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Major FMCG companies are expanding health and wellness portfolios through strategic acquisitions, indicating growth potential in the sector.",
+          "opportunity": "Acquisition of mid-sized nutraceutical brands by larger FMCG players"
+        },
+        {
+          "description": "FFB dominates the market and is supported by strong demand for fortified staples, beverages, and convenience-oriented health products, providing avenues for innovation and market expansion within IG0501.",
+          "opportunity": "Growth in Functional Foods and Beverages (FFB)"
+        }
+      ],
+      "methodology": "Market value based on analysis from CareEdge Ratings. Includes dietary supplements, functional foods, and beverages. Functional Foods and Beverages (FFB) account for ~70% of consumption within this market.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-07-17",
+      "data_confidence": "high",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 6.0,
+      "forecast_cagr_period": "FY26-FY27",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increasing protein consumption",
+          "description": "Rising consumer preference for protein-rich diets drives demand for poultry products."
+        },
+        {
+          "driver": "Urbanization and disposable incomes",
+          "description": "Growing urban population and higher purchasing power support increased consumption."
+        },
+        {
+          "driver": "Expansion of organized retail and QSR channels",
+          "description": "Modern trade and quick-service restaurants boost demand and distribution for poultry meat and eggs."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Feed cost volatility",
+          "description": "Maize and soybean prices are the single largest cost component (65-70% of production costs), directly impacting profitability. A 5% increase in blended feed cost could adversely impact PBILDT margins by 70-100 bps."
+        },
+        {
+          "driver": "Improved Feed Conversion Ratio (FCR)",
+          "description": "Advancements in breed genetics, nutrition, and farm management enhance FCR, reducing feed consumption and production costs, directly improving profitability."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Increasing consumer preference for processed, ready-to-cook, and convenience food creates opportunities for higher-margin value-added products.",
+          "opportunity": "Evolving processed poultry segment"
+        },
+        {
+          "description": "Expansion of cold-chain infrastructure and organised retail supports growth in export-oriented processed poultry.",
+          "opportunity": "Export opportunities for processed poultry"
+        }
+      ],
+      "methodology": "CareEdge Ratings estimate for aggregate poultry companies' revenue growth and profitability improvement.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-07-13",
+      "data_confidence": "high",
+      "source_doc_id": "7a90d3b6-0e92-5461-b45d-3ee758034576",
+      "source_title": "Indian Poultry Industry",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1783925183_Indian%20Poultry%20Industry.pdf"
+    },
+    {
+      "index": 4,
+      "tam_value": 33052.5,
+      "tam_unit": "INR_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 7.72,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Robust demand",
+          "description": "Growing product demand, technological adoption, and supportive government measures drive the agriculture sector, which feeds the food processing industry."
+        },
+        {
+          "driver": "Increasing consumption of processed food",
+          "description": "Indians are spending more on processed food, with beverages, refreshments, and processed items accounting for 9.84% of food expenditure in rural areas and 11.09% in urban areas in 2023-24."
+        },
+        {
+          "driver": "Rising disposable incomes",
+          "description": "India's per capita income is likely to grow by nearly 50% to US$ 4,000 by FY30 from US$ 2,759 in FY26, fueling consumption."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Market size of Indian food processing industry. Expected to reach INR 65,835 billion (US$ 689.02 billion) by FY34.",
+      "source_firm": "IBEF, citing IMARC",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "fcb5ccb0-5cf3-5184-aa7f-a5f295869121",
+      "source_title": "Food Processing Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/food-processing"
+    },
+    {
+      "index": 5,
+      "tam_value": 21318.5,
+      "tam_unit": "INR_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 11.8,
+      "forecast_cagr_period": "2026-34",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "India's top position in milk production",
+          "description": "India accounts for 25% of global milk output, with production rising 63.56% over the past decade, ensuring strong supply."
+        },
+        {
+          "driver": "Increasing per capita milk availability",
+          "description": "Per capita milk availability jumped from 124 grams to 471 grams, directly benefiting farmers and indicating strong demand."
+        },
+        {
+          "driver": "Growth in value-added products (VAP)",
+          "description": "Indian dairy companies project 11-13% growth in FY26, led by VAP, with capex boosting VAP share to 45% and improving profitability."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Industry valuation from IBEF report for the Indian dairy sector. Projected to grow significantly.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "fcb5ccb0-5cf3-5184-aa7f-a5f295869121",
+      "source_title": "Food Processing Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/food-processing"
+    },
+    {
+      "index": 6,
+      "tam_value": 289.12,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 17.33,
+      "forecast_cagr_period": "2025-30",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising disposable incomes",
+          "description": "Union Budget 2025-26 provides a strong push to consumer spending, particularly benefiting the FMCG industry through increased disposable income."
+        },
+        {
+          "driver": "Urbanization and digital penetration",
+          "description": "Rapid urbanization and increasing internet/smartphone penetration boost e-commerce and quick commerce, expanding reach and sales channels."
+        },
+        {
+          "driver": "Growing demand for healthy snacks",
+          "description": "Healthy snack market valued at US$ 3.13 billion in 2025, expected to reach US$ 4.77 billion by 2034, driven by functional, natural options and premiumization."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Overall FMCG sector market size. Food & Beverage is an essential component, accounting for about 3% of India's GDP and a significant share of FMCG.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high",
+      "source_doc_id": "141de21d-8fe9-5a1b-94a3-412ceeb70e8c",
+      "source_title": "FMCG Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/fmcg-india"
+    },
+    {
+      "index": 7,
+      "tam_value": 46571.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Consumer demand for functional and natural snacks",
+          "description": "Growing preference for healthy and natural options drives the snack market, including premiumisation trends."
+        },
+        {
+          "driver": "Expansion of quick commerce",
+          "description": "Ultra-fast delivery services boost sales of convenience-oriented snack products."
+        },
+        {
+          "driver": "New product launches and innovation",
+          "description": "Companies like ITC, Prataap Snacks, Pringles, Unibic, and Marico are launching new variants and ranges to capture market share."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Valued at US$ 3.13 billion in 2025, projected to reach US$ 4.77 billion by 2034, driven by functional, natural options, quick commerce, and premiumisation.",
+          "opportunity": "Healthy snack market growth"
+        },
+        {
+          "description": "Namkeen is expected to add Rs. 39,591 crore (US$ 4.5 billion) by 2029, presenting a significant growth area for snack manufacturers.",
+          "opportunity": "Namkeen segment expansion"
+        }
+      ],
+      "methodology": "IBEF report on the Indian snack market size. Startups are increasingly challenging legacy brands in this segment.",
+      "source_firm": "IBEF",
+      "source_date": "2026-03-31",
+      "data_confidence": "high",
+      "source_doc_id": "141de21d-8fe9-5a1b-94a3-412ceeb70e8c",
+      "source_title": "FMCG Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/fmcg-india"
+    },
+    {
+      "index": 8,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 8.0,
+      "forecast_cagr_period": "FY26",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing global demand for Indian alcoholic beverages",
+          "description": "India's alcobev industry aims to raise exports, tapping growing global demand, with products like gin, beer, wine, and rum gaining international recognition."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected revenue growth by CRISIL Ratings for the Indian alcoholic beverage (alcobev) industry.",
+      "source_firm": "IBEF, citing CRISIL Ratings",
+      "source_date": "2026-03-31",
+      "data_confidence": "high",
+      "source_doc_id": "141de21d-8fe9-5a1b-94a3-412ceeb70e8c",
+      "source_title": "FMCG Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/fmcg-india"
+    }
+  ],
+  "sources": [
+    "CareEdge Ratings",
+    "KPMG, citing IMARC",
+    "IBEF, citing IMARC",
+    "IBEF",
+    "IBEF, citing CRISIL Ratings"
+  ],
+  "documents": [
+    {
+      "doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "title": "CareEdge FORESIGHTS - July 2026",
+      "publisher": "careedge",
+      "date": "2026-07-17",
+      "url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf"
+    },
+    {
+      "doc_id": "7a90d3b6-0e92-5461-b45d-3ee758034576",
+      "title": "Indian Poultry Industry",
+      "publisher": "careedge",
+      "date": "2026-07-13",
+      "url": "https://www.careratings.com/uploads/newsfiles/1783925183_Indian%20Poultry%20Industry.pdf"
+    },
+    {
+      "doc_id": "30b0ebb9-c28e-5145-9b08-683ce3f6b01e",
+      "title": "Agricultural Intelligence: How AI Is Reshaping the Global Food System",
+      "publisher": "bcg_global",
+      "date": "2026-06-25",
+      "url": "https://www.bcg.com/publications/2026/how-ai-is-reshaping-the-global-food-system"
+    },
+    {
+      "doc_id": "5ad8d5dc-46d0-57e3-a58a-c242fec4222d",
+      "title": "Ensuring food safety and regulatory compliance in warehousing and distribution",
+      "publisher": "kpmg",
+      "date": "2026-09-01",
+      "url": "https://kpmg.com/in/en/insights/2026/09/ensuring-food-safety-and-regulatory-compliance-in-warehousing-and-distribution.html"
+    },
+    {
+      "doc_id": "fcb5ccb0-5cf3-5184-aa7f-a5f295869121",
+      "title": "Food Processing Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/food-processing"
+    },
+    {
+      "doc_id": "f8ce5fcd-f6b4-5aef-b9a4-359ba2cd9b8d",
+      "title": "Agriculture And Allied Industries Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/agriculture-india"
+    },
+    {
+      "doc_id": "141de21d-8fe9-5a1b-94a3-412ceeb70e8c",
+      "title": "FMCG Industry In India",
+      "publisher": "ibef",
+      "date": "2026-03-31",
+      "url": "https://www.ibef.org/industry/fmcg-india"
+    }
+  ]
+}

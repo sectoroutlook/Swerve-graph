@@ -1,0 +1,554 @@
+{
+  "geography": "IN",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Geopolitical conflicts boost coal demand by displacing LNG.",
+      "description": "Geopolitical conflicts in the Middle East led to a decline in liquefied natural gas (LNG) volumes in early 2026. This disruption in LNG supply caused a direct shift in demand towards coal, which was used as a substitute fuel. Consequently, coal consumption reached record highs, and several gigawatts of coal capacity were restarted or had their closure postponed in Asia to meet the increased energy demand.",
+      "type": "cyclical_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-01",
+      "source_doc_id": "a76c363d-148b-571c-9fb9-eb24b3bb00e7",
+      "source_title": "Investing in the energy transition: Time to look at whole-system value",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value",
+      "source_date": "2026-09-01"
+    },
+    {
+      "index": 2,
+      "title": "Coal India diversifies into low-carbon tech, repurposes mines.",
+      "description": "Coal India Limited (CIL) signed an MoU with IIT Madras in October 2025 to establish a \"Centre for Sustainable Energy.\" This initiative focuses on developing low-carbon technologies and repurposing existing coal mines, signifying a strategic shift for the country's largest coal producer. This move indicates the coal sub-industry's adaptation towards India's clean energy transition, aiming to mitigate environmental impact while ensuring energy security.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 3,
+      "title": "Green transport initiatives threaten long-term coal demand.",
+      "description": "India is actively promoting hydrogen fuel cell trucks to reduce emissions in freight transport, aligning with its 2070 net-zero targets. This initiative, which includes converting existing vehicles and adopting alternative fuels in commercial sectors, aims for broader decarbonization and reduced dependence on fossil fuels. Such advancements in clean mobility, while not directly impacting thermal coal mining immediately, represent a long-term structural headwind by diminishing the overall demand for consumable fuels for transport and indirectly for coal-based electricity generation for charging if not from renewables.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 4,
+      "title": "Renewable energy transition offers significant annual cost savings over coal.",
+      "description": "India anticipates annual savings of Rs. 54,000 crore (US$ 8.4 billion) by replacing coal-fired power plants with renewable energy sources. This economic incentive directly impacts the long-term viability and demand for thermal coal. The shift is driven by reduced power costs associated with renewables, presenting a significant headwind for the coal and consumable fuels sub-industry as the country moves towards a cleaner, more affordable energy mix.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 5,
+      "title": "Renewable capacity surpasses fossil fuels, altering energy mix.",
+      "description": "In H1 2025, India's renewable energy sector experienced record growth, adding 22 GW of capacity, a 56% year-on-year increase. This surge led to the country's total clean energy capacity, including large hydropower and nuclear, surpassing fossil fuel capacity for the first time. This represents a significant structural change in India's energy mix, indicating a long-term shift away from traditional consumable fuels like coal and creating increasing competition for power generation market share.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 6,
+      "title": "Steel sector's shift to ferrous scrap reduces coking coal reliance.",
+      "description": "The Indian steel sector is increasingly adopting ferrous scrap as a strategic raw material. This shift directly reduces the industry's dependence on coking coal, iron ore, and other fossil fuel-based energy inputs. By using scrap, steelmakers can significantly cut emissions on a commercial scale, mitigate exposure to commodity price volatility and supply chain issues, and address energy security concerns. This constitutes a long-term structural headwind for the coking coal segment of the Coal & Consumable Fuels sub-industry, as a key demand driver is being substituted.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-07",
+      "source_doc_id": "0bbde377-a1ee-5f14-a6c2-649ced48421b",
+      "source_title": "Why ferrous scrap is becoming a strategic lever for Indian steelmakers",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/media/podcasts/energy-transition-dialogues/2026/04/episode-10-why-ferrous-scrap-is-becoming-a-strategic-lever-for-indian-steelmakers",
+      "source_date": "2026-04-07"
+    },
+    {
+      "index": 7,
+      "title": "High ash content in domestic coking coal limits usability.",
+      "description": "India possesses vast coking coal reserves, but their usability is severely hampered by an exceptionally high ash content, often exceeding 30% compared to international standards of 9-14%. This necessitates extensive washing, yet only a small fraction (15-20 MMT annually) of the 240 MMT of raw coal produced can be made suitable for the steel industry. This quality challenge constitutes a significant key risk, limiting domestic supply and forcing a high reliance on imported coking coal, exposing the industry to global price volatility and supply security issues.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2025-11-17",
+      "source_doc_id": "ba9abbfe-97e0-5ec7-ac4e-f49ea7874bf3",
+      "source_title": "What it will take to make steel production in India sustainable",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/media/podcasts/energy-transition-dialogues/2025/11/episode-7-what-it-will-take-to-make-green-steel-production-in-india-sustainable",
+      "source_date": "2025-11-17"
+    },
+    {
+      "index": 8,
+      "title": "Heavy coking coal import dependence exposes India to global risks.",
+      "description": "India imports approximately 90% of its coking coal, primarily due to the high ash content in domestic reserves that renders most local output unusable for steelmaking. This heavy reliance exposes Indian steel manufacturers to significant risks, including price volatility benchmarked by global players, supply security issues from geopolitical events, and disruptions from adverse weather conditions in key exporting regions like Australia. Diversifying supply sources and investing in overseas mines are critical strategies to build resilience against these external dependencies.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2025-11-17",
+      "source_doc_id": "ba9abbfe-97e0-5ec7-ac4e-f49ea7874bf3",
+      "source_title": "What it will take to make steel production in India sustainable",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/media/podcasts/energy-transition-dialogues/2025/11/episode-7-what-it-will-take-to-make-green-steel-production-in-india-sustainable",
+      "source_date": "2025-11-17"
+    },
+    {
+      "index": 9,
+      "title": "Diversifying coking coal imports and building stockpiles enhances supply security.",
+      "description": "To mitigate risks associated with heavy reliance on a few coking coal suppliers and global price volatility, India is actively diversifying its import sources, reducing dependence on Australia from over 70-80% to 55-60%. Additionally, establishing strategic stockpiles near steel clusters, sufficient for 3-6 months, can provide a crucial cushion against supply disruptions caused by weather conditions or geopolitical events. These measures enhance the resilience and security of coking coal supply, which is critical for India's steel industry.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2025-11-17",
+      "source_doc_id": "ba9abbfe-97e0-5ec7-ac4e-f49ea7874bf3",
+      "source_title": "What it will take to make steel production in India sustainable",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/media/podcasts/energy-transition-dialogues/2025/11/episode-7-what-it-will-take-to-make-green-steel-production-in-india-sustainable",
+      "source_date": "2025-11-17"
+    },
+    {
+      "index": 10,
+      "title": "Enhancing domestic coking coal washery capacity to improve usability.",
+      "description": "India has significant domestic coking coal reserves, but their high ash content limits direct usability in steelmaking. Developing a robust washery network is crucial to beneficiate this coal, making it suitable for industrial use. While only 15-20 MMT of the 240 MMT raw coal produced annually is currently usable after washing, expanding and upgrading washery capacity can unlock a substantial domestic supply. This structural change would reduce reliance on imports and improve the overall resilience of the coking coal supply chain.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2025-11-17",
+      "source_doc_id": "ba9abbfe-97e0-5ec7-ac4e-f49ea7874bf3",
+      "source_title": "What it will take to make steel production in India sustainable",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/media/podcasts/energy-transition-dialogues/2025/11/episode-7-what-it-will-take-to-make-green-steel-production-in-india-sustainable",
+      "source_date": "2025-11-17"
+    },
+    {
+      "index": 11,
+      "title": "Hydrogen steelmaking and EAFs to reduce coking coal reliance.",
+      "description": "The steel sector's long-term decarbonization plan includes a significant shift towards hydrogen-based steelmaking and Electric Arc Furnaces (EAFs), aiming for 30-40% of steel production via these routes by 2040 and complete green steel by 2070. While current costs for hydrogen are prohibitive and EAF infrastructure requires extensive development (10-15 years for a robust scrap network), these technologies represent a profound structural headwind for coking coal demand. Blending grey and green hydrogen in DRI units offers a mid-term pathway to reduce coking coal dependence.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2025-11-17",
+      "source_doc_id": "ba9abbfe-97e0-5ec7-ac4e-f49ea7874bf3",
+      "source_title": "What it will take to make steel production in India sustainable",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/media/podcasts/energy-transition-dialogues/2025/11/episode-7-what-it-will-take-to-make-green-steel-production-in-india-sustainable",
+      "source_date": "2025-11-17"
+    },
+    {
+      "index": 12,
+      "title": "Government policies support short-term coking coal resilience.",
+      "description": "To enhance short-term resilience in the coking coal sector, the government is providing support through policies such as approvals for new washeries, encouraging domestic coal mining, and offering incentives for advanced beneficiation processes. These interventions aim to improve the quality and availability of domestic coking coal, thereby reducing import dependence and mitigating price volatility risks. Such policy support acts as a tailwind, bolstering the operational efficiency and supply security of the coal sub-industry.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2025-11-17",
+      "source_doc_id": "ba9abbfe-97e0-5ec7-ac4e-f49ea7874bf3",
+      "source_title": "What it will take to make steel production in India sustainable",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/media/podcasts/energy-transition-dialogues/2025/11/episode-7-what-it-will-take-to-make-green-steel-production-in-india-sustainable",
+      "source_date": "2025-11-17"
+    },
+    {
+      "index": 13,
+      "title": "Carbon capture technologies for steelmaking reduce emissions.",
+      "description": "The steel industry is increasingly deploying Carbon Capture, Utilization, and Storage (CCUS) units to reduce emissions and substitute fossil fuels in their processes. While current adoption faces challenges requiring strong policy support and infrastructure investment, the eventual widespread implementation of CCUS will allow blast furnaces to operate with significantly lower carbon footprints. This advancement acts as a long-term headwind for raw coking coal demand by diminishing the environmental imperative for its direct use and promoting cleaner steel production methods.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2025-11-17",
+      "source_doc_id": "ba9abbfe-97e0-5ec7-ac4e-f49ea7874bf3",
+      "source_title": "What it will take to make steel production in India sustainable",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/media/podcasts/energy-transition-dialogues/2025/11/episode-7-what-it-will-take-to-make-green-steel-production-in-india-sustainable",
+      "source_date": "2025-11-17"
+    },
+    {
+      "index": 14,
+      "title": "Carbon Credit Trading Scheme fosters decarbonization across industries.",
+      "description": "The Carbon Credit Trading Scheme (CCTS) is accelerating India Inc.'s decarbonization efforts by requiring companies to digitalize operational data for emissions transparency and offering incentives for green operations. With CCTS setting intensity targets for 743 entities across eight sectors, and future targets to be unknown beyond FY27, it will drive companies to reduce their carbon footprint. This scheme presents a structural headwind for carbon-intensive operations within the coal sector as it directly incentivizes reduction in emissions or purchase of credits.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-01-29",
+      "source_doc_id": "106eaad3-cff3-5cf5-aa14-74daec0638fa",
+      "source_title": "How India Inc. can accelerate decarbonization with CCTS",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/media/podcasts/energy-transition-dialogues/2026/01/episode-9-how-india-inc-can-accelerate-decarbonization-with-cctc",
+      "source_date": "2026-01-29"
+    },
+    {
+      "index": 15,
+      "title": "Heavy industries to replace captive coal plants with renewables.",
+      "description": "For industries like Aluminum and Chlor-Alkali, which often rely on captive coal-based power plants, transitioning to renewable energy (RE) may not always be cost-saving in the short term. However, the recommendation is to replace these captive power plants with RE assets at their end-of-life cycle. This long-term strategy, driven by CCTS targets and net-zero goals, signals a gradual but significant structural headwind for the thermal coal mining sub-industry as major industrial consumers plan their eventual shift away from coal-fired generation.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-08",
+      "source_doc_id": "29297d87-f4ed-5fb9-bba2-e8b95b87505c",
+      "source_title": "How CCTS is accelerating India Inc.’s race to decarbonize",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-cctc-is-accelerating-india-inc-s-race-to-decarbonize",
+      "source_date": "2026-01-08"
+    },
+    {
+      "index": 16,
+      "title": "Deepening reliance on domestic coal for power and industry.",
+      "description": "India's reliance on coal has deepened, as evidenced by a historic production of over one billion tonnes in FY2024–25, growing at a five-year CAGR of 7.5%. This significant domestic output, complemented by 243 million tonnes of imports, strongly underscores the system's continued dependence on coal to fuel power generation and industry. This trend acts as a strong tailwind for the Coal & Consumable Fuels sub-industry, indicating sustained demand and utilization despite ongoing decarbonization efforts.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-03",
+      "source_doc_id": "dd712017-b4ec-596f-8d3b-95ab8e57067a",
+      "source_title": "India’s energy balancing act",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/india-s-energy-balancing-act",
+      "source_date": "2026-02-03"
+    },
+    {
+      "index": 17,
+      "title": "Government exempts some coal plants from FGD for affordability.",
+      "description": "In July 2025, the Ministry of Environment, Forest and Climate Change granted an exemption for coal-fired power plants located outside a 10-km radius of populated cities from installing Flue Gas Desulphurisation (FGD) systems. This policy decision reflects a balancing act between environmental concerns (PM2.5 exposure) and the imperative of affordability in baseload coal power generation. By reducing capital expenditure requirements for these plants, this measure acts as a tailwind for thermal coal demand, supporting its continued role in the energy mix for specific regions.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2025-11-05",
+      "source_doc_id": "66820f67-7475-5da1-a12e-004012d10584",
+      "source_title": "Eigenvectors of net zero: Building a resilient energy future",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/eigenvectors-of-net-zero-building-a-resilient-energy-future",
+      "source_date": "2025-11-05"
+    },
+    {
+      "index": 18,
+      "title": "Stringent air quality policies risk coal plant closures.",
+      "description": "High PM2.5 exposure levels in India, similar to historical trends in China, indicate a growing pressure for more stringent air quality policies. China's experience post-2010 demonstrates that aggressive measures, including coal plant closures and emission standards, significantly reduced PM2.5 levels. Should India adopt comparable stringent air quality policies, it would pose a significant structural headwind for the coal and consumable fuels sub-industry, potentially leading to widespread coal plant closures and reduced thermal coal demand to improve public health outcomes.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2025-11-05",
+      "source_doc_id": "66820f67-7475-5da1-a12e-004012d10584",
+      "source_title": "Eigenvectors of net zero: Building a resilient energy future",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/eigenvectors-of-net-zero-building-a-resilient-energy-future",
+      "source_date": "2025-11-05"
+    },
+    {
+      "index": 19,
+      "title": "SMRs offer opportunity to repurpose retired coal plant sites.",
+      "description": "Small Modular Reactors (SMRs) are identified as a potential solution for repurposing retired coal plant sites, offering a way to reuse existing grid infrastructure and minimize land acquisition challenges. This policy enabler for nuclear energy provides an upside driver for the coal sector by offering a transition pathway for assets and infrastructure that would otherwise become stranded. While not directly boosting coal demand, it enables a smoother energy transition, potentially providing new revenue streams or avoiding decommissioning costs for companies with coal plant assets.",
+      "type": "upside_driver",
+      "impact_magnitude": "low",
+      "time_horizon": "long",
+      "as_of_date": "2025-11-05",
+      "source_doc_id": "66820f67-7475-5da1-a12e-004012d10584",
+      "source_title": "Eigenvectors of net zero: Building a resilient energy future",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/eigenvectors-of-net-zero-building-a-resilient-energy-future",
+      "source_date": "2025-11-05"
+    },
+    {
+      "index": 20,
+      "title": "Imported coking coal faces high price volatility and indexation risks.",
+      "description": "India's heavy reliance on imported coking coal exposes the domestic steel sector to significant price volatility and indexation risks. Global players and indices largely determine these prices, which are further exacerbated by supply concentration and currency dependencies. Disruptions due to weather conditions in major exporting regions like Australia or geopolitical events can cause sharp price fluctuations. This creates substantial cost uncertainty for Indian steel manufacturers, directly impacting their profitability and operational planning within the Coal & Consumable Fuels value chain.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": null,
+      "as_of_date": "2025-11-17",
+      "source_doc_id": "ba9abbfe-97e0-5ec7-ac4e-f49ea7874bf3",
+      "source_title": "What it will take to make steel production in India sustainable",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/media/podcasts/energy-transition-dialogues/2025/11/episode-7-what-it-will-take-to-make-green-steel-production-in-india-sustainable",
+      "source_date": "2025-11-17"
+    },
+    {
+      "index": 21,
+      "title": "Concentrated coking coal imports threaten India's supply security.",
+      "description": "India's steel industry faces significant supply security risks for coking coal due to a high concentration of imports, with over 50-60% currently sourced from Australia. This dependence makes the supply chain vulnerable to adverse weather conditions in regions like Queensland, as well as broader geopolitical events that can impact seaborne trade. Such disruptions can severely affect raw material availability for Indian steel manufacturers, highlighting a critical vulnerability for the Coal & Consumable Fuels sub-industry.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": null,
+      "as_of_date": "2025-11-17",
+      "source_doc_id": "ba9abbfe-97e0-5ec7-ac4e-f49ea7874bf3",
+      "source_title": "What it will take to make steel production in India sustainable",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/media/podcasts/energy-transition-dialogues/2025/11/episode-7-what-it-will-take-to-make-green-steel-production-in-india-sustainable",
+      "source_date": "2025-11-17"
+    },
+    {
+      "index": 22,
+      "title": "Government policy to boost domestic scrap for steel production.",
+      "description": "Government policy support for establishing a clear vision and enablers for the scrap collection, recycling, and its increased use in Electric Arc Furnaces (EAFs) is a critical upside driver. This includes developing a robust domestic scrap network, fostering an ecosystem for efficient scrap utilization, and potentially formalizing the scrap sector as an industrial priority. Such initiatives would reduce India's reliance on imported coking coal for steelmaking, thereby contributing to the nation's steel production goals and decarbonization efforts.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2025-11-17",
+      "source_doc_id": "ba9abbfe-97e0-5ec7-ac4e-f49ea7874bf3",
+      "source_title": "What it will take to make steel production in India sustainable",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/media/podcasts/energy-transition-dialogues/2025/11/episode-7-what-it-will-take-to-make-green-steel-production-in-india-sustainable",
+      "source_date": "2025-11-17"
+    },
+    {
+      "index": 23,
+      "title": "Declining share of coking coal as a fuel for steel production.",
+      "description": "The role of coking coal as a primary fuel in steel production is projected to decline significantly from its current 80% dependence to 40-50% by 2040, aiming for complete elimination by 2070. This shift is driven by the adoption of hydrogen-based steelmaking and Electric Arc Furnaces (EAFs), along with carbon capture technologies. This trend represents a profound and long-term headwind for the coking coal segment of the Coal & Consumable Fuels sub-industry, impacting its fundamental demand from a key end-use sector.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2025-11-17",
+      "source_doc_id": "ba9abbfe-97e0-5ec7-ac4e-f49ea7874bf3",
+      "source_title": "What it will take to make steel production in India sustainable",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/media/podcasts/energy-transition-dialogues/2025/11/episode-7-what-it-will-take-to-make-green-steel-production-in-india-sustainable",
+      "source_date": "2025-11-17"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Coal consumption reached record highs in 2025, delaying fossil fuel peak.",
+      "description": "McKinsey challenges the assumption that coal consumption has peaked, noting that it reached record highs in 2025 and continued to grow in early 2026. This growth is attributed to coal replacing liquefied natural gas volumes during geopolitical conflicts. In Asia, 8 gigawatts of coal capacity have been restarted or had their closure postponed, indicating a resilient demand for coal in the energy mix. The report suggests that the long-predicted \"peak\" for fossil fuels, including coal, remains elusive.",
+      "stance": "cautious_positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-01",
+      "source_doc_id": "a76c363d-148b-571c-9fb9-eb24b3bb00e7",
+      "source_title": "Investing in the energy transition: Time to look at whole-system value",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value"
+    },
+    {
+      "index": 2,
+      "title": "China's thermal coal use continues absolute expansion despite renewable growth.",
+      "description": "BCG's analysis of China's energy transition reveals that while renewable generation has expanded rapidly, thermal coal still constitutes over half of the country's energy supply. In absolute terms, the use of thermal coal continues to grow, with approximately 180 GW added over the past five years. Although coal's share is expected to decline proportionally over time, it will remain a significant component of China's energy system for the foreseeable future, highlighting the ongoing reliance on this fuel source.",
+      "stance": "cautious_positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-08-27",
+      "source_doc_id": "8b4270ca-15c5-5487-92a3-e211761ec7fa",
+      "source_title": "What the World Can Learn from China’s Energy Transition",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/china-energy-transition-global-lessons"
+    },
+    {
+      "index": 3,
+      "title": "Ferrous scrap adoption is a viable alternative to carbon-intensive steelmaking.",
+      "description": "EY highlights that ferrous scrap offers a commercially scalable solution to reduce dependency on carbon-intensive steelmaking, including coking coal. Given current challenges in sourcing energy raw materials like coal and fossil fuels for iron production, scrap provides an immediate pathway to cut emissions without relying on future technological breakthroughs. This approach mitigates exposure to raw material and logistics volatility, aligning with India's goals to produce 300 MMT of steel by FY30 while decarbonizing.",
+      "stance": "negative",
+      "source_firm": "ey",
+      "source_date": "2026-04-07",
+      "source_doc_id": "0bbde377-a1ee-5f14-a6c2-649ced48421b",
+      "source_title": "Why ferrous scrap is becoming a strategic lever for Indian steelmakers",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/media/podcasts/energy-transition-dialogues/2026/04/episode-10-why-ferrous-scrap-is-becoming-a-strategic-lever-for-indian-steelmakers"
+    },
+    {
+      "index": 4,
+      "title": "India's coal dependence deepens despite renewable growth, a decarbonization paradox.",
+      "description": "EY highlights India's \"decarbonization paradox,\" where despite record renewable installations and policy support, dependence on coal has deepened. In FY2024–25, India's coal production exceeded one billion tonnes, growing at a five-year CAGR of 7.5%, with an additional 243 million tonnes from imports. This indicates a strong reliance on coal for power generation and industry, showcasing a simultaneous expansion of both clean energy capacity and the fossil fuel base, underscoring the complexities of India's energy transition.",
+      "stance": "neutral",
+      "source_firm": "ey",
+      "source_date": "2026-02-03",
+      "source_doc_id": "dd712017-b4ec-596f-8d3b-95ab8e57067a",
+      "source_title": "India’s energy balancing act",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/india-s-energy-balancing-act"
+    },
+    {
+      "index": 5,
+      "title": "Coking coal demand to rise short-term, but green steel transition looms by 2070.",
+      "description": "EY-Parthenon's Vinayak Vipul states that India's coking coal demand is expected to rise in the foreseeable future, primarily due to the steel sector's reliance on the blast furnace route. However, he projects a significant long-term shift, with technologies like hydrogen-based steelmaking and electric arc furnaces (EAFs) leading to \"all steel as green steel\" by 2070. While these advanced technologies face current cost and infrastructure hurdles, their eventual adoption signifies a profound structural transition away from coking coal.",
+      "stance": "neutral",
+      "source_firm": "ey",
+      "source_date": "2025-11-17",
+      "source_doc_id": "ba9abbfe-97e0-5ec7-ac4e-f49ea7874bf3",
+      "source_title": "What it will take to make steel production in India sustainable",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/media/podcasts/energy-transition-dialogues/2025/11/episode-7-what-it-will-take-to-make-green-steel-production-in-india-sustainable"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rapid economic growth",
+          "description": "China's rapid economic growth and industrialization drives demand for thermal coal."
+        },
+        {
+          "driver": "Energy supply security",
+          "description": "Thermal coal remains a significant and stable component of China's energy system, constituting over half of its energy supply."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Thermal coal accounts for over 50% of China's energy supply, with approximately 180 GW of capacity added in the last five years, driven by rapid economic expansion.",
+      "source_firm": "bcg_global",
+      "source_date": "2026-08-27",
+      "data_confidence": "medium",
+      "source_doc_id": "8b4270ca-15c5-5487-92a3-e211761ec7fa",
+      "source_title": "What the World Can Learn from China’s Energy Transition",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/china-energy-transition-global-lessons"
+    },
+    {
+      "index": 2,
+      "tam_value": 80.0,
+      "tam_unit": "MMT",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 12.5,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Steel production growth",
+          "description": "India's National Steel Policy aims for 300 million metric tons (MMT) of crude steel capacity by 2030, with a 70% utilization rate, directly increasing coking coal demand."
+        },
+        {
+          "driver": "Blast furnace route dominance",
+          "description": "A large portion of steel in India is produced through the blast furnace route, which is highly dependent on coking coal as a key input."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Current coking coal demand for steel is around 80-85 MMT, projected to increase to approximately 135 MMT in the next 4 to 5 years, representing a 50-60% increase, driven by the National Steel Policy's target of 300 MMT crude steel capacity by 2030.",
+      "source_firm": "ey",
+      "source_date": "2026-04-07",
+      "data_confidence": "high",
+      "source_doc_id": "0bbde377-a1ee-5f14-a6c2-649ced48421b",
+      "source_title": "Why ferrous scrap is becoming a strategic lever for Indian steelmakers",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/media/podcasts/energy-transition-dialogues/2026/04/episode-10-why-ferrous-scrap-is-becoming-a-strategic-lever-for-indian-steelmakers"
+    },
+    {
+      "index": 3,
+      "tam_value": 1243.0,
+      "tam_unit": "MMT",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 7.5,
+      "historical_cagr_period": "5 years",
+      "demand_drivers": [
+        {
+          "driver": "Power generation",
+          "description": "Coal remains a primary fuel source for electricity generation in India to meet growing energy demand."
+        },
+        {
+          "driver": "Industrial activity",
+          "description": "Increased industrial production and economic activity contribute to the demand for coal as an energy source."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's coal production in FY2024–25 exceeded one billion tonnes (1000 MMT), with an additional 243 million tonnes coming from imports, totaling approximately 1243 MMT of coal consumption. This highlights the deepening reliance on coal for power generation and industry.",
+      "source_firm": "ey",
+      "source_date": "2026-02-03",
+      "data_confidence": "high",
+      "source_doc_id": "dd712017-b4ec-596f-8d3b-95ab8e57067a",
+      "source_title": "India’s energy balancing act",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/india-s-energy-balancing-act"
+    }
+  ],
+  "sources": [
+    "mckinsey",
+    "bcg_global",
+    "ey"
+  ],
+  "documents": [
+    {
+      "doc_id": "a76c363d-148b-571c-9fb9-eb24b3bb00e7",
+      "title": "Investing in the energy transition: Time to look at whole-system value",
+      "publisher": "mckinsey",
+      "date": "2026-09-01",
+      "url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value"
+    },
+    {
+      "doc_id": "8b4270ca-15c5-5487-92a3-e211761ec7fa",
+      "title": "What the World Can Learn from China’s Energy Transition",
+      "publisher": "bcg_global",
+      "date": "2026-08-27",
+      "url": "https://www.bcg.com/publications/2026/china-energy-transition-global-lessons"
+    },
+    {
+      "doc_id": "0bbde377-a1ee-5f14-a6c2-649ced48421b",
+      "title": "Why ferrous scrap is becoming a strategic lever for Indian steelmakers",
+      "publisher": "ey",
+      "date": "2026-04-07",
+      "url": "https://www.ey.com/en_in/media/podcasts/energy-transition-dialogues/2026/04/episode-10-why-ferrous-scrap-is-becoming-a-strategic-lever-for-indian-steelmakers"
+    },
+    {
+      "doc_id": "dd712017-b4ec-596f-8d3b-95ab8e57067a",
+      "title": "India’s energy balancing act",
+      "publisher": "ey",
+      "date": "2026-02-03",
+      "url": "https://www.ey.com/en_in/insights/energy-resources/india-s-energy-balancing-act"
+    },
+    {
+      "doc_id": "ba9abbfe-97e0-5ec7-ac4e-f49ea7874bf3",
+      "title": "What it will take to make steel production in India sustainable",
+      "publisher": "ey",
+      "date": "2025-11-17",
+      "url": "https://www.ey.com/en_in/media/podcasts/energy-transition-dialogues/2025/11/episode-7-what-it-will-take-to-make-green-steel-production-in-india-sustainable"
+    },
+    {
+      "doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "title": "Renewable Energy Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "doc_id": "106eaad3-cff3-5cf5-aa14-74daec0638fa",
+      "title": "How India Inc. can accelerate decarbonization with CCTS",
+      "publisher": "ey",
+      "date": "2026-01-29",
+      "url": "https://www.ey.com/en_in/media/podcasts/energy-transition-dialogues/2026/01/episode-9-how-india-inc-can-accelerate-decarbonization-with-cctc"
+    },
+    {
+      "doc_id": "29297d87-f4ed-5fb9-bba2-e8b95b87505c",
+      "title": "How CCTS is accelerating India Inc.’s race to decarbonize",
+      "publisher": "ey",
+      "date": "2026-01-08",
+      "url": "https://www.ey.com/en_in/insights/climate-change-sustainability-services/how-cctc-is-accelerating-india-inc-s-race-to-decarbonize"
+    },
+    {
+      "doc_id": "66820f67-7475-5da1-a12e-004012d10584",
+      "title": "Eigenvectors of net zero: Building a resilient energy future",
+      "publisher": "ey",
+      "date": "2025-11-05",
+      "url": "https://www.ey.com/en_in/insights/energy-resources/eigenvectors-of-net-zero-building-a-resilient-energy-future"
+    }
+  ]
+}

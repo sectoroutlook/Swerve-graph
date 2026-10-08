@@ -1,0 +1,309 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Value shifts to invisible control layer in payments",
+      "description": "The payments industry is undergoing a structural shift, with value relocating from front-end checkout screens and visible transactions to an invisible 'control layer' of trust, machine identity, consent engines, and dynamic routing protocols. This requires digital financial services and lending firms to adapt their business models, focusing on owning or integrating with this underlying infrastructure rather than solely competing on visible transaction execution.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25"
+    },
+    {
+      "index": 2,
+      "title": "EMEA margin compression and slower payments revenue growth",
+      "description": "The EMEA region (including the UK) faces significant margin compression and slower payments revenue growth, projected to moderate to 3% annually from 2025-2030, a sharp decline from 14% in 2020-2025. This is driven by lower interest rates compressing treasury and deposit margins, prompting a rapid shift towards fee-based structures. Digital financial services and lending firms in the UK will need to focus on fee resilience, operational discipline, and value-added services to counteract this trend.",
+      "type": "cyclical_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25"
+    },
+    {
+      "index": 3,
+      "title": "Agentic AI threatens deposit yields and card fee pools",
+      "description": "Autonomous software agents, driven by generative AI, pose a significant risk to traditional revenue streams for digital financial services and lending. These agents can optimize account yields by sweeping idle cash to higher-yielding products and dynamically route transactions to minimize fees or maximize rewards, eroding net interest income from deposits and consumer credit card revenues. This necessitates a strategic re-evaluation of business models and value capture mechanisms.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25"
+    },
+    {
+      "index": 4,
+      "title": "Payment infrastructure fragmenting into regional, multi-rail arenas",
+      "description": "Global payment infrastructure is fragmenting into regional, multi-rail competitive arenas rather than converging to a single standard. Digital financial services and lending firms must navigate competing pressures from zero-fee domestic real-time account-to-account (A2A) networks, legacy card perimeters, and emerging wholesale stablecoin corridors for cross-border settlement. This complexity requires strategic regional orchestration and adaptation of business models to diverse payment rail landscapes.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25"
+    },
+    {
+      "index": 5,
+      "title": "Digital asset adoption impacts traditional payment and deposit revenues",
+      "description": "The scaling of digital assets like stablecoins and tokenized deposits presents a structural challenge to traditional bank and card economics. Stablecoins bypass interchange fees and foreign-exchange markups, while shifting float income out of commercial bank deposits. As cross-border corporate corridors adopt tokenized settlement, digital financial services providers will face direct margin pressure on FX spreads and correspondent banking fees, requiring new monetization strategies.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25"
+    },
+    {
+      "index": 6,
+      "title": "Payments becoming embedded features, not standalone products",
+      "description": "Cross-border payments are transitioning from a standalone product to an embedded feature within broader financial and operational workflows, such as accounting, procurement, and treasury. This commoditization of execution (speed, cost) means digital financial services providers cannot rely solely on these capabilities. Success will increasingly depend on integrating payments seamlessly into enterprise workflows and offering value-added services surrounding the transaction.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future",
+      "source_date": "2026-08-26"
+    },
+    {
+      "index": 7,
+      "title": "Regulatory and competitive pressure driving payment price floors",
+      "description": "Cross-border payments face intense pricing pressure, driven by fintech challengers (e.g., Wise, Revolut, Airwallex) and increased regulatory transparency. Regulations mandate clearer disclosure of fees and FX charges, enabling easier customer switching and making it difficult to sustain hidden margins. This commoditization pushes prices towards zero, particularly in retail and small business segments, challenging traditional revenue models for digital financial services.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future",
+      "source_date": "2026-08-26"
+    },
+    {
+      "index": 8,
+      "title": "Increasing compliance complexity raises operational costs",
+      "description": "The increasing complexity of the payment ecosystem, moving beyond traditional bank-to-bank networks to interconnected fintechs and wallet networks, escalates compliance obligations for anti-money laundering (AML), sanctions, and fraud monitoring. This raises operational costs for digital financial services providers. Simultaneously, customers expect faster, cheaper, and more seamless experiences, creating a structural margin squeeze unless advanced AI and data analytics are deployed for operational excellence.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future",
+      "source_date": "2026-08-26"
+    },
+    {
+      "index": 9,
+      "title": "AI and data analytics enhance compliance and customer experience",
+      "description": "Digital financial services providers are increasingly leveraging AI and data analytics to navigate rising compliance costs and customer expectations for speed. These technologies improve screening accuracy, reduce false positives, automate investigations, and maintain regulatory adherence without compromising speed or customer experience. This adoption offers a critical pathway to operational excellence, transforming compliance from a cost center into a strategic differentiator and enabling more seamless digital services.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future",
+      "source_date": "2026-08-26"
+    },
+    {
+      "index": 10,
+      "title": "Demand for AI-enabled treasury and FX advisory services",
+      "description": "Internationally active midsize companies face increased volatility in currency markets and supply chains, driving demand for intelligent, AI-enabled recommendations for managing foreign exchange exposure, liquidity, and cash flows across multiple markets. Digital financial services and lending platforms that can offer sophisticated advisory tools alongside payment execution will differentiate themselves, moving beyond low-cost transactions to provide critical real-time financial decision support.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future",
+      "source_date": "2026-08-26"
+    },
+    {
+      "index": 11,
+      "title": "Mandated e-invoicing regimes drive integrated digital workflows",
+      "description": "Over 80 countries have introduced or mandated e-invoicing regimes, requiring businesses to exchange standardized invoice data, comply with real-time tax reporting, and maintain digital audit trails. This global trend creates a strong imperative for digital financial services providers to integrate payments, reconciliation, and tax reporting into seamless workflows, addressing the weaknesses of fragmented administrative systems and driving demand for embedded finance solutions.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-26",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future",
+      "source_date": "2026-08-26"
+    },
+    {
+      "index": 12,
+      "title": "AI for cash-flow intelligence and credit underwriting",
+      "description": "Advanced analytics and generative AI can significantly enhance digital lending capabilities, particularly for B2B segments. Interventions like cash-flow intelligence, dynamic risk scoring, and agentic credit underwriting allow lenders to move beyond collateral-based assessments to cash-flow based models, improving access to affordable credit for underserved segments. Over time, AI can orchestrate the entire trade lifecycle, streamlining financing and reducing risk premiums globally.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "ba875003-50c8-5718-b4a1-5d6b69a53c00",
+      "source_title": "India’s Next Growth Frontier: B2B Commerce, Payments, and Credit",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/indias-next-growth-frontier-b2b-commerce-payments-and-credit",
+      "source_date": "2026-09-11"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Payments value shifting from front-end screens to invisible control layer",
+      "description": "Global payments are experiencing a structural transition, with value moving from visible front-end interactions to the invisible back-end control layer of trust, dynamic routing, and agentic rails. This shift means growth for digital financial services and lending will depend less on broad market momentum and more on competitive advantages like operational discipline, regional orchestration, and technological leadership, fundamentally altering how value is captured and compelling a focus on infrastructure and deep workflow integration.",
+      "stance": "neutral",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    },
+    {
+      "index": 2,
+      "title": "Agentic AI poses significant revenue risk to payments and deposits",
+      "description": "Agentic artificial intelligence is poised to disrupt payments economics, potentially putting $75 billion (baseline) to $160 billion (aggressive scenario) of global payments revenue at risk by 2030, equivalent to 4-8% of retail/commercial deposits and consumer credit card revenues. This disruption stems from AI agents optimizing account yields, automating transaction routing for lower fees, and optimizing credit card repayments, compressing margins for digital financial services reliant on traditional deposit float and card interchange.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    },
+    {
+      "index": 3,
+      "title": "UK market shows resilience for card-based digital payment models",
+      "description": "The United Kingdom is identified as a 'card-resilient' market, possessing mature credit and debit card infrastructure with high adoption projections through 2035. Entrenched merchant acceptance, strong consumer rewards, and established dispute resolution mechanisms mean automated software agents are highly likely to route transactions through existing card rails. This implies continued stability and a foundational strength for digital financial services models built on card economics in the UK, despite emerging A2A alternatives.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    },
+    {
+      "index": 4,
+      "title": "Cross-border payments commoditizing, shifting value to embedded services",
+      "description": "Cross-border payment execution (speed, cost, security) is becoming commoditized, eroding infrastructure-based competitive advantages for digital financial services and lending firms. Value is shifting from standalone payment products to integrated features within broader financial and operational workflows (e.g., accounting, treasury). This necessitates a pivot for providers to differentiate through embedded payments, advisory services, and workflow orchestration, rather than solely on transaction efficiency.",
+      "stance": "neutral",
+      "source_firm": "McKinsey",
+      "source_date": "2026-08-26",
+      "source_doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "source_title": "Cross-border payments: Out of the commodity trap, into the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 75.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Deposit Net Interest Income (NII) Erosion",
+          "description": "Agentic AI automatically sweeps idle cash to higher-yielding accounts and investment products, causing balance migration and yield compression, putting $65 billion of global retail and commercial deposit NII at risk."
+        },
+        {
+          "driver": "Consumer Credit Card Revenue Erosion",
+          "description": "Agentic AI leads to payment rail substitution, automated repayment optimization, fee avoidance, and real-time foreign-exchange routing, putting $10 billion of global consumer credit card revenues at risk."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Baseline adoption scenario for agentic AI's impact on global payments revenue, including retail/commercial deposits and consumer credit card revenues, identified as revenue at risk.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "data_confidence": "medium",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Card Interchange Revenue Reduction",
+          "description": "Agentic commerce is projected to reduce card interchange revenue net of rewards by 30% to 75% in card-heavy markets, as agents optimize payment routing and manage rewards more efficiently. This significant compression will impact digital financial services reliant on card economics."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Projected impact of agentic commerce on net interchange revenue from credit cards in card-heavy markets (which includes the UK). The net pool is estimated at $10.3 billion in 2030 ($130.3 billion gross interchange minus $120 billion rewards), compared to $11 billion in 2025 ($94 billion gross interchange minus $83 billion rewards).",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "data_confidence": "medium",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    }
+  ],
+  "sources": [
+    "McKinsey"
+  ],
+  "documents": [
+    {
+      "doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "publisher": "mckinsey",
+      "date": "2026-09-25",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    },
+    {
+      "doc_id": "68d97922-71a9-5e7a-95b3-8f346f94abeb",
+      "title": "Cross-border payments: Out of the commodity trap, into the future",
+      "publisher": "mckinsey",
+      "date": "2026-08-26",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/cross-border-payments-out-of-the-commodity-trap-into-the-future"
+    },
+    {
+      "doc_id": "ba875003-50c8-5718-b4a1-5d6b69a53c00",
+      "title": "India’s Next Growth Frontier: B2B Commerce, Payments, and Credit",
+      "publisher": "bain",
+      "date": "2026-09-11",
+      "url": "https://www.bain.com/insights/indias-next-growth-frontier-b2b-commerce-payments-and-credit"
+    }
+  ]
+}

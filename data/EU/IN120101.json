@@ -1,0 +1,134 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Rising Dutch road traffic boosts potential toll road throughput",
+      "description": "Traffic volumes and congestion levels on Dutch roads surpassed pre-pandemic figures in 2025 and continue an upward trend. This sustained increase in vehicle kilometers travelled directly contributes to higher throughput potential for existing and new toll roads, offering a positive revenue outlook for concession holders and operators reliant on traffic volume.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-22",
+      "source_doc_id": "b9bc0ba2-c235-53fb-bb7b-8def2f02b131",
+      "source_title": "Dutch road transport gains momentum despite truck charge",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/road-transport-gaining-momentum-in-the-first-year-of-the-truck-charge",
+      "source_date": "2026-09-22",
+      "country_focus": "NL"
+    },
+    {
+      "index": 2,
+      "title": "Aging road infrastructure creates significant maintenance backlog risks",
+      "description": "The Netherlands faces an estimated €34.5 billion infrastructure maintenance backlog through 2038, with numerous aging assets requiring unexpected interventions, leading to closures and restrictions. This backlog poses a critical risk to the overall efficiency and reliability of the road network, potentially increasing operational challenges and limiting user throughput for toll road concession holders if not adequately addressed.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-22",
+      "source_doc_id": "b9bc0ba2-c235-53fb-bb7b-8def2f02b131",
+      "source_title": "Dutch road transport gains momentum despite truck charge",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/road-transport-gaining-momentum-in-the-first-year-of-the-truck-charge",
+      "source_date": "2026-09-22",
+      "country_focus": "NL"
+    },
+    {
+      "index": 3,
+      "title": "Insufficient government funding for road infrastructure upgrades",
+      "description": "Despite a government commitment of an additional €1.5 billion from 2027, this amount is considered insufficient to fully address the substantial €34.5 billion infrastructure maintenance backlog in the Netherlands. This underfunding acts as a significant headwind, implying continued degradation of road quality, persistent bottlenecks, and potentially fewer new publicly-backed opportunities for BOT/HAM/TOT toll road operators.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-22",
+      "source_doc_id": "b9bc0ba2-c235-53fb-bb7b-8def2f02b131",
+      "source_title": "Dutch road transport gains momentum despite truck charge",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/road-transport-gaining-momentum-in-the-first-year-of-the-truck-charge",
+      "source_date": "2026-09-22",
+      "country_focus": "NL"
+    },
+    {
+      "index": 4,
+      "title": "Inland shipping disruptions driving freight shift to road transport",
+      "description": "Recurring disruptions in inland shipping, notably due to low water levels, are compelling shippers to re-route freight to road transport, thus challenging long-term modal shift ambitions. This trend presents an indirect tailwind for toll road operators, as increased road freight volumes contribute to higher traffic throughput and potentially greater toll revenues, especially for segments along key freight corridors.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-22",
+      "source_doc_id": "93cf208c-3498-5a9d-bd82-206732fb766c",
+      "source_title": "Dutch transport and logistics proves resilient amid rising costs, global…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/transport-logistics-resilience-amid-disruptions-and-cost-inflation",
+      "source_date": "2026-09-22",
+      "country_focus": "NL"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Dutch road infrastructure quality declining amid significant maintenance backlog",
+      "description": "ING Research highlights a concerning decline in the quality of Dutch road infrastructure, marked by visibly aging assets leading to unexpected maintenance, closures, and efficiency reductions. The Netherlands faces an estimated €34.5 billion infrastructure maintenance backlog through 2038. Despite a government commitment of €1.5 billion from 2027, this funding is insufficient to address the challenge, suggesting persistent bottlenecks and a potential erosion of the country's world-class infrastructure reputation.",
+      "stance": "cautious_negative",
+      "source_firm": "ING Research",
+      "source_date": "2026-09-22",
+      "source_doc_id": "b9bc0ba2-c235-53fb-bb7b-8def2f02b131",
+      "source_title": "Dutch road transport gains momentum despite truck charge",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/road-transport-gaining-momentum-in-the-first-year-of-the-truck-charge",
+      "country_focus": "NL"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 34.5,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Aging Infrastructure",
+          "description": "Increasing age and wear of existing road infrastructure, including key bridges and crossings, necessitates substantial repair and replacement investments to maintain safety and operational standards."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The significant maintenance backlog represents a future pipeline for large-scale road infrastructure development and modernization, creating opportunities for toll road concession holders and BOT/HAM/TOT operators if suitable financing and procurement models are adopted.",
+          "opportunity": "New Concession Projects"
+        }
+      ],
+      "methodology": "Estimated infrastructure maintenance backlog for the Netherlands through 2038.",
+      "source_firm": "ING Research",
+      "source_date": "2026-09-22",
+      "data_confidence": "medium",
+      "source_doc_id": "b9bc0ba2-c235-53fb-bb7b-8def2f02b131",
+      "source_title": "Dutch road transport gains momentum despite truck charge",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/road-transport-gaining-momentum-in-the-first-year-of-the-truck-charge",
+      "country_focus": "NL"
+    }
+  ],
+  "sources": [
+    "ING Research"
+  ],
+  "documents": [
+    {
+      "doc_id": "b9bc0ba2-c235-53fb-bb7b-8def2f02b131",
+      "title": "Dutch road transport gains momentum despite truck charge",
+      "publisher": "ing_think",
+      "date": "2026-09-22",
+      "url": "https://think.ing.com/articles/road-transport-gaining-momentum-in-the-first-year-of-the-truck-charge"
+    },
+    {
+      "doc_id": "93cf208c-3498-5a9d-bd82-206732fb766c",
+      "title": "Dutch transport and logistics proves resilient amid rising costs, global…",
+      "publisher": "ing_think",
+      "date": "2026-09-22",
+      "url": "https://think.ing.com/articles/transport-logistics-resilience-amid-disruptions-and-cost-inflation"
+    }
+  ]
+}

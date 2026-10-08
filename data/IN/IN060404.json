@@ -1,0 +1,574 @@
+{
+  "geography": "IN",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Surging domestic and global demand for Indian pharmaceuticals",
+      "description": "India's domestic pharmaceutical market is projected to more than double from US$ 60 billion in FY26 to US$ 130 billion by 2030, driven by strong manufacturing, exports, and policy support. Simultaneously, pharmaceutical exports are expected to reach US$ 350 billion by 2047, representing a massive 10-15x increase. This substantial growth in both domestic consumption and international shipments creates a significant tailwind for pharmaceutical wholesalers and drug distributors, demanding robust and scalable logistics infrastructure to manage the increased volumes and wider reach.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "917db8be-8ec5-5318-af61-8e252ddf357a",
+      "source_title": "Pharmaceuticals Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/pharmaceutical-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 2,
+      "title": "Rapid growth in medical device market and domestic manufacturing",
+      "description": "The Indian medical devices market is projected to grow from US$ 15.2 billion in 2025 to US$ 50.1 billion by 2030. This growth is bolstered by government support (PLI schemes, medical device parks) which has increased domestic production's market share from 10% to 30% in five years, even for advanced Class-C devices. This significantly boosts demand for hospital supply distributors, requiring enhanced logistics for increased volumes of diverse medical equipment and consumables to both domestic and international markets.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "f68fe105-b250-534e-9f52-22a64b4e2c60",
+      "source_title": "Medical Devices Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/medical-devices",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 3,
+      "title": "Shift towards complex biologics and advanced therapies, demanding cold chain",
+      "description": "The biosimilars market in India is expected to grow at a 22% CAGR to US$ 12 billion by 2025. Coupled with the emergence of novel drug assets, indigenous CAR-T therapies, and GLP-1 agonists, there's a growing need for specialized cold chain logistics. These complex, temperature-sensitive products require stringent storage and transportation, fundamentally altering the operational requirements and sophistication of pharmaceutical distribution networks. The development of room-temperature stable products also offers a potential operational upside for specific products, easing transport challenges.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-17",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf",
+      "source_date": "2026-07-17"
+    },
+    {
+      "index": 4,
+      "title": "Strong government support and expanding healthcare infrastructure",
+      "description": "Union Budgets have increased healthcare allocations and introduced schemes like Ayushman Bharat, ABDM, PLI for pharma/medical devices, and new medical device parks. The expansion of Jan Aushadhi Kendras to 25,000 by March 2027 significantly boosts affordable generic drug distribution. Additionally, private hospitals are adding thousands of beds, and 157 new medical colleges are being established. This comprehensive policy and infrastructure drive creates a robust and expanding ecosystem, directly boosting demand for healthcare distribution services across the country.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "917db8be-8ec5-5318-af61-8e252ddf357a",
+      "source_title": "Pharmaceuticals Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/pharmaceutical-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 5,
+      "title": "Healthcare demand broadening to Tier II and III cities",
+      "description": "Hospital players are significantly expanding bed capacity, with considerable additions in Tier II and III cities to meet rising demand. This demographic shift and infrastructure expansion necessitates a wider and more intricate distribution network for pharmaceuticals and hospital supplies. Distributors will need to adapt their logistics and supply chain strategies to effectively serve these growing, often less accessible, urban and semi-urban centers, potentially increasing operational complexity and last-mile delivery challenges while also opening new market opportunities.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "75147d56-debd-5934-9b38-02089894a02d",
+      "source_title": "Healthcare Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/healthcare-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 6,
+      "title": "Regulatory streamlining and digital integration improving market access",
+      "description": "Regulatory reforms are focused on fast-tracking approvals, reducing drug development timelines, and strengthening product quality. Initiatives like alignment with WHO/PIC-S/ICH standards, the New Drugs, Medical Devices and Cosmetics Act 2025, and CDSCO's digitalization of 97% of operations are reducing inefficiencies. These measures facilitate faster market entry for new products and ensure higher quality standards across the supply chain, benefiting distributors through clearer guidelines, reduced delays, and improved traceability for regulated healthcare products.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-15",
+      "source_doc_id": "d53a0049-58a5-521a-83c4-153a45004b59",
+      "source_title": "Built on Scale, Turning to Science",
+      "source_publisher": "bcg_india",
+      "source_url": "https://www.bcg.com/publications/2026/india-pharma-and-life-sciences-innovation-opportunity",
+      "source_date": "2026-07-15"
+    },
+    {
+      "index": 7,
+      "title": "Advancing focus on cell and gene therapy and precision medicine",
+      "description": "India is strengthening capabilities in advanced domains like cell and gene therapy and precision medicine, with government initiatives like the Biopharma SHAKTI program (US$ 1.13 billion) and RDI Fund (US$ 11.32 billion) supporting domestic biomanufacturing. This shift implies a growing pipeline of highly specialized, often personalized and sensitive, medical products. Healthcare distributors will need to develop sophisticated logistics, specialized handling, and potentially just-in-time delivery capabilities to manage these high-value, critical therapies, driving innovation in distribution practices.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "8f464161-243b-55f2-abd4-96d41f4e62a6",
+      "source_title": "Biotechnology Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/biotechnology-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 8,
+      "title": "Differentiated distribution needs due to medical device risk classification",
+      "description": "The Health Ministry categorizes medical devices into four risk classes (A, B, C, D), from low-risk surgical dressings to high-risk coronary stents. This classification necessitates varying levels of regulatory compliance, quality control, and handling protocols during distribution. Distributors must adapt their processes, storage conditions, and traceability systems to adhere to these differentiated requirements, especially for high-risk devices, increasing operational complexity but also demanding greater specialization and expertise in the 'hospital supply distributors' segment.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "f68fe105-b250-534e-9f52-22a64b4e2c60",
+      "source_title": "Medical Devices Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/medical-devices",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 9,
+      "title": "High reliance on imported materials creates supply chain vulnerability",
+      "description": "Biotech and gene therapy startups report importing 90% of their materials from the US, Europe, and China, with lead times of 30-45 days. This high import dependence creates a significant supply chain vulnerability for domestic pharmaceutical and biotech manufacturing. Any disruptions in global supply chains (e.g., geopolitical events, trade restrictions) could lead to material shortages, production delays, and increased costs, directly impacting the availability of products for healthcare distribution and potentially causing stock-outs.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-15",
+      "source_doc_id": "d53a0049-58a5-521a-83c4-153a45004b59",
+      "source_title": "Built on Scale, Turning to Science",
+      "source_publisher": "bcg_india",
+      "source_url": "https://www.bcg.com/publications/2026/india-pharma-and-life-sciences-innovation-opportunity",
+      "source_date": "2026-07-15"
+    },
+    {
+      "index": 10,
+      "title": "Digitalization streamlining healthcare logistics and traceability",
+      "description": "The Ayushman Bharat Digital Mission (ABDM) has created over 500 million ABHA numbers, establishing a significant digital health identity system aimed at interoperability of health data and electronic health records. Furthermore, AI adoption in healthcare is rapidly growing, with the Indian AI in healthcare market projected to reach US$ 21,588.4 billion by 2033. These digital advancements can enable more efficient tracking, inventory management, and potentially automated logistics within healthcare distribution, improving supply chain visibility and reducing errors.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "75147d56-debd-5934-9b38-02089894a02d",
+      "source_title": "Healthcare Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/healthcare-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 11,
+      "title": "Medical tourism growth creating concentrated demand in hubs",
+      "description": "India's medical tourism sector is projected to almost double from US$ 8.71 billion in 2025 to US$ 16 billion by 2030, with a CAGR of 13.23%. The Union Budget 2026–27's plan to establish five regional medical hubs further consolidates this growth. This concentration of high-demand, specialized medical services in specific hubs will drive intensive demand for pharmaceuticals and hospital supplies in those areas, potentially leading to optimized, high-volume distribution routes and specialized logistics services for these dedicated facilities.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "7b449716-a5be-56b2-b46a-5a1d0bae532a",
+      "source_title": "Tourism And Hospitality Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/tourism-hospitality-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 12,
+      "title": "Enhanced affordability boosting generic drug demand",
+      "description": "Economic prosperity and government initiatives like the expansion of Jan Aushadhi Kendras (target 25,000 by March 2027) are driving improved affordability for generic drugs in India. This directly translates to increased consumer access and demand for these essential medicines. For drug distributors, this means higher volumes of generic pharmaceuticals moving through their networks, potentially emphasizing efficiency and cost-effectiveness in their distribution models to cater to a broader, price-sensitive market segment.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "917db8be-8ec5-5318-af61-8e252ddf357a",
+      "source_title": "Pharmaceuticals Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/pharmaceutical-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 13,
+      "title": "Telemedicine and RPM expansion influencing last-mile distribution",
+      "description": "India's telemedicine market is projected to grow at a CAGR of 20.42% through 2034, reaching US$ 20.02 billion, with similar growth in global remote patient monitoring. While primarily a service, this trend suggests a potential shift in care delivery towards the patient's home. This could increase the demand for direct-to-patient or last-mile distribution of pharmaceuticals, medical supplies, and monitoring devices, requiring healthcare distributors to adapt to decentralized, smaller-batch, and potentially faster home delivery models.",
+      "type": "structural_change",
+      "impact_magnitude": "low",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "75147d56-debd-5934-9b38-02089894a02d",
+      "source_title": "Healthcare Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/healthcare-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 14,
+      "title": "Upcoming patent cliff to boost generic and biosimilar market",
+      "description": "Patents for drugs with ~USD 225 billion in sales are set to expire during 2027–2033, creating a significant opportunity for generic and biosimilar entry, estimated at around USD 10 billion for Indian companies. India's favorable patent framework and cost-efficient manufacturing capabilities position it well to capture this. This influx of new generic and biosimilar products will drive substantial volumes through pharmaceutical distribution channels, requiring robust and efficient logistics to capitalize on the first-to-market advantage, particularly for chronic therapies.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-17",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf",
+      "source_date": "2026-07-17"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Upcoming patent cliff unlocks significant generic and biosimilar market opportunity for India",
+      "description": "India's pharmaceutical industry is well-positioned to capitalize on the impending patent cliff, with a projected opportunity of around USD 10 billion for generics and biosimilars. This is driven by India's favorable patent framework, proven cost-efficient generic manufacturing, and rapid scaling capabilities. Speed to market will be critical, especially for chronic therapies, as first entrants establish prescribing habits and patient loyalty. This will significantly increase the volume and diversity of products handled by healthcare distribution, demanding efficient and swift logistics.",
+      "stance": "positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-07-17",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf"
+    },
+    {
+      "index": 2,
+      "title": "Innovation momentum in Indian pharma faces structural gaps in scaling potential",
+      "description": "While Indian pharma and life sciences show emerging innovation, with novel drug assets and a rise in biotech startups, significant structural constraints limit scaling. These include limited access to early-stage, patient capital, weak bench-to-bedside translation from academia, and execution gaps in clinical trial infrastructure, regulatory consistency, and domestic supply chains. This implies that while new, complex products are emerging, challenges in getting them efficiently through the full value chain, including distribution, persist and need addressing to realize global leadership.",
+      "stance": "cautious_positive",
+      "source_firm": "BCG",
+      "source_date": "2026-07-15",
+      "source_doc_id": "d53a0049-58a5-521a-83c4-153a45004b59",
+      "source_title": "Built on Scale, Turning to Science",
+      "source_publisher": "bcg_india",
+      "source_url": "https://www.bcg.com/publications/2026/india-pharma-and-life-sciences-innovation-opportunity"
+    },
+    {
+      "index": 3,
+      "title": "Indian healthcare sector set for robust growth driven by innovation and spending",
+      "description": "The Indian healthcare sector is projected to reach US$ 638 billion by 2025, growing at a robust 21.57% CAGR (2016-25). This growth is fueled by innovation across hospitals, pharmaceuticals, and diagnostics, along with increasing public healthcare allocations and expanding infrastructure under government initiatives. This strong macro-level expansion creates a fundamental tailwind for all segments within healthcare, including distribution, by increasing the overall volume and value of products needing transport and storage.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "source_doc_id": "75147d56-debd-5934-9b38-02089894a02d",
+      "source_title": "Healthcare Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/healthcare-india"
+    },
+    {
+      "index": 4,
+      "title": "Pharmaceutical market poised for significant growth, doubling by 2030",
+      "description": "India's domestic pharmaceutical market, valued at US$ 60 billion in FY26, is projected to more than double to US$ 130 billion by 2030. This expansion is driven by strong manufacturing capabilities, expanding exports, and government policy support, reinforcing India's leadership in generic medicines and vaccines. Such substantial growth directly benefits pharmaceutical wholesalers and drug distributors, as it translates into a significantly larger volume and value of medicines requiring efficient and extensive distribution networks.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "source_doc_id": "917db8be-8ec5-5318-af61-8e252ddf357a",
+      "source_title": "Pharmaceuticals Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/pharmaceutical-india"
+    },
+    {
+      "index": 5,
+      "title": "Medical devices market to grow significantly, bolstering hospital supply distribution",
+      "description": "India’s medical devices market is projected to grow from US$ 15.2 billion in 2025 to US$ 50.1 billion by 2030. This growth is underpinned by rising healthcare demand, improved insurance coverage, expanding infrastructure, and supportive government policies like PLI schemes and medical device parks. This robust growth directly translates to increased demand for hospital supply distributors, necessitating expanded capacity and specialized logistics for a wider range of medical devices and consumables.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "source_doc_id": "f68fe105-b250-534e-9f52-22a64b4e2c60",
+      "source_title": "Medical Devices Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/medical-devices"
+    },
+    {
+      "index": 6,
+      "title": "Biotechnology sector set for strong long-term expansion, driving specialized logistics",
+      "description": "The Indian biotechnology market is projected to reach US$ 112.18 billion by 2034, growing at a CAGR of 13.09% (2026-34). This growth is driven by rising demand for personalized medicine, chronic disease treatments, and the integration of IT with biotech. The expansion of biopharma, including complex biologics, biosimilars, cell, and gene therapies, will require increasingly specialized cold chain logistics and sophisticated distribution capabilities, significantly impacting the operational landscape for healthcare distributors.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "source_doc_id": "8f464161-243b-55f2-abd4-96d41f4e62a6",
+      "source_title": "Biotechnology Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/biotechnology-india"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 638.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 21.57,
+      "forecast_cagr_period": "2016-2025",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Innovation across healthcare segments",
+          "description": "Innovation in hospitals, pharmaceuticals, and diagnostics fuels demand for new products and services."
+        },
+        {
+          "driver": "Rising income levels and health awareness",
+          "description": "Increased disposable incomes and greater health consciousness lead to higher healthcare spending."
+        },
+        {
+          "driver": "Expanding public and private expenditure",
+          "description": "Both government allocations and private investments are strengthening the healthcare investment landscape."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Valuation of the Indian healthcare sector, driven by innovation across hospitals, pharmaceuticals, and diagnostics.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "75147d56-debd-5934-9b38-02089894a02d",
+      "source_title": "Healthcare Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/healthcare-india"
+    },
+    {
+      "index": 2,
+      "tam_value": 60.0,
+      "tam_unit": "USD_bn",
+      "sam_value": 130.0,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2026-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong manufacturing capabilities",
+          "description": "India's robust production capacity in pharmaceuticals, especially generics and vaccines."
+        },
+        {
+          "driver": "Expanding exports",
+          "description": "India's role as a leading global supplier of generic medicines and a key player in affordable vaccines."
+        },
+        {
+          "driver": "Policy support",
+          "description": "Government initiatives and policies aimed at boosting the pharmaceutical sector."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Domestic pharmaceutical market valuation, projected to more than double by 2030.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "917db8be-8ec5-5318-af61-8e252ddf357a",
+      "source_title": "Pharmaceuticals Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/pharmaceutical-india"
+    },
+    {
+      "index": 3,
+      "tam_value": 15.2,
+      "tam_unit": "USD_bn",
+      "sam_value": 50.1,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising healthcare demand",
+          "description": "Increased prevalence of diseases, aging population, and greater health awareness drive demand for medical devices."
+        },
+        {
+          "driver": "Better insurance coverage",
+          "description": "Expanded health insurance penetration makes medical devices more affordable and accessible."
+        },
+        {
+          "driver": "Improved infrastructure and government policies",
+          "description": "Growing healthcare facilities and supportive government schemes (PLI, medical device parks) boost sector growth."
+        },
+        {
+          "driver": "Technological advancements",
+          "description": "Adoption of new-generation technologies like AI, predictive diagnostics, and personalized medicine in devices."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Valuation of the Indian MedTech market.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "f68fe105-b250-534e-9f52-22a64b4e2c60",
+      "source_title": "Medical Devices Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/medical-devices"
+    },
+    {
+      "index": 4,
+      "tam_value": 37.09,
+      "tam_unit": "USD_bn",
+      "sam_value": 112.18,
+      "as_of_year": 2025,
+      "forecast_cagr": 13.09,
+      "forecast_cagr_period": "2026-2034",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising demand for personalized medicine",
+          "description": "Growth in precision healthcare tailored to individual patient needs."
+        },
+        {
+          "driver": "Chronic disease treatments",
+          "description": "Increased prevalence of chronic diseases drives demand for advanced biotech solutions."
+        },
+        {
+          "driver": "Integration of IT with biotech",
+          "description": "Technological advancements and digitalization supporting biotech innovation."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Overall Indian biotechnology market size.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "8f464161-243b-55f2-abd4-96d41f4e62a6",
+      "source_title": "Biotechnology Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/biotechnology-india"
+    },
+    {
+      "index": 5,
+      "tam_value": 12.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 22.0,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Global patent cliff",
+          "description": "Expiry of patents for originator biologic drugs creating opportunities for biosimilar entry."
+        },
+        {
+          "driver": "Increasing demand for affordable biologics",
+          "description": "Biosimilars offer cost-effective alternatives to expensive biologics, expanding access."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Biosimilars market valuation, representing almost 20% of the total pharmaceutical market in India by 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "917db8be-8ec5-5318-af61-8e252ddf357a",
+      "source_title": "Pharmaceuticals Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/pharmaceutical-india"
+    },
+    {
+      "index": 6,
+      "tam_value": 350.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2047,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "India's role as 'Pharmacy of the World'",
+          "description": "Continued leadership in supplying generic medicines and low-cost vaccines globally."
+        },
+        {
+          "driver": "Expanding global market access",
+          "description": "Indian drugs exported to over 200 nations, including highly regulated markets."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projected pharmaceutical exports, a 10-15 times increase from current levels.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "medium",
+      "source_doc_id": "917db8be-8ec5-5318-af61-8e252ddf357a",
+      "source_title": "Pharmaceuticals Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/pharmaceutical-india"
+    },
+    {
+      "index": 7,
+      "tam_value": 8.71,
+      "tam_unit": "USD_bn",
+      "sam_value": 16.0,
+      "as_of_year": 2025,
+      "forecast_cagr": 13.23,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Affordable and high-quality care",
+          "description": "India's reputation for cost-effective medical treatments and quality healthcare services."
+        },
+        {
+          "driver": "Holistic medical tourism ecosystem",
+          "description": "Development of comprehensive services catering to international patients."
+        },
+        {
+          "driver": "Establishment of regional medical hubs",
+          "description": "Government initiatives to create dedicated medical tourism destinations."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Valuation of the medical tourism sector in India.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "7b449716-a5be-56b2-b46a-5a1d0bae532a",
+      "source_title": "Tourism And Hospitality Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/tourism-hospitality-india"
+    }
+  ],
+  "sources": [
+    "CareEdge Ratings",
+    "BCG",
+    "IBEF"
+  ],
+  "documents": [
+    {
+      "doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "title": "CareEdge FORESIGHTS - July 2026",
+      "publisher": "careedge",
+      "date": "2026-07-17",
+      "url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf"
+    },
+    {
+      "doc_id": "d53a0049-58a5-521a-83c4-153a45004b59",
+      "title": "Built on Scale, Turning to Science",
+      "publisher": "bcg_india",
+      "date": "2026-07-15",
+      "url": "https://www.bcg.com/publications/2026/india-pharma-and-life-sciences-innovation-opportunity"
+    },
+    {
+      "doc_id": "75147d56-debd-5934-9b38-02089894a02d",
+      "title": "Healthcare Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/healthcare-india"
+    },
+    {
+      "doc_id": "917db8be-8ec5-5318-af61-8e252ddf357a",
+      "title": "Pharmaceuticals Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/pharmaceutical-india"
+    },
+    {
+      "doc_id": "f68fe105-b250-534e-9f52-22a64b4e2c60",
+      "title": "Medical Devices Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/medical-devices"
+    },
+    {
+      "doc_id": "8f464161-243b-55f2-abd4-96d41f4e62a6",
+      "title": "Biotechnology Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/biotechnology-india"
+    },
+    {
+      "doc_id": "7b449716-a5be-56b2-b46a-5a1d0bae532a",
+      "title": "Tourism And Hospitality Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/tourism-hospitality-india"
+    }
+  ]
+}

@@ -1,0 +1,700 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Demographic trends drive sustained healthcare demand in Ireland.",
+      "description": "Ireland's healthcare sector faces structurally high and growing demand driven by an ageing population, increased life expectancy, and a rising incidence of chronic diseases. These factors consistently underpin growth across residential care, disability services, homecare, community pharmacies, and private hospitals (IN060401, IN060404). This demographic shift creates a resilient investment environment and ensures long-term demand for a broad range of healthcare services, independent of economic cycles.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-08-06",
+      "source_doc_id": "268cdf0e-a923-5e7f-995f-b607667991f3",
+      "source_title": "Bank of Ireland Healthcare Sector H1 2026 Insights and H2 2026 Outlook July 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/BOI-Healthcare-Sector-H1-Insights-and-H2-Outlook-2026.pdf",
+      "source_date": "2026-08-06",
+      "country_focus": "IE"
+    },
+    {
+      "index": 2,
+      "title": "Severe capacity constraints persist in Irish nursing homes and disability services.",
+      "description": "Ireland faces significant capacity constraints in its nursing home and disability residential services. National nursing home bed stock declined by 116 beds in the last 12 months, with an estimated 1,039 additional beds required annually. Similarly, 2,197 residential disability places are needed nationally. These shortfalls in Healthcare Facilities (IN060401) highlight a critical supply gap, creating operational challenges for providers and limiting access for patients despite strong demand fundamentals.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-06",
+      "source_doc_id": "268cdf0e-a923-5e7f-995f-b607667991f3",
+      "source_title": "Bank of Ireland Healthcare Sector H1 2026 Insights and H2 2026 Outlook July 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/BOI-Healthcare-Sector-H1-Insights-and-H2-Outlook-2026.pdf",
+      "source_date": "2026-08-06",
+      "country_focus": "IE"
+    },
+    {
+      "index": 3,
+      "title": "Consolidation and infrastructure investment drive Irish healthcare sector growth.",
+      "description": "Consolidation activity is expected to continue across the Irish healthcare sector, particularly in nursing homes and community pharmacy, presenting opportunities for acquisition finance and refinancing. Concurrently, significant investment is projected for disability services, home care, private hospitals, and primary care infrastructure, including a requirement for an additional 2,197 residential disability places. This M&A and infrastructure development acts as a strong upside driver for growth and modernization across Healthcare Facilities (IN060401) and Healthcare Distribution (IN060404).",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-06",
+      "source_doc_id": "268cdf0e-a923-5e7f-995f-b607667991f3",
+      "source_title": "Bank of Ireland Healthcare Sector H1 2026 Insights and H2 2026 Outlook July 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/BOI-Healthcare-Sector-H1-Insights-and-H2-Outlook-2026.pdf",
+      "source_date": "2026-08-06",
+      "country_focus": "IE"
+    },
+    {
+      "index": 4,
+      "title": "Workforce shortages and cost inflation challenge Irish healthcare operators.",
+      "description": "Despite strong underlying demand, Irish healthcare operators face persistent operational challenges from workforce shortages, funding adequacy, and cost inflation. Attracting and retaining staff, managing escalating costs, ensuring regulatory compliance, and driving digital transformation are critical priorities. These issues present significant headwinds for profitability and service delivery across various healthcare services (IG0604), necessitating strategic action to maintain quality and expand capacity amidst growing demand.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-06",
+      "source_doc_id": "268cdf0e-a923-5e7f-995f-b607667991f3",
+      "source_title": "Bank of Ireland Healthcare Sector H1 2026 Insights and H2 2026 Outlook July 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/BOI-Healthcare-Sector-H1-Insights-and-H2-Outlook-2026.pdf",
+      "source_date": "2026-08-06",
+      "country_focus": "IE"
+    },
+    {
+      "index": 5,
+      "title": "Rising energy and transport costs pressure pharmaceutical distribution margins.",
+      "description": "The pharmaceutical sector in Ireland faces pressure from increased energy and transport costs due to global oil and gas market volatility. While multinational operators are well-positioned to absorb these, smaller and specialized businesses, including pharmaceutical distributors (IN060404), must review supplier resilience, logistics exposure, and working capital to protect margins and ensure operational continuity. This cost pressure is a significant challenge for healthcare distribution services, impacting profitability and operational stability.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-22",
+      "source_doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "source_title": "July 2026 Ireland Sector Snippets",
+      "source_publisher": "allianz_ie",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html",
+      "source_date": "2026-07-22",
+      "country_focus": "IE"
+    },
+    {
+      "index": 6,
+      "title": "Remote care and monitoring transforming hospital operations across Europe.",
+      "description": "Remote patient monitoring is emerging as a critical solution for European hospitals facing intensifying staff shortages and growing demand. This technology, including devices for measuring vital signs, improves patient mobility, reduces hospital admissions, and shortens stays. It allows hospitals to boost capacity and treat more patients effectively, offering a structural shift in care delivery towards more efficient, technology-enabled models across healthcare facilities (IN060401) and addressing mounting pressures.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-16",
+      "source_doc_id": "37486c31-507a-5866-bae6-93a4ae9c7d01",
+      "source_title": "How technology could cut millions of hospital visits across Europe",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-technology-could-save-millions-of-european-hospital-visits1",
+      "source_date": "2026-06-16",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Intensifying healthcare staff shortages across Europe create mounting pressure.",
+      "description": "Despite increased employment in the EU healthcare sector, staff shortages are worsening due to an ageing workforce, heavy workloads, and high turnover. The WHO projects the staffing gap to exceed 4 million workers by 2030, intensifying pressure on healthcare providers (IN060401) and impacting care delivery capacity and quality. This structural issue necessitates technological solutions like remote care to manage growing demand and maintain service levels across Europe.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-16",
+      "source_doc_id": "37486c31-507a-5866-bae6-93a4ae9c7d01",
+      "source_title": "How technology could cut millions of hospital visits across Europe",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-technology-could-save-millions-of-european-hospital-visits1",
+      "source_date": "2026-06-16",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "Inconsistent funding hampers remote patient monitoring adoption in Europe.",
+      "description": "The rollout of remote patient monitoring in Europe faces challenges due to fragmented funding and policy. The UK saw rapid adoption with central funding for virtual wards, but growth stalled after its discontinuation. This highlights that while the technology offers significant benefits for healthcare facilities (IN060401) and patients, inconsistent or insufficient reimbursement models and lack of sustained central financial support hinder broad scale-up across the EU. This barrier slows innovation and efficiency gains.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-16",
+      "source_doc_id": "37486c31-507a-5866-bae6-93a4ae9c7d01",
+      "source_title": "How technology could cut millions of hospital visits across Europe",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-technology-could-save-millions-of-european-hospital-visits1",
+      "source_date": "2026-06-16",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "title": "Fragmented EU regulatory and reimbursement frameworks slow digital health adoption.",
+      "description": "Broad European scale-up of remote patient monitoring is slow, with major EU countries like Germany and France lagging. Germany's strict separation of hospital and ambulatory care funding, and France's slow patient participation despite reimbursement, illustrate how fragmented regulatory practices and inconsistent financial incentives hinder the adoption of digital health solutions in healthcare facilities (IN060401). This lack of a harmonized approach across the EU creates significant barriers to innovation.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-16",
+      "source_doc_id": "37486c31-507a-5866-bae6-93a4ae9c7d01",
+      "source_title": "How technology could cut millions of hospital visits across Europe",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-technology-could-save-millions-of-european-hospital-visits1",
+      "source_date": "2026-06-16",
+      "country_focus": "EU"
+    },
+    {
+      "index": 10,
+      "title": "Decentralized healthcare systems impede digital care scale-up in Europe.",
+      "description": "Fragmented healthcare systems with multiple regional delivery organizations and weaker central direction, common in countries like France, Spain, and Italy, hinder rapid scale-up of innovations like remote patient monitoring for healthcare facilities (IN060401). Countries with more centralized or fewer, stronger regional delivery structures, such as the UK and Denmark, demonstrate greater capacity for innovation adoption, highlighting a structural challenge for much of Europe.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-16",
+      "source_doc_id": "37486c31-507a-5866-bae6-93a4ae9c7d01",
+      "source_title": "How technology could cut millions of hospital visits across Europe",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-technology-could-save-millions-of-european-hospital-visits1",
+      "source_date": "2026-06-16",
+      "country_focus": "EU"
+    },
+    {
+      "index": 11,
+      "title": "Dutch medical service centers and funding boost remote monitoring.",
+      "description": "The Netherlands has significantly advanced remote patient monitoring due to broad experience, scaling of national medical service centers, health insurer support, severe staff shortages, and over €2 billion in government funding for healthcare innovation. These factors enable efficient, quality care through shared medical service centers that centralize monitoring data and refer patients to outpatient clinics, enhancing the capacity and effectiveness of healthcare facilities (IN060401) and driving a positive feedback loop for adoption and scaling.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-16",
+      "source_doc_id": "37486c31-507a-5866-bae6-93a4ae9c7d01",
+      "source_title": "How technology could cut millions of hospital visits across Europe",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-technology-could-save-millions-of-european-hospital-visits1",
+      "source_date": "2026-06-16",
+      "country_focus": "NL"
+    },
+    {
+      "index": 12,
+      "title": "Limited financial capacity and scale hinder European hospital innovation.",
+      "description": "Many European hospitals, especially smaller ones, lack the sufficient financial strength and scale needed to absorb the high investment costs for digital transformation and remote monitoring. This financial constraint makes it difficult to upgrade technology, train staff, and implement new workflows, impacting the ability of healthcare facilities (IN060401) to innovate and scale-up efficiently. Cooperation or mergers are often necessary to overcome these barriers, highlighting a significant financial and structural challenge.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-16",
+      "source_doc_id": "37486c31-507a-5866-bae6-93a4ae9c7d01",
+      "source_title": "How technology could cut millions of hospital visits across Europe",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-technology-could-save-millions-of-european-hospital-visits1",
+      "source_date": "2026-06-16",
+      "country_focus": "EU"
+    },
+    {
+      "index": 13,
+      "title": "Poor data exchange infrastructure hinders digital health in Ireland and Netherlands.",
+      "description": "Ireland and the Netherlands, despite some progress in digital health, still face significant challenges with smooth data exchange between IT systems and healthcare providers. The lack of interoperable national or regional platforms for a complete patient view hinders the scaling of remote monitoring and coordinated care across healthcare facilities (IN060401). This infrastructural gap impacts efficiency and decision-making, as highlighted by OECD figures, slowing the full realization of digital health benefits.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-16",
+      "source_doc_id": "37486c31-507a-5866-bae6-93a4ae9c7d01",
+      "source_title": "How technology could cut millions of hospital visits across Europe",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-technology-could-save-millions-of-european-hospital-visits1",
+      "source_date": "2026-06-16",
+      "country_focus": "IE"
+    },
+    {
+      "index": 14,
+      "title": "Middle East conflict disrupts pharmaceutical cold chain logistics.",
+      "description": "The ongoing Middle East conflict triggers high energy inflation and widespread supply chain disruption, adversely impacting Active Pharmaceutical Ingredients (APIs) and cold chain goods logistics. Increased jet fuel prices and re-routing to avoid conflict zones significantly raise air freight costs, creating a substantial headwind for Healthcare Distribution (IN060404) in managing costs and ensuring timely, secure delivery of temperature-sensitive pharmaceuticals across Europe. This elevates operational risks and pressures margins.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-19",
+      "source_doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "source_title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf",
+      "source_date": "2026-05-19",
+      "country_focus": "EU"
+    },
+    {
+      "index": 15,
+      "title": "Heightened cybersecurity risks threaten healthcare operations in Ireland.",
+      "description": "Geopolitical instability contributes to an elevated cybersecurity threat environment, as evidenced by a recent cyber-attack on a medical technology company disrupting global internal networks. This highlights a significant risk for Irish healthcare services, particularly facilities (IN060401) that rely on extensive IT systems, electronic health records, and interconnected medical devices. Organizations are reassessing critical infrastructure location and increasing cyber insurance, indicating a pressing need for enhanced resilience planning.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-19",
+      "source_doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "source_title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf",
+      "source_date": "2026-05-19",
+      "country_focus": "IE"
+    },
+    {
+      "index": 16,
+      "title": "Rising staffing and operational costs pressure healthcare provider margins.",
+      "description": "Healthcare services, particularly residential care (IN060401), face significant cost pressures from materially increased staffing expenses. Statutory minimum wage increases (6% in 2025, 4.8% in 2026), broader inflation, and impacts from employment permit thresholds and staffing mix requirements intensify margin pressure for providers dependent on international recruitment. This rising cost base for labor, a critical component, is a defining challenge for operational profitability and sustainability in the Irish healthcare sector.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-19",
+      "source_doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "source_title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf",
+      "source_date": "2026-05-19",
+      "country_focus": "IE"
+    },
+    {
+      "index": 17,
+      "title": "Increasing complexity of care demands higher staffing and costs.",
+      "description": "Care needs across the Irish healthcare sector are becoming increasingly complex, particularly in residential settings like nursing homes (IN060401). A growing proportion of individuals require higher levels of support, with 69% of nursing homes reporting increased resident dependency and 85% reporting higher care hours. This rising acuity drives increased staffing requirements and associated cost pressures, creating a structural headwind that challenges current funding models and operational efficiency in the long term.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-19",
+      "source_doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "source_title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf",
+      "source_date": "2026-05-19",
+      "country_focus": "IE"
+    },
+    {
+      "index": 18,
+      "title": "Community pharmacy benefits from increased prescription demand and services.",
+      "description": "The community pharmacy sector (IN060404) in Ireland is performing strongly, driven by increasing prescription volumes, demographic demand growth, and a rising prevalence of chronic diseases. The Community Pharmacy Agreement 2025 provided a significant remuneration uplift, including higher dispensing fees and expanded service payments. The rollout of the Common Conditions Service further enhances pharmacists' clinical role, easing pressure on GP services and creating a structural tailwind for the sector's evolution into primary care delivery.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-19",
+      "source_doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "source_title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf",
+      "source_date": "2026-05-19",
+      "country_focus": "IE"
+    },
+    {
+      "index": 19,
+      "title": "AI and digital tech adoption enhance healthcare efficiency and diagnostics.",
+      "description": "Irish healthcare providers (IG0604) are increasingly adopting technology and artificial intelligence (AI) to enhance administrative efficiency, compliance, rostering, and reporting. Ireland’s Department of Health’s 2026 AI for Care strategy highlights potential benefits such as faster diagnostics, improved patient flow, and up to 40% reduction in clinical documentation time. This trend represents a significant upside driver, enabling more technology-enabled care delivery in high-volume settings across the sector and improving productivity.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-19",
+      "source_doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "source_title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf",
+      "source_date": "2026-05-19",
+      "country_focus": "IE"
+    },
+    {
+      "index": 20,
+      "title": "Digital tools and AI boosting productivity in Dutch healthcare.",
+      "description": "Dutch healthcare providers (IG0604), including hospitals and elderly care, are significantly improving productivity through wider adoption of digital tools and AI. Data-driven capacity management increases operating theatre occupancy, and remote monitoring enables more home-based patient care. AI applications reduce administrative burden and no-shows, while greater deployment of informal caregivers further relieves staff, collectively driving efficiency gains and meeting demand despite labor shortages.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-06",
+      "source_doc_id": "861da786-ed4b-560e-9205-7314d4730876",
+      "source_title": "Dutch healthcare sector set to expand further despite supply constraints",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/dutch-healthcare-sector-set-to-expand-further-despite-supply-constraints",
+      "source_date": "2026-02-06",
+      "country_focus": "NL"
+    },
+    {
+      "index": 21,
+      "title": "Decline in self-employed healthcare workers impacts staffing models.",
+      "description": "The Dutch healthcare sector is experiencing a significant decline in self-employed workers, with a 13% reduction (19,000 workers) over the past five quarters, predominantly in elderly care (63%). This trend, partly driven by the end of enforcement moratorium on false self-employment, creates challenges for healthcare providers (IG0604) in maintaining flexible staffing levels and meeting demand, although it also enables a more balanced distribution of services with permanent staff.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-02-06",
+      "source_doc_id": "861da786-ed4b-560e-9205-7314d4730876",
+      "source_title": "Dutch healthcare sector set to expand further despite supply constraints",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/dutch-healthcare-sector-set-to-expand-further-despite-supply-constraints",
+      "source_date": "2026-02-06",
+      "country_focus": "NL"
+    },
+    {
+      "index": 22,
+      "title": "Proposed €10bn healthcare cuts create funding uncertainty in Netherlands.",
+      "description": "The new Dutch minority government proposes significant healthcare spending cuts of nearly €10 billion, with €6 billion from increased patient co-payments. While aimed at moderating collective spending, political fragmentation and strong opposition make the implementation highly uncertain. This introduces funding instability for healthcare services (IG0604) and providers, potentially impacting investment, operational planning, and the long-term capacity to meet growing demand despite the overall positive sector outlook.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-02-06",
+      "source_doc_id": "861da786-ed4b-560e-9205-7314d4730876",
+      "source_title": "Dutch healthcare sector set to expand further despite supply constraints",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/dutch-healthcare-sector-set-to-expand-further-despite-supply-constraints",
+      "source_date": "2026-02-06",
+      "country_focus": "NL"
+    },
+    {
+      "index": 23,
+      "title": "Ageing population and high life expectancy drive healthcare demand.",
+      "description": "Greece's demographic trends, including an ageing population and high life expectancy (81.9 years in 2024), are exerting increased pressure on health and social security systems. The proportion of people aged over 65 is projected to rise from 23.3% to 33.1% by 2070, fundamentally increasing demand for healthcare services, including facilities and managed care (IN060401, IN060403). While challenging for system sustainability, this represents a structural tailwind for service providers.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2025-09-25",
+      "source_doc_id": "b295025f-b7ae-5e67-9efb-0a760c7e72b6",
+      "source_title": "The pharmaceutical market in Greece: Facts & Figures 2024",
+      "source_publisher": "iobe",
+      "source_url": "https://iobe.gr/wp-content/uploads/2026/01/RES_05_A_25092025_REP_EN.pdf",
+      "source_date": "2025-09-25",
+      "country_focus": "GR"
+    },
+    {
+      "index": 24,
+      "title": "Declining public health funding shifts burden to private sector in Greece.",
+      "description": "Total health expenditure funding in Greece decreased by 22.6% from 2009-2023, while public funding declined by 31.1% in the same period, reaching €11.5 billion (5.1% of GDP) in 2023. This significant reduction in public investment has structurally shifted the burden to the private sector, which now accounts for 39.1% of health expenditure. This represents a headwind for the public health system but creates potential opportunities and challenges for private healthcare providers (IG0604).",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2025-09-25",
+      "source_doc_id": "b295025f-b7ae-5e67-9efb-0a760c7e72b6",
+      "source_title": "The pharmaceutical market in Greece: Facts & Figures 2024",
+      "source_publisher": "iobe",
+      "source_url": "https://iobe.gr/wp-content/uploads/2026/01/RES_05_A_25092025_REP_EN.pdf",
+      "source_date": "2025-09-25",
+      "country_focus": "GR"
+    },
+    {
+      "index": 25,
+      "title": "Delays in new medicine introduction and reimbursement in Greece.",
+      "description": "Greece experiences significant delays in the introduction and reimbursement of new innovative medicines, with only 43% of EMA-approved formulations available to Greek patients (compared to 46% in Europe) between 2020-2023. The time from EMA approval to national reimbursement in Greece is 654 days, longer than the European average of 587 days. These delays represent a headwind for Healthcare Distribution (IN060404) as they restrict the flow of new products and potentially limit market opportunities for distributors.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2025-09-25",
+      "source_doc_id": "b295025f-b7ae-5e67-9efb-0a760c7e72b6",
+      "source_title": "The pharmaceutical market in Greece: Facts & Figures 2024",
+      "source_publisher": "iobe",
+      "source_url": "https://iobe.gr/wp-content/uploads/2026/01/RES_05_A_25092025_REP_EN.pdf",
+      "source_date": "2025-09-25",
+      "country_focus": "GR"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Ireland's healthcare sector shows resilience driven by demographics and investment.",
+      "description": "Ireland's healthcare sector demonstrated resilience in H1 2026, supported by robust demographic demand, sustained government investment, and increasing private sector engagement. Key drivers include population aging, rising chronic disease prevalence, and growing care complexity. This underpins demand across nursing homes, disability services, homecare, and private hospitals (IN060401), signaling a positive outlook despite operational challenges like workforce shortages and cost inflation.",
+      "stance": "positive",
+      "source_firm": "Bank of Ireland",
+      "source_date": "2026-08-06",
+      "source_doc_id": "268cdf0e-a923-5e7f-995f-b607667991f3",
+      "source_title": "Bank of Ireland Healthcare Sector H1 2026 Insights and H2 2026 Outlook July 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/BOI-Healthcare-Sector-H1-Insights-and-H2-Outlook-2026.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 2,
+      "title": "Irish healthcare sector remains attractive for investment and consolidation.",
+      "description": "The Irish healthcare sector continues to be an attractive investment destination, bolstered by ongoing capital deployment, expansion, and consolidation activities across diverse healthcare services. This reflects strong, long-term confidence in the sector's fundamental strengths. Demand drivers, such as an aging population and increasing care complexity, are expected to sustain this positive investment environment for facilities, homecare, and community pharmacies (IN060401, IN060404).",
+      "stance": "positive",
+      "source_firm": "Bank of Ireland",
+      "source_date": "2026-08-06",
+      "source_doc_id": "268cdf0e-a923-5e7f-995f-b607667991f3",
+      "source_title": "Bank of Ireland Healthcare Sector H1 2026 Insights and H2 2026 Outlook July 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/BOI-Healthcare-Sector-H1-Insights-and-H2-Outlook-2026.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 3,
+      "title": "Positive outlook for Irish healthcare due to demographics and investment.",
+      "description": "The outlook for Ireland's healthcare sector remains positive, underpinned by favorable demographic trends and continuous investment across various service areas. This includes residential care, disability services, homecare, pharmacy, primary care, and private hospitals (IN060401, IN060404). The sector anticipates sustained strong demand as the population ages and care models increasingly shift towards community- and home-based approaches, further driving investment opportunities and consolidation.",
+      "stance": "positive",
+      "source_firm": "Bank of Ireland",
+      "source_date": "2026-08-06",
+      "source_doc_id": "268cdf0e-a923-5e7f-995f-b607667991f3",
+      "source_title": "Bank of Ireland Healthcare Sector H1 2026 Insights and H2 2026 Outlook July 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/BOI-Healthcare-Sector-H1-Insights-and-H2-Outlook-2026.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 4,
+      "title": "Dutch healthcare set for growth despite persistent supply constraints.",
+      "description": "The Dutch healthcare sector is expected to expand by 2.5% in 2026, driven by increased productivity, an easing labor market, and expanded budgetary space. This growth is anticipated despite significant and persistent staff shortages, which remain a key challenge for providers (IG0604). Digital tools, AI, and greater reliance on informal care are boosting efficiency and enabling the sector to meet structurally rising demand from an aging population.",
+      "stance": "cautious_positive",
+      "source_firm": "ING_Think",
+      "source_date": "2026-02-06",
+      "source_doc_id": "861da786-ed4b-560e-9205-7314d4730876",
+      "source_title": "Dutch healthcare sector set to expand further despite supply constraints",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/dutch-healthcare-sector-set-to-expand-further-despite-supply-constraints",
+      "country_focus": "NL"
+    },
+    {
+      "index": 5,
+      "title": "Ireland's health sector maintains strong activity driven by demographic demand.",
+      "description": "Ireland's health sector demonstrates robust underlying activity, primarily supported by consistent demographic demand and the essential nature of its services. The population aged 65 and over now exceeds 800,000, with those over 85 projected to double by 2040, significantly increasing health needs. This strong structural demand underpins the resilience of nursing homes, community pharmacy, and disability services (IN060401, IN060404), although capacity and workforce issues remain key performance factors.",
+      "stance": "positive",
+      "source_firm": "Bank of Ireland",
+      "source_date": "2026-05-19",
+      "source_doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "source_title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf",
+      "country_focus": "IE"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 3.9,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing demand for disability services",
+          "description": "The number of adults accessing HSE-funded disability services increased by approximately 10% annually, reaching 38,288."
+        },
+        {
+          "driver": "Need for additional residential places",
+          "description": "An additional 2,197 residential disability places are required nationally, highlighting significant investment opportunities."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Significant investment opportunities exist in disability accommodation, supported living, and respite services due to national requirements.",
+          "opportunity": "Disability accommodation and supported living"
+        }
+      ],
+      "methodology": "Total government funding for disability services in 2026.",
+      "source_firm": "Bank of Ireland",
+      "source_date": "2026-08-06",
+      "data_confidence": "high",
+      "source_doc_id": "268cdf0e-a923-5e7f-995f-b607667991f3",
+      "source_title": "Bank of Ireland Healthcare Sector H1 2026 Insights and H2 2026 Outlook July 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/BOI-Healthcare-Sector-H1-Insights-and-H2-Outlook-2026.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 2,
+      "tam_value": 26.7,
+      "tam_unit": "mn_units",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 91.0,
+      "forecast_cagr_period": "2025-2040",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Shift towards community-based care",
+          "description": "Healthcare policy increasingly prioritizes independent living and care closer to home."
+        },
+        {
+          "driver": "Ageing in place",
+          "description": "Ireland's population aged over 65 is projected to double by 2050, increasing demand for home care services."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Record number of home support hours delivered in 2025.",
+      "source_firm": "Bank of Ireland",
+      "source_date": "2026-08-06",
+      "data_confidence": "high",
+      "source_doc_id": "268cdf0e-a923-5e7f-995f-b607667991f3",
+      "source_title": "Bank of Ireland Healthcare Sector H1 2026 Insights and H2 2026 Outlook July 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/BOI-Healthcare-Sector-H1-Insights-and-H2-Outlook-2026.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 3,
+      "tam_value": 32200.0,
+      "tam_unit": "units",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Ageing population",
+          "description": "Ireland’s population aged 65+ exceeds 800,000, with the 85+ population projected to more than double by 2040, driving demand for residential care."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Capacity growth has been limited, with 1,039 additional nursing home beds required annually to meet future demand, creating investment opportunities.",
+          "opportunity": "Nursing home development"
+        }
+      ],
+      "methodology": "Number of registered nursing home beds in Ireland as of Q2 2026.",
+      "source_firm": "Bank of Ireland",
+      "source_date": "2026-05-19",
+      "data_confidence": "high",
+      "source_doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "source_title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Digital tools and AI adoption",
+          "description": "Wider use of digital tools and AI applications reduces registration burden, cuts no-shows, and increases operating theatre occupancy through data-driven capacity management."
+        },
+        {
+          "driver": "Increased informal care deployment",
+          "description": "Elderly care providers are increasingly deploying informal caregivers to relieve staff and boost overall productivity."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Productivity growth in Dutch healthcare increased by an average of 1.7% per quarter over the past three years (Q4 2022-Q3 2025), compared to a contraction of 1.5% per quarter in the three years prior to Covid-19.",
+      "source_firm": "ING_Think",
+      "source_date": "2026-02-06",
+      "data_confidence": "high",
+      "source_doc_id": "861da786-ed4b-560e-9205-7314d4730876",
+      "source_title": "Dutch healthcare sector set to expand further despite supply constraints",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/dutch-healthcare-sector-set-to-expand-further-despite-supply-constraints",
+      "country_focus": "NL"
+    },
+    {
+      "index": 5,
+      "tam_value": 89.2,
+      "tam_unit": "units",
+      "sam_value": null,
+      "as_of_year": 2023,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "High population density and access needs",
+          "description": "Greece has a significantly higher density of pharmacies compared to the EU27 average (31.8 per 100,000 inhabitants), indicating extensive access points for pharmaceutical products and services."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Number of pharmacies per 100,000 inhabitants in Greece (2023).",
+      "source_firm": "IOBE",
+      "source_date": "2025-09-25",
+      "data_confidence": "high",
+      "source_doc_id": "b295025f-b7ae-5e67-9efb-0a760c7e72b6",
+      "source_title": "The pharmaceutical market in Greece: Facts & Figures 2024",
+      "source_publisher": "iobe",
+      "source_url": "https://iobe.gr/wp-content/uploads/2026/01/RES_05_A_25092025_REP_EN.pdf",
+      "country_focus": "GR"
+    },
+    {
+      "index": 6,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2023,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Pharmacy mark-up on original medicines",
+          "description": "Pharmacies apply a 22.0% mark-up on original medicines, influencing their revenue from pharmaceutical distribution."
+        },
+        {
+          "driver": "Pharmacy mark-up on generic medicines",
+          "description": "Pharmacies apply a 35.0% mark-up on generic medicines, contributing significantly to their profitability."
+        },
+        {
+          "driver": "Wholesaler mark-up on original medicines",
+          "description": "Wholesalers apply a 6.94% mark-up on original medicines, affecting their revenue margins."
+        },
+        {
+          "driver": "Wholesaler mark-up on generic medicines",
+          "description": "Wholesalers apply a 10.15% mark-up on generic medicines, impacting their profitability within the distribution chain."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Mark-ups applied by wholesalers and pharmacies on original and generic medicines in Greece.",
+      "source_firm": "IOBE",
+      "source_date": "2025-09-25",
+      "data_confidence": "high",
+      "source_doc_id": "b295025f-b7ae-5e67-9efb-0a760c7e72b6",
+      "source_title": "The pharmaceutical market in Greece: Facts & Figures 2024",
+      "source_publisher": "iobe",
+      "source_url": "https://iobe.gr/wp-content/uploads/2026/01/RES_05_A_25092025_REP_EN.pdf",
+      "country_focus": "GR"
+    }
+  ],
+  "sources": [
+    "Bank of Ireland",
+    "ING_Think",
+    "IOBE"
+  ],
+  "documents": [
+    {
+      "doc_id": "268cdf0e-a923-5e7f-995f-b607667991f3",
+      "title": "Bank of Ireland Healthcare Sector H1 2026 Insights and H2 2026 Outlook July 2026",
+      "publisher": "bank_of_ireland",
+      "date": "2026-08-06",
+      "url": "https://www.thinkbusiness.ie/app/uploads/2026/08/BOI-Healthcare-Sector-H1-Insights-and-H2-Outlook-2026.pdf"
+    },
+    {
+      "doc_id": "861da786-ed4b-560e-9205-7314d4730876",
+      "title": "Dutch healthcare sector set to expand further despite supply constraints",
+      "publisher": "ing_think",
+      "date": "2026-02-06",
+      "url": "https://think.ing.com/articles/dutch-healthcare-sector-set-to-expand-further-despite-supply-constraints"
+    },
+    {
+      "doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "publisher": "bank_of_ireland",
+      "date": "2026-05-19",
+      "url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf"
+    },
+    {
+      "doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "title": "July 2026 Ireland Sector Snippets",
+      "publisher": "allianz_ie",
+      "date": "2026-07-22",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html"
+    },
+    {
+      "doc_id": "37486c31-507a-5866-bae6-93a4ae9c7d01",
+      "title": "How technology could cut millions of hospital visits across Europe",
+      "publisher": "ing_think",
+      "date": "2026-06-16",
+      "url": "https://think.ing.com/articles/how-technology-could-save-millions-of-european-hospital-visits1"
+    },
+    {
+      "doc_id": "b295025f-b7ae-5e67-9efb-0a760c7e72b6",
+      "title": "The pharmaceutical market in Greece: Facts & Figures 2024",
+      "publisher": "iobe",
+      "date": "2025-09-25",
+      "url": "https://iobe.gr/wp-content/uploads/2026/01/RES_05_A_25092025_REP_EN.pdf"
+    }
+  ]
+}

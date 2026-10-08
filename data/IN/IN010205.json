@@ -1,0 +1,586 @@
+{
+  "geography": "IN",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Global LNG Procurement Shifts to Security Over Cost",
+      "description": "McKinsey's survey indicates a structural shift in global LNG procurement, with buyers prioritizing security of supply over cost minimization due to geopolitical disruptions like the Strait of Hormuz closure. This implies higher base prices and potential volatility for LNG imports into India, directly increasing input costs for CGD companies and impacting their margins in the long term.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "8e80a468-b70d-5c32-a0ae-06a991df360f",
+      "source_title": "LNG buyers’ sentiment: Disruption and implications for procurement",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement",
+      "source_date": "2026-09-11"
+    },
+    {
+      "index": 2,
+      "title": "Strengthened Contractual Protections for LNG Procurement",
+      "description": "LNG buyers are actively seeking to strengthen contractual protections, with a primary focus on force majeure clauses, delivery terms, volume flexibility, and pricing. This aims to mitigate disruption risks. While increasing legal security for buyers, these more rigid terms could potentially lead to higher premium payments or less flexible pricing for gas distribution companies dependent on imported LNG.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "8e80a468-b70d-5c32-a0ae-06a991df360f",
+      "source_title": "LNG buyers’ sentiment: Disruption and implications for procurement",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement",
+      "source_date": "2026-09-11"
+    },
+    {
+      "index": 3,
+      "title": "Increased Investment in Global LNG Supply Resilience",
+      "description": "Globally, companies are investing in LNG supply resilience measures, including storage infrastructure, shipping capacity, upstream equity, floating storage and regasification units (FSRUs), and regasification facilities. While enhancing long-term supply security for LNG, these investments could also contribute to higher supply costs, which would transmit to Indian gas distribution companies reliant on LNG imports for their operations.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-11",
+      "source_doc_id": "8e80a468-b70d-5c32-a0ae-06a991df360f",
+      "source_title": "LNG buyers’ sentiment: Disruption and implications for procurement",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement",
+      "source_date": "2026-09-11"
+    },
+    {
+      "index": 4,
+      "title": "LPG Supply Chain Disruption Elevates Procurement Costs",
+      "description": "The West Asia conflict and Strait of Hormuz closure caused unprecedented disruption to India's LPG supply chain, widening the gap between sourcing costs (e.g., Saudi CP up 50% in Q1FY27) and regulated retail prices. This led to significant LPG under-recoveries for OMCs and forced rapid, expensive diversification of sourcing.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-14",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf",
+      "source_date": "2026-08-14"
+    },
+    {
+      "index": 5,
+      "title": "Structural Diversification of India's LPG Sourcing",
+      "description": "India has structurally diversified its LPG sourcing away from traditional West Asian suppliers towards alternative markets like the United States due to geopolitical disruptions. This shift enhances energy security but comes at a significantly higher landed cost due to longer shipping distances and increased freight charges. The US is expected to retain a substantial share of India's LPG imports.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-08-14",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf",
+      "source_date": "2026-08-14"
+    },
+    {
+      "index": 6,
+      "title": "Increased Domestic LPG Production Mitigates Import Dependence",
+      "description": "During severe supply disruptions, domestic LPG production significantly increased (from 1.1 MMT/month to 1.4 MMT/month), demonstrating refiners' efforts to maximize local availability. This reduces reliance on imports and cushions the impact of global supply shocks, providing more stable supply for LPG distribution, though overall import dependence remains high.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-14",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf",
+      "source_date": "2026-08-14"
+    },
+    {
+      "index": 7,
+      "title": "Government Implements LPG Demand Management Measures",
+      "description": "To safeguard household energy security during supply challenges, the Indian government implemented emergency demand-management measures. These include restrictions on industrial/commercial LPG consumption, tighter monitoring of refill frequency, and prioritizing domestic LPG availability, which helped moderate overall demand and preserve household supply for distribution companies.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-14",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf",
+      "source_date": "2026-08-14"
+    },
+    {
+      "index": 8,
+      "title": "Retail LPG Price Hikes Partially Offset Procurement Costs",
+      "description": "Domestic LPG prices were raised by Rs 89 per 14.2 kg cylinder, partly passing on the impact of surging international benchmark rates (Saudi CP). This measure helps gas distribution companies (OMCs) recover some of their increased procurement costs, leading to a moderation in LPG under-recoveries, though a significant burden is expected to remain.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-14",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf",
+      "source_date": "2026-08-14"
+    },
+    {
+      "index": 9,
+      "title": "Persistent LPG Under-recoveries Burden Profitability",
+      "description": "Despite government compensation and recent retail price hikes, OMCs continue to carry a sizeable cumulative LPG under-recovery burden. This sustained financial pressure is expected to keep LPG profitability under strain, negatively impacting the financial performance and investment capacity of gas distribution companies involved in LPG cylinder distribution.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-14",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf",
+      "source_date": "2026-08-14"
+    },
+    {
+      "index": 10,
+      "title": "Shift in Demand Towards Alternative Fuels for LPG",
+      "description": "Overall LPG demand is expected to degrow by ~6% year-on-year in FY27, following a significant decline. This is attributed to a fundamental shift in demand towards alternative fuels, potentially driven by high LPG prices and government policies promoting other energy sources. This trend poses a structural headwind for LPG distribution companies in the long term.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-14",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf",
+      "source_date": "2026-08-14"
+    },
+    {
+      "index": 11,
+      "title": "Vulnerability to Natural Gas Supply Chain Disruptions",
+      "description": "India maintains deep structural dependence on West Asian energy corridors and remains vulnerable to disruptions in the natural gas supply chain, such as the sudden re-closure of the Strait of Hormuz. Such events immediately squeeze supply, threatening domestic inflation and compressing profit margins across sectors, directly impacting gas distribution companies' input costs and operational stability.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-17",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf",
+      "source_date": "2026-07-17"
+    },
+    {
+      "index": 12,
+      "title": "INR Depreciation Increases Imported Energy Costs",
+      "description": "Conflict-driven spikes in global crude prices have shaken the Indian Rupee, driving it to historic lows against the USD. This currency depreciation directly increases the INR cost of imported energy commodities, including LNG and LPG, for gas distribution companies, thereby increasing their raw material costs and compressing profit margins.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-17",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf",
+      "source_date": "2026-07-17"
+    },
+    {
+      "index": 13,
+      "title": "Expanding City Gas Distribution Network and Infrastructure",
+      "description": "The PNGRB and city gas companies are actively expanding India’s city gas distribution. Targets include 126.3 million PNG connections and 18,336 CNG stations by 2034. This significant infrastructure growth and market penetration, supported by policy, drives higher sales volumes and revenue for gas distribution companies across residential and transport segments.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 14,
+      "title": "Government Policy Drives LPG Saturation and Demand",
+      "description": "The Pradhan Mantri Ujjwala Yojana (PMUY) has achieved approximately 10.35 crore beneficiaries, with an additional 25 lakh LPG connections approved for FY2025-26. This ongoing government policy support aims for full LPG coverage, significantly expanding the customer base and stimulating demand for LPG, directly boosting sales volumes for gas distribution companies.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 15,
+      "title": "Strong Growth in CNG Vehicle Adoption",
+      "description": "CNG vehicle registrations increased by 25% and gas sales rose by 21% between 2023-25. This robust growth indicates a rising consumer preference for CNG as a transport fuel, driven by its economic and environmental benefits compared to conventional fuels. This trend directly boosts demand and sales volumes for compressed natural gas distributed by CGD companies.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 16,
+      "title": "Ambitious Target to Increase Gas Share in Energy Mix",
+      "description": "India plans to raise the share of natural gas in its primary energy mix from 6.5% to 15% by 2030, supported by significant investment plans of US$ 67 billion over 5-6 years. This ambitious target and substantial investment signal strong governmental and industrial backing for gas consumption across all segments, including city gas distribution, ensuring robust demand and expansion opportunities.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 17,
+      "title": "Reliance on Imported LNG Leads to Supply Constraints",
+      "description": "The Gas Distribution sector's significant reliance on imported LNG exposes it to supply constraints, particularly impacting the industrial segment during geopolitical crises. Disruptions to global supply chains or increased international LNG prices, benchmarked against JKM, directly translate to higher raw material costs and potential shortages for CGD companies in India.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-02",
+      "source_doc_id": "88d9df40-81c1-5661-ad0b-cfa2935c21f1",
+      "source_title": "Credit Quality Assessment H2FY26",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1775146282_Credit%20Quality%20Assessment%20H2FY26.pdf",
+      "source_date": "2026-04-02"
+    },
+    {
+      "index": 18,
+      "title": "Sustained Gas Competitiveness Against Crude-Linked Fuels",
+      "description": "Margins in the Gas Distribution sector are partially cushioned during periods of high energy prices because alternative crude-linked fuels, such as petrol and diesel, also become more expensive. This dynamic maintains or enhances the cost-competitiveness of CNG and PNG, sustaining demand and providing a relative advantage for gas distribution companies even amidst volatile input costs.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-02",
+      "source_doc_id": "88d9df40-81c1-5661-ad0b-cfa2935c21f1",
+      "source_title": "Credit Quality Assessment H2FY26",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1775146282_Credit%20Quality%20Assessment%20H2FY26.pdf",
+      "source_date": "2026-04-02"
+    },
+    {
+      "index": 19,
+      "title": "Increased Borrowing Costs Due to Rising G-Sec Yields",
+      "description": "Rising 10-year G-Sec yields (expected to average 6.8-6.9% or higher in FY27) increase the benchmark cost of long-term borrowing for capital-intensive gas distribution projects. This elevates financing expenses, negatively impacting the profitability and expansion plans of CGD companies, particularly for network development and infrastructure build-out.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-02",
+      "source_doc_id": "88d9df40-81c1-5661-ad0b-cfa2935c21f1",
+      "source_title": "Credit Quality Assessment H2FY26",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1775146282_Credit%20Quality%20Assessment%20H2FY26.pdf",
+      "source_date": "2026-04-02"
+    },
+    {
+      "index": 20,
+      "title": "Higher Corporate Tax or GST Rates on Gas Products",
+      "description": "An increase in applicable GST rates on CNG or LPG, or a rise in corporate income tax rates, would either directly reduce net profitability for gas distribution companies or increase consumer prices. Higher consumer prices could potentially hurt demand, creating a challenge for volume growth and revenue realization in the sector.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-02",
+      "source_doc_id": "88d9df40-81c1-5661-ad0b-cfa2935c21f1",
+      "source_title": "Credit Quality Assessment H2FY26",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1775146282_Credit%20Quality%20Assessment%20H2FY26.pdf",
+      "source_date": "2026-04-02"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Global LNG buyers anticipate structural shifts in procurement due to geopolitical disruptions",
+      "description": "McKinsey's LNG Buyers' Pulse Survey (April 2026) reveals that approximately 80% of respondents expect changes in their LNG procurement strategy due to the Strait of Hormuz disruption, with half anticipating structural shifts. The core thesis is a move from cost minimization to prioritizing security of supply through geographic diversification and increased flexibility. This indicates a challenging, high-cost supply environment for LNG-dependent sectors like Indian Gas Distribution.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-11",
+      "source_doc_id": "8e80a468-b70d-5c32-a0ae-06a991df360f",
+      "source_title": "LNG buyers’ sentiment: Disruption and implications for procurement",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement"
+    },
+    {
+      "index": 2,
+      "title": "LPG under-recoveries to moderate but profitability remains pressured in Q2FY27",
+      "description": "CareEdge Ratings projects that OMCs' LPG under-recoveries are expected to fall by approximately 40% quarter-on-quarter in Q2FY27, easing from elevated levels in Q1FY27. However, despite this moderation and government compensation, LPG profitability for distribution companies is likely to remain under pressure in the near term due to the cumulative under-recovery burden and volatile sourcing costs.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-08-14",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf"
+    },
+    {
+      "index": 3,
+      "title": "Indian LPG economics face increasing geopolitical and logistics risks post-Hormuz closure",
+      "description": "Richa Bagaria of CareEdge Ratings states that volatile geopolitical events, like the Strait of Hormuz closure, have significantly impacted India's LPG economics. Forced diversification to higher-cost alternative suppliers, alongside government demand-management and retail price hikes, highlights a challenging operating environment. While under-recoveries are moderating, the sector faces persistent profitability pressures due to the scale of losses and structural risks.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge Ratings (Richa Bagaria, Associate Director)",
+      "source_date": "2026-08-14",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf"
+    },
+    {
+      "index": 4,
+      "title": "India must proactively diversify energy mix to insulate from West Asian volatility",
+      "description": "Sachin Gupta emphasizes that India needs to aggressively rewrite its energy playbook to insulate itself from persistent external shocks due to West Asian volatility. Reducing the share of imported oil and gas (including natural gas and LPG used in distribution) in the energy mix and developing alternative domestic sources like syngas from coal gasification and nuclear energy is crucial for macroeconomic stability and energy security.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge Ratings (Sachin Gupta, Chief Rating Officer)",
+      "source_date": "2026-07-17",
+      "source_doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "source_title": "CareEdge FORESIGHTS - July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf"
+    },
+    {
+      "index": 5,
+      "title": "Gas Distribution sector's profitability moderately impacted by imported LNG reliance",
+      "description": "CareEdge Ratings assesses the Gas Distribution sector as having a 'moderate impact' from geopolitical conflicts. Its reliance on imported LNG exposes it to supply constraints, especially in the industrial segment. However, margins are somewhat cushioned because alternative crude-linked fuels (like petrol and diesel) also become more expensive during energy price surges, thereby maintaining gas's competitive edge in the market.",
+      "stance": "neutral",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-02",
+      "source_doc_id": "88d9df40-81c1-5661-ad0b-cfa2935c21f1",
+      "source_title": "Credit Quality Assessment H2FY26",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1775146282_Credit%20Quality%20Assessment%20H2FY26.pdf"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 50.0,
+      "tam_unit": "MMT",
+      "sam_value": null,
+      "as_of_year": 2028,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rising Gas Demand",
+          "description": "Total gas demand in India is estimated to double by 2028, driven by economic growth, urbanization, and demand from residential, transport, and industrial sectors."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's LNG import capacity is planned to increase to 50 MMT in the coming years to meet rising gas demand, which is estimated to double by 2028. This implies increased supply availability for gas distribution companies.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Policy Push for Gas",
+          "description": "Government targets to increase the share of natural gas in India's primary energy mix to 15% by 2030, driving demand across sectors."
+        },
+        {
+          "driver": "CBG and LNG Infrastructure Expansion",
+          "description": "Plans for new LNG stations and increased CBG production support the wider availability and consumption of gas."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Target of 50 new LNG stations provides direct growth opportunities for city gas distribution companies in expanding their fuel offerings.",
+          "opportunity": "New LNG Stations"
+        }
+      ],
+      "methodology": "City gas companies plan to raise natural gas's share in the energy mix from 6.5% to 15% by 2030, supported by the expansion of Compressed Biogas (CBG) and LNG infrastructure, including 50 new LNG stations.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2034,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Expanding PNG Household Connections",
+          "description": "Aggressive government targets for PNG connections signal a significant expansion in household piped gas adoption."
+        },
+        {
+          "driver": "Growth in CNG Vehicle Fleet",
+          "description": "Increased CNG vehicle registrations and rising gas sales demonstrate strong consumer preference and market expansion for CNG as a transport fuel."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The target of 18,336 CNG stations by 2034 represents substantial infrastructure development and market expansion for CGD companies.",
+          "opportunity": "New CNG Stations"
+        }
+      ],
+      "methodology": "The Petroleum and Natural Gas Regulatory Board (PNGRB) targets 126.3 million PNG connections and 18,336 CNG stations by 2034. CNG vehicle registrations increased by 25% and gas sales rose by 21% between 2023-25.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india"
+    },
+    {
+      "index": 4,
+      "tam_value": 10.35,
+      "tam_unit": "lakh",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government LPG Coverage Schemes",
+          "description": "PMUY and additional connection approvals directly expand the customer base for LPG distribution, driving demand for cylinders."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Ongoing government efforts to achieve full LPG coverage present a sustained market expansion opportunity for distributors, particularly in rural and underserved areas.",
+          "opportunity": "Full LPG Saturation"
+        }
+      ],
+      "methodology": "The Pradhan Mantri Ujjwala Yojana (PMUY) has approximately 10.35 crore beneficiaries as of December 1, 2025, with an additional 25 lakh LPG connections approved for FY2025-26 to achieve full LPG coverage.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india"
+    },
+    {
+      "index": 5,
+      "tam_value": 68752.91,
+      "tam_unit": "MMSCM",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Industrial Consumption",
+          "description": "Industrial consumers are projected to account for 40% of India's net natural gas demand growth."
+        },
+        {
+          "driver": "Residential and Transport Demand",
+          "description": "Growing demand from residential (PNG) and transport (CNG) sectors fuels overall gas consumption."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total gas consumption in India stood at 71,314.16 MMSCM in FY25 and 68,752.91 MMSCM in FY26 (full year for c96368ea-34f3-513a-b390-8509c9e1d74c; April 2025-Feb 2026 for 0376fe88-fd15-5b7c-845b-3c9db6c9cd9b). Demand is expected to be driven by residential, transport, and industrial sectors.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india"
+    },
+    {
+      "index": 6,
+      "tam_value": 61900.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "LPG Sourcing Costs",
+          "description": "Surges in international LPG benchmarks like Saudi CP (up 50% in Q1FY27) directly increase procurement costs, leading to higher under-recoveries due to regulated retail prices."
+        },
+        {
+          "driver": "Government Compensation",
+          "description": "Compensation packages (Rs 30,000 crore approved) partially offset losses but may not cover the full extent of under-recoveries, impacting cash flows."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Cumulative LPG under-recoveries increased from approximately Rs 48,200 crore as on March 31, 2026, to about Rs 61,900 crore by June 30, 2026. OMCs incurred Rs 13,700 crore in Q1FY27 alone (after Rs 7,500 crore compensation). Under-recoveries per cylinder are expected to fall from ~Rs 500/cylinder in Q1FY27 to ~Rs 300/cylinder in Q2FY27.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-08-14",
+      "data_confidence": "high",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf"
+    }
+  ],
+  "sources": [
+    "McKinsey",
+    "CareEdge Ratings",
+    "CareEdge Ratings (Richa Bagaria, Associate Director)",
+    "CareEdge Ratings (Sachin Gupta, Chief Rating Officer)",
+    "IBEF"
+  ],
+  "documents": [
+    {
+      "doc_id": "8e80a468-b70d-5c32-a0ae-06a991df360f",
+      "title": "LNG buyers’ sentiment: Disruption and implications for procurement",
+      "publisher": "mckinsey",
+      "date": "2026-09-11",
+      "url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/lng-buyers-sentiment-disruption-and-implications-for-procurement"
+    },
+    {
+      "doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "publisher": "careedge",
+      "date": "2026-08-14",
+      "url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf"
+    },
+    {
+      "doc_id": "31f0ba9d-8e30-5ba5-9591-4dc28f4689c5",
+      "title": "CareEdge FORESIGHTS - July 2026",
+      "publisher": "careedge",
+      "date": "2026-07-17",
+      "url": "https://www.careratings.com/uploads/newsfiles/1784284428_Foresights_July_2026.pdf"
+    },
+    {
+      "doc_id": "88d9df40-81c1-5661-ad0b-cfa2935c21f1",
+      "title": "Credit Quality Assessment H2FY26",
+      "publisher": "careedge",
+      "date": "2026-04-02",
+      "url": "https://www.careratings.com/uploads/newsfiles/1775146282_Credit%20Quality%20Assessment%20H2FY26.pdf"
+    },
+    {
+      "doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "title": "Oil And Gas Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/oil-gas-india"
+    }
+  ]
+}

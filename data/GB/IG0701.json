@@ -1,0 +1,337 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Shift from cash to digital payments nearing plateau",
+      "description": "The historical tailwind of cash displacement by digital rails is plateauing, particularly in mature card markets. Global consumer-to-business cash usage has declined by approximately 4% annually. This indicates that while digital transition remains a long-term trend, its contribution to payments volume growth for banks will normalize, necessitating new growth strategies beyond basic digitalization.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25"
+    },
+    {
+      "index": 2,
+      "title": "Agentic AI risking global payments and deposit revenues",
+      "description": "Agentic artificial intelligence is projected to put roughly $75 billion in global payments revenue at risk by 2030, potentially reaching $160 billion in aggressive scenarios. This risk primarily targets deposit net interest income ($65 billion at risk) through automatic sweeping to higher-yielding accounts and consumer credit card revenues ($10 billion at risk) via payment rail substitution and fee avoidance. This disruption is backloaded towards the end of the decade, posing a significant long-term challenge to bank profitability.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25"
+    },
+    {
+      "index": 3,
+      "title": "Payment infrastructure fragmenting into regional, multi-rail competitive arenas",
+      "description": "Contrary to a single global standard, payment infrastructure is fragmenting into regional competitive arenas. Institutions in the UK, alongside North America and Western Europe, are navigating pressures from zero-fee domestic real-time account-to-account (A2A) networks, traditional card perimeters, and wholesale stablecoin corridors for cross-border settlement. This multi-rail complexity requires banks to adapt their strategies for routing and monetization, as value shifts across different payment mechanisms and regional market structures.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25"
+    },
+    {
+      "index": 4,
+      "title": "Stablecoins and tokenized deposits threaten traditional bank economics",
+      "description": "Digital assets like stablecoins and tokenized deposits pose an additional headwind to payments and deposit revenues if they scale. These instruments can bypass traditional interchange and foreign-exchange (FX) conversion markups, shifting float income out of commercial bank deposits. As cross-border corporate corridors adopt tokenized settlement, banks face direct margin pressure on FX spreads and correspondent banking fees, challenging their traditional revenue streams and requiring adaptation of their wholesale banking strategies.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25"
+    },
+    {
+      "index": 5,
+      "title": "Value shifting from front-end checkout screens to invisible control layer",
+      "description": "As transactions become commoditized and checkouts dissolve into software, value is relocating from visible customer interfaces (card present, button press) to the 'invisible control layer.' This back-end infrastructure includes trust mechanisms, machine identity, consent engines, and dynamic routing protocols. Banks that proactively build and anchor this underlying infrastructure will be better positioned to capture value, as revenue shifts away from traditional transaction points towards credentials, identity, protocols, and risk management.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25"
+    },
+    {
+      "index": 6,
+      "title": "Client loyalty eroding, leading to significant wallet share rotation",
+      "description": "Banking relationships are no longer evergreen, with clients continuously optimizing their provider ecosystems. Annual wallet share rotation is significant: 12-13% for corporates, 17% for institutional investors, and up to 25% for financial sponsors. This fluid environment means even house banks can be displaced, forcing banks to consistently re-earn loyalty by focusing on performance-based routing, responding to event-driven shifts, and offering proactive, actionable services, particularly for flow and event products.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 7,
+      "title": "Neobanks and fintechs capturing increasing share of UK banking relationships",
+      "description": "Neobanks and fintechs now hold approximately 27% of all UK banking relationships, a significant increase from low single digits a decade ago. These digital-native competitors are unbundling traditional bank relationships by capturing daily transactions and engagement. With agentic AI making it even easier to switch providers and optimize product by product, incumbents risk losing customer primacy and the valuable transaction data and cross-sell opportunities that come with it.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 8,
+      "title": "Non-bank competition growing in financing and market making",
+      "description": "Non-bank financial institutions are posing an increasing threat to traditional banks. Around 40% of corporates are open to using non-bank financing, with 17% looking to fintechs and 22% to private credit/direct institutional lending. Financial sponsors increasingly use direct lenders for facilities. Non-bank market makers capture 9-14% of wallet share in commoditized flow products. Banks must match fintechs' digital experience, private credit's speed, and NBMMs' execution to defend against wallet leakage.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 9,
+      "title": "Commercial banking value shifting from balance sheet to transactions",
+      "description": "More than 60% of UK commercial banking revenue already originates outside traditional lending, emphasizing a strategic shift towards transaction services such as cash and liquidity management, payments, FX, and trade finance. This means the institution owning a business's daily financial flows increasingly owns the relationship, even if another provides credit. Incumbents risk retaining credit relationships while losing the transaction layer that drives future value and engagement.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 10,
+      "title": "Agentic AI threatens deposit profits through balance sweeping",
+      "description": "Agentic AI drastically lowers the friction associated with comparing rates and switching accounts. An AI assistant can continuously compare savings rates, recommend better products, and eventually automatically move idle balances to higher-yield accounts. If just 5-10% of balances migrate this way, deposit profits for banks could fall by 20% or more. This poses a significant challenge to banks' cheapest and stickiest source of funding.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 11,
+      "title": "Retail funding ring-fencing provides stable, inexpensive deposit base",
+      "description": "UK incumbent banks benefit from ring-fenced retail funding, a legacy of post-2008 reforms. This regulatory measure provides them with a stable and inexpensive deposit base, offering a structural advantage over competitors. This stable funding contributes to their profitability and resilience, even as competition for customer relationships intensifies. However, the stability of this base is now being challenged by emerging digital solutions and AI-driven account optimization.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 12,
+      "title": "Opportunity for banks to convert deposit outflows into wealth inflows",
+      "description": "An estimated £500 billion to £700 billion of mass and affluent savings in the UK could migrate from deposits into investments over the next decade, from a total cash pile exceeding £2 trillion. With a chronic advice gap in Britain and banks capturing less than a quarter of the wealth distribution pool, this migration presents a significant organic growth opportunity. Banks that can retain these assets within their franchise by converting deposits into assets under management can turn a potential threat into a major upside, especially as wealth is the fastest-growing retail pool.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 13,
+      "title": "Newly licensed Revolut targets UK mortgage and private banking markets",
+      "description": "Revolut secured a full UK banking license in March 2026, enabling it to access deposit funding and a balance sheet. This development positions it to move into valuable profit pools traditionally dominated by incumbents, including the estimated £1.7 trillion UK mortgage market and private banking services for affluent clients. This intensifies competition significantly, as a digital-native player gains the capital and regulatory permissions to operate at scale in core banking segments.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+      "source_date": "2026-09-16"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "UK banks at peak profitability but facing unprecedented strategic exposure",
+      "description": "McKinsey states that UK banks are experiencing peak profitability, with returns on tangible equity in the mid-to-high teens. However, this masks significant strategic vulnerability, as investor skepticism is reflected in a 52% discount to other industries on book value. The foundations of these profits are eroding due to shifting customer primacy, intensified competition in commercial banking, and the accelerating impact of AI, which is compressing the time available for incumbents to adapt to these changes.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking"
+    },
+    {
+      "index": 2,
+      "title": "AI adoption rate for financial tasks outpacing previous technology waves",
+      "description": "McKinsey highlights that AI adoption in the UK is significantly faster and broader than previous technological changes, such as mobile banking. Within three years of launch, 57% of UK consumers already use AI tools, compared to a decade for mobile banking to reach the same penetration. This rapid adoption is reducing friction in banking processes like onboarding and credit decisions, intensifying competitive pressure on incumbents and shrinking their window for response.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking"
+    },
+    {
+      "index": 3,
+      "title": "Payments revenue growth moderating, signalling structural transition for banks",
+      "description": "McKinsey predicts that global payments revenue growth will moderate from 9% to 4% annually by 2030, indicating a structural transition in the landscape. This deceleration, coupled with softening interest rate tailwinds, means future growth will rely more on deliberate competitive advantages rather than broad market momentum. Banks, as primary participants in this sector, will need to prioritize operational discipline, pricing sophistication, and technological leadership to capture value in this evolving environment.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    },
+    {
+      "index": 4,
+      "title": "EMEA banking sector faces margin compression and slowed growth",
+      "description": "McKinsey projects that the Europe, Middle East, and Africa (EMEA) region, including the UK, will see payment revenue growth slow significantly to about 3% annually from 2025–30, a sharp decline from 14% in 2020–25. This deceleration is primarily due to lower interest rates compressing treasury and deposit margins. As a result, the region is experiencing a rapid shift towards fee-based structures, necessitating strategic adjustments for banks operating within these markets.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    },
+    {
+      "index": 5,
+      "title": "Incumbents retain customer trust for AI services, but this advantage is perishable",
+      "description": "McKinsey finds that 64% of UK AI users trust their primary bank most to offer AI services, significantly more than major tech companies (16%) or independent fintechs (8%). This indicates a strong initial advantage for incumbent banks. However, this trust is perishable, as 49% of users would consider a third-party financial AI service if their bank offered none. Banks must quickly leverage this trust by building and deploying AI solutions to convert it into a sustainable competitive edge.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking"
+    },
+    {
+      "index": 6,
+      "title": "UK financial services exports concentrated but diversifying towards growth markets",
+      "description": "TheCityUK notes that the UK's financial services exports are heavily concentrated in advanced economies, with the EU and US accounting for around two-thirds of sector exports. However, there is increasing visibility of diversification towards faster-growing emerging markets like China, Hong Kong, Singapore, and the GCC. This presents opportunities for the UK to capitalize on rapid growth in these new corridors, enhancing economic resilience and expanding its global reach beyond established relationships.",
+      "stance": "cautious_positive",
+      "source_firm": "TheCityUK",
+      "source_date": "2026-09-24",
+      "source_doc_id": "1205157c-d8a2-5fc4-9136-db463dbd805d",
+      "source_title": "Global financial services trade in transition",
+      "source_publisher": "thecityuk",
+      "source_url": "https://www.thecityuk.com/our-work/changing-landscape-for-global-financial-services-trade"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 94.0,
+      "tam_unit": "GBP_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 2.0,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Financial inclusion",
+          "description": "Increasing access to formal financial services across banking and payments supports a baseline level of activity."
+        },
+        {
+          "driver": "Economic activity",
+          "description": "Payment transaction value growth is linked to nominal global GDP, with financial flows deepening relative to economic activity."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Net interest income (NII)",
+          "description": "Historically driven by elevated interest rates, contributing significantly to revenue. Shift to fee income is expected as interest rates ease, but NII remains sensitive to rate changes."
+        },
+        {
+          "driver": "Fee income",
+          "description": "Expected to regain share as interest rates ease, driven by value-added services such as software, fraud mitigation, and specialized treasury services alongside baseline processing."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Total annual revenue after risk costs for UK retail and commercial banking sectors. Retail banking generated £62 billion, and commercial banking generated £32 billion.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-16",
+      "data_confidence": "high",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking"
+    }
+  ],
+  "sources": [
+    "McKinsey",
+    "TheCityUK"
+  ],
+  "documents": [
+    {
+      "doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "title": "The decade to redefine UK banking",
+      "publisher": "mckinsey",
+      "date": "2026-09-16",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking"
+    },
+    {
+      "doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "publisher": "mckinsey",
+      "date": "2026-09-25",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    },
+    {
+      "doc_id": "1205157c-d8a2-5fc4-9136-db463dbd805d",
+      "title": "Global financial services trade in transition",
+      "publisher": "thecityuk",
+      "date": "2026-09-24",
+      "url": "https://www.thecityuk.com/our-work/changing-landscape-for-global-financial-services-trade"
+    },
+    {
+      "doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "publisher": "mckinsey",
+      "date": "2026-09-16",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026"
+    }
+  ]
+}

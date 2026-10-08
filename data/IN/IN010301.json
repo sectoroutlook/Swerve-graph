@@ -1,0 +1,571 @@
+{
+  "geography": "IN",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Hybrid AC/DC architecture boosts solar efficiency, reduces conversion losses",
+      "description": "The increasing dominance of natively DC energy sources like solar PV and loads such as data centers and EVs is driving a fundamental shift towards hybrid AC/DC power systems. This architecture, especially beneficial for high-density applications behind the meter, will reduce energy conversion losses for solar PV, simplify battery storage integration, and enhance peak buffering, leading to direct efficiency gains and revenue opportunities for solar installations.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case",
+      "source_date": "2026-09-09"
+    },
+    {
+      "index": 2,
+      "title": "Fragmented DC standards impede wider solar-plus-storage adoption",
+      "description": "The lack of harmonized standards across DC voltage ranges presents a significant barrier to the broader adoption of hybrid AC/DC power systems, impacting solar installations and integrated storage. Equipment approved in one market may require costly redesign or retesting elsewhere, increasing costs and slowing deployment. This fragmentation, though systemic rather than technical, delays the realization of efficiency and cost benefits for solar PV, particularly in commercial and residential buildings.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case",
+      "source_date": "2026-09-09"
+    },
+    {
+      "index": 3,
+      "title": "Shortage of DC-specific expertise constrains solar system deployment",
+      "description": "The absence of sufficient specialized expertise among electrical engineers and electricians in designing, protecting, integrating, and commissioning DC systems poses a real, non-technological barrier to hybrid AC/DC adoption. This skills gap, akin to the early solar PV expansion, will likely constrain deployment rates of solar-plus-storage solutions. Targeted retraining and parallel standards development are critical to overcome this constraint and accelerate market growth for solar energy.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case",
+      "source_date": "2026-09-09"
+    },
+    {
+      "index": 4,
+      "title": "China's dominance in solar modules creates global supply chain risk",
+      "description": "China's overwhelming market share, supplying over 80% of global solar modules and 85% of battery cell production, poses a significant resilience risk for low-carbon technologies like solar power. This concentrated supply chain creates vulnerabilities to geopolitical disruptions or trade barriers, potentially hindering the rapid and affordable deployment of solar energy in other markets, and making the system vulnerable to supply shocks despite solar's cost-effectiveness and low emissions profile.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-01",
+      "source_doc_id": "a76c363d-148b-571c-9fb9-eb24b3bb00e7",
+      "source_title": "Investing in the energy transition: Time to look at whole-system value",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value",
+      "source_date": "2026-09-01"
+    },
+    {
+      "index": 5,
+      "title": "China's efficient permitting accelerates utility-scale solar project deployment",
+      "description": "China's ability to complete utility-scale solar projects two to five times faster than in the US and Europe, often with permitting completed within 18 days, is a major structural change in renewable energy deployment. This streamlined process, involving parallel reviews and standardized interconnection, significantly reduces development cycles and investor risks. This efficiency allows for massive capacity additions (430 GW of wind and solar in 2025), driving global solar cost reductions and setting a benchmark for other markets.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-08-27",
+      "source_doc_id": "8b4270ca-15c5-5487-92a3-e211761ec7fa",
+      "source_title": "What the World Can Learn from China’s Energy Transition",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/china-energy-transition-global-lessons",
+      "source_date": "2026-08-27"
+    },
+    {
+      "index": 6,
+      "title": "Solar curtailment rises in China due to grid and demand limitations",
+      "description": "Despite rapid solar capacity additions, China's solar curtailment rate increased from 3% in 2021 to 7% in 2025. This rising curtailment indicates a growing risk to solar project economics and efficient energy transition, as grid infrastructure and electricity demand struggle to absorb the surge of intermittent renewable energy. This highlights the need for significant grid upgrades, energy storage solutions, and demand-side management to avoid value destruction from oversupply.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-27",
+      "source_doc_id": "8b4270ca-15c5-5487-92a3-e211761ec7fa",
+      "source_title": "What the World Can Learn from China’s Energy Transition",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/china-energy-transition-global-lessons",
+      "source_date": "2026-08-27"
+    },
+    {
+      "index": 7,
+      "title": "Government scheme drives rapid rooftop solar growth and energy self-reliance",
+      "description": "The PM Surya Ghar Muft Bijli Yojana is a strong tailwind for India's solar sector, having enabled over 12 GW of rooftop solar capacity across 33 lakh households by May 2026. With a target of 75 lakh installations by December 2026 and substantial financial assistance, the scheme accelerates decentralized solar deployment, boosts energy self-reliance for households, and contributes significantly to India's overall renewable energy targets, indicating robust demand and policy support for rooftop solar.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 8,
+      "title": "Enhanced government budget boosts solar deployment and domestic manufacturing",
+      "description": "The Union Budget 2026-27's 40.52% increase in MNRE allocation to Rs. 44,614.67 crore (US$ 5.05 billion) is a significant tailwind for India's solar power sector. This enhanced support is specifically directed towards solar deployment, energy storage, and domestic manufacturing, reinforcing India’s commitment to large-scale renewable capacity expansion. The increased funding will stimulate new projects, support existing initiatives, and strengthen the domestic solar value chain.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 9,
+      "title": "PLI scheme boosts domestic solar PV manufacturing capacity and integration",
+      "description": "India's PLI Scheme for High Efficiency Solar PV Modules, backed by Rs. 24,000 crore (US$ 2.73 billion), has been instrumental in awarding 48.34 GW of integrated solar PV manufacturing capacity. This has significantly boosted domestic module, cell, and ingot-wafer production, with annual solar PV module manufacturing capacity reaching 172 GW by March 2026. This structural change aims to reduce reliance on imports, enhance energy security, and foster a self-reliant solar manufacturing ecosystem within India.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 10,
+      "title": "Battery price volatility and FX risks threaten BESS-solar project bankability",
+      "description": "Solar projects integrated with Battery Energy Storage Systems (BESS) in India face significant financial viability risks due to battery pack price volatility and foreign exchange fluctuations, especially as India relies heavily on imported BESS components. Aggressive tariff bids, based on projected future cost declines, can quickly become unviable if prices or currency rates move adversely. This impacts project execution and bankability, underscoring the need for contract mechanisms like limited price indexation and FX pass-throughs.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects",
+      "source_date": "2026-08-07"
+    },
+    {
+      "index": 11,
+      "title": "Growing renewable capacity share boosts solar's role in energy mix",
+      "description": "An increasing share of renewable energy in India's total installed power capacity signals a strong policy emphasis and sustained investment in the energy transition. This directly benefits the solar energy sub-industry through higher capacity additions and greater integration into the grid. As India aims for 500 GW of non-fossil fuel capacity by 2030, with 280 GW from solar, this trend provides a consistent long-term tailwind, driving demand and supporting new project development.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 12,
+      "title": "DISCOM debt causes payment delays, hindering solar project financing",
+      "description": "Increased debt among Distribution Companies (DISCOMs) signifies financial distress in the power distribution sector. This leads to payment delays for solar power generators and reduces DISCOMs' ability to sign new power purchase agreements (PPAs). Such financial instability hinders demand and financing for solar energy projects, creating a significant policy and financing risk that can impede project execution and overall sector growth, making project bankability challenging.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-19",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects",
+      "source_date": "2026-08-07"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Hybrid AC/DC architecture becoming essential for solar efficiency gains",
+      "description": "BCG posits that the rapid scaling of AI compute demands a shift to hybrid AC/DC power systems. While AC remains the backbone for transmission, DC is crucial for high-density applications like solar PV. This transition will optimize efficiency, reduce conversion losses, and simplify storage integration, especially for solar inverters, enabling higher power density and direct revenue from efficiency gains in industrial, commercial, and residential solar applications.",
+      "stance": "positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case"
+    },
+    {
+      "index": 2,
+      "title": "Global energy system financing solar and fossil fuels in parallel at comparable scale",
+      "description": "McKinsey highlights that despite robust renewables growth, global investment in 2025 simultaneously financed both fossil fuels and low-carbon energy at comparable scales. Solar received approximately $440 billion, making it the largest clean-energy category. This indicates that the energy system is expanding all fuel and power industries in parallel, with solar playing an important but variable role, requiring system absorption for its intermittent output.",
+      "stance": "neutral",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-01",
+      "source_doc_id": "a76c363d-148b-571c-9fb9-eb24b3bb00e7",
+      "source_title": "Investing in the energy transition: Time to look at whole-system value",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value"
+    },
+    {
+      "index": 3,
+      "title": "Concentrated global solar module supply chain poses significant resilience risks",
+      "description": "McKinsey points out that while solar provides low-marginal-cost electricity and low emissions, its supply chain resilience is a concern. China currently dominates, supplying over 80 percent of global solar modules and 85 percent of battery cell production capacity. This concentration creates a substantial resilience risk for low-carbon technologies, potentially mirroring or exceeding the gas-dependency challenges observed in Europe, necessitating diversification in the long term.",
+      "stance": "cautious_negative",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-01",
+      "source_doc_id": "a76c363d-148b-571c-9fb9-eb24b3bb00e7",
+      "source_title": "Investing in the energy transition: Time to look at whole-system value",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value"
+    },
+    {
+      "index": 4,
+      "title": "China's rapid solar project delivery offers lessons for accelerating global energy transition",
+      "description": "BCG emphasizes that China's project delivery timelines for major renewable energy projects, including utility-scale solar, are two to five times faster than those in the US and Europe. This efficiency stems from coordinated, parallel permitting processes and standardized interconnection studies. Faster permitting, coupled with extensive upfront investment in transmission infrastructure, has significantly reduced investor internal rates of return for comparable European projects, highlighting China's effective model for rapid deployment.",
+      "stance": "positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-08-27",
+      "source_doc_id": "8b4270ca-15c5-5487-92a3-e211761ec7fa",
+      "source_title": "What the World Can Learn from China’s Energy Transition",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/china-energy-transition-global-lessons"
+    },
+    {
+      "index": 5,
+      "title": "Rapid solar capacity build-out in China leads to rising curtailment rates",
+      "description": "BCG notes that the rapid pace of solar capacity deployment in China has led to increased renewable energy curtailment. The solar curtailment rate rose from approximately 3% in 2021 to around 7% in 2025. This issue arises because grid infrastructure and electricity demand have struggled to keep pace with the aggressive growth in generation, indicating a critical challenge in integrating large-scale intermittent renewables effectively.",
+      "stance": "cautious_negative",
+      "source_firm": "bcg_global",
+      "source_date": "2026-08-27",
+      "source_doc_id": "8b4270ca-15c5-5487-92a3-e211761ec7fa",
+      "source_title": "What the World Can Learn from China’s Energy Transition",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/china-energy-transition-global-lessons"
+    },
+    {
+      "index": 6,
+      "title": "India's BESS growth vital for rooftop solar, needs domestic component manufacturing",
+      "description": "EY-Parthenon highlights that India's Battery Energy Storage System (BESS) demand is increasing, driven by behind-the-meter (BTM) applications across C&I and rooftop solar. This integration is crucial for managing intermittency and enhancing power quality for solar. However, heavy reliance on imported BESS components creates supply chain, foreign exchange, and quality risks. Extending PLI-like schemes beyond cells to BESS components and establishing approved manufacturers lists, similar to solar PV modules, is essential for bankable projects.",
+      "stance": "cautious_positive",
+      "source_firm": "ey",
+      "source_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects"
+    },
+    {
+      "index": 7,
+      "title": "India poised for immense solar growth, surpassing global climate targets",
+      "description": "IBEF provides a positive outlook for India's renewable energy sector, noting that the country is surpassing climate targets with 100 GW of solar capacity already installed and a 36% reduction in emissions intensity. India aims to achieve 500 GW of renewable energy capacity by 2030, with 280 GW specifically from solar power, demonstrating immense growth potential. Increased government allocation for MNRE and flagship schemes like PM Surya Ghar reinforce this commitment.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 8,
+      "title": "PM Surya Ghar scheme drives rapid rooftop solar adoption and self-reliance",
+      "description": "IBEF highlights the significant success of the PM Surya Ghar: Muft Bijli Yojana, which has crossed 40 lakh beneficiary households within two years. Over 33 lakh rooftop solar systems, totaling more than 12 GW, were installed by May 2026, with a target to reach 75 lakh installations by December 2026. This scheme, supported by substantial Central Financial Assistance, accelerates India's transition towards distributed renewable energy and energy self-reliance, with strong year-on-year growth in solar power generation.",
+      "stance": "positive",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 440.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Overall energy system growth",
+          "description": "Global energy demand is increasing, with all fuel and power industries expanding in parallel, requiring significant investment across both fossil fuels and clean energy like solar."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "About $3.3 trillion was invested in all aspects of the global energy system in 2025. Of this, $1.8 trillion was directed toward fossil fuels, power generation, and low-carbon technologies. Two energy carriers accounted for nearly half of this: About $540 billion went to the upstream oil sector (the largest fossil-fuel capital expenditure category), while about $440 billion went to solar (the largest clean-energy category).",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-01",
+      "data_confidence": "high",
+      "source_doc_id": "a76c363d-148b-571c-9fb9-eb24b3bb00e7",
+      "source_title": "Investing in the energy transition: Time to look at whole-system value",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value"
+    },
+    {
+      "index": 2,
+      "tam_value": 430.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "National strategic priority",
+          "description": "China's long-term policy predictability and focus on energy transition as a national strategic priority drives massive capacity deployment."
+        },
+        {
+          "driver": "Accelerated project delivery",
+          "description": "Rapid permitting and grid connection systems enable faster project completion, supporting large-scale installations."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "In 2025 alone, China installed 430 GW of wind and solar capacity—more than the total installed wind and solar capacity of any other country.",
+      "source_firm": "bcg_global",
+      "source_date": "2026-08-27",
+      "data_confidence": "high",
+      "source_doc_id": "8b4270ca-15c5-5487-92a3-e211761ec7fa",
+      "source_title": "What the World Can Learn from China’s Energy Transition",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/china-energy-transition-global-lessons"
+    },
+    {
+      "index": 3,
+      "tam_value": 280.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "National renewable energy targets",
+          "description": "India's ambitious target of 500 GW non-fossil fuel capacity by 2030 drives significant solar deployment."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The country plans to reach 500 GW of installed renewable energy capacity by 2030, with 280 GW expected from solar power.",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 4,
+      "tam_value": 230.78,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government policy support",
+          "description": "Increased MNRE allocation and flagship schemes drive capacity expansion across renewables."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "As of May 2026, renewable energy sources, including Small Hydro Power, Wind Power, Solar Power and Bio-Power, have a combined installed capacity of 2,30,780 MW.",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 5,
+      "tam_value": 157.04,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government schemes (PM Surya Ghar)",
+          "description": "Policy initiatives are driving rapid adoption and capacity additions in both utility-scale and rooftop solar."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "As of May 2026, India’s total installed solar capacity stood at 157.04 GW, reflecting sustained expansion in the sector.",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 6,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 41.06,
+      "historical_cagr_period": "April-May 2025 to April-May 2026 (YoY growth)",
+      "demand_drivers": [
+        {
+          "driver": "Increased installed capacity",
+          "description": "Sustained expansion in solar energy capacity leads directly to higher generation output."
+        },
+        {
+          "driver": "Government support",
+          "description": "Policy initiatives like PM Surya Ghar boost deployments and generation."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s solar power generation reached 42,483.60 MU during April-May 2026, compared to 30,117.14 MU during the corresponding period last year, registering a strong year-on-year growth of 41.06%. In May 2026 alone, solar power generation stood at 21,584.00 MU.",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 7,
+      "tam_value": 12.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "PM Surya Ghar Muft Bijli Yojana",
+          "description": "This flagship scheme offers central financial assistance and a fully digital subsidy mechanism, significantly accelerating household rooftop solar adoption and self-reliance."
+        },
+        {
+          "driver": "Household registration",
+          "description": "Over one crore households registered under the scheme signal strong consumer interest and demand for rooftop solar."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "More than 33 lakh rooftop solar systems, with a cumulative capacity exceeding 12 GW, had been installed by May 2026, while over one crore households had registered under the scheme. The Government has set a target of reaching 75 lakh rooftop solar installations by December 2026.",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 8,
+      "tam_value": 172.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Production Linked Incentive (PLI) Scheme",
+          "description": "Government's PLI scheme for high-efficiency solar PV modules, with significant budget allocation, has driven gigawatt-scale manufacturing capacity development."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India's annual solar PV module manufacturing capacity reached approximately 172 GW, as per the ALMM (List-I) dated March 1, 2026.",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 9,
+      "tam_value": 190.0,
+      "tam_unit": "USD_bn",
+      "sam_value": 215.0,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "500 GW renewable energy target",
+          "description": "India's ambitious target by 2030 drives massive investment requirements across renewable generation, including solar, and supporting infrastructure."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "According to Moody's, India will require US$ 190-215 billion of investment between 2023 to 2030 to achieve the target of 500 GW of renewable energy capacity by 2030, and another US$ 150-170 billion for electricity transmission, distribution, and energy storage.",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    }
+  ],
+  "sources": [
+    "bcg_global",
+    "mckinsey",
+    "ey",
+    "ibef"
+  ],
+  "documents": [
+    {
+      "doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "title": "The Strategic Case for Hybrid AC/DC Power",
+      "publisher": "bcg_global",
+      "date": "2026-09-09",
+      "url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case"
+    },
+    {
+      "doc_id": "a76c363d-148b-571c-9fb9-eb24b3bb00e7",
+      "title": "Investing in the energy transition: Time to look at whole-system value",
+      "publisher": "mckinsey",
+      "date": "2026-09-01",
+      "url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value"
+    },
+    {
+      "doc_id": "8b4270ca-15c5-5487-92a3-e211761ec7fa",
+      "title": "What the World Can Learn from China’s Energy Transition",
+      "publisher": "bcg_global",
+      "date": "2026-08-27",
+      "url": "https://www.bcg.com/publications/2026/china-energy-transition-global-lessons"
+    },
+    {
+      "doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "title": "Why India's BESS growth story depends on delivering bankable projects",
+      "publisher": "ey",
+      "date": "2026-08-07",
+      "url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects"
+    },
+    {
+      "doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "title": "Renewable Energy Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/renewable-energy"
+    }
+  ]
+}

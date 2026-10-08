@@ -1,0 +1,567 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Policy uncertainty and reliance on support for biomethane growth",
+      "description": "The growth of biomethane production in GB, especially beyond current levels, is heavily reliant on policy support, such as the Green Gas Support Scheme (GGSS) which closes to new applications in March 2028. Without a clear future policy framework to follow this scheme, there is significant uncertainty regarding investment and scaling up, posing a major risk to achieving biomethane's full decarbonisation potential.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download",
+      "source_date": "2026-09-15"
+    },
+    {
+      "index": 2,
+      "title": "Barriers to gas grid injection for biomethane",
+      "description": "Biomethane production faces significant challenges related to gas grid connections, constraints, and 'propanation,' which hinder its injection into the national gas network. Overcoming these barriers is crucial for scaling up biomethane production and ensuring its widespread use as a low-carbon gas. These technical and regulatory hurdles add complexity and cost, potentially limiting market penetration and the ability to leverage biomethane's full value in the energy system.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download",
+      "source_date": "2026-09-15"
+    },
+    {
+      "index": 3,
+      "title": "Methane leakage concerns for biomethane in transport",
+      "description": "A significant risk associated with biomethane's role in transport is methane leakage, which can occur during production, supply, and especially from vehicle engines (unburnt methane) or storage (e.g., LNG storage for shipping). Despite emissions reductions compared to conventional fuels, these leakages could offset much of the environmental benefits, limiting biomethane's long-term potential in decarbonisation pathways, as highlighted by bodies like the CCC's Seventh Carbon Budget.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download",
+      "source_date": "2026-09-15"
+    },
+    {
+      "index": 4,
+      "title": "Solar PV power conversion market contraction due to price pressure",
+      "description": "The global market for power conversion technologies in both residential/commercial and utility-scale solar PV is projected to decline through 2030, with CAGRs of -4% and -2% respectively. This contraction is primarily driven by intense pricing pressure, increased competition, and market saturation in mature regions. This suggests a challenging environment for inverter manufacturers and a potential dampening effect on new solar deployment due to reduced profitability margins for equipment providers.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities",
+      "source_date": "2026-09-10"
+    },
+    {
+      "index": 5,
+      "title": "Electrolyzer deployment delays slowing green hydrogen progress",
+      "description": "Despite a rapid scale-up projection for rectifiers in electrolyzer applications (26% CAGR to 2030), recent years have seen expectations moderated. Project delays and cancellations are slowing progress relative to earlier deployment announcements for green hydrogen, indicating challenges in project financing, permitting, or supply chain execution. This acts as a headwind for the IN010305 Green Hydrogen node, impacting its anticipated growth trajectory and the associated equipment market.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities",
+      "source_date": "2026-09-10"
+    },
+    {
+      "index": 6,
+      "title": "Accelerating BESS power conversion market growth",
+      "description": "The global battery energy storage system (BESS) power conversion equipment market is expected to triple by 2030, with an 18% CAGR. This growth is driven by the increasing deployment of utility-scale, grid-connected storage across all major regions. As intermittent renewable sources (solar, wind) increase their share of energy supply, BESS are crucial for grid stability, improved capacity utilization, flexible dispatch, and monetization of hybrid assets, providing a strong tailwind for the IN010306 Energy Storage node.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities",
+      "source_date": "2026-09-10"
+    },
+    {
+      "index": 7,
+      "title": "HVDC deployment boosting offshore wind connectivity",
+      "description": "The global HVDC valves market is forecast to grow at a 6% CAGR from 2024 to 2030, reaching nearly $3.9 billion. This growth is significantly driven by the accelerating deployment of HVDC systems, particularly for connecting offshore wind farms to the grid. HVDC technology enhances efficiency and control in high-power transmission, reducing network losses and supporting grid integration of remote renewable sources, providing a strong tailwind for the IN010302 Wind Energy node.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities",
+      "source_date": "2026-09-10"
+    },
+    {
+      "index": 8,
+      "title": "Slow offshore wind capacity installation despite significant awards",
+      "description": "Despite offshore wind generation meeting almost 20% of the UK’s electricity supply in 2025 (52 TWh), only 500 MW of new capacity was installed that year. While Allocation Round 7 awarded a record 8 GW of offshore wind contracts, progress needs to accelerate substantially for the sector to make a material contribution to the overall energy market. This slow actual installation rate, relative to the ambitious targets and awarded capacity, poses a headwind to the IN010302 Wind Energy node.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 9,
+      "title": "Offshore energy supply chain shifting due to unstable investment",
+      "description": "The UK's offshore energy supply chain, which is critical for the homegrown energy transition, is increasingly being drawn to other global regions that offer more stable and attractive investment opportunities. This migration of supply chain members, as indicated by OEUK survey data, poses a key risk to the timely and cost-effective development of offshore wind, hydrogen, and CCUS projects in the UK, potentially hindering the progress of the IG0103 sector.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 10,
+      "title": "Electricity system bottlenecks hinder low-carbon deployment",
+      "description": "Global energy transition progress, despite significant low-carbon investment, is increasingly constrained by bottlenecks in grids, permitting processes, and the availability of dispatchable capacity. This infrastructure deficit means that while low-carbon generation capacity may be expanding quickly, the ability to connect, balance, and secure that supply is lagging. This poses a significant headwind to all IG0103 sub-nodes, as projects face delays and higher costs due to inadequate supporting infrastructure.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-01",
+      "source_doc_id": "a76c363d-148b-571c-9fb9-eb24b3bb00e7",
+      "source_title": "Investing in the energy transition: Time to look at whole-system value",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value",
+      "source_date": "2026-09-01"
+    },
+    {
+      "index": 11,
+      "title": "Concentrated supply chains for low-carbon technologies",
+      "description": "The global supply chains for key low-carbon technologies are highly concentrated, with China supplying over 80% of global solar modules and over 85% of battery cell production capacity by monetary value. This concentration poses a significant resilience risk for low-carbon technology deployment, potentially leading to supply disruptions, price volatility, and geopolitical vulnerabilities. This is a critical key risk for IN010301 Solar Energy and IN010306 Energy Storage, affecting security of supply and affordability.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-01",
+      "source_doc_id": "a76c363d-148b-571c-9fb9-eb24b3bb00e7",
+      "source_title": "Investing in the energy transition: Time to look at whole-system value",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value",
+      "source_date": "2026-09-01"
+    },
+    {
+      "index": 12,
+      "title": "Shift towards flexibility-priced renewable products",
+      "description": "The power and gas trading markets are experiencing a structural shift with value moving towards products that price in flexibility. This includes structured power purchase agreements (PPAs), hybrid PPAs combining complementary renewables like wind and hydro, and flexibility purchase agreements (FPAs) predominantly for battery energy storage systems (BESS). This indicates a growing market opportunity and structural tailwind for IN010306 Energy Storage and for flexible IN010302 Wind Energy and IN010303 Hydropower assets, as trading firms seek to optimize intermittent renewable output.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-24",
+      "source_doc_id": "2bcc7669-baf5-5573-acbf-f6eae44e845f",
+      "source_title": "Power, Gas, and LNG Trading: Racing to Compete in the Coming Decade",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-power-gas-trading-firms-compete-by-2035",
+      "source_date": "2026-08-24"
+    },
+    {
+      "index": 13,
+      "title": "Negative wholesale prices from renewable energy surges",
+      "description": "In several European markets, including Germany and the Netherlands, surges of renewable energy onto the grid frequently lead to negative wholesale prices, with companies sometimes paid to consume or store power. As renewables grow globally at 8% to 12% per year, this intermittency and sensitivity to local grid conditions are increasing. This presents a headwind for renewable generators (IG0103) as it can reduce revenue, but simultaneously acts as a strong demand driver for IN010306 Energy Storage to balance the grid and mitigate price volatility.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-24",
+      "source_doc_id": "2bcc7669-baf5-5573-acbf-f6eae44e845f",
+      "source_title": "Power, Gas, and LNG Trading: Racing to Compete in the Coming Decade",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-power-gas-trading-firms-compete-by-2035",
+      "source_date": "2026-08-24"
+    },
+    {
+      "index": 14,
+      "title": "CBAM incentivises low-carbon production and emissions management",
+      "description": "The EU's Carbon Border Adjustment Mechanism (CBAM), implemented in January 2026, directly converts embedded emissions into costs for imported goods, making carbon intensity a critical trade variable. This structural change aligns carbon costs with the EU ETS, effectively rewarding low-carbon production with lower costs and discouraging high-emissions imports. This serves as a significant tailwind for IN010309 Carbon Markets & CCUS, promoting emissions tracking, verification, and decarbonisation measures, and indirectly supports domestic low-carbon industries (IG0103).",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-07-21",
+      "source_doc_id": "95c66b48-a08c-5eb3-b02a-2a877dfd0ece",
+      "source_title": "CBAM: How companies can build from compliance to value creation",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/capabilities/sustainability/our-insights/cbam-how-companies-can-build-from-compliance-to-value-creation",
+      "source_date": "2026-07-21"
+    },
+    {
+      "index": 15,
+      "title": "CBAM complexity and data availability challenge compliance",
+      "description": "Compliance with the Carbon Border Adjustment Mechanism (CBAM) is complicated by the limited availability of verified emissions data from exporters and evolving methodologies for calculating CBAM-related costs. This, coupled with carbon price volatility, makes financial forecasting difficult for EU importers. Many companies are currently focusing on mere compliance rather than active exposure management, indicating a key risk for effective operation within the IN010309 Carbon Markets & CCUS framework and potentially hindering the full benefits of the mechanism.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-21",
+      "source_doc_id": "95c66b48-a08c-5eb3-b02a-2a877dfd0ece",
+      "source_title": "CBAM: How companies can build from compliance to value creation",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/capabilities/sustainability/our-insights/cbam-how-companies-can-build-from-compliance-to-value-creation",
+      "source_date": "2026-07-21"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Biomethane offers significant low-carbon value, but scale-up faces challenges",
+      "description": "NESO's analysis indicates that biomethane could deliver significant value in decarbonising GB's energy system, especially in hard-to-electrify industry and transport. Sustainable production has potential for substantial growth, with pathways up to 64 TWh by 2050. However, achieving this scale depends critically on continued policy support in the short-to-medium term and overcoming barriers to gas grid injection. Challenges and trade-offs are expected to increase with production exceeding 30 TWh annually.",
+      "stance": "cautious_positive",
+      "source_firm": "NESO",
+      "source_date": "2026-09-15",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download"
+    },
+    {
+      "index": 2,
+      "title": "Integrated offshore energy approach crucial for UK's low-carbon future",
+      "description": "OEUK is positive on the UK's offshore energy sector's commitment to delivering a secure, affordable, and lower-carbon energy system. They assert that offshore wind, hydrogen, and Carbon Capture Utilisation and Storage (CCUS), alongside oil and gas, each have vital roles to play. This integrated approach is seen as a major opportunity to strengthen the economy, support skilled jobs, and maintain the UK's position as a world-leading energy nation, especially in a volatile global environment.",
+      "stance": "positive",
+      "source_firm": "Offshore Energies UK (OEUK)",
+      "source_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 64.0,
+      "tam_unit": "TWh",
+      "sam_value": null,
+      "as_of_year": 2050,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Decarbonisation of hard-to-electrify sectors",
+          "description": "Biomethane serves as a low-carbon option for industrial processes (e.g., high-temperature heat, chemical feedstock) and transport (heavy goods vehicles, shipping, aviation) where electrification or other alternatives are not yet viable or accessible."
+        },
+        {
+          "driver": "Greenhouse Gas Removals (GGRs)",
+          "description": "Capture and permanent storage of CO2 from biomethane production offers a relatively lower-cost route to achieving permanent greenhouse gas removals, enabling negative emissions."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Cost competitiveness",
+          "description": "Biomethane's levelised production costs are comparable to projected hydrogen costs. Policy support (e.g., Green Gas Support Scheme) is crucial to bridge the cost gap with natural gas and carbon prices, with potential for further cost reductions from larger assets and secondary revenue streams."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Leveraging biogenic CO2 captured from biomethane production for industrial utilisation (e.g., food and drink, e-fuels like SAFs) creates additional revenue streams and enhances economic viability.",
+          "opportunity": "CO2 utilisation markets"
+        },
+        {
+          "description": "The digestate by-product from anaerobic digestion can be sold as a fertiliser, providing a secondary revenue stream and contributing to circular economy principles.",
+          "opportunity": "Digestate as fertiliser"
+        }
+      ],
+      "methodology": "Projected biomethane supply in NESO's Future Energy Scenarios 2025 'Holistic Transition' pathway. Represents a ten-fold increase from 2025 levels. Based on analysis of production potential and stakeholder engagement.",
+      "source_firm": "NESO",
+      "source_date": "2026-09-15",
+      "data_confidence": "high",
+      "source_doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "source_title": "Biomethane report",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/384986/download"
+    },
+    {
+      "index": 2,
+      "tam_value": 52.0,
+      "tam_unit": "TWh",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total electricity generated from offshore wind power in the UK for the year 2025, as reported by OEUK, meeting almost 20% of the UK’s electricity supply.",
+      "source_firm": "Offshore Energies UK (OEUK)",
+      "source_date": "2026-09-08",
+      "data_confidence": "high",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "index": 3,
+      "tam_value": 0.6,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 26.0,
+      "forecast_cagr_period": "2024-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Scaling of hydrogen production",
+          "description": "Electrolyzers are critical for green hydrogen production, requiring high-power rectifiers to convert AC grid electricity into stable DC current for water splitting."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Cost reduction and efficiency",
+          "description": "Competition in the market is driving demand for compact, high-efficiency rectifiers with plug-and-play compatibility, enabling faster deployment and lower costs for green hydrogen projects."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Global market size projection for power conversion technologies in electrolyzer applications. Based on McKinsey Platform for Industrial Electrification data.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-10",
+      "data_confidence": "medium",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities"
+    },
+    {
+      "index": 4,
+      "tam_value": 13.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": -4.0,
+      "forecast_cagr_period": "2024-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "On-site consumption and grid injection",
+          "description": "Solar PV systems require inverters to convert DC electricity from solar modules into AC power for use or grid connection, with hybrid inverters integrating storage and bidirectional flows for self-consumption and backup."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Pricing pressure and competition",
+          "description": "Market contraction is largely driven by intense pricing pressure and increased competition, alongside market saturation in mature regions like Europe and normalization after periods of rapid deployment."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Opportunities exist in expanding into adjacent services like energy management and integrating battery storage capabilities within hybrid inverter solutions to differentiate offerings.",
+          "opportunity": "Energy management and storage integration"
+        }
+      ],
+      "methodology": "Global market size projection for power conversion technologies in residential and commercial solar PV systems. Based on McKinsey Platform for Industrial Electrification data.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-10",
+      "data_confidence": "medium",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities"
+    },
+    {
+      "index": 5,
+      "tam_value": 12.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 18.0,
+      "forecast_cagr_period": "2024-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Grid stability and renewable integration",
+          "description": "Deployment of utility-scale, grid-connected storage is driven by the increasing share of intermittent renewable power sources (solar, wind), necessitating greater energy storage capacity for grid stability, capacity utilization, flexible dispatch, and monetization of hybrid assets."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Advanced control and energy management",
+          "description": "OEMs are developing novel inverters with advanced control, energy management systems, and grid-forming capabilities to support energy trading and virtual power plant networks."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Global market size projection for Battery Energy Storage System (BESS) power conversion equipment. Based on McKinsey Platform for Industrial Electrification data.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-10",
+      "data_confidence": "high",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities"
+    },
+    {
+      "index": 6,
+      "tam_value": 7.6,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": -2.0,
+      "forecast_cagr_period": "through 2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Grid connection for large-scale solar plants",
+          "description": "Utility-scale solar PV inverters are essential for converting DC to AC power, connecting large solar farms to the grid and ensuring grid stability."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Price compression and competition",
+          "description": "Market contraction is largely driven by intense price compression and increased competition in the utility-scale solar PV inverter market."
+        },
+        {
+          "driver": "Grid code compliance and stability features",
+          "description": "Compliance with grid codes and integration of grid-stabilizing features are becoming increasingly important for utility-scale solar PV inverters, adding to operational requirements."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Global market size projection for power conversion technologies in utility-scale solar PV systems. Based on McKinsey Platform for Industrial Electrification data.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-10",
+      "data_confidence": "medium",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities"
+    },
+    {
+      "index": 7,
+      "tam_value": 20.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "On-site electricity consumption and cost avoidance",
+          "description": "High electricity prices spur adoption of solar and home batteries, enabling households to consume electricity on-site and avoid network, policy, or capacity costs from the grid."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Battery attachment rate",
+          "description": "Rising attachment rates for home batteries would significantly increase the share of solar output consumed on-site, potentially doubling the effect of cost savings for homeowners."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Estimated micro-scale solar capacity in GB from BCG UK Power Model, assuming domestic rooftop self-consumption by 2035. This figure represents the installed capacity, not necessarily the output.",
+      "source_firm": "Boston Consulting Group (BCG)",
+      "source_date": "2026-08-26",
+      "data_confidence": "medium",
+      "source_doc_id": "c96312a0-006f-538a-8156-4ae575a7b143",
+      "source_title": "To Cut Electricity Bills, Britain Needs to Use More, Not Less",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/united-kingdom/centre-for-growth/insights/to-cut-electricity-bills-britain-needs-to-use-more-not-less"
+    },
+    {
+      "index": 8,
+      "tam_value": 10.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Grid flexibility requirements",
+          "description": "The growing intermittency of renewable energy sources requires more flexible resources to balance the grid, creating demand for battery energy storage systems and other flexible assets."
+        },
+        {
+          "driver": "Optimisation of diverse energy assets",
+          "description": "FPAs enable traders to optimise flexible resources from third parties, enhancing system efficiency and market participation for assets like batteries and small generators."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Capacity covered by flexibility purchase agreements (FPAs) in Europe, as reported by BCG, which allow traders to optimize flexible resources like battery energy storage systems and small generators from third parties across multiple markets.",
+      "source_firm": "Boston Consulting Group (BCG)",
+      "source_date": "2026-08-24",
+      "data_confidence": "high",
+      "source_doc_id": "2bcc7669-baf5-5573-acbf-f6eae44e845f",
+      "source_title": "Power, Gas, and LNG Trading: Racing to Compete in the Coming Decade",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-power-gas-trading-firms-compete-by-2035"
+    }
+  ],
+  "sources": [
+    "NESO",
+    "Offshore Energies UK (OEUK)",
+    "McKinsey",
+    "Boston Consulting Group (BCG)"
+  ],
+  "documents": [
+    {
+      "doc_id": "62a23b90-8c2a-582d-98d4-307bfa3ffe5f",
+      "title": "Biomethane report",
+      "publisher": "neso",
+      "date": "2026-09-15",
+      "url": "https://www.neso.energy/document/384986/download"
+    },
+    {
+      "doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "title": "Economic Report 2026",
+      "publisher": "oeuk",
+      "date": "2026-09-08",
+      "url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "title": "The power conversion market: Decarbonization and growth opportunities",
+      "publisher": "mckinsey",
+      "date": "2026-09-10",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities"
+    },
+    {
+      "doc_id": "a76c363d-148b-571c-9fb9-eb24b3bb00e7",
+      "title": "Investing in the energy transition: Time to look at whole-system value",
+      "publisher": "mckinsey",
+      "date": "2026-09-01",
+      "url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/investing-in-the-energy-transition-time-to-look-at-whole-system-value"
+    },
+    {
+      "doc_id": "2bcc7669-baf5-5573-acbf-f6eae44e845f",
+      "title": "Power, Gas, and LNG Trading: Racing to Compete in the Coming Decade",
+      "publisher": "bcg_global",
+      "date": "2026-08-24",
+      "url": "https://www.bcg.com/publications/2026/how-power-gas-trading-firms-compete-by-2035"
+    },
+    {
+      "doc_id": "95c66b48-a08c-5eb3-b02a-2a877dfd0ece",
+      "title": "CBAM: How companies can build from compliance to value creation",
+      "publisher": "mckinsey",
+      "date": "2026-07-21",
+      "url": "https://www.mckinsey.com/capabilities/sustainability/our-insights/cbam-how-companies-can-build-from-compliance-to-value-creation"
+    },
+    {
+      "doc_id": "c96312a0-006f-538a-8156-4ae575a7b143",
+      "title": "To Cut Electricity Bills, Britain Needs to Use More, Not Less",
+      "publisher": "bcg_global",
+      "date": "2026-08-26",
+      "url": "https://www.bcg.com/united-kingdom/centre-for-growth/insights/to-cut-electricity-bills-britain-needs-to-use-more-not-less"
+    }
+  ]
+}

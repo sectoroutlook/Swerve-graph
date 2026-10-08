@@ -1,0 +1,402 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Supply-side step-change in satellite technology and economics",
+      "description": "The satellite communications sector is undergoing a fundamental transformation driven by cheaper launches, higher cadence of deployments, mass-produced spacecraft, and falling terminal costs. These advancements are collectively making satellite capacity more scalable and accessible, allowing it to be packaged and marketed as a consumer product. This structural shift underpins the sector's move from niche to mainstream relevance.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-27",
+      "source_doc_id": "93c29a92-58f9-5b57-8755-1861cefe26f7",
+      "source_title": "Issue Brief: Satellite connectivity",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-satellite-connectivity",
+      "source_date": "2026-02-27"
+    },
+    {
+      "index": 2,
+      "title": "LEO capacity scaling expands market into suburban areas",
+      "description": "Low-Earth Orbit (LEO) broadband capacity is projected to scale significantly, with next-generation satellites such as Starlink V3 and new entrants like Amazon LEO contributing to increased supply. This enhanced capacity is expected to ease previous density constraints, allowing LEO services to expand beyond traditional rural coverage into suburban markets and selected urban niches. This represents a substantial growth opportunity, broadening the addressable market for satellite-based connectivity.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-27",
+      "source_doc_id": "93c29a92-58f9-5b57-8755-1861cefe26f7",
+      "source_title": "Issue Brief: Satellite connectivity",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-satellite-connectivity",
+      "source_date": "2026-02-27"
+    },
+    {
+      "index": 3,
+      "title": "Upfront terminal costs hinder LEO broadband adoption",
+      "description": "Despite advancements in satellite technology, the upfront cost of user terminals remains a significant barrier to the adoption of LEO broadband services, particularly in price-sensitive emerging markets. This cost factor limits accessibility and can cap market penetration, underscoring the need for pricing sophistication and potential subsidies to drive broader uptake. Managing terminal affordability is crucial for expanding the consumer base.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-27",
+      "source_doc_id": "93c29a92-58f9-5b57-8755-1861cefe26f7",
+      "source_title": "Issue Brief: Satellite connectivity",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-satellite-connectivity",
+      "source_date": "2026-02-27"
+    },
+    {
+      "index": 4,
+      "title": "LEO broadband previously capacity-constrained by household density",
+      "description": "Historically, Low-Earth Orbit (LEO) broadband services have faced capacity constraints, particularly above certain household densities. This limitation resulted in beam saturation and performance degradation during peak times, restricting the market to primarily low-density rural areas. While new satellite generations aim to alleviate this, past constraints represent a significant headwind that the sector is actively working to overcome for broader market penetration.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-02-27",
+      "source_doc_id": "93c29a92-58f9-5b57-8755-1861cefe26f7",
+      "source_title": "Issue Brief: Satellite connectivity",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-satellite-connectivity",
+      "source_date": "2026-02-27"
+    },
+    {
+      "index": 5,
+      "title": "Next-gen satellites to significantly boost LEO capacity",
+      "description": "Future satellite roadmaps, including Starlink's V3 and new constellations from entrants like Amazon LEO, are pointing towards substantial step-changes in capacity. These advancements, involving larger spacecraft and higher launch cadences, are expected to significantly increase the overall 'capacity in the sky'. This development is a strong upside driver for the LEO broadband market, alleviating current density constraints and enabling broader service offerings.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-27",
+      "source_doc_id": "93c29a92-58f9-5b57-8755-1861cefe26f7",
+      "source_title": "Issue Brief: Satellite connectivity",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-satellite-connectivity",
+      "source_date": "2026-02-27"
+    },
+    {
+      "index": 6,
+      "title": "Direct-to-Device (D2D) connectivity emerging as mobile access layer",
+      "description": "Direct-to-Device (D2D) satellite connectivity is evolving as a new mobile access layer, integrating directly into smartphones and existing mobile network operator (MNO) spectrum, roaming agreements, and plan designs. This shift positions satellites not just for remote broadband, but as an embedded component of mobile services, cost-effectively closing coverage gaps where traditional terrestrial infrastructure is impractical. This represents a fundamental change in mobile network architecture and service delivery.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-27",
+      "source_doc_id": "93c29a92-58f9-5b57-8755-1861cefe26f7",
+      "source_title": "Issue Brief: Satellite connectivity",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-satellite-connectivity",
+      "source_date": "2026-02-27"
+    },
+    {
+      "index": 7,
+      "title": "Physical constraints limit D2D satellite connectivity performance",
+      "description": "Direct-to-Device (D2D) satellite connectivity faces several physical challenges, including handset uplink limitations (power, antenna gain, thermal limits, battery), weak indoor coverage due to building penetration, and inherently limited dense urban capacity due to large, shared satellite 'cells'. These constraints mean capacity per square kilometer is far lower than terrestrial networks, hindering D2D's ability to fully substitute mobile service in high-density areas.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-02-27",
+      "source_doc_id": "93c29a92-58f9-5b57-8755-1861cefe26f7",
+      "source_title": "Issue Brief: Satellite connectivity",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-satellite-connectivity",
+      "source_date": "2026-02-27"
+    },
+    {
+      "index": 8,
+      "title": "High-rate data degrades quickly in D2D with user density",
+      "description": "A key risk for Direct-to-Device (D2D) satellite connectivity is that high-rate data transmission degrades rapidly as user density increases. This inherent limitation means that while early D2D services are suitable for low-rate messaging, safety, and intermittent voice in rural/outdoor settings, they are not yet capable of supporting data-intensive applications for a concentrated user base. This restricts the potential commercialization and widespread adoption for robust data services.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-02-27",
+      "source_doc_id": "93c29a92-58f9-5b57-8755-1861cefe26f7",
+      "source_title": "Issue Brief: Satellite connectivity",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-satellite-connectivity",
+      "source_date": "2026-02-27"
+    },
+    {
+      "index": 9,
+      "title": "Safety messaging and location services via D2D becoming table stakes",
+      "description": "The standardization of emergency messaging and location services through Direct-to-Device (D2D) satellite connectivity is emerging as a critical upside driver. Consumers are increasingly expecting this feature as part of premium mobile plans, making it 'table stakes' for operators. This drives demand for baseline satellite integration into mobile services, enhancing the value proposition for D2D providers and encouraging bundling and reselling by MNOs.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-02-27",
+      "source_doc_id": "93c29a92-58f9-5b57-8755-1861cefe26f7",
+      "source_title": "Issue Brief: Satellite connectivity",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-satellite-connectivity",
+      "source_date": "2026-02-27"
+    },
+    {
+      "index": 10,
+      "title": "Non-Terrestrial Networks (NTN) evolving into a roaming layer",
+      "description": "Non-Terrestrial Networks (NTN) facilitated by satellite connectivity are expected to evolve into 'just another roaming layer' for mobile operators. This normalization of integration, potentially accelerated by hub/platform-led enablement, will simplify cross-market launches and enhance seamless connectivity. This structural shift integrates satellite services more deeply into the existing mobile ecosystem, expanding reach and simplifying commercial models for telcos and users alike.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-27",
+      "source_doc_id": "93c29a92-58f9-5b57-8755-1861cefe26f7",
+      "source_title": "Issue Brief: Satellite connectivity",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-satellite-connectivity",
+      "source_date": "2026-02-27"
+    },
+    {
+      "index": 11,
+      "title": "Spectrum and regulation to dictate D2D scaling pace",
+      "description": "The pace at which Direct-to-Device (D2D) satellite connectivity can scale will be significantly influenced by spectrum availability and regulatory frameworks. Market-by-market deals for Mobile Network Operator (MNO)-spectrum models require tight coordination, while Mobile-Satellite-Spectrum (MSS) models depend on device penetration and multi-party alignment. Regulatory clarity and consistent spectrum rights are crucial to overcome potential bottlenecks and unlock the full potential for widespread D2D deployment.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-27",
+      "source_doc_id": "93c29a92-58f9-5b57-8755-1861cefe26f7",
+      "source_title": "Issue Brief: Satellite connectivity",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-satellite-connectivity",
+      "source_date": "2026-02-27"
+    },
+    {
+      "index": 12,
+      "title": "Telco operators seeking D2D partnerships for complementary services",
+      "description": "Telecom operators are actively seeking partnerships with satellite service providers to integrate Direct-to-Device (D2D) capabilities. While acknowledging that satellite connectivity may not fully substitute terrestrial networks, telcos view D2D as a valuable complementary service to expand their communications ecosystem. This proactive pursuit of collaboration indicates a strong industry tailwind, driving integration and increasing the reach of mobile services into previously unserved areas through hybrid solutions.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-05",
+      "source_doc_id": "cd02dfff-10b7-5bb0-887e-1527ce839512",
+      "source_title": "MWC 2026: Telecoms at the Inflection Point",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/mwc-2026-telecoms-at-the-inflection-point",
+      "source_date": "2026-03-05"
+    },
+    {
+      "index": 13,
+      "title": "Satellite-based QKD extends reach for high-security applications",
+      "description": "Satellite-based Quantum Key Distribution (QKD) technology presents a significant upside driver for high-security applications, as it has the unique ability to extend the reach of provably secure encryption key exchanges. While currently in a pre-commercial phase, this capability positions satellite communications to play a crucial role in future national security systems and critical infrastructure, offering physics-layer security that complements software-based cryptographic methods.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-05",
+      "source_doc_id": "61f33b7d-15b4-5e50-9b45-c83e485c6356",
+      "source_title": "How Telecom Carriers Are Preparing for Quantum",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/how-telecom-carriers-are-preparing-for-quantum",
+      "source_date": "2026-06-05"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Satellites back in telecom conversation as strategic priority, not last resort",
+      "description": "Satellite connectivity, previously considered a 'last resort', is now a significant strategic agenda item for telecom operators globally. This shift reflects a growing recognition of satellite's role in the communications ecosystem. Operators are moving beyond traditional perceptions to actively integrate satellite-based solutions, especially for challenging connectivity scenarios. This indicates a positive re-evaluation of the sector's importance and potential for growth within the broader telecom industry.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-02-27",
+      "source_doc_id": "93c29a92-58f9-5b57-8755-1861cefe26f7",
+      "source_title": "Issue Brief: Satellite connectivity",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-satellite-connectivity"
+    },
+    {
+      "index": 2,
+      "title": "LEO consumer broadband and D2D connectivity shifting mainstream",
+      "description": "Low-Earth Orbit (LEO) consumer broadband and Direct-to-Device (D2D) connectivity are transitioning from niche applications to mainstream relevance at scale. This development is driven by advancements in satellite technology, including more affordable launches, increased launch cadences, and mass-produced spacecraft, alongside reductions in terminal costs. This represents a substantial positive shift, indicating broader market acceptance and increased commercial viability for these satellite services within the telecom industry.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-02-27",
+      "source_doc_id": "93c29a92-58f9-5b57-8755-1861cefe26f7",
+      "source_title": "Issue Brief: Satellite connectivity",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-satellite-connectivity"
+    },
+    {
+      "index": 3,
+      "title": "Satellites complement terrestrial networks, redefining connectivity expectations at edges",
+      "description": "Satellites are not poised to replace terrestrial networks but rather to complement them by redefining customer connectivity expectations at the 'edges' of fixed and mobile networks. As LEO capacity expands, these boundaries are also broadening. This perspective highlights a neutral, yet cautiously positive, outlook, where satellites carve out a distinct and valuable role in extending reach and enhancing overall connectivity without directly substituting existing infrastructure.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-02-27",
+      "source_doc_id": "93c29a92-58f9-5b57-8755-1861cefe26f7",
+      "source_title": "Issue Brief: Satellite connectivity",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-satellite-connectivity"
+    },
+    {
+      "index": 4,
+      "title": "LEO satellites to capture 20% of fiber's addressable market",
+      "description": "Low-Earth Orbit (LEO) satellites are emerging as a complementary technology, with industry executives expecting them to capture approximately 20 percent of the existing fiber network's addressable market. This primarily targets hard-to-reach areas where fiber deployment is less economically viable. This development reinforces a hybrid connectivity model rather than direct substitution, indicating a positive expansion of market share for LEO satellite services.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-02-27",
+      "source_doc_id": "1f77039d-aff8-5b88-8766-561874e49b29",
+      "source_title": "Issue Brief: Telecom infrastructure",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-telecom-infrastructure"
+    },
+    {
+      "index": 5,
+      "title": "D2D lauded for cost-effectively closing mobile coverage gaps",
+      "description": "Direct-to-Device (D2D) connectivity is receiving significant attention for its ability to cost-effectively close mobile coverage gaps in areas where traditional tower-based infrastructure is impractical due to propagation limits and site economics. This highlights a positive strategic application for satellite technology, extending mobile service reach into previously unserved or underserved regions, thereby enhancing overall network accessibility and utility.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-02-27",
+      "source_doc_id": "93c29a92-58f9-5b57-8755-1861cefe26f7",
+      "source_title": "Issue Brief: Satellite connectivity",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-satellite-connectivity"
+    },
+    {
+      "index": 6,
+      "title": "Early D2D services constrained by data rate and density limitations",
+      "description": "Initial Direct-to-Device (D2D) satellite services are primarily suitable for low-rate messaging, safety applications, and intermittent voice in rural or outdoor environments. High-rate data transmission capabilities degrade quickly as user density increases, indicating structural limitations. This cautious-negative outlook suggests that while D2D offers valuable baseline connectivity, its widespread adoption for data-intensive applications in denser areas faces significant technical hurdles in the near term.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-02-27",
+      "source_doc_id": "93c29a92-58f9-5b57-8755-1861cefe26f7",
+      "source_title": "Issue Brief: Satellite connectivity",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-satellite-connectivity"
+    },
+    {
+      "index": 7,
+      "title": "Telcos see D2D as complementary service, pursue partnerships",
+      "description": "Satellite service providers are increasingly visible in the market, actively marketing their Direct-to-Device (D2D) capabilities. While satellite connectivity is acknowledged to have limitations as a direct substitute for terrestrial networks, it is seen by telecom operators as a valuable complementary service. Consequently, telcos are actively pursuing partnerships to integrate D2D connectivity, reflecting a cautiously positive outlook for its role in expanding the communications ecosystem.",
+      "stance": "cautious_positive",
+      "source_firm": "Bain",
+      "source_date": "2026-03-05",
+      "source_doc_id": "cd02dfff-10b7-5bb0-887e-1527ce839512",
+      "source_title": "MWC 2026: Telecoms at the Inflection Point",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/mwc-2026-telecoms-at-the-inflection-point"
+    },
+    {
+      "index": 8,
+      "title": "Satellite-based Quantum Key Distribution remains pre-commercial",
+      "description": "Satellite-based Quantum Key Distribution (QKD) technology is noted for its potential to extend the reach of ultra-secure communications. However, it currently remains in a pre-commercial phase, indicating that widespread deployment and monetization are not yet imminent. This viewpoint is cautiously positive, acknowledging the significant long-term potential for enhanced security applications while recognizing the need for further development and commercialization efforts.",
+      "stance": "cautious_positive",
+      "source_firm": "Bain",
+      "source_date": "2026-06-05",
+      "source_doc_id": "61f33b7d-15b4-5e50-9b45-c83e485c6356",
+      "source_title": "How Telecom Carriers Are Preparing for Quantum",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/how-telecom-carriers-are-preparing-for-quantum"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Extension of Connectivity",
+          "description": "LEO satellites address demand in hard-to-reach areas where traditional fiber deployment is economically unviable, expanding the overall connectivity market."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "LEO complements fiber, rather than directly substituting it, capturing a significant niche market share in underserved geographies.",
+          "opportunity": "Hybrid Connectivity Models"
+        }
+      ],
+      "methodology": "Executives expect Low-Earth Orbit (LEO) satellites to capture close to 20 percent of the existing fiber network’s addressable market, specifically in hard-to-reach areas. This represents a market penetration potential for satellite connectivity within segments traditionally served by fixed infrastructure, reinforcing a hybrid connectivity model.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-02-27",
+      "data_confidence": "medium",
+      "source_doc_id": "1f77039d-aff8-5b88-8766-561874e49b29",
+      "source_title": "Issue Brief: Telecom infrastructure",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-telecom-infrastructure"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "LEO Experience Profile",
+          "description": "Lower latency and improved quality of experience compared to GEO broadband enable more demanding applications, expanding LEO's addressable segment beyond the fully unconnected."
+        },
+        {
+          "driver": "Mobile Coverage Gap Closure",
+          "description": "D2D connectivity cost-effectively addresses areas with propagation limits or where tower site economics are impractical, bringing service to previously unserved mobile users."
+        },
+        {
+          "driver": "Safety and Emergency Services",
+          "description": "Early D2D applications focus on low-rate messaging, safety, and intermittent voice, with emergency messaging/location becoming a standard expectation in premium mobile plans."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Supply-Side Improvements",
+          "description": "Cheaper launches, higher cadence, mass-produced spacecraft, and falling terminal costs are collectively transforming satellite capacity into a scalable and consumer-packaged product, impacting cost structures."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "As LEO capacity constraints ease with next-gen satellites, the market will expand from rural into suburban markets and selected urban niches, increasing market reach.",
+          "opportunity": "LEO Consumer Broadband Expansion"
+        },
+        {
+          "description": "Emergence of MNO-led add-on/wholesale, OEM-led feature, Satellite-led retail/hybrid MVNO, and Hub/platform-led enablement models create diverse pathways for D2D market entry and growth.",
+          "opportunity": "Direct-to-Device (D2D) Commercial Patterns"
+        }
+      ],
+      "methodology": "Analysis of trends in Low-Earth Orbit (LEO) consumer broadband and Direct-to-Device (D2D) connectivity, noting their shift from niche to mainstream and the underlying supply-side advancements and commercial patterns.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-02-27",
+      "data_confidence": "high",
+      "source_doc_id": "93c29a92-58f9-5b57-8755-1861cefe26f7",
+      "source_title": "Issue Brief: Satellite connectivity",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-satellite-connectivity"
+    }
+  ],
+  "sources": [
+    "McKinsey",
+    "Bain"
+  ],
+  "documents": [
+    {
+      "doc_id": "93c29a92-58f9-5b57-8755-1861cefe26f7",
+      "title": "Issue Brief: Satellite connectivity",
+      "publisher": "mckinsey",
+      "date": "2026-02-27",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-satellite-connectivity"
+    },
+    {
+      "doc_id": "1f77039d-aff8-5b88-8766-561874e49b29",
+      "title": "Issue Brief: Telecom infrastructure",
+      "publisher": "mckinsey",
+      "date": "2026-02-27",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-telecom-infrastructure"
+    },
+    {
+      "doc_id": "cd02dfff-10b7-5bb0-887e-1527ce839512",
+      "title": "MWC 2026: Telecoms at the Inflection Point",
+      "publisher": "bain",
+      "date": "2026-03-05",
+      "url": "https://www.bain.com/insights/mwc-2026-telecoms-at-the-inflection-point"
+    },
+    {
+      "doc_id": "61f33b7d-15b4-5e50-9b45-c83e485c6356",
+      "title": "How Telecom Carriers Are Preparing for Quantum",
+      "publisher": "bain",
+      "date": "2026-06-05",
+      "url": "https://www.bain.com/insights/how-telecom-carriers-are-preparing-for-quantum"
+    }
+  ]
+}

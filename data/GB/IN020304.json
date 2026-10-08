@@ -1,0 +1,573 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Growing demand for critical minerals drives sector expansion",
+      "description": "Global demand for critical minerals like lithium, nickel, cobalt, rare earth elements, graphite, and manganese is projected to grow significantly through 2040. This surge is primarily driven by the build-out of electrification, renewable energy infrastructure, and battery storage solutions, positioning the diversified mining and critical minerals sector for sustained long-term growth and increased production needs.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-23",
+      "source_doc_id": "041ecb65-1f24-5dd1-9368-e7cb99fd09f4",
+      "source_title": "Harnessing AI to make mining safer",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer",
+      "source_date": "2026-09-23"
+    },
+    {
+      "index": 2,
+      "title": "Critical minerals now strategic assets, boosting government support",
+      "description": "Critical minerals have moved from being merely industrial feedstocks to central components of national security discussions worldwide. This reclassification drives governments in advanced countries, including the UK, to implement strategic policies, offer incentives, provide funding for domestic production, and foster international alliances. Such support aims to boost supply, reduce foreign dependency, and secure vital supply chains for defense and technology industries.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-27",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html",
+      "source_date": "2026-01-27"
+    },
+    {
+      "index": 3,
+      "title": "AI and technology adoption enhance mining operations and productivity",
+      "description": "The adoption of agentic AI tools and innovative technologies is transforming mining operations. These advancements promise significant improvements in safety, operational effectiveness, and cost efficiency by refining exploration targeting, increasing throughput (12-22%), reducing operational expenditures (8-13%), and minimizing unplanned downtime. AI also aids in commercial activities like pricing, hedging, and portfolio optimization, driving value creation across the mining value chain.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-29",
+      "source_doc_id": "723c79b6-f93d-5ef4-9cfd-699fdff49340",
+      "source_title": "African bedrock: How the continent’s minerals can help power the world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/african-bedrock-how-the-continents-minerals-can-help-power-the-world",
+      "source_date": "2026-06-29"
+    },
+    {
+      "index": 4,
+      "title": "Secondary recovery and recycling create new value streams",
+      "description": "Increasing scarcity of primary metal reserves and lengthy permitting times for new mines are driving interest in secondary recovery and recycling. Opportunities to extract byproducts from mine waste (e.g., germanium from zinc tailings, REEs from historic waste) and develop robust recycling infrastructure for critical minerals like lithium offer capital-light production. This approach strengthens supply chains, aligns with sustainability goals, and creates new revenue opportunities, supported by customer demand and patent growth.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-01-27",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html",
+      "source_date": "2026-01-27"
+    },
+    {
+      "index": 5,
+      "title": "Enhanced commercial capabilities unlock significant trading value",
+      "description": "Mining companies can significantly boost profitability by developing advanced commercial and trading capabilities. This shift from a production-centric to a market-facing approach allows them to manage price volatility, capture arbitrage opportunities, and optimize sales of various ore grades. By engaging in hedging, strategic supply chain optimization, and leveraging real-time market intelligence, the sector can unlock substantial annual value and improve cash flows by up to 15% or more.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-05",
+      "source_doc_id": "ed0b9e9a-465a-5927-92dd-d28d6016e0a0",
+      "source_title": "From Volume to Value: The $20 Billion Commercial Payoff in Metals and Mining",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/the-20-billion-commercial-payoff-in-metals-and-mining",
+      "source_date": "2026-05-05"
+    },
+    {
+      "index": 6,
+      "title": "Concentrated critical mineral supply chains pose geopolitical risk",
+      "description": "The refining capacity for key critical minerals, including nickel, cobalt, graphite, and rare earth elements (REEs), is highly concentrated in a few nations, notably China and Indonesia. This concentration creates significant supply chain vulnerability, making the sector susceptible to geopolitical tensions, trade restrictions, and disruptions. The UK, like other advanced economies, is particularly exposed to this dependency, driving efforts for diversification and domestic production.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-27",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html",
+      "source_date": "2026-01-27"
+    },
+    {
+      "index": 7,
+      "title": "Long lead times and permitting delays hinder critical minerals supply",
+      "description": "New critical mineral mines face extensive development timelines, often taking up to 25 years from discovery to first production. This is compounded by complex environmental approval processes and legal uncertainties in many jurisdictions, such as Australia, slowing the industry's ability to respond to surging demand. These delays create significant investor caution and contribute to the ongoing supply-demand imbalance, particularly for urgently needed energy transition minerals.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-27",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html",
+      "source_date": "2026-01-27"
+    },
+    {
+      "index": 8,
+      "title": "Infrastructure underinvestment and productivity gaps constrain growth in Africa",
+      "description": "Despite Africa's vast critical mineral reserves, the continent's mining sector is hampered by significant infrastructure deficits, including unreliable roads, rail, and power networks. This underinvestment, coupled with a persistent productivity gap compared to global peers, drives up operational costs and delays project development. These structural challenges erode Africa's geological advantage, contributing to mid-tier deposits remaining undeveloped due to high risk-adjusted investment thresholds.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-29",
+      "source_doc_id": "723c79b6-f93d-5ef4-9cfd-699fdff49340",
+      "source_title": "African bedrock: How the continent’s minerals can help power the world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/african-bedrock-how-the-continents-minerals-can-help-power-the-world",
+      "source_date": "2026-06-29"
+    },
+    {
+      "index": 9,
+      "title": "Declining iron ore prices challenge diversified mining portfolios",
+      "description": "Standalone iron ore miners, a component of the diversified mining sector, face a challenging long-term outlook. Prices are expected to decline due to a projected global seaborne trade surplus and weakening demand, particularly from China's property sector. This macroeconomic headwind creates an opposite direction for this sub-segment compared to the booming critical minerals, complicating portfolio management for diversified mining conglomerates and necessitating strategic adjustments.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-27",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html",
+      "source_date": "2026-01-27"
+    },
+    {
+      "index": 10,
+      "title": "High capital and energy costs impact profitability and investment",
+      "description": "The mining and refining of critical metals are highly capital-intensive and energy-intensive processes. Rising global energy prices, coupled with increasing pressure for decarbonization and stricter environmental regulations, significantly escalate operating costs. This makes it challenging for companies in the diversified mining and critical minerals sector to maintain competitive margins and fund the substantial upfront investments required for new projects and sustainable practices.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2025-03-01",
+      "source_doc_id": "706c8923-5073-542f-929c-79e1d9e0f98c",
+      "source_title": "Metals Outlook for 2025",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/metals-outlook-for-2025.html",
+      "source_date": "2025-03-01"
+    },
+    {
+      "index": 11,
+      "title": "Critical minerals reclassified as national security imperatives",
+      "description": "The elevation of critical minerals from mere industrial inputs to strategic assets for national security represents a fundamental shift in market dynamics. This change drives increased government intervention, funding, and international alliances, reshaping investment priorities, trade patterns, and the role of mining companies as strategic collaborators rather than just raw material suppliers. This necessitates a recalibration of business models to align with security imperatives.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-27",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html",
+      "source_date": "2026-01-27"
+    },
+    {
+      "index": 12,
+      "title": "Market financialization and heightened price volatility redefine risk",
+      "description": "The global metals and mining market has entered an era of extreme price volatility, with commodities like lithium and nickel experiencing 65-100% price swings. This is driven by global economic shifts, geopolitical tensions, and the financialization of metal markets, increasing liquidity and responsiveness to short-term dynamics. Traditional production-centric business models are challenged, demanding new commercial capabilities and risk management strategies to maintain profitability.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-05",
+      "source_doc_id": "ed0b9e9a-465a-5927-92dd-d28d6016e0a0",
+      "source_title": "From Volume to Value: The $20 Billion Commercial Payoff in Metals and Mining",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/the-20-billion-commercial-payoff-in-metals-and-mining",
+      "source_date": "2026-05-05"
+    },
+    {
+      "index": 13,
+      "title": "Shift from volume-centric to value-driven mining business models",
+      "description": "Mining companies are transitioning from a historical focus on maximizing production volume and minimizing costs to a more value-centric approach driven by market dynamics and volatility. This requires new operating models, emphasizing commercial excellence, advanced analytics, and customer-centric strategies. The change entails cultivating new skills in risk management and market analysis, and integrating commercial insights across the value chain to optimize margins over sheer output.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-05",
+      "source_doc_id": "ed0b9e9a-465a-5927-92dd-d28d6016e0a0",
+      "source_title": "From Volume to Value: The $20 Billion Commercial Payoff in Metals and Mining",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/the-20-billion-commercial-payoff-in-metals-and-mining",
+      "source_date": "2026-05-05"
+    },
+    {
+      "index": 14,
+      "title": "Trade fragmentation and geopolitical intervention reshape supply chains",
+      "description": "Geopolitical involvement and trade fragmentation are fundamentally altering commodity trade patterns, particularly for critical minerals. Governments are increasingly prioritizing security of supply and self-sufficiency, leading to policy shifts that can rebalance physical supply beyond purely market-based logic. This creates uncertainty about future trade patterns, exacerbates price volatility, and necessitates that mining companies factor multi-decade political stability into their long-term investment and operational strategies.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-03",
+      "source_doc_id": "6c60f83b-482c-5e78-a5db-8011665acac1",
+      "source_title": "At the threshold of a new era in commodity trading",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/at-the-threshold-of-a-new-era-in-commodity-trading",
+      "source_date": "2026-03-03"
+    },
+    {
+      "index": 15,
+      "title": "Geopolitical conflicts and resource nationalism disrupt mineral flows",
+      "description": "Ongoing geopolitical conflicts and rising resource nationalism globally contribute significantly to market uncertainty and disrupt mineral flows. This directly impacts the diversified mining and critical minerals sector by creating volatility in commodity prices and investor sentiment. Countries prioritize securing their own supplies, potentially leading to export controls or restricted access to key deposits, making supply chain planning and stability a primary concern for mining companies.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-29",
+      "source_doc_id": "723c79b6-f93d-5ef4-9cfd-699fdff49340",
+      "source_title": "African bedrock: How the continent’s minerals can help power the world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/african-bedrock-how-the-continents-minerals-can-help-power-the-world",
+      "source_date": "2026-06-29"
+    },
+    {
+      "index": 16,
+      "title": "Financing delays threaten critical mineral project pipeline realization",
+      "description": "Despite a substantial $9 billion critical mineral project pipeline in Africa, less than 10% has secured necessary financing or progressed to construction. This significant investment hesitation is largely due to high country risk, legal and jurisdictional uncertainty, and persistent permitting delays. Such financing challenges prevent the timely development of essential critical mineral resources, contributing to future supply shortages and undermining the sector's ability to meet global demand.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-29",
+      "source_doc_id": "723c79b6-f93d-5ef4-9cfd-699fdff49340",
+      "source_title": "African bedrock: How the continent’s minerals can help power the world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/african-bedrock-how-the-continents-minerals-can-help-power-the-world",
+      "source_date": "2026-06-29"
+    },
+    {
+      "index": 17,
+      "title": "Lack of open market pricing for critical minerals creates opacity",
+      "description": "Most critical minerals, unlike oil or other bulk commodities, lack transparent open market pricing mechanisms, with supply primarily governed by bilateral contracts and off-take agreements. This opacity presents a challenge for the diversified mining and critical minerals sector as market pricing is often critical for underwriting price support and assessing investment viability. The lack of transparent pricing complicates risk management and strategic decision-making for market participants.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-27",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html",
+      "source_date": "2026-01-27"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Mining's global role expands with critical minerals demand for digital, energy",
+      "description": "Mining is set for growth due to its supply of materials for digital and energy infrastructure. Demand for critical minerals like lithium and nickel, vital for electrification and batteries, is projected to rise significantly through 2040. This creates a strong positive outlook, despite the industry's inherent safety challenges, highlighting its foundational importance to global development.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-23",
+      "source_doc_id": "041ecb65-1f24-5dd1-9368-e7cb99fd09f4",
+      "source_title": "Harnessing AI to make mining safer",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer"
+    },
+    {
+      "index": 2,
+      "title": "African mining at inflection point to leverage critical mineral wealth",
+      "description": "Africa holds substantial critical mineral reserves, crucial for the energy and AI transitions, but faces structural challenges in infrastructure, logistics, and operations. By implementing strategic interventions such as clustering assets, enhancing operational excellence, and deploying innovative technologies, Africa can transform its geological advantage into a globally significant and competitive mining sector.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-06-29",
+      "source_doc_id": "723c79b6-f93d-5ef4-9cfd-699fdff49340",
+      "source_title": "African bedrock: How the continent’s minerals can help power the world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/african-bedrock-how-the-continents-minerals-can-help-power-the-world"
+    },
+    {
+      "index": 3,
+      "title": "Decentralized operating models vital for effective mining asset performance",
+      "description": "Value in mining is primarily generated at the asset level, and operating models are most effective when decision rights and accountability are closely aligned with operations. Overly centralized models can lead to fragmented accountability and reduced adaptability, causing underperformance compared to other industries. Decentralization should be the default, with centralization justified only by clear scale benefits, valuable standardization, or genuinely scarce expertise.",
+      "stance": "cautious_positive",
+      "source_firm": "Bain",
+      "source_date": "2026-05-25",
+      "source_doc_id": "75f8fa57-431a-5e4d-8051-3162da7b13ad",
+      "source_title": "Operating Models in Mining: Start at the Asset",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/operating-models-in-mining-start-at-the-asset"
+    },
+    {
+      "index": 4,
+      "title": "Mining must adopt commercial excellence to navigate market volatility",
+      "description": "The metals and mining industry has entered a new era characterized by extreme price volatility and market financialization. Traditional production-centric models are no longer sufficient. Companies can unlock a potential $20 billion annual value pool and improve free cash flows by 15% or more by evolving into market players, adopting commercial and trading activities, and leveraging real-time market intelligence to make better investment decisions.",
+      "stance": "positive",
+      "source_firm": "BCG Global",
+      "source_date": "2026-05-05",
+      "source_doc_id": "ed0b9e9a-465a-5927-92dd-d28d6016e0a0",
+      "source_title": "From Volume to Value: The $20 Billion Commercial Payoff in Metals and Mining",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/the-20-billion-commercial-payoff-in-metals-and-mining"
+    },
+    {
+      "index": 5,
+      "title": "Critical minerals now strategic national security assets, reshaping mining's role",
+      "description": "Critical minerals, previously viewed as enablers for energy transition, are now central to national security discussions globally. This elevation reshapes the mining industry's role, requiring companies to balance clean energy goals with defense strategies and consumer demand. This shift creates new opportunities for miners to act as strategic collaborators with governments and defense sectors, though it also introduces new geopolitical risks.",
+      "stance": "positive",
+      "source_firm": "Deloitte UK",
+      "source_date": "2026-01-27",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html"
+    },
+    {
+      "index": 6,
+      "title": "UK Critical Minerals Strategy emphasizes recycling and supply diversification",
+      "description": "The UK's revised Critical Minerals Strategy prioritizes recycling and diversifying supply chains for critical minerals. This national policy creates new opportunities for companies specializing in secondary recovery and circular economy approaches within the diversified mining and critical minerals sector. Such initiatives align with global efforts to strengthen supply resilience and reduce dependency on concentrated sources, reflecting a proactive national stance.",
+      "stance": "positive",
+      "source_firm": "Deloitte UK",
+      "source_date": "2026-01-27",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html"
+    },
+    {
+      "index": 7,
+      "title": "Government policies and growing demand support critical minerals sector outlook",
+      "description": "The outlook for the critical minerals sector is cautiously positive, underpinned by growing global demand for key metals like lithium and cobalt, essential for renewable energy and electric vehicles. Furthermore, robust government support, through strategic policies and roadmaps to boost domestic production and secure supply chains, provides significant tailwinds for firms operating in this vital segment, helping to mitigate dependency risks.",
+      "stance": "cautious_positive",
+      "source_firm": "Allianz UK",
+      "source_date": "2025-03-01",
+      "source_doc_id": "706c8923-5073-542f-929c-79e1d9e0f98c",
+      "source_title": "Metals Outlook for 2025",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/metals-outlook-for-2025.html"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 4.5,
+      "forecast_cagr_period": "through 2035",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Electrification and Energy Transition",
+          "description": "Increasing global demand for critical minerals to build digital and energy infrastructure, including electrification, renewables, and battery storage solutions."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Demand for energy transition materials, which include critical minerals like lithium, cobalt, nickel, graphite, manganese, and rare earth elements, is projected to grow significantly, as estimated by McKinsey’s Global Materials Perspective.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-06-29",
+      "data_confidence": "high",
+      "source_doc_id": "723c79b6-f93d-5ef4-9cfd-699fdff49340",
+      "source_title": "African bedrock: How the continent’s minerals can help power the world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/african-bedrock-how-the-continents-minerals-can-help-power-the-world"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Unit Production Cost Reduction",
+          "description": "A hypothesized 10% reduction in unit production costs could surge mining viability and drive a 25-30% increase in total output by making more mines profitable."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Integrating investments and sharing infrastructure in geographic proximity can reduce unit costs by ~20% and improve ore production by up to 5%, unlocking significant economic value and job creation.",
+          "opportunity": "Clustering Mining Operations"
+        },
+        {
+          "description": "Optimizing project scope, shortening timelines by up to a year, reducing capital expenditures by 15%, and operational expenditures by 20%, while achieving a 5% revenue uplift from enhanced mineral recovery.",
+          "opportunity": "Operational and Capital Excellence"
+        },
+        {
+          "description": "Technology innovation can increase throughput by 12-22% and reduce operational expenditures by 8-13%, further adding economic value through efficiencies across the value chain.",
+          "opportunity": "Deployment of Innovative Technologies (AI)"
+        }
+      ],
+      "methodology": "McKinsey research and analysis of Africa’s mining sector, considering potential from coordinated clustering, capital-project execution, operational excellence, and technology deployment. This includes value across the mining ecosystem.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-06-29",
+      "data_confidence": "high",
+      "source_doc_id": "723c79b6-f93d-5ef4-9cfd-699fdff49340",
+      "source_title": "African bedrock: How the continent’s minerals can help power the world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/african-bedrock-how-the-continents-minerals-can-help-power-the-world"
+    },
+    {
+      "index": 3,
+      "tam_value": 9.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "McKinsey MineSpans data on critical-mineral-projects pipeline in Africa. The value represents the total pipeline of projects.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-06-29",
+      "data_confidence": "medium",
+      "source_doc_id": "723c79b6-f93d-5ef4-9cfd-699fdff49340",
+      "source_title": "African bedrock: How the continent’s minerals can help power the world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/african-bedrock-how-the-continents-minerals-can-help-power-the-world"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Energy Transition and National Security",
+          "description": "Governments and industries pursuing decarbonization and national security interests are driving increased demand for critical metals like nickel, cobalt, and lithium for EVs and other technologies."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Significant supply gaps for critical metals indicate strong opportunities for new mine projects to meet projected demand (Nickel 70%, Cobalt 85%, Lithium 61% of requirements met by existing/announced supply).",
+          "opportunity": "New Mine Development"
+        }
+      ],
+      "methodology": "Analysis based on International Energy Agency (IEA) projections for primary supply requirements versus expected mine supply from existing and announced projects for key critical metals like nickel, cobalt, and lithium.",
+      "source_firm": "Deloitte UK",
+      "source_date": "2026-01-27",
+      "data_confidence": "high",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html"
+    },
+    {
+      "index": 5,
+      "tam_value": 200000.0,
+      "tam_unit": "MTPA",
+      "sam_value": null,
+      "as_of_year": 2028,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Global EV Market Growth",
+          "description": "Increasing demand for lithium from electric vehicle manufacturers and the broader energy transition, driving miners to expand production capacity."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Rio Tinto's stated target for growing the capacity of its tier 1 lithium assets following its 2025 acquisition of Arcadium Lithium.",
+      "source_firm": "Deloitte UK",
+      "source_date": "2026-01-27",
+      "data_confidence": "high",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html"
+    },
+    {
+      "index": 6,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 56.0,
+      "historical_cagr_period": "2017 to 2022",
+      "demand_drivers": [
+        {
+          "driver": "Automaker Demand for Sustainable Supplies",
+          "description": "Automakers are increasingly seeking sustainable sources for lithium, driving interest and investment in recycling technologies."
+        },
+        {
+          "driver": "Venture Capital Investment Surge",
+          "description": "Increased venture capital funding in battery and waste recycling signals strong market interest and growth potential."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The nascent lithium recycling market presents significant growth opportunities, evidenced by strong patent growth and venture capital investment, to meet demand for sustainable supplies.",
+          "opportunity": "Lithium Recycling"
+        }
+      ],
+      "methodology": "Analysis of patent growth for lithium-ion battery recycling technologies.",
+      "source_firm": "Deloitte UK",
+      "source_date": "2026-01-27",
+      "data_confidence": "high",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html"
+    }
+  ],
+  "sources": [
+    "McKinsey",
+    "Bain",
+    "BCG Global",
+    "Deloitte UK",
+    "Allianz UK"
+  ],
+  "documents": [
+    {
+      "doc_id": "041ecb65-1f24-5dd1-9368-e7cb99fd09f4",
+      "title": "Harnessing AI to make mining safer",
+      "publisher": "mckinsey",
+      "date": "2026-09-23",
+      "url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer"
+    },
+    {
+      "doc_id": "723c79b6-f93d-5ef4-9cfd-699fdff49340",
+      "title": "African bedrock: How the continent’s minerals can help power the world",
+      "publisher": "mckinsey",
+      "date": "2026-06-29",
+      "url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/african-bedrock-how-the-continents-minerals-can-help-power-the-world"
+    },
+    {
+      "doc_id": "75f8fa57-431a-5e4d-8051-3162da7b13ad",
+      "title": "Operating Models in Mining: Start at the Asset",
+      "publisher": "bain",
+      "date": "2026-05-25",
+      "url": "https://www.bain.com/insights/operating-models-in-mining-start-at-the-asset"
+    },
+    {
+      "doc_id": "ed0b9e9a-465a-5927-92dd-d28d6016e0a0",
+      "title": "From Volume to Value: The $20 Billion Commercial Payoff in Metals and Mining",
+      "publisher": "bcg_global",
+      "date": "2026-05-05",
+      "url": "https://www.bcg.com/publications/2026/the-20-billion-commercial-payoff-in-metals-and-mining"
+    },
+    {
+      "doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "title": "Tracking the trends 2026",
+      "publisher": "deloitte_uk",
+      "date": "2026-01-27",
+      "url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html"
+    },
+    {
+      "doc_id": "706c8923-5073-542f-929c-79e1d9e0f98c",
+      "title": "Metals Outlook for 2025",
+      "publisher": "allianz_uk",
+      "date": "2025-03-01",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/metals-outlook-for-2025.html"
+    },
+    {
+      "doc_id": "6c60f83b-482c-5e78-a5db-8011665acac1",
+      "title": "At the threshold of a new era in commodity trading",
+      "publisher": "mckinsey",
+      "date": "2026-03-03",
+      "url": "https://www.mckinsey.com/industries/energy-and-materials/our-insights/at-the-threshold-of-a-new-era-in-commodity-trading"
+    }
+  ]
+}

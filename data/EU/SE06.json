@@ -1,0 +1,887 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "AI investment concentrated in molecule design, neglects biological bottleneck",
+      "description": "Despite AI accelerating drug discovery, investment heavily favors molecule design due to mature tools and data. The industry's primary bottleneck, identifying and validating disease mechanisms, receives less attention. This misallocation means early gains may not translate to clinical success, as trials often fail due to incorrect target or patient population, leading to significant value being locked in downstream milestones for AI deals.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-21",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "source_date": "2026-09-21",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "AI target models struggle with causality in drug discovery",
+      "description": "AI models for target identification face challenges in distinguishing true biological causality from mere statistical association, especially when using public biobanks and observational genomics datasets. This risk leads to incorrect prioritization of targets that may subsequently fail in human trials, prolonging validation cycles and hindering the transformation of drug discovery. Overcoming this requires moving beyond correlative data to mechanistic evidence and generating proprietary cellular perturbation data.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-21",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "source_date": "2026-09-21",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Preclinical and translational research remains low maturity for AI",
+      "description": "Preclinical and translational research is the least mature AI domain in drug discovery. Optimizing safety and translation is highly complex due to species differences, variable disease models, and sparse human-linked data. Approximately one-quarter of Phase II and Phase III failures stem from unpredicted safety issues. This immaturity limits external dealmaking and necessitates biopharma companies to build in-house predictive safety pipelines, risking accelerating assets toward predictable downstream failure modes if not addressed.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-21",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "source_date": "2026-09-21",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Productivity plateau and rising complexity challenge biopharma manufacturing",
+      "description": "Biopharma manufacturing has seen productivity gains plateau and unit costs stabilize since 2018, following a decade of improvements. This structural shift, combined with declining net prices for branded drugs, increasing modality diversity, more competitive pipelines, and fragmented global footprints, intensifies pressure on manufacturers. Traditional improvement levers are no longer sufficient, necessitating a fundamental redesign of operating models and extensive adoption of digital and AI technologies to restore performance momentum and address complexity.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-15",
+      "source_doc_id": "2146f442-b4ae-5660-8186-8bd6d7659bc6",
+      "source_title": "Backbones and networks: A blueprint for the biopharma plant of the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/backbones-and-networks-a-blueprint-for-the-biopharma-plant-of-the-future",
+      "source_date": "2026-09-15",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Agentic AI transforming health insurer operations and care management",
+      "description": "Agentic AI is reshaping core operations for health insurers by autonomously completing workflows, leading to faster decision-making, lower costs, and better patient care. This technology automates routine tasks like claims processing, enrollment, and benefit verification, freeing human expertise for complex cases and personalized patient support. It helps manage claims costs, reduces fraud/waste/abuse (by 3-5% of payouts for one European insurer), and enhances customer retention, driving a shift from reactive cost reimbursement to proactive health partnership.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "ecdd9408-d2ad-5e13-8f94-c4aa4ea0fa5a",
+      "source_title": "Agentic AI’s Advantage for Health Insurers: Faster Decisions, Lower Costs, Better Care",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-ai-agents-cut-costs-for-health-insurers",
+      "source_date": "2026-09-04",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Rising trial complexity and patient recruitment pressure persist",
+      "description": "Clinical trial complexity continues to increase, with most respondents expecting greater complexity in the coming years. Timelines are slipping more frequently, with 54% of trials experiencing at least a 20% delay. Patient recruitment remains a top reason for delays, driven by intensifying competition for narrower, more precisely defined patient populations. This structural feature of modern trial design necessitates new approaches beyond increased spending, highlighting a persistent challenge for drug and therapy development.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-02",
+      "source_doc_id": "8203bb9b-8243-5905-9c44-0d32d529db93",
+      "source_title": "Clinical Trials Face Persistent Challenges—and New Opportunities",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/clinical-trials-face-persistent-challenges-and-new-opportunities",
+      "source_date": "2026-09-02",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Clinical trial sites face worsening capacity and tech-related frustrations",
+      "description": "Clinical trial sites anticipate flat or worsening capacity over the next three years, creating a significant bottleneck as sponsors plan more trials. Sites are frustrated by slow contracting processes and the proliferation of multiple software platforms, which increase administrative burden and reduce efficiency. Sponsor and CRO investment often misses the mark, with a large gap between the desire for automated data collection to streamline systems and actual implementation, exacerbating site bandwidth constraints and delaying trial progress.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-02",
+      "source_doc_id": "8203bb9b-8243-5905-9c44-0d32d529db93",
+      "source_title": "Clinical Trials Face Persistent Challenges—and New Opportunities",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/clinical-trials-face-persistent-challenges-and-new-opportunities",
+      "source_date": "2026-09-02",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "Demographic trends drive sustained demand across Irish healthcare",
+      "description": "Ireland's healthcare sector benefits from strong, structural demographic demand, including a rapidly aging population (85+ cohort projected to double by 2040) and rising prevalence of chronic diseases. This underpins resilient activity across nursing homes, disability services, homecare, community pharmacy, and private hospitals. Demand consistently outpaces capacity, ensuring continued investment opportunities and sustained growth for providers with the ability to expand, modernize, and scale operations, reinforcing the sector's long-term strength.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-08-06",
+      "source_doc_id": "268cdf0e-a923-5e7f-995f-b607667991f3",
+      "source_title": "Bank of Ireland Healthcare Sector H1 2026 Insights and H2 2026 Outlook July 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/BOI-Healthcare-Sector-H1-Insights-and-H2-Outlook-2026.pdf",
+      "source_date": "2026-08-06",
+      "country_focus": "IE"
+    },
+    {
+      "index": 9,
+      "title": "Rising costs and workforce shortages pressure Irish healthcare provider margins",
+      "description": "Irish healthcare providers, particularly in residential care, face significant margin pressure from escalating operating costs and persistent workforce shortages. Staffing costs, the largest component, have increased due to statutory minimum wage hikes (6% in 2025, 4.8% in 2026) and broader inflation. Additionally, increasing care complexity (69% of nursing homes report higher resident dependency) drives up staffing requirements, while the 50:50 staffing mix rule for employment permits further intensifies cost pressures, particularly for providers reliant on international recruitment.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-06",
+      "source_doc_id": "268cdf0e-a923-5e7f-995f-b607667991f3",
+      "source_title": "Bank of Ireland Healthcare Sector H1 2026 Insights and H2 2026 Outlook July 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/BOI-Healthcare-Sector-H1-Insights-and-H2-Outlook-2026.pdf",
+      "source_date": "2026-08-06",
+      "country_focus": "IE"
+    },
+    {
+      "index": 10,
+      "title": "Digital transformation and AI integration boosts Irish healthcare productivity",
+      "description": "Irish healthcare providers are increasingly adopting digital transformation and AI to improve productivity and service quality. Investments in electronic health records (EHRs), remote monitoring, digital prescribing, and automation technologies are widespread. Ireland's AI for Care Strategy 2026-2030 provides a framework, with early AI applications showing promise in faster diagnostics, improved patient flow, and a potential 40% reduction in clinical documentation time. This technological shift is becoming increasingly embedded in healthcare delivery, supporting efficiency amidst growing demand.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-06",
+      "source_doc_id": "268cdf0e-a923-5e7f-995f-b607667991f3",
+      "source_title": "Bank of Ireland Healthcare Sector H1 2026 Insights and H2 2026 Outlook July 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/BOI-Healthcare-Sector-H1-Insights-and-H2-Outlook-2026.pdf",
+      "source_date": "2026-08-06",
+      "country_focus": "IE"
+    },
+    {
+      "index": 11,
+      "title": "Middle East conflict drives moderate cost pressures for Irish pharmaceuticals",
+      "description": "The Middle East conflict indirectly impacts the Irish pharmaceuticals sector through increased energy and transport costs. While the sector is generally resilient and profitable, and multinational operators are well-positioned to absorb temporary increases, smaller and more specialized businesses need to carefully monitor supplier resilience, logistics exposure, and working-capital requirements to protect margins and operational continuity. Helium and specialty gases, critical for medical imaging and devices, also face supply risks and price volatility.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-22",
+      "source_doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "source_title": "July 2026 Ireland Sector Snippets",
+      "source_publisher": "allianz_ie",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html",
+      "source_date": "2026-07-22",
+      "country_focus": "IE"
+    },
+    {
+      "index": 12,
+      "title": "European staff shortages intensify despite more people working in healthcare",
+      "description": "Europe's healthcare sector faces intensifying staff shortages, with the WHO projecting a gap exceeding 4 million workers by 2030. This is driven by an aging workforce, heavy workloads leading to higher sickness absence and turnover, and rising demand from aging populations and chronic conditions. Despite more people working in healthcare than ever before, this persistent issue creates mounting pressure on healthcare providers and necessitates technological solutions like remote care to ease the strain.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-16",
+      "source_doc_id": "37486c31-507a-5866-bae6-93a4ae9c7d01",
+      "source_title": "How technology could cut millions of hospital visits across Europe",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-technology-could-save-millions-of-european-hospital-visits1",
+      "source_date": "2026-06-16",
+      "country_focus": "EU"
+    },
+    {
+      "index": 13,
+      "title": "Fragmented regulation and insufficient reimbursement hinder remote care scale-up",
+      "description": "Broad scale-up of remote patient monitoring in Europe is slow, partly due to fragmented regulation and unclear or insufficient reimbursement for hybrid care. Investment in devices, platforms, maintenance, training, and workflow changes represents a high barrier, especially given limited profit margins at European hospitals. Different healthcare laws and fragmented funding models create perverse incentives and hamper cooperation, preventing providers from fully covering start-up costs and accelerating adoption across the EU, with large countries like Germany and France lagging.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-16",
+      "source_doc_id": "37486c31-507a-5866-bae6-93a4ae9c7d01",
+      "source_title": "How technology could cut millions of hospital visits across Europe",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-technology-could-save-millions-of-european-hospital-visits1",
+      "source_date": "2026-06-16",
+      "country_focus": "EU"
+    },
+    {
+      "index": 14,
+      "title": "GLP-1 drugs could significantly reduce European food demand long-term",
+      "description": "The rapid growth of GLP-1 weight-loss drugs, with a global market projected to hit $100 billion by 2027, presents a potential structural shift in European food demand. While current impact is limited (0.25% of calorie demand), a transformative scenario by 2030 could see a 2.5-3.5% drop in total calorie intake, especially for categories like savory snacks and alcohol. This necessitates significant adaptation from food and beverage makers through product reformulation, portion control, and strategic market focus, while policymakers have not yet seized the opportunity to steer the food system towards healthier outcomes.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-20",
+      "source_doc_id": "8d02a11b-4f7a-58a1-9abf-920291a69c35",
+      "source_title": "Transformative or overhyped? The impact of weight-loss drugs on European food…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/transformative-or-overhyped-the-impact-of-weight-loss-drugs-on-european-food-demand1",
+      "source_date": "2026-03-20",
+      "country_focus": "EU"
+    },
+    {
+      "index": 15,
+      "title": "Europe's declining pharmaceutical innovation due to fragmented policies and low prices",
+      "description": "Europe's biopharmaceutical innovation capacity has been declining for decades, with its share of global R&D spending dropping to 33% by 2025. This structural disadvantage stems from fragmented regulatory practices, shallow capital markets, differing health technology assessment (HTA) requirements, and fiscal pressures that result in relatively low drug prices and widespread clawback taxes. These factors disincentivize R&D investment in Europe, causing it to lag behind the US and China in innovation and drug approvals, threatening its long-term relevance.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-19",
+      "source_doc_id": "2f9c8805-cb8b-5f5b-bb15-4ec1b6e4e73d",
+      "source_title": "Europe’s last chance to revive its pharmaceutical innovation power",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/why-it-is-the-eleventh-hour-for-european-pharmaceutical-innovation",
+      "source_date": "2026-03-19",
+      "country_focus": "EU"
+    },
+    {
+      "index": 16,
+      "title": "US budget cuts offer Europe opportunity to attract pharmaceutical R&D",
+      "description": "Recent budget cuts by the Trump administration to key US institutions like the FDA and NIH threaten the US's leading position in biopharmaceutical innovation by impacting regulatory predictability, fundamental research funding, and talent attraction. This creates a golden opportunity for European policymakers to regain importance by offering a dependable alternative to the FDA, investing in fundamental research for projects canceled in the US, and accelerating visa programs to attract top scientists, thereby drastically improving Europe's innovation capacity.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-19",
+      "source_doc_id": "2f9c8805-cb8b-5f5b-bb15-4ec1b6e4e73d",
+      "source_title": "Europe’s last chance to revive its pharmaceutical innovation power",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/why-it-is-the-eleventh-hour-for-european-pharmaceutical-innovation",
+      "source_date": "2026-03-19",
+      "country_focus": "EU"
+    },
+    {
+      "index": 17,
+      "title": "Dutch healthcare productivity boosted by digital tools and AI applications",
+      "description": "Productivity growth in the Dutch healthcare sector has consistently increased since 2021 (average 2.8% per quarter in 2025), driven by the widespread adoption of digital tools and AI applications. These technologies enable smarter organization of care processes, including data-driven capacity management for operating theatres, increased home treatment/monitoring, and reducing administrative burdens and no-shows. This structural improvement helps meet growing demand and offsets persistent staff shortages, allowing more care to be provided with fewer hours.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-02-06",
+      "source_doc_id": "861da786-ed4b-560e-9205-7314d4730876",
+      "source_title": "Dutch healthcare sector set to expand further despite supply constraints",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/dutch-healthcare-sector-set-to-expand-further-despite-supply-constraints",
+      "source_date": "2026-02-06",
+      "country_focus": "NL"
+    },
+    {
+      "index": 18,
+      "title": "Outflow of self-employed workers exacerbates Dutch healthcare staff shortages",
+      "description": "The Dutch healthcare sector faces persistent staff shortages, intensified by a significant outflow of self-employed workers (13%, or 19,000 workers, in the past five quarters, with 63% in elderly care). This trend is partly driven by the ending of the enforcement moratorium on false self-employment, leading providers to phase out these workers. While the sector attracts more permanent and flexible staff, the reduction in self-employed capacity creates challenges in maintaining a balanced distribution of services, particularly in elderly care where regular staff are highly valued.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-06",
+      "source_doc_id": "861da786-ed4b-560e-9205-7314d4730876",
+      "source_title": "Dutch healthcare sector set to expand further despite supply constraints",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/dutch-healthcare-sector-set-to-expand-further-despite-supply-constraints",
+      "source_date": "2026-02-06",
+      "country_focus": "NL"
+    },
+    {
+      "index": 19,
+      "title": "European mid-sized pharma pivots to US rare disease market for growth",
+      "description": "European mid-sized pharmaceutical companies are strategically leveraging the US rare disease market as a key growth engine. This involves an intentional shift in portfolio composition and geographic exposure, as rare diseases offer focused prescriber bases, limited competition, and supportive orphan-drug incentives in the US. Acquiring marketed rare disease assets provides immediate revenue and establishes commercial capabilities, enabling these 'portfolio shifters' to achieve significantly faster growth, higher EBITDA margins, and increased R&D spending compared to peers.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-02-02",
+      "source_doc_id": "621dbb05-162e-5438-b6da-6c136cbfea7b",
+      "source_title": "Accelerating Growth and Innovation in European Mid-Sized Pharma",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/accelerating-growth-and-innovation-in-european-mid-sized-pharma",
+      "source_date": "2026-02-02",
+      "country_focus": "EU"
+    },
+    {
+      "index": 20,
+      "title": "Intensifying competition for quality assets and US market entry window narrowing",
+      "description": "The window for differentiated entry into the US market for European mid-sized pharma is narrowing due to accelerating competition for quality assets. While a strategic shift towards innovation-led growth in the US, particularly through rare disease acquisitions, offers significant advantages, companies that delay risk being trapped in incremental pilots. Early and flawless execution across the entire transformation journey—from inorganic strategy definition to post-merger integration—is critical to capitalize on this opportunity before it becomes too crowded.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-02",
+      "source_doc_id": "621dbb05-162e-5438-b6da-6c136cbfea7b",
+      "source_title": "Accelerating Growth and Innovation in European Mid-Sized Pharma",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/accelerating-growth-and-innovation-in-european-mid-sized-pharma",
+      "source_date": "2026-02-02",
+      "country_focus": "EU"
+    },
+    {
+      "index": 21,
+      "title": "China's rising biopharmaceutical innovation challenges Europe's global standing",
+      "description": "China's spectacular ascent as a biopharmaceutical innovation hub, driven by manufacturing specialization, government support, and regulatory changes, has enabled it to surpass Europe in new drug approvals and challenge the US in clinical trials. With Chinese R&D spending forecasted for 8% CAGR until 2030, this structural shift poses a significant threat to Europe's global relevance. Europe's past decline is attributed to fragmented regulation, shallow capital markets, and fiscal pressures that disincentivize R&D investment, risking its long-term position.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-20",
+      "source_doc_id": "3ce7ea77-1b4f-50a0-ab6e-a4677849c505",
+      "source_title": "Hello, Goodbye: Europe loses ground as China becomes powerhouse of innovation",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/europe-loses-ground-as-china-becomes-powerhouse-innovation",
+      "source_date": "2026-01-20",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "AI in drug discovery should focus on biological bottlenecks, not just molecule design",
+      "description": "McKinsey states that while AI is accelerating drug discovery, investment has disproportionately concentrated on molecule design due to data availability. The industry's real constraint and where trials often fail, lies in identifying and validating the correct disease mechanism. They advocate for directing AI investment towards these biological bottlenecks and preclinical translation, as early discovery speed alone does not guarantee clinical survival or successful payouts from milestone-based deals. Cross-stage integration of AI is critical for clinical success.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-21",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Digital and AI crucial for biopharma manufacturing to overcome plateaued productivity",
+      "description": "McKinsey believes biopharma manufacturing needs a new model as productivity gains have plateaued since 2018 and unit costs have largely stabilized. With rising demand, complex portfolios, and declining net prices for branded drugs, digital and AI adoption is critical. While many companies have launched pilots, few have scaled for operational impact. The next wave of value comes from redesigning work end-to-end, building connected data foundations, automating routine activities, and operating plants as part of a broader network, which can significantly improve speed, scale, and sustainability.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-15",
+      "source_doc_id": "2146f442-b4ae-5660-8186-8bd6d7659bc6",
+      "source_title": "Backbones and networks: A blueprint for the biopharma plant of the future",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/backbones-and-networks-a-blueprint-for-the-biopharma-plant-of-the-future",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Agentic AI offers health insurers a triple win of faster decisions, lower costs, and better care",
+      "description": "BCG argues that agentic AI is no longer experimental for health insurers and provides a pathway to overcome structural challenges like rising demand, case volumes, and costs. By automating routine processes like claims and benefit verification, AI agents free up human expertise for high-value services and personalized care. Early movers are already gaining significant advantages, with one European insurer reducing claim processing time from 30-60 minutes to 2-4 minutes and cutting leakage by 3-5%. Insurers embracing an enhanced human-agentic operating model will differentiate themselves.",
+      "stance": "positive",
+      "source_firm": "BCG",
+      "source_date": "2026-09-04",
+      "source_doc_id": "ecdd9408-d2ad-5e13-8f94-c4aa4ea0fa5a",
+      "source_title": "Agentic AI’s Advantage for Health Insurers: Faster Decisions, Lower Costs, Better Care",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-ai-agents-cut-costs-for-health-insurers",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Ireland's healthcare sector shows resilience and positive outlook due to demographics and investment",
+      "description": "Bank of Ireland views Ireland’s healthcare sector as resilient, with a positive outlook for H2 2026, driven by favorable demographics, sustained government investment, and increasing private sector activity. Key trends include strong demand in nursing homes, disability services, homecare, and private hospitals, underpinned by population aging and rising chronic disease prevalence. Consolidation, investment in infrastructure, and the increasing embedding of digital health technologies and AI are expected to support continued growth, despite ongoing challenges such as workforce availability, operating costs, and regulation.",
+      "stance": "positive",
+      "source_firm": "Bank of Ireland",
+      "source_date": "2026-08-06",
+      "source_doc_id": "268cdf0e-a923-5e7f-995f-b607667991f3",
+      "source_title": "Bank of Ireland Healthcare Sector H1 2026 Insights and H2 2026 Outlook July 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/BOI-Healthcare-Sector-H1-Insights-and-H2-Outlook-2026.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 5,
+      "title": "Irish pharmaceuticals sector remains resilient despite cost and tariff pressures",
+      "description": "Allianz identifies Ireland's pharmaceuticals sector as resilient, characterized by stable trading conditions and strong underlying performance (low risk level 1). This is supported by a significant multinational presence and a growing local segment. While facing pressures from higher energy and transport costs, and the EU-US trade agreement's 15% tariff cap on exports, these cost increases are deemed manageable due to the sector’s strong profitability. However, businesses should monitor these costs and review supply chain resilience, especially smaller, more specialized firms.",
+      "stance": "cautious_positive",
+      "source_firm": "Allianz",
+      "source_date": "2026-07-22",
+      "source_doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "source_title": "July 2026 Ireland Sector Snippets",
+      "source_publisher": "allianz_ie",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html",
+      "country_focus": "IE"
+    },
+    {
+      "index": 6,
+      "title": "Remote care offers critical solution to Europe's escalating healthcare staff shortages",
+      "description": "ING Think emphasizes that remote care technology is becoming a critical solution for European hospitals facing severe staff shortages (expected to exceed 4 million workers by 2030) and rising demand. Remote monitoring offers significant benefits, including fewer avoidable visits, improved patient mobility, and increased hospital capacity. While adoption in Europe is slow and fragmented, with the largest EU countries lagging, policymakers can accelerate scale-up through stronger central direction, supportive reimbursement models, and smoother data exchange, as demonstrated by the UK, Scandinavia, and the Netherlands.",
+      "stance": "positive",
+      "source_firm": "ING Think",
+      "source_date": "2026-06-16",
+      "source_doc_id": "37486c31-507a-5866-bae6-93a4ae9c7d01",
+      "source_title": "How technology could cut millions of hospital visits across Europe",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-technology-could-save-millions-of-european-hospital-visits1",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "GLP-1 weight-loss drugs will have limited but growing impact on European food demand",
+      "description": "ING Think projects that while GLP-1 drugs are effective and growing rapidly, their impact on European food and beverage demand will remain limited in 2026-2027 due to low base usage (2% of EU+UK adults). However, the market is set to reach $100 billion by 2027, driven by oral formulations, competition, and potential government reimbursement. A transformative scenario by 2030 could see a 2.5-3.5% drop in total calorie intake, disproportionately affecting categories like snacks and alcohol. Food makers should adapt through product innovation and targeted marketing.",
+      "stance": "cautious_positive",
+      "source_firm": "ING Think",
+      "source_date": "2026-03-20",
+      "source_doc_id": "8d02a11b-4f7a-58a1-9abf-920291a69c35",
+      "source_title": "Transformative or overhyped? The impact of weight-loss drugs on European food…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/transformative-or-overhyped-the-impact-of-weight-loss-drugs-on-european-food-demand1",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "Europe risks losing pharmaceutical innovation power and must act swiftly to regain relevance",
+      "description": "ING Think warns that Europe's biopharmaceutical innovation capacity has declined significantly over decades, losing ground to the US and rapidly rising China. Europe's share of global R&D spending has fallen from 50% in 1990 to 33% in 2025, and drug approvals have decreased. This is attributed to fragmented regulation, shallow capital markets, and fiscal pressures leading to low drug prices. To reverse this, Europe must consider increasing drug prices, harmonizing regulations, and deepening capital markets, potentially leveraging US budget cuts to attract talent and research.",
+      "stance": "cautious_negative",
+      "source_firm": "ING Think",
+      "source_date": "2026-03-19",
+      "source_doc_id": "2f9c8805-cb8b-5f5b-bb15-4ec1b6e4e73d",
+      "source_title": "Europe’s last chance to revive its pharmaceutical innovation power",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/why-it-is-the-eleventh-hour-for-european-pharmaceutical-innovation",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "title": "Dutch healthcare sector poised for further expansion despite persistent supply constraints",
+      "description": "ING Think projects continued expansion for the Dutch healthcare sector in 2026, with volume growth expected at 2.5%. This is driven by structural demand from an aging population, advanced treatments, and increased budgetary space from the government. Productivity growth has significantly increased since 2021, aided by digital applications, AI (reducing administrative burden, no-shows), and greater use of informal care. While staff shortages remain a challenge and self-employed workers are decreasing, the sector continues to attract permanent and flexible staff to meet growing demand.",
+      "stance": "positive",
+      "source_firm": "ING Think",
+      "source_date": "2026-02-06",
+      "source_doc_id": "861da786-ed4b-560e-9205-7314d4730876",
+      "source_title": "Dutch healthcare sector set to expand further despite supply constraints",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/dutch-healthcare-sector-set-to-expand-further-despite-supply-constraints",
+      "country_focus": "NL"
+    },
+    {
+      "index": 10,
+      "title": "European mid-sized pharma can achieve growth through innovation and US rare disease market entry",
+      "description": "Bain & Company asserts that European mid-sized pharmaceutical companies can accelerate growth by intentionally shifting portfolios towards innovative assets, particularly rare disease drugs, and expanding into the US market. \"Portfolio shifters\" who adopted this strategy grew twice as fast as \"legacy anchors,\" significantly increasing EBITDA margins and R&D spending. M&A is a key enabler, providing rapid and lower-risk access to innovation and US commercial infrastructure. Given Europe's healthcare budget pressures, US market presence remains critical for rewarding innovation.",
+      "stance": "positive",
+      "source_firm": "Bain & Company",
+      "source_date": "2026-02-02",
+      "source_doc_id": "621dbb05-162e-5438-b6da-6c136cbfea7b",
+      "source_title": "Accelerating Growth and Innovation in European Mid-Sized Pharma",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/accelerating-growth-and-innovation-in-european-mid-sized-pharma",
+      "country_focus": "EU"
+    },
+    {
+      "index": 11,
+      "title": "China's spectacular rise in biopharmaceutical innovation threatens Europe's global relevance",
+      "description": "ING Think highlights China's dramatic ascent as a biopharmaceutical innovation hub, surpassing Europe in new drug approvals and rivaling the US in clinical trials and R&D spending growth. This shift, driven by manufacturing specialization and regulatory changes, puts Europe at risk of obsolescence due to its own fragmented regulations, shallow capital markets, and fiscal pressures. However, ING suggests Europe could capitalize on US budget cuts to FDA and NIH, which threaten US innovation, by attracting scientists and offering regulatory certainty to regain its competitive edge.",
+      "stance": "cautious_negative",
+      "source_firm": "ING Think",
+      "source_date": "2026-01-20",
+      "source_doc_id": "3ce7ea77-1b4f-50a0-ab6e-a4677849c505",
+      "source_title": "Hello, Goodbye: Europe loses ground as China becomes powerhouse of innovation",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/europe-loses-ground-as-china-becomes-powerhouse-innovation",
+      "country_focus": "EU"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 8.4,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 43.0,
+      "historical_cagr_period": "2023-2025",
+      "demand_drivers": [
+        {
+          "driver": "Accelerated Drug Discovery",
+          "description": "AI's ability to compress early timelines and reshape biopharma partnerships drives demand for AIDD investments."
+        },
+        {
+          "driver": "Molecule Design Maturity",
+          "description": "The maturity of AI tools in molecule design, driven by structured data and rapid assay feedback, attracts significant capital."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Investor funding in AI-enabled drug discovery (AIDD).",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-21",
+      "data_confidence": "high",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "tam_value": 29.5,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Early Discovery Speed",
+          "description": "Pharma companies are investing in AI to accelerate early-stage drug discovery timelines."
+        },
+        {
+          "driver": "Risk Mitigation in Deals",
+          "description": "Deal structures with significant downstream milestones reflect pharma's desire to mitigate financial risk, driving headline deal values while upfront cash remains low."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Headline deal sizes among the top 20 pharma companies for AI-enabled drug discovery.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-21",
+      "data_confidence": "high",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "tam_value": 3.88,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing Demand for Disability Services",
+          "description": "The number of adults accessing HSE-funded disability services increased by approximately 10% annually, driving government investment."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "An additional 2,197 residential disability places are required nationally, indicating significant investment opportunities.",
+          "opportunity": "Disability Residential Places"
+        }
+      ],
+      "methodology": "Government funding for disability services, including allocation to residential services.",
+      "source_firm": "Bank of Ireland",
+      "source_date": "2026-08-06",
+      "data_confidence": "high",
+      "source_doc_id": "268cdf0e-a923-5e7f-995f-b607667991f3",
+      "source_title": "Bank of Ireland Healthcare Sector H1 2026 Insights and H2 2026 Outlook July 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/BOI-Healthcare-Sector-H1-Insights-and-H2-Outlook-2026.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 4,
+      "tam_value": 26.7,
+      "tam_unit": "mn_units",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Aging in Place Policy",
+          "description": "Healthcare policy prioritizes independent living and care closer to home."
+        },
+        {
+          "driver": "Increasing Demand",
+          "description": "Demand for home support services is projected to increase by up to 91% by 2040, as Ireland's population aged over 65 is projected to double by 2050."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Approximately 5,600 people remained on waiting lists for home support, indicating an unmet demand and opportunity for capacity growth.",
+          "opportunity": "Home Care Capacity Expansion"
+        }
+      ],
+      "methodology": "Total home support hours delivered.",
+      "source_firm": "Bank of Ireland",
+      "source_date": "2026-08-06",
+      "data_confidence": "high",
+      "source_doc_id": "268cdf0e-a923-5e7f-995f-b607667991f3",
+      "source_title": "Bank of Ireland Healthcare Sector H1 2026 Insights and H2 2026 Outlook July 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/BOI-Healthcare-Sector-H1-Insights-and-H2-Outlook-2026.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 5,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Chronic Disease Management",
+          "description": "Growing demand for managing chronic diseases drives prescription volumes and values."
+        },
+        {
+          "driver": "Expanded Clinical Role of Pharmacists",
+          "description": "The implementation of the Common Conditions Service and the Community Pharmacy Agreement expands pharmacists' clinical role, increasing their contribution to primary care."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Prescription Medicine Values Increase",
+          "description": "Prescription medicine values increased by 9.5% in H1 2026, driven by demand for chronic disease management."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "An estimated 98 pharmacy transactions were completed between 2023 and 2025, reflecting robust investor confidence and attractive long-term sector fundamentals.",
+          "opportunity": "Consolidation Opportunities"
+        }
+      ],
+      "methodology": "Analysis of prescription medicine values growth and market activity.",
+      "source_firm": "Bank of Ireland",
+      "source_date": "2026-08-06",
+      "data_confidence": "medium",
+      "source_doc_id": "268cdf0e-a923-5e7f-995f-b607667991f3",
+      "source_title": "Bank of Ireland Healthcare Sector H1 2026 Insights and H2 2026 Outlook July 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/BOI-Healthcare-Sector-H1-Insights-and-H2-Outlook-2026.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 6,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Intensifying Staff Shortages",
+          "description": "An aging workforce and heavy workloads contribute to a WHO projection of over 4 million healthcare worker shortages by 2030 in Europe."
+        },
+        {
+          "driver": "Rising Demand for Care",
+          "description": "Aging populations, increasing prevalence of chronic conditions, and rising quality expectations drive demand for healthcare services."
+        },
+        {
+          "driver": "Improved Technology",
+          "description": "Advances in measuring devices, internet connections, and digital care acceptance enable wider adoption of remote monitoring."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Remote monitoring can reduce hospital admissions by an average of 50% and consultations by 35% for eligible patients, potentially avoiding 6.5 million admissions and 23 million consultations across the EU.",
+          "opportunity": "Reduced Hospital Admissions and Consultations"
+        },
+        {
+          "description": "By limiting physical visits, RPM boosts capacity, allowing hospitals to treat more patients effectively.",
+          "opportunity": "Increased Hospital Capacity"
+        }
+      ],
+      "methodology": "Estimate of hospital care suitable for hybrid care using remote patient monitoring and potential patient eligibility/willingness.",
+      "source_firm": "ING Think",
+      "source_date": "2026-06-16",
+      "data_confidence": "medium",
+      "source_doc_id": "37486c31-507a-5866-bae6-93a4ae9c7d01",
+      "source_title": "How technology could cut millions of hospital visits across Europe",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-technology-could-save-millions-of-european-hospital-visits1",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "tam_value": 70.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 20.0,
+      "forecast_cagr_period": "2025-2027",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Increasing Obesity and Type 2 Diabetes Prevalence",
+          "description": "Rising obesity rates (43% of US adults in 2022) and chronic Type 2 diabetes globally drive demand for effective weight-loss and diabetes treatments."
+        },
+        {
+          "driver": "Move to Oral GLP-1s",
+          "description": "The shift towards oral GLP-1 formulations (expected to be predominant in the US by 2026, Europe by 2027) will lead to lower prices (up to 50% reduction) and likely higher usage."
+        },
+        {
+          "driver": "Increased Competition and Government Reimbursement",
+          "description": "More companies launching weight-loss drugs will increase competition and price pressure. Governments considering reimbursement for sustainable weight loss and prevention will further increase demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Global market size for GLP-1s, including treatment for diabetes and weight loss.",
+      "source_firm": "ING Think",
+      "source_date": "2026-03-20",
+      "data_confidence": "high",
+      "source_doc_id": "8d02a11b-4f7a-58a1-9abf-920291a69c35",
+      "source_title": "Transformative or overhyped? The impact of weight-loss drugs on European food…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/transformative-or-overhyped-the-impact-of-weight-loss-drugs-on-european-food-demand1",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Sustained Weight Loss Effect of GLP-1s",
+          "description": "If GLP-1s demonstrate a sustained, long-term effect on weight and calorie intake, governments will be more inclined to rapidly expand coverage, increasing usage."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Food and beverage companies can adapt to reduced calorie intake by offering high-protein, fiber-enriched versions, smaller portions, and premiumization.",
+          "opportunity": "Product Reformulation and Innovation"
+        },
+        {
+          "description": "Increasing presence in less affected products and categories like healthy snacking, through organic growth or M&A.",
+          "opportunity": "Shift to Healthy Snacking"
+        }
+      ],
+      "methodology": "Projection of total calorie intake reduction in a transformative scenario based on increased GLP-1 use.",
+      "source_firm": "ING Think",
+      "source_date": "2026-03-20",
+      "data_confidence": "medium",
+      "source_doc_id": "8d02a11b-4f7a-58a1-9abf-920291a69c35",
+      "source_title": "Transformative or overhyped? The impact of weight-loss drugs on European food…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/transformative-or-overhyped-the-impact-of-weight-loss-drugs-on-european-food-demand1",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "tam_value": 1.7,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 5.0,
+      "historical_cagr_period": "past decade",
+      "demand_drivers": [
+        {
+          "driver": "Accelerating Innovation",
+          "description": "AI-enabled R&D, new modalities, and precision medicine are opening new therapeutic areas and reshaping value pools."
+        },
+        {
+          "driver": "Obesity as Growth Engine",
+          "description": "GLP-1s are anchoring pipelines and catalyzing broader moves into metabolic disease and longevity spaces."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Global pharmaceutical market size.",
+      "source_firm": "Bain & Company",
+      "source_date": "2026-02-02",
+      "data_confidence": "high",
+      "source_doc_id": "621dbb05-162e-5438-b6da-6c136cbfea7b",
+      "source_title": "Accelerating Growth and Innovation in European Mid-Sized Pharma",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/accelerating-growth-and-innovation-in-european-mid-sized-pharma",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "McKinsey",
+    "BCG",
+    "Bank of Ireland",
+    "Allianz",
+    "ING Think",
+    "Bain & Company"
+  ],
+  "documents": [
+    {
+      "doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "title": "AI drug discovery: Focusing on what matters most",
+      "publisher": "mckinsey",
+      "date": "2026-09-21",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most"
+    },
+    {
+      "doc_id": "2146f442-b4ae-5660-8186-8bd6d7659bc6",
+      "title": "Backbones and networks: A blueprint for the biopharma plant of the future",
+      "publisher": "mckinsey",
+      "date": "2026-09-15",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/backbones-and-networks-a-blueprint-for-the-biopharma-plant-of-the-future"
+    },
+    {
+      "doc_id": "ecdd9408-d2ad-5e13-8f94-c4aa4ea0fa5a",
+      "title": "Agentic AI’s Advantage for Health Insurers: Faster Decisions, Lower Costs, Better Care",
+      "publisher": "bcg_global",
+      "date": "2026-09-04",
+      "url": "https://www.bcg.com/publications/2026/how-ai-agents-cut-costs-for-health-insurers"
+    },
+    {
+      "doc_id": "268cdf0e-a923-5e7f-995f-b607667991f3",
+      "title": "Bank of Ireland Healthcare Sector H1 2026 Insights and H2 2026 Outlook July 2026",
+      "publisher": "bank_of_ireland",
+      "date": "2026-08-06",
+      "url": "https://www.thinkbusiness.ie/app/uploads/2026/08/BOI-Healthcare-Sector-H1-Insights-and-H2-Outlook-2026.pdf"
+    },
+    {
+      "doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "title": "July 2026 Ireland Sector Snippets",
+      "publisher": "allianz_ie",
+      "date": "2026-07-22",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html"
+    },
+    {
+      "doc_id": "37486c31-507a-5866-bae6-93a4ae9c7d01",
+      "title": "How technology could cut millions of hospital visits across Europe",
+      "publisher": "ing_think",
+      "date": "2026-06-16",
+      "url": "https://think.ing.com/articles/how-technology-could-save-millions-of-european-hospital-visits1"
+    },
+    {
+      "doc_id": "8d02a11b-4f7a-58a1-9abf-920291a69c35",
+      "title": "Transformative or overhyped? The impact of weight-loss drugs on European food…",
+      "publisher": "ing_think",
+      "date": "2026-03-20",
+      "url": "https://think.ing.com/articles/transformative-or-overhyped-the-impact-of-weight-loss-drugs-on-european-food-demand1"
+    },
+    {
+      "doc_id": "2f9c8805-cb8b-5f5b-bb15-4ec1b6e4e73d",
+      "title": "Europe’s last chance to revive its pharmaceutical innovation power",
+      "publisher": "ing_think",
+      "date": "2026-03-19",
+      "url": "https://think.ing.com/articles/why-it-is-the-eleventh-hour-for-european-pharmaceutical-innovation"
+    },
+    {
+      "doc_id": "861da786-ed4b-560e-9205-7314d4730876",
+      "title": "Dutch healthcare sector set to expand further despite supply constraints",
+      "publisher": "ing_think",
+      "date": "2026-02-06",
+      "url": "https://think.ing.com/articles/dutch-healthcare-sector-set-to-expand-further-despite-supply-constraints"
+    },
+    {
+      "doc_id": "621dbb05-162e-5438-b6da-6c136cbfea7b",
+      "title": "Accelerating Growth and Innovation in European Mid-Sized Pharma",
+      "publisher": "bain",
+      "date": "2026-02-02",
+      "url": "https://www.bain.com/insights/accelerating-growth-and-innovation-in-european-mid-sized-pharma"
+    },
+    {
+      "doc_id": "3ce7ea77-1b4f-50a0-ab6e-a4677849c505",
+      "title": "Hello, Goodbye: Europe loses ground as China becomes powerhouse of innovation",
+      "publisher": "ing_think",
+      "date": "2026-01-20",
+      "url": "https://think.ing.com/articles/europe-loses-ground-as-china-becomes-powerhouse-innovation"
+    },
+    {
+      "doc_id": "8203bb9b-8243-5905-9c44-0d32d529db93",
+      "title": "Clinical Trials Face Persistent Challenges—and New Opportunities",
+      "publisher": "bain",
+      "date": "2026-09-02",
+      "url": "https://www.bain.com/insights/clinical-trials-face-persistent-challenges-and-new-opportunities"
+    }
+  ]
+}

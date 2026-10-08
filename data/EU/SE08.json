@@ -1,0 +1,636 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Shift of value in payments to software and infrastructure layers",
+      "description": "The global payments sector is undergoing a structural transition where value is relocating from front-end checkout screens to the 'invisible control layer' of back-end trust, machine identity, consent engines, and dynamic routing protocols. This shift is driven by the commoditization of transaction clearing and the rise of agentic commerce, creating significant opportunities for IT firms specializing in software capabilities, data services, fraud mitigation, and deep workflow integration.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "High IT expenditure CAGR in the payments sector",
+      "description": "Information technology expenditures within the global payments sector are projected to compound at roughly 9 percent annually through 2030. This growth significantly outpaces the moderated 4 percent global payments revenue growth, indicating a substantial and sustained investment in IT solutions by financial institutions to drive competitive advantages, operational discipline, and technological leadership in a structurally changing market.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "New product capabilities demanded by agentic payments",
+      "description": "The rise of agentic payments necessitates five core product capabilities: cryptographic machine identities (credentials for agents), standardized digital protocols for authorization (mandate and consent management), granular limits for transactions (risk controls and policy guardrails), programmatic liquidity containers (agent wallets), and dispute frameworks for delegated flows (transaction protection). These represent new, monetizable infrastructure services, generating recurring fees and premiums, distinct from traditional volume-based payment flows, creating lucrative opportunities for IT service and software providers.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Productivity gains from agentic AI in payments operations",
+      "description": "Agentic AI presents a significant productivity opportunity, estimated at up to $110 billion in annual value across the payments sector. This is primarily concentrated in technology and operations (where roughly half of a payment service provider's cost base sits), as well as customer operations and product development. These gains are immediately available without requiring consumer behavior change or regulatory shifts, providing direct benefits to IT firms supplying automation and AI solutions to financial institutions.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Lack of trust infrastructure hindering agentic AI adoption",
+      "description": "Widespread adoption of agentic AI in payments is currently constrained by the absence of robust trust infrastructure. Binding factors include the need for verifiable machine credentials, dynamic consent standards, effective revocation mechanisms, and clear supervisory liability frameworks. Until jurisdictions and market operators deploy this governance and trust architecture, the pace of market adoption, regardless of underlying computing power, will remain limited, posing a challenge for wider IT solution deployment.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Agentic AI reshaping workflows and reducing 'coordination tax'",
+      "description": "Agentic AI is structurally changing enterprise workflows by automating the 'coordination interface tax' – the costs associated with human-mediated handoffs between different workflow steps. This next generation of technology can perform the verification, reconciliation, and routing that previously required human judgment across competing constraints. This leads to significant operating leverage, improved clock speed, and redeployment of personnel to higher-value tasks, creating substantial demand for new software and IT services.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "59a54758-8b97-5c5a-a345-59247fef1994",
+      "source_title": "Cutting the ‘coordination tax’: How agentic AI can reshape workflows",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows",
+      "source_date": "2026-09-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "AI fueling unprecedented demand and growth for semiconductors",
+      "description": "The rapid rise of AI is driving unprecedented demand for semiconductors, particularly leading-edge chips (7nm or less) and high-bandwidth memory (HBM). This surge, supported by massive capital expenditures from hyperscalers for AI infrastructure, is causing average selling prices (ASPs) to rise significantly. The semiconductor market is projected to reach $2.3 trillion by 2030, marking a permanent shift in industry dynamics towards sustained high growth and elevated ASPs for advanced components.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "source_date": "2026-09-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "Energy availability and affordability challenge AI data center build-out",
+      "description": "The base-case scenario for semiconductor market growth, driven by AI data centers, requires overcoming significant constraints related to energy availability and affordability. AI data centers are energy-intensive, and while some regions (e.g., China, Middle East) are expected to build new capacity, Europe may lag others. Delays or increased costs in securing power could impact data center build-out plans, potentially reducing demand for associated IT hardware and cloud infrastructure in the region.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "source_date": "2026-09-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "title": "Data center build-out driving demand for IT equipment and services",
+      "description": "In Norway, data center build-out is identified as a significant growth driver, increasing demand for various IT components. This includes cables, transformers, switchboards, and other energy supply equipment, boosting activity for domestic manufacturers in the technology hardware and electronic components segments. Additionally, technology investment is generally pushing up investment across multiple sectors, further benefiting IT services and software providers involved in infrastructure development.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "119fa0f7-5585-551c-b712-53ee7e798c9b",
+      "source_title": "Regional Network report 3/2026: Minor changes in growth prospects",
+      "source_publisher": "norges_bank",
+      "source_url": "https://www.norges-bank.no/contentassets/5cf2ad95ea9249e4951e145f7c2591de/regional-network-3-26.pdf",
+      "source_date": "2026-09-17",
+      "country_focus": "NO"
+    },
+    {
+      "index": 10,
+      "title": "Growing AI adoption in Irish food and beverage sector",
+      "description": "Irish food and beverage producers are increasingly adopting AI solutions, moving from experimentation to practical implementation. This adoption supports critical functions like quality control, predictive maintenance, production planning, and supply chain management. Public and private sector initiatives, including Enterprise Ireland and Bank of Ireland programmes, are actively assisting businesses in deploying these AI solutions, creating a strong tailwind for IT software and services providers in Ireland.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-31",
+      "source_doc_id": "b7c96ad7-8412-5f67-b0e4-fb84d60a559c",
+      "source_title": "Bank of Ireland Food and Drink Sector H1 2026 Insights and H2 2026 Outlook August 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/D15993-BOI-Food-and-Beverage-Outlook-August-2026.pdf",
+      "source_date": "2026-08-31",
+      "country_focus": "IE"
+    },
+    {
+      "index": 11,
+      "title": "Increased R&D tax credit incentivizing technology adoption in Ireland",
+      "description": "The Irish government has enhanced R&D supports, including an increase in the R&D tax credit rate from 30% to 35%. This provides additional incentives for businesses, particularly in the food and beverage sector, to invest in product development, process improvement, and technology adoption, including AI and digitalization. This policy support acts as a significant upside driver for IT services and software companies, as it encourages broader investment in technological solutions across industries.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-31",
+      "source_doc_id": "b7c96ad7-8412-5f67-b0e4-fb84d60a559c",
+      "source_title": "Bank of Ireland Food and Drink Sector H1 2026 Insights and H2 2026 Outlook August 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/D15993-BOI-Food-and-Beverage-Outlook-August-2026.pdf",
+      "source_date": "2026-08-31",
+      "country_focus": "IE"
+    },
+    {
+      "index": 12,
+      "title": "Digitalization and AI adoption boosting road transport sector investments",
+      "description": "New sustainability regulations, ongoing digitalization, and the increasing adoption of artificial intelligence are driving higher investment requirements and demand for specialist expertise within the road transport sector. This trend translates into a tailwind for Information Technology, as transport companies seek IT services, software, and hardware solutions to meet new regulatory standards, enhance operational efficiency through digitalization, and integrate AI into their operations.",
+      "type": "tailwind",
+      "impact_magnitude": "low",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-22",
+      "source_doc_id": "b9bc0ba2-c235-53fb-bb7b-8def2f02b131",
+      "source_title": "Dutch road transport gains momentum despite truck charge",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/road-transport-gaining-momentum-in-the-first-year-of-the-truck-charge",
+      "source_date": "2026-09-22",
+      "country_focus": "EU"
+    },
+    {
+      "index": 13,
+      "title": "E-commerce growth sustaining demand for IT infrastructure and software",
+      "description": "E-commerce in the Netherlands is projected to grow by 4.5% in 2026, outperforming overall retail sales. This robust growth, expected to continue at around 5% in 2027, signifies a long-term shift towards online shopping. This trend creates a sustained tailwind for Information Technology, particularly for providers of e-commerce platforms, cloud infrastructure, cybersecurity, and IT services essential for supporting digital commerce operations, data management, and seamless customer experiences.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-22",
+      "source_doc_id": "cd901ede-d457-5b3a-9611-0408af610d12",
+      "source_title": "Revenue growth masks growing pressure on retail profitability in the Netherlands",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/revenue-growth-masks-growing-pressure-on-retail-profitability-in-the-netherlands",
+      "source_date": "2026-09-22",
+      "country_focus": "NL"
+    },
+    {
+      "index": 14,
+      "title": "AI and IoT driving intelligent safety and productivity in mining",
+      "description": "The mining industry is increasingly adopting AI and IoT technologies to enhance safety and productivity. This includes autonomous drones for inspection, IoT-enabled sensors for continuous monitoring of equipment and environment, digital twins for simulation, and generative/agentic AI for hazard identification, incident reporting, and autonomous responses. This creates significant demand for IT solutions across hardware (drones, sensors), software (analytics, dashboards, AI platforms), and IT services (integration, data governance, training) in asset-heavy industries.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-23",
+      "source_doc_id": "041ecb65-1f24-5dd1-9368-e7cb99fd09f4",
+      "source_title": "Harnessing AI to make mining safer",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer",
+      "source_date": "2026-09-23",
+      "country_focus": "EU"
+    },
+    {
+      "index": 15,
+      "title": "Data silos and legacy infrastructure hindering digital investments in mining",
+      "description": "Despite advancements in digital tools, data silos and legacy infrastructure continue to impede the full impact of digital investments in the mining sector. Data from advanced sensors is often not integrated into company-wide dashboards, limiting comprehensive risk assessment. This fragmentation represents a headwind, as it complicates the deployment and effectiveness of new IT solutions, including AI-enabled safety systems. It also highlights an opportunity for IT services focused on data integration and modernization.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-23",
+      "source_doc_id": "041ecb65-1f24-5dd1-9368-e7cb99fd09f4",
+      "source_title": "Harnessing AI to make mining safer",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer",
+      "source_date": "2026-09-23",
+      "country_focus": "EU"
+    },
+    {
+      "index": 16,
+      "title": "Potential decline in memory ASPs post-2027 due to increased supply",
+      "description": "While high-bandwidth memory (HBM) and DRAM currently benefit from elevated Average Selling Prices (ASPs) due to supply shortages, long-term solutions are being implemented, including new fabs and advanced packaging. If these solutions are successful, memory supply could begin to catch up with demand around 2027, potentially leading to a decline in prices, following historical cyclical patterns. This represents a medium-term headwind for semiconductor profitability, though ASPs may remain above historical levels.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "source_date": "2026-09-18",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Payments value shifting to software and infrastructure through agentic AI",
+      "description": "McKinsey believes that value in the global payments sector is shifting from traditional transaction processing to the underlying software and workflow layers. This transformation is driven by agentic AI, which automates tasks, creates new infrastructure products, and significantly boosts operational productivity. Providers with deep workflow integration and proprietary interface ownership, often software-led, are poised to capture significant value and trade at valuation premiums over stand-alone processors.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "AI driving unprecedented and sustained growth in the semiconductor market",
+      "description": "McKinsey states that AI is responsible for an unprecedented surge in the semiconductor sector, with market revenues rising above $1 trillion for the first time in early 2026. This surge, fueled by hyperscaler AI infrastructure investments, is pushing average selling prices (ASPs) of leading-edge chips and memory well above predicted levels. This trend could usher in a period of sustained growth, significantly expanding the market to $2.3 trillion by 2030, a 44% increase from previous estimates.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Agentic AI is key to unlocking enterprise-wide workflow efficiency and leverage",
+      "description": "McKinsey posits that while AI has improved individual productivity, organizations often fail to see significant EBIT impact because AI is applied to isolated tasks, not end-to-end workflows. Agentic AI is the first technology capable of automating complex coordination at workflow interfaces, which typically consumes 35-60% of work time. By redesigning workflows around agentic AI, companies can achieve substantial operating leverage, re-deploying talent to higher-value tasks rather than reducing headcount.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "source_doc_id": "59a54758-8b97-5c5a-a345-59247fef1994",
+      "source_title": "Cutting the ‘coordination tax’: How agentic AI can reshape workflows",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Europe is establishing an AI edge in the application layer, especially vertical AI",
+      "description": "McKinsey asserts that Europe's technology ecosystem is gaining an 'AI edge' in the application layer, particularly for vertical or industry-specific AI solutions. European start-ups in this area now attract 67% of the funding raised by their US counterparts, up from 9% in 2018. This growth is reinforced by factors like reversing AI talent flows, proactive university commercialization, and strategic corporate co-investment, positioning Europe to leverage its deep industrial expertise and complex markets.",
+      "stance": "positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-17",
+      "source_doc_id": "141e2c18-d934-5cc1-9f89-1e32ee845ac0",
+      "source_title": "Europe’s new AI edge? The emerging application layer opportunity",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/europes-new-ai-edge-the-emerging-application-layer-opportunity",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "AI presents mixed opportunities and challenges for Norwegian consultancy firms",
+      "description": "Norges Bank's Regional Network contacts indicate that the emergence of AI is affecting Norwegian consultancy firms unevenly. While some firms are experiencing new business opportunities by offering AI consultancy and solution implementation services, others face reduced demand for existing services as customers become increasingly self-reliant due to AI. This suggests a mixed but evolving landscape for IT services and consulting in Norway.",
+      "stance": "neutral",
+      "source_firm": "Norges Bank",
+      "source_date": "2026-09-17",
+      "source_doc_id": "119fa0f7-5585-551c-b712-53ee7e798c9b",
+      "source_title": "Regional Network report 3/2026: Minor changes in growth prospects",
+      "source_publisher": "norges_bank",
+      "source_url": "https://www.norges-bank.no/contentassets/5cf2ad95ea9249e4951e145f7c2591de/regional-network-3-26.pdf",
+      "country_focus": "NO"
+    },
+    {
+      "index": 6,
+      "title": "AI accelerating drug discovery but long-term clinical efficacy remains uncertain",
+      "description": "McKinsey observes that AI is significantly accelerating early drug discovery timelines, with first-in-human milestones achieved 15-80% faster than traditional methods. Investor funding in AI-enabled drug discovery reached $8.40 billion in 2025, demonstrating strong interest. However, most AI-native clinical assets are still in early trial phases, and definitive Phase III efficacy readouts are years away, creating uncertainty about AI's ultimate impact on clinical success rates.",
+      "stance": "cautious_positive",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-21",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "country_focus": "EU"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 330.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 29.0,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI Infrastructure Build-out",
+          "description": "Massive capital expenditures by hyperscalers for AI infrastructure are driving demand for high-performance chips in data centers."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Higher Average Selling Prices (ASPs)",
+          "description": "Intensifying supply-demand imbalance, particularly for leading-edge chips and high-bandwidth memory (HBM), is pushing up ASPs, contributing significantly to revenue growth."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Revenues for chip sales for servers and data centers. Base case projection.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 19.0,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI Infrastructure Development",
+          "description": "Unprecedented investments by hyperscalers into AI infrastructure are fueling demand for advanced semiconductors."
+        },
+        {
+          "driver": "High-Performance Computing Demand",
+          "description": "Increased adoption of AI models and applications is driving demand for powerful, leading-edge chips and high-bandwidth memory."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Increased Average Selling Prices (ASPs)",
+          "description": "Persistent supply-demand imbalance, especially for leading-edge chips and memory, results in elevated ASPs, boosting overall market value."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Total market value of the semiconductor industry. Forecast based on updated analysis factoring in AI-driven demand and ASP changes.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "tam_value": 8.4,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 43.0,
+      "historical_cagr_period": "2023-2025",
+      "demand_drivers": [
+        {
+          "driver": "Acceleration of Drug Discovery",
+          "description": "AI's ability to compress early drug discovery timelines and reshape biopharma partnerships drives significant investment."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Investor funding in AI-enabled drug discovery (AIDD).",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-21",
+      "data_confidence": "medium",
+      "source_doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "source_title": "AI drug discovery: Focusing on what matters most",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "tam_value": 83.5,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total venture funding raised by North America, Europe, and Asia between January 2025 and June 2026. Europe's share was 10%, North America 71%, Asia 16%.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-17",
+      "data_confidence": "high",
+      "source_doc_id": "141e2c18-d934-5cc1-9f89-1e32ee845ac0",
+      "source_title": "Europe’s new AI edge? The emerging application layer opportunity",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/europes-new-ai-edge-the-emerging-application-layer-opportunity",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "tam_value": 560.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI Model Memory Requirements",
+          "description": "AI models require large amounts of memory (DRAM, HBM) for parameter storage and rapid data processing, increasing with context window size and concurrent users."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "High Average Selling Prices (ASPs)",
+          "description": "Demand for memory, especially DRAM and HBM, has risen faster than supply, causing ASPs to increase significantly (e.g., DRAM prices up sixfold since early 2023)."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Investment in new fabs to boost DRAM and HBM manufacturing capacity.",
+          "opportunity": "Increased Manufacturing Capacity"
+        },
+        {
+          "description": "Development of taller HBM stacks and 2.5D or 3D integration to increase memory density and bandwidth.",
+          "opportunity": "Advanced Packaging Solutions"
+        },
+        {
+          "description": "Increasing bit density per wafer for DRAM through new technology generations.",
+          "opportunity": "Next-Generation DRAM Technology"
+        }
+      ],
+      "methodology": "Projected value increase for the memory segment of the semiconductor market under a base-case scenario.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "tam_value": 100.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI Applications in Specialized Segments",
+          "description": "AI growth benefits specialized applications like FPGAs for evolving AI architectures, workload-specific connectivity, and data center power electronics."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Declining Average Selling Prices (ASPs)",
+          "description": "Despite sales volume increase, ASPs for advanced and mature nodes are expected to fall."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Total growth for advanced and mature nodes within the semiconductor market.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "medium",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "tam_value": 710.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong AI and High-Performance Computing Demand",
+          "description": "Continued high demand from AI and high-performance computing applications for advanced processor technologies."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Increasing Average Selling Prices (ASPs)",
+          "description": "ASPs for 3nm and 5nm wafers are increasing by 2% or more annually due to strong demand and limited capacity, a departure from historical declines."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Projected value increase for leading-edge chips (7nm or less) within the semiconductor market.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "McKinsey",
+    "Norges Bank"
+  ],
+  "documents": [
+    {
+      "doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "publisher": "mckinsey",
+      "date": "2026-09-25",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    },
+    {
+      "doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "publisher": "mckinsey",
+      "date": "2026-09-18",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story"
+    },
+    {
+      "doc_id": "59a54758-8b97-5c5a-a345-59247fef1994",
+      "title": "Cutting the ‘coordination tax’: How agentic AI can reshape workflows",
+      "publisher": "mckinsey",
+      "date": "2026-09-18",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/cutting-the-coordination-tax-how-agentic-ai-can-reshape-workflows"
+    },
+    {
+      "doc_id": "141e2c18-d934-5cc1-9f89-1e32ee845ac0",
+      "title": "Europe’s new AI edge? The emerging application layer opportunity",
+      "publisher": "mckinsey",
+      "date": "2026-09-17",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/europes-new-ai-edge-the-emerging-application-layer-opportunity"
+    },
+    {
+      "doc_id": "119fa0f7-5585-551c-b712-53ee7e798c9b",
+      "title": "Regional Network report 3/2026: Minor changes in growth prospects",
+      "publisher": "norges_bank",
+      "date": "2026-09-17",
+      "url": "https://www.norges-bank.no/contentassets/5cf2ad95ea9249e4951e145f7c2591de/regional-network-3-26.pdf"
+    },
+    {
+      "doc_id": "fea2aa42-890c-59a1-ab0a-885518bc5480",
+      "title": "AI drug discovery: Focusing on what matters most",
+      "publisher": "mckinsey",
+      "date": "2026-09-21",
+      "url": "https://www.mckinsey.com/industries/life-sciences/our-insights/ai-drug-discovery-focusing-on-what-matters-most"
+    },
+    {
+      "doc_id": "b7c96ad7-8412-5f67-b0e4-fb84d60a559c",
+      "title": "Bank of Ireland Food and Drink Sector H1 2026 Insights and H2 2026 Outlook August 2026",
+      "publisher": "bank_of_ireland",
+      "date": "2026-08-31",
+      "url": "https://www.thinkbusiness.ie/app/uploads/2026/08/D15993-BOI-Food-and-Beverage-Outlook-August-2026.pdf"
+    },
+    {
+      "doc_id": "b9bc0ba2-c235-53fb-bb7b-8def2f02b131",
+      "title": "Dutch road transport gains momentum despite truck charge",
+      "publisher": "ing_think",
+      "date": "2026-09-22",
+      "url": "https://think.ing.com/articles/road-transport-gaining-momentum-in-the-first-year-of-the-truck-charge"
+    },
+    {
+      "doc_id": "cd901ede-d457-5b3a-9611-0408af610d12",
+      "title": "Revenue growth masks growing pressure on retail profitability in the Netherlands",
+      "publisher": "ing_think",
+      "date": "2026-09-22",
+      "url": "https://think.ing.com/articles/revenue-growth-masks-growing-pressure-on-retail-profitability-in-the-netherlands"
+    },
+    {
+      "doc_id": "041ecb65-1f24-5dd1-9368-e7cb99fd09f4",
+      "title": "Harnessing AI to make mining safer",
+      "publisher": "mckinsey",
+      "date": "2026-09-23",
+      "url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer"
+    }
+  ]
+}

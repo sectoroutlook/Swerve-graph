@@ -1,0 +1,402 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Persistent Overcapacity Depresses Pricing Power",
+      "description": "The OFSE sector suffers from a broken mechanism for clearing overcapacity, where assets like drillships and seismic ships have long economic lives (20-30 years) and low reactivation costs. This creates a multi-year overhang of latent capacity after downcycles, preventing pricing recovery. Offshore rig marketed share recently recovered to 80%, but half the onshore fleet remains unmarketed, and the seismic fleet reduction occurred through insolvencies, not orderly rationalization.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 2,
+      "title": "Misaligned Commercial Models Limit Supplier Value Capture",
+      "description": "Prevailing commercial models in OFSE, such as fixed day rates and lump-sum EPC contracts, decouple supplier activities from client-valued outcomes. These models, established during rapid growth, disincentivize innovation that reduces cycle time and leave suppliers with insufficient margins to invest in such advancements. Suppliers bear the cost of inefficiencies but rarely share in productivity upsides, creating a structural ceiling on value creation when growth flattens.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 3,
+      "title": "Growing Operator Dominance and In-Sourcing Risks OFSE",
+      "description": "Over the past 15 years, oil and gas operators, particularly National Oil Companies (NOCs), have developed significant internal capabilities, insourcing functions previously outsourced to OFSE firms. This concentrates spending with a few preferred suppliers who bear most project risks, shifting the relationship to an OEM-supplier dynamic. This trend threatens OFSE companies' platform positions and could commoditize digital services as operators build proprietary AI platforms, diminishing OFSE market opportunities.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 4,
+      "title": "AI to Transform Commercial Models and Productivity",
+      "description": "AI adoption is a critical universal capability for OFSE, enabling a shift from traditional time-based commercial models to outcomes-based compensation. AI can significantly improve productivity through faster seismic processing, optimized maintenance, and reduced nonproductive drilling time. Future applications include autonomous drilling, AI-driven engineering design, and digital rehearsal of construction, fundamentally changing how value is created and rewarded across the sector.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 5,
+      "title": "Strategic Foresight to Combat Overcapacity and Volatility",
+      "description": "Implementing scenario-based strategic foresight as an 'always-on' capability is crucial for OFSE companies to address persistent overcapacity and market volatility. This planning helps leaders avoid long-cycle capital commitments based on single-point forecasts, enabling adaptable strategies for multiple plausible futures. For firms managing 20+ year asset lifecycles, this discipline improves capital allocation, prevents value destruction, and allows outmaneuvering less prepared competitors.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 6,
+      "title": "Asset-Heavy Operators Suffer Low Margins, High Leverage",
+      "description": "The asset-heavy segment of OFSE, including drillers, supply-vessel owners, and shipyards, is severely impacted by overcapacity. These companies experienced some of the lowest EBIT margins (around 7% from 2022-2025) and highest leverage within the sector. Despite high utilization rates, pricing power remains elusive, with day rates plateauing and softening from their 2024 peak, highlighting persistent financial fragility and a challenging near-term outlook.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 7,
+      "title": "Consolidation and Fleet Upgrades for Asset-Heavy OFSE",
+      "description": "For asset-heavy OFSE operators, disciplined capacity management is crucial, prioritizing balance sheet repair over newbuild orders which historically lead to oversupply. Successful firms will consolidate to retire excess capacity and strategically upgrade fleets to meet growing demand in harsh-environment and deepwater operations. This approach, exemplified by companies like Noble Corporation, Helmerich & Payne, and Transocean, is essential for sustainable value creation and avoiding the cyclical pitfalls of overinvestment in the medium term.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 8,
+      "title": "Middle East Conflict Drives Offshore Supply Chain Cost Inflation",
+      "description": "The ongoing conflict in the Middle East has significantly tightened global energy markets, leading to increased risk, higher commodity prices, and rising inflation. This cost inflation is directly impacting offshore energy supply chains, including Oilfield Services & Equipment (OFSE), intensifying financial pressures and eroding margins for companies operating within this segment. The near-term outlook for input costs remains challenging due to geopolitical uncertainty.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 9,
+      "title": "UKCS Fiscal Reform and Licensing Could Boost OFSE Demand",
+      "description": "A more competitive fiscal regime and pragmatic licensing approach in the UK Continental Shelf (UKCS) from 2027 could unlock 111 additional oil and gas projects. This is projected to attract £50 billion in private capital investment and yield 3.25 billion boe of production, sustaining domestic output. Such an increase in upstream activity would significantly drive demand for Oilfield Services & Equipment in the region, providing a strong tailwind from the medium term.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 10,
+      "title": "EPC Contractors' Margins Squeezed by Fragmentation",
+      "description": "EPC Contractors within OFSE are directly impacted by fragmented markets, with over 75 players keeping margins low at approximately 5%. While backlog offers some resilience, the segment's key strategic shift involves moving from traditional time-based pricing to output-based and outcomes-based contracts. This transition is essential for improving profitability and capturing more value from innovation, addressing a deeply entrenched structural issue in the long term.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 11,
+      "title": "Equipment Specialists Poised for Offshore Wave with Discipline",
+      "description": "Equipment and product specialists in OFSE are advised to capitalize on the current supply gap by maintaining capital discipline and strategically timing investments to meet the emerging offshore demand wave. This approach involves disciplined consolidation and specialization in premium connections or energy-transition applications, aiming to prevent the overbuilding that characterized previous cycles and ensure sustainable growth in the medium term. This strategy offers a clear pathway for value creation.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 12,
+      "title": "UK Exploration Well Activity at Record Lows",
+      "description": "The UK Continental Shelf (UKCS) is experiencing record-low well activity, with no exploration wells drilled last year for the first time since production began. This severe reduction in exploration directly diminishes demand for drilling rigs, well services, seismic surveys, and other oilfield services, posing a significant near-term headwind for the Oilfield Services & Equipment sector in the UK. The lack of new discoveries threatens long-term activity pipelines.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 13,
+      "title": "OFSE Expertise Transferable to New Energy Sectors",
+      "description": "The UK's Oilfield Services & Equipment supply chain possesses world-leading expertise in subsea engineering, drilling services, and marine operations, developed over five decades in the North Sea. These capabilities are highly transferable and critical for developing offshore wind, carbon capture and storage, hydrogen infrastructure, and decommissioning projects. This presents a significant long-term upside opportunity for OFSE companies to diversify and contribute to the broader energy transition, leveraging existing skills and infrastructure.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 14,
+      "title": "Domestic Activity Decline Risks UK OFSE Capability Loss",
+      "description": "The UK's offshore energy supply chain, rich in OFSE expertise, faces a high risk of losing critical capabilities if domestic activity and investment pipelines decline sharply or become uncertain. Supply chain companies base long-term investment decisions on expected demand, and a lack of consistent opportunities can lead to skills, facilities, and relationships migrating to more active international markets. Rebuilding these lost capabilities is difficult and expensive, jeopardizing the broader energy transition in the long term.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-08",
+      "source_doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "source_title": "Economic Report 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/economic-report-2026",
+      "source_date": "2026-09-08"
+    },
+    {
+      "index": 15,
+      "title": "AI-Driven Efficiency Risks OFSE Revenue Under Current Contracts",
+      "description": "While AI offers significant value, it poses a key risk to Oilfield Services & Equipment revenue under existing commercial models. AI-driven efficiencies, such as reduced rig days or service hours, could expose approximately $17 billion of OFSE revenue at current deployment levels, potentially reaching $60 billion at full potential. Although variable costs decrease, the net cash flow impact could still be $7 billion (near-term) to $24 billion (full-potential), requiring new commercial models for value capture.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-25",
+      "source_doc_id": "7997f6ad-c438-53e2-9c9a-a738b981d89b",
+      "source_title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone",
+      "source_date": "2026-08-25"
+    },
+    {
+      "index": 16,
+      "title": "Misaligned Commercial Models Hinder OFSE AI Adoption",
+      "description": "The current commercial models between operators and Oilfield Services & Equipment providers are misaligned with the benefits of AI. Operators gain from AI-driven efficiencies like faster wells and reduced downtime, but OFSE companies often face revenue loss due to fewer billable rig days or service hours under traditional activity-based contracts. This paradox disincentivizes OFSEs from deploying efficiency-creating AI, necessitating new commercial models that share the value upside to encourage adoption in the medium term.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-25",
+      "source_doc_id": "7997f6ad-c438-53e2-9c9a-a738b981d89b",
+      "source_title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone",
+      "source_date": "2026-08-25"
+    },
+    {
+      "index": 17,
+      "title": "AI Offers Significant Internal Cost Efficiency for OFSE",
+      "description": "Oilfield Services & Equipment companies have a substantial opportunity to leverage AI for internal cost efficiencies, with an estimated potential of $10 billion to $20 billion. This includes improvements across labor productivity, materials optimization, SG&A automation, and working capital management. While this 'self-help' is crucial for enhancing margins, it is identified as a necessary but not sufficient solution to fully close revenue gaps, requiring further commercial innovation over the medium term.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-25",
+      "source_doc_id": "7997f6ad-c438-53e2-9c9a-a738b981d89b",
+      "source_title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone",
+      "source_date": "2026-08-25"
+    },
+    {
+      "index": 18,
+      "title": "UK Steel Tariffs Raise Costs for Offshore Projects",
+      "description": "The UK government's March 2026 decision to impose a 50% tariff on steel imports exceeding reduced quotas will impact the wider energy supply chain, including Oilfield Services & Equipment involved in offshore projects. This policy is expected to increase short-term costs and procurement complexity for steel-intensive offshore activities, although it aims to strengthen domestic production and national resilience in the long term. This is a near-term cost pressure.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-01",
+      "source_doc_id": "3e6a525c-0260-5d3f-a0fe-12147ca895d3",
+      "source_title": "Offshore Wind Insight 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/offshore-wind-insight-2026",
+      "source_date": "2026-05-01"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Oilfield Services & Equipment Faces Structural Hurdles Despite Demand Recovery",
+      "description": "The OFSE sector is emerging from a decade of significant value destruction, characterized by subpar shareholder returns (0.5% TSR from 2010-2025) and numerous bankruptcies. Despite a current demand recovery and improving activity levels, underlying structural problems like overcapacity and depressed margins persist, preventing a full restoration of value creation. The upcycle alone is insufficient to resolve these deeply entrenched issues, signaling continued caution for the sector.",
+      "stance": "cautious_negative",
+      "source_firm": "BCG Global",
+      "source_date": "2026-09-08",
+      "source_doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "source_title": "Restoring Value Creation in Oilfield Services",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 65.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI-driven efficiency",
+          "description": "Increased production, reduced operating costs, improved capital productivity, and changed risk/balance sheet profiles for upstream oil & gas and OFSE."
+        },
+        {
+          "driver": "AI use cases in OFSE",
+          "description": "Value is concentrated in drilling, production optimization, and maintenance, where data infrastructure and closed-loop feedback are already established."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Internal cost efficiency for OFSEs",
+          "description": "AI can deliver approximately $10-20 billion of internal cost efficiency across labor productivity, materials optimization, SG&A automation, and working capital improvement."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Developing and offering software-as-a-service (SaaS) solutions for repeatable workflows in production optimization, exemplified by Baker Hughes' Leucipa™ platform.",
+          "opportunity": "AI product businesses"
+        },
+        {
+          "description": "Shifting towards performance-based services, where OFSE providers are rewarded for directly influencing outcomes like drilling cycle time or equipment uptime, as seen with Helmerich & Payne.",
+          "opportunity": "Outcome-based pricing models"
+        },
+        {
+          "description": "Implementing commercial models where both operators and OFSE providers agree on baselines, measurement rules, and share the upside from production uplift, cost reduction, or avoided downtime, potentially evolving to autonomy models with shared liability.",
+          "opportunity": "Gain-sharing and risk-sharing models"
+        }
+      ],
+      "methodology": "Bottom-up sizing of over 550 AI use cases across the upstream life cycle, applied to global oil and gas cost ($500-550bn capex, $400-500bn opex) and production base ($2tn annual margin at $50/BOE). Net of $30bn annual implementation costs. Near-term potential reflects today’s proven AI technologies at current adoption levels. Value concentrated in top 60 use cases.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-08-25",
+      "data_confidence": "high",
+      "source_doc_id": "7997f6ad-c438-53e2-9c9a-a738b981d89b",
+      "source_title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Offshore wind farm construction",
+          "description": "Need for seabed intelligence between construction windows to maintain program continuity and support safe jack-up operations."
+        },
+        {
+          "driver": "Operational efficiency and safety",
+          "description": "USV operations provide 24/7 monitoring, real-time situational awareness, and reduce risk for human crews, supporting continuous offshore operations."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Reduced operational costs",
+          "description": "Uncrewed operations from harbor are more efficient than traditional methods, offering cost savings for survey providers."
+        },
+        {
+          "driver": "Rapid data turnaround",
+          "description": "Ability to deliver DTMs and object lists within short deadlines (e.g., 30 days) ensures program continuity and reduces delays."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Leveraging existing OFSE capabilities in subsea surveying, geodata, and marine operations to provide essential services to the rapidly growing offshore wind sector, including debris clearance and seabed mapping.",
+          "opportunity": "Offshore survey services for wind energy"
+        }
+      ],
+      "methodology": "Based on XOCEAN's deployment of uncrewed survey vessels (USVs) for debris clearance and seabed intelligence at offshore wind farms, using multibeam echo sounder (MBES) technology.",
+      "source_firm": "OEUK",
+      "source_date": "2026-05-01",
+      "data_confidence": "medium",
+      "source_doc_id": "3e6a525c-0260-5d3f-a0fe-12147ca895d3",
+      "source_title": "Offshore Wind Insight 2026",
+      "source_publisher": "oeuk",
+      "source_url": "https://oeuk.org.uk/product/offshore-wind-insight-2026"
+    }
+  ],
+  "sources": [
+    "BCG Global",
+    "McKinsey",
+    "OEUK"
+  ],
+  "documents": [
+    {
+      "doc_id": "e0398d53-d9ef-571c-9a1a-2ca4b255245a",
+      "title": "Restoring Value Creation in Oilfield Services",
+      "publisher": "bcg_global",
+      "date": "2026-09-08",
+      "url": "https://www.bcg.com/publications/2026/how-oilfield-services-firms-rebuild-value"
+    },
+    {
+      "doc_id": "c19648c9-b1ef-5589-863a-5379fd1f2210",
+      "title": "Economic Report 2026",
+      "publisher": "oeuk",
+      "date": "2026-09-08",
+      "url": "https://oeuk.org.uk/product/economic-report-2026"
+    },
+    {
+      "doc_id": "7997f6ad-c438-53e2-9c9a-a738b981d89b",
+      "title": "Can upstream oil and gas produce value from AI’s $230 billion pay zone?",
+      "publisher": "mckinsey",
+      "date": "2026-08-25",
+      "url": "https://www.mckinsey.com/industries/oil-and-gas/our-insights/can-upstream-oil-and-gas-produce-value-from-ais-230-billion-dollar-pay-zone"
+    },
+    {
+      "doc_id": "3e6a525c-0260-5d3f-a0fe-12147ca895d3",
+      "title": "Offshore Wind Insight 2026",
+      "publisher": "oeuk",
+      "date": "2026-05-01",
+      "url": "https://oeuk.org.uk/product/offshore-wind-insight-2026"
+    }
+  ]
+}

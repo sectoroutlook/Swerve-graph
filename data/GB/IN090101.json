@@ -1,0 +1,548 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Semiconductor shortages impacting production and prices for telecom",
+      "description": "Semiconductor constraints are a key near-term uncertainty for the Computers & Telecoms sector. Shortages could reduce shipments by around 9%, impacting the availability and increasing the prices of hardware essential for mobile network operations and customer devices. The absorption of global chip demand from AI data center projects specifically threatens to impact production and prices in 2026, posing a risk to mobile operators' capex and network rollout plans.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 2,
+      "title": "Rising cyber risks necessitate improved resilience for telcos",
+      "description": "Cybersecurity remains a key concern for the Computers & Telecoms sector following major attacks in 2025. This reinforces the need for improved resilience across the industry, particularly for smaller firms. Ongoing consultation on telecoms security requirements may drive further investment in security measures for mobile network operators. For carriers handling sovereign data, financial transactions, and critical infrastructure signaling, the threat of quantum computers breaking encryption adds another layer of urgency.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 3,
+      "title": "AI reshaping telco operating cost structures, necessitating transformation",
+      "description": "The operating cost structure of telecom operators is undergoing a significant shift over the next three to five years due to AI integration. An agentic operating model is emerging, where AI agent and token costs could constitute 20% to 30% of total operating expenditures, augmenting or automating work across customer care, network operations, software engineering, and enterprise functions. This requires telcos to modernize complex legacy operations and redesign workflows to avoid simply adding AI expenses to existing bases without proportional productivity gains.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "2b91867f-70ab-59e5-877c-d5dc2005a422",
+      "source_title": "AI in Telecom: The Opex Reckoning",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/ai-in-telecom-the-opex-reckoning",
+      "source_date": "2026-09-10"
+    },
+    {
+      "index": 4,
+      "title": "Unpredictable AI token costs driving up telcos' total bills",
+      "description": "Despite falling AI model prices, telcos face a risk of unpredictable and ballooning total token bills as usage rises. Employees discover new uses, power users consume tokens at scale (especially in network operations and customer care), and teams shift to more complex, token-intensive models. This leads to effective costs per task remaining flat or increasing, risking a dangerous 'cost-creep scenario' unless AI spending is managed as a strategic production resource with a dedicated budget and clear governance, focusing on cost per business outcome.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "2b91867f-70ab-59e5-877c-d5dc2005a422",
+      "source_title": "AI in Telecom: The Opex Reckoning",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/ai-in-telecom-the-opex-reckoning",
+      "source_date": "2026-09-10"
+    },
+    {
+      "index": 5,
+      "title": "Post-quantum cryptography mandates urgent network upgrades for telcos",
+      "description": "Post-quantum cryptography (PQC) is the most pressing quantum priority for telecom carriers, with nation-state actors already harvesting encrypted data. NIST finalized PQC standards in 2024-2025, and regulatory clocks are hardening (e.g., CNSA 2.0 by Jan 2027, EU critical infrastructure readiness by end-2030). Mobile operators must identify, assess, and migrate every cryptographic dependency across 5G core networks, RAN, SIM/eSIM infrastructure, and interconnect agreements. This complex migration requires coordinated equipment vendor upgrades and could take 12-24 months for discovery alone.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-05",
+      "source_doc_id": "61f33b7d-15b4-5e50-9b45-c83e485c6356",
+      "source_title": "How Telecom Carriers Are Preparing for Quantum",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/how-telecom-carriers-are-preparing-for-quantum",
+      "source_date": "2026-06-05"
+    },
+    {
+      "index": 6,
+      "title": "Quantum computing offers long-term optimization potential for mobile networks",
+      "description": "Quantum computing, while not immediately optimizing networks, holds significant long-term potential for telecom carriers to solve complex optimization challenges that exceed classical algorithms. Strong candidates for quantum advantage include network planning, fiber route optimization, RAN optimization (beamforming, interference management, Cloud RAN resource provisioning), and energy management across thousands of cell sites. Vodafone, in collaboration with ORCA Computing, has already demonstrated quantum-assisted fiber routing. Building capabilities now is crucial to achieve competitive advantage once hardware matures (estimated around 2028-2029 for 100 stable logical qubits).",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-05",
+      "source_doc_id": "61f33b7d-15b4-5e50-9b45-c83e485c6356",
+      "source_title": "How Telecom Carriers Are Preparing for Quantum",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/how-telecom-carriers-are-preparing-for-quantum",
+      "source_date": "2026-06-05"
+    },
+    {
+      "index": 7,
+      "title": "Satellite direct-to-device connectivity emerging as complementary mobile service",
+      "description": "Satellite service providers are gaining prominence, marketing direct-to-device (D2D) capabilities. While not a replacement for terrestrial mobile networks, satellite D2D can cost-effectively close coverage gaps where towers are impractical, particularly in rural or outdoor settings for low-rate messaging, safety, and intermittent voice. Mobile network operators (MNOs) are seeking partnerships to offer D2D connectivity as a complementary service, integrating it into spectrum, roaming, and plan design, which expands mobile network reach and resilience.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-05",
+      "source_doc_id": "cd02dfff-10b7-5bb0-887e-1527ce839512",
+      "source_title": "MWC 2026: Telecoms at the Inflection Point",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/mwc-2026-telecoms-at-the-inflection-point",
+      "source_date": "2026-03-05"
+    },
+    {
+      "index": 8,
+      "title": "Low 5G ROI and 6G uncertainty create operator unease",
+      "description": "Following massive investments in 5G that have struggled to generate returns, mobile operators are deeply uneasy about rushing into the next transition towards 6G. While 6G promises reduced power consumption, better embedded security, and increased privacy, the current experience with 5G's monetization challenges makes operators cautious. This hesitation could slow down future network innovation and deployment, potentially impacting long-term competitive positioning and investment cycles for mobile and wireless telecom providers.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-05",
+      "source_doc_id": "cd02dfff-10b7-5bb0-887e-1527ce839512",
+      "source_title": "MWC 2026: Telecoms at the Inflection Point",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/mwc-2026-telecoms-at-the-inflection-point",
+      "source_date": "2026-03-05"
+    },
+    {
+      "index": 9,
+      "title": "Government investment and planning support UK telecom sector",
+      "description": "The UK telecom sector benefits from sustained government investment and multi-year planning. Initiatives like rising public R&D funding (to £22.6bn by 2029/30) and the 'TechFirst' programme (£187m for digital skills, AI, and data science bursaries) directly support innovation and talent development. This policy backing enhances the structural demand for digital capabilities and provides a supportive growth backdrop for mobile and wireless telecom operators, enabling them to invest in new technologies and address skill gaps.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-05",
+      "source_doc_id": "b53b8fdf-4ebc-50e8-99d9-42f82940e71a",
+      "source_title": "February 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-february-2026.html",
+      "source_date": "2026-03-05"
+    },
+    {
+      "index": 10,
+      "title": "Network APIs and programmable connectivity enabling usage-based monetization",
+      "description": "The growth of network APIs and programmable connectivity is a significant structural shift for mobile operators. AI-native and enterprise applications increasingly demand identity, location, security, and quality-on-demand as programmable network functions. Network APIs allow operators to expose these capabilities directly to developers and enterprises, enabling differentiated, usage-based monetization beyond static connectivity. With API coverage spanning around 80% of global mobile connections, this positions operators to participate in application-layer value creation rather than remaining mere transport providers.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-27",
+      "source_doc_id": "ff728b57-5b15-59f0-b6ff-b1d87cff7146",
+      "source_title": "Issue Brief: AI-driven telecom networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-ai-driven-telecom-networks",
+      "source_date": "2026-02-27"
+    },
+    {
+      "index": 11,
+      "title": "AI-driven data center growth reshapes fiber demand and investment",
+      "description": "Massive investment in data centers to support AI workloads is reshaping fiber demand. Constraints on grid power in major hubs are driving new subsea, long-haul, and metro fiber builds, particularly towards secondary markets and Tier-2 cities that can support incremental compute capacity. While primarily affecting fixed-line infrastructure, this also impacts mobile and wireless telecom through increased demand for mobile backhaul and potential for distributed compute locations on tower sites, influencing MNOs' infrastructure strategies and partnerships.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-27",
+      "source_doc_id": "1f77039d-aff8-5b88-8766-561874e49b29",
+      "source_title": "Issue Brief: Telecom infrastructure",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-telecom-infrastructure",
+      "source_date": "2026-02-27"
+    },
+    {
+      "index": 12,
+      "title": "LEO satellites introduce new strategic uncertainty for telcos",
+      "description": "Low-Earth-Orbit (LEO) consumer broadband and direct-to-device (D2D) connectivity are moving from 'niche' to mainstream, driven by cheaper launches and falling terminal costs. LEO changes customer connectivity expectations at the 'edges' of fixed and mobile networks. LEO players compete with a different economic model and potentially lower price expectations in non-fiber technologies, introducing strategic uncertainty for telcos. Mobile operators need to assess where to compete, partner, or ignore this evolving market to protect their customer base and ARPU.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-27",
+      "source_doc_id": "93c29a92-58f9-5b57-8755-1861cefe26f7",
+      "source_title": "Issue Brief: Satellite connectivity",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-satellite-connectivity",
+      "source_date": "2026-02-27"
+    },
+    {
+      "index": 13,
+      "title": "Telcos transforming into AI infrastructure backbone and service providers",
+      "description": "With AI fast becoming a private- and public-sector imperative, telcos have a significant opportunity to evolve beyond capital-intensive utilities into reliable providers of enabling AI infrastructure. This includes offering cloud and edge services, secure connectivity, and data center platforms. Their advantages lie in trusted local presence, regulatory alignment, and control of national infrastructure assets. Telcos are planning or launching AI-ready networks and edge-based products, often through partnerships with hyperscalers, to serve government and enterprise customers seeking sovereign AI infrastructure.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-27",
+      "source_doc_id": "b076931f-90f2-569d-add6-a8e906f9e1f2",
+      "source_title": "The telco reinvention: How AI can fuel value creation",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-telco-reinvention-how-ai-can-fuel-value-creation",
+      "source_date": "2026-02-27"
+    },
+    {
+      "index": 14,
+      "title": "Strategic M&A and consolidation reshaping telco market structure",
+      "description": "Strategic M&A and consolidation remain critical market-shaping maneuvers for telecom operators, driven by the potential for economies of scale, value proposition differentiation, and access to new markets. In-country consolidation plays, such as the 2025 pairing of Vodafone UK and Three UK, are expected to achieve significant synergies (e.g., £700 million by the fifth year). These mergers create larger mobile operators with increased subscriber and revenue share, materially improving their competitive position and operational efficiency in an increasingly commoditized industry.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-27",
+      "source_doc_id": "b076931f-90f2-569d-add6-a8e906f9e1f2",
+      "source_title": "The telco reinvention: How AI can fuel value creation",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-telco-reinvention-how-ai-can-fuel-value-creation",
+      "source_date": "2026-02-27"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "UK Mobile & Wireless Telecom sector resilient despite external pressures",
+      "description": "The UK computers and telecoms sector, which includes mobile and wireless telecom, is showing resilience amidst geopolitical, energy, and supply-chain pressures. Sustained public and private investment in AI, digital infrastructure, and skills development, such as the Digital and Technologies Sector Plan and AI Growth Zones, is underpinning the sector's long-term strength. However, challenges like higher data-centre energy costs, semiconductor constraints, rising cyber risks, and talent shortages create near-term uncertainty, requiring careful risk management alongside leveraging growth opportunities.",
+      "stance": "cautious_positive",
+      "source_firm": "allianz_uk",
+      "source_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "index": 2,
+      "title": "AI adoption poses significant cost-management challenge for telcos",
+      "description": "Telecom operators face a critical challenge in scaling AI without merely adding token costs to their existing heavy legacy operating cost base. Unless telcos proactively manage their costs and redesign workflows, AI adoption risks increasing total operating expenses without proportional gains in productivity, customer experience, or growth. The effective cost unit for AI is the business outcome (e.g., cost per resolved customer issue), not cost per token, highlighting the need for strategic resource management and end-to-end process redesign.",
+      "stance": "cautious_negative",
+      "source_firm": "bain",
+      "source_date": "2026-09-10",
+      "source_doc_id": "2b91867f-70ab-59e5-877c-d5dc2005a422",
+      "source_title": "AI in Telecom: The Opex Reckoning",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/ai-in-telecom-the-opex-reckoning"
+    },
+    {
+      "index": 3,
+      "title": "Quantum technology presents urgent and complex challenges for telcos",
+      "description": "Quantum technology poses an immediate and substantial challenge for mobile and fixed network operators, impacting network security, infrastructure strategy, and regulation. Post-quantum cryptography (PQC) is the most pressing priority due to 'harvest now, decrypt later' threats to sensitive telecom data, demanding PQC readiness by 2030. Quantum computing offers potential for complex optimization, requiring early capability building, while quantum communications (QKD) is a strategic opportunity for carriers with fiber assets for high-security use cases.",
+      "stance": "cautious_negative",
+      "source_firm": "bain",
+      "source_date": "2026-06-05",
+      "source_doc_id": "61f33b7d-15b4-5e50-9b45-c83e485c6356",
+      "source_title": "How Telecom Carriers Are Preparing for Quantum",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/how-telecom-carriers-are-preparing-for-quantum"
+    },
+    {
+      "index": 4,
+      "title": "Telecom industry at inflection point, AI a structural reset",
+      "description": "The telecom industry is navigating significant turbulence and is at an inflection point, with AI acting as a structural reset rather than just another G-cycle. Operators are diverse in their AI approaches, focusing on cost reduction and customer satisfaction. Broader priorities include service quality, sovereignty, resilience, and data provenance. Leaders are moving from AI experimentation to large-scale deployment, and those who fail to deliver quantifiable business value from AI will fall behind. Post-quantum cybersecurity is also a critical, near-term concern.",
+      "stance": "neutral",
+      "source_firm": "bain",
+      "source_date": "2026-03-05",
+      "source_doc_id": "cd02dfff-10b7-5bb0-887e-1527ce839512",
+      "source_title": "MWC 2026: Telecoms at the Inflection Point",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/mwc-2026-telecoms-at-the-inflection-point"
+    },
+    {
+      "index": 5,
+      "title": "UK Telecoms supported by policy, faces chip disruption risk",
+      "description": "The UK Computers & Telecoms sector, including mobile and wireless operators, benefits from sustained government policy backing and inherent demand for digital capabilities. Government initiatives like 'Invest 2035' and increased public R&D funding support innovation and skills. However, the sector faces a key risk from potential chip supply disruption in 2026 due to absorption of global demand by AI data center projects, which could impact production and prices. Cybersecurity, data protection, and regulatory changes will be defining themes.",
+      "stance": "cautious_positive",
+      "source_firm": "allianz_uk",
+      "source_date": "2026-03-05",
+      "source_doc_id": "b53b8fdf-4ebc-50e8-99d9-42f82940e71a",
+      "source_title": "February 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-february-2026.html"
+    },
+    {
+      "index": 6,
+      "title": "AI is primary lever to reset telco network economics and growth",
+      "description": "Leading telecom operators are turning to AI to transform network economics, achieve disciplined growth, and unlock new revenue streams, responding to structural and cost pressures. While network complexity and high customer expectations persist, AI offers a unique opportunity to reimagine network operations for exceptional performance. The ambition of a fully autonomous, self-optimizing, self-healing network is now an achievable goal within years. Success hinges on a business-led approach, strong data foundations, internal capability building, and strategic partnerships, rather than just technology adoption.",
+      "stance": "positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-02-27",
+      "source_doc_id": "ff728b57-5b15-59f0-b6ff-b1d87cff7146",
+      "source_title": "Issue Brief: AI-driven telecom networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-ai-driven-telecom-networks"
+    },
+    {
+      "index": 7,
+      "title": "Telcos poised for new growth through fundamental AI-driven change",
+      "description": "After a challenging decade of low ROIC and flat market valuations, telecom operators are showing signs of entering a new era of healthy growth, with market performance recently stabilizing. This shift is partly due to the nearing completion of costly 5G and fiber rollouts, leading to a more hesitant approach to capital outlays. To sustain this, telcos must embrace fundamental changes across four key domains: AI-native transformation, growth beyond core connectivity, infrastructure innovation, and strategic market shaping through consolidation and delayering.",
+      "stance": "cautious_positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-02-27",
+      "source_doc_id": "b076931f-90f2-569d-add6-a8e906f9e1f2",
+      "source_title": "The telco reinvention: How AI can fuel value creation",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-telco-reinvention-how-ai-can-fuel-value-creation"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 801.6,
+      "tam_unit": "GBP_bn",
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Accelerating AI Adoption",
+          "description": "The growth of the overall UK AI market creates demand for underlying digital infrastructure and connectivity services provided by the mobile and wireless telecom sector."
+        },
+        {
+          "driver": "Sustained Investment in Digital Infrastructure",
+          "description": "Public and private investment into digital infrastructure supports the foundational technologies necessary for AI growth, directly benefiting telecom operators."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The UK AI market potential by 2035. While not a direct sizing of the Mobile & Wireless Telecom sector, the sector's growth is increasingly linked to and supported by the broader AI market development through initiatives and partnerships.",
+      "source_firm": "allianz_uk",
+      "source_date": "2026-03-05",
+      "data_confidence": "medium",
+      "source_doc_id": "b53b8fdf-4ebc-50e8-99d9-42f82940e71a",
+      "source_title": "February 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-february-2026.html"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "AI-driven operational efficiency",
+          "description": "AI-driven use cases, including energy management, field operations optimization, and predictive maintenance, can reduce total network operating expenses by 15% to 30%. This improves profitability for mobile operators."
+        },
+        {
+          "driver": "AI-driven repair and self-healing networks",
+          "description": "Advanced anomaly detection, smart co-pilots, and automated critical change agents can lead to 30% to 70% fewer troubleshooting tickets, 55% to 80% reductions in network operations center costs, and 30% to 40% faster mean time to repair, significantly cutting opex."
+        },
+        {
+          "driver": "AI-driven planning and simulation",
+          "description": "Utilizing machine learning models and digital twins for network planning can result in 10% to 20% lower greenfield rollout capex, 15% to 35% lower upgrade capex, and reallocation of 20% to 30% of annual capex from low-ROI interventions, improving capital efficiency."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Analysis of AI-driven operational use cases for telecom networks, quantifying potential cost reductions across various operational areas.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-02-27",
+      "data_confidence": "high",
+      "source_doc_id": "ff728b57-5b15-59f0-b6ff-b1d87cff7146",
+      "source_title": "Issue Brief: AI-driven telecom networks",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-ai-driven-telecom-networks"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "AI-powered customer life cycle engagement",
+          "description": "Incorporating AI into every stage of the customer journey (brand building, conversion, retention, upsell) can lead to 5% to 8% revenue improvements, 50% upsell increases, and 30% churn reduction for mobile operators."
+        },
+        {
+          "driver": "AI-driven value proposition",
+          "description": "Offering hyper-personalized experiences and services, such as vendor-agnostic AI assistants or localized edge hosting of LLMs, has the potential to increase B2C ARPU by 5% to 10% for telcos."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Analysis of value creation potential for mobile operators through AI-powered customer lifecycle engagement.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-02-27",
+      "data_confidence": "high",
+      "source_doc_id": "b076931f-90f2-569d-add6-a8e906f9e1f2",
+      "source_title": "The telco reinvention: How AI can fuel value creation",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-telco-reinvention-how-ai-can-fuel-value-creation"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Synergies from M&A",
+          "description": "The merger of Vodafone UK and Three UK is anticipated to yield £700 million in synergies by the fifth year post-combination, improving the profitability and competitive position of the merged mobile operator."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Analysis of subscriber and revenue share for the combined Vodafone UK and Three UK entity following their 2025 merger.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-02-27",
+      "data_confidence": "high",
+      "source_doc_id": "b076931f-90f2-569d-add6-a8e906f9e1f2",
+      "source_title": "The telco reinvention: How AI can fuel value creation",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-telco-reinvention-how-ai-can-fuel-value-creation"
+    },
+    {
+      "index": 5,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Maturing traditional connectivity markets",
+          "description": "As core mobile connectivity markets mature and become commoditized, telcos face pressure to find new sources of growth beyond data monetization."
+        },
+        {
+          "driver": "Data advantage and trusted customer relationships",
+          "description": "Telcos' real-time access to network, device, location, and usage data, combined with trusted customer relationships, positions them to offer integrated, value-added services."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Increased ARPU from adjacent services",
+          "description": "Expanding into vertical ecosystems (security, entertainment, insurance, energy, fintech) can increase ARPU and reduce churn by offering value-added services beyond core connectivity, as seen with MasOrange's strategy."
+        },
+        {
+          "driver": "New revenue from ICT products and services",
+          "description": "Expanding B2B offerings into end-to-end ICT solutions (cloud, cybersecurity, IT managed services) can grow this segment to account for up to 20% of total telco revenue."
+        },
+        {
+          "driver": "Monetization of Network APIs",
+          "description": "Standardized, global API platforms can spur new 5G-related products leveraging features like speed on demand, low-latency, and edge compute, generating incremental revenue, such as $9 million from the SimSwap API for Brazilian operators."
+        },
+        {
+          "driver": "Incremental 5G monetization from Private Networks",
+          "description": "Customized, vertical-specific enterprise architecture for private 5G networks (e.g., smart hospitals, connected transportation) creates incremental monetization opportunities for operators."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Telcos can expand beyond core connectivity to offer adjacent services in security, entertainment, insurance, energy, and fintech, leveraging their reach and infrastructure to widen customer relationships and increase ARPU.",
+          "opportunity": "Vertical Ecosystems Expansion"
+        },
+        {
+          "description": "Telcos have an opportunity to grow B2B ICT by expanding from core offerings to end-to-end solutions in cloud, cybersecurity, and IT managed services, capturing enterprises seeking third-party support for digital transformation.",
+          "opportunity": "ICT Products and Services"
+        },
+        {
+          "description": "By rolling out standardized, global API platforms, telcos can spur new 5G-related products and services that leverage network features like speed on demand and edge compute discovery, enabling differentiated, usage-based monetization.",
+          "opportunity": "Network APIs"
+        },
+        {
+          "description": "Offering customized, vertical-specific enterprise architecture to enable advanced use cases in sectors like logistics, manufacturing, and public safety can fuel incremental 5G monetization opportunities.",
+          "opportunity": "Private 5G Networks"
+        }
+      ],
+      "methodology": "Analysis of monetization opportunities for telcos by extending beyond core connectivity into adjacent digital verticals and enterprise solutions.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-02-27",
+      "data_confidence": "high",
+      "source_doc_id": "b076931f-90f2-569d-add6-a8e906f9e1f2",
+      "source_title": "The telco reinvention: How AI can fuel value creation",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-telco-reinvention-how-ai-can-fuel-value-creation"
+    }
+  ],
+  "sources": [
+    "allianz_uk",
+    "bain",
+    "mckinsey"
+  ],
+  "documents": [
+    {
+      "doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "title": "September 2026 UK Sector Snippets",
+      "publisher": "allianz_uk",
+      "date": "2026-09-17",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "doc_id": "2b91867f-70ab-59e5-877c-d5dc2005a422",
+      "title": "AI in Telecom: The Opex Reckoning",
+      "publisher": "bain",
+      "date": "2026-09-10",
+      "url": "https://www.bain.com/insights/ai-in-telecom-the-opex-reckoning"
+    },
+    {
+      "doc_id": "61f33b7d-15b4-5e50-9b45-c83e485c6356",
+      "title": "How Telecom Carriers Are Preparing for Quantum",
+      "publisher": "bain",
+      "date": "2026-06-05",
+      "url": "https://www.bain.com/insights/how-telecom-carriers-are-preparing-for-quantum"
+    },
+    {
+      "doc_id": "cd02dfff-10b7-5bb0-887e-1527ce839512",
+      "title": "MWC 2026: Telecoms at the Inflection Point",
+      "publisher": "bain",
+      "date": "2026-03-05",
+      "url": "https://www.bain.com/insights/mwc-2026-telecoms-at-the-inflection-point"
+    },
+    {
+      "doc_id": "b53b8fdf-4ebc-50e8-99d9-42f82940e71a",
+      "title": "February 2026 UK Sector Snippets",
+      "publisher": "allianz_uk",
+      "date": "2026-03-05",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-february-2026.html"
+    },
+    {
+      "doc_id": "ff728b57-5b15-59f0-b6ff-b1d87cff7146",
+      "title": "Issue Brief: AI-driven telecom networks",
+      "publisher": "mckinsey",
+      "date": "2026-02-27",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-ai-driven-telecom-networks"
+    },
+    {
+      "doc_id": "b076931f-90f2-569d-add6-a8e906f9e1f2",
+      "title": "The telco reinvention: How AI can fuel value creation",
+      "publisher": "mckinsey",
+      "date": "2026-02-27",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/the-telco-reinvention-how-ai-can-fuel-value-creation"
+    },
+    {
+      "doc_id": "1f77039d-aff8-5b88-8766-561874e49b29",
+      "title": "Issue Brief: Telecom infrastructure",
+      "publisher": "mckinsey",
+      "date": "2026-02-27",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-telecom-infrastructure"
+    },
+    {
+      "doc_id": "93c29a92-58f9-5b57-8755-1861cefe26f7",
+      "title": "Issue Brief: Satellite connectivity",
+      "publisher": "mckinsey",
+      "date": "2026-02-27",
+      "url": "https://www.mckinsey.com/industries/technology-media-and-telecommunications/our-insights/issue-brief-satellite-connectivity"
+    }
+  ]
+}

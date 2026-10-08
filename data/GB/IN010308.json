@@ -1,0 +1,452 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Aging UK nuclear fleet facing significant capacity retirements by 2030",
+      "description": "Most of Great Britain’s existing nuclear power plants are scheduled to retire before 2030, with nearly 5 GW expected to go offline by the early 2030s. This aging fleet has already contributed to a 52% decline in nuclear power generation since 2000 and a 12% reduction in generation in 2025 alone due to operational challenges. This creates a substantial transition challenge and a potential capacity gap for the UK grid.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "6c21b4ea-6c8c-5b82-b172-a7f45f0ac7fc",
+      "source_title": "UK energy transition journey",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/energy/analysis/uk-energy-transition.html",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 2,
+      "title": "Complex supply chains and skills shortages impede nuclear project delivery",
+      "description": "The nuclear industry relies on complex, highly concentrated supply chains for fuel and specialized components, making it susceptible to bottlenecks, long lead times, and high costs. The UK specifically faces a decline in nuclear-qualified skills and domestic supply chains due to a lack of new build projects over decades. This scarcity of expertise, coupled with challenges in transporting raw materials to remote sites like Hinkley Point C, adds significant complexity and risk to project execution and overall delivery timelines.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "2ef8b14b-ee2f-5d11-b587-3e73254db23b",
+      "source_title": "Nuclear power: A renaissance in the making",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 3,
+      "title": "Project delays and cost overruns plague large-scale nuclear builds",
+      "description": "Large nuclear projects in Europe and the UK, such as Hinkley Point C, face persistent challenges with multi-year construction delays and substantial cost overruns. Hinkley Point C, for instance, is expected to take over a decade to build and saw environmental mitigation alone add £700 million to its cost. These delays amplify financing costs and erode public and political support, making future large-scale projects, including Sizewell C which is based on the same design, inherently risky and difficult to deliver on time and budget.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "2ef8b14b-ee2f-5d11-b587-3e73254db23b",
+      "source_title": "Nuclear power: A renaissance in the making",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 4,
+      "title": "Regulatory complexity hinders efficient and timely nuclear development",
+      "description": "The UK's nuclear sector struggles with regulatory complexity, with a single project potentially facing oversight from as many as eight regulators without a designated lead, as noted by the 2025 Nuclear Regulatory Review. This fragmentation, coupled with stringent licensing and certification requirements even for smaller technologies like SMRs, can lead to approval bottlenecks, inefficiencies, and delays. While regulators are attempting to streamline processes, the inherent complexity remains a significant impediment to project speed and cost-effectiveness.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "2ef8b14b-ee2f-5d11-b587-3e73254db23b",
+      "source_title": "Nuclear power: A renaissance in the making",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 5,
+      "title": "Government commitment and strategic importance drive nuclear expansion",
+      "description": "The UK government has made a strategic commitment to revive the civil nuclear sector, aiming to quadruple capacity from 6 GW to 24 GW by 2050 and making nuclear fission a 'frontier Clean Energy Industry'. This includes significant public investments, such as £14.2 billion for Sizewell C and £2.5 billion for the SMR program, along with robust financial mechanisms like the Regulated Asset Base model and National Wealth Fund loans. This strong political backing ensures long-term support and acts as a major enabler for new projects and industry growth.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2025-06-23",
+      "source_doc_id": "bb453dfa-b76e-58e6-82b2-fc8c8834786a",
+      "source_title": "Clean Energy Industries Sector Plan",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/clean-energy-industries-sector-plan",
+      "source_date": "2025-06-23"
+    },
+    {
+      "index": 6,
+      "title": "Small Modular Reactors (SMRs) offer promise for faster, standardized deployment",
+      "description": "Small Modular Reactors (SMRs) are emerging as a significant opportunity to reshape the nuclear industry. Their modular design enables off-site manufacturing and serial production, potentially trimming construction times and costs compared to large-scale reactors. The UK government is actively supporting SMR development, including a £2.5 billion program and a partnership with Rolls-Royce SMR, with projections indicating SMRs could account for 39-59% of future installed nuclear capacity. This technology could also attract specialist private investment and contribute to meeting regional energy needs.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "2ef8b14b-ee2f-5d11-b587-3e73254db23b",
+      "source_title": "Nuclear power: A renaissance in the making",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 7,
+      "title": "Enhanced energy security and decarbonization drive demand for nuclear power",
+      "description": "Nuclear power is increasingly valued for its contribution to energy security and resilience, particularly in countries with limited domestic fossil fuel resources. Its low-carbon, around-the-clock power generation aligns with global and UK Net Zero targets, making it a critical component for decarbonizing electricity supply. The operational stability and lower operating costs (less exposed to price shocks than gas) further strengthen the case for nuclear as a reliable baseload power source, complementing intermittent renewables and reducing reliance on imports.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "2ef8b14b-ee2f-5d11-b587-3e73254db23b",
+      "source_title": "Nuclear power: A renaissance in the making",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making",
+      "source_date": "2026-06-30"
+    },
+    {
+      "index": 8,
+      "title": "Regulatory and planning reforms aim to streamline nuclear project approvals",
+      "description": "The UK government is implementing structural changes to address regulatory and planning bottlenecks. This includes accepting recommendations from the Nuclear Regulatory Review, planning new legislation, and designating a new National Policy Statement (EN-7) to provide a clearer framework for site selection. Efforts are also underway to streamline Generic Design Assessments (GDAs) for SMRs and leverage international approvals. These reforms aim to reduce complexity, improve speed of delivery, and lower costs without compromising safety, enhancing the investment environment for nuclear projects.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-24",
+      "source_doc_id": null,
+      "source_title": null,
+      "source_publisher": null,
+      "source_url": null,
+      "source_date": null
+    },
+    {
+      "index": 9,
+      "title": "Investment in advanced nuclear fuel supply chain boosts UK capability",
+      "description": "The UK government is investing £300 million in the High Assay Low Enriched Uranium (HALEU) fuel program. This initiative is designed to establish the UK as a leading global supplier of advanced nuclear fuel, attract Advanced Modular Reactor (AMR) vendors, and enable end-to-end fuel manufacturing domestically. This investment aims to secure the UK's nuclear fuel supply chain, reduce dependency on foreign, particularly Russian, sources, and bolster national energy security, providing a strategic advantage for future nuclear development.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2025-06-23",
+      "source_doc_id": "bb453dfa-b76e-58e6-82b2-fc8c8834786a",
+      "source_title": "Clean Energy Industries Sector Plan",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/clean-energy-industries-sector-plan",
+      "source_date": "2025-06-23"
+    },
+    {
+      "index": 10,
+      "title": "Life extensions for existing plants offer near-term capacity retention",
+      "description": "Despite the aging nuclear fleet, lifetime extensions have recently been confirmed at four out of five operating nuclear sites in the UK. While these extensions were too late to be included in some recent analytical models, they represent a crucial opportunity to retain existing capacity and bridge the gap until new large-scale and SMR projects come online. This mitigates the immediate impact of retiring plants and helps ensure stability in the UK's low-carbon electricity supply during the transition period.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2025-05-21",
+      "source_doc_id": "604f81a4-6c9a-55d1-b2af-e3cc118034f4",
+      "source_title": "Methodology report – UK, Northern Ireland, Wales, and Scotland carbon budget advice",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/methodology-report-uk-northern-ireland-wales-and-scotland-carbon-budget-advice",
+      "source_date": "2025-05-21"
+    },
+    {
+      "index": 11,
+      "title": "Successful skills programs at major projects create workforce pathways",
+      "description": "Initiatives like the Centres of Excellence at Hinkley Point C demonstrate that targeted investment in local skills development can successfully build a nuclear-qualified workforce. The Hinkley Point C program surpassed its target of hiring 1,000 apprentices ahead of schedule through strong cooperation with local colleges. Such successful models provide a blueprint for addressing critical skills shortages in the nuclear sector, creating tangible employment opportunities and ensuring workforce readiness for future large-scale projects and emerging SMR technologies across the UK.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2025-02-27",
+      "source_doc_id": "7d017be4-6051-524f-a610-0ba575c5a558",
+      "source_title": "Uplift in Demand, Shortfall in Supply: Can the UK Deliver on Its Infrastructure Investment Ambitions?",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/united-kingdom/centre-for-growth/insights/uplift-in-demand-shortfall-in-supply-can-the-uk-deliver-on-its-infrastructure-investment-ambitions",
+      "source_date": "2025-02-27"
+    },
+    {
+      "index": 12,
+      "title": "Government intervention secures strategic domestic forging capabilities",
+      "description": "The British government's acquisition of Sheffield Forgemasters in 2021 was a strategic intervention driven by security reasons. This action has ensured that the UK retains a unique domestic capability to provide complex castings and forgings essential for both civil nuclear power and defence applications. This move de-risks a critical component of the nuclear supply chain, reducing reliance on international sources and providing foundational support for future nuclear builds in the UK, fostering greater national self-sufficiency in key industrial inputs.",
+      "type": "structural_change",
+      "impact_magnitude": "low",
+      "time_horizon": "long",
+      "as_of_date": "2025-02-27",
+      "source_doc_id": "7d017be4-6051-524f-a610-0ba575c5a558",
+      "source_title": "Uplift in Demand, Shortfall in Supply: Can the UK Deliver on Its Infrastructure Investment Ambitions?",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/united-kingdom/centre-for-growth/insights/uplift-in-demand-shortfall-in-supply-can-the-uk-deliver-on-its-infrastructure-investment-ambitions",
+      "source_date": "2025-02-27"
+    },
+    {
+      "index": 13,
+      "title": "Digital integration complexity poses new project delivery challenges",
+      "description": "The increasing integration of digital elements in large nuclear infrastructure projects, including new sensors, connected devices, networks, and data platforms, introduces a novel layer of complexity. Systems integration is frequently a major bottleneck, as evidenced by large infrastructure projects where physical construction outpaces digital readiness. This demands significant investment in scarce digital skills and can lead to bottlenecks in the manufacturing process for digitally-enabled components, potentially causing delays and cost increases for nuclear builds.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2025-02-27",
+      "source_doc_id": "7d017be4-6051-524f-a610-0ba575c5a558",
+      "source_title": "Uplift in Demand, Shortfall in Supply: Can the UK Deliver on Its Infrastructure Investment Ambitions?",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/united-kingdom/centre-for-growth/insights/uplift-in-demand-shortfall-in-supply-can-the-uk-deliver-on-its-infrastructure-investment-ambitions",
+      "source_date": "2025-02-27"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Nuclear power is experiencing a renaissance driven by electricity demand and climate goals",
+      "description": "McKinsey states that nuclear power is undergoing a renaissance due to surging electricity demand from AI data centers and electrification, coupled with global efforts to reduce carbon emissions and enhance energy security. This renewed interest positions nuclear as a critical component of future energy systems, with global capacity projected to double or triple by midcentury. The emergence of Small Modular Reactors (SMRs) is expected to significantly reshape construction timelines and costs, fostering standardization and off-site manufacturing.",
+      "stance": "positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-06-30",
+      "source_doc_id": "2ef8b14b-ee2f-5d11-b587-3e73254db23b",
+      "source_title": "Nuclear power: A renaissance in the making",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making"
+    },
+    {
+      "index": 2,
+      "title": "Rising nuclear investment faces persistent project delivery challenges globally",
+      "description": "Bain & Company highlights a paradox in the nuclear sector: while investment interest is growing, projects consistently face delivery challenges, with few completed on time or within budget. The firm attributes this to systemic issues in program design rather than technology feasibility. Success hinges on a repeatable formula encompassing proven design, a programmatic approach, industrialized delivery, strong owner leadership, and stakeholder alignment. The challenge for new projects, including in the UK, is to embed these elements effectively from the outset.",
+      "stance": "cautious_positive",
+      "source_firm": "bain",
+      "source_date": "2026-06-01",
+      "source_doc_id": "61681d54-88dc-5308-8a5e-fba3c5428922",
+      "source_title": "Nuclear and Megaproject Delivery: Five Elements That Predict Success",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/nuclear-and-megaproject-delivery-five-elements-that-predict-success"
+    },
+    {
+      "index": 3,
+      "title": "General investor interest in nuclear is niche, but SMRs attract specialists",
+      "description": "Deloitte UK's survey indicates that while investors are keen on various energy transition technologies, conventional nuclear power is considered a more niche area, attracting specialist investors rather than broad market interest. However, Small Modular Reactors (SMRs) are specifically noted as a technology with the potential to draw committed specialist investors. This suggests a bifurcated investment landscape for nuclear in the UK, with SMRs representing a more attractive, albeit specialized, opportunity.",
+      "stance": "cautious_negative",
+      "source_firm": "deloitte_uk",
+      "source_date": "2026-03-04",
+      "source_doc_id": "1ee065e0-cfbe-53bb-b485-813fa96d168a",
+      "source_title": "Financing the UK energy transition",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/energy/perspectives/financing-the-uk-energy-transition.html"
+    },
+    {
+      "index": 4,
+      "title": "UK government commits to civil nuclear revival and SMR leadership",
+      "description": "The UK government, through its Clean Energy Industries Sector Plan, affirms its commitment to a significant revival of the civil nuclear sector, emphasizing investments in large-scale projects like Hinkley Point C and Sizewell C. Critically, it aims for the UK to lead in emerging Small Modular Reactor (SMR) and Advanced Modular Reactor (AMR) technologies, recognizing their potential for factory-based manufacturing and skilled job creation. This proactive stance includes substantial public funding and strategic support to rebuild domestic supply chains and skills.",
+      "stance": "positive",
+      "source_firm": "govuk_is",
+      "source_date": "2025-06-23",
+      "source_doc_id": "bb453dfa-b76e-58e6-82b2-fc8c8834786a",
+      "source_title": "Clean Energy Industries Sector Plan",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/clean-energy-industries-sector-plan"
+    },
+    {
+      "index": 5,
+      "title": "New nuclear projects are vital for UK infrastructure despite delivery challenges",
+      "description": "BCG Global views the construction of new nuclear power plants, specifically Hinkley Point C and Sizewell C, as important and worthwhile projects delivering net positive impacts for the UK. However, the report acknowledges inherent delivery challenges within their supply chains. Despite these complexities, the overall assessment is that these projects are critical for the UK's infrastructure ambitions, contributing to significant capital investment and regional economic activity, particularly in the East of England and Somerset.",
+      "stance": "positive",
+      "source_firm": "bcg_global",
+      "source_date": "2025-02-27",
+      "source_doc_id": "7d017be4-6051-524f-a610-0ba575c5a558",
+      "source_title": "Uplift in Demand, Shortfall in Supply: Can the UK Deliver on Its Infrastructure Investment Ambitions?",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/united-kingdom/centre-for-growth/insights/uplift-in-demand-shortfall-in-supply-can-the-uk-deliver-on-its-infrastructure-investment-ambitions"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 24.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2050,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2024-2050",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "UK Net Zero Targets",
+          "description": "The ambitious target of quadrupling nuclear capacity to 24 GW by 2050 is a direct response to the UK's net-zero objectives, requiring a substantial increase in low-carbon electricity generation."
+        },
+        {
+          "driver": "Electricity Demand Growth",
+          "description": "The forecast capacity aims to meet a quarter of the UK's electricity demand in 2050, implying significant growth in overall electricity consumption due to electrification of transport, buildings, and industry."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The UK government has set an ambitious target to quadruple its nuclear capacity from 6 GW to 24 GW by 2050, aiming to supply a quarter of the nation's electricity. This forecast implies significant future deployment beyond current operational capacity and projects under construction.",
+      "source_firm": "deloitte_uk",
+      "source_date": "2026-06-30",
+      "data_confidence": "high",
+      "source_doc_id": "6c21b4ea-6c8c-5b82-b172-a7f45f0ac7fc",
+      "source_title": "UK energy transition journey",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/energy/analysis/uk-energy-transition.html"
+    },
+    {
+      "index": 2,
+      "tam_value": 120000.0,
+      "tam_unit": "units",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2024-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Civil Nuclear Programme Revival",
+          "description": "The significant investment in and revival of the UK's civil nuclear programme, including new build projects and SMR/AMR development, directly drives the demand for a larger workforce."
+        },
+        {
+          "driver": "New Technologies (SMRs/AMRs)",
+          "description": "The expansion into Small Modular Reactors (SMRs) and Advanced Modular Reactors (AMRs) creates new R&D, manufacturing, and logistical opportunities requiring specialized skills and a larger workforce."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Industry forecasts estimate the civil and defence nuclear sector workforce in Great Britain could need around 120,000 employees by the early 2030s, up from an estimated 96,000 jobs in 2024. This projection reflects anticipated growth and demand for skilled labor across the nuclear lifecycle.",
+      "source_firm": "govuk_is",
+      "source_date": "2025-06-23",
+      "data_confidence": "medium",
+      "source_doc_id": "bb453dfa-b76e-58e6-82b2-fc8c8834786a",
+      "source_title": "Clean Energy Industries Sector Plan",
+      "source_publisher": "govuk_is",
+      "source_url": "https://www.gov.uk/government/publications/clean-energy-industries-sector-plan"
+    },
+    {
+      "index": 3,
+      "tam_value": 11.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2050,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2025-2050",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Zero-Carbon Baseload Generation",
+          "description": "Nuclear's ability to provide valuable, zero-carbon baseload power at scale makes it an essential component for achieving a clean and reliable generation mix to meet growing demand."
+        },
+        {
+          "driver": "Replacement of Retiring Fleet",
+          "description": "A substantial portion of the existing 6 GW nuclear fleet is expected to retire by the early 2030s, necessitating new capacity additions to maintain and grow nuclear's contribution."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Learning Effect for Cost Reduction",
+          "description": "A 20% learning effect for cost reduction in nuclear capacity beyond Hinkley Point C is factored in, suggesting that subsequent projects may become more economical as experience and standardization increase."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "The Balanced Pathway for UK electricity supply forecasts 11 GW of nuclear capacity by 2050, aligning with publicly available cost data and incorporating a 20% learning effect for cost reduction in future nuclear capacity beyond Hinkley Point C. This represents a significant contribution to the decarbonized electricity mix.",
+      "source_firm": "ccc",
+      "source_date": "2025-05-21",
+      "data_confidence": "high",
+      "source_doc_id": "604f81a4-6c9a-55d1-b2af-e3cc118034f4",
+      "source_title": "Methodology report – UK, Northern Ireland, Wales, and Scotland carbon budget advice",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/methodology-report-uk-northern-ireland-wales-and-scotland-carbon-budget-advice"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Flexibility and Fit for Regional Grids",
+          "description": "SMRs' smaller size and modular nature allow them to fit into regional grids or industrial hubs where larger reactors would not be viable, expanding potential deployment locations."
+        },
+        {
+          "driver": "Standardization and Manufacturing",
+          "description": "The ability to achieve more standardization, off-site manufacturing, and serial production for SMRs is expected to reshape construction timelines and costs, making them more attractive for rapid deployment."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "SMRs represent a significant new opportunity due to their potential for standardized, factory-based construction, serial production, and adaptability to diverse grid requirements, making them more attractive for investment and faster deployment.",
+          "opportunity": "SMR Deployment and Manufacturing"
+        }
+      ],
+      "methodology": "The Neso Pathways to Net Zero 2025 report indicates that Small Modular Reactors (SMRs) are projected to constitute 39-59% of the installed nuclear capacity in the UK's future energy pathways. This highlights a significant anticipated penetration of SMRs into the overall nuclear generation mix, moving beyond traditional large-scale reactors.",
+      "source_firm": "neso",
+      "source_date": "2025-07-11",
+      "data_confidence": "high",
+      "source_doc_id": "62bf929e-5e86-5856-9e04-74abb8bf776a",
+      "source_title": "FES: NESO Pathways to Net Zero 2025",
+      "source_publisher": "neso",
+      "source_url": "https://www.neso.energy/document/364541/download"
+    }
+  ],
+  "sources": [
+    "mckinsey",
+    "bain",
+    "deloitte_uk",
+    "govuk_is",
+    "bcg_global",
+    "ccc",
+    "neso"
+  ],
+  "documents": [
+    {
+      "doc_id": "2ef8b14b-ee2f-5d11-b587-3e73254db23b",
+      "title": "Nuclear power: A renaissance in the making",
+      "publisher": "mckinsey",
+      "date": "2026-06-30",
+      "url": "https://www.mckinsey.com/mgi/our-research/nuclear-power-a-renaissance-in-the-making"
+    },
+    {
+      "doc_id": "61681d54-88dc-5308-8a5e-fba3c5428922",
+      "title": "Nuclear and Megaproject Delivery: Five Elements That Predict Success",
+      "publisher": "bain",
+      "date": "2026-06-01",
+      "url": "https://www.bain.com/insights/nuclear-and-megaproject-delivery-five-elements-that-predict-success"
+    },
+    {
+      "doc_id": "1ee065e0-cfbe-53bb-b485-813fa96d168a",
+      "title": "Financing the UK energy transition",
+      "publisher": "deloitte_uk",
+      "date": "2026-03-04",
+      "url": "https://www.deloitte.com/uk/en/Industries/energy/perspectives/financing-the-uk-energy-transition.html"
+    },
+    {
+      "doc_id": "bb453dfa-b76e-58e6-82b2-fc8c8834786a",
+      "title": "Clean Energy Industries Sector Plan",
+      "publisher": "govuk_is",
+      "date": "2025-06-23",
+      "url": "https://www.gov.uk/government/publications/clean-energy-industries-sector-plan"
+    },
+    {
+      "doc_id": "7d017be4-6051-524f-a610-0ba575c5a558",
+      "title": "Uplift in Demand, Shortfall in Supply: Can the UK Deliver on Its Infrastructure Investment Ambitions?",
+      "publisher": "bcg_global",
+      "date": "2025-02-27",
+      "url": "https://www.bcg.com/united-kingdom/centre-for-growth/insights/uplift-in-demand-shortfall-in-supply-can-the-uk-deliver-on-its-infrastructure-investment-ambitions"
+    },
+    {
+      "doc_id": "6c21b4ea-6c8c-5b82-b172-a7f45f0ac7fc",
+      "title": "UK energy transition journey",
+      "publisher": "deloitte_uk",
+      "date": "2026-06-30",
+      "url": "https://www.deloitte.com/uk/en/Industries/energy/analysis/uk-energy-transition.html"
+    },
+    {
+      "doc_id": "604f81a4-6c9a-55d1-b2af-e3cc118034f4",
+      "title": "Methodology report – UK, Northern Ireland, Wales, and Scotland carbon budget advice",
+      "publisher": "ccc",
+      "date": "2025-05-21",
+      "url": "https://www.theccc.org.uk/publication/methodology-report-uk-northern-ireland-wales-and-scotland-carbon-budget-advice"
+    },
+    {
+      "doc_id": "62bf929e-5e86-5856-9e04-74abb8bf776a",
+      "title": "FES: NESO Pathways to Net Zero 2025",
+      "publisher": "neso",
+      "date": "2025-07-11",
+      "url": "https://www.neso.energy/document/364541/download"
+    }
+  ]
+}

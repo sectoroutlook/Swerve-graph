@@ -1,0 +1,816 @@
+{
+  "geography": "IN",
+  "forces": [
+    {
+      "index": 1,
+      "title": "V2G functionality can integrate EVs as grid-interactive energy storage",
+      "description": "The maturing V2G standards and commercially viable bidirectional charging hardware accelerate investment, enabling EVs to act as energy storage assets for real-time load balancing and peak shaving. This integration with the grid could significantly expand the distributed energy storage capacity, making energy storage solutions more flexible and resilient by utilizing an existing asset base.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities",
+      "source_date": "2026-09-10"
+    },
+    {
+      "index": 2,
+      "title": "Hybrid inverters boost residential/commercial solar with integrated storage",
+      "description": "Residential and commercial solar PV systems increasingly incorporate hybrid inverters that integrate storage and enable bidirectional power flows. This supports self-consumption, backup power, and participation in distributed energy systems. The evolution of installation models towards modular and digitally enabled solutions allows inverters to offer enhanced functionalities in monitoring, safety, and grid interaction, driving further adoption of integrated energy storage solutions in the residential and commercial sectors.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities",
+      "source_date": "2026-09-10"
+    },
+    {
+      "index": 3,
+      "title": "Integrated software and services key for BESS recurring revenue",
+      "description": "The BESS power conversion market is evolving towards solutions that embed advanced software and services, such as grid-forming control and energy management systems, directly into hardware. This shift allows players to differentiate in high-complexity segments like data centers and BESS, moving beyond component supply to offering end-to-end solutions. For investors, this creates opportunities in companies that can generate recurring revenue streams from these software-driven capabilities, enhancing long-term value beyond initial hardware sales.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-10",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities",
+      "source_date": "2026-09-10"
+    },
+    {
+      "index": 4,
+      "title": "Accelerating DC generation/consumption drives hybrid grid adoption, benefiting storage",
+      "description": "The energy transition is simultaneously accelerating both DC generation (e.g., solar) and DC consumption (e.g., data centers, EVs), making a DC distribution layer increasingly self-reinforcing. This structural shift means that facilities like data centers, industrial plants, commercial buildings, and eventually households, will become DC systems connected to the AC grid via a single converter. This trend directly benefits energy storage by enabling more efficient, direct DC integration, reducing conversion losses and simplifying grid interaction.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case",
+      "source_date": "2026-09-09"
+    },
+    {
+      "index": 5,
+      "title": "DC-coupled batteries reduce industrial operating costs and peak demand",
+      "description": "For automation-intensive industrial plants, DC-coupled batteries contribute to approximately $0.5 million in annual operating expense savings. These savings are primarily driven by lower conversion losses and reduced peak-demand charges. The value is strongest in settings with high drive intensity, recuperation potential, and critical power-quality needs, such as automotive lines or paper manufacturing. This makes DC-coupled energy storage a compelling solution for industrial decarbonization and efficiency, improving profitability from day one, especially for greenfield facilities.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case",
+      "source_date": "2026-09-09"
+    },
+    {
+      "index": 6,
+      "title": "DC-coupled batteries in commercial buildings reduce peak demand",
+      "description": "Commercial buildings can achieve significant annual operating expense savings by integrating DC-coupled batteries. These batteries help reduce peak demand charges and lower conversion losses across DC-native loads like LED lighting, IT, and climate control. This makes a hybrid DC design, consolidating large loads onto a shared DC backbone with a DC-coupled battery, an economical choice for new-build commercial facilities, as they become less expensive to build and operate.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case",
+      "source_date": "2026-09-09"
+    },
+    {
+      "index": 7,
+      "title": "EVs as home batteries via V2G poised to boost residential storage",
+      "description": "The advent of ISO 15118-20 compatible charging points for EVs, mandated from January 2027 in the EU, will enable bidirectional power flow, allowing EVs to function as home batteries. This is a significant upside for residential energy storage, as EVs offer 4-6 times the storage capacity of dedicated home batteries at a lower cost per usable kWh. Coupled with the rise of time-of-use tariffs, this will make residential DC homes more economical by reducing conversion stages for charging and discharging.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case",
+      "source_date": "2026-09-09"
+    },
+    {
+      "index": 8,
+      "title": "Rapid expansion of India's BESS tender pipeline creates strong demand signal",
+      "description": "India's BESS tender pipeline has experienced rapid growth, with project count increasing by approximately 190% from 2023 to 2025. This expansion across standalone, RTC, FDRE, and solar-plus-storage tenders signals a shift from pilot procurement to broad-based adoption. While a significant volume of capacity remains in pre-commissioning stages, this robust pipeline represents a strong demand signal and a foundational tailwind for future BESS deployment, provided execution challenges are successfully addressed.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects",
+      "source_date": "2026-08-07"
+    },
+    {
+      "index": 9,
+      "title": "Low conversion rate of BESS tenders limits near-term deployment",
+      "description": "Despite a sizable BESS tender pipeline of ~111 GWh, less than 1% has translated into operational capacity in India. Approximately 30% of tendered capacity has failed to progress due to cancellations, delays, or lack of Power Supply Agreements (PSAs), with 70% remaining in pre-commissioning stages. This low conversion rate highlights that near-term deployment is significantly constrained by execution risks, including PSA closure, securing financing, and timely commissioning, posing a major bottleneck to realizing India's BESS potential.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects",
+      "source_date": "2026-08-07"
+    },
+    {
+      "index": 10,
+      "title": "Declining Li-ion battery prices improve BESS project economics",
+      "description": "Sharp corrections in battery raw material prices, particularly lithium, have led to an approximately 35% decline in Li-ion pack prices, which are expected to stabilize at lower levels. This significant cost reduction improves tariff viability and facilitates financial closure for BESS projects. However, the ultimate bankability of projects still depends on factors such as procurement timing, Forex exchange exposure, and accurate lifecycle cost assumptions, meaning the current favorable cost environment is a critical 'deployment window' that projects must capitalize on.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects",
+      "source_date": "2026-08-07"
+    },
+    {
+      "index": 11,
+      "title": "Upstream localization critical for India's BESS cost competitiveness",
+      "description": "With 60-70% of battery costs tied to materials, India's long-term BESS competitiveness and reduced import dependence hinge on strengthening upstream localization. This includes developing capabilities in cathode, anode, electrolyte, foils, and recycling. Early investments are already occurring in areas like LFP chemistries, graphite anodes, and battery-grade aluminum foil. Scaling these investments into qualified, cost-competitive supplies is crucial to support downstream manufacturing and grid-scale BESS deployment, ensuring durable competitiveness beyond just cell-to-pack assembly.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects",
+      "source_date": "2026-08-07"
+    },
+    {
+      "index": 12,
+      "title": "Acute upstream gaps hinder India's long-term BESS competitiveness",
+      "description": "India's BESS value chain faces acute gaps in critical minerals, battery-grade refining, cathode and anode active materials, and electrolyte salts. These areas are characterized by high supply, technology, and investment constraints, posing a significant headwind to India's long-term BESS competitiveness and import dependence reduction goals. Addressing these gaps requires targeted policy support focusing on mineral security, processing infrastructure, qualification labs, technology partnerships, and duty rationalization to build a robust domestic supply chain.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects",
+      "source_date": "2026-08-07"
+    },
+    {
+      "index": 13,
+      "title": "Evolving BESS policy framework supports procurement and grid integration",
+      "description": "India's BESS regulatory landscape is rapidly evolving, with central agencies establishing a foundational framework through Ministry of Power guidelines, National Framework for Energy Storage Systems, Energy Storage Obligations, and CEA clarifications on co-located storage. These policies recognize BESS as a critical grid resource, clarifying its role in supporting renewable integration, grid reliability, and ancillary services. This robust policy foundation is a significant tailwind, facilitating the procurement and deployment of energy storage systems across the country.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects",
+      "source_date": "2026-08-07"
+    },
+    {
+      "index": 14,
+      "title": "Policy shifts towards BESS project bankability and localization",
+      "description": "India's BESS policy framework is advancing beyond demand creation to focus on project bankability and localization. Recent interventions, including VGF support, ISTS waivers, domestic EMS, local content requirements, and CERC tariff recognition, aim to improve project economics and enable regulated cost recovery. State-level frameworks further clarify deployment pathways. This comprehensive policy support acts as a tailwind, designed to accelerate financial closure and commissioning of BESS capacity.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects",
+      "source_date": "2026-08-07"
+    },
+    {
+      "index": 15,
+      "title": "BESS tariffs rebound, signaling shift towards bankable pricing",
+      "description": "Standalone BESS tariffs in India have seen a sharp decline of ~85% over three years, hitting sub-INR2 lakh/MW/month lows, driven by falling battery costs, VGF support, and intense competition. However, recent tariff rebounds, despite stable battery prices, suggest that earlier bids may have been unsustainable due to underpriced lifecycle costs (financing, degradation, augmentation, execution risks). This trend indicates a transition from initial, aggressive tariff discovery to a more bankable pricing phase, where realistic lifecycle costs are better reflected.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects",
+      "source_date": "2026-08-07"
+    },
+    {
+      "index": 16,
+      "title": "BSRs offering firm power reduce intermittency, potentially impacting storage",
+      "description": "Bharat Small Reactors (BSRs) provide high-reliability, 24x7 firm power with zero operational emissions, suitable for industrial electrification and co-located power near demand centers. By avoiding the intermittency challenges of renewables, BSRs can reduce the need for certain types of energy storage solutions, particularly those designed for firming intermittent renewable generation. While their LCOE might be higher than standalone solar or wind, their ability to provide consistent baseload power could alter the demand profile for grid-scale storage, shifting it towards other grid services.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-07-14",
+      "source_doc_id": "00900df2-fa72-56bf-83d6-196d2c7c2d9d",
+      "source_title": "How India’s nuclear ambition can power the next global clean energy push",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/how-indias-nuclear-ambition-can-power-the-next-global-clean-energy-push",
+      "source_date": "2026-07-14"
+    },
+    {
+      "index": 17,
+      "title": "Increased MNRE budget allocation boosts energy storage support",
+      "description": "The Union Budget 2026-27's significant increase in Ministry of New and Renewable Energy (MNRE) allocation to Rs. 44,614.67 crore (US$ 5.05 billion), a 40.52% rise, directly enhances support for energy storage and domestic manufacturing. This dedicated funding, part of India's broader renewable energy push and target of 50% cumulative electric power from renewables by 2030, provides a substantial tailwind for the Energy Storage sub-industry, driving capacity expansion and fostering localization.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 18,
+      "title": "India's massive power infrastructure plan to integrate renewables",
+      "description": "India's ambitious power infrastructure expansion plan, totaling Rs. 9,22,866 crore (US$ 109.50 billion), aims to meet 458 GW demand by FY32 and enhance transmission. Crucially, a core objective is to integrate renewable energy sources. This massive investment creates a significant tailwind for energy storage, as grid-scale and other storage solutions are essential for managing the intermittency of integrated renewables, ensuring grid stability, and boosting overall energy security.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 19,
+      "title": "National Electricity Plan boosting transmission infrastructure for renewables",
+      "description": "India's National Electricity Plan (Transmission) aims to significantly boost interregional capacity to 168 GW by 2031-32, involving vast additions of transmission lines and transformation capacity. This includes 33.25 GW of HVDC links and increased private sector participation to enhance grid efficiency. Such extensive transmission infrastructure development is a strong tailwind for energy storage, as it improves the ability to evacuate power from renewable-rich regions and efficiently integrate storage for grid stability and balancing across the national grid.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 20,
+      "title": "Private investment in pumped hydro and hybrid renewable projects",
+      "description": "ReNew Energy is planning to invest Rs. 82,000 crore (US$ 9.33 billion) in Andhra Pradesh, including 5 GW of hybrid renewable projects and pumped hydro facilities. This substantial private sector investment directly supports the expansion of energy storage capacity, particularly pumped hydro, which is a key component of IN010306. This commitment enhances the financial pipeline and accelerates the deployment of critical grid-balancing solutions needed for India's clean energy transition.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 21,
+      "title": "Draft National Electricity Policy emphasizes energy storage deployment",
+      "description": "The Ministry of Power's Draft National Electricity Policy (NEP) 2026 explicitly emphasizes the deployment of energy storage systems, alongside large-scale renewable energy integration and grid modernization. This policy framework, aiming to transform India's power sector and ensure reliable, affordable supply by 2047, provides a robust tailwind for the Energy Storage sub-industry. It signals clear government intent to support and accelerate the implementation of storage solutions as a cornerstone of the future electricity grid.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy",
+      "source_date": "2026-05-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "BESS market faces intense price pressure, focusing on total cost of ownership",
+      "description": "A survey of industry participants in Europe and the US identified total cost of ownership as the most relevant purchasing criterion for both solar PV and battery energy storage systems (BESS) inverters. This indicates significant price pressure within the market, which is contributing to market contraction in some segments. Manufacturers and developers must focus on cost optimization and lifecycle economics to remain competitive and deliver bankable projects in a price-sensitive environment.",
+      "stance": "cautious_negative",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-10",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities"
+    },
+    {
+      "index": 2,
+      "title": "Hybrid AC/DC architecture critical for efficient DC-native energy storage integration",
+      "description": "The world's energy system is rewiring towards a hybrid AC/DC architecture, driven by natively DC energy sources like solar PV and loads like data centers and EVs. Batteries, which inherently store DC, benefit significantly from this shift by reducing conversion losses. For large commercial buildings, DC backbones efficiently integrate major loads including energy storage, improving overall system efficiency. This transition is becoming a necessity for managing power density and grid connection constraints.",
+      "stance": "positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case"
+    },
+    {
+      "index": 3,
+      "title": "Hybrid DC homes are a longer-term market, preceded by high-density commercial applications",
+      "description": "While hybrid DC architecture offers global value through lower conversion losses and more efficient battery integration, its adoption will be phased. Data centers and automation-intensive industrial plants are at the forefront due to high power density and native DC loads. Large commercial buildings follow, as DC integration can yield significant economic benefits. The hybrid DC home, despite its potential, remains a longer-term market, suggesting that mass consumer adoption is not a near-term driver for hybrid energy storage solutions.",
+      "stance": "cautious_positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case"
+    },
+    {
+      "index": 4,
+      "title": "Suppliers must offer integrated, software-driven solutions to lead hybrid power transition",
+      "description": "To establish early leadership in the hybrid power transition, suppliers must reinvent the power-conversion stack by building integrated portfolios. This includes offering battery-integrated DC buses, real-time energy-management software, and grid-forming capabilities, transitioning from component suppliers to systems integrators. Building recurring service revenue through multiyear contracts, treating hybrid architecture as an energy transition enabler, and securing early proof points in data centers and industrial plants are essential for shaping customer expectations and market economics.",
+      "stance": "positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case"
+    },
+    {
+      "index": 5,
+      "title": "Operators must align capital cycles with hybrid DC to avoid costly retrofits",
+      "description": "Data center, plant, and building operators must proactively align their capital cycles with the hybrid AC/DC transition. Facilities designed between 2027 and 2030 will operate for decades, making it crucial to avoid locking into AC architectures that may necessitate expensive retrofitting as power densities, standards, and regulatory requirements evolve. Operators should view DC as strategic infrastructure for capacity, resilience, and decarbonization, making investment decisions based on portfolio-wide and system-level value rather than individual project payback, to shape the transition rather than inherit it.",
+      "stance": "positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case"
+    },
+    {
+      "index": 6,
+      "title": "India's BESS market shifting from policy-led procurement to bankable execution",
+      "description": "India's BESS market has transitioned from early experimentation (2015-2021) to policy-backed procurement, driven by the National Electricity Plan's 236.22 GWh target by FY2032, VGF-backed tenders, and falling battery costs. The post-2026 phase is crucial, as the market's focus is now squarely on bankable execution, where project viability, supply readiness, and lifecycle economics will determine actual deployment. This requires moving beyond merely issuing tenders to ensuring projects can secure financing and be commissioned effectively.",
+      "stance": "cautious_positive",
+      "source_firm": "ey",
+      "source_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects"
+    },
+    {
+      "index": 7,
+      "title": "BESS project viability depends on optimized system design and lifecycle economics",
+      "description": "With India's BESS market shifting to execution, project viability is increasingly tied to system design and configuration, impacting capital cost, performance, safety, and long-term bankability. The DC package is the primary cost driver, determining usable energy and degradation. The AC package dictates conversion efficiency and grid readiness, affecting revenue. Control and safety systems ensure operational consistency and risk management. Evaluating these components for lifecycle economics is critical for tariff discovery, bid competitiveness, and attracting investment.",
+      "stance": "neutral",
+      "source_firm": "ey",
+      "source_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects"
+    },
+    {
+      "index": 8,
+      "title": "India's domestic BESS supply poised for institutional-scale manufacturing shift",
+      "description": "India's BESS supply ecosystem is rapidly scaling, with announced cell-to-pack capacity expected to reach 80-85 GWh by 2030 (130% CAGR), transitioning from limited assembly to multi-GWh manufacturing. Large players like Reliance New Energy, Exide, Amara Raja, and Agratas are driving institutional-scale participation and integrated offerings. This strengthens the foundation for domestic supply, though successful execution depends on timely commissioning, technology partnerships, quality certification, and localization of critical components to support grid-scale projects effectively.",
+      "stance": "positive",
+      "source_firm": "ey",
+      "source_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects"
+    },
+    {
+      "index": 9,
+      "title": "India risks BESS import dependence without deep value chain localization",
+      "description": "While India is developing cell-to-pack capacity, it faces the risk of building downstream assembly without achieving true self-reliance. Critical bottlenecks persist in midstream and enabling segments like separator films and manufacturing equipment, due to technology and supply concentration. Without targeted interventions in materials, components, equipment, and recycling, India risks remaining dependent on imported inputs for strategically sensitive parts of the battery value chain. This calls for concerted efforts to deepen localization beyond just assembly.",
+      "stance": "cautious_negative",
+      "source_firm": "ey",
+      "source_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects"
+    },
+    {
+      "index": 10,
+      "title": "Policy consistency crucial for BESS financial closure and commissioned capacity",
+      "description": "While India’s BESS regulatory framework is broadening and becoming more implementation-focused with new bankability measures, ensuring consistency across central and state-level policies is critical. Developers and lenders require clearer visibility on tariffs, incentives, safety compliance, local content rules, and approvals. Without this consistency, regulatory momentum may not translate into faster financial closure and commissioned BESS capacity, posing a significant challenge to the sector’s growth despite supportive policies.",
+      "stance": "cautious_negative",
+      "source_firm": "ey",
+      "source_date": "2026-08-07",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects"
+    },
+    {
+      "index": 11,
+      "title": "Nuclear energy complements renewables, impacting energy storage role",
+      "description": "India's nuclear energy is re-emerging as a strategic pillar to complement the country's expanding renewable portfolio. Nuclear offers firm, low-carbon baseload power, providing dependable, round-the-clock energy at scale. While primarily focused on generation, this development implies a changing role for energy storage systems within the grid. With a stable baseload, storage may be optimized more for short-duration ancillary services or specific grid-balancing needs rather than large-scale, long-duration firming of renewables, potentially influencing procurement and policy for storage.",
+      "stance": "neutral",
+      "source_firm": "ey",
+      "source_date": "2026-07-14",
+      "source_doc_id": "00900df2-fa72-56bf-83d6-196d2c7c2d9d",
+      "source_title": "How India’s nuclear ambition can power the next global clean energy push",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/how-indias-nuclear-ambition-can-power-the-next-global-clean-energy-push"
+    },
+    {
+      "index": 12,
+      "title": "Residential storage future relies on V2G-enabled EVs and time-of-use tariffs",
+      "description": "The future of residential energy storage is significantly shaped by the advent of V2G-enabled electric vehicles and the increasing prevalence of time-of-use tariffs. With regulatory support (e.g., EU's ISO 15118-20 mandate from 2027), EVs can act as large-capacity, lower-cost home batteries. This reduces conversion stages for charging/discharging and boosts economic viability for hybrid DC homes. While not a near-term market driver alone, these systemic shifts make residential DC storage a policy-relevant lever with substantial long-term carbon reduction benefits.",
+      "stance": "positive",
+      "source_firm": "bcg_global",
+      "source_date": "2026-09-09",
+      "source_doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "source_title": "The Strategic Case for Hybrid AC/DC Power",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 95.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 7.0,
+      "forecast_cagr_period": "2024 to 2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Global electrification trends",
+          "description": "As global mobility, industry, and building systems electrify, demand for efficient, reliable power conversion technologies is rapidly increasing."
+        },
+        {
+          "driver": "Renewable energy integration and energy storage",
+          "description": "Power conversion technologies are essential for integrating renewable-energy sources into the grid and ensuring efficient energy storage."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "The global market for power conversion technologies is projected to reach about $95 billion in 2030 with a CAGR of 7 percent from 2024 to 2030. These technologies are essential for integrating renewable-energy sources into the grid, ensuring efficient energy storage and motor usage, and maintaining uninterrupted power supply.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-10",
+      "data_confidence": "high",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities"
+    },
+    {
+      "index": 2,
+      "tam_value": 12.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 18.0,
+      "forecast_cagr_period": "2024 to 2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Renewable energy integration",
+          "description": "As intermittent power sources (such as solar and wind) take up a larger share of the energy supply, greater energy-storage capacity can help regions address the increased need for grid stability, improved capacity utilization, flexible dispatch, and monetization of hybrid assets."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "OEMs are developing novel inverters that embed advanced control, energy management systems, and grid-forming capabilities to enable further use cases such as energy trading and virtual power-plant networks.",
+          "opportunity": "Advanced inverters with energy management and grid-forming capabilities"
+        }
+      ],
+      "methodology": "The global BESS power conversion equipment market is expected to triple by 2030 (18 percent CAGR from 2024 to 2030), reaching approximately $12 billion as all major regions deploy utility-scale, grid-connected storage. BESS technology converts DC power from batteries into AC power (and vice versa).",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-10",
+      "data_confidence": "high",
+      "source_doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "source_title": "The power conversion market: Decarbonization and growth opportunities",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2032,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Grid stability and renewable integration",
+          "description": "Energy storage was embedded into system planning to support renewable integration, grid reliability and ancillary services in India's electricity grid."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Identified as a requirement by the CEA’s National Electricity Plan (NEP) for FY2032. Also states 47.24 GW requirement. Energy storage was embedded into system planning through the CEA’s National Electricity Plan (NEP).",
+      "source_firm": "ey",
+      "source_date": "2026-08-07",
+      "data_confidence": "high",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects"
+    },
+    {
+      "index": 4,
+      "tam_value": 47.24,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2032,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Grid stability and renewable integration",
+          "description": "Energy storage was embedded into system planning to support renewable integration, grid reliability and ancillary services in India's electricity grid."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Identified as a requirement by the CEA’s National Electricity Plan (NEP) for FY2032. Also states 236.22 GWh requirement. Energy storage was embedded into system planning through the CEA’s National Electricity Plan (NEP).",
+      "source_firm": "ey",
+      "source_date": "2026-08-07",
+      "data_confidence": "high",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects"
+    },
+    {
+      "index": 5,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2032,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Grid-scale procurement mandates",
+          "description": "FTM BESS deployment is primarily driven by India’s storage requirement outlined in the NEP target of 236 GWh by FY2032, reflected in scaling standalone, RTC, FDRE, and solar-plus-storage tenders."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The future deployment rate hinges on execution outcomes, including financing closure and commissioning of awarded projects, rather than just demand. Capacity is expected to ramp up meaningfully from 2027.",
+          "opportunity": "Conversion of tender pipeline into operational assets"
+        }
+      ],
+      "methodology": "Three trajectories (optimistic, business-as-usual, pessimistic) evaluated based on conversion of existing tender pipeline into operational assets. Optimistic case broadly aligns with NEP target of 236 GWh. Near-term deployment expected to ramp up meaningfully from 2027.",
+      "source_firm": "ey",
+      "source_date": "2026-08-07",
+      "data_confidence": "high",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects"
+    },
+    {
+      "index": 6,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Customer-driven adoption for power quality, cost optimization, and resilience",
+          "description": "BTM demand is shifting from reliability-led backup to broader customer adoption, expanding into cost optimization and energy management, supported by falling battery costs and evolving tariff structures."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Falling battery costs",
+          "description": "Decline in battery costs improves the economics of solar-plus-storage, supporting wider adoption beyond traditional backup use cases."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "As battery costs decline and solar-plus-storage economics improve, opportunities for users to move beyond simple backup systems towards integrated energy solutions for cost optimization and energy management will expand.",
+          "opportunity": "Integrated energy solutions beyond backup"
+        }
+      ],
+      "methodology": "Three trajectories (optimistic, business-as-usual, pessimistic) evaluated based on rates of customer uptake and use-case expansion across C&I users, data centers, telecom, UPS, and rooftop solar. Capacity expected to scale steadily with limited divergence across scenarios, indicating resilience but dependence on adoption pace rather than execution risk. ",
+      "source_firm": "ey",
+      "source_date": "2026-08-07",
+      "data_confidence": "high",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects"
+    },
+    {
+      "index": 7,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 130.0,
+      "forecast_cagr_period": "negligible base to 2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Domestic BESS deployment ramp-up",
+          "description": "The scaling of domestic cell-to-pack manufacturing capacity is a direct response to the expected demand ramp-up for BESS projects in India, aiming to ensure timely, bankable, and cost-competitive supply."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Large industrial and energy players (Reliance New Energy, Exide, Amara Raja, Agratas) are entering with integrated offerings across battery packs, BMS, and containerized systems, strengthening the foundation for domestic supply and bankable solutions for grid-scale projects.",
+          "opportunity": "Institutional-scale battery manufacturing platforms"
+        }
+      ],
+      "methodology": "Announced cell-to-pack capacity is projected to reach 80-85 GWh by 2030 with a ~130% CAGR, signalling a shift from limited assembly to multi-GWh manufacturing platforms. This capacity is focused on stationary battery energy storage (BESS) only, excluding EV battery manufacturing.",
+      "source_firm": "ey",
+      "source_date": "2026-08-07",
+      "data_confidence": "high",
+      "source_doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "source_title": "Why India's BESS growth story depends on delivering bankable projects",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects"
+    },
+    {
+      "index": 8,
+      "tam_value": 10.0,
+      "tam_unit": "GW",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Rapid growth in data center demand",
+          "description": "India's data center demand is one of the country's fastest-growing and most reliability-sensitive power loads, creating a strong need for firm, low-carbon 24x7 power."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "India’s data center demand is expected to scale from 1.3 GW-1.5 GW today to as much as 8 GW-10 GW by 2030, based on projections in industrial decarbonization context.",
+      "source_firm": "ey",
+      "source_date": "2026-07-14",
+      "data_confidence": "high",
+      "source_doc_id": "00900df2-fa72-56bf-83d6-196d2c7c2d9d",
+      "source_title": "How India’s nuclear ambition can power the next global clean energy push",
+      "source_publisher": "ey",
+      "source_url": "https://www.ey.com/en_in/insights/energy-resources/how-indias-nuclear-ambition-can-power-the-next-global-clean-energy-push"
+    },
+    {
+      "index": 9,
+      "tam_value": 170.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "India's 500 GW renewable energy target by 2030",
+          "description": "Achieving the ambitious target of 500 GW of renewable energy capacity by 2030 necessitates substantial investment in supporting infrastructure, including energy storage, for grid stability and reliability."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Moody's projects India will require US$ 150-170 billion of investment for electricity transmission, distribution, and energy storage between 2023 and 2030 to achieve its target of 500 GW of renewable energy capacity by 2030.",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 10,
+      "tam_value": 55000.0,
+      "tam_unit": "MW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "State-level renewable energy growth targets",
+          "description": "Maharashtra's aggressive solar energy growth targets necessitate massive pumped hydro storage to balance intermittency and ensure grid stability."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Maharashtra state is boosting solar pump storage capacity to 55,000 MW as part of its accelerated solar energy growth plan, alongside approving 20,000 MW of solar projects in 2.5 years.",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    },
+    {
+      "index": 11,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Renewable energy integration in remote regions",
+          "description": "The proposed BESS in Ladakh is part of a larger renewable energy project, demonstrating the need for storage to integrate RE capacity in regions like Ladakh."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "MNRE has proposed the establishment of a 12,000 MWh Battery Energy Storage System (BESS) in Ladakh, alongside a 13,000 MW renewable energy (RE) capacity. The Environmental and Social Impact Assessment (ESIA) and Detailed Project Report (DPR) have been completed as of 2026.",
+      "source_firm": "ibef",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "source_title": "Renewable Energy Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/renewable-energy"
+    }
+  ],
+  "sources": [
+    "mckinsey",
+    "bcg_global",
+    "ey",
+    "ibef"
+  ],
+  "documents": [
+    {
+      "doc_id": "c4b4cfa8-74f8-5e89-abb4-87ebda974cc7",
+      "title": "The power conversion market: Decarbonization and growth opportunities",
+      "publisher": "mckinsey",
+      "date": "2026-09-10",
+      "url": "https://www.mckinsey.com/industries/industrials/our-insights/the-power-conversion-market-decarbonization-and-growth-opportunities"
+    },
+    {
+      "doc_id": "b363dc56-c942-525f-b172-a4c58a3b7b5d",
+      "title": "The Strategic Case for Hybrid AC/DC Power",
+      "publisher": "bcg_global",
+      "date": "2026-09-09",
+      "url": "https://www.bcg.com/publications/2026/hybrid-ac-dc-power-business-case"
+    },
+    {
+      "doc_id": "21154f10-cc89-5a5b-91ed-1df8b5b97212",
+      "title": "Why India's BESS growth story depends on delivering bankable projects",
+      "publisher": "ey",
+      "date": "2026-08-07",
+      "url": "https://www.ey.com/en_in/insights/energy-resources/why-india-s-bess-growth-story-depends-on-delivering-bankable-projects"
+    },
+    {
+      "doc_id": "00900df2-fa72-56bf-83d6-196d2c7c2d9d",
+      "title": "How India’s nuclear ambition can power the next global clean energy push",
+      "publisher": "ey",
+      "date": "2026-07-14",
+      "url": "https://www.ey.com/en_in/insights/energy-resources/how-indias-nuclear-ambition-can-power-the-next-global-clean-energy-push"
+    },
+    {
+      "doc_id": "c30d46c3-c2a7-539c-8bbd-15e1fe548a92",
+      "title": "Renewable Energy Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/renewable-energy"
+    }
+  ]
+}

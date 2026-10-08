@@ -1,0 +1,612 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "UK Financial Services Diversifying Export Footprint Beyond Traditional Markets",
+      "description": "The UK's financial services exports are gradually diversifying beyond the dominant EU and US markets. Fast-growing regions like Asia-Pacific, China, Hong Kong, Singapore, and the GCC are gaining significance. This shift creates opportunities for Capital Markets firms to expand their global reach and client base, enhancing economic resilience but also requiring adaptation to new trade corridors and regulatory environments, particularly in investment banking and asset management.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-24",
+      "source_doc_id": "1205157c-d8a2-5fc4-9136-db463dbd805d",
+      "source_title": "Global financial services trade in transition",
+      "source_publisher": "thecityuk",
+      "source_url": "https://www.thecityuk.com/our-work/changing-landscape-for-global-financial-services-trade",
+      "source_date": "2026-09-24"
+    },
+    {
+      "index": 2,
+      "title": "Global Regulatory Fragmentation Increases Cross-Border Business Costs",
+      "description": "National supervisory frameworks are diverging, leading to geopolitical and regulatory fragmentation in global payment rails. This divergence raises questions of sovereign liability and increases the complexity and cost of cross-border financial services business. For UK Capital Markets firms, particularly those involved in international investment banking and market infrastructure, this means navigating higher compliance burdens and potentially more constrained operational models.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-25",
+      "source_doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "source_title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report",
+      "source_date": "2026-09-25"
+    },
+    {
+      "index": 3,
+      "title": "Non-Bank Financial Institutions Intensify Competition for Client Mandates",
+      "description": "Non-bank financial institutions (NBFIs), including fintechs, private credit firms, and direct institutional lenders, are becoming prominent alternatives for clients. Corporates are increasingly open to using non-bank financing, and financial sponsors are already actively using private credit for facilities. This poses a significant competitive threat to traditional investment banking and private equity firms (IN070402, IN070406) by capturing wallet share through structured flexibility, speed of execution, and willingness to provide leverage.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 4,
+      "title": "Rise of Non-Bank Market Makers Challenges Traditional Brokerages",
+      "description": "Non-bank market makers (NBMMs) are capturing a growing share (9-14%) of the wallet in commoditized flow products like cash equities and exchange-traded funds. Their advantage stems from technological sophistication, superior liquidity provision, and low-cost, high-speed execution. This intensified competition poses a headwind for traditional brokerages (IN070402) within Capital Markets, compelling them to differentiate services beyond execution or face margin compression.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 5,
+      "title": "Agentic AI Disruption Reshapes Client Engagement in Capital Markets",
+      "description": "Agentic AI is fundamentally changing how customers interact with financial services, making it easier to compare providers, switch products, and move money. For Capital Markets firms, particularly asset management and wealth (IN070401), this means traditional 'sticky' deposits are at risk as AI automatically sweeps idle cash to higher-yield accounts. Firms must rapidly adapt to become trusted AI interfaces, offer real-time yield optimization, and integrate AI into client advisory to retain relationships.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 6,
+      "title": "UK Savings Migration to Investments Drives Asset Management Growth",
+      "description": "An estimated £500 billion to £700 billion of mass and affluent savings in the UK is projected to migrate from deposits into investments over the next decade. This significant capital reallocation represents a substantial tailwind for Asset Management & Wealth firms (IN070401), offering a large organic growth opportunity. Firms that can effectively convert these deposit outflows into managed assets will capture a disproportionate share of the expanding wealth retail pool.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 7,
+      "title": "UK's Chronic Financial Advice Gap Creates Wealth Management Opportunity",
+      "description": "The UK faces a chronic financial advice gap, with only about 9% of adults receiving regulated advice annually, significantly lower than the US (33%). Banks and wealth managers currently capture less than a quarter of the wealth distribution pool. This substantial unmet need presents a clear upside driver for Asset Management & Wealth firms (IN070401) to expand their advisory services, particularly as savings migrate to investments and customers seek guidance.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 8,
+      "title": "High Volatility in Institutional Investor and Sponsor Wallet Allocation",
+      "description": "Institutional investors and financial sponsors exhibit high volatility in their banking wallet allocations, reallocating 17% and 25% respectively each year. This is driven by performance, risk appetite, and dynamic mandate shifting to maximize deal value. For Investment Banking & Brokerage (IN070402) and Private Equity & Venture Capital (IN070406) firms, this creates a key risk of losing mandates if they don't consistently offer competitive pricing, innovative ideas, and targeted niche capabilities or execution certainty.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "source_title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 9,
+      "title": "Intensifying Competition in UK Mid-Market Investment Banking",
+      "description": "Competition is intensifying in the UK mid-market segment as several domestic and global banks launch dedicated investment banking teams. This development creates a headwind for existing Investment Banking & Brokerage firms (IN070402) by pressuring incumbents to defend their mid-market corporate relationships. Firms must differentiate their offerings, combine financing with transaction services, and provide sector/corridor expertise to secure mandates and retain clients.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+      "source_date": "2026-09-16"
+    },
+    {
+      "index": 10,
+      "title": "Generational Wealth Transfer Poses Significant Earnings Risk for Wealth Managers",
+      "description": "The projected transfer of €2.4 trillion in European Personal Financial Assets (PFA) by 2030, largely from individuals over 75, represents a significant earnings risk for wealth managers. This generational shift can lead to 10-15% of pre-tax profits being at risk for midsize wealth managers due to asset outflows (taxes, consumption), changes in client relationships, and margin pressure from product mix shifts. UK Asset Management & Wealth firms (IN070401) must adapt their services for younger, diverse wealth holders.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-26",
+      "source_doc_id": "83937d95-272c-580e-afb9-2e31a16b4e4d",
+      "source_title": "Building profit resilience in European private banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/building-profit-resilience-in-european-private-banking",
+      "source_date": "2026-06-26"
+    },
+    {
+      "index": 11,
+      "title": "Europe's Diminished Wealth Creation Compared to Asia-Pacific",
+      "description": "Europe faces a more moderate personal financial asset (PFA) growth outlook (4.8% CAGR) compared to Asia-Pacific (7.7% CAGR) through 2030, making APAC the epicenter of new wealth creation. This structural disadvantage puts European (including UK) Asset Management & Wealth firms (IN070401) at a relative disadvantage, forcing them to generate more revenue from a relatively stagnant client pool and compete with offshore hubs closer to new wealth sources.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-26",
+      "source_doc_id": "83937d95-272c-580e-afb9-2e31a16b4e4d",
+      "source_title": "Building profit resilience in European private banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/building-profit-resilience-in-european-private-banking",
+      "source_date": "2026-06-26"
+    },
+    {
+      "index": 12,
+      "title": "Growing Client Comfort with AI Transforms Wealth Management Engagement",
+      "description": "A significant portion of high-net-worth and affluent clients in Western Europe are comfortable using AI for investment advice, price comparison, and personalized financial guidance. This growing acceptance represents a structural change, creating an upside driver for Asset Management & Wealth firms (IN070401). Firms that invest strategically in AI platforms to deliver timely, explainable, and personalized advice will gain a competitive advantage over those focused on basic AI use cases.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-26",
+      "source_doc_id": "83937d95-272c-580e-afb9-2e31a16b4e4d",
+      "source_title": "Building profit resilience in European private banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/building-profit-resilience-in-european-private-banking",
+      "source_date": "2026-06-26"
+    },
+    {
+      "index": 13,
+      "title": "Rising Private Equity Buyout Multiples Shrink Returns Margin",
+      "description": "Global buyout entry multiples reached a record average of 11.8 times EBITDA in 2025, with larger transactions exceeding 18.1 times EBITDA. These elevated prices, driven by deployment pressures and intense competition for assets, significantly shrink the margin for error for Private Equity & Venture Capital funds (IN070406). Paying such premiums, especially with less leverage, increases the risk of underperformance, underscoring the critical importance of purchase price discipline for generating returns.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-02",
+      "source_doc_id": "d10d81f6-7f13-50ae-b94e-f5118cb3eeb2",
+      "source_title": "Private equity confirms a timeless principle: Purchase price matters",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/private-capital/our-insights/private-equity-confirms-a-timeless-principle-purchase-price-matters",
+      "source_date": "2026-09-02"
+    },
+    {
+      "index": 14,
+      "title": "Untapped Demand in European Private Retirement Savings Market",
+      "description": "Europe faces a structural retirement savings crisis due to unsustainable public pension systems, creating a large and underserved market. With widespread anxiety about retirement but low awareness and adoption of private solutions, there is significant untapped demand. This presents an upside driver for Asset Management & Wealth firms (IN070401) to expand their offerings by engaging early, providing clear guidance, and repositioning as lifetime retirement partners.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-02",
+      "source_doc_id": "de1d41a0-6123-5e51-ac23-92907173820d",
+      "source_title": "Europe’s Retirement Crisis Is an Opportunity for Insurers and Asset Managers",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/europes-retirement-savings-gap",
+      "source_date": "2026-09-02"
+    },
+    {
+      "index": 15,
+      "title": "Behavioral Barriers Hinder Adoption of Private Retirement Savings",
+      "description": "Despite a clear need and demand for private retirement savings in Europe, a significant barrier remains behavioral. Low awareness of available products, coupled with a lack of proactive outreach from advisors, leads to market failure in activation. For Asset Management & Wealth firms (IN070401), this means traditional distribution models are insufficient, requiring a shift towards early engagement, personalized digital guidance (e.g., agentic AI), and building trust to activate demand.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-02",
+      "source_doc_id": "de1d41a0-6123-5e51-ac23-92907173820d",
+      "source_title": "Europe’s Retirement Crisis Is an Opportunity for Insurers and Asset Managers",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/europes-retirement-savings-gap",
+      "source_date": "2026-09-02"
+    },
+    {
+      "index": 16,
+      "title": "Agentic AI Boosts Operational Productivity Across Capital Markets",
+      "description": "Agentic AI offers significant productivity gains, potentially boosting efficiency up to 20 times in supervised digital-factory workflows and reducing cost-to-income ratios by 15-20% in European banking. This represents a substantial upside driver for all Capital Markets entities (IN070401, IN070402, IN070404) to automate high-volume operations like software engineering, KYC, and dispute processing. Early adopters can achieve self-funded transformation and expand returns, gaining a compounding structural advantage.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking",
+      "source_date": "2026-09-16"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "UK Financial Services Exports Diversify Towards Fast-Growing Emerging Markets",
+      "description": "The UK's financial services exports are heavily concentrated in advanced economies, with the EU and US accounting for two-thirds. However, a gradual diversification is visible, with fast-growing markets like China, Hong Kong, Singapore, and the GCC becoming increasingly important. This presents opportunities for the UK to capitalize on rapid growth in emerging markets, enhancing economic resilience by reducing exposure to shocks in individual export markets for capital markets activities.",
+      "stance": "cautious_positive",
+      "source_firm": "TheCityUK",
+      "source_date": "2026-09-24",
+      "source_doc_id": "1205157c-d8a2-5fc4-9136-db463dbd805d",
+      "source_title": "Global financial services trade in transition",
+      "source_publisher": "thecityuk",
+      "source_url": "https://www.thecityuk.com/our-work/changing-landscape-for-global-financial-services-trade"
+    },
+    {
+      "index": 2,
+      "title": "UK Banking Profitability Masks Eroding Foundations Amid AI and Competition",
+      "description": "Despite UK banking enjoying its most profitable period in years, underlying foundations are eroding rapidly. Neobanks and fintechs capture a quarter of relationships, and AI accelerates competition by easing product switching and fund movement. This affects Capital Markets by compressing margins, intensifying competition in investment banking and wealth management, and forcing rapid adaptation to new digital models for client engagement and service delivery.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking"
+    },
+    {
+      "index": 3,
+      "title": "Agentic AI Closes Grace Period for Banks, Demanding Rapid Adaptation",
+      "description": "The rapid adoption of agentic AI is ending the grace period for traditional banks, which historically adopted technology later than other sectors. Agentic AI makes it easier to compare providers, switch products, and optimize financial flows, posing a direct threat to sticky deposits and traditional revenue streams. Capital Markets firms, especially in asset management and brokerage, must swiftly integrate AI to maintain competitiveness and prevent disintermediation.",
+      "stance": "negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-16",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking"
+    },
+    {
+      "index": 4,
+      "title": "European Private Banks Face Challenging Future Despite Recent Strong Performance",
+      "description": "Europe's private banks, including UK wealth managers, have delivered strong results recently, but their long-term sustainability is questioned. Eroding margins, AI-driven value chain reshaping, and Europe's declining share in global wealth creation are rendering traditional playbooks obsolete. To sustain profitability, private banks must move beyond incremental improvements and embrace fundamental commercial strategy changes, emphasizing scalability and digital transformation in asset and wealth management.",
+      "stance": "cautious_negative",
+      "source_firm": "McKinsey",
+      "source_date": "2026-06-26",
+      "source_doc_id": "83937d95-272c-580e-afb9-2e31a16b4e4d",
+      "source_title": "Building profit resilience in European private banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/building-profit-resilience-in-european-private-banking"
+    },
+    {
+      "index": 5,
+      "title": "Purchase Price Discipline Increasingly Critical for Private Equity Fund Success",
+      "description": "The axiom 'you make your money on the buy' is reasserting itself in private equity. While cheap financing and expanding multiples cushioned high entry prices in 2010–2017, the 2018–2023 vintages show a deeper divide: disciplined buyers (lowest-price quartile) delivered significantly higher multiples on invested capital (MOIC) than those who paid the highest prices. This highlights the critical importance of purchase price discipline for PE funds amidst rising entry multiples and less leverage.",
+      "stance": "neutral",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-02",
+      "source_doc_id": "d10d81f6-7f13-50ae-b94e-f5118cb3eeb2",
+      "source_title": "Private equity confirms a timeless principle: Purchase price matters",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/private-capital/our-insights/private-equity-confirms-a-timeless-principle-purchase-price-matters"
+    },
+    {
+      "index": 6,
+      "title": "Europe's Retirement Crisis Presents Significant Opportunity for Asset Managers",
+      "description": "Europe faces a looming retirement savings crisis due to unsustainable public pension systems and a widening income gap for retirees. Private retirement savings remain chronically underdeveloped, creating a large, underserved market. This structural demographic shift presents a significant, long-term growth opportunity for asset management and wealth firms, provided they can overcome behavioral barriers and reposition themselves as trusted, lifetime retirement partners through early engagement and personalized guidance.",
+      "stance": "positive",
+      "source_firm": "BCG Global",
+      "source_date": "2026-09-02",
+      "source_doc_id": "de1d41a0-6123-5e51-ac23-92907173820d",
+      "source_title": "Europe’s Retirement Crisis Is an Opportunity for Insurers and Asset Managers",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/europes-retirement-savings-gap"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "next decade",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Shift from Deposits to Investments",
+          "description": "Mass and affluent savings in the UK are expected to move out of traditional bank deposits into investment products, driven by agentic AI, yield-seeking behaviors, and the 'chronic advice gap' in the UK where only 9% of adults receive regulated advice."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Asset managers and wealth firms have a significant opportunity to convert a substantial portion of the £2 trillion UK cash pile into assets under management as customers seek higher yields and investment advice, particularly given the large advice gap.",
+          "opportunity": "Capturing Wealth Inflows from Deposit Migration"
+        }
+      ],
+      "methodology": "An estimated £500 billion to £700 billion of mass and affluent savings is projected to migrate from deposits into investments over the next decade, out of a total UK cash pile exceeding £2 trillion.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-16",
+      "data_confidence": "medium",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": 7.0,
+      "forecast_cagr_period": "annual",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Consumer Desire for Higher Yields and Investment Growth",
+          "description": "As traditional deposit yields soften and consumers become more aware of investment options, the demand for wealth products grows, making wealth management the fastest-growing retail financial pool."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Wealth is identified as the fastest-growing retail pool.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-16",
+      "data_confidence": "medium",
+      "source_doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "source_title": "The decade to redefine UK banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking"
+    },
+    {
+      "index": 3,
+      "tam_value": 317.0,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": 7.0,
+      "forecast_cagr_period": "2025-2035",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Loi PACTE Reform",
+          "description": "The 2019 loi PACTE in France consolidated retirement savings into the Plan d’Epargne Retraite, reigniting inflows and supporting market growth."
+        },
+        {
+          "driver": "Structural Undersavings",
+          "description": "Europe's public pension systems are unsustainable, creating a widening income gap that drives demand for private retirement savings solutions, despite current market size being modest relative to household savings and life insurance."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Private retirement savings assets under management (AuM) in France. Breakdown: €152 billion in individual pension plans and €165 billion in company-sponsored plans.",
+      "source_firm": "BCG Global",
+      "source_date": "2026-09-02",
+      "data_confidence": "high",
+      "source_doc_id": "de1d41a0-6123-5e51-ac23-92907173820d",
+      "source_title": "Europe’s Retirement Crisis Is an Opportunity for Insurers and Asset Managers",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/europes-retirement-savings-gap"
+    },
+    {
+      "index": 4,
+      "tam_value": 1.54,
+      "tam_unit": "EUR_tr",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": 2.6,
+      "forecast_cagr_period": "2024-2035",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Altersvorsorgereform",
+          "description": "Germany's Altersvorsorgereform, effective January 2027, removes guaranteed capital maintenance requirements, shifting competition to cost and performance. This is expected to open the market to asset managers and increase consumer demand for private retirement savings."
+        },
+        {
+          "driver": "Structural Undersavings",
+          "description": "Europe's public pension systems are unsustainable, creating a widening income gap that drives demand for private retirement savings solutions."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Private retirement savings assets under management (AuM) in Germany. Breakdown: €1,064 billion in individual pension plans and €475 billion in company-sponsored plans.",
+      "source_firm": "BCG Global",
+      "source_date": "2026-09-02",
+      "data_confidence": "high",
+      "source_doc_id": "de1d41a0-6123-5e51-ac23-92907173820d",
+      "source_title": "Europe’s Retirement Crisis Is an Opportunity for Insurers and Asset Managers",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/europes-retirement-savings-gap"
+    },
+    {
+      "index": 5,
+      "tam_value": 243.0,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2024-2035",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "2026 Budget Law Reforms",
+          "description": "Italy's 2026 budget law tightens the opt-out window for automatic enrollment and makes employer contributions portable, gradually opening the market to asset managers and insurers competing on cost and performance."
+        },
+        {
+          "driver": "Structural Undersavings",
+          "description": "Europe's public pension systems are unsustainable, creating a widening income gap that drives demand for private retirement savings solutions."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total private retirement savings assets under management (AuM) in Italy. Breakdown: €99 billion in individual pension plans and €144 billion in company-sponsored plans.",
+      "source_firm": "BCG Global",
+      "source_date": "2026-09-02",
+      "data_confidence": "high",
+      "source_doc_id": "de1d41a0-6123-5e51-ac23-92907173820d",
+      "source_title": "Europe’s Retirement Crisis Is an Opportunity for Insurers and Asset Managers",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/europes-retirement-savings-gap"
+    },
+    {
+      "index": 6,
+      "tam_value": 163.0,
+      "tam_unit": "EUR_bn",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2025-2035",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Law 12/2022 Reform",
+          "description": "Spain's Law 12/2022 created Simplified Occupational Pension Plans and a Publicly Promoted Employment Pension Fund, aiming to expand occupational coverage from 2 million to 13 million workers, increasing demand for private retirement savings."
+        },
+        {
+          "driver": "Structural Undersavings",
+          "description": "Europe's public pension systems are unsustainable, creating a widening income gap that drives demand for private retirement savings solutions."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total private retirement savings assets under management (AuM) in Spain. Breakdown: €122 billion in individual plans and €41 billion in company-sponsored plans.",
+      "source_firm": "BCG Global",
+      "source_date": "2026-09-02",
+      "data_confidence": "high",
+      "source_doc_id": "de1d41a0-6123-5e51-ac23-92907173820d",
+      "source_title": "Europe’s Retirement Crisis Is an Opportunity for Insurers and Asset Managers",
+      "source_publisher": "bcg_global",
+      "source_url": "https://www.bcg.com/publications/2026/europes-retirement-savings-gap"
+    },
+    {
+      "index": 7,
+      "tam_value": 2.4,
+      "tam_unit": "EUR_tr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "until 2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Aging Demographics",
+          "description": "A significant portion of Europe's PFA is held by an aging population, leading to a substantial generational transfer of wealth in the coming years."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Pre-tax Profit at Risk",
+          "description": "Midsize wealth managers could see 10-15% of pre-tax profits at risk due to inheritance events triggering asset outflows (taxes, consumption), changes in client relationships, and margin pressure from pricing/product mix shifts."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Wealth managers can adapt their business models to meet the specific needs of younger investors and women, who will control a growing share of wealth, ensuring client retention during generational transfers.",
+          "opportunity": "Targeting Next-Generation Wealth Holders"
+        }
+      ],
+      "methodology": "Projected Personal Financial Assets (PFA) in Europe transferring by 2030, representing close to 20% of the region’s total PFA, primarily held by individuals over 75.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-06-26",
+      "data_confidence": "high",
+      "source_doc_id": "83937d95-272c-580e-afb9-2e31a16b4e4d",
+      "source_title": "Building profit resilience in European private banking",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/financial-services/our-insights/building-profit-resilience-in-european-private-banking"
+    },
+    {
+      "index": 8,
+      "tam_value": 11.8,
+      "tam_unit": "units",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Margin for Error Shrinkage",
+          "description": "High entry multiples, especially 18.1x EBITDA for larger transactions, significantly reduce the margin for error and make it harder to generate returns, particularly with less leverage doing the work."
+        },
+        {
+          "driver": "Competitive Dynamics",
+          "description": "Deployment pressures, intense competition for quality assets, and general partner confidence contribute to inflated purchase prices."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Global average buyout entry multiple as a ratio of EBITDA.",
+      "source_firm": "McKinsey",
+      "source_date": "2026-09-02",
+      "data_confidence": "high",
+      "source_doc_id": "d10d81f6-7f13-50ae-b94e-f5118cb3eeb2",
+      "source_title": "Private equity confirms a timeless principle: Purchase price matters",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/private-capital/our-insights/private-equity-confirms-a-timeless-principle-purchase-price-matters"
+    }
+  ],
+  "sources": [
+    "TheCityUK",
+    "McKinsey",
+    "BCG Global"
+  ],
+  "documents": [
+    {
+      "doc_id": "1205157c-d8a2-5fc4-9136-db463dbd805d",
+      "title": "Global financial services trade in transition",
+      "publisher": "thecityuk",
+      "date": "2026-09-24",
+      "url": "https://www.thecityuk.com/our-work/changing-landscape-for-global-financial-services-trade"
+    },
+    {
+      "doc_id": "37417eee-6fb1-5b81-bf78-fdff799523ab",
+      "title": "The decade to redefine UK banking",
+      "publisher": "mckinsey",
+      "date": "2026-09-16",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/the-decade-to-redefine-uk-banking"
+    },
+    {
+      "doc_id": "83937d95-272c-580e-afb9-2e31a16b4e4d",
+      "title": "Building profit resilience in European private banking",
+      "publisher": "mckinsey",
+      "date": "2026-06-26",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/building-profit-resilience-in-european-private-banking"
+    },
+    {
+      "doc_id": "d10d81f6-7f13-50ae-b94e-f5118cb3eeb2",
+      "title": "Private equity confirms a timeless principle: Purchase price matters",
+      "publisher": "mckinsey",
+      "date": "2026-09-02",
+      "url": "https://www.mckinsey.com/industries/private-capital/our-insights/private-equity-confirms-a-timeless-principle-purchase-price-matters"
+    },
+    {
+      "doc_id": "de1d41a0-6123-5e51-ac23-92907173820d",
+      "title": "Europe’s Retirement Crisis Is an Opportunity for Insurers and Asset Managers",
+      "publisher": "bcg_global",
+      "date": "2026-09-02",
+      "url": "https://www.bcg.com/publications/2026/europes-retirement-savings-gap"
+    },
+    {
+      "doc_id": "fb2c29d1-6ba2-53f0-a4be-92293a2ef98c",
+      "title": "The 2026 Global Payments Report: Operational excellence in an invisible world",
+      "publisher": "mckinsey",
+      "date": "2026-09-25",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/global-payments-report"
+    },
+    {
+      "doc_id": "46ec67b0-620a-55a4-aef0-b1b51223d8fc",
+      "title": "Anchor or drift: What it takes to capture wallet share in 2026",
+      "publisher": "mckinsey",
+      "date": "2026-09-16",
+      "url": "https://www.mckinsey.com/industries/financial-services/our-insights/anchor-or-drift-what-it-takes-to-capture-wallet-share-in-2026"
+    }
+  ]
+}

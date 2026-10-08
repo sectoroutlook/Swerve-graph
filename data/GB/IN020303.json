@@ -1,0 +1,461 @@
+{
+  "geography": "GB",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Significant growth in copper demand for electrification by 2040.",
+      "description": "The International Energy Agency projects significant growth in demand for critical minerals like copper, lithium, and nickel through 2040. This is driven by their essential role as building blocks for electrification, renewable energy infrastructure, and battery storage solutions, indicating a strong long-term market for primary copper producers.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-23",
+      "source_doc_id": "041ecb65-1f24-5dd1-9368-e7cb99fd09f4",
+      "source_title": "Harnessing AI to make mining safer",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer",
+      "source_date": "2026-09-23"
+    },
+    {
+      "index": 2,
+      "title": "UK Metals prices boosted by tariffs, quotas, and stockpiling.",
+      "description": "The UK metals sector, encompassing copper, is experiencing improved short-term trading conditions as tariffs, quotas, and geopolitical events encourage stockpiling since February 2026. This front-loaded demand, coupled with expected import duties, is driving price increases. While this offers a temporary boost, it also increases financing and working capital requirements and carries the risk of price correction if demand normalizes after stockpiling.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 3,
+      "title": "Post-stockpiling price correction risk for UK metals.",
+      "description": "The current improved pricing and demand in the UK metals sector, including copper, is partly due to stockpiling ahead of new quotas and import duties. This creates a risk that once buying behavior normalizes, demand and prices could correct. Businesses are advised to manage inventory carefully to mitigate this potential downside, which could impact revenue and profitability.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 4,
+      "title": "Rising input costs strain UK metals sector profitability.",
+      "description": "The UK metals sector, including copper producers, is facing increased pressure from higher logistics, raw material, and energy costs. These elevated input expenses are increasing financing and working-capital requirements for businesses. This cost inflation is compressing profit margins, making it challenging for companies to maintain profitability despite any gains from increased pricing, and contributes to the sector's overall financial fragility.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html",
+      "source_date": "2026-09-17"
+    },
+    {
+      "index": 5,
+      "title": "EV architecture shifts to reduce copper wiring by 30%.",
+      "description": "Advances in electric vehicle (EV) electrical/electronic (E/E) architectures, specifically the adoption of zonal controllers, are projected to cut wiring and copper use by up to 30%. This structural shift, driven by the need to simplify assembly and enable software-hardware decoupling for faster updates, represents a long-term headwind for copper demand from the EV manufacturing sector, despite overall EV growth.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-09",
+      "source_doc_id": "1000ae74-31fd-5036-9bc5-d2742cc6ce32",
+      "source_title": "Building profitable EVs: Ten structural design moves to cut material costs",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/building-profitable-evs-ten-structural-design-moves-to-cut-material-costs",
+      "source_date": "2026-09-09"
+    },
+    {
+      "index": 6,
+      "title": "Higher material costs, including copper, from energy and trade.",
+      "description": "The offshore wind sector, and by extension other industries reliant on material inputs, is experiencing increased costs due to higher material prices for commodities like steel, copper, and rare earths. These increases are attributed to recent energy price spikes and ongoing trade disputes, which impact the cost of production and supply for the copper industry. This contributes to general inflationary pressures.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-11",
+      "source_doc_id": "cbf3619d-6231-57d9-a567-72e2d54649cd",
+      "source_title": "Supplementary analysis of the Seventh Carbon Budget",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/supplementary-analysis-of-the-seventh-carbon-budget",
+      "source_date": "2026-03-11"
+    },
+    {
+      "index": 7,
+      "title": "Growing competition drives demand for copper in key components.",
+      "description": "Intensified global competition for copper-intensive components, such as export cables, high-voltage equipment, and permanent magnets, is increasing demand. These components are critical for various use-cases, including transmission networks, interconnectors, and electric vehicles, both domestically and internationally. This heightened demand translates into a strong tailwind for primary copper producers, supporting market volumes and potentially prices.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-11",
+      "source_doc_id": "cbf3619d-6231-57d9-a567-72e2d54649cd",
+      "source_title": "Supplementary analysis of the Seventh Carbon Budget",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/supplementary-analysis-of-the-seventh-carbon-budget",
+      "source_date": "2026-03-11"
+    },
+    {
+      "index": 8,
+      "title": "Transmission cable costs surge due to high copper prices.",
+      "description": "Prices for transmission cables have nearly doubled since 2019, and power transformers have risen by approximately 75%, primarily driven by increased material costs, including copper, steel, and aluminum, coupled with high demand. This significant cost escalation in critical infrastructure components poses a headwind for projects requiring extensive copper inputs, impacting overall project viability and potentially slowing deployment in sectors like energy transmission.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-03-11",
+      "source_doc_id": "cbf3619d-6231-57d9-a567-72e2d54649cd",
+      "source_title": "Supplementary analysis of the Seventh Carbon Budget",
+      "source_publisher": "ccc",
+      "source_url": "https://www.theccc.org.uk/publication/supplementary-analysis-of-the-seventh-carbon-budget",
+      "source_date": "2026-03-11"
+    },
+    {
+      "index": 9,
+      "title": "Global overcapacity dampens UK metals pricing power.",
+      "description": "The UK metals sector, including copper, is operating in an environment characterized by persistent global overcapacity and competitive distortion. This structural imbalance leads to muted pricing power for producers, limiting their ability to pass on costs or capture higher margins. While demand is expected to remain steady, its sensitivity to macro conditions means that overcapacity continues to be a significant headwind to profitability and market recovery.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-05",
+      "source_doc_id": "b53b8fdf-4ebc-50e8-99d9-42f82940e71a",
+      "source_title": "February 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-february-2026.html",
+      "source_date": "2026-03-05"
+    },
+    {
+      "index": 10,
+      "title": "Trade policy uncertainty hinders UK metals planning.",
+      "description": "The UK metals sector, including copper, faces significant planning challenges due to uncertainty surrounding EU import measures, Carbon Border Adjustment Mechanism (CBAM) benchmarks and costs, and potential changes to tariffs or quotas. This evolving and unpredictable trade policy landscape creates a key risk for businesses, complicating long-term investment decisions, supply chain strategies, and market access, and contributes to a cautious outlook for the sector.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-05",
+      "source_doc_id": "b53b8fdf-4ebc-50e8-99d9-42f82940e71a",
+      "source_title": "February 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-february-2026.html",
+      "source_date": "2026-03-05"
+    },
+    {
+      "index": 11,
+      "title": "Copper elevated to national security asset due to critical mineral status.",
+      "description": "Copper, as a critical mineral, is now central to national security discussions worldwide, shifting its perception from merely an industrial feedstock to a strategic asset. This structural change reshapes the landscape for mining and metals companies, requiring them to balance clean energy transition demands with national defense strategies. This creates new opportunities for companies but also introduces heightened responsibilities and geopolitical considerations for copper producers.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-27",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html",
+      "source_date": "2026-01-27"
+    },
+    {
+      "index": 12,
+      "title": "Copper tariffs risk creating market distortions, not resolving vulnerabilities.",
+      "description": "Analysis by CSIS suggests that imposing tariffs on commodities like copper is unlikely to resolve underlying supply chain vulnerabilities and may instead create new market distortions. For copper miners, this implies a need to plan for policy shifts that can redefine market access and production costs, highlighting the instability that trade protectionism can introduce into the global copper supply ecosystem.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-01-27",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html",
+      "source_date": "2026-01-27"
+    },
+    {
+      "index": 13,
+      "title": "Portfolio diversification balances copper with strategic minerals for growth.",
+      "description": "Mining companies are advised to diversify their portfolios by balancing high-volume energy transition minerals like copper and lithium with smaller, strategically important minerals such as antimony and gallium. This strategy allows companies to benefit from both consistent commercial demand for copper and government incentives tied to national security priorities for critical minerals, enhancing resilience and accessing new funding opportunities.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-27",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html",
+      "source_date": "2026-01-27"
+    },
+    {
+      "index": 14,
+      "title": "G7 Critical Minerals Action Plan fosters copper investment, transparency.",
+      "description": "The G7 Critical Minerals Action Plan, launched in 2025, commits member states to collaborate on investment, technology sharing, and transparent value chains for critical minerals, including copper. For mining companies, this initiative opens new doors, potentially leading to increased access to financing, accelerated permitting for copper projects, and long-term offtake agreements, while also helping navigate geopolitical volatility by embedding operations in trusted supply ecosystems.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-01-27",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html",
+      "source_date": "2026-01-27"
+    },
+    {
+      "index": 15,
+      "title": "Copper's \"safe bet\" status attracts major M&A and investment.",
+      "description": "Copper is regarded as the \"safe bet\" within the mining sector, attracting significant investment and complex M&A activities. This perception stems from its robust demand outlook in the energy transition and national security contexts. Companies are increasingly willing to engage in large-scale mergers and acquisitions, like Anglo American's deal with Teck Resources, to secure access to copper resources, enhancing global production capacity and market value.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-27",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html",
+      "source_date": "2026-01-27"
+    },
+    {
+      "index": 16,
+      "title": "Copper recycling becomes crucial to meet 30% supply shortfall.",
+      "description": "With global mined copper supply projected to fall short of demand by 30% by 2035, recycling and circular economy strategies are rapidly becoming essential tools for building portfolio resilience. This significant shortfall creates a powerful tailwind for secondary copper production, incentivizing investment in recycling infrastructure and technologies to bridge the gap between primary supply and growing industrial needs for electrification and other applications.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-01-27",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html",
+      "source_date": "2026-01-27"
+    },
+    {
+      "index": 17,
+      "title": "Recycled copper offers significant cost and energy advantages.",
+      "description": "Producing recycled copper is significantly more efficient, being up to 13 times cheaper and using 85% less energy than mined copper. This cost and energy efficiency represents a strong upside driver for the copper industry, promoting the adoption of circular economy models. It allows producers to address the growing demand for copper more sustainably and with potentially higher margins, especially given projected primary supply shortfalls.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-01-27",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html",
+      "source_date": "2026-01-27"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "UK metals sector sees short-term pricing gains, faces long-term fragility.",
+      "description": "Allianz UK's Sector Head for Metals, Nicole White, notes improved short-term trading for the UK metals sector, including copper, driven by tariffs, quotas, and geopolitical events causing stockpiling since February 2026. This has led to price increases, with expectations of further rises due to import duties. However, higher logistics, raw material, and energy costs increase working capital needs, and the sector remains financially fragile. There's also a risk of price correction once stockpiling normalizes. Europe lags other regions in recovery.",
+      "stance": "cautious_positive",
+      "source_firm": "Allianz UK",
+      "source_date": "2026-09-17",
+      "source_doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "source_title": "September 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "index": 2,
+      "title": "UK metals sector faces uncertain outlook with overcapacity, pricing pressure, policy risks.",
+      "description": "Nicole White, Sector Head for Metal at Allianz UK, presents a cautious outlook for the UK metals sector, including copper, for 2026. The sector operates in an uncertain, trade-sensitive environment marked by persistent global overcapacity and competitive distortions, leading to muted pricing power. Key constraints include competitiveness challenges, partly due to UK electricity prices being 14–25% higher for steelmakers than EU competitors, and policy risks related to EU import measures, CBAM benchmarks, and tariffs, which create planning difficulties and contribute to overall demand and policy uncertainty.",
+      "stance": "cautious_negative",
+      "source_firm": "Allianz UK",
+      "source_date": "2026-03-05",
+      "source_doc_id": "b53b8fdf-4ebc-50e8-99d9-42f82940e71a",
+      "source_title": "February 2026 UK Sector Snippets",
+      "source_publisher": "allianz_uk",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-february-2026.html"
+    },
+    {
+      "index": 3,
+      "title": "Copper remains mining sector's \"safe bet,\" driving complex M&A deals.",
+      "description": "Deloitte UK positions copper as the \"safe bet\" within the mining sector, indicating its stable and attractive long-term prospects. This perceived reliability is encouraging companies to pursue highly complex M&A deals, such as Anglo American's 2025 merger with Teck Resources to create a top-five global copper producer, to secure access to copper resources and unlock value at attractive implied valuations. This highlights sustained investor confidence in copper's essential role.",
+      "stance": "positive",
+      "source_firm": "Deloitte UK",
+      "source_date": "2026-01-27",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Energy Transition",
+          "description": "Critical minerals like copper are essential building blocks for electrification and renewable energy infrastructure, driving demand for refined copper production."
+        },
+        {
+          "driver": "Battery Storage",
+          "description": "Copper is a key component in battery storage solutions, contributing to the growth in refined copper production."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Analysis of refined copper production changes by country between 2020 and 2024, as depicted in a figure from the International Energy Agency.",
+      "source_firm": "Deloitte UK",
+      "source_date": "2026-01-27",
+      "data_confidence": "high",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Emissions Reduction Targets",
+          "description": "Governments and industries are pursuing targets to reduce emissions, leading to increased demand for critical metals like copper, essential for green technologies and infrastructure."
+        },
+        {
+          "driver": "National Security Interests",
+          "description": "Critical metals like copper are increasingly viewed as strategic assets for national security, driving demand for secure supply chains and domestic production."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Projection of demand for critical metals, including copper, based on pursuit of emissions reduction and national security interests by governments and industries.",
+      "source_firm": "Deloitte UK",
+      "source_date": "2026-01-27",
+      "data_confidence": "high",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2035,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Electrification Demand",
+          "description": "The ongoing global push for electrification across various sectors continues to drive robust demand for copper, exceeding primary mining output."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "A projected 30% shortfall in mined copper supply by 2035 creates a significant opportunity for recycling and circular economy approaches to meet demand and enhance portfolio resilience.",
+          "opportunity": "Recycling and Circular Economy Strategies"
+        }
+      ],
+      "methodology": "Forecasted global mined copper supply relative to demand, indicating a significant shortfall. This projection highlights the necessity of alternative supply sources.",
+      "source_firm": "Deloitte UK",
+      "source_date": "2026-01-27",
+      "data_confidence": "high",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html"
+    },
+    {
+      "index": 4,
+      "tam_value": 10000.0,
+      "tam_unit": "MT",
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Primary Supply Shortfall",
+          "description": "The anticipated gap between mined copper supply and demand drives the need for alternative sources like recycled copper."
+        },
+        {
+          "driver": "Sustainability Goals",
+          "description": "Companies are increasingly seeking recycled materials to meet environmental targets and enhance their sustainability credentials."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The increasing demand for recycled copper, driven by supply gaps and sustainability goals, creates opportunities for companies specializing in recycling and refining secondary materials for cathode production.",
+          "opportunity": "Recycled Copper Supply and Processing"
+        }
+      ],
+      "methodology": "A multi-year deal signed by Glencore in December 2024 to receive a minimum supply of recycled copper from Cyclic Materials.",
+      "source_firm": "Deloitte UK",
+      "source_date": "2026-01-27",
+      "data_confidence": "high",
+      "source_doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "source_title": "Tracking the trends 2026",
+      "source_publisher": "deloitte_uk",
+      "source_url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html"
+    }
+  ],
+  "sources": [
+    "Allianz UK",
+    "Deloitte UK"
+  ],
+  "documents": [
+    {
+      "doc_id": "7d4e7f83-a785-5791-a2f6-b92a9a25f727",
+      "title": "September 2026 UK Sector Snippets",
+      "publisher": "allianz_uk",
+      "date": "2026-09-17",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-september-2026.html"
+    },
+    {
+      "doc_id": "b53b8fdf-4ebc-50e8-99d9-42f82940e71a",
+      "title": "February 2026 UK Sector Snippets",
+      "publisher": "allianz_uk",
+      "date": "2026-03-05",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/uk-sector-snippets-february-2026.html"
+    },
+    {
+      "doc_id": "1aa1652d-df58-5ddd-97e7-4f0dbe8075e4",
+      "title": "Tracking the trends 2026",
+      "publisher": "deloitte_uk",
+      "date": "2026-01-27",
+      "url": "https://www.deloitte.com/uk/en/Industries/mining-metals/research/tracking-the-trends.html"
+    },
+    {
+      "doc_id": "041ecb65-1f24-5dd1-9368-e7cb99fd09f4",
+      "title": "Harnessing AI to make mining safer",
+      "publisher": "mckinsey",
+      "date": "2026-09-23",
+      "url": "https://www.mckinsey.com/industries/metals-and-mining/our-insights/harnessing-ai-to-make-mining-safer"
+    },
+    {
+      "doc_id": "1000ae74-31fd-5036-9bc5-d2742cc6ce32",
+      "title": "Building profitable EVs: Ten structural design moves to cut material costs",
+      "publisher": "mckinsey",
+      "date": "2026-09-09",
+      "url": "https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/building-profitable-evs-ten-structural-design-moves-to-cut-material-costs"
+    },
+    {
+      "doc_id": "cbf3619d-6231-57d9-a567-72e2d54649cd",
+      "title": "Supplementary analysis of the Seventh Carbon Budget",
+      "publisher": "ccc",
+      "date": "2026-03-11",
+      "url": "https://www.theccc.org.uk/publication/supplementary-analysis-of-the-seventh-carbon-budget"
+    }
+  ]
+}

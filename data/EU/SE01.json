@@ -1,0 +1,695 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Geopolitical conflict exacerbates energy price volatility and supply risks",
+      "description": "Ongoing geopolitical conflicts, particularly in the Middle East (US/Israel war with Iran, Strait of Hormuz crisis) and the Russia-Ukraine war, are driving significant energy price volatility and supply chain disruptions. These events directly impact oil and gas markets, increasing crude oil, transport fuel, and electricity prices across Europe. The disruptions pose supply risks, especially for gas, and contribute to higher input costs for various sectors, including agriculture, manufacturing, and retail, leading to inflationary pressures and margin erosion.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-20",
+      "source_doc_id": "24a89fc0-b0b9-5339-adaa-7aeb583ec9ba",
+      "source_title": "Mid-Year Situation and Outlook for Irish Agriculture July 2026",
+      "source_publisher": "teagasc",
+      "source_url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/publications/2026/Mid-Year-Outlook-for-Irish-Agriculture-July-2026.pdf",
+      "source_date": "2026-07-20",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Grid congestion severely limits Europe's renewable energy expansion",
+      "description": "Despite strong political and industry support for renewables, significant grid congestion is limiting their expansion and ability to provide rapid energy security solutions. In countries like the Netherlands, over 4,000 companies, including wind and solar developers, face years-long delays for grid connections. Poland has 205 GW of renewable and storage projects queued for grid access. This infrastructure bottleneck means that while renewables are economically attractive, their growth speed is constrained by access to grid capacity, shifting investment focus towards flexibility solutions.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-09",
+      "source_doc_id": "e89b8990-e430-54a5-8122-a27a4c9746fe",
+      "source_title": "How Europe can reduce reliance on imported gas and what it means for business…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-europe-can-reduce-reliance-on-imported-gas-and-what-it-means-for-business-leaders",
+      "source_date": "2026-04-09",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Policy of managed decline for offshore gas limits domestic supply",
+      "description": "Europe is pursuing a policy of 'managed decline' for its offshore gas resources, aiming to reduce production to align with net-zero ambitions by 2050. This is exemplified by the UK's 2025 announcement to no longer grant new offshore oil and gas exploration licenses. While Europe possesses substantial reserves (5,000 bcm total, primarily Norwegian), this policy, combined with geological decline, is set to reduce annual production from 180 bcm today to just 30 bcm by mid-century, increasing reliance on imports.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-09",
+      "source_doc_id": "e89b8990-e430-54a5-8122-a27a4c9746fe",
+      "source_title": "How Europe can reduce reliance on imported gas and what it means for business…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-europe-can-reduce-reliance-on-imported-gas-and-what-it-means-for-business-leaders",
+      "source_date": "2026-04-09",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "EU ETS policy uncertainty driven by balancing climate ambitions and competitiveness",
+      "description": "The EU Emissions Trading System (ETS) faces significant policy uncertainty as the EU balances climate ambitions with industrial competitiveness. Recent aggressive sell-offs in EU carbon allowances (EUAs) are fueled by concerns over potential policy changes, including slowing the phase-out of free allowances and easing the linear reduction factor (LRF) for the ETS cap. Comments from French and German leaders questioning high carbon prices and advocating for revisions to protect competitiveness further amplify these risks, leading to market volatility and potential long-term structural adjustments.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-20",
+      "source_doc_id": "431e0a9b-60c6-5579-b47d-bd84a5815f06",
+      "source_title": "EU carbon price slides amid policy noise and fund selling",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/eu-carbon-price-slides-amid-policy-noise-and-fund-selling200226",
+      "source_date": "2026-02-20",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Significant LNG export capacity additions poised to ease global market tightness",
+      "description": "The global LNG market is set to benefit from significant new export capacity, primarily from the US and Qatar. Between 2025 and 2027, the US is projected to add 93 bcm of capacity, with Qatar contributing an additional 42 bcm by 2027. This substantial increase in supply capacity is expected to alleviate global market tightness, which intensified following Europe's pivot away from Russian pipeline gas, and will enhance overall supply security, potentially moderating price volatility for European buyers.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-11",
+      "source_doc_id": "19a1a847-d201-5642-a85c-bd7f0595eb12",
+      "source_title": "7 reasons why Europe can deal with a gas shock better than in 2022",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/the-7-reasons-why-europe-can-deal-with-a-gas-shock-better-than-in-2022",
+      "source_date": "2026-03-11",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Permanent demand destruction drives Europe's reduced natural gas reliance",
+      "description": "Europe has experienced a permanent reduction in natural gas demand since the 2022 energy crisis, with current EU gas demand 16% below pre-Russia-Ukraine war levels. This structural shift is attributed to factors like the REPowerEU initiatives, increased energy efficiency investments, and the uncompetitiveness of energy-intensive industries in Europe, leading to some plant closures (e.g., a 9% fall in chemicals sector production capacity). This reduced reliance enhances Europe's resilience to future gas supply shocks.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-11",
+      "source_doc_id": "19a1a847-d201-5642-a85c-bd7f0595eb12",
+      "source_title": "7 reasons why Europe can deal with a gas shock better than in 2022",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/the-7-reasons-why-europe-can-deal-with-a-gas-shock-better-than-in-2022",
+      "source_date": "2026-03-11",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Biogas emerges as scalable, local, and circular solution for gas independence",
+      "description": "Biogas is recognized as a significant medium- and long-term solution to strengthen Europe’s energy resilience and reduce reliance on imported gas. With potential to triple production to over 20 bcm by 2030 and plateau at 30 bcm by 2035, it offers a scalable, local, and circular energy source. Strong policy support and reliable buyers willing to pay a green premium are crucial to unlock its full theoretical capacity (up to one-third of current gas demand) from sustainable feedstocks like manure and organic waste.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-09",
+      "source_doc_id": "e89b8990-e430-54a5-8122-a27a4c9746fe",
+      "source_title": "How Europe can reduce reliance on imported gas and what it means for business…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-europe-can-reduce-reliance-on-imported-gas-and-what-it-means-for-business-leaders",
+      "source_date": "2026-04-09",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "Renewed interest in nuclear power offers long-term energy security prospects",
+      "description": "The 2022 energy crisis has reignited interest in nuclear power across Europe, with countries like Spain, Italy, Belgium, Denmark, and Lithuania reconsidering nuclear bans. Twenty-seven additional nuclear power plants are in planning stages across the EU, underscoring a growing commitment to nuclear power's role in future energy landscapes. This revival offers a long-term strategy for energy security, reduced gas dependence, and reliable, low-carbon electricity, despite the substantial challenges associated with large-scale deployment and financing.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-09",
+      "source_doc_id": "e89b8990-e430-54a5-8122-a27a4c9746fe",
+      "source_title": "How Europe can reduce reliance on imported gas and what it means for business…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-europe-can-reduce-reliance-on-imported-gas-and-what-it-means-for-business-leaders",
+      "source_date": "2026-04-09",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "title": "Complexities and cost overruns hinder large-scale nuclear power plant construction",
+      "description": "The expansion of nuclear power in Europe faces significant hurdles due to the complexity and high costs of building new plants. Flagship projects such as Flamanville, Olkiluoto, and Hinkley Point C have experienced substantial delays and budget overruns, highlighting the considerable challenges in large-scale nuclear expansion. While Small Modular Reactors (SMRs) show promise, their deployment is in early stages and carries geopolitical risks due to reliance on advanced nuclear fuel primarily sourced from Russia, making rapid capacity increases difficult.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-09",
+      "source_doc_id": "e89b8990-e430-54a5-8122-a27a4c9746fe",
+      "source_title": "How Europe can reduce reliance on imported gas and what it means for business…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-europe-can-reduce-reliance-on-imported-gas-and-what-it-means-for-business-leaders",
+      "source_date": "2026-04-09",
+      "country_focus": "EU"
+    },
+    {
+      "index": 10,
+      "title": "Coal provides immediate but temporary solution to gas supply disruptions",
+      "description": "Coal has returned as the fastest option to replace natural gas in European power generation, requiring no new capacity investments. Following the Russian invasion of Ukraine, coal’s share in Europe’s power mix rose, and significant operational capacity remains, particularly in Germany and Poland. This allows for rapid production increases across interconnected power grids, effectively reducing gas usage. While it offers a buffer against gas disruptions, it comes with the risk of increased carbon costs under the EU Emissions Trading System (ETS) and is viewed as a temporary measure.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-09",
+      "source_doc_id": "e89b8990-e430-54a5-8122-a27a4c9746fe",
+      "source_title": "How Europe can reduce reliance on imported gas and what it means for business…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-europe-can-reduce-reliance-on-imported-gas-and-what-it-means-for-business-leaders",
+      "source_date": "2026-04-09",
+      "country_focus": "EU"
+    },
+    {
+      "index": 11,
+      "title": "Businesses structurally invest in energy efficiency to mitigate price risks",
+      "description": "Companies are increasingly investing in energy efficiency, electrification of production processes, and greater use of renewables to structurally reduce their exposure to volatile energy prices. Learning from the 2022 energy shock, businesses are implementing measures like building large industrial heat pumps, starting up more efficient crackers, and renewing fleets with energy-efficient transport. This strategic shift aims to diminish energy use and vulnerability to price hikes, making firms more resilient to renewed market volatility and aligning with sustainability targets.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-03-16",
+      "source_doc_id": "12f3a8d9-4e5c-5883-bd8b-6f8b0ee8933f",
+      "source_title": "How rising energy prices will impact European sectors",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-rising-energy-prices-will-impact-european-sectors",
+      "source_date": "2026-03-16",
+      "country_focus": "EU"
+    },
+    {
+      "index": 12,
+      "title": "EU's joint gas purchasing initiative reduces internal market competition",
+      "description": "The European Commission's AggregateEU platform, launched in April 2023 and made permanent in July 2025, aims to coordinate gas buying across the EU. This mechanism pools demand and matches it with supply offers, effectively reducing internal competition among European buyers for LNG supplies that intensified in 2022. By increasing bargaining power and streamlining procurement, AggregateEU is expected to reduce price volatility and enhance overall supply security for the bloc.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-03-11",
+      "source_doc_id": "19a1a847-d201-5642-a85c-bd7f0595eb12",
+      "source_title": "7 reasons why Europe can deal with a gas shock better than in 2022",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/the-7-reasons-why-europe-can-deal-with-a-gas-shock-better-than-in-2022",
+      "source_date": "2026-03-11",
+      "country_focus": "EU"
+    },
+    {
+      "index": 13,
+      "title": "Aging conventional power plants contribute to Ireland's adequacy challenges",
+      "description": "Ireland's electricity system faces increasing challenges due to the aging conventional generation fleet. By 2035, approximately 3,200 MW of conventional capacity will be over 30 years old. The observed lower availability of these units in recent years has complicated power system operation, and any further decline in availability as plants age poses risks to future supply adequacy. This necessitates timely delivery of new capacity and effective management of existing assets to ensure grid stability during the energy transition.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-02-26",
+      "source_doc_id": "318cd0fd-2dc4-524d-8e00-b6fb65c1514d",
+      "source_title": "All-Island Resource Adequacy Assessment 2026-2035 Main Report (Ireland)",
+      "source_publisher": "eirgrid",
+      "source_url": "https://www.eirgrid.ie/sites/default/files/publications/AIRAA-2026-2035_Ireland.pdf",
+      "source_date": "2026-02-26",
+      "country_focus": "IE"
+    },
+    {
+      "index": 14,
+      "title": "Delays in new capacity delivery threaten Ireland's electricity supply adequacy",
+      "description": "The timely delivery of new capacity awarded in Ireland's Capacity Market is critical, yet not all projects from previous auctions are expected to be available on schedule. These delays negatively impact system adequacy, creating significant challenges for electricity supply in the short- to medium-term. If new capacity fails to materialize as planned, mitigating measures—such as temporary emergency generation and retaining existing units—will be required, highlighting a persistent vulnerability in the transition to a low-carbon power system.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-26",
+      "source_doc_id": "318cd0fd-2dc4-524d-8e00-b6fb65c1514d",
+      "source_title": "All-Island Resource Adequacy Assessment 2026-2035 Main Report (Ireland)",
+      "source_publisher": "eirgrid",
+      "source_url": "https://www.eirgrid.ie/sites/default/files/publications/AIRAA-2026-2035_Ireland.pdf",
+      "source_date": "2026-02-26",
+      "country_focus": "IE"
+    },
+    {
+      "index": 15,
+      "title": "Economic viability concerns for generation units without capacity market support",
+      "description": "EirGrid's Economic Viability Assessment (EVA) for Ireland indicates that without additional measures like capacity markets, some generation units may be unviable due to insufficient revenues from the energy-only electricity market. This poses a significant risk to future supply adequacy, as units unable to cover operating costs may cease participation. While capacity markets provide additional revenue, the initial EVA results highlight a potential shortfall in viable generation capacity, underscoring the need for careful market design to support investment during the energy transition.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-26",
+      "source_doc_id": "318cd0fd-2dc4-524d-8e00-b6fb65c1514d",
+      "source_title": "All-Island Resource Adequacy Assessment 2026-2035 Main Report (Ireland)",
+      "source_publisher": "eirgrid",
+      "source_url": "https://www.eirgrid.ie/sites/default/files/publications/AIRAA-2026-2035_Ireland.pdf",
+      "source_date": "2026-02-26",
+      "country_focus": "IE"
+    },
+    {
+      "index": 16,
+      "title": "Ireland significantly off-track on GHG reduction targets despite renewable progress",
+      "description": "Ireland is making steady progress in renewable energy adoption, with 14.6% of energy needs met by renewables in manufacturing—a record high. However, the pace of greenhouse gas (GHG) reductions remains insufficient to meet legally binding carbon budgets. Projections indicate a 23% GHG reduction by 2030, significantly short of the 51% target, down from a previous 29% projection in 2024. This persistent gap poses a key risk to Ireland's clean energy transition goals and requires greater momentum in decarbonization efforts across all sectors.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-02-10",
+      "source_doc_id": "6ad627ab-8a1f-595d-8015-45b29f92b2aa",
+      "source_title": "Bank of Ireland Sectors Team — Manufacturing Sector H2 2025 Insights and H1 2026 Outlook",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/02/D15695-BOI-Sectors-Manufactuing-Sector-H2-2025-Insights-and-H1-2026-Outlook-FINAL-Jan-26.pdf",
+      "source_date": "2026-02-10",
+      "country_focus": "IE"
+    },
+    {
+      "index": 17,
+      "title": "Lithium price spikes driven by surging demand from BESS and EVs",
+      "description": "Lithium prices have spiked dramatically, increasing by 1360% since April 2025, primarily due to a surge in demand from battery energy storage systems (BESS) and electric vehicles (EVs), compounded by constrained supply from mine shutdowns. Demand for lithium is expected to grow over 50% in 2026, with AI-driven data centers also contributing to heightened demand. This volatility in critical mineral prices significantly impacts manufacturing input costs for consumer electronics, EVs, and data center construction, posing a challenge for cost management.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-02-10",
+      "source_doc_id": "6ad627ab-8a1f-595d-8015-45b29f92b2aa",
+      "source_title": "Bank of Ireland Sectors Team — Manufacturing Sector H2 2025 Insights and H1 2026 Outlook",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/02/D15695-BOI-Sectors-Manufactuing-Sector-H2-2025-Insights-and-H1-2026-Outlook-FINAL-Jan-26.pdf",
+      "source_date": "2026-02-10",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Ireland's energy sector broadly stable but exposed to volatility and grid constraints",
+      "description": "Allianz_ie views Ireland's energy sector as broadly stable but facing significant challenges. High import dependence and reliance on fossil fuels, particularly gas, expose it to price volatility. Geopolitical energy shocks and grid constraints also pose challenges, though state-backed operators are somewhat insulated by regulated revenue streams. Oil-exposed operators face the most pressure, with near-term performance heavily influenced by energy prices, infrastructure capacity, and the geopolitical environment. Firms must closely monitor oil and gas price volatility.",
+      "stance": "cautious_positive",
+      "source_firm": "allianz_ie",
+      "source_date": "2026-07-22",
+      "source_doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "source_title": "July 2026 Ireland Sector Snippets",
+      "source_publisher": "allianz_ie",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html",
+      "country_focus": "IE"
+    },
+    {
+      "index": 2,
+      "title": "Europe better positioned to manage current gas supply shock than 2022",
+      "description": "ING Think believes Europe is better prepared for the current Persian Gulf LNG supply disruptions than for the 2022 energy crisis. Gas prices are unlikely to reach 2022 peaks due to better global supply and a strong pipeline of new LNG export capacity. Current disruptions are temporary, unlike the structural shift seen with Russian gas in 2022. Europe has reduced its gas reliance, with demand 16% below pre-Ukraine war levels, and has learned lessons for coordinated gas procurement.",
+      "stance": "cautious_positive",
+      "source_firm": "ing_think",
+      "source_date": "2026-03-11",
+      "source_doc_id": "19a1a847-d201-5642-a85c-bd7f0595eb12",
+      "source_title": "7 reasons why Europe can deal with a gas shock better than in 2022",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/the-7-reasons-why-europe-can-deal-with-a-gas-shock-better-than-in-2022",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Nuclear power revival is a challenging and uncertain long-term strategy for Europe",
+      "description": "ING Think assesses Europe's nuclear power revival as a challenging and uncertain long-term strategy, despite renewed interest spurred by the energy crisis. While countries are reconsidering bans and planning new plants, major projects like Flamanville and Hinkley Point C have faced significant delays and cost overruns. Small Modular Reactors (SMRs) are in early stages and face geopolitical risks due to reliance on Russian fuel. Expanding nuclear capacity will take many years, and companies should not divert focus from existing, more readily available gas reduction technologies.",
+      "stance": "cautious_negative",
+      "source_firm": "ing_think",
+      "source_date": "2026-04-09",
+      "source_doc_id": "e89b8990-e430-54a5-8122-a27a4c9746fe",
+      "source_title": "How Europe can reduce reliance on imported gas and what it means for business…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-europe-can-reduce-reliance-on-imported-gas-and-what-it-means-for-business-leaders",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "EU carbon market outlook remains supportive despite recent price sell-off",
+      "description": "ING Think maintains a supportive short-term outlook for EU carbon allowances (EUAs) despite an aggressive sell-off, forecasting an average price of EUR83/t in 2026. The market is fundamentally expected to tighten this year with a large fall in supply. Although policy noise and fund selling have created volatility, the underlying supply reduction from the ETS cap means prices should be pushed higher from current levels. The Commission's REPowerEU revenue target can be met with fewer auctioned allowances.",
+      "stance": "cautious_positive",
+      "source_firm": "ing_think",
+      "source_date": "2026-02-20",
+      "source_doc_id": "431e0a9b-60c6-5579-b47d-bd84a5815f06",
+      "source_title": "EU carbon price slides amid policy noise and fund selling",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/eu-carbon-price-slides-amid-policy-noise-and-fund-selling200226",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Norwegian offshore service segment shows strong growth and continued optimism for 2026",
+      "description": "The Norwegian Shipowners' Association reports strong performance and optimism for the offshore service segment. In 2024, it recorded 19% revenue growth, surpassing pre-oil-crisis levels for the first time since 2014. Activity remains high on the Norwegian continental shelf and internationally, with further growth of 5% expected in 2025 and 4% projected for 2026. These positive trends are supported by increased demand for oil and gas, along with high activity in the offshore sector.",
+      "stance": "positive",
+      "source_firm": "nor_shipowners",
+      "source_date": "2026-03-19",
+      "source_doc_id": "7c769efc-2449-5c8b-bfb2-2a94ca6abe0f",
+      "source_title": "Maritime Outlook 2026",
+      "source_publisher": "nor_shipowners",
+      "source_url": "https://www.rederi.no/en/reports/maritime-outlook-2026",
+      "country_focus": "NO"
+    },
+    {
+      "index": 6,
+      "title": "Norwegian rig companies anticipate solid growth and stable profitability in 2026",
+      "description": "Norwegian rig companies experienced solid growth in 2025, with revenues increasing by 8%. The Norwegian Shipowners' Association projects continued growth, albeit slowing to 2% in 2026, driven by strong rates and sustained demand. Profitability expectations are also optimistic, with 40% of rig companies anticipating improvement and half expecting stable profitability for 2026. This reflects a robust market environment for offshore drilling and related services.",
+      "stance": "positive",
+      "source_firm": "nor_shipowners",
+      "source_date": "2026-03-19",
+      "source_doc_id": "7c769efc-2449-5c8b-bfb2-2a94ca6abe0f",
+      "source_title": "Maritime Outlook 2026",
+      "source_publisher": "nor_shipowners",
+      "source_url": "https://www.rederi.no/en/reports/maritime-outlook-2026",
+      "country_focus": "NO"
+    },
+    {
+      "index": 7,
+      "title": "Ireland's electricity supply faces challenging adequacy outlook for 2026-2028",
+      "description": "EirGrid's assessment indicates a challenging outlook for Ireland's electricity supply adequacy from 2026 to 2028. Both base and secure assessments show the system is expected to operate outside the Reliability Standard of 3 hours LOLE, necessitating additional capacity. This is due to older plants leaving the market, delays in new capacity, and a revised commissioning date for the Celtic interconnector. While the outlook improves from 2029, the secure assessment still shows a deficit, highlighting ongoing challenges.",
+      "stance": "cautious_negative",
+      "source_firm": "eirgrid",
+      "source_date": "2026-02-26",
+      "source_doc_id": "318cd0fd-2dc4-524d-8e00-b6fb65c1514d",
+      "source_title": "All-Island Resource Adequacy Assessment 2026-2035 Main Report (Ireland)",
+      "source_publisher": "eirgrid",
+      "source_url": "https://www.eirgrid.ie/sites/default/files/publications/AIRAA-2026-2035_Ireland.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 8,
+      "title": "Expanding renewables is crucial for Europe's energy security amidst gas reliance",
+      "description": "DNV's 2026 global energy survey, cited by ING Think, indicates that 71% of senior energy professionals believe expanding renewables is key to Europe's energy security. This highlights a strong consensus on the strategic importance of renewable energy development for reducing gas import reliance and long-term power costs. Despite grid congestion challenges, renewables are seen as the most credible route, reinforcing political and industry support for continued investment in clean energy technologies to achieve structural resilience.",
+      "stance": "positive",
+      "source_firm": "DNV",
+      "source_date": "2026-04-09",
+      "source_doc_id": "e89b8990-e430-54a5-8122-a27a4c9746fe",
+      "source_title": "How Europe can reduce reliance on imported gas and what it means for business…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-europe-can-reduce-reliance-on-imported-gas-and-what-it-means-for-business-leaders",
+      "country_focus": "EU"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Geopolitical Diversification",
+          "description": "The EU has actively diversified its gas imports away from Russia, increasing reliance on Norway, US LNG, and Algeria to enhance energy security."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "EU gas import shares by country of origin in 2025: Norway 31% (up from 25% in 2020), US liquefied natural gas (LNG) 26% (up from 5%), Algeria 12%, UK and Qatar each nearly 5%.",
+      "source_firm": "ing_think",
+      "source_date": "2026-04-09",
+      "data_confidence": "high",
+      "source_doc_id": "e89b8990-e430-54a5-8122-a27a4c9746fe",
+      "source_title": "How Europe can reduce reliance on imported gas and what it means for business…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-europe-can-reduce-reliance-on-imported-gas-and-what-it-means-for-business-leaders",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2026-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Energy Security and Resilience",
+          "description": "Increasing local biogas production reduces Europe’s dependence on imported gas and volatile international energy markets."
+        },
+        {
+          "driver": "Circular Economy and Sustainability",
+          "description": "Biogas supports a more sustainable and circular energy system by utilizing organic waste, agricultural residues, and manure, while reducing nitrogen emissions."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Production Costs",
+          "description": "Biogas production costs range from €50 to €100 per megawatt-hour, which makes it more expensive than pre-crisis gas prices, but economically viable with green premiums and policy support."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Robust policy support and reliable buyers willing to pay a green premium can significantly scale up biogas production from farmers and waste management companies.",
+          "opportunity": "Policy Support and Green Premium"
+        }
+      ],
+      "methodology": "Europe currently produces about 7 billion cubic meters (bcm) of biogas, representing 1.6% of current gas demand. Forecasts suggest production could triple to over 20 bcm by 2030 and plateau at 30 bcm by 2035.",
+      "source_firm": "ing_think",
+      "source_date": "2026-04-09",
+      "data_confidence": "high",
+      "source_doc_id": "e89b8990-e430-54a5-8122-a27a4c9746fe",
+      "source_title": "How Europe can reduce reliance on imported gas and what it means for business…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-europe-can-reduce-reliance-on-imported-gas-and-what-it-means-for-business-leaders",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "An alternative approach to current 'managed decline' policies could tap into these reserves, slowing decline and making Europe less dependent on gas imports, with lower carbon intensity than imported LNG.",
+          "opportunity": "Maximum Extraction and Exploration"
+        }
+      ],
+      "methodology": "Europe possesses significant offshore gas resources, with total reserves estimated at around 5,000 billion cubic meters (bcm), primarily located in Norwegian waters. Approximately 2,000 bcm are proven (discovered) reserves, and 3,000 bcm are potential reserves.",
+      "source_firm": "ing_think",
+      "source_date": "2026-04-09",
+      "data_confidence": "high",
+      "source_doc_id": "e89b8990-e430-54a5-8122-a27a4c9746fe",
+      "source_title": "How Europe can reduce reliance on imported gas and what it means for business…",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/how-europe-can-reduce-reliance-on-imported-gas-and-what-it-means-for-business-leaders",
+      "country_focus": "NO"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2024-2025",
+      "historical_cagr": null,
+      "historical_cagr_period": "2021-2024",
+      "demand_drivers": [
+        {
+          "driver": "REPowerEU Policy",
+          "description": "The European Commission's plan to support energy transition and reduce the EU’s dependence on Russian fossil fuels has significantly boosted renewables capacity."
+        },
+        {
+          "driver": "Energy Security",
+          "description": "Expanding renewables is seen as crucial for enhancing energy security and reducing exposure to volatile international gas markets."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Installed capacity for solar and wind in the EU surged by 57% between 2021 and 2024. Estimates suggest a further 15% increase in 2025.",
+      "source_firm": "ing_think",
+      "source_date": "2026-03-11",
+      "data_confidence": "high",
+      "source_doc_id": "19a1a847-d201-5642-a85c-bd7f0595eb12",
+      "source_title": "7 reasons why Europe can deal with a gas shock better than in 2022",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/the-7-reasons-why-europe-can-deal-with-a-gas-shock-better-than-in-2022",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": null,
+      "forecast_cagr_period": "2025-2027",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Global Gas Demand",
+          "description": "Increased global gas demand and Europe's shift away from Russian pipeline gas towards LNG drive the need for expanded export capacity."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "A significant pipeline of new LNG export capacity is expected, with 93 bcm of capacity additions from the US between 2025 and 2027. Additionally, around 42 bcm of capacity is set to start up from Qatar by 2027.",
+      "source_firm": "ing_think",
+      "source_date": "2026-03-11",
+      "data_confidence": "high",
+      "source_doc_id": "19a1a847-d201-5642-a85c-bd7f0595eb12",
+      "source_title": "7 reasons why Europe can deal with a gas shock better than in 2022",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/the-7-reasons-why-europe-can-deal-with-a-gas-shock-better-than-in-2022",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "tam_value": 1800.0,
+      "tam_unit": "MW",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Renewable Integration",
+          "description": "Increased energy storage is crucial for managing the variability of renewable generation and supporting the transition to a predominantly renewable power system."
+        },
+        {
+          "driver": "Grid Stability and Adequacy",
+          "description": "Storage technologies contribute to balancing electricity supply and demand, enhancing system adequacy and resilience, particularly during peak demand or unexpected outages."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The commissioning of the first multi-hour battery in 2023 marked a key milestone, facilitating further connection of battery storage to the grid.",
+          "opportunity": "Multi-hour Battery Deployment"
+        }
+      ],
+      "methodology": "Ireland is assumed to have 1,800 MW of generation capacity attributed to storage technologies from 2030 onwards, with 4,760 MWh of storage capacity, enabling 1,800 MW of power for over 2.5 hours.",
+      "source_firm": "eirgrid",
+      "source_date": "2026-02-26",
+      "data_confidence": "high",
+      "source_doc_id": "318cd0fd-2dc4-524d-8e00-b6fb65c1514d",
+      "source_title": "All-Island Resource Adequacy Assessment 2026-2035 Main Report (Ireland)",
+      "source_publisher": "eirgrid",
+      "source_url": "https://www.eirgrid.ie/sites/default/files/publications/AIRAA-2026-2035_Ireland.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 7,
+      "tam_value": 1420.0,
+      "tam_unit": "MW",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Growing Electricity Demand",
+          "description": "Increasing electricity demand from residential, commercial, industrial, and transport sectors, including significant growth from data centers and new technology loads."
+        },
+        {
+          "driver": "Aging Conventional Plants",
+          "description": "Older plants leaving the market contribute to the need for new capacity to maintain supply adequacy."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Ireland's electricity system requires additional capacity to meet the Reliability Standard of 3 hours LOLE. In 2026, 1,010 MW is required under the base assessment, increasing to 1,420 MW under the secure assessment (reflecting more challenging conditions). This deficit is projected to drop to 220 MW (base) and 730 MW (secure) by 2028.",
+      "source_firm": "eirgrid",
+      "source_date": "2026-02-26",
+      "data_confidence": "high",
+      "source_doc_id": "318cd0fd-2dc4-524d-8e00-b6fb65c1514d",
+      "source_title": "All-Island Resource Adequacy Assessment 2026-2035 Main Report (Ireland)",
+      "source_publisher": "eirgrid",
+      "source_url": "https://www.eirgrid.ie/sites/default/files/publications/AIRAA-2026-2035_Ireland.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 8,
+      "tam_value": 54.3,
+      "tam_unit": "mn_units",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "REPowerEU Revenue Target",
+          "description": "The EU needs to generate EUR20bn in revenue from EUA auctions to support its REPowerEU plan, influencing the volume of allowances to be auctioned."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "To hit its REPowerEU revenue target of EUR20bn in 2026, assuming an average price of EUR70/t for EU carbon allowances (EUAs), the European Commission would need to auction approximately 54.3 million further allowances. This is 21.8 million allowances less than the planned 93.3 million allowances.",
+      "source_firm": "ing_think",
+      "source_date": "2026-02-20",
+      "data_confidence": "medium",
+      "source_doc_id": "431e0a9b-60c6-5579-b47d-bd84a5815f06",
+      "source_title": "EU carbon price slides amid policy noise and fund selling",
+      "source_publisher": "ing_think",
+      "source_url": "https://think.ing.com/articles/eu-carbon-price-slides-amid-policy-noise-and-fund-selling200226",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "allianz_ie",
+    "ing_think",
+    "nor_shipowners",
+    "eirgrid",
+    "DNV"
+  ],
+  "documents": [
+    {
+      "doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "title": "July 2026 Ireland Sector Snippets",
+      "publisher": "allianz_ie",
+      "date": "2026-07-22",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html"
+    },
+    {
+      "doc_id": "19a1a847-d201-5642-a85c-bd7f0595eb12",
+      "title": "7 reasons why Europe can deal with a gas shock better than in 2022",
+      "publisher": "ing_think",
+      "date": "2026-03-11",
+      "url": "https://think.ing.com/articles/the-7-reasons-why-europe-can-deal-with-a-gas-shock-better-than-in-2022"
+    },
+    {
+      "doc_id": "e89b8990-e430-54a5-8122-a27a4c9746fe",
+      "title": "How Europe can reduce reliance on imported gas and what it means for business…",
+      "publisher": "ing_think",
+      "date": "2026-04-09",
+      "url": "https://think.ing.com/articles/how-europe-can-reduce-reliance-on-imported-gas-and-what-it-means-for-business-leaders"
+    },
+    {
+      "doc_id": "431e0a9b-60c6-5579-b47d-bd84a5815f06",
+      "title": "EU carbon price slides amid policy noise and fund selling",
+      "publisher": "ing_think",
+      "date": "2026-02-20",
+      "url": "https://think.ing.com/articles/eu-carbon-price-slides-amid-policy-noise-and-fund-selling200226"
+    },
+    {
+      "doc_id": "7c769efc-2449-5c8b-bfb2-2a94ca6abe0f",
+      "title": "Maritime Outlook 2026",
+      "publisher": "nor_shipowners",
+      "date": "2026-03-19",
+      "url": "https://www.rederi.no/en/reports/maritime-outlook-2026"
+    },
+    {
+      "doc_id": "318cd0fd-2dc4-524d-8e00-b6fb65c1514d",
+      "title": "All-Island Resource Adequacy Assessment 2026-2035 Main Report (Ireland)",
+      "publisher": "eirgrid",
+      "date": "2026-02-26",
+      "url": "https://www.eirgrid.ie/sites/default/files/publications/AIRAA-2026-2035_Ireland.pdf"
+    },
+    {
+      "doc_id": "24a89fc0-b0b9-5339-adaa-7aeb583ec9ba",
+      "title": "Mid-Year Situation and Outlook for Irish Agriculture July 2026",
+      "publisher": "teagasc",
+      "date": "2026-07-20",
+      "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/publications/2026/Mid-Year-Outlook-for-Irish-Agriculture-July-2026.pdf"
+    },
+    {
+      "doc_id": "12f3a8d9-4e5c-5883-bd8b-6f8b0ee8933f",
+      "title": "How rising energy prices will impact European sectors",
+      "publisher": "ing_think",
+      "date": "2026-03-16",
+      "url": "https://think.ing.com/articles/how-rising-energy-prices-will-impact-european-sectors"
+    },
+    {
+      "doc_id": "6ad627ab-8a1f-595d-8015-45b29f92b2aa",
+      "title": "Bank of Ireland Sectors Team — Manufacturing Sector H2 2025 Insights and H1 2026 Outlook",
+      "publisher": "bank_of_ireland",
+      "date": "2026-02-10",
+      "url": "https://www.thinkbusiness.ie/app/uploads/2026/02/D15695-BOI-Sectors-Manufactuing-Sector-H2-2025-Insights-and-H1-2026-Outlook-FINAL-Jan-26.pdf"
+    }
+  ]
+}

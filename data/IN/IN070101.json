@@ -1,0 +1,711 @@
+{
+  "geography": "IN",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Robust & Broad-Based Credit Growth Across Segments",
+      "description": "India's bank credit cycle remains strongly expansionary, with non-food credit accelerating 19.1% y-o-y. This growth is broad-based, supported by healthy economic activity, sustained infrastructure execution, and robust financing requirements across large industry, retail (including gold and vehicle loans), MSME, and services sectors (driven by NBFCs). This sustained demand provides a strong foundation for bank asset growth, leading to higher interest income.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "90526139-4648-5f23-8207-7a39955be741",
+      "source_title": "Corporate Credit Drives Bank Credit Growth in July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788516444_Corporate%20Credit%20Drives%20Bank%20Credit%20Growth%20in%20July%202026.pdf",
+      "source_date": "2026-09-04"
+    },
+    {
+      "index": 2,
+      "title": "Persistent Credit-Deposit Imbalance & Elevated Loan-to-Deposit Ratios",
+      "description": "Despite improved funding conditions, the banking system faces a persistent credit-deposit imbalance, with credit growth (18.3% y-o-y) outpacing deposit growth (14.7% y-o-y). This results in elevated Loan-to-Deposit Ratios (LDRs, 81.7%) compared to a year ago, implying continued pressure on banks to secure funding. The situation suggests that easing liquidity conditions may be cyclical, not structural, posing risks to funding costs and future margin expansion once temporary FCNR(B) inflows fade.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "de54155f-0f90-5b7f-96b8-9e5c1f055a7b",
+      "source_title": "Banking Spreads Widen in July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788506400_Banking%20Spreads%20Widen%20in%20July%202026.pdf",
+      "source_date": "2026-09-04"
+    },
+    {
+      "index": 3,
+      "title": "FCNR(B) Inflows Temporarily Boost Liquidity and Ease Funding Costs",
+      "description": "Strong Foreign Currency Non-Resident (Bank) [FCNR(B)] inflows significantly improved banking system liquidity, rising to Rs 6.7 lakh crore by end-August. These inflows strengthened deposit mobilisation, reduced reliance on high-cost wholesale funding (e.g., Certificates of Deposit), and allowed fresh deposit rates to decline. This cyclical improvement eased near-term funding pressures and supported a recovery in fresh spreads. However, this benefit is temporary, with the scheme's closure expected to moderate support.",
+      "type": "cyclical_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "de54155f-0f90-5b7f-96b8-9e5c1f055a7b",
+      "source_title": "Banking Spreads Widen in July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788506400_Banking%20Spreads%20Widen%20in%20July%202026.pdf",
+      "source_date": "2026-09-04"
+    },
+    {
+      "index": 4,
+      "title": "AI Integration Reshaping Banking Value Chain and Operational Efficiency",
+      "description": "AI is becoming embedded into the core fabric of banking, fundamentally transforming how institutions acquire/engage customers, evaluate risk, deliver advice, and detect threats. India's robust Digital Public Infrastructure (DPI) like UPI, DigiLocker, and Aadhaar provides a strong foundation for AI-driven underwriting, financial inclusion, and hyper-personalised banking. This shift from reactive to anticipatory and autonomous decision-making offers significant gains in efficiency, productivity, and customer outcomes, driving long-term value creation.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-01",
+      "source_doc_id": "1d45e48c-2809-542a-8b02-0b9b818ee189",
+      "source_title": "Beyond automation: How AI is reshaping the next decade of banking",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/blogs/2026/09/beyond-automation-how-ai-is-reshaping-the-next-decade-of-banking.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "index": 5,
+      "title": "Escalating AI-Driven Cybersecurity Threats and Regulatory Scrutiny",
+      "description": "The widespread adoption of AI significantly widens the banking industry's attack surface. Generative AI enables attackers to create convincing phishing campaigns, automate vulnerability hunts, and execute social engineering at scale, bypassing traditional verification controls. Deepfakes and synthetic identities pose new fraud vectors. Regulators, including the RBI and Ministry of Home Affairs, are actively warning against these risks, imposing tighter controls on AI models and emphasizing robust third-party AI governance and board-level oversight for accountability, increasing compliance burden.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-01",
+      "source_doc_id": "1d45e48c-2809-542a-8b02-0b9b818ee189",
+      "source_title": "Beyond automation: How AI is reshaping the next decade of banking",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/blogs/2026/09/beyond-automation-how-ai-is-reshaping-the-next-decade-of-banking.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "index": 6,
+      "title": "New Comprehensive RBI Technology and Digital Payments Regulatory Frameworks",
+      "description": "The RBI issued consolidated Master Directions in July 2026, establishing unified frameworks for technology governance, cybersecurity, operational resilience, and digital payment security. These directions apply to various regulated entities, including commercial and small finance banks, imposing stricter requirements on board oversight, baseline controls, incident reporting (6-hour mandate), third-party risk management, and digital payment product policies. This represents a significant structural shift towards enhanced regulatory compliance and risk management in banking technology.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-01",
+      "source_doc_id": "5117e92b-4f62-5b87-a6be-8443a84e048e",
+      "source_title": "RBI’s technology focused master directions issued on 31 July 2026",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/09/rbis-technology-focused-master-directions-issued-on-31-july-2026.html",
+      "source_date": "2026-09-01"
+    },
+    {
+      "index": 7,
+      "title": "Robust Asset Quality at Multi-Year Highs, Contained Fresh Stress",
+      "description": "The asset quality of Scheduled Commercial Banks (SCBs) continued to improve in Q1FY27, with the GNPA ratio moderating to a multi-year low of 1.71% and the NNPA ratio near a historic low of 0.40%. This improvement is driven by contained fresh slippage, consistent recoveries, upgrades, write-offs, and the resolution of legacy stressed assets. Strong Provision Coverage Ratios (PCRs) at 77.3% further enhance resilience, providing comfort for the banking system's ability to absorb potential emerging stress.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-31",
+      "source_doc_id": "4494610a-2429-5e38-b405-b2dbc28bf3f2",
+      "source_title": "Q1FY27: Strong Fundamentals Sustain Banking Sector Amid Margin Pressures",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788171472_Q1FY27%20Strong%20Fundamentals%20Sustain%20Banking%20Sector%20Amid%20Margin%20Pressures.pdf",
+      "source_date": "2026-08-31"
+    },
+    {
+      "index": 8,
+      "title": "Intense Competition for Deposits Limits Margin Expansion",
+      "description": "Despite some easing in funding costs, intense competition for deposits is expected to persist, particularly as the temporary benefit from FCNR(B) inflows fades. This competition, coupled with customers' preference for higher-yielding term deposits and capital market investments, puts continued pressure on low-cost CASA ratios. Consequently, deposit mobilisation remains critical to manage the credit-deposit gap and contain funding costs, making sustained margin expansion challenging and uneven across banks.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "de54155f-0f90-5b7f-96b8-9e5c1f055a7b",
+      "source_title": "Banking Spreads Widen in July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788506400_Banking%20Spreads%20Widen%20in%20July%202026.pdf",
+      "source_date": "2026-09-04"
+    },
+    {
+      "index": 9,
+      "title": "Digitalization of Financial Services Drives Inclusion and Efficiency",
+      "description": "India's digital payment ecosystem, particularly UPI, continues its rapid expansion, processing billions of transactions monthly and enabling greater financial inclusion. Initiatives like the digitalization of Kisan Credit Cards (KCC) through the RBI Innovation Hub significantly reduce loan disbursal times. The proliferation of Digital Banking Units in rural areas and the launch of the Unified Lending Interface (ULI) democratise credit access. These technological innovations enhance efficiency, quality, and competitiveness across financial services, especially in digital lending and rural penetration.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "729c059b-eb76-5d22-952e-21c6b9dabb71",
+      "source_title": "Banking Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/banking-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 10,
+      "title": "Increasing Operating Expenses from Strategic Technology and Branch Investments",
+      "description": "Total operating expenses for banks are projected to increase through FY27, reversing the sequential decline seen in Q1FY27. This rise is driven by continued strategic investments in branch expansion, specialist hiring, data analytics, and artificial intelligence initiatives. Public Sector Banks view branch and headcount additions as critical for future revenue growth and CASA accretion, while Private Banks are also selectively expanding. These ongoing investments will likely put pressure on cost-to-income ratios in the near to medium term.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-31",
+      "source_doc_id": "4494610a-2429-5e38-b405-b2dbc28bf3f2",
+      "source_title": "Q1FY27: Strong Fundamentals Sustain Banking Sector Amid Margin Pressures",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788171472_Q1FY27%20Strong%20Fundamentals%20Sustain%20Banking%20Sector%20Amid%20Margin%20Pressures.pdf",
+      "source_date": "2026-08-31"
+    },
+    {
+      "index": 11,
+      "title": "Upcoming ECL Framework Poses Varied Provisioning Requirements",
+      "description": "The transition to the Expected Credit Loss (ECL) framework from April 2027 is a significant structural change. While banks generally indicate adequate existing provisions, the eventual requirements will depend on individual loan pool quality and historical behavior. The framework will make Stage 2 loans more critical, requiring higher provisions for increased credit risk even before NPA classification. This could lead to bank-specific provisioning differences, impacting profitability and making the risk-return trade-off more important for higher-yielding segments.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-31",
+      "source_doc_id": "4494610a-2429-5e38-b405-b2dbc28bf3f2",
+      "source_title": "Q1FY27: Strong Fundamentals Sustain Banking Sector Amid Margin Pressures",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788171472_Q1FY27%20Strong%20Fundamentals%20Sustain%20Banking%20Sector%20Amid%20Margin%20Pressures.pdf",
+      "source_date": "2026-08-31"
+    },
+    {
+      "index": 12,
+      "title": "Weakening Credit Card Utilization as Issuance Outpaces Spending",
+      "description": "Credit card issuance is accelerating, with the outstanding card base growing at 10.1% y-o-y. However, spending growth lags behind at 7.4% y-o-y, resulting in a decline in per-card spending (2.4% y-o-y). This divergence indicates that penetration gains are outpacing usage, meaning new cardholders' spending intensity has not yet converged with existing customers. Issuers face the challenge of improving customer activation and engagement to translate the expanding card base into higher transaction volumes and avoid a decline in utilization rates.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-27",
+      "source_doc_id": "a9f47488-ebf8-5587-a60d-e0b36e678bef",
+      "source_title": "Card Issuance Outpaces Utilisation, 2026 Average Monthly Spend Tops Rs 2 Lakh Crore",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1787828549_Card%20Issuance%20Outpaces%20Utilisation%20%202026%20Average%20Monthly%20Spend%20Tops%20Rs%202%20Lakh%20Crore.pdf",
+      "source_date": "2026-08-27"
+    },
+    {
+      "index": 13,
+      "title": "Portfolio Rebalancing Towards Secured Assets for Risk Mitigation",
+      "description": "Banks are strategically rebalancing their loan portfolios, increasing exposure to secured assets such as mortgages, gold loans, and better-rated corporate clients. Concurrently, they are reducing exposure to higher-risk segments like unsecured retail and microfinance. This shift aims to enhance asset quality, manage credit risk more effectively, and maintain overall lending rates within a stable range. While improving portfolio resilience, this strategy can influence overall lending yields due to the lower-yielding nature of secured assets.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "de54155f-0f90-5b7f-96b8-9e5c1f055a7b",
+      "source_title": "Banking Spreads Widen in July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788506400_Banking%20Spreads%20Widen%20in%20July%202026.pdf",
+      "source_date": "2026-09-04"
+    },
+    {
+      "index": 14,
+      "title": "Large Borrowers Diversifying Funding Beyond Bank Credit",
+      "description": "While bank credit growth remains robust, larger corporates are increasingly diversifying their funding sources by leveraging bond markets and overseas borrowings. This trend is expected to moderate overall bank credit growth from its current elevated levels, with forecasts suggesting a normalisation to 15.0%-16.0% in FY27. This shift reduces reliance on bank loans from large industrial clients, necessitating banks to seek growth in other segments and manage their corporate lending strategies accordingly.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-04",
+      "source_doc_id": "90526139-4648-5f23-8207-7a39955be741",
+      "source_title": "Corporate Credit Drives Bank Credit Growth in July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788516444_Corporate%20Credit%20Drives%20Bank%20Credit%20Growth%20in%20July%202026.pdf",
+      "source_date": "2026-09-04"
+    },
+    {
+      "index": 15,
+      "title": "Strong Fee-Based Income Growth Supporting Bank Earnings",
+      "description": "Fee-based income for Scheduled Commercial Banks (SCBs) grew robustly by 16.3% y-o-y in Q1FY27, becoming a key support for earnings, especially as treasury income remained subdued. This growth is driven by increasing business volumes and newer fee streams from areas like insurance distribution, wealth management, credit cards, and trade and forex platforms. This diversification away from traditional interest income streams enhances overall revenue stability and profitability, despite some competitive pressures in transaction-led businesses.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-31",
+      "source_doc_id": "4494610a-2429-5e38-b405-b2dbc28bf3f2",
+      "source_title": "Q1FY27: Strong Fundamentals Sustain Banking Sector Amid Margin Pressures",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788171472_Q1FY27%20Strong%20Fundamentals%20Sustain%20Banking%20Sector%20Amid%20Margin%20Pressures.pdf",
+      "source_date": "2026-08-31"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "Banking Spreads Cyclically Widen, Sustainability Challenged by Funding Costs",
+      "description": "CareEdge notes that banking spreads widened in July 2026 due to improved funding conditions and reduced reliance on wholesale funding, leading to lower fresh deposit rates. However, the improvement is considered cyclical rather than structural, with sustainability challenges ahead. The fading impact of FCNR(B) inflows, persistent credit-deposit imbalances, and elevated bond yields are expected to limit further margin expansion, which is projected to be gradual and uneven across banks.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge",
+      "source_date": "2026-09-04",
+      "source_doc_id": "de54155f-0f90-5b7f-96b8-9e5c1f055a7b",
+      "source_title": "Banking Spreads Widen in July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788506400_Banking%20Spreads%20Widen%20in%20July%202026.pdf"
+    },
+    {
+      "index": 2,
+      "title": "Bank Credit Cycle Robust but Growth to Moderate in FY27",
+      "description": "CareEdge assesses India's bank credit cycle as firmly expansionary in July 2026, driven by broad-based demand including corporate, retail, and services. Non-food credit growth accelerated, supported by economic activity and infrastructure. However, growth is expected to gradually moderate from current near-20% levels to 15.0%-16.0% in FY27 as large corporate borrowers diversify their funding sources beyond bank credit, utilising bond markets and overseas borrowings.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge",
+      "source_date": "2026-09-04",
+      "source_doc_id": "90526139-4648-5f23-8207-7a39955be741",
+      "source_title": "Corporate Credit Drives Bank Credit Growth in July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788516444_Corporate%20Credit%20Drives%20Bank%20Credit%20Growth%20in%20July%202026.pdf"
+    },
+    {
+      "index": 3,
+      "title": "Fresh Deposit Rates Soften Near-Term, Face Upward Pressure Post-FCNR(B)",
+      "description": "CareEdge notes that fresh deposit rates declined in July 2026, driven by private sector banks and improved system liquidity from FCNR(B) inflows. This provided near-term support to spreads. However, the benefit is expected to moderate as the FCNR(B) window closed on August 31, 2026. Looking ahead, deposit rates are likely to face upward pressure as competition for funding persists amid healthy credit demand and waning temporary inflows.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge",
+      "source_date": "2026-09-04",
+      "source_doc_id": "de54155f-0f90-5b7f-96b8-9e5c1f055a7b",
+      "source_title": "Banking Spreads Widen in July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788506400_Banking%20Spreads%20Widen%20in%20July%202026.pdf"
+    },
+    {
+      "index": 4,
+      "title": "Personal Loan Growth Healthy, Yet Banks Cautious on Unsecured Segments",
+      "description": "CareEdge indicates that personal loan growth remained resilient at 16.2% y-o-y in July 2026, supported by strong demand in housing, vehicle, and gold loan segments. Gold loans, in particular, remained a key growth driver. However, credit card loan growth slowed significantly, reflecting a continued moderation in unsecured retail lending. Banks are expected to maintain a cautious stance on these unsecured segments, prioritising asset quality and prudent underwriting practices as overall growth normalizes.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge",
+      "source_date": "2026-09-04",
+      "source_doc_id": "90526139-4648-5f23-8207-7a39955be741",
+      "source_title": "Corporate Credit Drives Bank Credit Growth in July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788516444_Corporate%20Credit%20Drives%20Bank%20Credit%20Growth%20in%20July%202026.pdf"
+    },
+    {
+      "index": 5,
+      "title": "Gold Loan Growth Robust but Moderating from Peak Levels",
+      "description": "CareEdge reports that gold loan growth remained exceptionally strong at 88.1% y-o-y in July 2026, making it the fastest-growing retail credit segment. This growth is supported by elevated gold prices and sustained demand for collateral-backed borrowing. While the outlook for gold loans remains robust, the growth rate is expected to moderate from its peak levels over the past year as base effects normalise. The segment is transitioning from exceptionally high expansion to more sustainable, albeit still healthy, growth.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge",
+      "source_date": "2026-09-04",
+      "source_doc_id": "90526139-4648-5f23-8207-7a39955be741",
+      "source_title": "Corporate Credit Drives Bank Credit Growth in July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788516444_Corporate%20Credit%20Drives%20Bank%20Credit%20Growth%20in%20July%202026.pdf"
+    },
+    {
+      "index": 6,
+      "title": "India's Banking Sector Positioned for AI-Driven Transformation and Inclusion",
+      "description": "KPMG highlights India's banking sector as well-positioned for a large-scale AI transition, driven by its robust Digital Public Infrastructure (DPI), vast transaction data, and maturing fintech ecosystem. The RBI's analysis shows significant AI adoption in areas like fraud detection, customer service, and risk management. UPI, DigiLocker, and Account Aggregators form a strong foundation for AI-driven underwriting, financial inclusion, and hyper-personalised banking, creating an opportunity for a more intelligent and accessible financial ecosystem.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-09-01",
+      "source_doc_id": "1d45e48c-2809-542a-8b02-0b9b818ee189",
+      "source_title": "Beyond automation: How AI is reshaping the next decade of banking",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/blogs/2026/09/beyond-automation-how-ai-is-reshaping-the-next-decade-of-banking.html"
+    },
+    {
+      "index": 7,
+      "title": "AI to Transform Banking, Requiring Strong Governance and Human Oversight",
+      "description": "KPMG suggests that over the next decade, banking will evolve towards autonomous intelligence, making financial services more predictive, personalized, and embedded in daily life. AI's greatest impact will be in transforming human judgment, not just automating work. However, success depends on managing critical choices, including where to deploy AI, preserving human judgment, and establishing robust governance frameworks with clear accountability. Balancing innovation with accountability and ethical considerations is crucial for sustainable value creation.",
+      "stance": "cautious_positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-09-01",
+      "source_doc_id": "1d45e48c-2809-542a-8b02-0b9b818ee189",
+      "source_title": "Beyond automation: How AI is reshaping the next decade of banking",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/blogs/2026/09/beyond-automation-how-ai-is-reshaping-the-next-decade-of-banking.html"
+    },
+    {
+      "index": 8,
+      "title": "Credit and Deposit Momentum Sustained, but FCNR(B) Tapering is Key Monitorable",
+      "description": "CareEdge observes that bank credit and deposit growth maintained healthy double-digit year-on-year momentum as of mid-August 2026, reflecting sustained underlying demand. Credit growth was supported by retail, MSME, services, and infrastructure lending. However, the incremental benefit from FCNR(B) inflows is expected to moderate with the closure of the special window, making sustained domestic deposit growth critical. The elevated Loan-to-Deposit Ratio (LDR) remains a key monitorable.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge",
+      "source_date": "2026-08-31",
+      "source_doc_id": "d50161fe-862d-5145-8a11-c9eb747c7e5a",
+      "source_title": "Credit and Deposits Decline Sequentially in Mid-August",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788176442_Credit%20and%20Deposit%20Outstanding%20Face%20Concurrent%20Sequential%20Decline%20for%20Mid-August%20Fortnight.pdf"
+    },
+    {
+      "index": 9,
+      "title": "Banking Sector Strong on Fundamentals, Faces Margin and Funding Pressures",
+      "description": "CareEdge highlights the resilience of the Indian banking sector in Q1FY27, driven by strong credit growth, improving asset quality, and robust capitalisation. Profitability remained near decadal highs, supported by lower credit costs. However, margin performance was mixed, with Private Banks facing compression while Public Sector Banks saw marginal improvement. Deposit mobilisation continued to lag credit growth, maintaining elevated LDRs. Margin sustainability and potential stress in unsecured retail/MSME segments are key monitorables, especially with the upcoming ECL framework.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge",
+      "source_date": "2026-08-31",
+      "source_doc_id": "4494610a-2429-5e38-b405-b2dbc28bf3f2",
+      "source_title": "Q1FY27: Strong Fundamentals Sustain Banking Sector Amid Margin Pressures",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788171472_Q1FY27%20Strong%20Fundamentals%20Sustain%20Banking%20Sector%20Amid%20Margin%20Pressures.pdf"
+    },
+    {
+      "index": 10,
+      "title": "Credit Card Spending Recovers but Utilization Weakens Amid Rapid Issuance",
+      "description": "CareEdge reports that credit card spending recovered in July 2026, reflecting resilient consumption. However, card issuance grew faster than spending, leading to softer per-card spends and indicating that penetration gains are outpacing usage. While Private Banks regained some market share, Public Sector Banks are broadening their growth beyond SBI. The outlook anticipates festive season momentum, but future performance depends heavily on customer activation and spending engagement rather than just card issuance volumes.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge",
+      "source_date": "2026-08-27",
+      "source_doc_id": "a9f47488-ebf8-5587-a60d-e0b36e678bef",
+      "source_title": "Card Issuance Outpaces Utilisation, 2026 Average Monthly Spend Tops Rs 2 Lakh Crore",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1787828549_Card%20Issuance%20Outpaces%20Utilisation%20%202026%20Average%20Monthly%20Spend%20Tops%20Rs%202%20Lakh%20Crore.pdf"
+    },
+    {
+      "index": 11,
+      "title": "Indian Banking Sector Poised for Growth Driven by Digitalization and Inclusion",
+      "description": "IBEF projects significant growth for the Indian banking sector, anticipating it to become the third-largest domestically by 2050. This growth is underpinned by robust credit demand, especially from MSMEs via a new digital credit model, and increasing financial inclusion through initiatives like Jan Dhan Yojana and the digitalization of Agri-finance. The expanding UPI ecosystem and the launch of the Unified Lending Interface (ULI) are democratizing credit access, while technological innovations are enhancing efficiency and competitiveness across financial services.",
+      "stance": "positive",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "source_doc_id": "729c059b-eb76-5d22-952e-21c6b9dabb71",
+      "source_title": "Banking Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/banking-india"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 220.1,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Retail & MSME Lending",
+          "description": "Sustained demand across retail and MSME segments continues to support credit uptake."
+        },
+        {
+          "driver": "Working Capital & Infrastructure Financing",
+          "description": "Continued working-capital requirements and financing needs from infrastructure-linked sectors drive credit demand."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total outstanding bank credit across Scheduled Commercial Banks (SCBs) as of August 15, 2026.",
+      "source_firm": "CareEdge",
+      "source_date": "2026-08-31",
+      "data_confidence": "high",
+      "source_doc_id": "d50161fe-862d-5145-8a11-c9eb747c7e5a",
+      "source_title": "Credit and Deposits Decline Sequentially in Mid-August",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788176442_Credit%20and%20Deposit%20Outstanding%20Face%20Concurrent%20Sequential%20Decline%20for%20Mid-August%20Fortnight.pdf"
+    },
+    {
+      "index": 2,
+      "tam_value": 269.3,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Term Deposit Growth",
+          "description": "Strong growth in term deposits (14.85% y-o-y) remains the key driver of deposit mobilisation."
+        },
+        {
+          "driver": "FCNR(B) Inflows",
+          "description": "Foreign Currency Non-Resident (Bank) inflows provided significant, albeit temporary, support for deposit mobilisation."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total outstanding bank deposits across Scheduled Commercial Banks (SCBs) as of August 15, 2026.",
+      "source_firm": "CareEdge",
+      "source_date": "2026-08-31",
+      "data_confidence": "high",
+      "source_doc_id": "d50161fe-862d-5145-8a11-c9eb747c7e5a",
+      "source_title": "Credit and Deposits Decline Sequentially in Mid-August",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788176442_Credit%20and%20Deposit%20Outstanding%20Face%20Concurrent%20Sequential%20Decline%20for%20Mid-August%20Fortnight.pdf"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Lower Fresh Deposit Costs",
+          "description": "A 9 bps m-o-m decline in fresh deposit rates (to 5.90%) following FCNR(B) inflows directly contributed to the widening of fresh spreads."
+        },
+        {
+          "driver": "Stable Fresh Lending Rates",
+          "description": "Fresh lending rates remained largely unchanged (at 8.52%), allowing banks to retain the benefit of lower funding costs and support margin recovery."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Weighted Average Lending Rate (WALR) minus Weighted Average Term Deposit Rate (WADTDR) for fresh loans and deposits by Scheduled Commercial Banks (SCBs) in July 2026.",
+      "source_firm": "CareEdge",
+      "source_date": "2026-09-04",
+      "data_confidence": "high",
+      "source_doc_id": "de54155f-0f90-5b7f-96b8-9e5c1f055a7b",
+      "source_title": "Banking Spreads Widen in July 2026",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788506400_Banking%20Spreads%20Widen%20in%20July%202026.pdf"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Contained Fresh Slippage",
+          "description": "Lower fresh additions to bad loans contributed significantly to the reduction in the GNPA ratio."
+        },
+        {
+          "driver": "Recoveries and Write-offs",
+          "description": "Ongoing recoveries, upgrades, and strategic write-offs continued to offset new non-performing assets."
+        },
+        {
+          "driver": "Resolution of Legacy Assets",
+          "description": "The resolution of legacy stressed assets further improved the overall asset quality metrics."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Gross Non-Performing Assets (GNPA) ratio for Scheduled Commercial Banks (SCBs) in Q1FY27.",
+      "source_firm": "CareEdge",
+      "source_date": "2026-08-31",
+      "data_confidence": "high",
+      "source_doc_id": "4494610a-2429-5e38-b405-b2dbc28bf3f2",
+      "source_title": "Q1FY27: Strong Fundamentals Sustain Banking Sector Amid Margin Pressures",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788171472_Q1FY27%20Strong%20Fundamentals%20Sustain%20Banking%20Sector%20Amid%20Margin%20Pressures.pdf"
+    },
+    {
+      "index": 5,
+      "tam_value": 2.09,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Resilient Consumption Trends",
+          "description": "Healthy consumer demand, supported by indicators like GST collections and automobile retail registrations, drove spending recovery."
+        },
+        {
+          "driver": "Online Sale Events & Promotions",
+          "description": "Major online sale events and card-linked promotional offers boosted e-commerce spending, which accounted for 63.5% of total spends."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Aggregate credit card spending in India for July 2026.",
+      "source_firm": "CareEdge",
+      "source_date": "2026-08-27",
+      "data_confidence": "high",
+      "source_doc_id": "a9f47488-ebf8-5587-a60d-e0b36e678bef",
+      "source_title": "Card Issuance Outpaces Utilisation, 2026 Average Monthly Spend Tops Rs 2 Lakh Crore",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1787828549_Card%20Issuance%20Outpaces%20Utilisation%20%202026%20Average%20Monthly%20Spend%20Tops%20Rs%202%20Lakh%20Crore.pdf"
+    },
+    {
+      "index": 6,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Improved Asset Quality & Lower Credit Costs",
+          "description": "Contained credit costs and improving asset quality significantly supported profitability, contributing to a stable RoA."
+        },
+        {
+          "driver": "Higher Margins for PVBs",
+          "description": "Private Sector Banks (PVBs) achieved superior margins and higher exposure to higher-yielding retail/MSME segments, enabling better asset-level profitability."
+        },
+        {
+          "driver": "Loan Portfolio Mix",
+          "description": "PSBs' lower RoA was partly due to higher exposure to relatively lower-yielding corporate and infrastructure segments."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Return on Assets (RoA) for Scheduled Commercial Banks (SCBs) in Q1FY27.",
+      "source_firm": "CareEdge",
+      "source_date": "2026-08-31",
+      "data_confidence": "high",
+      "source_doc_id": "4494610a-2429-5e38-b405-b2dbc28bf3f2",
+      "source_title": "Q1FY27: Strong Fundamentals Sustain Banking Sector Amid Margin Pressures",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788171472_Q1FY27%20Strong%20Fundamentals%20Sustain%20Banking%20Sector%20Amid%20Margin%20Pressures.pdf"
+    },
+    {
+      "index": 7,
+      "tam_value": 58.16,
+      "tam_unit": "lakh",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Financial Inclusion Initiatives",
+          "description": "Government programs like Pradhan Mantri Jan Dhan Yojana (PMJDY) are designed to expand access to formal banking services for the unbanked and underbanked population."
+        },
+        {
+          "driver": "Direct Benefit Transfers (DBT)",
+          "description": "DBT mechanisms facilitate the direct transfer of government benefits, encouraging account opening and usage."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "Jan Dhan accounts provide an avenue for the poor to bring savings into the formal financial system and access credit, taking them away from informal lenders.",
+          "opportunity": "Expanding Formal Savings & Credit"
+        }
+      ],
+      "methodology": "Total number of Jan Dhan accounts as of April 29, 2026.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "729c059b-eb76-5d22-952e-21c6b9dabb71",
+      "source_title": "Banking Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/banking-india"
+    },
+    {
+      "index": 8,
+      "tam_value": 40.07,
+      "tam_unit": "INR_lakh_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Support for Micro-Enterprises",
+          "description": "The scheme provides access to formal credit for micro and small enterprises, supporting business expansion and employment generation across various sectors."
+        },
+        {
+          "driver": "Financial Inclusion for Small Businesses",
+          "description": "Enables wider access to formal credit for manufacturing, trading, services, and allied agricultural activities, reducing reliance on informal lenders."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [
+        {
+          "description": "The substantial number and value of loans facilitate the growth of small businesses, leading to economic activity and job creation.",
+          "opportunity": "Driving MSME Growth"
+        }
+      ],
+      "methodology": "Total value of loans sanctioned under the Pradhan Mantri Mudra Yojana (PMMY) as of March 27, 2026.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "729c059b-eb76-5d22-952e-21c6b9dabb71",
+      "source_title": "Banking Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/banking-india"
+    },
+    {
+      "index": 9,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Stronger Credit Growth",
+          "description": "Higher loan volumes, particularly in the RAM (Retail, Agriculture, MSME) segments, contributed to increased interest income."
+        },
+        {
+          "driver": "Eased Funding Costs",
+          "description": "Lower cost of funds, partly due to the repricing of high-cost deposits, helped improve margins."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Net Interest Margin (NIM) for Public Sector Banks (PSBs) in Q1FY27.",
+      "source_firm": "CareEdge",
+      "source_date": "2026-08-31",
+      "data_confidence": "high",
+      "source_doc_id": "4494610a-2429-5e38-b405-b2dbc28bf3f2",
+      "source_title": "Q1FY27: Strong Fundamentals Sustain Banking Sector Amid Margin Pressures",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1788171472_Q1FY27%20Strong%20Fundamentals%20Sustain%20Banking%20Sector%20Amid%20Margin%20Pressures.pdf"
+    }
+  ],
+  "sources": [
+    "CareEdge",
+    "KPMG",
+    "IBEF"
+  ],
+  "documents": [
+    {
+      "doc_id": "de54155f-0f90-5b7f-96b8-9e5c1f055a7b",
+      "title": "Banking Spreads Widen in July 2026",
+      "publisher": "careedge",
+      "date": "2026-09-04",
+      "url": "https://www.careratings.com/uploads/newsfiles/1788506400_Banking%20Spreads%20Widen%20in%20July%202026.pdf"
+    },
+    {
+      "doc_id": "90526139-4648-5f23-8207-7a39955be741",
+      "title": "Corporate Credit Drives Bank Credit Growth in July 2026",
+      "publisher": "careedge",
+      "date": "2026-09-04",
+      "url": "https://www.careratings.com/uploads/newsfiles/1788516444_Corporate%20Credit%20Drives%20Bank%20Credit%20Growth%20in%20July%202026.pdf"
+    },
+    {
+      "doc_id": "1d45e48c-2809-542a-8b02-0b9b818ee189",
+      "title": "Beyond automation: How AI is reshaping the next decade of banking",
+      "publisher": "kpmg",
+      "date": "2026-09-01",
+      "url": "https://kpmg.com/in/en/blogs/2026/09/beyond-automation-how-ai-is-reshaping-the-next-decade-of-banking.html"
+    },
+    {
+      "doc_id": "d50161fe-862d-5145-8a11-c9eb747c7e5a",
+      "title": "Credit and Deposits Decline Sequentially in Mid-August",
+      "publisher": "careedge",
+      "date": "2026-08-31",
+      "url": "https://www.careratings.com/uploads/newsfiles/1788176442_Credit%20and%20Deposit%20Outstanding%20Face%20Concurrent%20Sequential%20Decline%20for%20Mid-August%20Fortnight.pdf"
+    },
+    {
+      "doc_id": "4494610a-2429-5e38-b405-b2dbc28bf3f2",
+      "title": "Q1FY27: Strong Fundamentals Sustain Banking Sector Amid Margin Pressures",
+      "publisher": "careedge",
+      "date": "2026-08-31",
+      "url": "https://www.careratings.com/uploads/newsfiles/1788171472_Q1FY27%20Strong%20Fundamentals%20Sustain%20Banking%20Sector%20Amid%20Margin%20Pressures.pdf"
+    },
+    {
+      "doc_id": "a9f47488-ebf8-5587-a60d-e0b36e678bef",
+      "title": "Card Issuance Outpaces Utilisation, 2026 Average Monthly Spend Tops Rs 2 Lakh Crore",
+      "publisher": "careedge",
+      "date": "2026-08-27",
+      "url": "https://www.careratings.com/uploads/newsfiles/1787828549_Card%20Issuance%20Outpaces%20Utilisation%20%202026%20Average%20Monthly%20Spend%20Tops%20Rs%202%20Lakh%20Crore.pdf"
+    },
+    {
+      "doc_id": "729c059b-eb76-5d22-952e-21c6b9dabb71",
+      "title": "Banking Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/banking-india"
+    },
+    {
+      "doc_id": "5117e92b-4f62-5b87-a6be-8443a84e048e",
+      "title": "RBI’s technology focused master directions issued on 31 July 2026",
+      "publisher": "kpmg",
+      "date": "2026-09-01",
+      "url": "https://kpmg.com/in/en/insights/2026/09/rbis-technology-focused-master-directions-issued-on-31-july-2026.html"
+    }
+  ]
+}

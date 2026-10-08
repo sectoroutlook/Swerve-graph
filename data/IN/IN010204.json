@@ -1,0 +1,743 @@
+{
+  "geography": "IN",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Elevated LPG sourcing costs due to geopolitical and logistical disruptions",
+      "description": "The West Asia conflict and Strait of Hormuz closure caused unprecedented disruptions, significantly increasing LPG procurement costs for OMCs. Diversification of sourcing to the United States, while ensuring supply, came at a substantially higher landed cost due to longer shipping distances and increased freight. Although Saudi CP prices have softened recently, OMCs incurred significant under-recoveries (Rs 13,700 crore in Q1FY27) due to the widening gap between sourcing costs and regulated retail prices, keeping LPG profitability under pressure. This impacts OMCs directly as an input cost squeeze.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-14",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf",
+      "source_date": "2026-08-14"
+    },
+    {
+      "index": 2,
+      "title": "Partial retail price hikes for petrol and diesel offset crude cost increases",
+      "description": "Following crude oil price spikes, OMCs implemented retail pump price hikes of approximately Rs 7.5/litre each for petrol and diesel since mid-May 2026. These hikes passed through an estimated $12-13/bbl of the crude increase to consumers. This action, combined with an earlier government excise duty cut, helped OMCs recover some of the increased input costs. While offering partial relief to OMC margins, such price adjustments can temper consumer demand, creating a delicate balance for the marketing and retail segment.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-14",
+      "source_doc_id": "441f51e4-bcdc-5903-9f9d-a8b790be4d53",
+      "source_title": "Crude Oil at the Geo-political Crossroads",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786703928_Crude%20Oil%20at%20the%20Geo-political%20Crossroads.pdf",
+      "source_date": "2026-08-14"
+    },
+    {
+      "index": 3,
+      "title": "Sustained high crude oil prices pose significant risk to OMC profitability",
+      "description": "A sustained increase in Brent crude oil prices above $100/bbl, and particularly beyond the estimated OMC operating profit breakeven of ~$115/bbl, represents a key risk. While OMCs currently possess a comfortable $27-29/bbl headroom (as of August 2026), this buffer could quickly erode if global crude prices surge unexpectedly or if the proposed US Graham Act is strictly enforced, compelling India to exit discounted Russian crude. This scenario could trigger March 2026-style stress, demanding urgent policy measures.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-14",
+      "source_doc_id": "441f51e4-bcdc-5903-9f9d-a8b790be4d53",
+      "source_title": "Crude Oil at the Geo-political Crossroads",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786703928_Crude%20Oil%20at%20the%20Geo-political%20Crossroads.pdf",
+      "source_date": "2026-08-14"
+    },
+    {
+      "index": 4,
+      "title": "Government excise duty cuts buffer OMCs from crude price shocks",
+      "description": "The Government of India's decision to cut excise duty on petrol and diesel by Rs 10/litre in March 2026 effectively absorbed a crude price increase of roughly $16-17/bbl on behalf of OMCs. This swift policy intervention serves as a crucial financial cushion, preventing direct margin compression for OMCs during periods of elevated crude volatility. Such government backing plays a vital role in stabilizing OMC profitability, especially when international crude prices spike, ensuring continued fuel availability without immediate and full pass-through to consumers.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-14",
+      "source_doc_id": "441f51e4-bcdc-5903-9f9d-a8b790be4d53",
+      "source_title": "Crude Oil at the Geo-political Crossroads",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786703928_Crude%20Oil%20at%20the%20Geo-political%20Crossroads.pdf",
+      "source_date": "2026-08-14"
+    },
+    {
+      "index": 5,
+      "title": "High LPG under-recoveries persist despite compensation and price hikes",
+      "description": "OMCs incurred substantial LPG under-recoveries, reaching approximately Rs 13,700 crore in Q1FY27 even after accounting for Rs 7,500 crore in government compensation. The cumulative under-recovery burden swelled to Rs 61,900 crore by June 30, 2026. Despite retail price hikes and government support, the magnitude of these losses from selling LPG below market-determined prices, exacerbated by supply chain disruptions, continues to pressure OMC balance sheets and profitability in the LPG distribution segment. This signals an ongoing financial strain for OMCs.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-14",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf",
+      "source_date": "2026-08-14"
+    },
+    {
+      "index": 6,
+      "title": "Diversification of crude and LPG sourcing enhances energy security but increases costs",
+      "description": "India has significantly diversified its crude and LPG import sources, pivoting away from traditional West Asian suppliers to countries like Russia and the United States, especially during disruptions like the Strait of Hormuz closure. This shift, while bolstering energy security and averting domestic shortages, has come at a higher landed cost due to longer shipping distances and increased freight charges. The structural change reduces reliance on single chokepoints but introduces higher procurement expenses for OMCs, reflecting a trade-off between security and cost efficiency.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-14",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf",
+      "source_date": "2026-08-14"
+    },
+    {
+      "index": 7,
+      "title": "INR depreciation raises import costs and compresses OMC margins",
+      "description": "A depreciating Indian Rupee (INR) against the USD directly increases the cost of imported crude oil and refined products for OMCs. This higher procurement cost compresses their marketing margins if retail prices cannot be fully or immediately adjusted to reflect the currency movement. The USD/INR exchange rate, which has been under pressure from global turmoil and widening current account deficits, acts as a significant cost channel, directly impacting the profitability of marketing and retail operations, as OMCs absorb some of the FX impact.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-02",
+      "source_doc_id": "88d9df40-81c1-5661-ad0b-cfa2935c21f1",
+      "source_title": "Credit Quality Assessment H2FY26",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1775146282_Credit%20Quality%20Assessment%20H2FY26.pdf",
+      "source_date": "2026-04-02"
+    },
+    {
+      "index": 8,
+      "title": "Ethanol Blending Programme (EBP) success embeds ethanol in fuel system",
+      "description": "India's EBP has successfully scaled, achieving E20 blending ahead of its 2030 target (20% in ESY 2025–26). This signifies ethanol's transition from a marginal additive to an embedded component of the transport fuel system. The programme has created a robust ecosystem linking agriculture, processing, and fuel distribution, delivering significant benefits like foreign exchange savings (~INR1.67 lakh crore) and crude oil displacement (~283 lakh metric tonnes). This structural shift establishes a strong domestic alternative fuel base for OMCs and benefits the wider economy.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 9,
+      "title": "Emergence of flex-fuel ecosystem with higher blending standards and infrastructure",
+      "description": "India is transitioning to a diversified ethanol-driven fuel architecture with the notification of higher blending standards (E22–E30) and the early-stage deployment of flex-fuel pathways (E85/E100). Initial rollout of E85 dispensing infrastructure across select retail outlets and the introduction of flex-fuel vehicles by OEMs (Maruti Suzuki, Hero MotoCorp) indicate a gradual build-up of a compatible vehicle stock and fuel distribution capability. This structural shift creates pathways for incremental demand beyond E20 and greater strategic flexibility in the transport fuel mix.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 10,
+      "title": "Infrastructure upgrades required for multi-grade ethanol fuels pose significant capex",
+      "description": "The transition to higher ethanol blends (E85/E100) necessitates a multi-grade fuel system, requiring significant upgrades across India’s vast fuel distribution network of ~100,000 stations. This involves segregation in storage, transport, and dispensing systems to handle multiple blends simultaneously, impacting tanks, pipelines, and equipment. The existing E20 infrastructure is designed for a uniform product, meaning OMCs face substantial incremental capital expenditure and operational complexity to reconfigure for a demand-responsive, multi-grade system, potentially slowing the rollout of higher blends.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 11,
+      "title": "Limited consumer economic incentive and performance trade-offs for higher ethanol blends",
+      "description": "Consumer adoption of higher ethanol blends is hampered by a lack of perceived economic advantage, as the pricing benefits of ethanol are not fully passed on. Combined with the higher upfront cost of flex-fuel vehicles (FFVs) and performance trade-offs like lower fuel efficiency, consumers currently lack strong incentives to switch. Unlike the 'behaviourally invisible' E20 transition, higher blends require active fuel choice not yet supported by the distribution system, limiting demand pull despite policy efforts to expand blending mandates.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 12,
+      "title": "Ethanol pricing rigidity limits market responsiveness and consumer benefits",
+      "description": "The current administered, cost-based pricing framework for ethanol, while ensuring producer viability, limits responsiveness to real-time market conditions, including global crude prices. This structure operates with inherent lags and primarily captures value upstream (distillers, OMC procurement) rather than transmitting benefits to end-users. As the system moves beyond E20, this rigidity creates misalignment, hindering ethanol's ability to act as a dynamic lever against crude price volatility and dampening consumer demand for higher blends due to insufficient economic advantage at the pump.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 13,
+      "title": "Feedstock and resource constraints limit 1G ethanol expansion scalability",
+      "description": "Scaling 1G ethanol production, heavily reliant on sugarcane and grains, faces significant structural constraints. The 'food-versus-fuel' dilemma arises as diverting grains for ethanol raises concerns about competing uses, particularly at higher volumes. Furthermore, sugarcane-based ethanol production is highly water-intensive (approx. 2,860 litres of water per litre of ethanol), making large-scale expansion increasingly resource-constrained. These limitations underscore the challenge of relying solely on 1G pathways to meet ambitious blending targets, pushing for alternative, more sustainable feedstock sources like 2G ethanol.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 14,
+      "title": "Ethanol demand ceiling at E20 leads to supply outstripping absorption",
+      "description": "The current ethanol ecosystem, anchored around a fixed E20 blending mandate, has created an effective demand ceiling, with supply beginning to outpace near-term absorption capacity. In ESY 2025–26, ethanol supply offers (~1,776 crore litres) significantly exceeded OMC requirements (~1,050 crore litres), reflecting the demand cap. In the absence of a clearly sequenced and scalable pathway beyond E20, supply growth is likely to continue outpacing demand creation, risking underutilization of expanded production capacity and dampening further investment in ethanol production.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 15,
+      "title": "Geopolitical and logistics risks disrupt energy supply and prices",
+      "description": "Intensified geopolitical tensions, particularly the West Asia conflict and the closure of the Strait of Hormuz, have severely disrupted global energy trade routes and triggered supply-side constraints. This led to drastic jumps in international energy prices (Brent crude +55%, LNG JKM +90% since conflict start). For OMCs, this directly impacts input costs for crude and LPG, creates supply uncertainty, and leads to inventory valuation risks. While OMCs have shown agility in sourcing, sustained high prices and supply chokepoints pose persistent operational and financial challenges, impacting profitability and requiring policy support.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-02",
+      "source_doc_id": "88d9df40-81c1-5661-ad0b-cfa2935c21f1",
+      "source_title": "Credit Quality Assessment H2FY26",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1775146282_Credit%20Quality%20Assessment%20H2FY26.pdf",
+      "source_date": "2026-04-02"
+    },
+    {
+      "index": 16,
+      "title": "Government support for LPG through Ujjwala Yojana expands customer base",
+      "description": "The Pradhan Mantri Ujjwala Yojana continues to be a significant tailwind for LPG distribution. With approximately 10.35 crore beneficiaries as of December 2025 and an additional 25 lakh connections approved for FY2025-26, the scheme aims for full saturation of LPG coverage. This direct government intervention expands the customer base for OMCs' LPG distribution business, driving higher sales volumes and contributing to revenue growth. It ensures household energy security and supports the wider adoption of cleaner cooking fuels, solidifying LPG's market position.",
+      "type": "upside_driver",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 17,
+      "title": "Fiscal deficit pressure threatens government petroleum subsidy support",
+      "description": "A rising fiscal deficit poses a significant risk to OMCs, as it can reduce the government's headroom to absorb petroleum and LPG subsidies or lead to delayed reimbursements. When the deficit is wide, OMCs may be forced to absorb under-recoveries or face higher fuel taxes, directly impacting their cash flows and profitability. This macro-fiscal constraint introduces policy risk, potentially eroding the critical 'partial cushion' that government backing currently provides to OMCs against crude price volatility and input cost pressures.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-14",
+      "source_doc_id": "441f51e4-bcdc-5903-9f9d-a8b790be4d53",
+      "source_title": "Crude Oil at the Geo-political Crossroads",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786703928_Crude%20Oil%20at%20the%20Geo-political%20Crossroads.pdf",
+      "source_date": "2026-08-14"
+    },
+    {
+      "index": 18,
+      "title": "Slow adoption rate of Flex-Fuel Vehicles limits higher ethanol blend uptake",
+      "description": "Despite the introduction of flex-fuel vehicles (FFVs) in two-wheeler and passenger vehicle segments, their adoption is expected to be gradual. With annual passenger vehicle sales at ~4.7 million units, FFV penetration adds only ~0.2–0.5 million units yearly. Given the long lifespan of vehicles, higher ethanol blends like E85 will scale slowly as the existing fleet is progressively replaced. This slow build-up in compatible vehicle stock acts as a headwind, limiting the pace at which increased ethanol supply and infrastructure rollout can translate into actual demand for higher blends.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-01",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html",
+      "source_date": "2026-06-01"
+    },
+    {
+      "index": 19,
+      "title": "Rising petroleum consumption drives higher sales volumes for OMCs",
+      "description": "India's total petroleum products consumption increased to 243.19 MMT in FY26, with a 10-year CAGR of 3.82%, driven by rapid economic growth, urbanization, and rising incomes. This robust and growing demand directly translates to higher sales volumes for OMCs across auto fuels (petrol, diesel) and LPG. This strong underlying demand acts as a fundamental tailwind, supporting revenue growth and capacity utilization for OMCs in the marketing and retail segment, cushioning against some input cost pressures and external shocks.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-05-31",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india",
+      "source_date": "2026-05-31"
+    },
+    {
+      "index": 20,
+      "title": "High tax and duty components on fuels reduce OMC net realization",
+      "description": "An increase in the tax and duty components of petrol and diesel prices directly reduces the net realization for OMCs per litre sold. This squeezes their margins, as OMCs often cannot fully pass on these increased costs to consumers due to policy or market competition. This taxation channel impacts the revenue and cost structure, compressing profitability for the marketing and retail segment, particularly in a price-sensitive market where demand elasticity can be a factor if retail prices rise too sharply.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-02",
+      "source_doc_id": "88d9df40-81c1-5661-ad0b-cfa2935c21f1",
+      "source_title": "Credit Quality Assessment H2FY26",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1775146282_Credit%20Quality%20Assessment%20H2FY26.pdf",
+      "source_date": "2026-04-02"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "OMCs possess comfortable operating profit headroom but face risk if crude exceeds $100/bbl",
+      "description": "CareEdge Ratings indicates that Indian OMCs are in a relatively comfortable position with Brent crude at $86-88/bbl, maintaining an estimated $27-29/bbl operating profit headroom before breakeven. This buffer is significantly better than the low single-digit margin seen during the March-April 2026 spike. However, a sustained rise in crude prices above $100/bbl remains a critical monitorable, as breaching the estimated $115/bbl breakeven point would necessitate fresh policy interventions to avoid margin compression.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-08-14",
+      "source_doc_id": "441f51e4-bcdc-5903-9f9d-a8b790be4d53",
+      "source_title": "Crude Oil at the Geo-political Crossroads",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786703928_Crude%20Oil%20at%20the%20Geo-political%20Crossroads.pdf"
+    },
+    {
+      "index": 2,
+      "title": "LPG under-recoveries projected to fall 40% Q-o-Q in Q2FY27",
+      "description": "CareEdge Ratings forecasts a significant moderation in LPG under-recoveries, expecting them to fall by approximately 40% quarter-on-quarter in Q2FY27. This improvement is attributed to the recent decline in the Saudi Contract Price (Saudi CP) from July 2026, which reduces LPG sourcing costs for OMCs. Despite this moderation, the cumulative under-recovery burden is likely to remain substantial in the near term, continuing to pressure OMCs' LPG profitability.",
+      "stance": "cautious_positive",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-08-14",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf"
+    },
+    {
+      "index": 3,
+      "title": "Geopolitical and logistics risks increasingly shape India's LPG economics",
+      "description": "CareEdge Ratings highlights that recent volatile geopolitical events, particularly the closure of the Strait of Hormuz, have significantly increased the influence of geopolitical and logistics risks on India's LPG sector. These disruptions compelled India to diversify sourcing and increase domestic production, safeguarding availability but at substantially higher costs. This underscores a structural shift where external factors exert greater pressure on LPG economics, requiring continued agility in policy and sourcing strategies.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-08-14",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf"
+    },
+    {
+      "index": 4,
+      "title": "LPG profitability for OMCs to remain pressured despite moderation in under-recoveries",
+      "description": "CareEdge Ratings maintains a cautious outlook on OMCs' LPG profitability, projecting it to remain under pressure even with an expected 40% q-o-q fall in under-recoveries during Q2FY27. The cumulative under-recovery burden, which surged due to supply chain disruptions and higher sourcing costs, is still substantial. Despite government compensation and partial retail price hikes, OMCs may continue to absorb a significant portion of these costs, impacting their overall profitability in the LPG segment.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-08-14",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf"
+    },
+    {
+      "index": 5,
+      "title": "E20 blending achieved ahead of schedule, embedding ethanol in transport fuel system",
+      "description": "KPMG notes that India's Ethanol Blended Petrol (EBP) programme has reached a strategic inflection point, successfully achieving the E20 blending target ahead of schedule (20% in ESY 2025–26). This accomplishment reflects strong policy intent and the development of an integrated ecosystem across agriculture, distillation, OMC procurement, logistics, and retail distribution. Ethanol is now a core component of the transport fuel system, rather than a marginal blending agent, signifying a major milestone in India's energy transition.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html"
+    },
+    {
+      "index": 6,
+      "title": "Ethanol's role evolving to transport energy backbone to buffer crude price shocks",
+      "description": "KPMG argues that ethanol's role is expanding beyond a mere blending component to a potential transport energy backbone, capable of moderating India's exposure to external fuel price volatility. Anchored in domestic production and already integrated into the fuel system, ethanol offers insulation against global crude price shocks which drive inflation and fiscal pressures. This strategic repositioning aims for energy sovereignty, where domestic cost structures play a larger role in determining retail prices.",
+      "stance": "positive",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html"
+    },
+    {
+      "index": 7,
+      "title": "Ethanol blending system faces structural misalignment hindering progress beyond E20",
+      "description": "KPMG identifies that India's ethanol ecosystem is at a point of structural misalignment, preventing system-wide scale-up beyond the E20 mandate. Ethanol producers face underutilization risk, OMCs are cautious on multi-grade infrastructure capex, and OEMs hesitate to scale flex-fuel vehicles without clear demand visibility. This disjointed progress means that the macroeconomic benefits of ethanol are not fully transmitted to consumers, limiting a strong demand pull and indicating that the constraint is systemic alignment, not individual stakeholder readiness.",
+      "stance": "cautious_negative",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html"
+    },
+    {
+      "index": 8,
+      "title": "Ethanol supply growth likely to outpace demand without clear post-E20 pathways",
+      "description": "KPMG warns that in the absence of a clearly sequenced and scalable pathway beyond the E20 blending target, ethanol supply growth is likely to continue outstripping demand creation. The current system, designed around fixed blending mandates, creates an inherent demand ceiling once the target is met. While higher blend standards (E22-E30) and flex-fuel pathways exist, their large-scale deployment remains in early stages, contributing to potential underutilization for ethanol producers.",
+      "stance": "cautious_negative",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html"
+    },
+    {
+      "index": 9,
+      "title": "Sustained high energy prices probable even with early de-escalation of West Asia conflict",
+      "description": "CareEdge Ratings projects that international energy prices, including Brent crude and LNG JKM, are likely to remain elevated in FY27 even if the West Asia conflict de-escalates early. This is due to trade route disruptions, supply-side constraints from offline production facilities, and the significant time required to restore these capacities. The continued threat of further disruptions reinforces the expectation of persistently high energy prices, posing a key monitorable for India's oil and gas downstream sector.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-02",
+      "source_doc_id": "88d9df40-81c1-5661-ad0b-cfa2935c21f1",
+      "source_title": "Credit Quality Assessment H2FY26",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1775146282_Credit%20Quality%20Assessment%20H2FY26.pdf"
+    },
+    {
+      "index": 10,
+      "title": "OMCs face moderate impact from West Asia crisis due to price pass-through and government backing",
+      "description": "CareEdge Ratings assesses OMCs as having a moderate impact from the West Asia crisis. While they face direct exposure to crude oil price volatility and supply disruptions, their ability to pass on price changes (albeit with some lag) and strong government backing provide a partial cushion. However, margins can still be volatile in the interim due to these pressures. This indicates a degree of resilience, but also highlights ongoing operational and profitability risks.",
+      "stance": "neutral",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-04-02",
+      "source_doc_id": "88d9df40-81c1-5661-ad0b-cfa2935c21f1",
+      "source_title": "Credit Quality Assessment H2FY26",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1775146282_Credit%20Quality%20Assessment%20H2FY26.pdf"
+    },
+    {
+      "index": 11,
+      "title": "Policy required to align ethanol pricing and infrastructure for greater consumer benefits",
+      "description": "KPMG emphasizes that achieving the next phase of ethanol scale-up necessitates aligning incentives across the value chain, particularly ensuring that pricing mechanisms transmit benefits directly to end-users. Coordinated evolution in infrastructure, vehicle deployment, and policy frameworks is crucial. The current administered, cost-based pricing system for ethanol lacks market responsiveness and does not adequately pass on benefits to consumers, hindering widespread adoption of higher blends and the overall transition to a more flexible, ethanol-driven transport fuel system.",
+      "stance": "cautious_negative",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-06-01",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 5.0,
+      "historical_cagr_period": "FY17-FY26",
+      "demand_drivers": [
+        {
+          "driver": "Household consumption",
+          "description": "LPG is a key household fuel, with consumption growth outpacing domestic production."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Analysis of cumulative LPG consumption growth and domestic production trends over a 10-year period (FY17-FY26), highlighting the widening gap met by imports.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-08-14",
+      "data_confidence": "high",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf"
+    },
+    {
+      "index": 2,
+      "tam_value": 2.2,
+      "tam_unit": "MMT",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": -6.0,
+      "forecast_cagr_period": "FY27",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Household energy security",
+          "description": "Government implemented emergency demand-management measures including restrictions on industrial/commercial consumption and tighter monitoring of refill frequency to safeguard domestic availability."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Analysis of monthly LPG demand during March-June 2026 compared to the average of April 2025-February 2026, showing a decline due to supply disruptions and demand-management measures.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-08-14",
+      "data_confidence": "high",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Crude oil price",
+          "description": "The cost of crude oil directly impacts OMC's procurement costs, determining their operating profit margins if retail prices remain static."
+        },
+        {
+          "driver": "Operating costs",
+          "description": "Fixed operating costs (e.g., refining and marketing costs) reduce the breakeven point, impacting profitability."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "CareEdge Ratings' estimate of the crude oil price at which an integrated OMC's operating profit turns negative, assuming no change in retail prices and accounting for a $4/bbl operating cost.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-08-14",
+      "data_confidence": "high",
+      "source_doc_id": "441f51e4-bcdc-5903-9f9d-a8b790be4d53",
+      "source_title": "Crude Oil at the Geo-political Crossroads",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786703928_Crude%20Oil%20at%20the%20Geo-political%20Crossroads.pdf"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2027,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government blending mandates",
+          "description": "Policy targets like E20 drive the demand and scaling of ethanol production and blending."
+        },
+        {
+          "driver": "Energy security and import reduction",
+          "description": "Ethanol reduces crude oil import dependence, saving foreign exchange and enhancing energy sovereignty."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Reduced crude import costs",
+          "description": "Ethanol displaces crude oil, leading to significant foreign exchange savings for the economy."
+        },
+        {
+          "driver": "Increased agricultural income",
+          "description": "Payments to farmers for feedstock contribute to rural incomes, strengthening the agricultural linkage."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Analysis of the cumulative impact of ethanol blending from ESY 2014–15 to January 2026, quantifying the displacement of crude oil, foreign exchange savings, payments to farmers, and CO2 emissions avoided.",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "data_confidence": "high",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html"
+    },
+    {
+      "index": 5,
+      "tam_value": 2200.0,
+      "tam_unit": "lakh",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Ethanol Blending Programme (EBP)",
+          "description": "Assured offtake by Oil Marketing Companies and administered pricing signals incentivized rapid capacity scaling by ethanol producers."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Direct statement of India's installed ethanol production capacity as of May 2026.",
+      "source_firm": "KPMG",
+      "source_date": "2026-06-01",
+      "data_confidence": "high",
+      "source_doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "source_title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "source_publisher": "kpmg",
+      "source_url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html"
+    },
+    {
+      "index": 6,
+      "tam_value": 103023.0,
+      "tam_unit": "lakh",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Vehicle fleet growth",
+          "description": "The expanding number of vehicles on Indian roads drives the need for more fuel dispensing points."
+        },
+        {
+          "driver": "Aviation sector growth",
+          "description": "Increased air travel and cargo operations necessitate a greater number of aviation fuel stations."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Direct count of retail fuel outlets and aviation fuel stations across the country as of April 1, 2025.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india"
+    },
+    {
+      "index": 7,
+      "tam_value": 243.19,
+      "tam_unit": "MMT",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 3.82,
+      "historical_cagr_period": "FY14-FY26",
+      "demand_drivers": [
+        {
+          "driver": "Economic growth",
+          "description": "Rapid economic growth drives industrial production and transportation, increasing overall fuel demand."
+        },
+        {
+          "driver": "Urbanization and rising incomes",
+          "description": "Growing urban populations and higher disposable incomes lead to increased personal mobility and energy consumption."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Historical data on total petroleum, oil, and lubricants (POL) consumption in India from FY14 to FY26, and its compounded annual growth rate (CAGR) over the decade.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india"
+    },
+    {
+      "index": 8,
+      "tam_value": 103500000.0,
+      "tam_unit": "lakh",
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Government welfare schemes",
+          "description": "PM Ujjwala Yojana aims to provide clean cooking fuel to rural households, directly expanding the LPG customer base."
+        },
+        {
+          "driver": "LPG penetration targets",
+          "description": "Policy goals for full saturation of LPG coverage drive the provision of new connections."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Number of beneficiaries under the Pradhan Mantri Ujjwala Yojana as of December 1, 2025, and additional connections approved for FY2025-26.",
+      "source_firm": "IBEF",
+      "source_date": "2026-05-31",
+      "data_confidence": "high",
+      "source_doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "source_title": "Oil And Gas Industry In India",
+      "source_publisher": "ibef",
+      "source_url": "https://www.ibef.org/industry/oil-gas-india"
+    },
+    {
+      "index": 9,
+      "tam_value": 61900.0,
+      "tam_unit": "INR_cr",
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "LPG Sourcing Costs",
+          "description": "Elevated international LPG benchmark prices (Saudi CP) due to geopolitical disruptions directly increase OMCs' procurement costs."
+        },
+        {
+          "driver": "Administered Retail Prices",
+          "description": "Government regulation of domestic LPG retail prices prevents OMCs from fully passing on increased sourcing costs, leading to under-recoveries."
+        },
+        {
+          "driver": "Government Compensation",
+          "description": "Government compensation packages (e.g., Rs 30,000 crore approved) partially offset these losses, but often with lags or insufficient amounts."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "CareEdge Ratings' calculation of cumulative LPG under-recoveries faced by OMCs, indicating a significant increase due to supply chain disruptions and selling LPG below market prices.",
+      "source_firm": "CareEdge Ratings",
+      "source_date": "2026-08-14",
+      "data_confidence": "high",
+      "source_doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "source_title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "source_publisher": "careedge",
+      "source_url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf"
+    }
+  ],
+  "sources": [
+    "CareEdge Ratings",
+    "KPMG",
+    "IBEF"
+  ],
+  "documents": [
+    {
+      "doc_id": "441f51e4-bcdc-5903-9f9d-a8b790be4d53",
+      "title": "Crude Oil at the Geo-political Crossroads",
+      "publisher": "careedge",
+      "date": "2026-08-14",
+      "url": "https://www.careratings.com/uploads/newsfiles/1786703928_Crude%20Oil%20at%20the%20Geo-political%20Crossroads.pdf"
+    },
+    {
+      "doc_id": "37a375e0-d39c-5da4-9bcc-872e7671cd7a",
+      "title": "OMCs LPG Under Recovery Expected to Fall ~40% Q-o-Q in Q2FY27",
+      "publisher": "careedge",
+      "date": "2026-08-14",
+      "url": "https://www.careratings.com/uploads/newsfiles/1786688870_LPG%20Under%20Recovery%20Expected%20to%20Fall.pdf"
+    },
+    {
+      "doc_id": "fe00d4e1-b850-5b25-8051-3bbf7a1068ed",
+      "title": "Beyond E20: Repositioning ethanol as India's transport energy backbone",
+      "publisher": "kpmg",
+      "date": "2026-06-01",
+      "url": "https://kpmg.com/in/en/insights/2026/06/beyond-e20-repositioning-ethanol-as-indias-transport-energy-backbone.html"
+    },
+    {
+      "doc_id": "88d9df40-81c1-5661-ad0b-cfa2935c21f1",
+      "title": "Credit Quality Assessment H2FY26",
+      "publisher": "careedge",
+      "date": "2026-04-02",
+      "url": "https://www.careratings.com/uploads/newsfiles/1775146282_Credit%20Quality%20Assessment%20H2FY26.pdf"
+    },
+    {
+      "doc_id": "c96368ea-34f3-513a-b390-8509c9e1d74c",
+      "title": "Oil And Gas Industry In India",
+      "publisher": "ibef",
+      "date": "2026-05-31",
+      "url": "https://www.ibef.org/industry/oil-gas-india"
+    }
+  ]
+}

@@ -1,0 +1,463 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Rising Input Costs & Margin Compression",
+      "description": "Dairy processors and farmers across Europe face persistent cost inflation from energy (fuel, natural gas), fertilizers, and staffing. This leads to increasing production costs, higher overheads, and faster-rising input prices compared to output prices, resulting in significant margin compression and reduced profitability for dairy businesses.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-04-20",
+      "source_doc_id": "07fb21f1-2605-5d7f-bf7e-2454da49beac",
+      "source_title": "The dairy industry’s 2026 playbook: Protect margins, pursue growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/agriculture/our-insights/the-dairy-industrys-2026-playbook-protect-margins-pursue-growth",
+      "source_date": "2026-04-20",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Geopolitical Instability Disrupts Supply Chains",
+      "description": "Ongoing geopolitical conflicts, particularly in the Middle East, create significant risks for the dairy sector's supply chain. Disruptions impact global market stability, lead to increased freight and logistics costs, raise energy prices, and create uncertainty regarding raw material availability. This heightened trade uncertainty affects the finely-tuned, price-sensitive international supply chain system for dairy products.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-31",
+      "source_doc_id": "b7c96ad7-8412-5f67-b0e4-fb84d60a559c",
+      "source_title": "Bank of Ireland Food and Drink Sector H1 2026 Insights and H2 2026 Outlook August 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/D15993-BOI-Food-and-Beverage-Outlook-August-2026.pdf",
+      "source_date": "2026-08-31",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Extreme Weather Impacts Production & Raw Material Costs",
+      "description": "Weather volatility and extreme conditions, such as high temperatures and low rainfall experienced in Western Europe during summer 2026, significantly affect harvests, grass growth, and the availability and cost of raw materials. This directly impacts dairy production, leading to lower grass growth for grazing and potentially influencing milk yields and input costs for feed.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-08-31",
+      "source_doc_id": "b7c96ad7-8412-5f67-b0e4-fb84d60a559c",
+      "source_title": "Bank of Ireland Food and Drink Sector H1 2026 Insights and H2 2026 Outlook August 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/D15993-BOI-Food-and-Beverage-Outlook-August-2026.pdf",
+      "source_date": "2026-08-31",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Farming Demographics Threaten Milk Supply Stability",
+      "description": "An aging farming population and persistent labor shortages, particularly at the farm level, pose a significant structural fragility to the European dairy industry. This demographic trend, coupled with declining numbers of new entrants due to demanding work and economic returns, limits farm expansion and creates long-term concerns for the security and stability of the raw milk supply pool.",
+      "type": "key_risk",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-20",
+      "source_doc_id": "07fb21f1-2605-5d7f-bf7e-2454da49beac",
+      "source_title": "The dairy industry’s 2026 playbook: Protect margins, pursue growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/agriculture/our-insights/the-dairy-industrys-2026-playbook-protect-margins-pursue-growth",
+      "source_date": "2026-04-20",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Strong Protein-Driven Dairy Demand",
+      "description": "Core consumer demand for dairy remains resilient, with consumers increasingly prioritizing dairy as a primary source of nutrition. Protein-led innovation is identified as a central growth engine for the industry, particularly in Western Europe where the high-protein dairy segment has shown significant CAGR. Companies are actively investing in expanding capacity and reformulating products to capitalize on this trend.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-20",
+      "source_doc_id": "07fb21f1-2605-5d7f-bf7e-2454da49beac",
+      "source_title": "The dairy industry’s 2026 playbook: Protect margins, pursue growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/agriculture/our-insights/the-dairy-industrys-2026-playbook-protect-margins-pursue-growth",
+      "source_date": "2026-04-20",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Increased Regulatory Compliance Burden",
+      "description": "The dairy sector faces an evolving landscape of EU regulations, including new Packaging and Packaging Waste (PPWR) requirements from August 2026, enhanced food safety rules (Listeria) from July 2026, and the EU Deforestation Regulation (EUDR) from December 2026. These regulations introduce phased recyclability, traceability, and compliance demands, increasing operational complexity and costs for dairy producers.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-08-31",
+      "source_doc_id": "b7c96ad7-8412-5f67-b0e4-fb84d60a559c",
+      "source_title": "Bank of Ireland Food and Drink Sector H1 2026 Insights and H2 2026 Outlook August 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/D15993-BOI-Food-and-Beverage-Outlook-August-2026.pdf",
+      "source_date": "2026-08-31",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Digital Transformation and AI for Efficiency",
+      "description": "Dairy producers are increasingly embracing digital transformation, automation, robotics, and AI to improve operational efficiency, manage costs, and enhance productivity. AI is moving from experimentation to practical implementation, supporting areas like quality control, predictive maintenance, production planning, and supply chain management. This strategic shift aims to offset labor shortages and maintain competitiveness.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-08-31",
+      "source_doc_id": "b7c96ad7-8412-5f67-b0e4-fb84d60a559c",
+      "source_title": "Bank of Ireland Food and Drink Sector H1 2026 Insights and H2 2026 Outlook August 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/D15993-BOI-Food-and-Beverage-Outlook-August-2026.pdf",
+      "source_date": "2026-08-31",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "Declining Milk & Butter Prices",
+      "description": "International dairy commodity prices, particularly for butter, have weakened considerably in 2026. This decline is a primary driver for the reduction in farmgate milk prices across Europe, including Ireland. Despite some stability in protein prices, the overall weakness in fat and powder markets creates a challenging pricing environment for dairy producers.",
+      "type": "cyclical_change",
+      "impact_magnitude": "high",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-20",
+      "source_doc_id": "24a89fc0-b0b9-5339-adaa-7aeb583ec9ba",
+      "source_title": "Mid-Year Situation and Outlook for Irish Agriculture July 2026",
+      "source_publisher": "teagasc",
+      "source_url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/publications/2026/Mid-Year-Outlook-for-Irish-Agriculture-July-2026.pdf",
+      "source_date": "2026-07-20",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "title": "Global Milk Supply Expansion",
+      "description": "Global milk production volume has risen sharply across major dairy export regions in 2026, with EU milk production also showing strong increases compared to the previous year. This expansion, driven by favorable weather and improved farm profitability in the prior year, contributes to increased supply, which can put downward pressure on international dairy commodity prices.",
+      "type": "cyclical_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-07-20",
+      "source_doc_id": "24a89fc0-b0b9-5339-adaa-7aeb583ec9ba",
+      "source_title": "Mid-Year Situation and Outlook for Irish Agriculture July 2026",
+      "source_publisher": "teagasc",
+      "source_url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/publications/2026/Mid-Year-Outlook-for-Irish-Agriculture-July-2026.pdf",
+      "source_date": "2026-07-20",
+      "country_focus": "EU"
+    },
+    {
+      "index": 10,
+      "title": "Pragmatic Sustainability Initiatives for Value",
+      "description": "The dairy industry is adopting a more pragmatic stance on sustainability, shifting from broad ESG narratives to an execution-oriented focus on regulatory compliance, emissions reduction, and operational efficiency. Initiatives emphasizing cost savings, risk reduction, and measurability (e.g., methane reduction, energy efficiency, logistics optimization) are prioritized, driven by customer requirements, regulations, and alignment with corporate mission.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-04-20",
+      "source_doc_id": "07fb21f1-2605-5d7f-bf7e-2454da49beac",
+      "source_title": "The dairy industry’s 2026 playbook: Protect margins, pursue growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/agriculture/our-insights/the-dairy-industrys-2026-playbook-protect-margins-pursue-growth",
+      "source_date": "2026-04-20",
+      "country_focus": "EU"
+    },
+    {
+      "index": 11,
+      "title": "Animal Health Risks Threaten Dairy Supply",
+      "description": "Supply-side risks in the dairy industry are increasing due to animal health issues such as highly pathogenic avian influenza, New World screwworm, and bluetongue. These disease outbreaks can strain the production system, potentially limiting milk supply and adding to the existing challenges from climate volatility and structural constraints on milk production growth.",
+      "type": "key_risk",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-20",
+      "source_doc_id": "07fb21f1-2605-5d7f-bf7e-2454da49beac",
+      "source_title": "The dairy industry’s 2026 playbook: Protect margins, pursue growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/agriculture/our-insights/the-dairy-industrys-2026-playbook-protect-margins-pursue-growth",
+      "source_date": "2026-04-20",
+      "country_focus": "EU"
+    },
+    {
+      "index": 12,
+      "title": "Export Market Diversification",
+      "description": "Geopolitical uncertainty and trade tensions are prompting European food and beverage exporters, including dairy producers, to actively diversify into new markets. The strategic objective is to reduce dependence on any single export destination and mitigate geopolitical and trade-related risks, thereby strengthening the resilience of export-oriented dairy businesses.",
+      "type": "structural_change",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-08-31",
+      "source_doc_id": "b7c96ad7-8412-5f67-b0e4-fb84d60a559c",
+      "source_title": "Bank of Ireland Food and Drink Sector H1 2026 Insights and H2 2026 Outlook August 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/D15993-BOI-Food-and-Beverage-Outlook-August-2026.pdf",
+      "source_date": "2026-08-31",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "European Dairy Faces Challenging Operating Environment with Resilient Core Demand",
+      "description": "Dairy processors in Europe operate in a challenging environment characterized by persistent cost inflation, labor constraints, input volatility, and regulatory uncertainty. Despite these headwinds, core consumer demand for dairy products remains resilient, providing a basis for sustained growth in key categories. This suggests a need for margin protection and selective investment in growth areas.",
+      "stance": "cautious_positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-04-20",
+      "source_doc_id": "07fb21f1-2605-5d7f-bf7e-2454da49beac",
+      "source_title": "The dairy industry’s 2026 playbook: Protect margins, pursue growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/agriculture/our-insights/the-dairy-industrys-2026-playbook-protect-margins-pursue-growth",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Irish Dairy Farm Margins Expected to Halve in 2026 Amid Rising Costs",
+      "description": "Irish dairy farms are anticipated to experience a sharp reduction in net margins, potentially decreasing by almost 50% in 2026 compared to 2025. This negative outlook is driven by a combination of considerably lower milk prices and increasing production costs, primarily due to rising fertilizer and fuel expenses.",
+      "stance": "negative",
+      "source_firm": "teagasc",
+      "source_date": "2026-07-20",
+      "source_doc_id": "24a89fc0-b0b9-5339-adaa-7aeb583ec9ba",
+      "source_title": "Mid-Year Situation and Outlook for Irish Agriculture July 2026",
+      "source_publisher": "teagasc",
+      "source_url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/publications/2026/Mid-Year-Outlook-for-Irish-Agriculture-July-2026.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 3,
+      "title": "European Dairy Leaders More Measured on Volume Growth and Margin Recovery",
+      "description": "European dairy executives express a more measured outlook compared to their US counterparts, with 76% expecting margins to increase but approximately 40% anticipating flat or declining volumes. This cautious sentiment reflects heightened concerns regarding supply constraints and labor shortages, suggesting a challenging path to volume growth despite overall margin optimism.",
+      "stance": "cautious_positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-04-20",
+      "source_doc_id": "07fb21f1-2605-5d7f-bf7e-2454da49beac",
+      "source_title": "The dairy industry’s 2026 playbook: Protect margins, pursue growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/agriculture/our-insights/the-dairy-industrys-2026-playbook-protect-margins-pursue-growth",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Strong European Dairy Consumption Offsets Stagnant Production Growth Outlook",
+      "description": "A European dairy executive notes that 'consumption is going very well within dairy' and anticipates a 'bright future' for the sector. However, this positive demand sentiment is tempered by the expectation that 'production across Europe is unlikely to increase,' indicating a potential supply-demand imbalance or reliance on existing production capacity.",
+      "stance": "cautious_positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-04-20",
+      "source_doc_id": "07fb21f1-2605-5d7f-bf7e-2454da49beac",
+      "source_title": "The dairy industry’s 2026 playbook: Protect margins, pursue growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/agriculture/our-insights/the-dairy-industrys-2026-playbook-protect-margins-pursue-growth",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Irish Dairy Exports Declined in H1 2026 Amidst Broader Sector Contraction",
+      "description": "Ireland's food and beverage sector experienced a modest 3% decline in exports during H1 2026 compared to the previous year, with dairy being one of the subsectors to report a decline. Additionally, lower prices for dairy, alongside meat, partly offset increases in other food commodities, indicating challenging market conditions for Irish dairy exports.",
+      "stance": "negative",
+      "source_firm": "bank_of_ireland",
+      "source_date": "2026-08-31",
+      "source_doc_id": "b7c96ad7-8412-5f67-b0e4-fb84d60a559c",
+      "source_title": "Bank of Ireland Food and Drink Sector H1 2026 Insights and H2 2026 Outlook August 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/08/D15993-BOI-Food-and-Beverage-Outlook-August-2026.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 6,
+      "title": "Irish Dairy Faces Negative Milk Price Outlook Despite Resilient Global Demand",
+      "description": "The Irish dairy sector currently faces a negative situation and outlook for milk prices, primarily driven by a sharp dip in international butter prices. While international dairy product demand has been robust, increased global milk production is leading to subdued commodity price improvements, resulting in a challenging pricing environment for Irish producers.",
+      "stance": "negative",
+      "source_firm": "teagasc",
+      "source_date": "2026-07-20",
+      "source_doc_id": "24a89fc0-b0b9-5339-adaa-7aeb583ec9ba",
+      "source_title": "Mid-Year Situation and Outlook for Irish Agriculture July 2026",
+      "source_publisher": "teagasc",
+      "source_url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/publications/2026/Mid-Year-Outlook-for-Irish-Agriculture-July-2026.pdf",
+      "country_focus": "IE"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2025,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Margin Pressure",
+          "description": "57% of European dairy companies reported flat or shrinking margins in 2025, reflecting persistent cost inflation and commodity price volatility."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Survey of 88 European dairy executives regarding margin changes in the past 12 months.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-04-20",
+      "data_confidence": "medium",
+      "source_doc_id": "07fb21f1-2605-5d7f-bf7e-2454da49beac",
+      "source_title": "The dairy industry’s 2026 playbook: Protect margins, pursue growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/agriculture/our-insights/the-dairy-industrys-2026-playbook-protect-margins-pursue-growth",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Revenue Growth Outlook",
+          "description": "84% of European dairy executives anticipate revenue increases over the next three years, supported by resilient consumer demand."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Survey of 88 European dairy executives regarding anticipated revenue changes over the next three years.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-04-20",
+      "data_confidence": "medium",
+      "source_doc_id": "07fb21f1-2605-5d7f-bf7e-2454da49beac",
+      "source_title": "The dairy industry’s 2026 playbook: Protect margins, pursue growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/agriculture/our-insights/the-dairy-industrys-2026-playbook-protect-margins-pursue-growth",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2024,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": 17.0,
+      "historical_cagr_period": "2019-2024",
+      "demand_drivers": [
+        {
+          "driver": "Protein-Led Innovation",
+          "description": "Strong consumer demand for protein is driving significant growth and investment in the high-protein dairy segment."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Reported compound annual growth rate for Western Europe's high-protein dairy segment.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-04-20",
+      "data_confidence": "high",
+      "source_doc_id": "07fb21f1-2605-5d7f-bf7e-2454da49beac",
+      "source_title": "The dairy industry’s 2026 playbook: Protect margins, pursue growth",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/agriculture/our-insights/the-dairy-industrys-2026-playbook-protect-margins-pursue-growth",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Milk Output Price Decline",
+          "description": "Average Irish milk price for 2026 is forecast to be 38 c/l (base price), a 20% decrease from 2025 levels, primarily driven by sharp dip in international butter prices."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Forecast based on global dairy commodity prices and expected changes in milk supply; average base price 38 c/l (43 c/l actual constituents).",
+      "source_firm": "teagasc",
+      "source_date": "2026-07-20",
+      "data_confidence": "medium",
+      "source_doc_id": "24a89fc0-b0b9-5339-adaa-7aeb583ec9ba",
+      "source_title": "Mid-Year Situation and Outlook for Irish Agriculture July 2026",
+      "source_publisher": "teagasc",
+      "source_url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/publications/2026/Mid-Year-Outlook-for-Irish-Agriculture-July-2026.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 5,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Rising Milk Production Costs",
+          "description": "Total milk production costs per litre in Ireland are forecast to increase by approximately 5% to 37 cent per litre in 2026, driven by higher fertiliser and fuel expenses."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Forecast based on increasing fertiliser and fuel prices; average cost 37 cent per litre.",
+      "source_firm": "teagasc",
+      "source_date": "2026-07-20",
+      "data_confidence": "medium",
+      "source_doc_id": "24a89fc0-b0b9-5339-adaa-7aeb583ec9ba",
+      "source_title": "Mid-Year Situation and Outlook for Irish Agriculture July 2026",
+      "source_publisher": "teagasc",
+      "source_url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/publications/2026/Mid-Year-Outlook-for-Irish-Agriculture-July-2026.pdf",
+      "country_focus": "IE"
+    },
+    {
+      "index": 6,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2026,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [],
+      "pnl_drivers": [
+        {
+          "driver": "Sharp Decline in Net Margin",
+          "description": "Average Irish dairy farm net margin is forecast to decrease by almost 50% in 2026 to 11-12 cent per litre, due to significantly lower milk prices and rising production costs."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Forecast based on higher production costs and lower milk prices; net margin 11-12 cent per litre.",
+      "source_firm": "teagasc",
+      "source_date": "2026-07-20",
+      "data_confidence": "medium",
+      "source_doc_id": "24a89fc0-b0b9-5339-adaa-7aeb583ec9ba",
+      "source_title": "Mid-Year Situation and Outlook for Irish Agriculture July 2026",
+      "source_publisher": "teagasc",
+      "source_url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/publications/2026/Mid-Year-Outlook-for-Irish-Agriculture-July-2026.pdf",
+      "country_focus": "IE"
+    }
+  ],
+  "sources": [
+    "mckinsey",
+    "teagasc",
+    "bank_of_ireland"
+  ],
+  "documents": [
+    {
+      "doc_id": "07fb21f1-2605-5d7f-bf7e-2454da49beac",
+      "title": "The dairy industry’s 2026 playbook: Protect margins, pursue growth",
+      "publisher": "mckinsey",
+      "date": "2026-04-20",
+      "url": "https://www.mckinsey.com/industries/agriculture/our-insights/the-dairy-industrys-2026-playbook-protect-margins-pursue-growth"
+    },
+    {
+      "doc_id": "24a89fc0-b0b9-5339-adaa-7aeb583ec9ba",
+      "title": "Mid-Year Situation and Outlook for Irish Agriculture July 2026",
+      "publisher": "teagasc",
+      "date": "2026-07-20",
+      "url": "https://teagasc.ie/wp-content/uploads/uploads/media/website/publications/2026/Mid-Year-Outlook-for-Irish-Agriculture-July-2026.pdf"
+    },
+    {
+      "doc_id": "b7c96ad7-8412-5f67-b0e4-fb84d60a559c",
+      "title": "Bank of Ireland Food and Drink Sector H1 2026 Insights and H2 2026 Outlook August 2026",
+      "publisher": "bank_of_ireland",
+      "date": "2026-08-31",
+      "url": "https://www.thinkbusiness.ie/app/uploads/2026/08/D15993-BOI-Food-and-Beverage-Outlook-August-2026.pdf"
+    }
+  ]
+}

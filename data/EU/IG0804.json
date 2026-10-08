@@ -1,0 +1,505 @@
+{
+  "geography": "EU",
+  "forces": [
+    {
+      "index": 1,
+      "title": "Hyperscalers' massive AI infrastructure investments drive semiconductor demand.",
+      "description": "Five major hyperscalers are planning cumulative capital expenditures of about $800 billion for 2026 and $1 trillion for 2027, with the vast majority directed towards AI infrastructure. These investments, spanning data center construction, accelerator procurement, and networking, are creating unprecedented and sustained demand across the entire semiconductor value chain for chips and other components essential for AI processes.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "source_date": "2026-09-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Limited supply and AI demand boost leading-edge chip and memory ASPs.",
+      "description": "The ongoing supply-demand imbalance, particularly for leading-edge chips (7nm or less) and High-Bandwidth Memory (HBM), is expected to persist for at least three to five more years. This condition is crucial for supporting the elevated Average Selling Prices (ASPs) factored into market projections. Demand is surging due to data center expansion, while announced fab capacity buildout is insufficient to alleviate price pressure, leading to sustained high ASPs.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "source_date": "2026-09-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Geopolitics drive strategic semiconductor manufacturing investment globally.",
+      "description": "Semiconductor manufacturing has become a strategically contested industry, with governments racing to secure technological leadership, supply-chain resilience, and national security. This has led to a projected $1 trillion in investments in chips through 2030. The shift from pure cost competitiveness to considerations like resilience, proximity, and public policy is reshaping investment decisions, pushing countries like the US and Europe to strengthen local fab ecosystems and reduce import reliance.",
+      "type": "structural_change",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "ba165ddd-42ab-57af-896d-6e8f5c171051",
+      "source_title": "Semiconductors: Etching the new map of strategic supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply",
+      "source_date": "2026-06-30",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "title": "Energy constraints threaten AI data center expansion, impacting semiconductor demand.",
+      "description": "AI data centers are energy intensive, and their rapid build-out requires significant energy availability and affordability. Meeting data center demand through 2030 necessitates overcoming current power constraints, including cost-related ones. While China and the Middle East are expected to build new capacity, Europe may lag other regions in this regard, potentially impacting the pace of AI infrastructure development and, consequently, demand for high-performance semiconductors.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "medium",
+      "as_of_date": "2026-09-18",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "source_date": "2026-09-18",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "Higher European labor and construction costs challenge fab competitiveness.",
+      "description": "Building semiconductor fabs in Europe incurs significantly higher costs compared to Asia. Labor costs are a major differentiator, explaining over 35% of the cost difference between Taiwan and Germany, primarily due to higher wages and lower productivity. Construction costs in Europe are at least twice as high as in Taiwan, and projects take longer (24 months vs. 12-16 months). These factors reduce the cost competitiveness of European fabs, despite government subsidies aiming to mitigate the gap.",
+      "type": "headwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "ba165ddd-42ab-57af-896d-6e8f5c171051",
+      "source_title": "Semiconductors: Etching the new map of strategic supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply",
+      "source_date": "2026-06-30",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "title": "Innovation across semiconductor supply chain essential for AI inference cost reduction.",
+      "description": "To make AI inference economically sustainable at scale, significant cost reductions are required. This drives innovation across the entire semiconductor supply chain, including software-level model optimization (quantization, pruning), silicon architecture advancements (custom ASICs), advanced packaging (3D hybrid bonding), memory systems (HBM), and optical interconnects (CPO). These technological levers are projected to reduce inference costs per token by up to two orders of magnitude, expanding AI adoption and increasing demand for advanced semiconductor products.",
+      "type": "upside_driver",
+      "impact_magnitude": "high",
+      "time_horizon": "medium",
+      "as_of_date": "2026-06-25",
+      "source_doc_id": "8a8918f4-cfc7-5b3b-b9f8-a33e46dde961",
+      "source_title": "Frontiers of compute: The technologies to reduce AI inference costs",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/frontiers-of-compute-the-technologies-to-reduce-ai-inference-costs",
+      "source_date": "2026-06-25",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "title": "Surging consumer GenAI adoption drives demand for underlying AI chips.",
+      "description": "A majority of European consumers are now using generative AI tools in their personal lives, up from only 5% two years prior, with particularly strong adoption, enthusiasm, and trust observed in Spain and Portugal. This widespread usage for research, shopping recommendations, and news, coupled with nearly one in five EU consumers replacing search engines with GenAI, directly fuels demand for the high-performance AI chips that power these applications.",
+      "type": "tailwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-04-13",
+      "source_doc_id": "597a20cc-bf12-5de3-b60b-20cd7b1c3cef",
+      "source_title": "Spain and Portugal Stand Out Among Europe’s Generative AI Adoption",
+      "source_publisher": "bain",
+      "source_url": "https://www.bain.com/insights/spain-and-portugal-stand-out-among-europes-generative-ai-adoption",
+      "source_date": "2026-04-13",
+      "country_focus": "EU"
+    },
+    {
+      "index": 8,
+      "title": "European governments boost local fab ecosystems with capital and legislation.",
+      "description": "European governments, alongside the US and China, are actively pairing capital support with legislation and other measures to strengthen local semiconductor fab ecosystems. These initiatives aim to reduce import reliance, improve supply-chain resilience, and support strategically important capacity for existing industries. Examples include Germany's substantial support for the European Semiconductor Manufacturing Company (ESMC), which can significantly narrow the cost gap with leading Asian producers.",
+      "type": "tailwind",
+      "impact_magnitude": "high",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "ba165ddd-42ab-57af-896d-6e8f5c171051",
+      "source_title": "Semiconductors: Etching the new map of strategic supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply",
+      "source_date": "2026-06-30",
+      "country_focus": "EU"
+    },
+    {
+      "index": 9,
+      "title": "Middle East conflict raises specialty gas and energy costs for Irish tech.",
+      "description": "The ongoing Middle East conflict is causing indirect pressure on Ireland's Technology, Media, and Telecoms (TMT) sector, particularly through increased energy costs and heightened geopolitical risk. More specifically, there's a moderate impact on \"High Tech and Specialised Components\" due to reliance on helium (33% from Qatar) and other specialty gases, which are critical inputs for semiconductors. Higher European gas prices lead to increased electricity costs, eroding margins for energy-intensive semiconductor manufacturing.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "near",
+      "as_of_date": "2026-05-19",
+      "source_doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "source_title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "source_publisher": "bank_of_ireland",
+      "source_url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf",
+      "source_date": "2026-05-19",
+      "country_focus": "IE"
+    },
+    {
+      "index": 10,
+      "title": "European advanced node fabs face disadvantage due to late entry and slower construction.",
+      "description": "Regions like Europe building advanced node capacity today are at a disadvantage compared to leading Asian producers who entered the market when these nodes were leading-edge. Asian incumbents benefit from early premium pricing, years of yield improvement, higher utilization, and lower depreciation. Slower construction times in Europe (24 months vs. 12-16 months in Asia) further compound this problem by pushing revenue generation later into a node’s maturity curve, where economic profits are diminished.",
+      "type": "headwind",
+      "impact_magnitude": "medium",
+      "time_horizon": "long",
+      "as_of_date": "2026-06-30",
+      "source_doc_id": "ba165ddd-42ab-57af-896d-6e8f5c171051",
+      "source_title": "Semiconductors: Etching the new map of strategic supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply",
+      "source_date": "2026-06-30",
+      "country_focus": "EU"
+    }
+  ],
+  "viewpoints": [
+    {
+      "index": 1,
+      "title": "AI drives unprecedented semiconductor growth, reshaping industry dynamics permanently.",
+      "description": "AI is fueling an exceptional surge in the semiconductor sector, with sales reaching a 40-year high in July 2026 and market revenues exceeding $1 trillion for the first time. McKinsey's base case projects the market to reach $2.3 trillion by 2030, a 44% increase from previous estimates, primarily due to rising ASPs for leading-edge chips and memory. AI could break historical cyclicality, ushering in sustained growth and high ASPs.",
+      "stance": "positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-18",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "title": "Semiconductor market poised for $2.3 trillion by 2030, exceeding modest expectations.",
+      "description": "McKinsey asserts the semiconductor industry is on a clear trajectory towards a $2.3 trillion market by 2030, primarily propelled by the rapid expansion of AI data centers. The firm believes companies planning for a more conservative $1 trillion market are significantly underestimating the true opportunity. This growth isn't just from volume but from AI accelerating a shift towards higher-value leading-edge chips and HBM, altering industry economics and pushing up average selling prices.",
+      "stance": "positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-18",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "title": "Irish electronics sector resilient but challenged by global semiconductor cycles.",
+      "description": "The Irish electronics sector, strong with foreign direct investment and a strategic position in semiconductor manufacturing, faces a challenging global environment. Ongoing inventory corrections, shifting demand, and profitability pressure across the semiconductor supply chain are key concerns. Despite restructuring and cost-cutting by major global players, the sector remains strategically important and well-positioned for long-term technology and innovation trends, requiring vigilance on tariffs and multinational decisions.",
+      "stance": "cautious_positive",
+      "source_firm": "allianz_ie",
+      "source_date": "2026-07-22",
+      "source_doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "source_title": "July 2026 Ireland Sector Snippets",
+      "source_publisher": "allianz_ie",
+      "source_url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html",
+      "country_focus": "IE"
+    },
+    {
+      "index": 4,
+      "title": "Global semiconductor investment shifts towards resilience, proximity, and strategic policy.",
+      "description": "Geopolitical considerations are increasingly influencing semiconductor manufacturing investment decisions, moving beyond pure cost competitiveness. While Asia has traditionally dominated, governments in the US and Europe are actively wooing manufacturers with capital support and legislation to enhance local fab ecosystems, supply-chain resilience, and national security. This shift is driven by strategic importance, the need for fab proximity for industries like automotive, and reducing reliance on imports, making resilience a key investment factor.",
+      "stance": "cautious_positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-06-30",
+      "source_doc_id": "ba165ddd-42ab-57af-896d-6e8f5c171051",
+      "source_title": "Semiconductors: Etching the new map of strategic supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "title": "AI inference cost reduction crucial, requiring innovation across semiconductor supply chain.",
+      "description": "The escalating cost and energy demand of AI inference present a significant economic challenge, pushing hyperscalers to commit over $700 billion in capex for AI infrastructure in 2026. Sustainable AI adoption requires a coordinated wave of innovation across the semiconductor supply chain, encompassing model optimization, silicon architecture, advanced packaging, memory systems, and optical interconnects. These technology levers are vital for achieving economic viability and expanding the range of AI applications, with potential cost reductions of up to two orders of magnitude.",
+      "stance": "positive",
+      "source_firm": "mckinsey",
+      "source_date": "2026-06-25",
+      "source_doc_id": "8a8918f4-cfc7-5b3b-b9f8-a33e46dde961",
+      "source_title": "Frontiers of compute: The technologies to reduce AI inference costs",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/frontiers-of-compute-the-technologies-to-reduce-ai-inference-costs",
+      "country_focus": "EU"
+    }
+  ],
+  "market_sizing": [
+    {
+      "index": 1,
+      "tam_value": 2.3,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI Infrastructure Buildout",
+          "description": "Hyperscalers committing substantial capital expenditures to AI infrastructure, driving demand for leading-edge chips and memory."
+        },
+        {
+          "driver": "Data Center Expansion",
+          "description": "Rapid proliferation of data centers, increasing demand for high-performance semiconductors."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Average Selling Price (ASP) Increases",
+          "description": "Limited supply of leading-edge chips and High-Bandwidth Memory (HBM) combined with surging demand leads to substantially higher and sustained ASPs."
+        }
+      ],
+      "new_opportunities": [
+        {
+          "description": "Strong demand and high ASPs in these segments, driven by AI, offer significant value creation.",
+          "opportunity": "Leading-edge chips & HBM"
+        }
+      ],
+      "methodology": "Base case projection from McKinsey, updated from $1.6 trillion (autumn 2025 estimate), based on higher Average Selling Prices (ASPs) for leading-edge chips and memory, fueled by AI infrastructure investment and data center expansion. Wafer volume CAGR ~7% (2030).",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "country_focus": "EU"
+    },
+    {
+      "index": 2,
+      "tam_value": 1.0,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strategic Importance & Geopolitics",
+          "description": "Governments are committing significant capital to secure technological leadership, supply-chain resilience, and national security in semiconductor manufacturing."
+        },
+        {
+          "driver": "AI Datacenter Boom",
+          "description": "Massive demand for AI infrastructure drives substantial investment in chip production facilities."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Total planned investment in chips globally through 2030.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-06-30",
+      "data_confidence": "high",
+      "source_doc_id": "ba165ddd-42ab-57af-896d-6e8f5c171051",
+      "source_title": "Semiconductors: Etching the new map of strategic supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply",
+      "country_focus": "EU"
+    },
+    {
+      "index": 3,
+      "tam_value": 1.6,
+      "tam_unit": "USD_tr",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI Datacenter Boom",
+          "description": "Significant growth driver for semiconductor demand."
+        },
+        {
+          "driver": "Computing, Wireless, Industrial, Automotive Applications",
+          "description": "Continued growth across these diverse applications contributes to overall industry revenue."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Expected annual revenues for the global semiconductor industry by 2030, representing a previous base-case forecast.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-06-30",
+      "data_confidence": "medium",
+      "source_doc_id": "ba165ddd-42ab-57af-896d-6e8f5c171051",
+      "source_title": "Semiconductors: Etching the new map of strategic supply",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply",
+      "country_focus": "EU"
+    },
+    {
+      "index": 4,
+      "tam_value": 710.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Strong AI and High-Performance Computing (HPC) Demand",
+          "description": "Demand from these applications drives the need for advanced leading-edge chips."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Increasing ASPs for Leading-Edge Wafers",
+          "description": "Unlike historical trends, ASPs for 3nm and 5nm wafers are increasing by 2% or more annually due to strong demand and limited capacity."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Projected increase in value of leading-edge chips (7nm or less) by 2030. This is driven by significant increases in Average Selling Prices (ASPs), combined with volume and mix effects.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "country_focus": "EU"
+    },
+    {
+      "index": 5,
+      "tam_value": 560.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI Model Memory Requirements",
+          "description": "AI models require large amounts of memory to store parameters and process data rapidly, with requirements increasing with context window size and concurrent users."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "High Average Selling Prices (ASPs)",
+          "description": "Demand for memory, especially DRAM and HBM, has risen faster than supply, leading to significantly higher ASPs, with DRAM prices increasing roughly sixfold since early 2023."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Projected increase in value of memory (especially DRAM and HBM) by 2030 based on McKinsey's base-case scenario. This is despite expected declines in merchant gross margins due to increased competition.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "country_focus": "EU"
+    },
+    {
+      "index": 6,
+      "tam_value": 100.0,
+      "tam_unit": "USD_bn",
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": null,
+      "forecast_cagr_period": null,
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "AI Applications",
+          "description": "AI growth benefits a broad range of advanced and mature node applications, including field-programmable gate arrays (FPGAs) and data center power electronics."
+        }
+      ],
+      "pnl_drivers": [
+        {
+          "driver": "Declining ASPs",
+          "description": "While sales volume for advanced and mature nodes will increase, average selling prices are expected to fall."
+        }
+      ],
+      "new_opportunities": [],
+      "methodology": "Projected total growth for the advanced and mature node segment by 2030. This segment benefits from AI growth in applications like FPGAs, connectivity, and data center power electronics.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "country_focus": "EU"
+    },
+    {
+      "index": 7,
+      "tam_value": null,
+      "tam_unit": null,
+      "sam_value": null,
+      "as_of_year": 2030,
+      "forecast_cagr": 7.0,
+      "forecast_cagr_period": "2025-2030",
+      "historical_cagr": null,
+      "historical_cagr_period": null,
+      "demand_drivers": [
+        {
+          "driver": "Data Center Expansion",
+          "description": "Surging demand from data centers drives the need for more wafers."
+        }
+      ],
+      "pnl_drivers": [],
+      "new_opportunities": [],
+      "methodology": "Forecast for overall Compound Annual Growth Rate (CAGR) of wafer volume. This growth is similar to previous estimates from autumn 2025.",
+      "source_firm": "mckinsey",
+      "source_date": "2026-09-18",
+      "data_confidence": "high",
+      "source_doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "source_title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "source_publisher": "mckinsey",
+      "source_url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story",
+      "country_focus": "EU"
+    }
+  ],
+  "sources": [
+    "mckinsey",
+    "allianz_ie"
+  ],
+  "documents": [
+    {
+      "doc_id": "98a9ea10-e93e-518c-a91e-e820997c2c56",
+      "title": "The $2.3 trillion horizon: How AI is rewriting the semiconductor story",
+      "publisher": "mckinsey",
+      "date": "2026-09-18",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/the-2-point-3-trillion-dollar-horizon-how-ai-is-rewriting-the-semiconductor-story"
+    },
+    {
+      "doc_id": "da2c50a0-973b-50ab-a1d3-c9f8bfdee0f0",
+      "title": "July 2026 Ireland Sector Snippets",
+      "publisher": "allianz_ie",
+      "date": "2026-07-22",
+      "url": "https://www.allianz-trade.com/en_GB/insights/economic-research/ireland-sector-snippets-july-2026.html"
+    },
+    {
+      "doc_id": "ba165ddd-42ab-57af-896d-6e8f5c171051",
+      "title": "Semiconductors: Etching the new map of strategic supply",
+      "publisher": "mckinsey",
+      "date": "2026-06-30",
+      "url": "https://www.mckinsey.com/mgi/our-research/semiconductors-etching-the-new-map-of-strategic-supply"
+    },
+    {
+      "doc_id": "8a8918f4-cfc7-5b3b-b9f8-a33e46dde961",
+      "title": "Frontiers of compute: The technologies to reduce AI inference costs",
+      "publisher": "mckinsey",
+      "date": "2026-06-25",
+      "url": "https://www.mckinsey.com/industries/semiconductors/our-insights/frontiers-of-compute-the-technologies-to-reduce-ai-inference-costs"
+    },
+    {
+      "doc_id": "597a20cc-bf12-5de3-b60b-20cd7b1c3cef",
+      "title": "Spain and Portugal Stand Out Among Europe’s Generative AI Adoption",
+      "publisher": "bain",
+      "date": "2026-04-13",
+      "url": "https://www.bain.com/insights/spain-and-portugal-stand-out-among-europes-generative-ai-adoption"
+    },
+    {
+      "doc_id": "8376410c-6c76-5447-8bf9-beef812463fd",
+      "title": "Bank of Ireland Sectors Team — Developments & Insights May 2026",
+      "publisher": "bank_of_ireland",
+      "date": "2026-05-19",
+      "url": "https://www.thinkbusiness.ie/app/uploads/2026/05/BOI-Sectors-Team-Developments-Insights-May-26.pdf"
+    }
+  ]
+}
