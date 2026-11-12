@@ -1163,11 +1163,7 @@
 <div id="topbar">
   <h1>Swerve Graph</h1>
   <div id="filterbar">
-    <select id="geo-select" aria-label="Outlook country" title="Outlook country">
-      <option value="IN">India</option>
-      <option value="GB">United Kingdom</option>
-      <option value="EU">Europe</option>
-    </select>
+    <select id="geo-select" aria-label="Outlook country" title="Outlook country"></select>
     <select id="sector-select">
       <option value="">All Sectors</option>
     </select>
@@ -1988,7 +1984,7 @@ function showNodeInfo(node) {
         <div class="node-dot" style="background:${colorFor(node.data("group"))}"></div>
         <div>
           <div class="node-title">${node.data("label")}</div>
-          <div class="node-code">${node.data("group")}${node.data("code") ? " · " + node.data("code") : ""}<span class="geo-badge" title="Outlook country">${geoLabels[currentGeo]}</span></div>
+          <div class="node-code">${node.data("group")}${node.data("code") ? " · " + node.data("code") : ""}<span class="geo-badge" title="Outlook country">${escapeHtmlG(geoName(currentGeo))}</span></div>
         </div>
       </div>
     </div>
@@ -2075,9 +2071,13 @@ let currentIntelStatus = "loading";
 // ---------- Outlook country (data/<GEO>/<id>.json) ----------
 
 // Which country's outlook the sidebar shows. data/index.json (written by
-// export_outlook_supabase.py) lists, per country, the sector codes that have
-// a file — used to skip the fetch and to grey out nodes with no outlook.
-const geoLabels = { IN: "India", GB: "United Kingdom", EU: "Europe" };
+// export_outlook_supabase.py) lists every country with outlook data, its name
+// and the sector codes that have a file — used to build the country picker,
+// skip the fetch and grey out nodes with no outlook. No fixed country list:
+// a new country appears once the export has written it.
+// Picker order: these first (as before), then the rest A–Z by name.
+const pinnedGeos = ["IN", "GB", "EU"];
+let geoLabels = {};
 let currentGeo = "IN";
 let currentInfoNodeId = null;
 let outlookCodes = null; // { IN: Set, GB: Set, EU: Set } once data/index.json loads
@@ -2087,10 +2087,33 @@ const outlookIndexPromise = fetch("data/index.json", { cache: "no-store" })
   .then(idx => {
     if (!idx || !idx.geographies) return;
     outlookCodes = {};
-    Object.entries(idx.geographies).forEach(([geo, g]) => { outlookCodes[geo] = new Set(g.codes || []); });
+    Object.entries(idx.geographies).forEach(([geo, g]) => {
+      outlookCodes[geo] = new Set(g.codes || []);
+      geoLabels[geo] = g.name || g.label || geo;
+    });
+    renderGeoOptions();
     applyOutlookMarks();
   })
-  .catch(() => {});
+  .catch(() => {})
+  .finally(() => { if (!document.getElementById("geo-select").options.length) renderGeoOptions(); });
+
+function geoName(code) {
+  return geoLabels[code] || code;
+}
+
+function renderGeoOptions() {
+  const geos = Object.keys(geoLabels);
+  if (!geos.length) geos.push(currentGeo); // index.json missing: keep the default country
+  geos.sort((a, b) => {
+    const pa = pinnedGeos.indexOf(a), pb = pinnedGeos.indexOf(b);
+    if (pa !== -1 || pb !== -1) return (pa === -1 ? Infinity : pa) - (pb === -1 ? Infinity : pb);
+    return geoName(a).localeCompare(geoName(b));
+  });
+  if (!geos.includes(currentGeo)) currentGeo = geos[0];
+  const sel = document.getElementById("geo-select");
+  sel.innerHTML = geos.map(g => `<option value="${escapeHtmlG(g)}">${escapeHtmlG(geoName(g))}</option>`).join("");
+  sel.value = currentGeo;
+}
 
 function hasOutlook(nodeId) {
   return !outlookCodes || (outlookCodes[currentGeo] ? outlookCodes[currentGeo].has(nodeId) : false);
@@ -2114,12 +2137,14 @@ function setupGeoSelect() {
   });
 }
 
-// Small country tag for Europe rows: the country_focus code, or
-// "Europe-wide" when it's EU or missing. Other countries show no tag.
+// Small country tag for rows that carry country_focus (only exported for
+// countries that use it — Europe today): the country_focus code, or
+// "<name>-wide" (e.g. "Europe-wide") when it's the country itself or missing.
 function geoTagHtml(row) {
-  if (currentIntelData?.geography !== "EU") return "";
+  if (!("country_focus" in row)) return "";
   const cf = row.country_focus;
-  const text = !cf || cf === "EU" ? "Europe-wide" : cf;
+  const geo = currentIntelData?.geography || currentGeo;
+  const text = !cf || cf === geo ? `${geoName(geo)}-wide` : cf;
   return `<span class="intel-geo-tag">${escapeHtmlG(text)}</span>`;
 }
 
@@ -2188,7 +2213,7 @@ function renderIntelContent() {
   if (!el) return;
 
   if (currentIntelStatus === "none") {
-    el.innerHTML = `<div class="intel-empty">No outlook for this sector in ${escapeHtmlG(geoLabels[currentGeo])} yet</div>`;
+    el.innerHTML = `<div class="intel-empty">No outlook for this sector in ${escapeHtmlG(geoName(currentGeo))} yet</div>`;
     return;
   }
   if (currentIntelData === null) {

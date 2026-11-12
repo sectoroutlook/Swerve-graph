@@ -5,8 +5,9 @@ Exports per-sector outlook data (forces / viewpoints / market sizing) from
 Supabase into static JSON files for the GitHub Pages graph:
 
     data/<GEO>/<sector_code>.json   one file per sector with data, per geography
-    data/index.json                 per geography: which sector codes have data
-                                    and, per table, the run_id / batch_id used
+    data/index.json                 per geography: name, which sector codes have
+                                    data, latest batch / run date and, per table,
+                                    the run_id / batch_id used
 
 Each data/<GEO>/<code>.json has the same shape export_graph_json.py used to
 write into data/<code>.json (forces / viewpoints / market_sizing / sources),
@@ -15,7 +16,13 @@ plus:
     - "documents": the source documents referenced by this sector's rows
     - on every row: source_doc_id, source_title, source_publisher,
       source_url (from the documents table, where available)
-    - on Europe rows: country_focus (EU / IE / NO / ..., may be null)
+    - country_focus on every row, for geographies where at least one row
+      has it set (today only EU: EU / IE / NO / ..., may be null)
+
+Geographies are not hard-coded: every distinct `geography` value found in the
+three outlook tables is exported, so a new country appears after its first
+run. Names come from the countries table (iso2 -> name), falling back to the
+code; NAME_OVERRIDES changes only how a name is displayed.
 
 "Latest" rule (same as neo4j_populate.py's _latest_run_id): per table, per
 sector_code + geography, only the rows with the newest run_id are used.
@@ -26,9 +33,10 @@ SUPABASE_SERVICE_ROLE_KEY (or SUPABASE_KEY), falling back to a .env file
 written to any output.
 
 Usage:
-    python3 export_outlook_supabase.py                      # all of IN GB EU
-    python3 export_outlook_supabase.py --geographies GB EU
+    python3 export_outlook_supabase.py                      # every geography found
+    python3 export_outlook_supabase.py --geographies GB EU  # only these (index merged)
     python3 export_outlook_supabase.py --dry-run            # counts only
+    python3 export_outlook_supabase.py --out-dir /tmp/x     # write somewhere else
 """
 
 from __future__ import annotations
@@ -48,7 +56,9 @@ DEFAULT_ENV_FILES = [os.path.join(HERE, "..", "neo4j html", ".env"), os.path.joi
 DATA_DIR = os.path.join(HERE, "data")
 PAGE_SIZE = 1000
 
-GEOGRAPHIES = {"IN": "India", "GB": "United Kingdom", "EU": "Europe"}
+# Display names that differ from the countries table. EU is one Europe-wide
+# outlook (Euronext), so it is shown as "Europe" rather than "European Union".
+NAME_OVERRIDES = {"EU": "Europe"}
 TABLES = ("sector_forces", "sector_viewpoints", "sector_market_sizing")
 
 
@@ -117,6 +127,24 @@ def latest_rows(sb: Supabase, table: str, geography: str) -> dict[str, list[dict
     return result
 
 
+def discover_geographies(sb: Supabase) -> list[str]:
+    """Distinct geography values across the three outlook tables."""
+    geos: set[str] = set()
+    for table in TABLES:
+        geos.update(r["geography"] for r in sb.select_all(table, {"select": "geography"}) if r.get("geography"))
+    return sorted(geos)
+
+
+def country_names(sb: Supabase, codes: list[str]) -> dict[str, str]:
+    """iso2 -> display name: NAME_OVERRIDES, else countries.name, else the code."""
+    names = {}
+    if codes:
+        for row in sb.select_all("countries", {"select": "iso2,name", "iso2": "in.(" + ",".join(codes) + ")"}):
+            if row.get("name"):
+                names[row["iso2"]] = row["name"]
+    return {c: NAME_OVERRIDES.get(c) or names.get(c) or c for c in codes}
+
+
 def fetch_documents(sb: Supabase, doc_ids: set[str]) -> dict[str, dict]:
     docs, ids = {}, sorted(doc_ids)
     for i in range(0, len(ids), 100):
@@ -139,7 +167,7 @@ def _float_or_none(v):
     return float(v) if v is not None else None
 
 
-def _with_source(entry: dict, row: dict, docs: dict, geography: str) -> dict:
+def _with_source(entry: dict, row: dict, docs: dict, with_focus: bool) -> dict:
     doc = docs.get(row.get("source_doc_id") or "") or {}
     entry["source_doc_id"] = _str_or_none(row.get("source_doc_id"))
     entry["source_title"] = doc.get("title")
@@ -147,12 +175,12 @@ def _with_source(entry: dict, row: dict, docs: dict, geography: str) -> dict:
     entry["source_url"] = doc.get("url")
     if "source_date" not in entry:
         entry["source_date"] = _str_or_none(doc.get("date"))
-    if geography == "EU":
+    if with_focus:
         entry["country_focus"] = row.get("country_focus")
     return entry
 
 
-def reshape_force(i: int, f: dict, docs: dict, geo: str) -> dict:
+def reshape_force(i: int, f: dict, docs: dict, with_focus: bool) -> dict:
     return _with_source({
         "index": i,
         "title": f.get("title"),
@@ -161,10 +189,10 @@ def reshape_force(i: int, f: dict, docs: dict, geo: str) -> dict:
         "impact_magnitude": f.get("impact_magnitude"),
         "time_horizon": f.get("time_horizon"),
         "as_of_date": _str_or_none(f.get("as_of_date")),
-    }, f, docs, geo)
+    }, f, docs, with_focus)
 
 
-def reshape_viewpoint(i: int, v: dict, docs: dict, geo: str) -> dict:
+def reshape_viewpoint(i: int, v: dict, docs: dict, with_focus: bool) -> dict:
     return _with_source({
         "index": i,
         "title": v.get("viewpoint_title"),
@@ -172,10 +200,10 @@ def reshape_viewpoint(i: int, v: dict, docs: dict, geo: str) -> dict:
         "stance": v.get("stance"),
         "source_firm": v.get("source_firm"),
         "source_date": _str_or_none(v.get("source_date")),
-    }, v, docs, geo)
+    }, v, docs, with_focus)
 
 
-def reshape_sizing(i: int, m: dict, docs: dict, geo: str) -> dict:
+def reshape_sizing(i: int, m: dict, docs: dict, with_focus: bool) -> dict:
     return _with_source({
         "index": i,
         "tam_value": _float_or_none(m.get("tam_value")),
@@ -193,7 +221,7 @@ def reshape_sizing(i: int, m: dict, docs: dict, geo: str) -> dict:
         "source_firm": m.get("source_firm"),
         "source_date": _str_or_none(m.get("source_date")),
         "data_confidence": m.get("data_confidence"),
-    }, m, docs, geo)
+    }, m, docs, with_focus)
 
 
 def collect_sources(viewpoints: list[dict], sizing: list[dict]) -> list[str]:
@@ -208,9 +236,12 @@ def collect_sources(viewpoints: list[dict], sizing: list[dict]) -> list[str]:
 
 # ─── Export ──────────────────────────────────────────────────────────────────
 
-def export_geography(sb: Supabase, geo: str, dry_run: bool) -> dict:
+def export_geography(sb: Supabase, geo: str, dry_run: bool, data_dir: str) -> dict:
     tables = {t: latest_rows(sb, t, geo) for t in TABLES}
     codes = sorted(set().union(*[set(v) for v in tables.values()]))
+    used_rows = [r for t in tables.values() for rows in t.values() for r in rows]
+    # country_focus only where this geography actually uses it (EU today).
+    with_focus = any(r.get("country_focus") for r in used_rows)
 
     doc_ids = {r["source_doc_id"] for t in tables.values() for rows in t.values()
                for r in rows if r.get("source_doc_id")}
@@ -219,7 +250,7 @@ def export_geography(sb: Supabase, geo: str, dry_run: bool) -> dict:
     counts = {"sectors": len(codes), "forces": 0, "viewpoints": 0, "market_sizing": 0,
               "documents_referenced": len(doc_ids), "documents_found": len(docs)}
     index_entries = {}
-    out_dir = os.path.join(DATA_DIR, geo)
+    out_dir = os.path.join(data_dir, geo)
 
     if not dry_run:
         os.makedirs(out_dir, exist_ok=True)
@@ -230,9 +261,9 @@ def export_geography(sb: Supabase, geo: str, dry_run: bool) -> dict:
         f_rows = tables["sector_forces"].get(code, [])
         v_rows = tables["sector_viewpoints"].get(code, [])
         m_rows = tables["sector_market_sizing"].get(code, [])
-        forces = [reshape_force(i, r, docs, geo) for i, r in enumerate(f_rows, 1)]
-        viewpoints = [reshape_viewpoint(i, r, docs, geo) for i, r in enumerate(v_rows, 1)]
-        sizing = [reshape_sizing(i, r, docs, geo) for i, r in enumerate(m_rows, 1)]
+        forces = [reshape_force(i, r, docs, with_focus) for i, r in enumerate(f_rows, 1)]
+        viewpoints = [reshape_viewpoint(i, r, docs, with_focus) for i, r in enumerate(v_rows, 1)]
+        sizing = [reshape_sizing(i, r, docs, with_focus) for i, r in enumerate(m_rows, 1)]
         counts["forces"] += len(forces)
         counts["viewpoints"] += len(viewpoints)
         counts["market_sizing"] += len(sizing)
@@ -268,33 +299,58 @@ def export_geography(sb: Supabase, geo: str, dry_run: bool) -> dict:
         with open(os.path.join(out_dir, f"{code}.json"), "w", encoding="utf-8") as fh:
             json.dump(payload, fh, indent=2, ensure_ascii=False)
 
-    return {"counts": counts, "sectors": index_entries}
+    run_ids = [r["run_id"] for r in used_rows if r.get("run_id")]
+    batch_ids = [r["batch_id"] for r in used_rows if r.get("batch_id")]
+    latest_run = max(run_ids) if run_ids else None
+    return {
+        "counts": counts,
+        "sectors": index_entries,
+        "latest_batch_id": max(batch_ids) if batch_ids else None,
+        # run_id is YYYYMMDD_HHMMSS
+        "latest_run_date": f"{latest_run[:4]}-{latest_run[4:6]}-{latest_run[6:8]}" if latest_run else None,
+    }
 
 
 def main():
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
-    ap.add_argument("--geographies", nargs="+", default=list(GEOGRAPHIES), choices=list(GEOGRAPHIES))
+    ap.add_argument("--geographies", nargs="+", metavar="CODE",
+                    help="only these geography codes (default: every geography found in the outlook tables)")
     ap.add_argument("--dry-run", action="store_true", help="read and count only; write nothing")
+    ap.add_argument("--out-dir", default=DATA_DIR, help="output folder (default: data/ next to this script)")
     ap.add_argument("--env-file", help="path to a .env with SUPABASE_URL / SUPABASE_SERVICE_ROLE_KEY")
     args = ap.parse_args()
 
     sb = Supabase(*_credentials(args.env_file))
+    found = discover_geographies(sb)
+    geos = [g.upper() for g in args.geographies] if args.geographies else found
+    missing = [g for g in geos if g not in found]
+    if missing:
+        print(f"no outlook rows for: {' '.join(missing)} (found: {' '.join(found)})")
+        geos = [g for g in geos if g in found]
+    names = country_names(sb, geos)
 
-    index_path = os.path.join(DATA_DIR, "index.json")
+    # A full export rebuilds the index (countries no longer in Supabase drop
+    # out); a --geographies export merges into the existing one.
+    index_path = os.path.join(args.out_dir, "index.json")
     index = {"geographies": {}}
-    if os.path.isfile(index_path):
+    if args.geographies and os.path.isfile(index_path):
         with open(index_path, encoding="utf-8") as fh:
             index = json.load(fh)
 
-    for geo in args.geographies:
-        result = export_geography(sb, geo, args.dry_run)
+    for geo in geos:
+        result = export_geography(sb, geo, args.dry_run, args.out_dir)
         c = result["counts"]
-        print(f"{geo:3} {GEOGRAPHIES[geo]:15} sectors={c['sectors']:4}  viewpoints={c['viewpoints']:5}  "
+        print(f"{geo:3} {names[geo]:22} sectors={c['sectors']:4}  viewpoints={c['viewpoints']:5}  "
               f"forces={c['forces']:5}  sizing={c['market_sizing']:5}  "
               f"docs={c['documents_found']}/{c['documents_referenced']}")
         batches = sorted({t["batch_id"] for e in result["sectors"].values() for t in e.values() if t["batch_id"]})
         index["geographies"][geo] = {
-            "label": GEOGRAPHIES[geo],
+            "code": geo,
+            "name": names[geo],
+            "label": names[geo],
+            "sector_count": len(result["sectors"]),
+            "latest_batch_id": result["latest_batch_id"],
+            "latest_run_date": result["latest_run_date"],
             "exported_at": datetime.now(timezone.utc).isoformat(),
             "batch_ids": batches,
             "codes": sorted(result["sectors"]),
@@ -305,6 +361,7 @@ def main():
         print("dry run: nothing written")
         return
     index["generated_at"] = datetime.now(timezone.utc).isoformat()
+    os.makedirs(args.out_dir, exist_ok=True)
     with open(index_path, "w", encoding="utf-8") as fh:
         json.dump(index, fh, indent=2, ensure_ascii=False)
     print(f"wrote {index_path}")
